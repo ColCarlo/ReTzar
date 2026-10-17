@@ -1,0 +1,1744 @@
+# Re Artù ed Excalibur (campagna dell'edizione italiana) in portoghese europeo: traduzione di questa versione.
+
+# excalibur e il re artu.wcm
+it: Re Artù ed Excalibur\n\nGiunto il giorno stabilito, mentre tutti pregavano, nel patio della chiesa più imponente di Londra apparve un enorme blocco di marmo e su di esso un'incudine d'acciaio attraversata da una spada. Su di essa erano incise queste parole:\n\n"CHIUNQUE RIESCA A ESTRARRE LA SPADA DA QUESTA ROCCIA E DA QUEST'INCUDINE SARÀ RE D'INGHILTERRA PER DIRITTO DI NASCITA"
+pt: O Rei Artur e Excalibur\n\nChegado o dia marcado, enquanto todos rezavam, no adro da maior igreja de Londres apareceu um enorme bloco de mármore e, sobre ele, uma bigorna de aço atravessada por uma espada. Nela estavam gravadas estas palavras:\n\n«QUEM TIRAR ESTA ESPADA DESTA PEDRA E DESTA BIGORNA SERÁ POR DIREITO DE NASCIMENTO REI DE TODA A INGLATERRA»
+
+# excalibur e il re artu.wcm::maps/1_a merlín y el rey arturo
+it: Merlino e il Re Artù
+pt: Merlim e o Rei Artur
+
+it: Venne annunciato pubblicamente che, dopo il torneo dell'Anno Nuovo, tutti i cavalieri presenti avrebbero potuto cercare di estrarre la spada. Ma tutti i tentativi furono vani finché...
+pt: Foi proclamado que, depois do torneio de Ano Novo, todos os cavaleiros presentes poderiam tentar tirar a espada. Mas todas as tentativas foram vãs até que...
+
+it: Regno 1
+pt: Reino 1
+
+it: Artù
+pt: Artur
+
+it: Regno 2
+pt: Reino 2
+
+it: Popolo
+pt: Povo
+
+it: Regno 3
+pt: Reino 3
+
+it: Cavalieri
+pt: Cavaleiros
+
+it: Porta
+pt: Porta
+
+it: Regno 5
+pt: Reino 5
+
+it: Regno 6
+pt: Reino 6
+
+it: Regno 7
+pt: Reino 7
+
+it: Regno 8
+pt: Reino 8
+
+it: Arcivescovo
+pt: Arcebispo
+
+it: Canterbury
+pt: de Cantuária
+
+it: Sir Hector
+pt: Sir Heitor
+
+it: Spada
+pt: Espada
+
+it: Brigante
+pt: Bandido
+
+it: Al principio del VI secolo d.C., nell'anno 516, re Artù succedeva nella corona d'Inghilterra al padre Uther Pendragon.\n\nMa la storia di quello che diverrà il miglior re d'Inghilterra cominciò alcuni anni prima...\n\nPoco prima della nascita di Artù, suo padre, volendo stipulare un patto per porre fine alle ostilità causate dal duca di Cornovaglia, ordinò al nobile di recarsi a corte con la propria sposa, Igraine.\n\nIl re s'innamorò perdutamente della bella sposa del duca che, non cedendo alle suppliche del sovrano, propose al marito di fuggire nottetempo e di rifugiarsi nel loro castello. Uther Pendragon, umiliato, trovò in questa sfida la scusa perfetta per annientare il duca e appropriarsi delle sue terre, dei suoi vassalli e... della sua sposa. E così dal desiderio si generò la guerra.\n\nVennero combattute battaglie crudelissime, e quanto più era cruenta la guerra tanto più il re rimpiangeva e desiderava Igraine. Disperato, Uther sollecitò l'aiuto del mago Merlino. Grazie alle sue arti magiche il sovrano riuscì ad ingannare Igraine: tre ore dopo che il marito era perito in battaglia, Uther Pendragon, sotto le sembianze del duca, possedette la sua amata.\n\nQuando Igraine seppe di essere rimasta vedova, non ebbe altra possibilità che sottomettersi al volere del re, che finì per prenderla come sposa.\n\nNove mesi dopo quell'inganno nacque un bimbo e giunse il momento in cui il re dovette pagare per la sua lussuria, consegnando a Merlino il frutto della propria passione per Igraine. Merlino affidò a Sir Hector la custodia e l'educazione del neonato che il mago battezzò con un nome che più avanti avrebbe suscitato il terrore fra i suoi nemici, poiché sarebbe stato il re d'Inghilterra più potente di tutti i tempi: Artù.\n\nQuando Artù aveva due anni, il padre morì lasciando il trono vacante. Da quel momento un'epoca buia avvolse i suoi domini. I saccheggi e le distruzioni scacciarono il buon senso e Merlino decise di convocare i cavalieri del regno per Natale sperando che il Signore inviasse un segnale che ponesse fine a tanta pazzia. \n\nGiunto il giorno stabilito, mentre tutti pregavano, apparve nel patio della chiesa più imponente di Londra un enorme blocco di marmo e su di esso un'incudine di acciaio attraversata da una spada. Su di essa erano incise queste parole:\n\n"Chiunque riesca ad estrarre la spada da questa roccia e da quest'incudine sarà re d'Inghilterra per diritto di nascita."\n\nVenne annunciato pubblicamente che, dopo il torneo dell'Anno Nuovo, tutti i cavalieri presenti avrebbero potuto cercare di estrarre la spada. Ma tutti i tentativi furono vani finché...
+pt: No início do século VI, no ano de 516, o rei Artur sucedeu ao pai, Uther Pendragon, no trono de Inglaterra.\n\nMas a história daquele que viria a ser o melhor rei de Inglaterra começou alguns anos antes...\n\nPouco antes do nascimento de Artur, o pai, desejando firmar um pacto que pusesse fim às lutas causadas pelo duque da Cornualha, ordenou ao nobre que viesse à corte com a mulher, Igraine.\n\nO rei apaixonou-se perdidamente pela bela mulher do duque, que, recusando-se a ceder aos rogos do rei, instou o marido a fugir de noite e a refugiar-se no seu castelo. Uther Pendragon, humilhado, encontrou neste desafio a desculpa perfeita para destruir o duque e apoderar-se das suas terras, dos seus vassalos e... da sua mulher. E assim o desejo gerou a guerra.\n\nTravaram-se batalhas crudelíssimas, e quanto mais sangrenta se tornava a guerra, mais o rei desejava Igraine. Desesperado, Uther procurou a ajuda do mago Merlim. Graças às suas artes mágicas, o rei conseguiu enganar Igraine: três horas depois de o marido dela morrer em combate, Uther Pendragon, com a aparência do duque, deitou-se com a sua amada.\n\nQuando Igraine soube que era viúva, não teve outro remédio senão submeter-se à vontade do rei, que acabou por a tomar como esposa.\n\nNove meses depois daquele engano nasceu um menino, e ao rei chegou a hora de pagar pela sua luxúria, entregando a Merlim o fruto da sua paixão por Igraine. Merlim confiou a Sir Heitor a guarda e a criação do recém-nascido, a quem o mago deu um nome que mais tarde faria tremer os seus inimigos, pois seria o rei mais poderoso de Inglaterra de todos os tempos: Artur.\n\nQuando Artur tinha dois anos, o pai morreu e deixou o trono vazio. Desde então caiu sobre as suas terras uma idade das trevas. O saque e a destruição desterraram toda a razão, e Merlim decidiu convocar os cavaleiros do reino pelo Natal, na esperança de que o Senhor enviasse um sinal que pusesse fim a tal loucura.\n\nChegado o dia marcado, enquanto todos rezavam, apareceu no adro da maior igreja de Londres um enorme bloco de mármore e, sobre ele, uma bigorna de aço atravessada por uma espada. Nela estavam gravadas estas palavras:\n\n«Quem tirar esta espada desta pedra e desta bigorna será por direito de nascimento rei de toda a Inglaterra.»\n\nFoi proclamado que, depois do torneio de Ano Novo, todos os cavaleiros presentes poderiam tentar tirar a espada. Mas todas as tentativas foram vãs até que...
+
+it: Artù estrasse la spada che era conficcata in un blocco di pietra nel patio della chiesa.
+pt: Artur tirou a espada cravada num bloco de pedra do adro da igreja.
+
+it: Sir Kay, il fratellastro di Artù, riconobbe la spada non appena l'ebbe impugnata e subito la mostrò al padre. Sir Hector, con i due figli, tornò alla chiesa e chiese ad Artù di rinfilare la spada nella roccia e di estrarla nuovamente, cosa che il ragazzo fece senza alcuna difficoltà.\n\nDi fronte all'evidenza dei fatti il padre ed il fratello s'inchinarono dinanzi ad Artù.\n\nL'Arcivescovo di Canterbury, informato dell'accaduto, diede ordine a tutti i cavalieri di riunirsi. Ognuno di loro tentò, inutilmente di estrarre la spada dalla roccia. Solo Artù riuscì ad impossessarsene senza alcuna difficoltà. I cavalieri del regno tentarono nuovamente l'impresa il giorno di Pentecoste ma, anche in quell'occasione, Artù fu il solo a riuscirci.\n\nE così l'Arcivescovo decise di investire Artù del titolo di cavaliere e poi di quello di re. Ed egli giurò che sarebbe stato un re giusto e leale fino alla fine dei suoi giorni.
+pt: Sir Kay, o irmão adotivo de Artur, reconheceu a espada assim que a teve na mão e mostrou-a logo ao pai. Sir Heitor voltou à igreja com os dois filhos e pediu a Artur que voltasse a meter a espada na pedra e a tirasse de novo, coisa que o rapaz fez sem esforço algum.\n\nPerante a evidência, pai e irmão ajoelharam-se diante de Artur.\n\nO arcebispo de Cantuária, informado do sucedido, ordenou que todos os cavaleiros se reunissem. Cada um deles tentou em vão tirar a espada da pedra. Só Artur a conseguiu tomar sem esforço. Os cavaleiros do reino tentaram de novo no dia de Pentecostes mas, também dessa vez, só Artur o conseguiu.\n\nE assim o arcebispo decidiu armar Artur cavaleiro e depois fazê-lo rei. E Artur jurou que seria um rei justo e leal até ao fim dos seus dias.
+
+it: Porta a tuo fratello Kay una spada, prima che venga squalificato dal torneo
+pt: Leva uma espada ao teu irmão Kay antes que o desqualifiquem do torneio
+
+it: Rimane poco tempo...
+pt: Resta pouco tempo...
+
+it: Artù non giunse in tempo al torneo...
+pt: Artur não chegou a tempo ao torneio...
+
+it: Artù è morto...
+pt: Artur morreu...
+
+it: Corri a dare la spada a tuo fratello Kay.
+pt: Corre a dar a espada ao teu irmão Kay.
+
+it: Espada
+pt: Espada
+
+it: Artù non giunse in tempo al torneo
+pt: Artur não chegou a tempo ao torneio
+
+it: Forza, figli miei, o non arriveremo mai al torneo...
+pt: Vamos, meus filhos, ou nunca chegaremos ao torneio...
+
+it: Ho già 15 anni padre, quando potrò partecipare?
+pt: Já tenho quinze anos, pai. Quando poderei participar?
+
+it: Non affliggerti, quando sarai abbastanza grande potrai farlo, Artù.
+pt: Não te aflijas. Quando tiveres idade, participarás, Artur.
+
+it: Nel frattempo prendi esempio da tuo fratello Kay.
+pt: Entretanto, segue o exemplo do teu irmão Kay.
+
+it: Sì, padre.
+pt: Sim, pai.
+
+it: Spero che quest'anno il Signore mi giudichi degno.
+pt: Espero que o Senhor me ache digno este ano.
+
+it: Benvenuto Sir Hector. Il torneo è appena cominciato. Vostro figlio, Sir Kay, partecipa?
+pt: Bem-vindo, Sir Heitor. O torneio acaba de começar. O vosso filho, Sir Kay, participa?
+
+it: Certo.
+pt: Com certeza.
+
+it: Allora dovrebbe brandire una spada. Il suo turno è dopo questa giostra.
+pt: Então tem de levar uma espada. A vez dele chega depois desta justa.
+
+it: Ho dimenticato a casa la mia spada, padre.
+pt: Deixei a espada em casa, pai.
+
+it: Corri Artù! Vai a cercare una spada. Io devo aiutare tuo fratello ad indossare l'armatura e a prepararsi per il torneo. Se non ritorni prima della fine di questa clessidra tuo fratello sarà squalificato. Non perdere tempo giocando con le mucche!
+pt: Corre, Artur! Vai buscar uma espada. Tenho de ajudar o teu irmão a vestir a armadura e a prepará-lo para o torneio. Se não voltares antes que esta ampulheta se esvazie, desqualificam o teu irmão. Não percas tempo a brincar com as vacas!
+
+it: Sarò rapido come il vento!
+pt: Serei rápido como o vento!
+
+it: La casa è chiusa! Sono tutti a vedere il torneo... e ora dove la trovo una spada? Umm...
+pt: A casa está fechada! Foram todos ver o torneio... e onde é que eu encontro agora uma espada? Hum...
+
+it: Devo assolutamente portargliene una... o qualche scapaccione non me lo leva nessuno. Domanderò a quei taglialegna se possono prestarmene una.
+pt: Tenho de lhe levar uma sem falta... ou não me livro de uma boa sova. Vou perguntar àqueles lenhadores se ma podem emprestar.
+
+it: Per favore, lasciatemi passare.
+pt: Por favor, deixai-me passar.
+
+it: Cosa vuoi, figliolo?
+pt: O que queres, filho?
+
+it: Voglio entrare a prendere la spada.
+pt: Quero entrar para ir buscar a espada.
+
+it: Sono il giardiniere.
+pt: Sou o jardineiro.
+
+it: Mi dispiace, non abbiamo giardini.
+pt: Lamento, não temos jardins.
+
+it: Ah, ah, ah... Prima dovrebbe spuntarti la barba e dovresti vincere il torneo. Tornatene a casa, ragazzo.
+pt: Ah, ah, ah... Primeiro deixa crescer a barba e ganha o torneio. Volta para casa, rapaz.
+
+it: Vengo a pregare.
+pt: Vim rezar.
+
+it: In questo caso passa pure, figlio mio.
+pt: Nesse caso, entra, meu filho.
+
+it: Spero che mio fratello non si accorga che non si tratta della sua spada.
+pt: Espero que o meu irmão não repare que não é a espada dele.
+
+it: Guardate questo ragazzo... Ha estratto la spada!
+pt: Olhai para este rapaz... Tirou a espada!
+
+it: Scusatemi. Potreste prestarmi una spada?
+pt: Perdoai. Podíeis emprestar-me uma espada?
+
+it: Ah, ah, ah... Ragazzo, ci hai presi per dei guerrieri? Siamo semplici taglialegna.
+pt: Ah, ah, ah... Rapaz, achas que somos guerreiros? Somos simples lenhadores.
+
+it: Ah, ah, ah! L'unica spada disponibile si trova nel patio della chiesa.
+pt: Ah, ah, ah! A única espada que se pode conseguir está no adro da igreja.
+
+it: Chiaramente bisogna vedere se il clero ti lascerà passare... Devi dir loro che vai a pregare... e di certo ti spalancheranno le porte. Ma non ti risulterà così facile impossessarti della spada, ragazzo. Ah, ah, ah!
+pt: Claro, veremos se o clero te deixa passar... Tens de lhes dizer que vieste rezar... e de certeza que te abrem as portas de par em par. Mas não será assim tão fácil apoderares-te da espada, rapaz. Ah, ah, ah!
+
+it: Grazie.
+pt: Obrigado.
+
+it: Briganti!
+pt: Bandidos!
+
+it: Addosso!
+pt: Atrás deles!
+
+it: Ho la forza per affrontarli...
+pt: Tenho forças para os enfrentar...
+
+# excalibur e il re artu.wcm::maps/1_b merlín y el rey arturo b
+it: Merlino e il Re Artù 2
+pt: Merlim e o Rei Artur 2
+
+it: Fedeli
+pt: Leais
+
+it: Ribelli
+pt: Rebeldes
+
+it: Abitanti
+pt: Vizinhos
+
+it: Merlino
+pt: Merlim
+
+it: Nobili ribelli
+pt: Nobres rebeldes
+
+it: Re
+pt: Rei
+
+it: Mago
+pt: Mago
+
+it: Arcivescovo di Canterbury
+pt: Arcebispo de Cantuária
+
+it: Generale
+pt: General
+
+it: La Torre
+pt: A Torre
+
+it: Sir Bawdewyn
+pt: Sir Baudwin
+
+it: Re di Scozia
+pt: Rei da Escócia
+
+it: Re Lot
+pt: Rei Lot
+
+it: Re di Carados
+pt: Rei Carados
+
+it: Re Nentres
+pt: Rei Nentres
+
+it: Duca Estance
+pt: Duque Estance
+
+it: Re dei Cento Cavalieri
+pt: Rei dos Cem Cavaleiros
+
+it: Pozione di vita
+pt: Poção de vida
+
+it: Pozione di forza
+pt: Poção de força
+
+it: Un brivido ti corre lungo la schiena...
+pt: Um arrepio percorre-te as costas...
+
+it: MERLINO E IL RE ARTÙ\n\nDopo aver cercato di organizzare il proprio governo e aver imposto la pace e l'ordine, Artù con i suoi cavalieri si trasferì in Galles, nella città di Caerlon, per essere ufficialmente incoronato.\n\nMa mentre accadeva tutto questo, un gruppo di re e cavalieri, fra i quali il re Lot di Lothian e Orkney, il re di Scozia, il re di Carados e il re dei Cento Cavalieri, non essendo a conoscenza delle vere origini di Artù, cospiravano per destituirlo. Questi nobili signori si radunarono a Caerleon per manifestare la propria contrarietà al fatto che un uomo senza lignaggio e nobiltà di sangue reggesse la corona d'Inghilterra.\n\nSu consiglio di Merlino, Artù cercò di parlare con loro ma non venne ascoltato. Lo stesso mago cercò di dissuaderli ma nessuno gli diede retta... Di fronte ad una tale minaccia Artù riunì i suoi più fedeli cavalieri, armati e approvvigionati, e decise di affrontare l'imminente offensiva appostandosi in una torre fortificata.\n\nA quel punto i signori ribelli cominciarono l'assedio alla torre...
+pt: MERLIM E O REI ARTUR\n\nDepois de tentar consolidar o seu reinado e impor a paz e a ordem, Artur partiu com os seus cavaleiros para Gales, para a cidade de Caerleon, a fim de ser coroado como deve ser.\n\nMas enquanto tudo isto acontecia, um grupo de reis e cavaleiros, entre os quais o rei Lot de Lothian e das Órcades, o rei da Escócia, o rei Carados e o rei dos Cem Cavaleiros, que nada sabiam do verdadeiro nascimento de Artur, conspiravam para o derrubar. Estes nobres senhores reuniram-se em Caerleon para mostrar o seu desagrado por um homem sem linhagem nem sangue nobre usar a coroa de Inglaterra.\n\nPor conselho de Merlim, Artur tentou falar com eles, mas não foi ouvido. O próprio mago tentou dissuadi-los, mas ninguém lhe deu ouvidos... Perante semelhante ameaça, Artur reuniu os seus cavaleiros mais leais, armados e abastecidos, e decidiu fazer frente à investida a partir de uma torre fortificada.\n\nNesse momento os senhores rebeldes começaram o cerco da torre...
+
+it: Hanno assassinato l'Arcivescovo... Senza lui la causa è perduta.
+pt: Assassinaram o arcebispo... Sem ele, a causa está perdida.
+
+it: Hanno atterrato uno dei tuoi generali... Le tue truppe fuggono terrorizzate.
+pt: Abateram um dos teus generais... As tuas tropas fogem aterrorizadas.
+
+it: I ribelli non devono occupare la Torre.
+pt: Os rebeldes não podem tomar a Torre.
+
+it: Hanno occupato la Torre... Tutto è perduto.
+pt: Tomaram a Torre... Está tudo perdido.
+
+it: Nel frattempo, nell'accampamento nemico...
+pt: Entretanto, no acampamento inimigo...
+
+it: Il nemico si ritira per preparare l'attacco finale...\n\nSe non accade un miracolo, siamo perduti.
+pt: O inimigo retira-se para preparar o assalto final...\n\nSe não acontecer um milagre, estamos perdidos.
+
+it: Retirada
+pt: Retirada
+
+it: Finalmente si decisero ad ascoltare Artù che uscì scortato ma quando andò incontro ai signori ribelli, da entrambe le parti si levarono parole forti e irate e non si raggiunse un accordo...
+pt: Por fim aceitaram ouvir Artur, que saiu com escolta; mas quando se reuniu com os senhores rebeldes, surgiram palavras duras e irritadas de ambas as partes e não se chegou a acordo nenhum...
+
+it: Gli abitanti di Caerleon si sono uniti alla nostra causa armati di bastoni e randelli.
+pt: Os habitantes de Caerleon juntaram-se à nossa causa, armados com paus e cacetes.
+
+it: Mentre i nemici fuggivano, Merlino apparve ad Artù e gli consigliò di non inseguirli perché i suoi uomini erano pochi e stanchi.\n\nTornato a Londra, Artù convocò un Consiglio Generale nel corso del quale Merlino predisse che i sei signori ribelli ancora liberi avrebbero proseguito la guerra in modo sporadico. Cosa conveniva fare? Sarebbe stata una decisione del re, che però avrebbe potuto contare sulla forza e la lealtà dei suoi cavalieri.
+pt: Enquanto os inimigos fugiam, Merlim apareceu a Artur e aconselhou-o a não os perseguir, pois os seus homens eram poucos e estavam cansados.\n\nDe volta a Londres, Artur convocou um Conselho Geral, no qual Merlim predisse que os seis senhores rebeldes que ainda estavam livres continuariam a guerra aqui e ali. O que se devia fazer? A decisão seria do rei, mas ele podia contar com a força e a lealdade dos seus cavaleiros.
+
+it: Attacca i nobili ribelli.
+pt: Ataca os nobres rebeldes.
+
+it: Proteggi il tuo esercito dal fuoco nemico all'interno della Torre.
+pt: Põe o teu exército a salvo do fogo inimigo dentro da Torre.
+
+it: Utilizza le tue macchine d'assedio contro le forze nemiche.
+pt: Usa as tuas máquinas de cerco contra as forças inimigas.
+
+it: Artù, Merlino, Sir Hector, Sir Kay, Sir Bawdewyn, Sir Brastias e l'Arcivescovo di Canterbury devono sopravvivere.
+pt: Artur, Merlim, Sir Heitor, Sir Kay, Sir Baudwin, Sir Brastias e o arcebispo de Cantuária têm de sobreviver.
+
+it: Hanno decimato i tuoi uomini...! Devi claudicare.
+pt: Dizimaram os teus homens...! Tens de te render.
+
+it: Hai annientato le masnade ribelli.
+pt: Aniquilaste os bandos rebeldes.
+
+it: Hanno ucciso tutti gli abitanti di Caerleon.
+pt: Mataram todos os habitantes de Caerleon.
+
+it: Merlino è morto. Che disgrazia! Devi claudicare.
+pt: Merlim morreu. Que desastre! Tens de te render.
+
+it: Re Artù giace colpito a morte. Camelot non vedrà più la luce.
+pt: O rei Artur jaz ferido de morte. Camelot nunca verá a luz.
+
+it: I nobili ribelli fuggono da codardi, per evitare di farsi annientare.
+pt: Os nobres rebeldes fogem como cobardes para não serem aniquilados.
+
+it: Non toccate il mio tesoro o pagherete con la vita.
+pt: Não toqueis no meu tesouro ou pagá-lo-eis com a vida.
+
+it: Siamo assediati e il nemico si accinge ad attaccare. Presto! Riparate la porta a sud che è danneggiata.\n\nDobbiamo impedire che prendano la torre!
+pt: Estamos cercados e o inimigo está prestes a atacar. Depressa! Reparai a porta sul, que está danificada.\n\nÉ preciso impedir que tomem a torre!
+
+it: Sì, Maestà.
+pt: Sim, Majestade.
+
+it: Che Dio ci dia la forza per distruggere il nemico.
+pt: Que Deus nos dê forças para destruir o inimigo.
+
+it: Veloci! Impugnate le armi! Il nemico ci attacca.
+pt: Depressa! Pegai nas armas! O inimigo ataca-nos.
+
+it: Maestà, se doveste trovarvi in pericolo, non esitate ad utilizzare la spada di Uther.
+pt: Majestade, se vos virdes em perigo, não hesiteis em usar a espada de Uther.
+
+it: Qualcuno dovrebbe andare alla ricerca dell'esercito che ho inviato a sud-est per richiamarlo.
+pt: Alguém devia ir buscar o exército que enviei para sudeste e fazê-lo voltar.
+
+it: Merlino, tu che sei un uomo saggio, dicci: perché questo ragazzino imberbe e senza lignaggio ha occupato il trono d'Inghilterra?
+pt: Merlim, tu que és um sábio, diz-nos: porque é que este fedelho imberbe e sem linhagem ocupou o trono de Inglaterra?
+
+it: Signori miei, vi dirò qual è la ragione. Artù è il figlio di re Uther Pendragon, nato da Igraine, un tempo sposa del duca di Tintagel, e per questo è destinato ad essere il re d'Inghilterra.
+pt: Senhores, dir-vos-ei a razão. Artur é filho do rei Uther Pendragon, nascido de Igraine, outrora mulher do duque de Tintagel, e por isso está destinado a ser rei de Inglaterra.
+
+it: In questo caso Artù è un illegittimo e come tale non può sedere sul trono.
+pt: Nesse caso, Artur é um bastardo, e como tal não se pode sentar no trono.
+
+it: I beni che offriremo ad Artù saranno la spada e la guerra.
+pt: Os presentes que ofereceremos a Artur serão a espada e a guerra.
+
+it: È vergognoso che una terra tanto nobile sia nelle mani di un moccioso senza nobiltà.
+pt: É uma vergonha que uma terra tão nobre esteja nas mãos de um fedelho sem nobreza.
+
+it: Quanto dite non corrisponde al vero. Artù è stato concepito tre ore dopo la morte del duca, e tredici giorni dopo Uther sposò Igraine, che divenne regina. Pertanto Artù è frutto del loro matrimonio e non è un bastardo come volete sostenere.
+pt: O que dizeis não é verdade. Artur foi gerado três horas depois da morte do duque, e treze dias mais tarde Uther casou com Igraine, que se tornou rainha. Portanto, Artur é fruto do seu casamento, e não um bastardo como pretendeis.
+
+it: Bah... sei uno stregone e un ciarlatano.
+pt: Bah... és um feiticeiro e um charlatão.
+
+it: Vi annuncio che nonostante il vostro dissenso, o quello di chiunque altro, Artù è il legittimo re, annienterà i suoi nemici e regnerà a lungo sull'Inghilterra, l'Irlanda, la Scozia e il Galles, così come su altri regni che non mi prenderò nemmeno il disturbo di nominare.
+pt: Digo-vos que, apesar do vosso desacordo ou do de quem quer que seja, Artur é o rei legítimo. Esmagará os seus inimigos e reinará longamente sobre Inglaterra, Irlanda, Escócia e Gales, além de outros reinos que nem me darei ao trabalho de nomear.
+
+it: Non siamo il genere di uomini che si lascia intimorire dalle ingannevoli parole di un indovino.
+pt: Não somos homens que se assustem com as palavras enganadoras de um adivinho.
+
+it: Mio signore, attacca subito e con forza i nobili mentre sono impreparati e disorganizzati. Inoltre, alcuni cavalieri hanno abbandonato i ribelli e hanno abbracciato la nostra causa. Li incontrerai a sud. Io ti aiuterò con la mia magia.
+pt: Meu senhor, atacai os nobres de imediato e com dureza, enquanto estão desprevenidos e desordenados. Além disso, alguns cavaleiros deixaram os rebeldes e juntaram-se à nossa causa. Encontrá-los-eis a sul. Ajudar-vos-ei com a minha magia.
+
+it: Piomberemo su di loro menando colpi a destra e a manca.
+pt: Cairemos sobre eles, golpeando a torto e a direito.
+
+it: Se attacchiamo i loro capi, vinceremo la battaglia.
+pt: Se atacarmos os seus chefes, ganharemos a batalha.
+
+# excalibur e il re artu.wcm::maps/2 los nobles rebeldes
+it: I nobili ribelli
+pt: Os nobres rebeldes
+
+it: Eroi
+pt: Heróis
+
+it: Nobili
+pt: Nobres
+
+it: Esploratori
+pt: Batedores
+
+it: Re di
+pt: Rei da
+
+it: Scozia
+pt: Escócia
+
+it: Irlanda
+pt: Irlanda
+
+it: Cradilment
+pt: Cradelmas
+
+it: Uryens
+pt: Urien
+
+it: Re dei
+pt: Rei dos
+
+it: Cento
+pt: Cem
+
+it: Clarivaus
+pt: Clariance
+
+it: Duca di
+pt: Duque de
+
+it: Lyonse
+pt: Lionses
+
+it: Gryfflet
+pt: Griflet
+
+it: Bawdewyn
+pt: Baudwin
+
+it: Hector
+pt: Heitor
+
+it: Il mago
+pt: O mago
+
+it: Lucas
+pt: Lucan
+
+it: I NOBILI RIBELLI\n\nDopo essersi ripresi dalla sconfitta, i nemici di Artù avevano accresciuto considerevolmente le loro forze grazie ad accordi e coalizioni con altri nobili che, come loro, non vedevano di buon occhio il giovane re.\n\nDi fronte a questa pericolosa situazione, Merlino consigliò ad Artù di chiedere aiuto a due re francesi: Ban de Benwick e Bors di Gallia, scrivendo loro delle lettere che sarebbero state consegnate personalmente da due dei migliori cavalieri di Artù.\n\nRicevuta la richiesta d'intervento, entrambi i sovrani promisero di intervenire con un numeroso esercito prima del giorno di Ognissanti, con la promessa che Artù, in caso di loro bisogno, avrebbe ricambiato il favore. Così avvenne e, in occasione del loro arrivo, il re d'Inghilterra organizzò giostre e tornei per festeggiarli.\n\nAl termine dei festeggiamenti, una notte, i tre re si riunirono e stabilirono, fra le altre cose, che Merlino si sarebbe recato in Francia per reclutare un esercito da condurre a nord dell'Inghilterra.\n\nIn gran segreto Merlino riunì diecimila cavalieri che imbarcò con i loro destrieri alla volta dell'Inghilterra. Lui stesso li fece nascondere nel bosco di Bedgrayne ed informò Artù, che ne fu molto compiaciuto e con lui i due re francesi. Poi si diressero tutti verso l'accampamento segreto in cui stanziava questo imponente esercito.\n\nNel frattempo i ribelli del nord si prepararono alla guerra mettendo sotto assedio un castello nelle vicinanze del bosco di Bedgrayne. Poco dopo il grosso dell'esercito ribelle marciava verso l'accampamento di Artù...
+pt: OS NOBRES REBELDES\n\nDepois de recuperados da derrota, os inimigos de Artur tinham aumentado muito as suas forças graças a pactos e alianças com outros nobres que, como eles, não viam com bons olhos o jovem rei.\n\nPerante esta perigosa situação, Merlim aconselhou Artur a pedir ajuda a dois reis franceses, Ban de Benwick e Bors da Gália, escrevendo-lhes cartas que dois dos melhores cavaleiros de Artur entregariam em pessoa.\n\nAo receberem o pedido de ajuda, ambos os reis prometeram vir com um grande exército antes do dia de Todos os Santos, com a promessa de que Artur lhes retribuiria o favor se precisassem. Assim aconteceu, e à sua chegada o rei de Inglaterra organizou justas e torneios em sua honra.\n\nTerminadas as festas, numa noite, os três reis reuniram-se e acordaram, entre outras coisas, que Merlim iria a França recrutar um exército e o levaria para o norte de Inglaterra.\n\nNo maior segredo, Merlim reuniu dez mil cavaleiros e embarcou-os com os seus corcéis rumo a Inglaterra. Ele próprio os escondeu na floresta de Bedegraine e avisou Artur, que ficou muito satisfeito, e com ele os dois reis franceses. Depois partiram todos para o acampamento secreto onde se encontrava este poderoso exército.\n\nEntretanto, os rebeldes do norte preparavam-se para a guerra cercando um castelo perto da floresta de Bedegraine. Pouco depois, o grosso do exército rebelde marchava sobre o acampamento de Artur...
+
+it: Nell'accampamento nemico...
+pt: No acampamento inimigo...
+
+it: Nel frattempo, nell'accampamento di Artù...
+pt: Entretanto, no acampamento de Artur...
+
+it: A est, nascosti nel bosco...
+pt: A leste, escondidos na floresta...
+
+it: Ugualmente nascosti, al margine ovest del bosco...
+pt: Também escondidos, na orla oeste da floresta...
+
+it: Trova e distruggi gli esploratori dei ribelli, e inganna l'esercito nemico perché si diriga verso la gola.
+pt: Encontra e destrói os batedores rebeldes, e atrai com ardis o exército inimigo para o desfiladeiro.
+
+it: Artù, Merlino, Sir Kay, l'Arcivescovo di Canterbury, re Ban, re Bors e Sir Gryfflet devono sopravvivere alla battaglia.
+pt: Artur, Merlim, Sir Kay, o arcebispo de Cantuária, o rei Ban, o rei Bors e Sir Griflet têm de sobreviver à batalha.
+
+it: Se attacchiamo brevemente e poi ci ritiriamo a Sud, il nemico ci seguirà...
+pt: Se atacarmos por um momento e depois recuarmos para sul, o inimigo seguir-nos-á...
+
+it: Annienta il nemico.
+pt: Aniquila o inimigo.
+
+it: Quando Artù venne informato che re Royns del Galles del Nord aveva attaccato re Lodegrange di Camylarde, suo amico, si dispose a portargli aiuto partendo per quelle terre, sconfiggendo al suo passaggio le forze di Royns e liberando re Lodegrange, padre di Ginevra. Dopo questa vittoria i re francesi, che stavano difendendo Benwick dal re Caludas ripresero il cammino verso le proprie terre e Artù tornò a Caerleon.\n\nQueste gesta vennero cantate a lungo dai menestrelli, e le loro narrazioni sarebbero restate immutate se una spia non si fosse introdotta a corte. Con la scusa di consegnare un messaggio Margawse, sposa del Re Lot, rimase per un certo periodo a Caerlon spiando il Re. Artù non sapeva che questa bella donna era per metà sua sorella e peccò corteggiandola e facendole avere un figlio che secondo le profezie di Merlino sarebbe stato la sua rovina.\n\nIntimorito dalla profezia di Merlino, Artù ordinò di imbarcare su una nave tutti i bimbi maschi nati il primo di maggio. Il destino però fece cambiare il vento e la nave naufragò contro una scogliera. Fu una carneficina ma, in mezzo al fragore delle onde, un uomo che si trovava sulla spiaggia, sentì il pianto di un bimbo, l'unico sopravvissuto. Galleggiando su una tavola, quell'infante, poi chiamato Mordred, avrebbe cambiato il corso degli eventi.
+pt: Quando Artur soube que o rei Rience do norte de Gales tinha atacado o seu amigo, o rei Leodegrance de Cameliard, preparou-se para o socorrer e partiu para aquelas terras, derrotando pelo caminho as forças de Rience e libertando o rei Leodegrance, o pai de Genebra. Depois desta vitória, os reis franceses, que defendiam Benwick contra o rei Claudas, empreenderam o regresso às suas terras, e Artur voltou a Caerleon.\n\nOs jograis cantaram longamente estas façanhas, e os seus relatos teriam ficado inalterados se uma espia não se tivesse infiltrado na corte. Com o pretexto de trazer uma mensagem, Morgause, a mulher do rei Lot, ficou algum tempo em Caerleon a espiar o rei. Artur não sabia que aquela bela mulher era sua meia-irmã, e pecou cortejando-a e dando-lhe um filho que, segundo as profecias de Merlim, seria a sua perdição.\n\nAssustado com a profecia de Merlim, Artur mandou embarcar num navio todas as crianças nascidas no primeiro dia de maio. Mas o destino fez mudar o vento, e o navio naufragou contra um recife. Foi uma matança, mas, entre o estrondo das ondas, um homem na praia ouviu o choro de uma criança, a única sobrevivente. A flutuar sobre uma tábua, aquele recém-nascido, mais tarde chamado Mordred, mudaria o curso dos acontecimentos.
+
+it: Artù ritiene che sia ora che i francesi entrino in battaglia e ha inviato due messaggeri. Attendono i tuoi ordini...
+pt: Artur acha que chegou a hora de os francos entrarem na batalha e enviou dois mensageiros. Aguardam as suas ordens...
+
+it: Francos
+pt: Francos
+
+it: Dall'altra parte del fiumiciattolo c'è una città
+pt: Do outro lado do ribeiro há uma
+
+it: fantasma dimenticata da tempo. I suoi abitanti si sono destati.
+pt: cidade fantasma, esquecida há muito tempo. Os seus habitantes despertaram.
+
+it: A nord-est del bosco un drago difende gelosamente un tesoro.
+pt: A nordeste da floresta, um dragão guarda zelosamente um tesouro.
+
+it: Questi vampiri a nord-est del bosco devono aver annientato un intero esercito.
+pt: Estes vampiros do nordeste da floresta devem ter aniquilado um exército inteiro.
+
+it: Questi golem a sud-est del bosco devono aver imprigionato questo arciere in una gabbia.
+pt: Estes golems do sudeste da floresta devem ter fechado este arqueiro numa jaula.
+
+it: Gli strapparono il suo arco magico.
+pt: Arrebataram-lhe o seu arco mágico.
+
+it: Re Artù è morto... e con lui tutte le nostre speranze.
+pt: O rei Artur morreu... e com ele todas as nossas esperanças.
+
+it: Merlino è morto. Che digrazia!
+pt: Merlim morreu. Que desastre!
+
+it: L'Arcivescovo giace inerte. Tutto è perduto.
+pt: O arcebispo jaz sem vida. Está tudo perdido.
+
+it: Sir Kay è morto in battaglia. È un duro colpo per Artù.
+pt: Sir Kay morreu em combate. É um duro golpe para Artur.
+
+it: Re Ban è morto... La notizia si diffonderà per tutto il mondo conosciuto.
+pt: O rei Ban morreu... A notícia espalhar-se-á por todo o mundo conhecido.
+
+it: Sir Bors è morto. Che disgrazia!
+pt: Sir Bors morreu. Que desastre!
+
+it: Sir Gryfflet è morto.
+pt: Sir Griflet morreu.
+
+it: Sir Lyonse è caduto in battaglia.
+pt: Sir Lionses caiu em combate.
+
+it: Sir Phariance è caduto in battaglia.
+pt: Sir Phariance caiu em combate.
+
+it: Sir Ladinas è caduto in battaglia.
+pt: Sir Ladinas caiu em combate.
+
+it: Sir Hector è caduto in battaglia.
+pt: Sir Heitor caiu em combate.
+
+it: Sir Ulfius è caduto in battaglia.
+pt: Sir Ulfius caiu em combate.
+
+it: Sir Bawdewyn è caduto in battaglia.
+pt: Sir Baudwin caiu em combate.
+
+it: Sir Kaynes è caduto in battaglia.
+pt: Sir Kaynes caiu em combate.
+
+it: Sir Brastias è caduto in battaglia.
+pt: Sir Brastias caiu em combate.
+
+it: Sir Lucas è caduto in battaglia.
+pt: Sir Lucan caiu em combate.
+
+it: Entrata alla gola di Roughen
+pt: Entrada do desfiladeiro de Roughen
+
+it: I nostri uomini sono stati annientati, tutto è perduto.
+pt: Os nossos homens foram aniquilados; está tudo perdido.
+
+it: Le masnade ribelli sono state annientate.
+pt: Os bandos rebeldes foram aniquilados.
+
+it: I cavalieri di Ban sono morti in battaglia.
+pt: Os cavaleiros de Ban morreram em combate.
+
+it: I cavalieri di Bors sono morti in battaglia.
+pt: Os cavaleiros de Bors morreram em combate.
+
+it: Hanno catturato tutti gli esploratori.
+pt: Capturaram todos os batedores.
+
+it: Bene signori, abbiamo assediato il castello che abbiamo incontrato ieri ma dobbiamo avanzare giacché l'esercito di Artù si trova a sud, in questo bosco.
+pt: Bem, senhores, cercámos o castelo com que demos ontem, mas temos de seguir em frente, porque o exército de Artur está a sul, nesta floresta.
+
+it: Io attaccherei il prima possibile.
+pt: Eu atacaria quanto antes.
+
+it: Sì, questo moccioso non si aspetta un attacco. Sicuramente pensa che lo attenderemo nel castello.
+pt: Sim, esse fedelho não espera um ataque. De certeza que julga que o esperaremos no castelo.
+
+it: Dobbiamo muoverci con cautela, forse sarebbe meglio attaccare da est, c'è più spazio e non avremmo problemi a schierare il nostro esercito in caso ci imbattessimo nella masnada dell'imberbe Artù.
+pt: Temos de avançar com cautela. Talvez fosse melhor atacar pelo leste: há mais espaço, e não nos custaria desdobrar o nosso exército se déssemos com o bando desse Artur imberbe.
+
+it: Sempre meglio che proseguire per questa gola.
+pt: Melhor do que seguir por este desfiladeiro, em todo o caso.
+
+it: Certo. Questo capraio potrebbe tenderci una trappola.
+pt: Com certeza. Esse pastor de cabras podia armar-nos uma cilada.
+
+it: Sarebbe meglio allestire anche un piccolo accampamento, si sta facendo notte e le vecchie del posto dicono che il bosco è incantato.
+pt: Também seria melhor montar um pequeno acampamento. Cai a noite, e as velhas do lugar dizem que a floresta está encantada.
+
+it: Il re di Carados ha forse paura? Ah, ah, ah.
+pt: Será que o rei de Carados tem medo? Ah, ah, ah.
+
+it: Non ho affatto paura, e se continuate a burlarvi di me...
+pt: Não tenho medo nenhum, e se continuas a troçar de mim...
+
+it: Calmi signori. Siamo tutti dalla stessa parte.
+pt: Calma, senhores. Estamos todos do mesmo lado.
+
+it: Giusto, ciononostante ho inviato degli esploratori verso sud.
+pt: Bem. Ainda assim, enviei batedores para sul.
+
+it: Speriamo che non tardino a portarci notizie. Che Dio ci protegga.
+pt: Esperemos que não tardem a trazer-nos notícias. Que Deus nos proteja.
+
+it: Bene, signori...\n\ndicci tutto Merlino.
+pt: Bem, senhores...\n\nconta-nos tudo, Merlim.
+
+it: Il nemico si trova alla fine della gola che si trova a nord. Un attacco veloce al loro accampamento sarebbe la mossa migliore.
+pt: O inimigo está no fim do desfiladeiro, a norte. Um ataque rápido contra o seu acampamento seria o melhor.
+
+it: I nostri informatori ci dicono che sono superiori per numero.
+pt: Os nossos informadores dizem que nos superam em número.
+
+it: Ma non per bravura.
+pt: Mas não em valor.
+
+it: Forse sarebbe meglio farli procedere nella gola, in questo modo il loro numero non sarebbe più uno svantaggio per noi. Se ci attaccano da est siamo perduti.
+pt: Talvez fosse melhor atraí-los para o desfiladeiro; assim o seu número deixaria de ser uma vantagem sobre nós. Se nos atacarem pelo leste, estamos perdidos.
+
+it: Si sta facendo notte...
+pt: Cai a noite...
+
+it: Allora sarà meglio attaccare il prima possibile, quando ancora sono stanchi per la marcia che hanno dovuto compiere.
+pt: Então o melhor seria atacar quanto antes, enquanto ainda estão cansados da marcha que tiveram de fazer.
+
+it: Sì... e obbligarli a discendere lungo la gola. Ma come possiamo farlo?
+pt: Sim... e obrigá-los a descer pelo desfiladeiro. Mas como o conseguiremos?
+
+it: Se li provochiamo da dentro la gola, sicuramente la loro sete di sangue gli offuscherà la mente.
+pt: Se os provocarmos de dentro do desfiladeiro, a sua sede de sangue turvar-lhes-á sem dúvida o juízo.
+
+it: Sarebbe bene se riuscissimo a catturare i loro esploratori. Probabilmente stanno già venendo qui. Secondo quanto mi è stato riferito si tratta di un piccolo gruppo a cavallo e si trovano nella valle.
+pt: Seria bom capturar os seus batedores. Provavelmente já vêm para aqui. Pelo que me disseram, são um pequeno grupo a cavalo e estão no vale.
+
+it: Allora attacchiamoli.
+pt: Então ataquemo-los.
+
+it: Fate attenzione, se per disgrazia il nemico fosse più forte di quanto pensassimo, sarebbe più sensato creare un piccolo accampamento sull'altra sponda del fiume, dove abbondano le risorse. Siate cauti, i racconti dei trovatori narrano che il bosco di Bedgrayne è incantato. Quali pericoli ci attenderanno?
+pt: Tende cuidado: se por infelicidade o inimigo fosse mais forte do que pensamos, seria mais prudente montar um pequeno acampamento na outra margem do rio, onde abundam os recursos. Sede precavidos; os relatos dos trovadores contam que a floresta de Bedegraine está encantada. Que perigos nos aguardarão?
+
+it: Il nostro arcivescovo veglia sempre per la nostra salute e inoltre i nostri amici Galli attendono nascosti fra i due boschi. Al nostro segnale attaccheranno...
+pt: O nosso arcebispo vela sempre pela nossa saúde e, além disso, os nossos amigos da Gália esperam escondidos entre as duas florestas. Ao nosso sinal atacarão...
+
+it: Che nessuno attacchi senza un mio segnale.
+pt: Que ninguém ataque sem o meu sinal.
+
+it: Vediamo se questi inglesi sanno maneggiare le armi.
+pt: Vejamos se estes ingleses sabem manejar as suas armas.
+
+it: In cosa consiste lo stratagemma di Artù, Maestà?
+pt: Qual é o estratagema de Artur, Majestade?
+
+it: Nel far credere al nemico che Artù può contare solo sulle sue truppe. Non appena loro avranno provocato il nemico e avranno attaccato in valle, noi attaccheremo su segnale di Artù.
+pt: Fazer o inimigo acreditar que Artur só conta com as suas próprias tropas. Assim que tiverem provocado o inimigo e atacado no vale, atacaremos ao sinal de Artur.
+
+it: Che Dio ci dia la forza per combattere.
+pt: Que Deus nos dê forças para lutar.
+
+it: Non intendi fermarti? Non ne hai abbastanza? È ora di porre fine a questa carneficina. I signori ribelli hanno giurato di non lasciare il campo di battaglia vivi.
+pt: Não ides parar? Ainda não tivestes que chegue? É hora de acabar com esta matança. Os senhores rebeldes juraram não abandonar vivos o campo de batalha.
+
+it: Sono d'accordo Merlino.
+pt: Concordo, Merlim.
+
+it: Li distruggerò ora.
+pt: Vou destruí-los agora mesmo.
+
+it: Mi ritirerò dal campo di battaglia appena possibile e lascerò riposare i miei uomini. Mai prima d'ora così pochi uomini hanno realizzato tante prodezze contro un nemico così potente.
+pt: Retirar-me-ei do campo de batalha assim que puder e deixarei descansar os meus homens. Nunca antes tão poucos homens tinham conseguido tais façanhas contra um inimigo tão poderoso.
+
+it: Ti assicuro che per tre anni questo nemico non ci darà fastidio. Questi undici signori hanno, nei loro territori, più problemi di quanti immaginino. Alcuni saraceni sono sbarcati sulle loro coste saccheggiando e incendiando le loro terre e uccidendo la popolazione. Torniamo a casa...
+pt: Garanto-vos que este inimigo não nos incomodará durante três anos. Estes onze senhores têm nas suas próprias terras mais problemas do que imaginam. Uns sarracenos desembarcaram nas suas costas, saqueando e queimando as suas terras e matando as pessoas. Voltemos para casa...
+
+# excalibur e il re artu.wcm::maps/3_a el poder de excalibur
+it: Il potere di Excalibur
+pt: O poder de Excalibur
+
+it: Artù e Merlino
+pt: Artur e Merlim
+
+it: Malviventi
+pt: Foras da lei
+
+it: Regno 4
+pt: Reino 4
+
+it: Stregato
+pt: Enfeitiçados
+
+it: Mostri
+pt: Monstros
+
+it: Dama
+pt: Dama
+
+it: del Lago
+pt: do Lago
+
+it: Vascello
+pt: Navio
+
+it: Contadino
+pt: Camponês
+
+it: Un giorno Artù, passeggiando per un bosco nei dintorni di Camelot...
+pt: Um dia, Artur, passeando por uma floresta perto de Camelot...
+
+it: La spada di Artù si spezzò in due ed egli venne disarcionato.
+pt: A espada de Artur partiu-se em duas e ele caiu do cavalo.
+
+it: Merlino operò una magia contro il cavaliere.
+pt: Merlim lançou um feitiço sobre o cavaleiro.
+
+it: Una donna si avvicina camminando sulla superficie del lago
+pt: Uma mulher aproxima-se caminhando sobre a superfície do lago
+
+it: Appropriati del vascello vigilato dai mostri e prendi la spada.
+pt: Apodera-te do navio guardado pelos monstros e toma a espada.
+
+it: Artù è morto.
+pt: Artur morreu.
+
+it: Mago Merlino è morto
+pt: O mago Merlim morreu
+
+it: Artù afferrò delicatamente la spada.
+pt: Artur tomou suavemente a espada.
+
+it: Gli assalitori fuggirono alla vista di Artù.
+pt: Os atacantes fugiram ao ver Artur.
+
+it: Artù prese la delicatamente la spada, la mano si aprì e poi scomparve nell'acqua. \n\nLa spada riportava incisa la scritta: "Excalibur"
+pt: Artur tomou suavemente a espada; a mão abriu-se e depois desapareceu na água.\n\nNa espada estava gravada a palavra: «Excalibur»
+
+it: Artù è salito sul vascello...
+pt: Artur subiu a bordo do navio...
+
+it: I contadini che attaccarono Merlino sono morti.
+pt: Os camponeses que atacaram Merlim morreram.
+
+it: Hai annientato gli esseri che proteggevano il vascello.
+pt: Aniquilaste as criaturas que guardavam o navio.
+
+it: Vedi, nonostante la tua magia e la tua scienza ti avrebbero ucciso se non fossi arrivato a salvarti. Forse stai invecchiando.
+pt: Vês? Com toda a tua magia e a tua sabedoria, ter-te-iam matado se eu não tivesse vindo salvar-te. Talvez estejas a ficar velho.
+
+it: So che ti piace pensarlo ma non è così. Tu sei in pericolo più di me e io sono qui per salvarti. Accompagnami.
+pt: Sei que gostas de acreditar nisso, mas não é assim. Tu corres mais perigo do que eu, e estou aqui para te salvar. Vem comigo.
+
+it: Fermi non potete passare di qui.
+pt: Alto! Não podes passar por aqui.
+
+it: Perché vigili su questo cammino e provochi ogni cavaliere che passa?
+pt: Porque vigias este caminho e desafias todos os cavaleiros que passam?
+
+it: È una mia abitudine.
+pt: É o meu costume.
+
+it: E io te la farò cambiare.
+pt: E eu vou fazer-te mudá-lo.
+
+it: Fermati, cavaliere! Quest'uomo vale molto più di quanto pensi. Se lo uccidessi apriresti una ferita terribile in tutto il regno.
+pt: Para, cavaleiro! Este homem vale muito mais do que julgas. Se o matasses, abririas uma ferida terrível em todo o reino.
+
+it: Cosa vuoi dire?
+pt: O que queres dizer?
+
+it: L'uomo che stai per affrontare è re Artù.
+pt: O homem que vais enfrentar é o rei Artur.
+
+it: L'hai ucciso?
+pt: Mataste-o?
+
+it: No, è solo addormentato.
+pt: Não, está só a dormir.
+
+it: È il re Pellinore. Non c'è cavaliere al mondo che lo superi. In futuro ti offrirà ottimi servigi e anche i suoi figli Parsifal e Lamorak.
+pt: É o rei Pellinore. Não há cavaleiro no mundo que o supere. Com o tempo servir-te-á bem, e também os seus filhos Percival e Lamorak.
+
+it: Ho perso la mia spada nel corso del combattimento. Cos'è un cavaliere senza spada?
+pt: Perdi a minha espada no combate. O que é um cavaleiro sem espada?
+
+it: Un re vale più della sua corona e un cavaliere più della sua spada. La sconfitta attende tutti, da qualche parte. Alcuni sono distrutti dalla sconfitta, altri diventano meschini a causa della vittoria. Solo la grandezza vince sulla sconfitta e sulla vittoria.
+pt: Um rei vale mais do que a sua coroa, e um cavaleiro mais do que a sua espada. A derrota espera todos em algum lugar. A uns a derrota quebra-os; a outros, a vitória torna-os mesquinhos. Só a grandeza triunfa ao mesmo tempo sobre a derrota e a vitória.
+
+it: Come sempre i tuoi consigli sono ottimi.
+pt: Como sempre, o teu conselho é excelente.
+
+it: Per di qua c'è una spada che può diventare tua, se riesco a procurartela. Seguimi...
+pt: Por aqui há uma espada que pode ser tua, se eu a conseguir para ti. Segue-me...
+
+it: Guarda, vicino a quell'isolotto emerge un braccio che regge una spada.
+pt: Olha, junto àquele ilhéu um braço surge da água segurando uma espada.
+
+it: È quella di cui ti parlavo.
+pt: É aquela de que te falei.
+
+it: È la Dama del Lago.
+pt: É a Dama do Lago.
+
+it: Signora, vi prego, parlatemi di questa spada che vedo nel lago. Vorrei averla dato che non ne possiedo una.
+pt: Senhora, peço-vos, falai-me desta espada que vejo no lago. Gostaria de a ter, pois não tenho nenhuma.
+
+it: La spada è mia, messere, ma potete prenderla. L'unico vascello che si trova da queste parti è custodito da esseri maligni.
+pt: A espada é minha, senhor, mas podeis tomá-la. O único navio das redondezas está guardado por criaturas malignas.
+
+it: Io ti aiuterò Artù.
+pt: Vou ajudar-te, Artur.
+
+# excalibur e il re artu.wcm::maps/3_b el poder de excalibur
+it: Il potere di Excalibur 2
+pt: O poder de Excalibur 2
+
+it: Terrabic
+pt: Terrabil
+
+it: Prigioniero
+pt: Prisioneiro
+
+it: Nerone
+pt: Nero
+
+it: Fratello
+pt: Irmão
+
+it: Duca
+pt: Duque
+
+it: Cladilment
+pt: Cradelmas
+
+it: Royns
+pt: Rience
+
+it: Libro
+pt: Livro
+
+it: Negromanzia
+pt: de necromancia
+
+it: Pioggia
+pt: Chuva
+
+it: Fuoco
+pt: de fogo
+
+it: Vita
+pt: de vida
+
+it: Ipnotizzatore
+pt: de hipnose
+
+it: Mana
+pt: de maná
+
+it: Cattura il re Royns e conducilo alle rovine da cui sei partito.
+pt: Captura o rei Rience e leva-o às ruínas de onde partiu.
+
+it: Sir Balin, Sir Balan e Merlino devono sopravvivere.
+pt: Sir Balin, Sir Balan e Merlim têm de sobreviver.
+
+it: Merlino è morto.
+pt: Merlim morreu.
+
+it: Sir Balin è caduto in battaglia.
+pt: Sir Balin caiu em combate.
+
+it: Sir Balan giace morto sul campo di battaglia.
+pt: Sir Balan jaz morto no campo de batalha.
+
+it: Re Royns è stato catturato. Conduciamolo alle rovine da cui siamo partiti.
+pt: O rei Rience foi capturado. Levemo-lo às ruínas de onde partimos.
+
+it: Grazie alle sue arti magiche Merlino, insieme a re Royns, si trasportò a Camelot per raccontare gli avvenimenti ad Artù che rimase colpito.\n\nNerone, fratello di Royns, stava radunando un esercito per liberarlo e Merlino consigliò di attaccarlo prima che marciasse contro Camelot
+pt: Com as suas artes mágicas, Merlim deslocou-se juntamente com o rei Rience para Camelot para contar a Artur o sucedido, e Artur ficou muito impressionado.\n\nNero, o irmão de Rience, estava a reunir um exército para o libertar, e Merlim aconselhou atacá-lo antes que marchasse sobre Camelot
+
+it: Artù e il suo esercito sono giunti nei dintorni del castello di Terrabic.
+pt: Artur e o seu exército chegaram às imediações do castelo de Terrabil.
+
+it: Distruggi il castello nemico e Terrabic si piegherà ai tuoi ordini.
+pt: Destrói o castelo inimigo e Terrabil curvar-se-á às tuas ordens.
+
+it: Nerone è morto in battaglia.
+pt: Nero morreu em combate.
+
+it: Sir Balin, Sir Balan, Merlino, re Pellinore e re Artù devono sopravvivere.
+pt: Sir Balin, Sir Balan, Merlim, o rei Pellinore e o rei Artur têm de sobreviver.
+
+it: Re Artù è morto. Tutto è perduto.
+pt: O rei Artur morreu. Está tudo perdido.
+
+it: Avendo distrutto l’accampamento nemico, il castello di Terrabic è caduto nelle tue mani e i suoi contadini sono ai tuoi ordini. Affrettati ad organizzare le difese insieme a loro, dato che sta per sopraggiungere l’esercito di re Lot.
+pt: Destruído o acampamento inimigo, o castelo de Terrabil caiu nas tuas mãos e os seus camponeses estão às tuas ordens. Apressa-te a organizar as defesas com eles, porque o exército do rei Lot está prestes a chegar.
+
+it: Il castello di Terrabic è alla nostra mercé.
+pt: O castelo de Terrabil está à nossa mercê.
+
+it: Il castello di Terrabic è ai tuoi ordini. Organizza le difese prima che l’esercito di re Lot e dei suoi alleati giunga in Cornovaglia. Fai presto, hai pochissimo tempo.
+pt: O castelo de Terrabil está às tuas ordens. Organiza as defesas antes que o exército do rei Lot e dos seus aliados chegue à Cornualha. Apressa-te: resta-te muito pouco tempo.
+
+it: L’esercito di re Lot, unitamente alle forze di tutti i nobili ribelli, è sopraggiunto e ha intenzione di assediare il castello di Terrabic per distruggere Artù.\n\nPossiamo solo affidarci a Dio.
+pt: O exército do rei Lot, juntamente com as forças de todos os nobres rebeldes, chegou e pretende cercar o castelo de Terrabil para destruir Artur.\n\nSó podemos confiar em Deus.
+
+it: Annienta re Lot e i suoi dieci nobili ribelli. Distruggi tutte le truppe nemiche.
+pt: Aniquila o rei Lot e os seus dez nobres rebeldes. Destrói todas as tropas inimigas.
+
+it: Il ribelle re Nentres è morto in battaglia.
+pt: O rei rebelde Nentres morreu em combate.
+
+it: Il ribelle re di Scozia è morto.
+pt: O rei rebelde da Escócia morreu.
+
+it: Il ribelle re di Carados è morto in battaglia.
+pt: O rei rebelde Carados morreu em combate.
+
+it: Il ribelle Duca di Estance è morto.
+pt: O duque rebelde de Estance morreu.
+
+it: Il ribelle re Brandegoris è morto in battaglia.
+pt: O rei rebelde Brandegoris morreu em combate.
+
+it: Il giovane re ribelle dei Cento Cavalieri è morto in battaglia.
+pt: O jovem rei rebelde dos Cem Cavaleiros morreu em combate.
+
+it: Il ribelle re Clarivaus è morto.
+pt: O rei rebelde Clariance morreu.
+
+it: Il ribelle re Uryens di Gore è morto in battaglia.
+pt: O rei rebelde Urien de Gore morreu em combate.
+
+it: Il ribelle re Cradilment è morto.
+pt: O rei rebelde Cradelmas morreu.
+
+it: Il ribelle re Anguyshaunce d’Irlanda è morto in battaglia.
+pt: O rei rebelde Anguish da Irlanda morreu em combate.
+
+it: Il ribelle re Lot è morto in battaglia.
+pt: O rei rebelde Lot morreu em combate.
+
+it: Il re Pellinore è morto in battaglia.
+pt: O rei Pellinore morreu em combate.
+
+it: Sono morti tutti i capi ribelli. La vittoria è vicina.
+pt: Todos os cabecilhas rebeldes morreram. A vitória está próxima.
+
+it: Merlino tornò sul campo di battaglia con Sir Balin e Sir Balan. L’esercitò di Artù arriverà presto...
+pt: Merlim voltou ao campo de batalha com Sir Balin e Sir Balan. O exército de Artur chegará em breve...
+
+it: IL POTERE DI EXCALIBUR\n\nRe Royns del Galles del Nord infiammava nuovamente le terre di Artù e si era già impossessato dell’Irlanda, distruggendo i raccolti al suo passaggio e sterminando la popolazione. Le spie di Artù testimoniavano che aveva posto sotto assedio il castello di Terrabic, in Cornovaglia.\n\nNessuno sembrava essere in grado di fermarlo finché Sir Balin, un cavaliere disonorato a causa di un crimine mai commesso, col fratello, Sir Balan e il mago Merlino decisero di catturare re Royns. Lo avrebbero condotto a Camelot per ottenere il favore del re e recuperare l’onore perduto.
+pt: O PODER DE EXCALIBUR\n\nO rei Rience do norte de Gales voltava a pôr fogo às terras de Artur. Já se tinha apoderado da Irlanda, destruindo as colheitas à sua passagem e massacrando as pessoas. Os espiões de Artur informaram que tinha cercado o castelo de Terrabil, na Cornualha.\n\nNinguém parecia capaz de o deter até que Sir Balin, um cavaleiro desonrado por um crime que nunca cometeu, juntamente com o irmão, Sir Balan, e o mago Merlim, decidiu capturar o rei Rience. Levá-lo-iam a Camelot para conquistar o favor do rei e recuperar a honra perdida.
+
+it: Il destino e la burla di una piccola corte dai bizzarri passatempi, fecero in modo che, invece di ricevere la meritata gloria, Sir Balin e Sir Balan finirono con l’uccidersi l’uno l’altro, senza saperlo, in singolar tenzone. Tuttavia la loro impresa venne ricordata a lungo dato che, grazie a loro, Artù riuscì a terminare il processo di restaurazione del regno attraverso la legge, l’ordine e la forza.\n\nCamelot da questo momento godrà di un periodo di pace.
+pt: O destino, e a partida de uma pequena corte de estranhos passatempos, quis que, em vez de receberem a glória que mereciam, Sir Balin e Sir Balan acabassem por se matar um ao outro, sem o saberem, em combate singular. Ainda assim, a sua façanha foi recordada durante muito tempo, pois graças a eles Artur pôde terminar de restaurar o reino através da lei, da ordem e da força.\n\nA partir deste momento Camelot gozará de um tempo de paz.
+
+it: Capturado
+pt: Capturado
+
+it: Conduci re Royns alle rovine da cui sei partito.
+pt: Leva o rei Rience às ruínas de onde partiu.
+
+it: L’esercito di Artù è stato decimato.
+pt: O exército de Artur foi dizimado.
+
+it: Tutti gli eroi sono morti.
+pt: Todos os heróis morreram.
+
+it: Terrabic è caduto davanti al nemico.
+pt: Terrabil caiu nas mãos do inimigo.
+
+it: Hai sconfitto tutti i capi nemici.
+pt: Derrotaste todos os cabecilhas inimigos.
+
+it: Dobbiamo muoverci con cautela. Grazie all’incantesimo che ho lanciato, fra poco sapremo dove si trova re Royns...
+pt: Temos de avançar com cautela. Graças ao feitiço que lancei, em breve saberemos onde está o rei Rience...
+
+it: Umm... è il nostro momento. Royns si è allontanato dall’accampamento accompagnato solo da un gruppo di guardie.
+pt: Hum... este é o nosso momento. Rience saiu do acampamento só com um punhado de guardas.
+
+it: Catturiamolo e portiamolo qui.
+pt: Capturemo-lo e tragamo-lo para aqui.
+
+it: Cerchiamo di essere prudenti: il castello di Terrabic è assediato dall’esercito di Royns e potrebbero tenderci un’imboscata in qualsiasi momento.
+pt: Sejamos prudentes: o castelo de Terrabil está cercado pelo exército de Rience e podiam armar-nos uma emboscada a qualquer momento.
+
+it: In questo caso sarebbe meglio se lanciassi un incantesimo sulle vostre armi, ma se lo facessi diminuirei il potere dei miei libri magici e delle mie pozioni. Cosa pensate sia più conveniente?
+pt: Nesse caso seria melhor que eu enfeitiçasse as vossas armas, mas se o fizesse enfraqueceria o poder dos meus livros de magia e das minhas poções. O que achais que é melhor?
+
+it: Usa la tua magia sulle nostre armi, le renderai più potenti.
+pt: Usa a tua magia nas nossas armas; vais torná-las mais fortes.
+
+it: Preserva le tue arti magiche, ne avremo bisogno.
+pt: Guarda as tuas artes mágicas; vamos precisar delas.
+
+it: Così sia.
+pt: Assim seja.
+
+it: D’accordo.
+pt: De acordo.
+
+it: Ora Royns dovrà rispondere davanti al re Artù.
+pt: Agora Rience terá de responder perante o rei Artur.
+
+it: Non appena arriverà l’esercito di re Lot e i suoi nobili ribelli, annienteremo Artù una volta per tutte.
+pt: Assim que chegar o exército do rei Lot e dos seus nobres rebeldes, esmagaremos Artur de uma vez por todas.
+
+it: Nel frattempo noi attenderemo.
+pt: Entretanto, esperaremos.
+
+it: Cavalieri è ora di chiudere la ferita che dissangua il nostro popolo. Oggi Merlino ci ha promesso che la vittoria sarà nostra. Distruggiamo il castello dei nostri nemici prima che sopraggiungano le truppe di re Lot. Abbiamo poco tempo. All’attacco!
+pt: Cavaleiros, é hora de fechar a ferida que sangra o nosso povo. Hoje Merlim prometeu-nos que a vitória será nossa. Destruamos o castelo dos nossos inimigos antes que cheguem as tropas do rei Lot. Temos pouco tempo. Ao ataque!
+
+it: Che Dio ci protegga in battaglia.
+pt: Que Deus nos proteja na batalha.
+
+it: Distruggiamo l'indegno re, Artù!
+pt: Destruamos o indigno rei Artur!
+
+# excalibur e il re artu.wcm::maps/4 la hermandad de la mesa redonda
+it: La Confraternita della Tavola Rotonda.
+pt: A irmandade da Távola Redonda
+
+it: Saraceni
+pt: Sarracenos
+
+it: Vichinghi
+pt: Vikings
+
+it: Soldato
+pt: Soldado
+
+it: Vichingo
+pt: Viking
+
+it: Ginevra
+pt: Genebra
+
+it: Regina
+pt: Rainha
+
+it: Danimarca
+pt: da Dinamarca
+
+it: del Val
+pt: do Vale
+
+it: Sorleyse
+pt: de Sorleise
+
+it: Longtaynse
+pt: de Longtains
+
+it: Mentre gli uomini di Artù erano accampati...
+pt: Enquanto os homens de Artur estavam acampados...
+
+it: Fuggi con re Artù, la regina Ginevra, Sir Kay, Sir Gryfflet, Sir Gawain e almeno un contadino verso l'altra sponda del fiume Humber.
+pt: Foge com o rei Artur, a rainha Genebra, Sir Kay, Sir Griflet, Sir Galvão e pelo menos um camponês para a outra margem do rio Humber.
+
+it: Annienta i cinque re vichinghi.
+pt: Aniquila os cinco reis vikings.
+
+it: Erigi una cattedrale nel punto in cui erano accampati i tuoi cavalieri e annienta tutti i vichinghi e i mercenari saraceni.
+pt: Ergue uma catedral onde os teus cavaleiros acampavam e aniquila todos os vikings e os mercenários sarracenos.
+
+it: Artù, Sir Kay, Sir Gryfflet, Ginevra e Sir Gawain devono sopravvivere.
+pt: Artur, Sir Kay, Sir Griflet, Genebra e Sir Galvão têm de sobreviver.
+
+it: L'abbazia è stata eretta in memoria dei valorosi cavalieri.
+pt: A abadia foi erguida em memória dos valentes cavaleiros.
+
+it: Sir Kay è caduto in battaglia.
+pt: Sir Kay caiu em combate.
+
+it: Hanno assassinato la regina Ginevra.
+pt: Assassinaram a rainha Genebra.
+
+it: Sir Gawain è morto.
+pt: Sir Galvão morreu.
+
+it: Re Artù è morto in battaglia.
+pt: O rei Artur morreu em combate.
+
+it: LA CONFRATERNITA DELLA TAVOLA ROTONDA\n\nNel corso di una visita al castello del re Lodegrange, Artù s'innamorò perdutamente della di lui figlia, Ginevra.\n\nDesiderava sposarla anche se Merlino lo aveva avvertito che era una scelta sfortunata. Il mago predisse, infatti, che se l'avesse sposata, lei lo avrebbe tradito con il suo miglior amico.\n\nNon dando retta ai consigli del mago, Artù inviò un corteo a chiedere ufficialmente la mano di Ginevra.\n\nIl padre di Ginevra, entusiasta della cosa, diede come dote ad Artù un'enorme tavola rotonda, un vecchio regalo di re Uther Pendragon, padre di Artù, attorno alla quale potevano sedersi centocinquanta persone. Inoltre, Lodegrange inviò insieme alla tavola cento cavalieri perfettamente armati ed equipaggiati perché servissero Artù.\n\nQuindi Artù inviò il suo miglior cavaliere, Sir Lancillotto, a ricevere Ginevra, ma subito si intuì che fra i due era nato qualcosa di più di una semplice amicizia. Tre giorni dopo Artù sposò Ginevra nella chiesa di S. Stefano, la incoronò con una cerimonia favolosa e a corte ci fu una grande festa con molto giubilo.\n\nLa tavola rotonda, dono di nozze, venne collocata in un grande salone del palazzo e Merlino, con le sue arti magiche, vi fece apparire incisi in oro i nomi dei più nobili cavalieri che avevano giurato fedeltà ad Artù. Così nacque la Confraternita della Tavola Rotonda, della quale avrebbero fatto parte i più valorosi e onorevoli cavalieri del regno, in favore della difesa dei più alti ideali della cavalleria.\n\nMa tre posti, a quella tavola, rimasero liberi.\n\nMerlino spiegò che due di essi sarebbero stati per i migliori cavalieri di ogni anno e l'altro sarebbe stato destinato all'uomo più meritevole del mondo. Se qualcuno avesse osato sedersi su quella sedia senza esserne degno, sarebbe stato annientato immediatamente.\n\nNessuno osava occupare la sedia proibita, nemmeno Sir Lancillotto che era considerato il più valoroso e degno fra i cavalieri.\n\nTrascorsero alcuni mesi e il destino fece in modo che Merlino s'innamorasse di Nyneve, una delle damigelle della Dama del Lago che Sir Pellinore aveva condotto a corte. Nyneve amava le magie e con grande astuzia interrogava Merlino sulle sue arti magiche, facendogli capire che gli avrebbe concesso i propri favori in cambio delle sue conoscenze. Il mago, completamente rapito dalla bellezza della giovane, cedette, pur sapendo che lei sarebbe stata la causa della sua rovina.\n\nCosì un giorno Nyneve, grazie alla magia appena appresa, rinchiuse a vita Merlino in una caverna.\n\nNel frattempo Artù, privato della compagnia del suo leale consigliere, ricevette la triste notizia che cinque re vichinghi, con l'appoggio di mercenari saraceni, avevano invaso l'Inghilterra con un formidabile esercito, distruggendo ogni cosa al loro passaggio: terre, uomini, castelli e città.\n\nDecisi a far fronte alla minaccia, il re e la regina partirono per il nord con i vassalli che risiedevano a corte. Giunsero sulle sponde del fiume Humber e lì si accamparono...
+pt: A IRMANDADE DA TÁVOLA REDONDA\n\nDurante uma visita ao castelo do rei Leodegrance, Artur apaixonou-se perdidamente pela filha do rei, Genebra.\n\nQuis casar com ela, embora Merlim o tivesse avisado de que era uma escolha infeliz. De facto, o mago predisse que, se casasse com ela, ela o trairia com o seu melhor amigo.\n\nSem fazer caso do conselho do mago, Artur enviou um cortejo para pedir oficialmente a mão de Genebra.\n\nO pai de Genebra, encantado, deu a Artur como dote uma enorme mesa redonda, antigo presente do rei Uther Pendragon, o pai de Artur, à volta da qual se podiam sentar cento e cinquenta pessoas. Mais ainda, Leodegrance enviou juntamente com a mesa cem cavaleiros, perfeitamente armados e equipados, para servirem Artur.\n\nEntão Artur enviou o seu melhor cavaleiro, Sir Lancelote, a receber Genebra, mas depressa ficou claro que entre os dois tinha nascido algo mais do que uma simples amizade. Três dias depois Artur casou com Genebra na igreja de Santo Estêvão, coroou-a numa cerimónia fabulosa, e na corte celebrou-se um grande banquete com muito regozijo.\n\nA távola redonda, o presente de casamento, foi colocada num grande salão do palácio, e Merlim, com as suas artes mágicas, fez aparecer nela, gravados a ouro, os nomes dos cavaleiros mais nobres que tinham jurado lealdade a Artur. Assim nasceu a irmandade da Távola Redonda, à qual se juntariam os cavaleiros mais valentes e honrados do reino em defesa dos mais altos ideais da cavalaria.\n\nMas três assentos daquela mesa ficaram vazios.\n\nMerlim explicou que dois deles seriam para os melhores cavaleiros de cada ano, e o outro estaria destinado ao homem mais digno do mundo. Se alguém se atrevesse a sentar-se nesse assento sem ser digno dele, seria destruído de imediato.\n\nNinguém se atreveu a ocupar o assento proibido, nem sequer Sir Lancelote, tido como o mais valente e digno dos cavaleiros.\n\nPassaram alguns meses, e o destino quis que Merlim se apaixonasse por Nyneve, uma das donzelas da Dama do Lago, que Sir Pellinore tinha trazido à corte. Nyneve amava a magia e, com grande astúcia, interrogou Merlim sobre as suas artes, dando-lhe a entender que lhe concederia os seus favores em troca do seu saber. O mago, completamente enfeitiçado pela beleza da rapariga, cedeu, embora soubesse que ela seria a causa da sua perdição.\n\nE assim, um dia, Nyneve, com a magia que acabara de aprender, encerrou Merlim para toda a vida numa gruta.\n\nEntretanto Artur, privado da companhia do seu leal conselheiro, recebeu a triste notícia de que cinco reis vikings, apoiados por mercenários sarracenos, tinham invadido Inglaterra com um exército formidável, destruindo tudo à sua passagem: terras, homens, castelos e cidades.\n\nDecididos a enfrentar a ameaça, o rei e a rainha partiram para norte com os vassalos que viviam na corte. Chegaram às margens do rio Humber e ali acamparam...
+
+it: Quando la notizia della nuova vittoria superò le frontiere, i nemici vennero presi dal terrore e quelli che avevano intenzione di attaccare Artù decisero di desistere.\n\nDopo la battaglia il re, come ricompensa degli sforzi di Sir Kay, Sir Gryfflet e Sir Gawain, li ammise a far parte del gruppo dei Cavalieri della Tavola Rotonda.
+pt: Quando a notícia da nova vitória atravessou as fronteiras, os inimigos ficaram aterrados, e quem pensava atacar Artur decidiu desistir.\n\nDepois da batalha, o rei, em recompensa pelos esforços de Sir Kay, Sir Griflet e Sir Galvão, admitiu-os na companhia dos cavaleiros da Távola Redonda.
+
+it: Annienta i vichinghi e i saraceni.
+pt: Aniquila os vikings e os sarracenos.
+
+it: I tuoi uomini sono stati decimati.
+pt: Os teus homens foram dizimados.
+
+it: I mercenari saraceni sono stati annientati.
+pt: Os mercenários sarracenos foram aniquilados.
+
+it: Tutti i tuoi eroi sono stati annientati.
+pt: Todos os teus heróis foram aniquilados.
+
+it: I vichinghi sono stati annientati.
+pt: Os vikings foram aniquilados.
+
+it: Che il Signore ci protegga!
+pt: Que o Senhor nos proteja!
+
+it: Hai eliminato i re vichinghi.
+pt: Mataste os reis vikings.
+
+it: Imboscata!
+pt: Emboscada!
+
+it: Presto, prendete le armi!
+pt: Depressa, pegai nas armas!
+
+it: Proteggiamo la regina Ginevra!
+pt: Protejamos a rainha Genebra!
+
+it: Grazie ma anch'io so combattere.
+pt: Obrigada, mas eu também sei lutar.
+
+it: Sono troppi, non possiamo trattenerli.
+pt: São demasiados; não os conseguimos conter.
+
+it: Fuggiamo a sud dove ci aspettano alcuni vascelli. I nostri valorosi cavalieri ci copriranno la fuga. Quando saremo sull'altra sponda del fiume ci riorganizzeremo per attaccarli.
+pt: Fujamos para sul, onde nos esperam uns navios. Os nossos valentes cavaleiros cobrirão a nossa fuga. Quando estivermos na outra margem do rio, reagrupar-nos-emos para os atacar.
+
+it: Alcuni contadini dovrebbero accompagnarci, nel caso dovessimo montare un accampamento.
+pt: Alguns camponeses deviam vir connosco, para o caso de termos de montar um acampamento.
+
+it: Se Merlino fosse qui... Per fortuna ho almeno Excalibur con me.
+pt: Se ao menos Merlim estivesse aqui... Felizmente, ao menos tenho Excalibur comigo.
+
+it: Guardate! I capi vichinghi ci impediscono la ritirata.
+pt: Olhai! Os caudilhos vikings cortam-nos a retirada.
+
+it: Cavalcano da soli, senza scorta. Attacchiamoli, prima di salire sulle navi.
+pt: Cavalgam sozinhos, sem escolta. Ataquemo-los antes de embarcar.
+
+it: Quando il nemico vedrà i suoi capi morti si perderà d'animo. Avete combattuto magnificamente. Farò in modo che riceviate una giusta ricompensa.
+pt: Quando o inimigo vir os seus caudilhos mortos, desanimará. Lutastes magnificamente. Tratarei de que recebais uma justa recompensa.
+
+it: Presto! Il fiume è sorvegliato da navi vichinghe.
+pt: Depressa! O rio está vigiado por navios vikings.
+
+it: Sull'altra sponda del fiume troveremo le risorse necessarie per montare un accampamento da cui attaccare i vichinghi. Il fiume Humber è molto generoso per quanto riguarda la pesca.
+pt: Na outra margem do rio encontraremos o necessário para montar um acampamento a partir do qual atacar os vikings. O rio Humber é muito generoso em pesca.
+
+it: Vi prometto che erigerò un'abbazia nel punto in cui eravamo accampati, come segno di gratitudine verso i nostri valorosi cavalieri che hanno perso la vita.
+pt: Prometo-vos que erguerei uma abadia onde acampávamos, em sinal de gratidão para com os nossos valentes cavaleiros que perderam a vida.
+
+it: Artù! Ho condotto qui i migliori cavalieri del regno per salvarti.
+pt: Artur! Trouxe para aqui os melhores cavaleiros do reino para te salvar.
+
+it: Re Pellinore era accorso in aiuto di Artù ma ormai la battaglia era terminata...
+pt: O rei Pellinore tinha vindo em auxílio de Artur, mas nessa altura a batalha já tinha terminado...
+
+# excalibur e il re artu.wcm::maps/5 morgana le fay
+it: La fata Morgana
+pt: Morgana le Fay
+
+it: Schiavi
+pt: Escravos
+
+it: Animali
+pt: Animais
+
+it: Amici
+pt: Amigos
+
+it: Strega
+pt: Bruxa
+
+it: Lancillotto
+pt: Lancelote
+
+it: Creature
+pt: Criaturas
+
+it: Guardiano
+pt: Guardião
+
+it: Attacco
+pt: Ataque
+
+it: Difesa
+pt: Defesa
+
+it: Livello
+pt: Nível
+
+it: Salute
+pt: Vida
+
+it: Est/questo
+pt: de Eastland
+
+it: Galles
+pt: do Norte de Gales
+
+it: Morgana
+pt: Morgana
+
+it: La Fata
+pt: le Fay
+
+it: Isole
+pt: das Ilhas Distantes
+
+it: Ewain
+pt: Yvain
+
+it: Trova e recupera la spada Excalibur.
+pt: Encontra e recupera a espada Excalibur.
+
+it: Trova e libera Sir Lancillotto dal castello di Morgana prima che lei lo uccida.
+pt: Encontra Sir Lancelote e liberta-o do castelo de Morgana antes que ela o mate.
+
+it: Non avendo recuperato la spada Excalibur in tempo, i nemici di Artù hanno potuto attaccare e distruggere Camelot.
+pt: Como a espada Excalibur não foi recuperada a tempo, os inimigos de Artur puderam atacar e destruir Camelot.
+
+it: Tiempo
+pt: Tempo
+
+it: Sir Ewain e Nyneve sono morti.
+pt: Sir Yvain e Nyneve morreram.
+
+it: Morgana ha trionfato.
+pt: Morgana triunfou.
+
+it: Alcuni pipistrelli di Morgana vi hanno scoperto... ora saprà che siete qui.
+pt: Alguns morcegos de Morgana descobriram-nos... agora ela vai saber que estão aqui.
+
+it: Il paese chiamato Le Corna del Diavolo è stato saccheggiato dagli scagnozzi di Morgana.
+pt: A aldeia chamada os Cornos do Diabo foi saqueada pelos lacaios de Morgana.
+
+it: Dall'altare del teschio escono dei raggi di sole che uccidono alcuni dei tuoi eroi. I sopravvissuti cadono a terra svenuti e si risvegliano in uno strano luogo...
+pt: Do altar das caveiras saem raios de sol que matam alguns dos teus heróis. Os sobreviventes caem desmaiados no chão e acordam num lugar estranho...
+
+it: Provano una strana sensazione... hanno perso gli oggetti che portavano con loro...
+pt: Sentem-se estranhos... perderam os objetos que levavam...
+
+it: Morgana ha operato una magia trasportandosi in un luogo sicuro.
+pt: Morgana lançou um feitiço e transportou-se para um lugar seguro.
+
+it: Hai trovato la spada Excalibur
+pt: Encontraste a espada Excalibur
+
+it: Bravo! Hai recuperato la spada Excalibur.
+pt: Muito bem! Recuperaste a espada Excalibur.
+
+it: Lancilloto è riuscito a scappare scavando una galleria fino al fiume. Questo è certamente il modo migliore per fuggire dal castello. Dobbiamo cercarlo all'interno della galleria perché potrebbe trovarsi in pericolo. Ma prima dobbiamo recuperare la spada Excalibur.
+pt: Lancelote conseguiu fugir escavando um túnel até ao rio. Sem dúvida é a melhor maneira de fugir do castelo. Temos de o procurar dentro do túnel, porque pode estar em perigo. Mas primeiro temos de recuperar a espada Excalibur.
+
+it: La galleria passava attraverso le segrete del castello, sfociando in un piccolo porto comunicante con il fiume che circondava il castello. I nostri eroi rubano un vascello...
+pt: O túnel passava pelas masmorras do castelo e saía num pequeno porto ligado ao rio que rodeava o castelo. Os nossos heróis roubam um navio...
+
+it: Lungo il fiume, in direzione sud-est, potrai sfuggire all'esercito di Morgana che è già alla tua ricerca. Sembra che anche Lancillotto abbia scelto questa strada con un piccolo vascello.
+pt: Seguindo o rio para sudeste poderás fugir ao exército de Morgana, que já os anda a procurar. Parece que também Lancelote tomou este caminho, num pequeno barco.
+
+it: Sir Lancillotto ha fatto naufragio e si trova circondato dagli scagnozzi di Morgana. Liberalo e segui il corso del fiume!
+pt: Sir Lancelote naufragou e está rodeado pelos lacaios de Morgana. Liberta-o e segue o curso do rio!
+
+it: Nonostante gli sforzi degli scagnozzi di Morgana, sei riuscito nel tuo intento.
+pt: Apesar dos esforços dos lacaios de Morgana, conseguiste-o.
+
+it: Castello di Morgana. Non siete i benvenuti.
+pt: O castelo de Morgana. Não sois bem-vindos.
+
+it: LA FATA MORGANA\n\nLa fata Morgana, sorellastra di Artù, era una donna misteriosa, attraente e passionale, piena di crudeltà e ambizione. Da giovane, in un convento, aveva appreso l'arte della magia nera e della negromanzia. Ma soprattutto traeva piacere nel piegare gli uomini e sottometterli al suo volere grazie alla bellezza, agli incantesimi e, nel caso non bastassero, col tradimento e l'omicidio.\n\nDa quando Artù era diventato re, Morgana desiderava impossessarsi del suo trono e aveva tentato per ben due volte, per fortuna senza riuscirci, di assassinare il fratellastro.\n\nTimorosa della vendetta di Artù, scappò nei suoi possedimenti nel paese di Gore e, chiusa nel suo inespugnabile castello, pianificò, assieme a tre regine fattucchiere, come eliminare Artù.\n\nUno dei suoi malefici stratagemmi consistette nel rubare Excalibur. E come se non bastasse Sir Lancillotto, uno dei più valorosi cavalieri di Artù, cadde preda delle streghe che lo rinchiusero in un'oscura prigione sotterranea, in attesa di una fine terribile.\n\nSir Ewain, figlio di Morgana e cugino del re, assieme alla fattucchiera Nyneve, che non amava molto Morgana, decisero di recuperare Excalibur e liberare Sir Lancillotto. Non erano soli: alcuni amici stranieri di Sir Ewain li accompagnavano in quest'avventura...
+pt: MORGANA LE FAY\n\nMorgana le Fay, meia-irmã de Artur, era uma mulher misteriosa, sedutora e apaixonada, cheia de crueldade e ambição. Em criança, num convento, tinha aprendido a arte da magia negra e da necromancia. Mas sobretudo gostava de dobrar os homens e de os submeter à sua vontade com a sua beleza, com feitiços e, quando isso não bastava, com a traição e o assassínio.\n\nDesde que Artur se tornou rei, Morgana ansiava por se apoderar do seu trono, e por duas vezes tinha tentado, felizmente sem êxito, assassinar o meio-irmão.\n\nTemendo a vingança de Artur, fugiu para as suas terras do país de Gore e, fechada no seu castelo inexpugnável, conspirou com três rainhas feiticeiras para acabar com Artur.\n\nUm dos seus planos malvados era roubar Excalibur. E como se não bastasse, Sir Lancelote, um dos cavaleiros mais valentes de Artur, caiu prisioneiro das bruxas, que o fecharam numa masmorra escura à espera de um fim terrível.\n\nSir Yvain, filho de Morgana e primo do rei, juntamente com a feiticeira Nyneve, que tinha pouco apreço por Morgana, decidiu recuperar Excalibur e libertar Sir Lancelote. Não estavam sozinhos: alguns amigos estrangeiros de Sir Yvain acompanharam-nos nesta aventura...
+
+it: Ferita nell'orgoglio, Morgana dovette ammettere la sconfitta: Sir Lancillotto era fuggito e Artù si era riappropriato di Excalibur.\n\nTuttavia giurò a se stessa che avrebbe eliminato il fratellastro e tutto quello che lui amava, anche a costo della vita. Possedeva ancora molto potere e lo avrebbe dimostrato al momento opportuno.
+pt: Ferida no seu orgulho, Morgana teve de admitir a derrota: Sir Lancelote tinha fugido e Artur tinha recuperado Excalibur.\n\nAinda assim, jurou que acabaria com o meio-irmão e com tudo o que ele amava, nem que isso lhe custasse a vida. Ainda tinha um grande poder, e mostrá-lo-ia quando chegasse o momento.
+
+it: Lancillotto è riuscito a scappare scavando una galleria fino al fiume. Ora che abbiamo la spada Excalibur, seguiremo questa galleria perchè Sir Lancillotto potrebbe trovarsi in pericolo
+pt: Lancelote conseguiu fugir escavando um túnel até ao rio. Agora que temos a espada Excalibur, seguiremos este túnel, porque Sir Lancelote pode estar em perigo
+
+it: Non provarci... In queste terre bruciate dal sole puoi solo trovare la morte...
+pt: Não tenteis... Nestas terras abrasadas pelo sol só encontrareis a morte...
+
+it: Hai annientato tutti gli schiavi. Le tue gesta verranno cantate su tutta la Terra.
+pt: Aniquilaste todos os escravos. As tuas façanhas serão cantadas por toda a Terra.
+
+it: Perché hai ammazzato le mucche del popolo? Potrai...
+pt: Porque matastes as vacas das pessoas? Podíeis...
+
+it: Gli amici di Sir Ewain sono stati annientati dagli scagnozzi di Morgana.
+pt: Os amigos de Sir Yvain foram aniquilados pelos lacaios de Morgana.
+
+it: Hai sconfitto le streghe malvagie.
+pt: Derrotaste as bruxas malvadas.
+
+it: Sir Lancillotto è morto.
+pt: Sir Lancelote morreu.
+
+it: Hai annientato le creature del castello.
+pt: Aniquilaste as criaturas do castelo.
+
+it: Hai annientato i guardiani del castello.
+pt: Aniquilaste os guardiões do castelo.
+
+it: Sir Ewain, i vostri amici non ci saranno di grande aiuto per penetrare nel castello di Morgana. Se almeno l'Arcivescovo di Canterbury avesse potuto aiutarci... Si dice che anche lui sia stato catturato da Morgana con Sir Lancillotto. Speriamo di trovarlo ancora in vita.
+pt: Sir Yvain, os teus amigos não nos servirão de muito para entrar no castelo de Morgana. Se ao menos o arcebispo de Cantuária nos pudesse ter ajudado... Dizem que também ele foi capturado por Morgana juntamente com Sir Lancelote. Esperemos encontrá-lo ainda com vida.
+
+it: Così sia! Qualsiasi aiuto è sempre poco. Andiamo velocemente al castello, non resta molto prima che le streghe uccidano Sir Lancillotto.
+pt: Assim seja! Nenhuma ajuda está a mais. Apressemo-nos para o castelo; não falta muito para que as bruxas matem Sir Lancelote.
+
+it: Ummm... Mi sembra di ricordare che ad est esista un posto chiamato "Le Corna del Diavolo", dove le leggende dicono si trovi un'entrata segreta per il castello. Potremmo tentare da lì.
+pt: Hum... parece-me lembrar que a leste há um lugar chamado «Os Cornos do Diabo», onde, segundo as lendas, há uma entrada secreta para o castelo. Podíamos tentar por ali.
+
+it: Riusciremo certamente a trovare un modo per penetrare nel castello, anche se non scarteremo questa possibilità.
+pt: Com certeza encontraremos maneira de entrar no castelo, embora não ponhamos de parte essa possibilidade.
+
+it: D'accordo, ma facciamo attenzione, questa terra è pericolosa e piena degli scagnozzi di Morgana.
+pt: De acordo, mas tenhamos cuidado: esta terra é perigosa e está cheia de lacaios de Morgana.
+
+it: Per favore! Salvatemi! Sir Lancillotto ed io cercavamo di recuperare Excalibur quando le streghe ci hanno teso una trappola. Liberatemi e vi aiuterò.
+pt: Por favor! Salvai-me! Sir Lancelote e eu tentávamos recuperar Excalibur quando as bruxas nos armaram uma cilada. Libertai-me e ajudar-vos-ei.
+
+it: Fuggite da qui... siete in pericolo.
+pt: Fugi daqui... estais em perigo.
+
+it: Qui potrete trovare solo la morte.
+pt: Aqui só encontrareis a morte.
+
+it: Allontanatevi...
+pt: Ide-vos embora...
+
+it: Siete avvisati. State andando incontro alla morte...
+pt: Estais avisados. Caminhais para a vossa morte...
+
+it: È un peccato che dobbiate morire così presto.
+pt: É uma pena que tenhais de morrer tão cedo.
+
+it: Vi annienterò tutti.
+pt: Vou aniquilar-vos a todos.
+
+it: Ah, ah, ah...
+pt: Ah, ah, ah...
+
+it: Così il mio stesso figlio vuole distruggermi... Ah, ah, ah.
+pt: Então o meu próprio filho quer destruir-me... Ah, ah, ah.
+
+it: Aiuto! Fatemi uscire da qui...
+pt: Socorro! Tirai-me daqui...
+
+# excalibur e il re artu.wcm::maps/6 el santo grial
+it: Il Santo Graal
+pt: O Santo Graal
+
+it: Vampira
+pt: Vampira
+
+it: Banditi
+pt: Bandidos
+
+it: Tenebroso
+pt: o Tenebroso
+
+it: Legna
+pt: Madeira
+
+it: Il Santo
+pt: O Santo
+
+it: Graal
+pt: Graal
+
+it: Pietra
+pt: Pedra
+
+it: Vescovo
+pt: Bispo
+
+it: Vecchio
+pt: Ancião
+
+it: Parsifal
+pt: Percival
+
+it: Nel frattempo, gli uomini che trasportavano il Santo Graal e la Sacra Lancia cadevano in un'imboscata...
+pt: Entretanto, os homens que levavam o Santo Graal e a Santa Lança caíram numa emboscada...
+
+it: Porta il Santo Graal nella città di Sarras e impedisci che cada nelle mani dei banditi.
+pt: Leva o Santo Graal para a cidade de Sarras e impede que caia nas mãos dos bandidos.
+
+it: Sir Bors, Sir Parsifal e Sir Galahad devono sopravvivere.
+pt: Sir Bors, Sir Percival e Sir Galaaz têm de sobreviver.
+
+it: Il Santo Graal è stato distrutto dai banditi... Che Dio abbia pietà di noi!
+pt: Os bandidos destruíram o Santo Graal... Que Deus se apiede de nós!
+
+it: Il valoroso Sir Bors è caduto in battaglia.
+pt: O valente Sir Bors caiu em combate.
+
+it: Sir Parsifal, dopo una sanguinosa battaglia è caduto al suolo inerte.
+pt: Depois de uma batalha sangrenta, Sir Percival caiu sem vida no chão.
+
+it: Sir Galahad, barcollante per le ferite mortali subite, ha compiuto la sua ultima impresa.
+pt: Sir Galaaz, cambaleando com as suas feridas mortais, realizou a sua última façanha.
+
+it: Costruisci una cattedrale in cui custodire la reliquia prima che cali la notte.
+pt: Constrói uma catedral onde guardar a relíquia antes que caia a noite.
+
+it: La reliquia, non protetta, è sparita nell'oscurità della notte.
+pt: A relíquia, sem vigilância, desapareceu na escuridão da noite.
+
+it: La città di Sarras ha eretto un altare in cui custodire la sacra reliquia e proteggerla dai nemici.
+pt: A cidade de Sarras ergueu um altar onde guardar a santa relíquia e protegê-la dos seus inimigos.
+
+it: Catedral
+pt: Catedral
+
+it: Un vascello clandestino salpa da Sarras con un importante carico nella stiva...
+pt: Um navio secreto zarpa de Sarras com uma carga importante no porão...
+
+it: El Santo Grial
+pt: O Santo Graal
+
+it: Trova il Santo Graal, recuperalo e riportalo nella città di Sarras.
+pt: Encontra o Santo Graal, recupera-o e devolve-o à cidade de Sarras.
+
+it: Il Santo Graal è stato distrutto... Che Dio abbia pietà di noi!
+pt: O Santo Graal foi destruído... Que Deus se apiede de nós!
+
+it: C'è una malvagia regina vampira dietro al furto del Santo Graal.
+pt: Por trás do roubo do Santo Graal está uma malvada rainha vampira.
+
+it: Vampiresa
+pt: Vampira
+
+it: Uccidendo la regina vampira viene distrutta anche la sua magia liberando dal giogo della schiavitù i suoi scagnozzi.
+pt: Ao matar a rainha vampira destrói-se também a sua magia, e os seus lacaios ficam livres do jugo da escravatura.
+
+it: Hai recuperato il Santo Graal! Questo è un giorno felice per tutta la Cristianità.
+pt: Recuperaste o Santo Graal! É um dia feliz para toda a cristandade.
+
+it: Il Santo Graal viene riportato a Sarras.
+pt: O Santo Graal volta a Sarras.
+
+it: Un carro carico di legna è entrato a Sarras.
+pt: Uma carroça carregada de madeira entrou em Sarras.
+
+it: Una nave carica di legna è giunta a Sarras.
+pt: Um navio carregado de madeira chegou a Sarras.
+
+it: Un carro carico di pietra è entrato a Sarras.
+pt: Uma carroça carregada de pedra entrou em Sarras.
+
+it: Una nave carica di pietra è entrata a Sarras.
+pt: Um navio carregado de pedra chegou a Sarras.
+
+it: IL SANTO GRAAL\n\nCome predetto da Merlino di fronte a tutti i Cavalieri della Tavola Rotonda, uno dei tre posti che inizialmente non erano stati occupati era destinato al cavaliere più degno e puro del regno, ossia a chi avrebbe trovato il Santo Graal.\n\nLa sua identità sarebbe stata svelata alcuni anni dopo quando, nel giorno della sua ammissione alla Confraternita, apparve il suo nome inciso sulla sedia proibita. Tutti poterono leggere queste parole: Sir Galahad. Effettivamente l'eletto era il figlio di Sir Lancillotto.\n\nCompiendo la missione a cui era destinato, Sir Galahad si mise alla ricerca del Santo Graal, il calice usato da Gesù nell'Ultima Cena.\n\nSecondo le credenze popolari, la reliquia era stata portata da Giuseppe d'Arimatea a Sarras, città in cui il santo visse fino alla morte.\n\nAll'epoca di Artù il Graal era custodito da re Pelles.\n\nQuando Sir Galahad, insieme a Sir Parsifal e Sir Boris, giunsero a Sarras, re Pelles, temendo le intenzioni dei cavalieri, decise di rinchiuderli nei sotterranei del castello. Lì rimasero per più di un anno finché, alla morte del re, vennero liberati e Sir Galahad venne designato nuovo reggente di Sarras...
+pt: O SANTO GRAAL\n\nComo Merlim tinha predito perante todos os cavaleiros da Távola Redonda, um dos três assentos que no início tinham ficado vazios estava destinado ao cavaleiro mais digno e puro do reino, ou seja, àquele que encontrasse o Santo Graal.\n\nO seu nome seria revelado alguns anos depois quando, no dia em que foi admitido na irmandade, o seu nome apareceu gravado no assento proibido. Todos puderam ler estas palavras: Sir Galaaz. De facto, o eleito era o filho de Sir Lancelote.\n\nCumprindo a demanda a que estava destinado, Sir Galaaz partiu em busca do Santo Graal, o cálice que Jesus usou na Última Ceia.\n\nSegundo a crença popular, José de Arimateia tinha levado a relíquia para Sarras, a cidade onde o santo viveu até à morte.\n\nNo tempo de Artur, o Graal estava guardado pelo rei Pelles.\n\nQuando Sir Galaaz, juntamente com Sir Percival e Sir Bors, chegou a Sarras, o rei Pelles, temendo as intenções dos cavaleiros, decidiu fechá-los nas masmorras do castelo. Ali ficaram mais de um ano até que, à morte do rei, foram libertados e Sir Galaaz foi nomeado novo soberano de Sarras...
+
+it: Di fronte all'altare costruito come culto e custodia del Santo Graal, apparve un anziano vescovo che pregava inginocchiato.\n\nRivolgendosi a Sir Galahad disse: "Vieni, avvicinati e vedrai quello che tanto desideravi...". Il cavaliere fece quello che gli chiedeva l'anziano e dopo aver visto il Santo Graal in tutto il suo splendore cadde morto e la reliquia scomparve per sempre.\n\nSir Parsifal e Sir Bors, diedero solenne sepoltura a Sir Galahad e Sir Bors si mise in cammino alla volta di Camelot per informare re Artù dell'accaduto.
+pt: Diante do altar construído para o culto e a guarda do Santo Graal apareceu um velho bispo, a rezar de joelhos.\n\nVoltando-se para Sir Galaaz, disse: «Vem, aproxima-te e verás o que tanto desejavas...». O cavaleiro fez o que o ancião lhe pedia e, depois de ver o Santo Graal em todo o seu esplendor, caiu morto, e a relíquia desapareceu para sempre.\n\nSir Percival e Sir Bors deram a Sir Galaaz uma sepultura solene, e Sir Bors partiu para Camelot para contar ao rei Artur o sucedido.
+
+it: I banditi potrebbero rubarci il Santo Graal se non terminiamo in tempo la costruzione della cattedrale.
+pt: Os bandidos podiam roubar-nos o Santo Graal se não terminarmos de construir a catedral a tempo.
+
+it: Terminiamo velocemente la cattedrale. Rimane poco tempo.
+pt: Terminemos depressa a catedral. Resta pouco tempo.
+
+it: Abbiamo giusto il tempo di finire la cattedrale!
+pt: Temos o tempo à justa para terminar a catedral!
+
+it: Hai recuperato il Santo Graal! Certamente nessun capitano di nave accetterà di caricarlo nella stiva per paura di quello che potrebbe succedere al suo bastimento. Dovrai trovare il modo per trasportarlo via terra...
+pt: Recuperaste o Santo Graal! Com certeza nenhum capitão de navio aceitará levá-lo no seu porão, por medo do que poderia acontecer ao seu navio. Terás de encontrar maneira de o levar por terra...
+
+it: El Grial
+pt: O Graal
+
+it: La regina vampira con una magia è scomparsa dalla tua vista... Dove sarà?
+pt: Com um feitiço, a rainha vampira desapareceu da tua vista... Onde estará?
+
+it: Sarras è caduta.
+pt: Sarras caiu.
+
+it: Hai annientato tutti i maledetti saraceni.
+pt: Aniquilaste todos os malditos sarracenos.
+
+it: Hai sconfitto la regina vampira!
+pt: Derrotaste a rainha vampira!
+
+it: Hai annientato tutti i banditi.
+pt: Aniquilaste todos os bandidos.
+
+it: Tutti i tuoi eroi sono morti.
+pt: Todos os teus heróis morreram.
+
+it: Il Santo Graal è stato distrutto.
+pt: O Santo Graal foi destruído.
+
+it: La città di Sarras è assediata dai banditi.
+pt: A cidade de Sarras está cercada por bandidos.
+
+it: Si accingono ad attaccare... Presto, alle armi!
+pt: Estão prestes a atacar... Depressa, às armas!
+
+it: Preghiamo perché non accada nulla agli uomini che ho inviato alla ricerca delle risorse che ci occorrono per fortificare la città.
+pt: Rezemos para que nada aconteça aos homens que enviei em busca dos recursos de que precisamos para fortificar a cidade.
+
+it: E poi hanno il Santo Graal... se cadesse nelle mani di questi malfattori...
+pt: E eles têm o Santo Graal... se caísse nas mãos desses vilões...
+
+it: Il Santo Graal è in salvo a Sarras, almeno per ora.
+pt: O Santo Graal está a salvo em Sarras, pelo menos por agora.
+
+it: Sì. Costruiamo al più presto un altare per venerare una reliquia così sacra.
+pt: Sim. Construamos quanto antes um altar para venerar uma relíquia tão santa.
+
+it: Questi banditi non molleranno tanto facilmente.
+pt: Estes bandidos não se vão render tão facilmente.
+
+it: Riusciremo a respingerli con rinnovato vigore non appena avremo costruito la cattedrale.
+pt: Poderemos repeli-los com novas forças assim que tivermos construído a catedral.
+
+it: Hanno rubato il Santo Graal! I ladri hanno approfittato di un momento di distrazione per portarcelo via da sotto gli occhi.
+pt: Roubaram o Santo Graal! Os ladrões aproveitaram um momento de descuido para o levar debaixo do nosso nariz.
+
+it: Temo che possano essere stati i dannati saraceni del sud-est. Dobbiamo recuperare il Santo Graal a tutti i costi!
+pt: Receio que tenham sido os malditos sarracenos do sudeste. Temos de recuperar o Santo Graal a todo o custo!
+
+it: In nome di Satana, non riuscirete a recuperare il Santo Graal!
+pt: Em nome de Satanás, não recuperareis o Santo Graal!
+
+it: Vieni, avvicinati e vedrai quello che tanto desideravi...
+pt: Vem, aproxima-te e verás o que tanto desejavas...
+
+# excalibur e il re artu.wcm::maps/7 la traición de sir mordred
+it: Il tradimento di Sir Mordred
+pt: A traição de Sir Mordred
+
+it: Guardie
+pt: Guardas
+
+it: Inquisitore
+pt: Inquisidor
+
+it: Amico
+pt: Amigo
+
+it: di Sir Bors
+pt: de Sir Bors
+
+it: Carnefice
+pt: Carrasco
+
+it: Libera Ginevra dalle fiamme prima dell'alba giorno successivo.
+pt: Liberta Genebra das chamas antes do amanhecer do dia seguinte.
+
+it: Siamo arrivati tardi: la pira su cui si trova Ginevra è già stata accesa.
+pt: Chegámos demasiado tarde: a fogueira em que está Genebra já arde.
+
+it: Il nobile cavaliere Sir Bors è morto in battaglia.
+pt: O nobre cavaleiro Sir Bors morreu em combate.
+
+it: Sir Lancillotto è stato ferito a morte. La disgrazia incombe su Camelot.
+pt: Sir Lancelote foi ferido de morte. O desastre paira sobre Camelot.
+
+it: Re Artù è morto in battaglia. Tutta a gente per bene si metterà contro di te.
+pt: O rei Artur morreu em combate. Toda a alma decente se voltará contra ti.
+
+it: Il valoroso Sir Gawain, fedele ad Artù, si allontana ferito dal campo di battaglia.
+pt: O valente Sir Galvão, leal a Artur, abandona ferido o campo de batalha.
+
+it: Il codardo Sir Mordred se l'è svignata dalla battaglia.
+pt: O cobarde Sir Mordred escapuliu-se da batalha.
+
+it: Sir Lancillotto, Sir Bors, la regina Ginevra e re Artù devono sopravvivere.
+pt: Sir Lancelote, Sir Bors, a rainha Genebra e o rei Artur têm de sobreviver.
+
+it: IL TRADIMENTO DI SIR MORDRED\n\nLa diaspora della maggior parte dei Cavalieri della Tavola Rotonda e gli intrighi della corte destabilizzarono il regno e causarono la decadenza di Camelot.\n\nSir Mordred, il figlio che Artù aveva avuto da sua sorella Margawse, sposa del re Lot, che era stato riconosciuto da Merlino, sin dalla nascita, come il futuro responsabile della caduta del monarca, era riuscito a far parte della Confraternita.\n\nInsieme al fratellastro Agravain, malvagio come lui e ad altri dodici cavalieri desiderosi di prendere il trono di Artù, Sir Mordred voleva fare in modo che il re scoprisse l'adulterio della sua sposa Ginevra con Sir Lancillotto. Di fronte ad un tale tradimento e secondo i dettami della legge che lui stesso aveva stabilito, Artù avrebbe dovuto imprigionare Lancillotto e condannare al rogo la regina, perdendo così due dei suoi più fedeli alleati.\n\nCome previsto Sir Lancillotto venne sorpreso negli alloggi privati della regina e dovette combattere contro i cospiratori uccidendoli tutti, tranne Sir Mordred che riuscì a fuggire e ad informare il re.\n\nSir Lancillotto scappò alle guardie ma Ginevra venne catturata e condannata al rogo, nonostante la reticenza del re.\n\nI cavalieri della corte si divisero: alcuni difesero Sir Lancillotto mentre altri rimasero dalla parte di Artù.\n\nPassò il tempo e venne il momento di eseguire la condanna a morte della regina ma, quando già la regina era legata alla pira, apparve Sir Lancillotto con un gruppo di cavalieri...
+pt: A TRAIÇÃO DE SIR MORDRED\n\nA dispersão da maioria dos cavaleiros da Távola Redonda e as intrigas da corte desestabilizaram o reino e provocaram a decadência de Camelot.\n\nSir Mordred, o filho que Artur tinha tido da irmã Morgause, mulher do rei Lot, e que Merlim sabia desde o seu nascimento que causaria a queda do rei, tinha conseguido entrar na irmandade.\n\nJuntamente com o meio-irmão Agravain, tão malvado como ele, e outros doze cavaleiros ansiosos por se apoderarem do trono de Artur, Sir Mordred queria que o rei descobrisse o adultério da mulher, Genebra, com Sir Lancelote. Perante semelhante traição, e segundo a lei que ele próprio tinha ditado, Artur teria de encarcerar Lancelote e condenar a rainha à fogueira, perdendo assim dois dos seus aliados mais fiéis.\n\nTal como estava previsto, Sir Lancelote foi surpreendido nos aposentos privados da rainha e teve de lutar contra os conjurados, que matou a todos exceto Sir Mordred, que conseguiu fugir e avisar o rei.\n\nSir Lancelote escapou aos guardas, mas Genebra foi capturada e condenada à fogueira, apesar da relutância do rei.\n\nOs cavaleiros da corte dividiram-se: uns defendiam Sir Lancelote, enquanto outros se mantinham ao lado de Artur.\n\nPassou o tempo e chegou o dia de executar a sentença de morte da rainha, mas, quando a rainha já estava atada à fogueira, Sir Lancelote apareceu com um grupo de cavaleiros...
+
+it: Sir Lancillotto si rifugiò in Francia inseguito da re Artù e da Sir Gawain. Quest'ultimo desiderava vendicarsi per la morte dei suoi fratelli, caduti nel combattimento durante il quale Lancilotto aveva liberato Ginevra dalle fiamme.\n\nNel frattempo, approfittando della prolungata assenza di Artù, Sir Mordred sparse per tutto il regno la voce che il re era morto e si autoproclamò erede legittimo della corona d'Inghilterra.
+pt: Sir Lancelote refugiou-se em França, perseguido pelo rei Artur e por Sir Galvão. Galvão ansiava por vingar a morte dos irmãos, caídos no combate em que Lancelote tinha libertado Genebra das chamas.\n\nEntretanto, aproveitando a longa ausência de Artur, Sir Mordred fez correr por todo o reino o rumor de que o rei tinha morrido e proclamou-se herdeiro legítimo da coroa de Inglaterra.
+
+it: La regina Ginevra è libera.
+pt: A rainha Genebra está livre.
+
+it: Rescate
+pt: Resgate
+
+it: Fuggi con Ginevra fino al termine di uno dei cammini fuori da Camelot.
+pt: Foge com Genebra até ao fim de um dos caminhos que saem de Camelot.
+
+it: Ginevra viene portata in un luogo sicuro.
+pt: Genebra é levada para um lugar seguro.
+
+it: Non hai lasciato pietra su pietra a Camelot. Sarai ricordato come un assassino.
+pt: Não deixaste pedra sobre pedra em Camelot. Serás recordado como um assassino.
+
+it: Tutto il tuo esercito è stato distrutto.
+pt: Todo o teu exército foi destruído.
+
+it: Tutti i tuoi amici di Camelot sono morti.
+pt: Todos os teus amigos de Camelot morreram.
+
+it: Hai decimato la popolazione di Camelot! Folle!
+pt: Dizimaste o povo de Camelot! Louco!
+
+it: I cuori di Sir Lancillotto e Artù si spezzano per la morte di Ginevra.
+pt: A Sir Lancelote e a Artur parte-se-lhes o coração com a morte de Genebra.
+
+it: Hai annientato tutte le guardie di Camelot.
+pt: Aniquilaste todos os guardas de Camelot.
+
+it: Dobbiamo liberare Ginevra prima dell'alba o le fiamme lambiranno il suo corpo.
+pt: Temos de libertar Genebra antes do amanhecer, ou as chamas lamberão o seu corpo.
+
+it: Abbiamo poco tempo e metà dei cavalieri della Tavola Rotonda sono dalla tua parte, Sir Lancillotto, l'altra metà invece difende Camelot. Sarà una battaglia fra fratelli.
+pt: Temos pouco tempo, e metade dos cavaleiros da Távola Redonda está do teu lado, Sir Lancelote, enquanto a outra metade defende Camelot. Será uma batalha entre irmãos.
+
+it: State attenti ad Artù, questa volta Excalibur sarà contro di noi. Ad ogni modo, non uccidete il sovrano. Se dovesse morire, Sir Mordred avrebbe la scusa perfetta...
+pt: Cuidado com Artur: desta vez Excalibur estará contra nós. Em todo o caso, não mateis o rei. Se ele morresse, Sir Mordred teria a desculpa perfeita...
+
+it: Come possiamo liberare Ginevra? Camelot è una città ben difesa.
+pt: Como podemos libertar Genebra? Camelot é uma cidade bem defendida.
+
+it: Potremmo attaccare con una macchina d'assedio. Se dovessimo aver bisogno di altri rinforzi potremmo trovare alcuni mercenari nelle taverne. Inoltre distruggere i ponti sarebbe una buona mossa per assediare la città.
+pt: Podíamos atacar com uma máquina de cerco. Se precisássemos de mais reforços, podíamos encontrar mercenários nas tabernas. Além disso, destruir as pontes seria uma boa jogada para cercar a cidade.
+
+it: Ummm... È fattibile.
+pt: Hum... Pode fazer-se.
+
+it: Potremmo corrompere le guardie, in questo modo arriveremmo a Ginevra. O infiltrare alcune persone travestite.
+pt: Podíamos subornar os guardas; assim chegaríamos até Genebra. Ou infiltrar gente disfarçada.
+
+it: Ho un amico, un mercante di Sarras, che potrebbe aiutarci. È certamente al mercato. Se lo troviamo ci aiuterà.
+pt: Tenho um amigo, um mercador de Sarras, que nos podia ajudar. De certeza que está no mercado. Se o encontrarmos, ajudar-nos-á.
+
+it: Sì, anch'io ho alcune conoscenze a Camelot che potrebbero esserci utili. Ma non credo che sarebbero in grado di strappare Ginevra alle fiamme. Purtroppo però c'è anche chi mi conosce e non esiterebbe a denunciarci. Attenzione alla Santa Inquisizione che si è messa in mezzo e ha deciso di condannare a morte Ginevra a tutti i costi.
+pt: Sim, eu também tenho alguns conhecidos em Camelot que nos podiam ser úteis. Mas não creio que conseguissem arrancar Genebra das chamas. Infelizmente, também há quem me conheça e não hesitaria em denunciar-nos. Cuidado com a Santa Inquisição, que interveio e se empenhou em dar a morte a Genebra a todo o custo.
+
+it: Io sono in amicizia con i guardiani della porta nord e credo che ci lasceranno passare.
+pt: Dou-me bem com os guardas da porta norte e creio que nos deixarão passar.
+
+it: Per guadagnare tempo, potremmo impossessarci di alcuni edifici che potrebbero esserci utili. Nei dintorni della città ci sono persone che potrebbero aiutarci.
+pt: Para ganhar tempo, podíamos tomar alguns edifícios que nos fossem úteis. À volta da cidade há gente que nos podia ajudar.
+
+it: Dio ci assista!
+pt: Que Deus nos ajude!
+
+it: E se utilizzassimo la magia?
+pt: E se usássemos a magia?
+
+it: Questa adultera deve morire tra le fiamme.
+pt: Esta adúltera tem de morrer nas chamas.
+
+it: Non posso guardare, Sir Mordred.
+pt: Não consigo olhar, Sir Mordred.
+
+it: Io nemmeno.
+pt: Nem eu.
+
+it: Confessa i tuoi peccati, adultera!
+pt: Confessa os teus pecados, adúltera!
+
+it: Il mio nome è Abdul e sono amico di Sir Bors. Vi aiuterò.
+pt: Chamo-me Abdul e sou amigo de Sir Bors. Vou ajudar-vos.
+
+# excalibur e il re artu.wcm::maps/8_a el mito de camelot
+it: Il mito di Camelot
+pt: O mito de Camelot
+
+it: Dedicato a mia moglie Nuria,\nGrazie per darmi appoggio nei miei sogni.
+pt: À minha mulher, Nuria,\nobrigado por me apoiar nos meus sonhos.
+
+it: Traditori
+pt: Traidores
+
+it: Mercenari
+pt: Mercenários
+
+it: IL MITO DI CAMELOT\n\nQuando Artù venne informato degli ultimi avvenimenti e di come Mordred aveva usurpato la corona, partì immediatamente per riprendersi il potere.\n\nAlla prima occasione di scontro con le forze di Sir Mordred, Sir Gawain venne ferito mortalmente, ma prima di morire chiese perdono ad Artù per averlo fatto allontanare da Camelot all'inseguimento di Lancillotto, lasciando così il regno al proprio destino e scrisse a quest'ultimo pregandolo di intervenire in favore del re, aiutandolo ad affrontare Sir Mordred e i suoi traditori.\n\nLa notte in cui morì, Sir Gawain apparve in sogno a re Artù avvertendolo del pericolo che avrebbe corso lottando contro Mordred senza l'aiuto di Sir Lancillotto.\n\nDando retta all'avvertimento, il sovrano decise stabilire una tregua con il figlio Mordred, per prendere tempo e permettere a Sir Lancillotto di giungere in Inghilterra.\n\nPer suggellare tale accordo, padre e figlio si diedero appuntamento nella pianura di Salisbury...
+pt: O MITO DE CAMELOT\n\nQuando Artur soube dos últimos acontecimentos e de como Mordred se tinha apoderado da coroa, partiu de imediato para recuperar o seu poder.\n\nNo primeiro embate com as forças de Sir Mordred, Sir Galvão foi ferido de morte; mas, antes de morrer, pediu perdão a Artur por o ter afastado de Camelot em perseguição de Lancelote, deixando o reino à sua sorte, e escreveu a Lancelote suplicando-lhe que viesse em auxílio do rei e o ajudasse a enfrentar Sir Mordred e os seus traidores.\n\nNa noite em que morreu, Sir Galvão apareceu em sonhos ao rei Artur e avisou-o do perigo que correria se lutasse contra Mordred sem a ajuda de Sir Lancelote.\n\nAtendendo ao aviso, o rei decidiu acordar uma trégua com o filho Mordred para ganhar tempo e permitir que Sir Lancelote chegasse a Inglaterra.\n\nPara selar este pacto, pai e filho combinaram encontrar-se na planície de Salisbury...
+
+it: Sir Mordred si è nascosto in un castello nemico.
+pt: Sir Mordred escondeu-se num castelo inimigo.
+
+it: Distruggi tutti i castelli nemici per obbligare Sir Mordred ad affrontarti.
+pt: Destrói todos os castelos inimigos para obrigar Sir Mordred a enfrentar-te.
+
+it: Brandita la spada per ammazzare il serpente, l'esercito nemico credette che si trattasse del segnale di guerra e si lanciò con furore in battaglia.
+pt: Quando a espada foi desembainhada para matar a serpente, o exército inimigo julgou que era o sinal de guerra e lançou-se furioso na batalha.
+
+it: L'esercito di re Artù è stato sconfitto. Sir Mordred governerà sull'Inghilterra.
+pt: O exército do rei Artur foi derrotado. Sir Mordred reinará sobre Inglaterra.
+
+it: Hai annientato tutti i traditori della Corona.
+pt: Aniquilaste todos os traidores à Coroa.
+
+it: Hai annientato gli eserciti arabi.
+pt: Aniquilaste os exércitos árabes.
+
+it: Le masnade orientali sono state decimate.
+pt: Os bandos do leste foram dizimados.
+
+it: Il re è morto, viva re Mordred.
+pt: O rei morreu, viva o rei Mordred.
+
+it: Firmiamo un accordo di pace.
+pt: Assinemos um tratado de paz.
+
+it: Queste sono le condizioni...
+pt: Estas são as condições...
+
+it: Maledetto serpente, ha morso la zampa del mio cavallo. Lo ucciderò con la mia spada...
+pt: Maldita serpente, mordeu a pata do meu cavalo. Vou matá-la com a minha espada...
+
+# excalibur e il re artu.wcm::maps/8_b el mito de camelot
+it: La fine di Camelot
+pt: O fim de Camelot
+
+it: Dedicato a mia moglie Nuria,\ngrazie per darmi appoggio nei miei sogni.\n\nAi miei genitori, a mia sorella e alla sua famiglia, \nper tutti i momenti felici.\n\nAl mio compagno d'armi Juanjo,\nnon insistere, che non passerai di livello.\n\nAi fedeli a Tzar, in particolar modo a Runner...
+pt: À minha mulher, Nuria,\nobrigado por me apoiar nos meus sonhos.\n\nAos meus pais, à minha irmã e à sua família,\npor todos os momentos felizes.\n\nAo meu irmão de armas Juanjo,\ndeixa lá, que não sobes de nível.\n\nAos fiéis de Tzar, especialmente ao Runner...
+
+it: Bevidere
+pt: Bedivere
+
+it: Confuso e senza castelli in cui rifugiarsi, Sir Mordred guidò il suo esercito nell'ultima battaglia contro Artù. La carneficina fu spaventosa, solo un piccolo gruppo di uomini riuscì a salvarsi...
+pt: Confuso, e sem castelos onde se refugiar, Sir Mordred levou o seu exército para a última batalha contra Artur. A matança foi terrível; só um pequeno grupo de homens conseguiu sobreviver...
+
+it: Batalla
+pt: Batalha
+
+it: Ferito a morte da Sir Mordred, Artù chiese all'unico cavaliere del suo esercito rimasto in vita, di lanciare la sua spada nel lago...
+pt: Ferido de morte por Sir Mordred, Artur pediu ao único cavaleiro do seu exército que ainda estava vivo que atirasse a sua espada ao lago...
+
+it: Sir Bevidere la lanciò e vide un braccio che emergeva dalle acque per afferrare la spada e affondare con essa.
+pt: Sir Bedivere atirou-a e viu um braço surgir das águas para apanhar a espada e afundar-se com ela.
+
+it: Il cavaliere portò Artù sulla riva, dove lo attendeva una zattera con tre regine misteriose vestite di nero. La zattera con il re si allontanò sulla superficie del lago e scomparve in lontananza.
+pt: O cavaleiro levou Artur até à margem, onde o esperava um barco com três misteriosas rainhas vestidas de negro. O barco com o rei afastou-se sobre a superfície do lago e desapareceu ao longe.
+
+it: Alcuni giorni dopo, Sir Bevidere trovò una tomba in cui era stato sepolto da poco un cavaliere senza nome, portato da tre donne vestite di nero.\n\nImmaginando che si trattasse del corpo di Artù, Sir Bevidere costruì una cappella nelle vicinanze e si dedicò a vigilarla.\n\nQuando Lancillotto giunse con il suo esercito era ormai troppo tardi. Artù era già morto combattendo contro il suo stesso figlio Mordred. Disperato per l'accaduto, si diresse alla cappella di Sir Bevidere e lì visse per il resto dei suoi giorni in solitudine.\n\nGinevra morì di lì a poco e venne sepolta con Artù.\n\nCosì finì il regno di Artù e cominciò la sua leggenda.
+pt: Uns dias depois, Sir Bedivere encontrou um túmulo onde há pouco tinham enterrado um cavaleiro sem nome, trazido por três mulheres vestidas de negro.\n\nIntuindo que era o corpo de Artur, Sir Bedivere construiu uma capela perto e dedicou-se a velá-lo.\n\nQuando Lancelote chegou com o seu exército, era demasiado tarde. Artur já tinha morrido a lutar contra o próprio filho, Mordred. Desesperado com o sucedido, foi para a capela de Sir Bedivere e ali viveu o resto dos seus dias em solidão.\n\nGenebra morreu pouco depois e foi enterrada junto de Artur.\n\nAssim terminou o reinado de Artur, e assim começou a sua lenda.
+
+it: Sir Bevidere aiuta re Artù a camminare...
+pt: Sir Bedivere ajuda o rei Artur a caminhar...
+
+it: Tutti i tuoi uomini sono stati annientati.
+pt: Todos os teus homens foram aniquilados.
+
+it: Sir Mordred è rimasto solo sul campo di battaglia.
+pt: Sir Mordred ficou sozinho no campo de batalha.
+
+it: Artù s'imbarca su una zattera.
+pt: Artur sobe para um barco.
+
+it: Sir Mordred è morto per mano di Artù ma prima di morire lo ha trapassato con la sua spada.
+pt: Sir Mordred morreu às mãos de Artur, mas antes de morrer trespassou-o com a sua espada.
+
+it: All'attacco!
+pt: Ao ataque!
+
+it: Stai per morire, padre!
+pt: Vais morrer, pai!
+
+it: Vieni vita, vieni morte!
+pt: Venha a vida, venha a morte!

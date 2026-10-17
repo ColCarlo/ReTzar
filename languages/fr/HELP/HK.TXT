@@ -1,0 +1,132 @@
+     @1--- TOUCHES GÉNÉRALES ---@2
+
+@1+ (plus)@2 - Augmente la vitesse du jeu
+
+@1- (moins)@2 - Diminue la vitesse du jeu
+
+@1\ (barre oblique)@2 - Rend les arbres transparents pour voir les unités ou les objets qu'ils cachent
+
+@1F2@2 - Sauvegarde rapide de la partie en cours
+
+@1F3@2 - Chargement rapide de la partie sauvegardée avec F2
+
+@1F4@2 - Affiche le score et le temps écoulé depuis le début de la partie
+
+@1F12@2 - Fait passer la carte du plein écran à la fenêtre et inversement
+
+@1Ctrl + Entrée@2 - Envoie votre position aux autres joueurs (elle apparaît sur la mini-carte)
+
+@1Barre d'espace@2 - Centre la carte sur l'objet sélectionné
+
+@1F11@2 - Prend une photo du jeu et l'enregistre dans le dossier « Screenshots » de l'installation de TZAR
+
+
+     @1--- SÉLECTIONNER LES UNITÉS ---@2
+
+@1Clic gauche@2 - Sélectionne une unité
+
+@1Double clic gauche@2 - Sélectionne toutes les unités du même type à l'écran
+
+@1Ctrl + double clic gauche@2 - Sélectionne toutes les unités du même type à l'écran qui font la même chose (par exemple, couper du bois)
+
+@1Alt + double clic gauche@2 - Sélectionne toutes les unités militaires à l'écran
+
+@1Échap@2 - Désélectionne l'unité sélectionnée
+
+@1Tab@2 - Affiche les informations d'une seule unité quand plusieurs unités sont sélectionnées
+
+
+     @1--- DONNER DES ORDRES AUX UNITÉS ---@2
+
+@1Clic droit@2 - L'unité accomplit son action par défaut
+
+@1Ctrl + clic droit@2 - Avance offensive : l'unité attaque tout ce qu'elle voit
+
+@1Maj + clic droit@2 - L'unité suit des points de passage et attaque tout ce qu'elle trouve
+
+@1Alt + clic droit@2 - Avance discrète : l'unité n'attaque que si elle est attaquée
+
+@1Alt + Maj + clic droit@2 - L'unité suit des points de passage et n'attaque que si elle est attaquée
+
+@1Suppr@2 - Supprime l'unité sélectionnée
+
+
+     @1--- GROUPER LES UNITÉS ---@2
+
+@1Ctrl + chiffre (1-9)@2 - Forme un groupe avec les unités sélectionnées
+
+@1Chiffre (1-9)@2 - Sélectionne un groupe formé auparavant avec Ctrl + chiffre
+
+@1Ctrl + 0 (zéro)@2 - Retire les unités sélectionnées de leur groupe
+
+
+     @1--- MANIPULER LES OBJETS DE L'INVENTAIRE ---@2
+
+@1Clic gauche sur un objet@2 - Prend l'objet pour l'utiliser
+
+@1Clic gauche sur une unité avec un objet en main@2 - Utilise l'objet pris sur l'unité
+
+@1Clic droit sur un objet@2 - Prend l'objet pour le poser sur la carte
+
+@1Clic gauche sur la carte avec un objet en main@2 - Pose l'objet pris
+
+@1Ctrl + clic gauche sur un objet@2 - Utilisation immédiate de l'objet
+
+@1Ctrl + clic droit sur un objet@2 - Pose immédiate de l'objet sur la carte
+
+@1Alt + clic gauche sur un objet@2 - Fait de l'objet le nouvel objet par défaut
+
+@1Retour arrière@2 - Utilise l'objet par défaut
+
+@1, (virgule)@2 - Page précédente de l'inventaire
+
+@1. (point)@2 - Page suivante de l'inventaire
+
+
+     @1--- BÂTIMENTS ---@2
+
+@1Clic gauche@2 - Sélectionne un bâtiment
+
+@1Suppr@2 - Supprime le bâtiment sélectionné
+
+@1Ctrl + clic droit@2 - Place un point de ralliement
+
+@1Clic droit@2 - Place un point de ralliement avec l'action par défaut
+
+@1Ctrl + Alt + clic droit@2 - Place un point de ralliement avec avance offensive (l'unité attaque tout ce qu'elle trouve)
+
+@1Ctrl + C@2 - Sélectionne un château (s'il y en a plusieurs, ces touches les sélectionnent l'un après l'autre)
+
+@1Ctrl + B@2 - Sélectionne une caserne (s'il y en a plusieurs, ces touches les sélectionnent l'une après l'autre)
+
+
+     @1--- DÉPLACER LA CARTE ---@2
+
+@1Origine@2 - Centre la carte sur le bâtiment où la dernière unité ou technologie a été produite
+
+@1Ctrl + Origine@2 - Centre la carte sur le lieu du dernier message
+
+@1Ctrl + Page suiv.@2 - Montre le lieu du message suivant
+
+@1Ctrl + Page préc.@2 - Montre le lieu du message précédent
+
+@1Touches fléchées@2 - Déplacent la carte dans la direction des flèches
+
+
+     @1--- MENUS ---@2
+
+@1F1@2 - Aide
+
+@1F5@2 - Écran de diplomatie
+
+@1F6@2 - Fenêtre des tributs
+
+@1F8@2 - Objectifs de la mission en cours
+
+@1F9@2 - Écran des options
+
+@1F10@2 - Menu de la partie
+
+@1Entrée@2 - Discuter avec les autres joueurs
+
+@1Échap@2 - Quitte le menu en cours

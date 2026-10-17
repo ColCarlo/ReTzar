@@ -1,0 +1,357 @@
+@2TZAR
+@1Excalibur et le roi Arthur
+
+
+
+@0CONCEPTION DU JEU
+@1Vesselin Handjiev
+
+
+@0PROGRAMMEUR PRINCIPAL
+@1Panayot "Otto" Yanazov
+
+
+@0ARTISTE PRINCIPAL
+@1Rossen Manchev
+
+
+@0PROGRAMMATION
+@1Michael "Miho" Peykov
+Alexander "Alex III" Alexandrov
+Julian Manolov
+Oleg Zlatarski
+Vesselin Handjiev
+
+
+@0PROGRAMMATION DES ÉDITEURS DE CARTES ET DE CAMPAGNES
+@1Krassimir "Kastchei" Tuevski
+
+
+@0PROGRAMMATION SUPPLÉMENTAIRE
+@1Gabriel Dobrev
+Ivaylo Todorov
+
+
+@0GRAPHISMES ET ANIMATIONS
+@1Rositsa "Ro" Zagorcheva
+Boriana "Bo" Mladenova
+
+
+EURAPEL A&S TEAM
+Georgi Nedeltchev - Chef d'équipe
+Rossen Mantchev
+Teodor Simeonov
+Dimitar Nikolov
+Dimitar "Chrom" Zvetanov
+Chavdar Dragiev
+
+
+IMAGE-ET
+Alexander Sokerov
+
+
+@0EFFETS SONORES
+@1Vesselin Handjiev
+
+
+EURAPEL A&S TEAM
+Aleksandar Tsvetkov
+Dimitar Sabev
+
+
+@0MUSIQUE
+@1Kiril "Busty" Petrushev
+Dimitar Sabev
+
+
+@0CAMPAGNE ET CARTES
+@1Svetoslav "SAA" Alexandrov
+
+
+@0VOIX
+@1Tim Earle
+
+
+@0MANUEL
+@1Rositsa "Ro" Zagorcheva
+Boriana "Bo" Mladenova
+Krassimir "Kastchei" Tuevski
+
+
+@0TESTS
+@1Test House
+Nine Lund
+DCM Testcenter
+
+
+@0CHEF DE PROJET
+@1Vesselin Handjiev
+Haemimont Multimedia
+
+
+@0ENREGISTREMENT DES VOIX
+@1Rosenberg & Söderberg
+Studios
+
+
+@0AUDIO ET VIDÉO
+@1Virtual Studio - Sofia
+
+
+@2REMERCIEMENTS PARTICULIERS
+
+@1Jay Powell
+Kamen Vitanov
+Kalin Toshev
+Angel Stoyanov
+Slav Peychev
+Rich La Porte
+Ben Sawyer
+Steen Hansen (aka Hamlet)
+Matt Lowe (Reckless Rodent)
+Tom Mesher (b:real)
+Jamie Fraser (SpineMan)
+Josh "Herodotus" Watson
+
+
+@0TZAR Heaven
+@1tzar.heavengames.com
+
+
+@0TESTS FINAUX
+@3Shaun "BINGFA" Toomey
+Brian "enforc3r" Tan
+Magnus Lind
+Andy "Lava" Oxfeld
+Dave "Stringbags" Stringwell
+Ralph "ALpHsTeR" Nevchas
+Josh "Herodotus" Watson
+Daniel "TLoM" Andersson
+Christian "JaCkz" Bergman
+Will "HellMasker" Decker
+Travis "BearSidhe" Stephenson
+Joseph "Admiral Cricifix" O'Donnell
+Jan-Pierre "WakkoG" Jaspers
+Henrik "Radagast" Hedelund
+Brendan "Perrin" Lynch
+Garret "zx75~GoW~" Rempel
+Katherine "freakygrrl" Jackson
+Brian "Strife" Gerber
+Larry "Nobody" Tallman
+Savonije "Jopie" Hans
+Janne Peippo
+Patrick "MasterMerlin" Burnside
+Tony "FORDY" Ford
+Tina "SNEAK" Ford
+
+Groupe Systèmes électroniques rattaché
+à l'Université technique de Sofia
+
+... et bien d'autres
+
+
+@2NOUS REMERCIONS
+
+@3Tous les bars de Sofia
+Zagorka, Kamenitsa, Astika
+KFC, McDonald's
+Pizzeria "Verdi"
+Tous les groupes de heavy metal
+Tous les groupes qui ne font pas de heavy metal
+Nos mères et nos grands-mères
+Nos maris, nos épouses et tous ceux qui ont fait preuve d'une patience infinie
+Et un merci tout particulier à tous nos amis
+Le film Matrix
+(qui a gardé Otto de bonne humeur)
+Quake II
+(qui a empêché l'équipe de se suicider)
+Le magazine Gamers' Workshop
+
+
+Et tous ceux qui pensent
+le mériter...
+
+
+
+
+
+
+@2HAEMIMONT
+MULTIMEDIA
+@1Sofia, Bulgarie 2002
+
+
+
+@2EURAPEL Ltd.
+@1Sofia, Bulgarie 2002
+
+
+
+@2IMAGE-ET
+@1Sofia, Bulgarie 2002
+
+
+
+@2DIGITAL DIALECT
+@1Masher
+Technologie de compression vidéo
+
+
+
+@2FX INTERACTIVE
+@1Madrid, Espagne, 2002
+
+
+
+
+
+@2TZAR
+@1Excalibur et le roi Arthur
+
+
+@0PRODUCTEURS
+@1Antonio Lucena Ferrero
+Pablo de la Nuez S.C.
+
+
+@0CONCEPTION DE LA CAMPAGNE
+ET PROGRAMMATION
+@1Antonio Priego Marco
+
+
+@0SCÉNARIO DE LA CAMPAGNE
+@1Antonio Priego Marco
+José Villalba
+Antonio Lucena Ferrero
+Pablo de la Nuez S.C.
+
+
+@0CONCEPTION GRAPHIQUE
+@1José Luis Díaz "Joky"
+
+
+@0VIDÉO D'INTRODUCTION ET
+GRAPHISMES SUPPLÉMENTAIRES
+@1Equipo FX
+
+
+@0CRÉATION DES PERSONNAGES
+@1Begoña Echave
+
+
+@0DISTRIBUTION DE L'ÉDITION ITALIENNE
+
+@1MARCO BALZAROTTI
+Narrateur
+
+MASSIMO BITOSSI
+Messire Keu
+Roi Carados
+Roi Cradelmas
+Dragon
+Lancelot
+
+LUCA BOTTALE
+Roi des Cent Chevaliers
+Chevalier en colère
+Yamuga
+Jeune homme
+
+MASSIMO DI BENEDETTO
+Arthur jeune
+Messire Gauvain
+Temujin jeune
+
+GIANNI GAUDE
+Messire Brastias
+Roi Urien
+Messire Lucan
+Messire Ladinas
+Messire Balin
+Paysan 1
+Paysan 2
+Soldat mongol
+
+RICCARDO LOMBARDO
+Roi d'Écosse
+Roi Lot
+Néron
+Messire Galaad
+Messire Mordred
+Tugril Khan
+
+ANNAMARIA MANTOVANI
+Voix de l'au-delà
+Reine vampire
+
+CINZIA MASSIRONI
+Guenièvre
+La fée Morgane
+Elun
+Alana
+Wanli
+La Dame du Lac
+Niniane
+Borta
+
+GIORGIO MELAZZI
+Roi Nentres
+Messire Ulfius
+Roi Ban
+Messire Perceval
+Prêtre
+Abdul
+Zhorin
+
+ANTONIO PAIOLA
+Messire Hector
+Merlin
+Roi Clariance
+Messire Kaynes
+Archer
+Inquisiteur
+Ancien
+
+SILVANO PICCARDI
+Archevêque de Cantorbéry
+Messire Baudouin
+Messire Phariance
+Messire Lionses
+Chevalier 1
+Jagadai
+
+PATRIZIO PRATA
+Roi Brandegoris
+Arthur
+
+RICCARDO ROVATTI
+Haaser
+Chevalier
+Roi Bohort
+Messire Balan
+Temujin adulte
+Batu
+
+LUCA SANDRI
+Duc Estance
+Roi d'Irlande
+Messire Girflet
+Roi Pellinor
+Messire Yvain
+Chevalier 2
+Yenisei
+Bochurgi
+Unojo
+
+
+
+@0RESPONSABLE DES TESTS
+@1Eduardo Baez
+
+@0TESTS
+@1Équipe de test de FX
+
+@0LOCALISATION ITALIENNE
+@1Jinglebell Communication S.r.l.
+
+@1 Copyright FX Interactive, 2002

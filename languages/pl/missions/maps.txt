@@ -1,0 +1,76 @@
+# Mappe MP1–MP6 in polacco: traduzione di questa versione, fatta dall'inglese della versione americana.
+
+# mp1.wmp::maps/mp1
+it: Sarà un lungo inverno
+pl: To będzie długa zima (1 na 1)
+
+it: (1 giocatore contro 1)\nUna piccola mappa per giocare 1 contro 1 senza oro né pietre ma con un sacco di sorprendenti risorse.
+pl: Maleńka mapa dla 1 na 1, bez złota i kamienia, ale z mnóstwem surowców na początek.
+
+it: Regno 1
+pl: Królestwo 1
+
+it: Regno 2
+pl: Królestwo 2
+
+it: Regno 3
+pl: Królestwo 3
+
+it: Regno 4
+pl: Królestwo 4
+
+it: Regno 5
+pl: Królestwo 5
+
+it: Regno 6
+pl: Królestwo 6
+
+it: Regno 7
+pl: Królestwo 7
+
+it: Regno 8
+pl: Królestwo 8
+
+# mp2.wmp::maps/mp2
+it: Non c’è posto per entrambi
+pl: Nie ma tu miejsca dla nas dwóch (1 na 1)
+
+it: (1 giocatore contro 1)\nUna piccola mappa per 2 giocatori con migliaia di risorse e tre castelli a testa. Troverete enormi quantità di oro e pietre lungo il cammino.
+pl: Maleńka mapa dla dwóch graczy z mnóstwem surowców i trzema zamkami dla każdego. Dużo złota i kamienia pośrodku.
+
+# mp3.wmp::maps/mp3
+it: La conquista del mondo
+pl: Podbój świata
+
+it: Un grande continente da conquistare. 4 percorsi e migliaia di risorse nella zona centrale.
+pl: Wielki kontynent do zdobycia. Cztery rasy i mnóstwo surowców w środkowej części.
+
+# mp4.wmp::maps/mp4
+it: Ponte vicino
+pl: O jeden most za blisko
+
+it: Un’enorme mappa con tantissimi ponti per giocare in squadre di 2 contro 2.
+pl: Ogromna mapa z wieloma mostami do gry drużynowej 2 na 2.
+
+# mp5.wmp::maps/mp5
+it: È stata scoperta una ricca miniera aurea. Che cominci la febbre dell’oro!
+pl: Odkryto bogatą kopalnię złota – niech zacznie się gorączka złota!
+
+it: Giocatore
+pl: Gracz
+
+it: Artù
+pl: Artur
+
+it: Merlino
+pl: Merlin
+
+it: Lancillotto
+pl: Lancelot
+
+# mp6.wmp::maps/mp6
+it: L’occupazione
+pl: Okupacja (4 na 4)
+
+it: (4 giocatori contro 4)\nUna mappa enorme con migliaia di risorse.
+pl: Olbrzymia mapa z mnóstwem surowców.

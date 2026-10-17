@@ -1,0 +1,697 @@
+# L'Impero di Gengis Khan (campagna dell'edizione italiana) in spagnolo: traduzione di questa versione.
+
+# impero di gengis khan.wcm
+it: L'Impero di Gengis Khan\n\nLa conquista dell'Asia da parte di Gengis Khan e del suo esercito avvenne fra mille ostacoli. Se vuoi emulare con successo le sue conquiste, dovrai superare varie prove. Se ci riuscirai, la Grande Assemblea dei Guerrieri ti proclamerà Gengis Khan e potrai creare un favoloso esercito per lanciarti alla conquista di Pechino. Se non porterai a termine qualcuna di queste sfide, il tuo potere militare verrà limitato nel corso della prossima campagna: l'invasione dell'Impero Cinese.
+es: El Imperio de Gengis Kan\n\nLa conquista de Asia por Gengis Kan y su ejército se logró superando mil obstáculos. Si quieres igualar sus conquistas, tendrás que superar muchas pruebas. Si lo consigues, la Gran Asamblea de los Guerreros te proclamará Gengis Kan y podrás reunir un ejército fabuloso para emprender la conquista de Pekín. Si fallas en alguno de estos desafíos, tu poder militar estará limitado en la siguiente campaña: la invasión del Imperio chino.
+
+# impero di gengis khan.wcm::maps/gengis_khan01
+it: La proclamazione del Khan
+es: La proclamación del Kan
+
+it: Dopo la morte del padre, Temujín ha ereditato il comando della sua tribù. A soli tredici anni dovrà ridare fiducia al suo popolo demoralizzato e debilitato, sconfiggere le tribù rivali e vendicare la morte del padre.
+es: Tras la muerte de su padre, Temujin ha heredado el mando de su tribu. Con solo trece años, debe devolver la esperanza a su pueblo cansado y desanimado, derrotar a las tribus rivales y vengar la muerte de su padre.
+
+it: Taichiti
+es: Taichiudos
+
+it: Borkigini
+es: Borjiginos
+
+it: Mongoli
+es: Mongoles
+
+it: Kerait
+es: Keraítas
+
+it: Naimani
+es: Naimanos
+
+it: Merkit
+es: Merkitas
+
+it: Nemici
+es: Enemigos
+
+it: Tartari
+es: Tártaros
+
+it: Spirito
+es: Espíritu
+
+it: Maligno
+es: maligno
+
+it: ossa drago
+es: de huesos de dragón
+
+it: Muro di
+es: Muro de
+
+it: forza
+es: fuerza
+
+it: orca
+es: orca
+
+it: Orco
+es: Orco
+
+it: orco
+es: orco
+
+it: Fucina
+es: Forja
+
+it: Nana
+es: enana
+
+it: Scudo
+es: Escudo
+
+it: Nano
+es: enano
+
+it: Fratello
+es: Hermano
+
+it: Arco
+es: Arco
+
+it: Composito
+es: compuesto
+
+it: Vecchio
+es: Anciano
+
+it: Grimorio
+es: Grimorio
+
+it: Draghi
+es: de los dragones
+
+it: Borkiginos
+es: Borjiginos
+
+it: Negromante
+es: Nigromante
+
+it: Esercito di Yamuga
+es: Ejército de Yamuga
+
+it: Mago
+es: Mago
+
+it: Guerriero
+es: Guerrero
+
+it: Straniero
+es: Forastero
+
+it: Figlia di Yamuga
+es: Hija de Yamuga
+
+it: La leggenda narra che Alan-Coa, sposa del capo della tribù più potente della steppa, vedeva in sogno, ogni notte, una figura dai capelli dorati e dagli occhi azzurri che entrava nella sua tenda senza far rumore, le accarezzava il viso e, prima di scomparire, le sussurrava all'orecchio... "GENGIS KHAN".\n\nTrent'anni dopo la sua prima visione, il clan familiare di Alan-Coa venne benedetto dalla nascita di Temujìn che, molto presto, dimostrò doti da gran guerriero e di buon capo.\n\nPer rafforzare il dominio della tribù sui territori della steppa, Temujín acconsente alla volontà del padre e accetta di sposare la figlia del capo Tugril-Khan.\n\nLa notizia dell'accordo si diffonde rapidamente per la steppa e un corteo nuziale, con Temujín e suo padre in testa, parte per suggellare l'alleanza. Lungo il cammino, i tartari, un'antica tribù rivale, li raggiunge e li invita a partecipare a un banchetto organizzato in onore della futura unione. Yesugei, obbligato dalle sacre tradizioni della steppa, non può rifiutare la loro ospitalità e decide di fermarsi. Ma il banchetto celebrativo in realtà nasconde una trappola mortale. Yesugei viene avvelenato e, agonizzante, incarica il figlio di tenere unita la tribù. \n\nLa scomparsa di Yesugei e la giovane età di Temujín, all'epoca appena tredicenne, provocano lo sconcerto fra i parenti e i clan familiari della tribù, che pian piano, cominciano ad abbandonarla portandosi via le proprie greggi. Temujín con il solo aiuto della madre e dei quattro fratelli deve affrontare l'opera di ricostruzione della sua tribù...\n\nComincia a formarsi la leggenda di quello che un giorno verrà chiamato Gengis Khan, re ed imperatore di tutte le popolazioni dell'Asia.
+es: Cuenta la leyenda que Alan-Qoa, esposa del jefe de la tribu más poderosa de la estepa, soñaba cada noche con una figura de cabellos dorados y ojos azules que entraba sin hacer ruido en su tienda, le acariciaba el rostro y, antes de desvanecerse, le susurraba al oído... «GENGIS KAN».\n\nTreinta años después de su primera visión, el clan de Alan-Qoa fue bendecido con el nacimiento de Temujin, que muy pronto mostró las dotes de un gran guerrero y un buen jefe.\n\nPara afianzar el dominio de la tribu sobre las tierras de la estepa, Temujin acata la voluntad de su padre y acepta casarse con la hija del jefe Tugril Khan.\n\nLa noticia del pacto corre rápido por la estepa, y una comitiva nupcial, encabezada por Temujin y su padre, parte para sellar la alianza. Por el camino, los tártaros, una antigua tribu rival, les dan alcance y los invitan a un banquete en honor de la próxima unión. Yesugei, obligado por las sagradas tradiciones de la estepa, no puede rechazar su hospitalidad y decide quedarse. Pero el festín esconde una trampa mortal. Yesugei es envenenado y, moribundo, encarga a su hijo mantener unida la tribu.\n\nLa pérdida de Yesugei y la juventud de Temujin, que entonces tenía apenas trece años, desconciertan a los parientes y a los clanes de la tribu, que poco a poco empiezan a abandonarla llevándose sus rebaños. Solo con la ayuda de su madre y de sus cuatro hermanos, Temujin debe emprender la tarea de reconstruir su tribu...\n\nAsí empieza la leyenda de quien un día será llamado Gengis Kan, rey y emperador de todos los pueblos de Asia.
+
+it: Temujín, a soli tredici anni deve condurre il proprio scoraggiato popolo.
+es: Temujin, con solo trece años, debe guiar a su pueblo desanimado.
+
+it: I taichiti, vecchi alleati e compagni d'armi, attaccano l'accampamento. Il sacrificio dei valorosi guerrieri di Temujín non è sufficiente a impedire che lui, sua madre e i suoi fratelli cadano prigionieri...
+es: Los taichiudos, viejos aliados y hermanos de armas, atacan el campamento. El sacrificio de los valientes guerreros de Temujin no basta para evitar que él, su madre y sus hermanos caigan prisioneros...
+
+it: Catturato
+es: Capturado
+
+it: Un gruppo di stranieri ha rubato otto dei nove cavalli da monta che costituivano la ricchezza del clan. Temujín, protettore del clan, monta sull'ultimo purosangue rimasto e parte alla ricerca dei ladri.
+es: Una banda de forasteros ha robado ocho de los nueve caballos de monta que eran la riqueza del clan. Temujin, protector del clan, monta el último pura sangre que queda y sale tras los ladrones.
+
+it: Ladri
+es: Ladrones
+
+it: Tugril-Khan ha accettato la tua dote. Sarai sempre il benvenuto al suo accampamento. I preparativi per le tue nozze sono cominciati.
+es: Tugril Khan ha aceptado tu dote. Siempre serás bienvenido en su campamento. Han empezado los preparativos de tu boda.
+
+it: Matrimonio
+es: Boda
+
+it: Borta è stata rapita da un gruppo di guerrieri della tribù dei merkit.
+es: Borta ha sido raptada por una banda de guerreros de la tribu de los merkitas.
+
+it: I rapitori di Borta hanno giurato di non restituirla finché uno solo di loro rimarrà in piedi! La tengono prigioniera nel loro accampamento.
+es: ¡Los raptores de Borta han jurado no devolverla mientras quede uno solo de ellos en pie! La tienen prisionera en su campamento.
+
+it: Rapitore
+es: Raptor
+
+it: Dopo la cerimonia di nozze...
+es: Tras la ceremonia de la boda...
+
+it: Dopo la celebrazione delle nozze fra Temujín e Borta, Tugril-Khan accetta come figlio Temujín e gli garantisce la sua protezione.\n\nCon la benedizione dei kerait, la giovane coppia parte alla volta dell'accampamento di Temujín.
+es: Celebrada la boda de Temujin y Borta, Tugril Khan toma a Temujin como hijo y le concede su protección.\n\nCon la bendición de los keraítas, la joven pareja parte hacia el campamento de Temujin.
+
+it: Liberata Borta dalle mani dei merkit, la fama di Temujín si diffonde per tutta la steppa e tutti i suoi familiari e amici tornano all'interno del clan familiare per porsi ai suoi ordini. Borta consiglia a Temujín di ripristinare il commercio fra i mongoli, creando due mercati così che i commercianti possano appoggiarlo.
+es: Una vez liberada Borta de manos de los merkitas, la fama de Temujin se extiende por toda la estepa, y todos sus parientes y amigos vuelven al clan para ponerse a sus órdenes. Borta aconseja a Temujin que restablezca el comercio entre los mongoles construyendo dos mercados, para que los mercaderes le apoyen.
+
+it: Commercio
+es: Comercio
+
+it: La costruzione dei due mercati permetterà il commercio fra le tribù  della Mongolia e sarà senza dubbio un'ottima fonte di entrate per le future campagne.
+es: Los dos mercados permitirán el comercio entre las tribus de Mongolia y serán sin duda una buena fuente de ingresos para las próximas campañas.
+
+it: Mercati
+es: Mercados
+
+it: Improvvisamente, avvicinandosi ai papiri, il suolo comincia a tremare, le statue di pietra prendono vita e si trasformano in esseri enormi e grotteschi che, senza una parola, cominciano ad attaccarti.
+es: De pronto, al acercarte a los pergaminos, el suelo empieza a temblar, las estatuas de piedra cobran vida y se transforman en seres enormes y grotescos que, sin decir palabra, empiezan a atacarte.
+
+it: Golem
+es: Gólems
+
+it: Yamuga si è nascosto da qualche parte a curare le proprie ferite.
+es: Yamuga se ha escondido en algún lugar para curarse las heridas.
+
+it: Temujín aveva trovato il suo sospirato arco, il cui strano potere sembrava collegato a sua moglie Borta: finché lei fosse rimasta viva, egli avrebbe usufruito dei favolosi poteri dell'arma.
+es: Temujin había encontrado el arco que tanto ansiaba, cuyo extraño poder parecía ligado a su esposa Borta: mientras ella viviera, él gozaría de los fabulosos poderes del arma.
+
+it: La negromante, vedendosi ferita, ha operato una magia ed è scomparsa. Purtroppo quella che sembrava una fuga si rivela essere una trappola mortale per Temujín. La strega con un incantesimo ha evocato un drago malvagio...
+es: Al verse herida, la nigromante lanzó un hechizo y desapareció. Por desgracia, lo que parecía una huida resulta ser una trampa mortal para Temujin. Con un conjuro, la bruja ha invocado a un dragón maligno...
+
+it: Un fratello di Temujín è stato ferito mortalmente.
+es: Un hermano de Temujin ha sido herido de muerte.
+
+it: Temujín è morto combattendo eroicamente, tuttavia il suo ricordo si perderà nell'oblio.
+es: Temujin ha muerto luchando heroicamente, pero su recuerdo caerá en el olvido.
+
+it: Il vecchio che custodiva i tuoi cavalli è stato assassinato.
+es: El anciano que cuidaba de tus caballos ha sido asesinado.
+
+it: Borta, la sposa de Temujín, è stata assassinata.
+es: Borta, la esposa de Temujin, ha sido asesinada.
+
+it: Il maestro Batu è morto. I monaci piangeranno la sua perdita per anni.
+es: El maestro Batu ha muerto. Los monjes llorarán su pérdida durante años.
+
+it: La sconfitta delle tribù rivali permette a Temujín di sottomettere tutti i generali e i capi dei clan della steppa. Unite le tribù sotto il suo comando, i capi si riuniscono nella Grande Assemblea dei guerrieri, vicino alle fonti del fiume Onon e, nell'anno della tigre (1206), proclamano Temujín imperatore con il nome di Gengis Khan. Lo stendardo bianco di Gengis Khan sventola superbo alla volta della sua prossima conquista: Pechino, il cuore dell'Impero Cinese.
+es: La derrota de las tribus rivales permite a Temujin someter a todos los generales y jefes de clan de la estepa. Con las tribus unidas bajo su mando, los jefes se reúnen en la Gran Asamblea de los Guerreros, cerca de las fuentes del río Onón, y en el año del tigre (1206) proclaman a Temujin emperador con el nombre de Gengis Kan. El estandarte blanco de Gengis Kan ondea orgulloso hacia su próxima conquista: Pekín, el corazón del Imperio chino.
+
+it: Fuggi dai taichiti e ritorna al tuo accampamento. Se vuoi superare l'inverno, dovrai costruire una fattoria per sfamare la tua tribù.
+es: Escapa de los taichiudos y vuelve a tu campamento. Si quieres sobrevivir al invierno, tendrás que construir una granja para alimentar a tu tribu.
+
+it: Temujín e almeno uno dei suoi familiari devono sopravvivere.
+es: Temujin y al menos un miembro de su familia deben sobrevivir.
+
+it: Trova i ladri di cavalli e impossessati della stalla con l'aiuto dei tuoi contadini.
+es: Encuentra a los ladrones de caballos y toma el establo con la ayuda de tus campesinos.
+
+it: Chiedi udienza a Tugril-Khan.
+es: Pide audiencia a Tugril Khan.
+
+it: Produci unità di cibo fino ad averne 400.
+es: Produce comida hasta tener 400.
+
+it: Viaggia fino alla corte dei kerait per celebrare le tue nozze.
+es: Viaja a la corte de los keraítas para celebrar tu boda.
+
+it: Parti con la tua sposa per fare ritorno al tuo accampamento.
+es: Parte con tu esposa para volver a tu campamento.
+
+it: Sollecita l'aiuto di Tugril-Khan per liberare Borta.
+es: Pide ayuda a Tugril Khan para liberar a Borta.
+
+it: Trova la pozione di ossa di drago e consegnala a Tugril-Khan.
+es: Encuentra la poción de huesos de dragón y llévasela a Tugril Khan.
+
+it: Distruggi il castello dei merkit per liberare Borta.\nYamuga deve sopravvivere.
+es: Destruye el castillo de los merkitas para liberar a Borta.\nYamuga debe sobrevivir.
+
+it: Costruisci due mercati nel tuo accampamento per aumentare il tuo potere economico.
+es: Construye dos mercados en tu campamento para aumentar tu poder económico.
+
+it: Cerca l'accampamento dei tartari e distruggi il loro castello.
+es: Encuentra el campamento de los tártaros y destruye su castillo.
+
+it: Sconfiggi Yamuga e i suoi alleati.
+es: Derrota a Yamuga y a sus aliados.
+
+it: Impossessati dell'arco magico custodito dai taichiti sulla loro collina.
+es: Toma el arco mágico que los taichiudos guardan en su colina.
+
+it: Sconfiggi Yamuga e i suoi nuovi alleati del nord-est.
+es: Derrota a Yamuga y a sus nuevos aliados del noreste.
+
+it: Trova Yamuga e raccontagli la verità riguardo a sua figlia.
+es: Encuentra a Yamuga y dile la verdad sobre su hija.
+
+it: Sconfiggi i nani.
+es: Derrota a los enanos.
+
+it: Sconfiggi gli orchi.
+es: Derrota a los orcos.
+
+it: Trova il grimorio e portalo a Jagadai.
+es: Encuentra el grimorio y llévaselo a Jagadai.
+
+it: Recupera i papiri di Kettsuin e consegnali a Batu.
+es: Recupera los pergaminos de Kettsuin y llévaselos a Batu.
+
+it: Con l'aiuto della sua famiglia, Temujín comincia la ricostruzione del suo villaggio, diventando in poco tempo un vero leader fra i suoi.
+es: Con la ayuda de su familia, Temujin empieza a reconstruir su aldea y pronto se convierte en un verdadero jefe para su pueblo.
+
+it: Bochurgi è morto! Piangeremo per la scomparsa di questo grande guerriero.
+es: ¡Bochurgi ha muerto! Lloraremos la pérdida de este gran guerrero.
+
+it: Tugril-Khan è morto, il suo popolo rimane orfano di un grande capo.
+es: Tugril Khan ha muerto, y su pueblo se queda sin un gran jefe.
+
+it: e far fronte a un lungo inverno. Solo sua madre Elun e  suoi fratelli gli rimangono accanto...
+es: y a afrontar un largo invierno. Solo su madre Elun y sus hermanos siguen a su lado...
+
+it: Yamuga, invidioso del prestigio di Temujin e del suo nuovo arco, abbandona il clan con i suoi guerrieri.
+es: Yamuga, celoso del prestigio de Temujin y de su nuevo arco, abandona el clan con sus guerreros.
+
+it: È morta tutta la famiglia di Temujín. Senza il loro aiuto Temujín non potrà mantenere il suo giuramento.
+es: Toda la familia de Temujin ha muerto. Sin su ayuda, Temujin no podrá cumplir su juramento.
+
+it: Fratelli
+es: Hermanos
+
+it: Sono già trascorsi tre anni dal giuramento di Temujín. Dovrai affrettarti se vuoi mantenere la promessa fatta a tua madre.
+es: Ya han pasado tres años desde el juramento de Temujin. Debes darte prisa si quieres cumplir la promesa hecha a tu madre.
+
+it: Tempo
+es: Tiempo
+
+it: Sono già trascorsi otto anni dal giuramento di Temujín. Ti rimane poco tempo...
+es: Ya han pasado ocho años desde el juramento de Temujin. Te queda poco tiempo...
+
+it: I tartari, di fronte alla ferocia dell'attacco rimangono confusi e si sottomettono all'autorità di Temujín.
+es: Ante la furia del ataque, los tártaros se desbandan y se someten a la autoridad de Temujin.
+
+it: Tártari
+es: Tártaros
+
+it: Ora che gli orchi e i nani possono godere di un'accogliente taverna, sarebbe meglio andare a controllare se hanno ancora voglia di combattersi.
+es: Ahora que los orcos y los enanos pueden disfrutar de una acogedora taberna, sería prudente ir a ver si aún tienen ganas de pelearse.
+
+it: Taverne
+es: Tabernas
+
+it: Temujín è riuscito a riunire la maggior parte delle tribù della steppa sotto il suo comando. I capi si riuniscono nella Grande Assemblea dei guerrieri, vicino alle fonti del fiume Onon e, nell'anno della tigre (1206), proclamano Temujín imperatore con il nome di Gengis Khan. Senza dubbio le tribù ribelli che ancora non accettano la sua autorità cercheranno di osteggiarlo nel corso della nuova missione: la conquista di Pechino, il cuore dell'Impero Cinese.
+es: Temujin ha logrado poner bajo su mando a la mayoría de las tribus de la estepa. Los jefes se reúnen en la Gran Asamblea de los Guerreros, cerca de las fuentes del río Onón, y en el año del tigre (1206) proclaman a Temujin emperador con el nombre de Gengis Kan. Sin duda, las tribus rebeldes que aún no aceptan su autoridad intentarán cerrarle el paso en la nueva misión: la conquista de Pekín, el corazón del Imperio chino.
+
+it: Viaggia verso le terre del sud-est e libera Alana dalla sua prigionia.
+es: Viaja a las tierras del sureste y libera a Alana de su cautiverio.
+
+it: Trova Yamuga e raccontagli la verità su sua figlia.
+es: Encuentra a Yamuga y dile la verdad sobre su hija.
+
+it: Elun, la madre di Temujín, è morta.
+es: Elun, la madre de Temujin, ha muerto.
+
+it: Jagadai è morto, ora non potrai contare sul suo prezioso aiuto.
+es: Jagadai ha muerto, y ya no puedes contar con su valiosa ayuda.
+
+it: Il capo degli orchi, Unojo, è morto, l'odio del suo popolo ti seguirà ovunque andrai.
+es: Unojo, jefe de los orcos, ha muerto, y el odio de su pueblo te perseguirá allá donde vayas.
+
+it: Zhorin, capo dei nani è morto. Il suo popolo ti dichiara una guerra senza quartiere.
+es: Zhorin, jefe de los enanos, ha muerto. Su pueblo te declara una guerra sin cuartel.
+
+it: Yamuga è morto. Le sue truppe ti accusano di averlo mandato incontro ad una morte certa e se ne vanno. I tuoi uomini, di fronte all'abbandono delle truppe di Yamuga, perdono la fiducia nella tua leadership.\nÈ stato un duro colpo. Nessuno ha voglia di combattere al tuo fianco.
+es: Yamuga ha muerto. Sus tropas te acusan de haberlo enviado a una muerte segura y se marchan. Al ver desertar a las tropas de Yamuga, tus hombres pierden la fe en tu mando.\nEs un duro golpe. Nadie quiere luchar a tu lado.
+
+it: Yamuga è stato vilmente assassinato dalle tue truppe quando già si era arreso. La legge della steppa ti taccia di essere codardo e crudele e il tuo popolo si rifiuta di seguirti.
+es: Yamuga fue vilmente asesinado por tus tropas cuando ya se había rendido. La ley de la estepa te tacha de cobarde y cruel, y tu pueblo se niega a seguirte.
+
+it: La stalla che custodiva i tuoi cavalli da monta è stata distrutta. Senza di loro la tua tribù si ritrova privata del suo bene più prezioso.
+es: El establo que guardaba tus caballos de monta ha sido destruido. Sin ellos, tu tribu se ve privada de su bien más preciado.
+
+it: Stalla
+es: Establo
+
+it: I taichiti sono stati battuti dalla forza della sua spada.
+es: Los taichiudos han sido vencidos por la fuerza de su espada.
+
+it: Tutti i borkigini sono morti.
+es: Todos los borjiginos han muerto.
+
+it: I kerait sono stati decimati.
+es: Los keraítas han sido diezmados.
+
+it: Hai distrutto la resistenza dei naimani. Lunga vita a Gengis Khan!
+es: Has quebrado la resistencia de los naimanos. ¡Viva Gengis Kan!
+
+it: I merkit ostili a Temujín sono stati annientati.
+es: Los merkitas hostiles a Temujin han sido aniquilados.
+
+it: La vendetta di Temujín per la morte di suo padre è stata consumata.
+es: La venganza de Temujin por la muerte de su padre se ha consumado.
+
+it: Yenisei, non abbandonarci. La nostra tribù s'indebolisce e l'inverno si avvicina, abbiamo bisogno di tutti gli uomini disponibili.
+es: Yenisei, no nos abandones. Nuestra tribu se debilita y llega el invierno; necesitamos a todos los hombres.
+
+it: Donna, non ho intenzione di disertare come hanno fatto i clan familiari che ci hanno abbandonato. Parto alla ricerca di ricchezze per la nostra tribù. Tornerò presto con un gregge dieci volte più numeroso.
+es: Mujer, no pienso desertar como los clanes que nos abandonaron. Voy en busca de riquezas para nuestra tribu. Pronto volveré con un rebaño diez veces mayor.
+
+it: Non ti preoccupare, madre. Grazie ai nostri cavalli, riunirò la più grande schiera di guerrieri che si sia mai vista. In meno di dieci anni sottometterò tutti i clan e le tribù della steppa e vendicherò la morte di nostro padre.
+es: No te preocupes, madre. Gracias a nuestros caballos reuniré la mayor hueste de guerreros jamás vista. En menos de diez años someteré a todos los clanes y tribus de la estepa y vengaré la muerte de nuestro padre.
+
+it: Grazie agli dei sei ancora con me, Temujín. Ritrovo in te la forza di tuo padre. Sarai un grande capo, ma dovrai approfittare degli anni della tua giovinezza.
+es: Gracias a los dioses que sigues conmigo, Temujin. Veo en ti la fuerza de tu padre. Serás un gran jefe, pero debes aprovechar bien los años de tu juventud.
+
+it: Alle armi! Ci attaccano i taichiti!\nMaledetti traditori!
+es: ¡A las armas! ¡Los taichiudos nos atacan!\n¡Malditos traidores!
+
+it: Correte figli miei!
+es: ¡Corred, hijos míos!
+
+it: Dobbiamo fuggire! Si è fatto giorno. Approfittiamo del fatto che i taichiti dormono dopo la celebrazione di questa notte e fuggiamo... queste palizzate sono vecchie e malfatte, insieme potremo romperle.
+es: ¡Tenemos que escapar! Ya ha amanecido. Aprovechemos que los taichiudos duermen tras la fiesta de anoche y huyamos... estas empalizadas son viejas y están mal hechas; juntos podemos romperlas.
+
+it: Ma... dove andremo? Ci hanno portato via tutto... Moriremo di fame! Non abbiamo nemmeno la legna per resistere durante l'inverno.
+es: Pero... ¿adónde iremos? Nos lo han quitado todo... ¡Nos moriremos de hambre! Ni siquiera tenemos leña para pasar el invierno.
+
+it: La prenderemo a loro. Dobbiamo provarci se non vogliamo rimanere prigionieri tutta la vita.
+es: Se la quitaremos a ellos. Tenemos que intentarlo, si no queremos ser prisioneros toda la vida.
+
+it: Ma il deposito della legna è vigilato, sarà difficile rompere la palizzata senza essere scoperti.
+es: Pero la leña está vigilada; será difícil romper la empalizada sin que nos vean.
+
+it: Se non dovessimo riuscire a rubare la loro legna, possiamo sempre tornare alle nostre terre e ricostruire il nostro accampamento, non potremo sopravvivere senza un rifugio.
+es: Si no podemos robarles la leña, siempre podemos volver a nuestras tierras y levantar de nuevo el campamento; sin un refugio no podremos sobrevivir.
+
+it: Ho perso le tracce di quei maledetti stranieri! Si sta facendo notte… devo tornare all'accampamento. È un duro colpo per il nostro popolo.
+es: ¡He perdido el rastro de esos malditos forasteros! Cae la noche… Debo volver al campamento. Es un duro golpe para nuestro pueblo.
+
+it: Salute guerriero!
+es: ¡Saludos, guerrero!
+
+it: Chi sei? Fatti vedere!
+es: ¿Quién eres? ¡Muéstrate!
+
+it: Il mio nome è Bochurgui, esperto nelle arti orientali del combattimento. Stavo seguendo le tracce di alcuni stranieri che mi sembravano sospetti fino ad una stalla in cui custodivano dei cavalli.
+es: Me llamo Bochurgi, maestro de las artes de combate de oriente. Seguía el rastro de unos forasteros que me parecieron sospechosos, hasta un establo donde guardaban unos caballos.
+
+it: Quei cavalli appartengono al mio popolo! Sono cavalli da monta di gran pregio. I ladri di bestiame hanno approfittato dell'oscurità della notte per penetrare nel nostro accampamento e rubarli.
+es: ¡Esos caballos son de mi pueblo! Son caballos de monta de gran valor. Los cuatreros aprovecharon la oscuridad de la noche para entrar en nuestro campamento y robarlos.
+
+it: Umm, credo che ti aiuterò. Non mi piacciono gli stranieri, ma se vogliamo recuperare quei cavalli avremo bisogno dell'aiuto della tua tribù. Mentre noi ci occuperemo di distrarre i soldati di guardia, i tuoi uomini potranno cercare di impossessarsi della stalla. Come vedi, alcuni di loro sono all'interno.
+es: Hum, creo que te ayudaré. No me gustan los forasteros, pero si queremos recuperar esos caballos necesitaremos la ayuda de tu tribu. Mientras distraemos a los soldados de guardia, tus hombres pueden intentar tomar el establo. Como ves, algunos están dentro.
+
+it: Andiamo, si trovano da queste parti...
+es: Ven, están por aquí...
+
+it: Il mio nome è Temujín, figlio di Yesugei. Guidami a quella stalla e verrai ricompensato.
+es: Me llamo Temujin, hijo de Yesugei. Llévame a ese establo y serás recompensado.
+
+it: Togliti dalla mia strada! Il tuo aspetto ti tradisce, ladro.
+es: ¡Apártate de mi camino! Tu aspecto te delata, ladrón.
+
+it: Non tollererò di essere insultato da te! Proverai l'acciaio della mia spada!
+es: ¡No toleraré tus insultos! ¡Probarás el acero de mi espada!
+
+it: I nostri cavalli da monta sono stati recuperati! Grazie ad essi potremo aumentare la grandezza e il potere della nostra cavalleria.
+es: ¡Hemos recuperado nuestros caballos de monta! Gracias a ellos podremos aumentar el tamaño y el poder de nuestra caballería.
+
+it: Ora devo recarmi presso la corte di Tugril-Khan, capo della tribù dei kerait dove vive Borta, la mia sposa. Con quest'unione potrò suggellare una potente alleanza.
+es: Ahora debo ir a la corte de Tugril Khan, jefe de los keraítas, donde vive Borta, mi prometida. Con esta unión podré sellar una alianza poderosa.
+
+it: Potente signore, grazie per avermi liberato dal giogo di quegli assalitori. Ormai sono anziano ma ho allevato i migliori cavalli delle steppe, e questa è la ragione per cui venivo tenuto prigioniero da questi uomini. Come ringraziamento dedicherò il resto della mia vita alla cura dei tuoi destrieri.
+es: Poderoso señor, gracias por librarme del yugo de esos saqueadores. Ya soy viejo, pero he criado los mejores caballos de las estepas, y por eso me tenían prisionero esos hombres. En agradecimiento, dedicaré el resto de mi vida al cuidado de vuestros corceles.
+
+it: Grazie per la tua offerta, vecchio. Occupati dell'allevamento dei miei cavalli ed io proteggerò la tua stalla. Quando ne avrò bisogno, verrò a cercarti.
+es: Gracias por tu ofrecimiento, anciano. Ocúpate de la cría de mis caballos y yo protegeré tu establo. Cuando te necesite, iré a buscarte.
+
+it: Grazie, mio signore.
+es: Gracias, mi señor.
+
+it: Ti porgo il benvenuto Temujín. Il mio nome è Tugril-Khan, capo della tribù dei kerait, famosa in tutta la steppa per i suoi favolosi carri da guerra. Sei diventato un vero capo per la tua tribù. Non mi aspettavo di meno dal futuro marito di mia figlia. Immagino che tu venga a celebrare l'unione con Borta, vero?
+es: Te doy la bienvenida, Temujin. Me llamo Tugril Khan, jefe de los keraítas, una tribu famosa en toda la estepa por sus fabulosos carros de guerra. Te has convertido en un verdadero jefe para tu tribu. No esperaba menos del futuro esposo de mi hija. Supongo que has venido a celebrar tu unión con Borta, ¿no es así?
+
+it: È così, Tugril-khan. Vengo a portare a compimento la promessa matrimoniale fatta quando era ancora vivo mio padre, il grande Yesugei.
+es: Así es, Tugril Khan. He venido a cumplir la promesa de matrimonio hecha cuando aún vivía mi padre, el gran Yesugei.
+
+it: Mi dispiace Tugril-Khan.
+es: Lo siento, Tugril Khan.
+
+it: In questo caso rispetteremo la tua decisione e aspetteremo il tuo ritorno.
+es: En ese caso respetaremos tu decisión y esperaremos tu regreso.
+
+it: Conosci gli usi della steppa. Prima dovrai consegnarci una dote degna del prestigio di cui gode mia figlia Borta. Inviaci cibo come forma di tributo. Se sarà di nostro gradimento, te lo faremo sapere e potremo celebrare il matrimonio.
+es: Conoces las costumbres de la estepa. Primero debes darnos una dote digna de la estima de que goza mi hija Borta. Envíanos comida como tributo. Si nos satisface, te lo haremos saber y podremos celebrar la boda.
+
+it: Così sia.
+es: Así sea.
+
+it: Salute a te, Temujín, hai cambiato idea?
+es: Saludos, Temujin. ¿Has cambiado de opinión?
+
+it: Ancora no.
+es: Todavía no.
+
+it: Maledizione! La tribù dei merkit ci ha teso un'imboscata! Corri Borta! Fuggi!
+es: ¡Maldición! ¡La tribu de los merkitas nos ha tendido una emboscada! ¡Corre, Borta! ¡Huye!
+
+it: Temujín, aiutami!
+es: ¡Temujin, ayúdame!
+
+it: Maledetti... hanno rapito Borta! Sono troppi, se voglio salvarmi devo fuggire per chiedere aiuto a Tugril-Khan e organizzare una spedizione per riscattarla.
+es: Malditos sean... ¡se han llevado a Borta! Son demasiados; si quiero salvarme, debo huir, pedir ayuda a Tugril Khan y organizar una expedición para rescatarla.
+
+it: Molto bene ragazzo! Ora prendi la tua sposa e torna all'accampamento. Da oggi ti accetto come figlio e come tale potrai contare pienamente sul mio aiuto e sulla mia protezione.
+es: ¡Muy bien, muchacho! Ahora toma a tu esposa y vuelve al campamento. Desde hoy te acepto como hijo, y como tal puedes contar plenamente con mi ayuda y mi protección.
+
+it: Ti ringrazio, grande Tugril-Khan. Il tuo potente esercito mi sarà sicuramente di grande aiuto per sconfiggere i nostri nemici.
+es: Te lo agradezco, gran Tugril Khan. Tu poderoso ejército será sin duda de gran ayuda para vencer a nuestros enemigos.
+
+it: Tugril-Khan! I merkit ci hanno teso un'imboscata e hanno rapito Borta! Ho bisogno del vostro aiuto!
+es: ¡Tugril Khan! ¡Los merkitas nos han tendido una emboscada y se han llevado a Borta! ¡Necesito tu ayuda!
+
+it: Mi porti notizia di grandi disgrazie, figlio mio. Dobbiamo escogitare presto qualcosa o Borta morirà. Purtroppo sono molto malato e riesco a muovermi a fatica. Sai che il mio esercito non si muoverà senza il proprio generale. Invierò il mio messaggero più rapido alla ricerca di Yamuga, tuo amico d'infanzia. Magari ci aiuterà in questo momento così difficile.
+es: Me traes muy malas noticias, hijo mío. Debemos pensar algo deprisa o Borta morirá. Por desgracia, estoy muy enfermo y apenas puedo moverme. Sabes que mi ejército no marchará sin su general. Enviaré a mi mensajero más veloz en busca de Yamuga, tu amigo de la infancia. Quizá nos ayude en este momento difícil.
+
+it: Ma non sarà sufficiente! Abbiamo bisogno del vostro esercito! Ci deve essere un modo per restituirvi il vigore.
+es: ¡Pero no bastará! ¡Necesitamos tu ejército! Tiene que haber una forma de devolverte las fuerzas.
+
+it: Ci sarebbe, anche se qualcuno lo considera solo una leggenda. Gli sciamani della tribù sostengono che esista una bevanda medicinale nei dintorni di un antico vulcano tra le Montagne Bianche, a nord. Si tratta di una pozione unica, fatta con le sacre ossa del drago. Ma il viaggio è pericoloso, le montagne sono infestate da nani e si racconta che alcuni spiriti maligni proteggano la pozione. Se riuscissi a procurarmi la bevanda curativa, forse avremmo una possibilità.
+es: La habría, aunque algunos la crean solo una leyenda. Los chamanes de la tribu dicen que hay un brebaje curativo cerca de un antiguo volcán de las Montañas Blancas, al norte. Es una poción única, hecha con los huesos sagrados del dragón. Pero el viaje es peligroso: las montañas están infestadas de enanos, y dicen que unos espíritus malignos guardan la poción. Si pudieras traerme el brebaje curativo, quizá tendríamos una oportunidad.
+
+it: Ve la porterò!
+es: ¡Te lo traeré!
+
+it: Hai portato la pozione! Il nostro popolo ti sarà eternamente debitore. Durante la tua assenza è giunto al nostro accampamento Yamuga  con le sue truppe. Uniamo le nostre forze per salvare Borta e sottomettiamo i merkit una volta per tutte!
+es: ¡Has traído la poción! Nuestro pueblo estará siempre en deuda contigo. Mientras estabas fuera, Yamuga vino a nuestro campamento con sus tropas. ¡Unamos nuestras fuerzas para salvar a Borta y someter a los merkitas de una vez por todas!
+
+it: E allora moriranno tutti! Andiamo ad affrontarli!
+es: ¡Entonces morirán todos! ¡Vamos a hacerles frente!
+
+it: I miei uomini sono al tuo servizio e ti saranno fedeli come lo sarebbero a me.
+es: Mis hombres están a tu servicio y te serán tan leales como a mí.
+
+it: I merkit sono una tribù orgogliosa. Dobbiamo distruggere il loro accampamento se vogliamo liberare Borta.
+es: Los merkitas son una tribu orgullosa. Debemos destruir su campamento si queremos liberar a Borta.
+
+it: Benvenuto, straniero. Il mio nome è Zhorin, figlio di Grorin, re della Montagna Bianca. Siamo un popolo di fabbri eccellenti, creatori di armi e armature. Sei molto lontano dalla tua terra. Cosa ti porta qui?
+es: Bienvenido, forastero. Me llamo Zhorin, hijo de Grorin, rey de la Montaña Blanca. Somos un pueblo de excelentes herreros, forjadores de armas y armaduras. Estás muy lejos de tu tierra. ¿Qué te trae por aquí?
+
+it: Toglietevi dalla mia strada se non volete saggiare la potenza del mio arco!
+es: ¡Apártate de mi camino si no quieres sentir el poder de mi arco!
+
+it: Salute, Zhorin. Vengo in pace.
+es: Saludos, Zhorin. Vengo en son de paz.
+
+it: Dovrai passare sul mio cadavere!
+es: ¡Tendrás que pasar por encima de mi cadáver!
+
+it: Allora dovrai stare molto attento. A nord abitano alcuni spiriti maligni. Evitali o incorrerai in una morte rapida.
+es: Entonces ten mucho cuidado. Al norte habitan unos espíritus malignos. Evítalos o encontrarás una muerte rápida.
+
+it: Però! Sembra che tu sia riuscito a uscire vivo da queste montagne. Devi essere molto abile con l'arco. Forse potresti aiutarci ad annientare gli orchi dell'est. Sono una calamità per il nostro popolo. Generazioni di lotte senza tregua non ci hanno consentito di sconfiggerli. Segui il corso del fiume verso est e li incontrerai. Se riuscirai nello scopo otterrai da noi servigi e lealtà eterna.
+es: ¡Vaya! Parece que has salido vivo de estas montañas. Debes de ser muy hábil con el arco. Quizá podrías ayudarnos a acabar con los orcos del este. Son una plaga para nuestro pueblo. Generaciones de luchas sin fin no nos han permitido vencerlos. Sigue el río hacia el este y los encontrarás. Si lo consigues, tendrás para siempre nuestros servicios y nuestra lealtad.
+
+it: Grazie, Zhorin. Penserò alla tua offerta.
+es: Gracias, Zhorin. Pensaré en tu oferta.
+
+it: Credo che conquisterò la vostra lealtà con la forza del mio arco!
+es: ¡Creo que me ganaré tu lealtad con la fuerza de mi arco!
+
+it: Magnifico! Sei un guerriero portentoso. Il mio esercito e la perizia del mio popolo saranno al tuo servizio, qualora dovessero servirti. Come segno della nostra alleanza ti regalo il mio scudo, forgiato in una lega di mithril, un materiale molto difficile da reperire e assi costoso.
+es: ¡Espléndido! Eres un guerrero poderoso. Mi ejército y la destreza de mi pueblo estarán a tu servicio si los necesitas. En prenda de nuestra alianza te doy mi escudo, forjado en una aleación de mithril, un metal muy difícil de encontrar y muy caro.
+
+it: Alt! Chi sei? Non sembri un fetido nano. Che fai così lontano dal tuo paese? Sono Unojo, capo di questa tribù di orchi.
+es: ¡Alto! ¿Quién eres? No pareces un enano apestoso. ¿Qué haces tan lejos de tu país? Soy Unojo, jefe de esta tribu de orcos.
+
+it: Ho intenzione di annientarvi!
+es: ¡Pienso acabar con vosotros!
+
+it: Finalmente un po' di esercizio!
+es: ¡Por fin un poco de ejercicio!
+
+it: La fama dell'eccellenza delle vostre armi d'assedio si è estesa a tutta la regione. Mi piacerebbe apprenderne il funzionamento.
+es: La fama de vuestras excelentes armas de asedio se ha extendido por toda la región. Me gustaría aprender cómo funcionan.
+
+it: Ah, ah, ah, belle parole, umano. Annienta quei seccatori di nani che vivono sulle montagne che troverai risalendo il fiume verso ovest e io ti mostrerò come funzionano le nostre macchine d'assedio. Come ti sembra quest'accordo?
+es: Ja, ja, ja, bonitas palabras, humano. Acaba con esos enanos fastidiosos que viven en las montañas que encontrarás subiendo por el río hacia el oeste, y te enseñaré cómo funcionan nuestras máquinas de asedio. ¿Qué te parece el trato?
+
+it: Che c'è? Che hai da annusare?
+es: ¿Qué pasa? ¿Qué estás olisqueando?
+
+it: Sto ammirando il vostro esercito. È formidabile!
+es: Estoy admirando tu ejército. ¡Es formidable!
+
+it: Sei sorprendente umano! Francamente non pensavo proprio che ci saresti riuscito. Le nostre asce e le nostre macchine d'assedio saranno a tua disposizione quando vorrai. Per il momento, come segno di ringraziamento, ti darò una delle nostre pozioni rinvigorenti. La loro formula è conosciuta solo dallo sciamano della nostra tribù, anche se pare che vengano preparate con ossa di drago. Bevila tutta d'un fiato, i suoi poteri curativi non riescono a nasconderne il sapore orribile...
+es: ¡Eres asombroso, humano! Francamente, no creía que lo lograras. Nuestras hachas y nuestras máquinas de asedio estarán a tu disposición cuando quieras. Por ahora, en agradecimiento, te daré una de nuestras pociones reconstituyentes. Su receta solo la conoce el chamán de nuestra tribu, aunque dicen que se hacen con huesos de dragón. Bébela de un trago; sus poderes curativos no pueden ocultar su horrible sabor...
+
+it: C'è troppo odio fra i nani e gli orchi! Costruiamo a entrambi una taverna in modo che possano affogare il loro risentimento in una giara di idromele!
+es: ¡Hay demasiado odio entre los enanos y los orcos! ¡Construyámosles una taberna a cada uno para que ahoguen sus rencores en una jarra de hidromiel!
+
+it: Yamuga si allontana con le sue truppe e ci abbandona! Farò i conti con quel traditore più tardi, ora che abbiamo recuperato il nostro potere è il momento di trovare e distruggere i tartari, gli assassini di mio padre. Se distruggiamo il loro castello saranno nelle nostre mani!
+es: ¡Yamuga se marcha con sus tropas y nos abandona! Ya ajustaré cuentas con ese traidor más adelante; ahora que hemos recuperado nuestro poder, es hora de encontrar y destruir a los tártaros, los asesinos de mi padre. ¡Si destruimos su castillo, estarán en nuestras manos!
+
+it: L'ambizione di Yamuga è maggiore di quanto pensassi! Questo traditore si è autoproclamato Khan e si è ribellato contro di me! Le spie mi hanno informato che ha suggellato un'alleanza con la tribù dei naimani che abitano le terre del nord-ovest. Darò loro una lezione che non dimenticheranno tanto facilmente!
+es: ¡La ambición de Yamuga es mayor de lo que creía! ¡El traidor se ha proclamado Kan y se ha rebelado contra mí! Los espías me han dicho que ha sellado una alianza con la tribu de los naimanos, que viven en las tierras del noroeste. ¡Les daré una lección que no olvidarán fácilmente!
+
+it: Benvenuto al tempio Shao-Linn, Temujín. Sono il maestro Batu. La tua fama ti precede. Forse sei tu l'aiuto che attendevamo. Per decenni noi monaci abbiamo tentato, senza alcun risultato, di recuperare i papiri di Kettsuin. Per noi hanno un valore incalcolabile, dato che contengono tutti gli insegnamenti dei nostri predecessori. Ci sono voci secondo cui si troverebbero a nord-est, vicino ai grandi laghi, ma nessuno dei nostri fratelli partiti alla loro ricerca ha mai fatto ritorno al tempio. Aiutaci a recuperarli! Se ci riuscirai i monaci Shao-Linn saranno felici di abbracciare la tua causa.
+es: Bienvenido al templo Shao-Linn, Temujin. Soy el maestro Batu. Tu fama te precede. Quizá seas la ayuda que esperábamos. Desde hace décadas, los monjes intentamos sin éxito recuperar los pergaminos de Kettsuin. Para nosotros no tienen precio, pues contienen todas las enseñanzas de nuestros antepasados. Se rumorea que están al noreste, cerca de los grandes lagos, pero ninguno de los hermanos que salió a buscarlos ha vuelto jamás al templo. ¡Ayúdanos a recuperarlos! Si lo consigues, los monjes Shao-Linn abrazarán gustosos tu causa.
+
+it: Ci hai riportato i papiri di Kettsuin! Gli dei ti devono essere favorevoli! La nostra gratitudine sarà eterna, siamo ansiosi di studiarli. In futuro, se dovessi aver bisogno della nostra saggezza, verremo in tuo soccorso.
+es: ¡Has traído los pergaminos de Kettsuin! ¡Los dioses deben de favorecerte! Nuestra gratitud será eterna; estamos deseando estudiarlos. En el futuro, si necesitas nuestra sabiduría, acudiremos en tu ayuda.
+
+it: È ora di attaccare i taichiti e fargli pagare il loro tradimento! Strapperemo loro l'arco magico del drago. Senza esso i nostri vecchi alleati cadranno senza opporre resistenza. Non sarà facile perché l'arco si trova sulla cima della montagna che protegge il loro accampamento e sarà necessario scalarne i dirupi per riuscire a raggiungerlo...
+es: ¡Es hora de atacar a los taichiudos y hacerles pagar su traición! Les arrebataremos el arco mágico del dragón. Sin él, nuestros antiguos aliados caerán sin luchar. No será fácil, porque el arco está en la cima de la montaña que protege su campamento, y tendremos que escalar sus acantilados para alcanzarlo...
+
+it: Come? I naimani proteggono il fuggitivo Yamuga!? Pagheranno per la loro audacia!
+es: ¿Qué? ¡¿Los naimanos protegen al fugitivo Yamuga?! ¡Pagarán su osadía!
+
+it: Fermo! Ci arrendiamo! Hai vinto Temujín. Rompo il mio arco e m'inchino al tuo cospetto... sono stufo di combattere, mia figlia Alana è stata rapita da un potente guerriero straniero che la tiene prigioniera in un castello a sud-est.
+es: ¡Basta! ¡Nos rendimos! Has ganado, Temujin. Rompo mi arco y me inclino ante ti... Estoy cansado de luchar. Mi hija Alana ha sido raptada por un poderoso guerrero extranjero que la tiene prisionera en un castillo al sureste.
+
+it: Benvenuto nella mia umile dimora Temujín. Sono Jagadai, stregone dell'Ordine del Bosco. Da molto tempo il nostro ordine cerca di completare il cerchio della saggezza, ma non possiamo riuscirci finché non verrà recuperato il testo sacro della magia del drago, in cui sono contenuti tutti i segreti per richiamare queste potenti creature. Il libro sacro è stato rubato molto tempo fa da una negromante, rifiutata dal nostro ordine, che abita nelle desolate lande dell'est. Recupera il libro sacro e noi ci metteremo al tuo servizio!
+es: Bienvenido a mi humilde morada, Temujin. Soy Jagadai, hechicero de la Orden del Bosque. Desde hace mucho, nuestra orden intenta completar el círculo de la sabiduría, pero no podremos hasta recuperar el texto sagrado de la magia de los dragones, que guarda todos los secretos para invocar a esas poderosas criaturas. El libro sagrado lo robó hace mucho una nigromante, expulsada de nuestra orden, que vive en los desolados páramos del este. ¡Recupera el libro sagrado y nos pondremos a tu servicio!
+
+it: È incredibile! Ci hai riportato il libro sacro! Da questo momento l'Ordine metterà tutto il suo potere al servizio del tuo destino, Temujín.
+es: ¡Es increíble! ¡Has traído el libro sagrado! Desde este momento la Orden pone todo su poder al servicio de tu destino, Temujin.
+
+it: Molto bene ragazzo! Da oggi ti accetto come figlio e come tale potrai contare pienamente sul mio aiuto e sulla mia protezione!
+es: ¡Muy bien, muchacho! Desde hoy te acepto como hijo, y como tal puedes contar plenamente con mi ayuda y mi protección.
+
+it: Borta, figlia mia, è arrivato Temujín.
+es: Borta, hija mía, ha llegado Temujin.
+
+it: Benvenuto, mio signore! Sono lusingata dalla generosità della dote che hai consegnato a mio padre, spero di meritarla. Metterò le mie conoscenze magiche al servizio del mio nuovo popolo.
+es: ¡Bienvenido, mi señor! Me halaga la generosa dote que habéis dado a mi padre, y espero merecerla. Pondré mi saber de la magia al servicio de mi nuevo pueblo.
+
+it: Saluti, incantevole Borta. Aspettavo con impazienza questo momento. Il sangue delle due tribù correrà nelle vene della nostra discendenza.
+es: Saludos, bella Borta. He esperado con ansia este momento. La sangre de las dos tribus correrá por las venas de nuestros descendientes.
+
+it: Rapita? Ah, ah, ah...! Non sono prigioniera! Il "pericoloso straniero" di cui parla mio padre è un nobile giapponese più interessato a rendermi felice che a combattere. Temujín, gran guerriero, partite e dite a mio padre Yamuga che sono fuggita spontaneamente perché non mi consentiva di sposarlo, noi ci amiamo!
+es: ¿Raptada? ¡Ja, ja, ja...! ¡No soy ninguna prisionera! El «peligroso extranjero» del que habla mi padre es un noble japonés más interesado en hacerme feliz que en luchar. Temujin, gran guerrero, ve a decirle a mi padre Yamuga que me fui por mi propia voluntad porque no me dejaba casarme con él. ¡Nos amamos!
+
+it: E va bene! Ho esagerato un po' ma avevo altri progetti per il suo futuro. Se lei è felice allora così sia. Per quanto mi riguarda, permettimi di appellarmi al nostro glorioso passato comune per scusarmi con te. Perdonandomi otterrai la mia lealtà. Uniamo la nostra saggezza nel campo della guerra per intraprendere nuove campagne. Che te ne pare?
+es: ¡Está bien! Me excedí un poco, pero tenía otros planes para su futuro. Si ella es feliz, así sea. En cuanto a mí, déjame invocar nuestro glorioso pasado común para pedirte perdón. Perdóname y tendrás mi lealtad. Unamos nuestra sabiduría en el arte de la guerra para emprender nuevas campañas. ¿Qué dices?
+
+# impero di gengis khan.wcm::maps/gengis_khan02
+it: La conquista di Pechino
+es: La conquista de Pekín
+
+it: Temujín, da poco proclamato Gengis Khan, è riuscito a formare il più grande esercito di tutta l'Asia. Capo supremo di tutte le tribù della steppa, si accinge ad affrontare un'impresa alla portata solo dei grandi conquistatori: l'invasione dell'Impero Cinese.
+es: Temujin, recién proclamado Gengis Kan, ha logrado reunir el mayor ejército de toda Asia. Jefe supremo de todas las tribus de la estepa, se dispone a afrontar una hazaña al alcance solo de los grandes conquistadores: la invasión del Imperio chino.
+
+it: Cinesi
+es: Chinos
+
+it: Regno 3
+es: Reino 3
+
+it: Comandanti
+es: Comandantes
+
+it: Gengis Khan
+es: Gengis Kan
+
+it: Eroe
+es: Héroe
+
+it: Palazzo
+es: Palacio
+
+it: Imperiale
+es: imperial
+
+it: Wanlí
+es: Wanli
+
+it: Figlia dell'Imperatore
+es: Hija del emperador
+
+it: Imperatore
+es: Emperador
+
+it: Yamuga e i suoi uomini si ritirano dalla battaglia...
+es: Yamuga y sus hombres se retiran de la batalla...
+
+it: Un inviato ti consegna un messaggio firmato da Yamuga: "Potente Gengis Khan, ho un piano per conquistare la città. Per favore raggiungimi solo dove sto andando, lì ti spiegherò tutto. Creo che ci siano spie cinesi infiltrate nel nostro esercito. Non mi fido di nessuno, devi venire solo."
+es: Un emisario te entrega un mensaje firmado por Yamuga: «Poderoso Gengis Kan, tengo un plan para tomar la ciudad. Reúnete conmigo a solas allí adonde voy; allí te lo explicaré todo. Creo que hay espías chinos en nuestro ejército. No me fío de nadie; debes venir solo».
+
+it: Gengis Khan impartiva le ultime istruzioni ai suoi generali, doveva approfittare dell'occasione: la Grande Muraglia cinese era scarsamente difesa e oltre essa si estendevano i ricchi territori dell'Impero Cinese...e Pechino. Una volta conquistato il Palazzo Imperiale, il resto sarebbe stato facile...
+es: Gengis Kan daba las últimas órdenes a sus generales; tenía que aprovechar el momento: la Gran Muralla china estaba mal defendida, y más allá se extendían las ricas tierras del Imperio chino... y Pekín. Una vez tomado el Palacio Imperial, lo demás sería fácil...
+
+it: Pechino
+es: Pekín
+
+it: Quando la città di Karakorum venne proclamata capitale della Mongolia, Gengis Khan, assieme ai suoi alleati, decise di iniziare l'opera di conquista della Cina alla ricerca di pascoli migliori per i suoi cavalli. Il suo obiettivo era occupare Pechino, ultima roccaforte cinese a nord del paese, dominata dalla dinastia Jin. L'invincibile esercito dell'imperatore cinese Yuan li attende dietro alle muraglie...
+es: Cuando la ciudad de Karakórum fue proclamada capital de Mongolia, Gengis Kan, junto con sus aliados, decidió emprender la conquista de China en busca de mejores pastos para sus caballos. Su objetivo era tomar Pekín, último bastión chino del norte del país, gobernado por la dinastía Jin. El invencible ejército del emperador chino Yuan los espera tras las murallas...
+
+it: Conquista il Palazzo Imperiale.
+es: Conquista el Palacio Imperial.
+
+it: Nel 1215 gli eserciti di Gengis Khan occuparono la città di Pechino e nel 1218 la penisola coreana cadde nelle mani dei mongoli. Nel 1222 il loro dominio si estendeva dalla Mongolia fino ad Amu Daria, nell'Asia centrale. Alla sua morte, il 18 agosto del 1227, Gengis Khan aveva creato il più grande impero mai realizzato.
+es: En 1215 los ejércitos de Gengis Kan tomaron la ciudad de Pekín, y en 1218 la península de Corea cayó en manos de los mongoles. En 1222 su dominio se extendía de Mongolia al Amu Daria, en Asia central. A su muerte, el 18 de agosto de 1227, Gengis Kan había construido el mayor imperio jamás conocido.
+
+it: Nel frattempo, nel Palazzo Imperiale...
+es: Mientras tanto, en el Palacio Imperial...
+
+it: Gengis Khan deve sopravvivere.
+es: Gengis Kan debe sobrevivir.
+
+it: Il porto di Pechino è un punto strategico per la città. Impossessartene potrebbe esserti di grande aiuto.
+es: El puerto de Pekín es un punto estratégico para la ciudad. Tomarlo podría serte de gran ayuda.
+
+it: Porto
+es: Puerto
+
+it: Non è rimasta una pietra sull'altra a Pechino.
+es: En Pekín no queda piedra sobre piedra.
+
+it: Tutti i mongoli sono stati annientati.
+es: Todos los mongoles han sido aniquilados.
+
+it: Pechino è rimasta senza comandanti... rimane da conquistare solo il palazzo.
+es: Pekín se ha quedado sin comandantes... solo queda tomar el palacio.
+
+it: Gengis Khan è morto in battaglia.
+es: Gengis Kan ha muerto en combate.
+
+it: Hai annientato la maggior parte dell'esercito cinese, la vittoria è vicina.
+es: Has aniquilado la mayor parte del ejército chino; la victoria está cerca.
+
+it: Tutti i generali di Gengis Khan sono morti.
+es: Todos los generales de Gengis Kan han muerto.
+
+it: Yamuga e i suoi uomini hanno pagato per il loro tradimento.
+es: Yamuga y sus hombres han pagado su traición.
+
+it: Ho vissuto tutta la vita nella tua ombra Temujín... il tuo nobile lignaggio ti ha permesso di ottenere l'appoggio dei capi delle principali tribù. Ma io ora distruggerò tutto questo! Tu morirai e io diventerò il nuovo Khan. Uccidete Gengis Khan!
+es: He vivido toda mi vida a tu sombra, Temujin... tu noble linaje te ganó el apoyo de los jefes de las grandes tribus. ¡Pero ahora lo destruiré todo! Morirás y yo seré el nuevo Kan. ¡Matad a Gengis Kan!
+
+it: È una trappola! Sei un maledetto traditore Yamuga! Mi hai tradito per la seconda volta. Dovevo ucciderti quando ne avevo la possibilità. Hai venduto il tuo popolo ai nostri nemici! Pagherai per il tuo tradimento!
+es: ¡Es una trampa! ¡Eres un maldito traidor, Yamuga! Me has traicionado por segunda vez. Debí matarte cuando tuve ocasión. ¡Has vendido a tu pueblo a nuestros enemigos! ¡Pagarás tu traición!
+
+it: Ah, ah, ah...!
+es: ¡Ja, ja, ja...!
+
+it: È tutto pronto, figlia mia?
+es: ¿Está todo listo, hija mía?
+
+it: Sì padre, daremo a Gengis Khan un'accoglienza che non dimenticherà...
+es: Sí, padre, daremos a Gengis Kan un recibimiento que no olvidará...

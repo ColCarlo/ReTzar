@@ -1,0 +1,82 @@
+@echo off
+setlocal
+cd /d "%~dp0"
+rem Builds "release", the portable copy of ReTzar: ReTzar.exe and ReTzar.dat,
+rem the sealed pack of what ReTzar reads from an installed Tzar of any
+rem edition (CD, GOG or Steam; with the American CD also its campaign and
+rem movies), in modern formats and checked file by file.
+rem Without the original game, a ReTzar.dat already in "release" is kept and
+rem only ReTzar.exe is rebuilt, so the game never has to be installed again.
+rem Settings, progress and saves already in "release" stay.
+rem The original game: the folder given to this script, TZAR_DATA_ROOT, or
+rem the folder that holds the project. The American CD: USA\CD\SETUP\Tzar
+rem inside it, or TZAR_USA_ROOT.
+set "TZAR=%~dp0.."
+if defined TZAR_DATA_ROOT set "TZAR=%TZAR_DATA_ROOT%"
+if not "%~1"=="" set "TZAR=%~1"
+set "USA=%TZAR%\USA\CD\SETUP\Tzar"
+if defined TZAR_USA_ROOT set "USA=%TZAR_USA_ROOT%"
+set "DEST=%~dp0release"
+
+if not exist "%TZAR%\Maps\" goto no_game
+if exist "%TZAR%\Packs\" goto full
+if exist "%TZAR%\IMAGES\" goto full
+:no_game
+if exist "%DEST%\ReTzar.dat" goto exe_only
+echo Tzar not found in "%TZAR%".
+echo Give the folder where it is installed, for example:
+echo build-release.cmd "C:\GOG Games\Tzar"
+goto failed
+
+:full
+set "PACK=own"
+if exist "%USA%\Packs\movies.wdt" set "PACK=american"
+goto build
+
+:exe_only
+echo Tzar not found in "%TZAR%":
+echo the ReTzar.dat already in "%DEST%" is kept, only ReTzar.exe is rebuilt.
+set "PACK=none"
+
+:build
+echo Building the optimized version...
+cargo build --release --locked --bin retzar --bin retzar-tools
+if errorlevel 1 goto failed
+
+if not exist "%DEST%" mkdir "%DEST%"
+if "%PACK%"=="none" goto copy_exe
+echo Building the data pack...
+if "%PACK%"=="own" goto pack_own
+"target\release\retzar-tools.exe" --source "%TZAR%" --americano "%USA%" --crea-pacchetto "%DEST%\ReTzar.dat"
+goto packed
+:pack_own
+"target\release\retzar-tools.exe" --source "%TZAR%" --crea-pacchetto "%DEST%\ReTzar.dat"
+:packed
+if errorlevel 1 goto failed
+
+:copy_exe
+copy /y "target\release\retzar.exe" "%DEST%\ReTzar.exe" >nul
+if errorlevel 1 goto failed
+rem The first time, the settings and progress of the project folder.
+for %%f in (settings.json setup-options.json random-options.json) do (
+    if exist "%%f" if not exist "%DEST%\%%f" copy "%%f" "%DEST%\%%f" >nul
+)
+if not exist "%DEST%\campaign-progress.rtzp" if not exist "%DEST%\campaign-progress.json" (
+    if exist campaign-progress.rtzp (
+        copy campaign-progress.rtzp "%DEST%\campaign-progress.rtzp" >nul
+    ) else if exist campaign-progress.json (
+        copy campaign-progress.json "%DEST%\campaign-progress.json" >nul
+    )
+)
+
+echo.
+echo Ready: %DEST%
+echo Play with ReTzar.exe; the folder can be moved or copied anywhere.
+pause
+exit /b 0
+
+:failed
+echo.
+echo The release could not be built.
+pause
+exit /b 1

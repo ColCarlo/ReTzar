@@ -1,0 +1,76 @@
+# Mappe MP1–MP6 in francese: traduzione di questa versione, fatta dall'inglese della versione americana.
+
+# mp1.wmp::maps/mp1
+it: Sarà un lungo inverno
+fr: Ce sera un long hiver (1 contre 1)
+
+it: (1 giocatore contro 1)\nUna piccola mappa per giocare 1 contro 1 senza oro né pietre ma con un sacco di sorprendenti risorse.
+fr: Une toute petite carte pour 1 contre 1, sans or ni pierre, mais avec beaucoup de ressources au départ.
+
+it: Regno 1
+fr: Royaume 1
+
+it: Regno 2
+fr: Royaume 2
+
+it: Regno 3
+fr: Royaume 3
+
+it: Regno 4
+fr: Royaume 4
+
+it: Regno 5
+fr: Royaume 5
+
+it: Regno 6
+fr: Royaume 6
+
+it: Regno 7
+fr: Royaume 7
+
+it: Regno 8
+fr: Royaume 8
+
+# mp2.wmp::maps/mp2
+it: Non c’è posto per entrambi
+fr: Il n'y a pas de place pour nous deux (1 contre 1)
+
+it: (1 giocatore contro 1)\nUna piccola mappa per 2 giocatori con migliaia di risorse e tre castelli a testa. Troverete enormi quantità di oro e pietre lungo il cammino.
+fr: Une toute petite carte pour deux joueurs, avec beaucoup de ressources et trois châteaux chacun. Beaucoup d'or et de pierre au centre.
+
+# mp3.wmp::maps/mp3
+it: La conquista del mondo
+fr: La conquête du monde
+
+it: Un grande continente da conquistare. 4 percorsi e migliaia di risorse nella zona centrale.
+fr: Un grand continent à conquérir. Quatre races et beaucoup de ressources dans la zone centrale.
+
+# mp4.wmp::maps/mp4
+it: Ponte vicino
+fr: Un pont trop près
+
+it: Un’enorme mappa con tantissimi ponti per giocare in squadre di 2 contro 2.
+fr: Une immense carte aux nombreux ponts pour jouer en équipes de 2 contre 2.
+
+# mp5.wmp::maps/mp5
+it: È stata scoperta una ricca miniera aurea. Che cominci la febbre dell’oro!
+fr: On a trouvé une riche mine d'or : que la ruée vers l'or commence !
+
+it: Giocatore
+fr: Joueur
+
+it: Artù
+fr: Arthur
+
+it: Merlino
+fr: Merlin
+
+it: Lancillotto
+fr: Lancelot
+
+# mp6.wmp::maps/mp6
+it: L’occupazione
+fr: L'occupation (4 contre 4)
+
+it: (4 giocatori contro 4)\nUna mappa enorme con migliaia di risorse.
+fr: Une carte énorme avec beaucoup de ressources.

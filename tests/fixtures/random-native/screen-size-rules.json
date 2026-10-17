@@ -1,0 +1,590 @@
+[
+  {
+    "side": 64,
+    "input_kind": 0,
+    "players": 4,
+    "kind": 0,
+    "enabled": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 64,
+    "input_kind": 1,
+    "players": 4,
+    "kind": 0,
+    "enabled": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 64,
+    "input_kind": 2,
+    "players": 4,
+    "kind": 0,
+    "enabled": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 64,
+    "input_kind": 3,
+    "players": 4,
+    "kind": 3,
+    "enabled": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 64,
+    "input_kind": 4,
+    "players": 4,
+    "kind": 0,
+    "enabled": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 64,
+    "input_kind": 5,
+    "players": 4,
+    "kind": 5,
+    "enabled": [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 96,
+    "input_kind": 0,
+    "players": 6,
+    "kind": 0,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 96,
+    "input_kind": 1,
+    "players": 6,
+    "kind": 0,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 96,
+    "input_kind": 2,
+    "players": 6,
+    "kind": 2,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 96,
+    "input_kind": 3,
+    "players": 6,
+    "kind": 3,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 96,
+    "input_kind": 4,
+    "players": 6,
+    "kind": 0,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 96,
+    "input_kind": 5,
+    "players": 6,
+    "kind": 5,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      false,
+      true
+    ]
+  },
+  {
+    "side": 128,
+    "input_kind": 0,
+    "players": 8,
+    "kind": 0,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 128,
+    "input_kind": 1,
+    "players": 8,
+    "kind": 0,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 128,
+    "input_kind": 2,
+    "players": 8,
+    "kind": 2,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 128,
+    "input_kind": 3,
+    "players": 8,
+    "kind": 3,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 128,
+    "input_kind": 4,
+    "players": 8,
+    "kind": 4,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 128,
+    "input_kind": 5,
+    "players": 8,
+    "kind": 5,
+    "enabled": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 192,
+    "input_kind": 0,
+    "players": 8,
+    "kind": 0,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 192,
+    "input_kind": 1,
+    "players": 8,
+    "kind": 1,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 192,
+    "input_kind": 2,
+    "players": 8,
+    "kind": 2,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 192,
+    "input_kind": 3,
+    "players": 8,
+    "kind": 3,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 192,
+    "input_kind": 4,
+    "players": 8,
+    "kind": 4,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 192,
+    "input_kind": 5,
+    "players": 8,
+    "kind": 5,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 256,
+    "input_kind": 0,
+    "players": 8,
+    "kind": 0,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 256,
+    "input_kind": 1,
+    "players": 8,
+    "kind": 1,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 256,
+    "input_kind": 2,
+    "players": 8,
+    "kind": 2,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 256,
+    "input_kind": 3,
+    "players": 8,
+    "kind": 3,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 256,
+    "input_kind": 4,
+    "players": 8,
+    "kind": 4,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 256,
+    "input_kind": 5,
+    "players": 8,
+    "kind": 5,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 384,
+    "input_kind": 0,
+    "players": 8,
+    "kind": 0,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 384,
+    "input_kind": 1,
+    "players": 8,
+    "kind": 1,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 384,
+    "input_kind": 2,
+    "players": 8,
+    "kind": 2,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 384,
+    "input_kind": 3,
+    "players": 8,
+    "kind": 3,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 384,
+    "input_kind": 4,
+    "players": 8,
+    "kind": 4,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 384,
+    "input_kind": 5,
+    "players": 8,
+    "kind": 5,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 512,
+    "input_kind": 0,
+    "players": 8,
+    "kind": 0,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 512,
+    "input_kind": 1,
+    "players": 8,
+    "kind": 1,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 512,
+    "input_kind": 2,
+    "players": 8,
+    "kind": 2,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 512,
+    "input_kind": 3,
+    "players": 8,
+    "kind": 3,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 512,
+    "input_kind": 4,
+    "players": 8,
+    "kind": 4,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "side": 512,
+    "input_kind": 5,
+    "players": 8,
+    "kind": 5,
+    "enabled": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  }
+]

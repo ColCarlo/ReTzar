@@ -1,0 +1,1054 @@
+# I testi propri di ReTzar in francese: l'italiano, come scritto nel codice, e la traduzione di questa versione.
+
+it: Gioco
+fr: Jeu
+
+it: Schermo
+fr: Affichage
+
+it: Grafica
+fr: Graphismes
+
+it: Tasti
+fr: Touches
+
+it: PARTITA
+fr: PARTIE
+
+it: MAPPA
+fr: CARTE
+
+it: GIOCATORE
+fr: JOUEUR
+
+it: FINESTRA
+fr: FENÊTRE
+
+it: INTERFACCIA
+fr: INTERFACE
+
+it: IMMAGINE
+fr: IMAGE
+
+it: VISUALE
+fr: VUE
+
+it: EVENTI E MAPPA
+fr: ÉVÉNEMENTS ET CARTE
+
+it: FINESTRE
+fr: FENÊTRES
+
+it: Effetti sonori
+fr: Effets sonores
+
+it: Musica
+fr: Musique
+
+it: Voci delle unità
+fr: Voix des unités
+
+it: Suoni degli edifici
+fr: Sons des bâtiments
+
+it: Suoni della natura
+fr: Sons de la nature
+
+it: Velocità del gioco
+fr: Vitesse du jeu
+
+it: Clima
+fr: Météo
+
+it: Giorno e notte
+fr: Jour et nuit
+
+it: Velocità di scorrimento
+fr: Vitesse de défilement
+
+it: Scorrimento ai bordi
+fr: Défilement aux bords
+
+it: Nome sulle proprie unità
+fr: Nom au-dessus de vos unités
+
+it: Lingua
+fr: Langue
+
+it: Ricorda le missioni raggiunte
+fr: Garder les missions atteintes
+
+it: Schermo intero
+fr: Plein écran
+
+it: Dimensioni della finestra
+fr: Taille de la fenêtre
+
+it: Fotogrammi al secondo
+fr: Images par seconde
+
+it: Scala
+fr: Échelle
+
+it: Pannello dei comandi
+fr: Panneau de commande
+
+it: Puntatore
+fr: Pointeur
+
+it: Testi sulla mappa
+fr: Textes sur la carte
+
+it: Griglia di piazzamento
+fr: Grille de placement
+
+it: Colori a 24 bit
+fr: Couleurs 24 bits
+
+it: Pixel della mappa
+fr: Pixels de la carte
+
+it: Effetto monitor CRT
+fr: Effet moniteur cathodique
+
+it: Testi in alta definizione
+fr: Textes haute définition
+
+it: Luci notturne
+fr: Lumières de nuit
+
+it: Bagliore di fuochi e magie
+fr: Éclat du feu et de la magie
+
+it: Nebbia morbida
+fr: Brouillard adouci
+
+it: Ambiente vivo
+fr: Monde vivant
+
+it: Zoom fluido
+fr: Zoom fluide
+
+it: Pixel nitidi
+fr: Pixels nets
+
+it: Adatta allo schermo
+fr: Ajuster à l'écran
+
+it: A destra
+fr: À droite
+
+it: A sinistra
+fr: À gauche
+
+it: Del gioco
+fr: Celui du jeu
+
+it: Di Windows
+fr: Celui de Windows
+
+it: Originali
+fr: Originaux
+
+it: Contorno
+fr: Contour
+
+it: Fondo scuro
+fr: Bande sombre
+
+it: Leggera
+fr: Léger
+
+it: Media
+fr: Moyen
+
+it: Marcata
+fr: Marqué
+
+it: Regolari
+fr: Réguliers
+
+it: Levigati
+fr: Lissés
+
+it: Sincronizzazione verticale
+fr: Synchronisation verticale
+
+it: nessuno
+fr: aucune
+
+it: Sì
+fr: Oui
+
+it: Predefiniti
+fr: Par défaut
+
+it: Annulla
+fr: Annuler
+
+it: Scrivi il numero e premi Invio; 0 toglie il limite, Esc annulla.
+fr: Tapez le nombre et appuyez sur Entrée ; 0 supprime la limite, Échap annule.
+
+it: Premi un tasto…
+fr: Appuyez sur une touche…
+
+it: Premi il nuovo tasto; Esc annulla.
+fr: Appuyez sur la nouvelle touche ; Échap annule.
+
+it: Aggiunta di questa versione, assente nell'originale.
+fr: Ajout de cette version, absent de l'original.
+
+it: Volumi, voci e suoni del gioco.
+fr: Volumes, voix et sons du jeu.
+
+it: La partita, lo scorrimento della mappa, il tuo nome e la lingua.
+fr: La partie, le défilement de la carte, votre nom et la langue.
+
+it: La finestra del gioco e l'aspetto dell'interfaccia.
+fr: La fenêtre du jeu et l'aspect de l'interface.
+
+it: Gli effetti grafici moderni, tutti facoltativi e spenti all'inizio.
+fr: Les effets graphiques modernes, tous facultatifs et désactivés au départ.
+
+it: I tasti dei comandi sulla mappa.
+fr: Les touches des commandes de la carte.
+
+it: Effetti, voci e rumori della mappa: l'interruttore li spegne, il cursore ne regola il volume.
+fr: Effets, voix et bruits de la carte : l'interrupteur les coupe, le curseur règle leur volume.
+
+it: La musica di menu e missioni: l'interruttore la spegne, il cursore ne regola il volume.
+fr: La musique des menus et des missions : l'interrupteur la coupe, le curseur règle son volume.
+
+it: Le risposte delle unità quando le selezioni e dai loro ordini.
+fr: Les réponses des unités quand vous les sélectionnez et leur donnez des ordres.
+
+it: Il suono degli edifici quando li selezioni.
+fr: Le son des bâtiments quand vous les sélectionnez.
+
+it: Animali, vento e pioggia intorno alla parte di mappa che guardi.
+fr: Animaux, vent et pluie autour de la partie de la carte que vous regardez.
+
+it: Quanto scorre veloce la partita aperta; si regola solo durante una partita.
+fr: La vitesse de la partie ouverte ; elle ne se règle que pendant une partie.
+
+it: Pioggia e neve sulla mappa, con il loro effetto sulle unità.
+fr: Pluie et neige sur la carte, avec leur effet sur les unités.
+
+it: Il passare del giorno e della notte, che cambia luce e visibilità.
+fr: L'alternance du jour et de la nuit, qui change la lumière et la vue.
+
+it: Il pannello dei trucchi di questa partita (tasto F7).
+fr: Le panneau des codes de cette partie (touche F7).
+
+it: Quanto velocemente si sposta la mappa con frecce e bordi dello schermo.
+fr: La vitesse à laquelle la carte défile avec les flèches et les bords de l'écran.
+
+it: La mappa si sposta quando porti il puntatore ai bordi dello schermo.
+fr: La carte défile quand vous amenez le pointeur aux bords de l'écran.
+
+it: Il nome mostrato sulle tue unità.
+fr: Le nom affiché au-dessus de vos unités.
+
+it: Apri l'elenco e scegli la lingua di testi e voci.
+fr: Ouvrez la liste et choisissez la langue des textes et des voix.
+
+it: Le missioni delle campagne già raggiunte restano da scegliere; l'originale mostra solo la prima.
+fr: Les missions de campagne déjà atteintes restent au choix ; l'original ne propose que la première.
+
+it: Il gioco occupa tutto lo schermo, senza bordi; altrimenti è in una finestra (anche Alt+Invio).
+fr: Le jeu occupe tout l'écran, sans bordure ; sinon il est dans une fenêtre (aussi Alt+Entrée).
+
+it: Trascina i bordi della finestra per cambiarne le dimensioni, che restano per la prossima volta; qui ne scegli una pronta.
+fr: Tirez les bords de la fenêtre pour la redimensionner, et la taille reste pour la fois suivante ; ici vous en choisissez une toute prête.
+
+it: I fotogrammi seguono la frequenza dello schermo, senza strappi nell'immagine; il limite dei fotogrammi allora non serve e si spegne.
+fr: Les images suivent la fréquence de l'écran, sans déchirure ; la limite d'images devient inutile et se désactive.
+
+it: I fotogrammi al secondo massimi: trascina la barra o scrivi il numero; in fondo alla barra nessun limite. Spento con la sincronizzazione verticale.
+fr: Le nombre maximal d'images par seconde : tirez la barre ou tapez le nombre ; au bout de la barre, pas de limite. Désactivé avec la synchronisation verticale.
+
+it: Pixel nitidi: l'interfaccia ingrandita di un numero intero di volte. Adatta: riempie lo schermo.
+fr: Pixels nets : l'interface agrandie un nombre entier de fois. Ajuster : elle remplit l'écran.
+
+it: Da che parte dello schermo sta il pannello dei comandi durante la partita.
+fr: Le côté de l'écran où se trouve le panneau de commande pendant une partie.
+
+it: Il puntatore disegnato dal gioco o quello di Windows, con lo stesso disegno.
+fr: Le pointeur dessiné par le jeu ou celui de Windows, avec la même image.
+
+it: Come si leggono messaggi e consigli sulla mappa: con l'ombra originale, un contorno nero o un fondo scuro.
+fr: La lisibilité des messages et des aides sur la carte : avec l'ombre d'origine, un contour noir ou une bande sombre.
+
+it: Una griglia con le caselle libere e occupate mentre piazzi un edificio, e quanto si vede.
+fr: Une grille des cases libres et bloquées pendant que vous placez un bâtiment, et son intensité.
+
+it: Sfumature lisce di notte, nelle ombre e nella nebbia, senza i 5 bit per colore dell'originale.
+fr: Des dégradés doux la nuit, dans les ombres et le brouillard, sans les 5 bits par couleur de l'original.
+
+it: Pixel originali, regolari a ogni zoom o levigati, con i bordi smussati.
+fr: Pixels d'origine, réguliers à chaque zoom, ou lissés aux bords adoucis.
+
+it: Righe e curvatura di un vecchio monitor.
+fr: Lignes de balayage et courbure d'un vieux moniteur.
+
+it: Testi dell'interfaccia nitidi alla risoluzione dello schermo.
+fr: Textes de l'interface nets à la résolution de l'écran.
+
+it: Di notte fuochi, edifici e magie fanno luce intorno.
+fr: La nuit, les feux, les bâtiments et la magie éclairent leurs alentours.
+
+it: Un alone luminoso intorno a fuochi, magie e fulmini.
+fr: Un éclat lumineux autour du feu, de la magie et des éclairs.
+
+it: Bordi sfumati della nebbia invece dei riquadri.
+fr: Des bords de brouillard doux au lieu de carrés.
+
+it: Alberi che ondeggiano al vento e acqua che luccica.
+fr: Des arbres qui se balancent au vent et une eau scintillante.
+
+it: La rotella ingrandisce scorrendo, con più passi.
+fr: La molette zoome en douceur, par plus de paliers.
+
+it: Fai clic e premi il nuovo tasto del comando; Esc annulla.
+fr: Cliquez, puis appuyez sur la nouvelle touche de la commande ; Échap annule.
+
+it: Rimette le impostazioni di questa scheda come all'inizio; nome, lingua e dimensioni della finestra restano.
+fr: Remet les réglages de cet onglet comme au départ ; le nom, la langue et la taille de la fenêtre restent.
+
+it: Chiude rimettendo tutto com'era all'apertura delle opzioni (anche Esc).
+fr: Ferme en remettant tout comme à l'ouverture des réglages (aussi Échap).
+
+it: Scorrimento
+fr: Défilement
+
+it: Resa dell'IA
+fr: Reddition de l'IA
+
+it: RESA DELL'IA: con la BANDIERA bianca i regni del computer si arrendono quando perdono, con le SPADE combattono fino alla fine
+fr: REDDITION DE L'IA : avec le DRAPEAU blanc, les royaumes de l'ordinateur se rendent quand ils perdent ; avec les ÉPÉES, ils se battent jusqu'au bout
+
+it: Scorri a sinistra
+fr: Défiler à gauche
+
+it: Scorri a destra
+fr: Défiler à droite
+
+it: Scorri in alto
+fr: Défiler vers le haut
+
+it: Scorri in basso
+fr: Défiler vers le bas
+
+it: Centra la selezione
+fr: Centrer la sélection
+
+it: Unità successiva del gruppo
+fr: Unité suivante du groupe
+
+it: Ultimo evento
+fr: Dernier événement
+
+it: Evento precedente
+fr: Événement précédent
+
+it: Evento successivo
+fr: Événement suivant
+
+it: Destinazione o raduno
+fr: Destination ou point de ralliement
+
+it: Barre della salute
+fr: Barres de santé
+
+it: Alberi trasparenti
+fr: Arbres transparents
+
+it: Elimina la selezione
+fr: Supprimer la sélection
+
+it: Aumenta la velocità
+fr: Augmenter la vitesse
+
+it: Riduci la velocità
+fr: Diminuer la vitesse
+
+it: Salvataggio rapido
+fr: Sauvegarde rapide
+
+it: Caricamento rapido
+fr: Chargement rapide
+
+it: Punteggio e tempo
+fr: Score et temps
+
+it: Pagina precedente dell'inventario
+fr: Page précédente de l'inventaire
+
+it: Pagina seguente dell'inventario
+fr: Page suivante de l'inventaire
+
+it: Aiuto
+fr: Aide
+
+it: Diplomazia
+fr: Diplomatie
+
+it: Obiettivi
+fr: Objectifs
+
+it: Opzioni
+fr: Options
+
+it: Menu della partita
+fr: Menu de la partie
+
+it: Conversazione
+fr: Discussion
+
+it: Tributi
+fr: Tribut
+
+it: Pannello dei trucchi
+fr: Panneau des codes
+
+it: Spazio
+fr: Espace
+
+it: Freccia sinistra
+fr: Flèche gauche
+
+it: Freccia destra
+fr: Flèche droite
+
+it: Freccia su
+fr: Flèche haut
+
+it: Freccia giù
+fr: Flèche bas
+
+it: Invio
+fr: Entrée
+
+it: Canc
+fr: Suppr
+
+it: Ins
+fr: Inser
+
+it: Fine
+fr: Fin
+
+it: Pag su
+fr: Page préc.
+
+it: Pag giù
+fr: Page suiv.
+
+it: + (tastierino)
+fr: + (pavé num.)
+
+it: - (tastierino)
+fr: - (pavé num.)
+
+it: * (tastierino)
+fr: * (pavé num.)
+
+it: / (tastierino)
+fr: / (pavé num.)
+
+it: Invio (tastierino)
+fr: Entrée (pavé num.)
+
+it: {} (tastierino)
+fr: {} (pavé num.)
+
+it: Inizializzazione dell'audio…
+fr: Démarrage du son…
+
+it: Audio non disponibile
+fr: Son indisponible
+
+it: Impostazioni non leggibili ({}): ripristinati i valori predefiniti.
+fr: Impossible de lire les réglages ({}) : les valeurs par défaut sont rétablies.
+
+it: La modalità multigiocatore non è disponibile in questa versione.
+fr: Le multijoueur n'est pas disponible dans cette version.
+
+it: Eroe
+fr: Héros
+
+it: Nessuna missione selezionata
+fr: Aucune mission choisie
+
+it: (missione non installata)
+fr: (mission non installée)
+
+it: La missione del salvataggio non è presente
+fr: La mission de la partie sauvegardée n'est pas installée
+
+it: Missione non trovata
+fr: Mission introuvable
+
+it: Mappa casuale {}
+fr: Carte aléatoire {}
+
+it: {} · {}×{} · seme {}
+fr: {} · {}×{} · graine {}
+
+it: Caricamento di «{}»…
+fr: Chargement de « {} »…
+
+it: Ripristino di «{}»…
+fr: Restauration de « {} »…
+
+it: Un salvataggio è già in corso
+fr: Une sauvegarde est déjà en cours
+
+it: Attendi il completamento del salvataggio
+fr: Attendez la fin de la sauvegarde
+
+it: Nessuna mappa aperta
+fr: Aucune carte n'est ouverte
+
+it: Simulazione non inizializzata
+fr: La partie n'a pas commencé
+
+it: Salvataggio interrotto
+fr: Sauvegarde interrompue
+
+it: Salvataggio non riuscito: {}
+fr: Échec de la sauvegarde : {}
+
+it: Impossibile riprodurre intro: {}
+fr: Impossible de lire l'introduction : {}
+
+it: Casuale
+fr: Aléatoire
+
+it: Arcipelaghi
+fr: Archipels
+
+it: Isole
+fr: Îles
+
+it: Continente
+fr: Continent
+
+it: Laghi
+fr: Lacs
+
+it: Terra
+fr: Terre ferme
+
+it: Annulla e restituisci il costo
+fr: Annuler et rembourser le coût
+
+it: Indietro
+fr: Retour
+
+it: Trucchi\nApre la finestra dei trucchi di questa partita
+fr: Codes\nOuvre la fenêtre des codes de cette partie
+
+it: Trucchi
+fr: Codes
+
+it: Apre la finestra dei trucchi di questa partita
+fr: Ouvre la fenêtre des codes de cette partie
+
+it: Usato un trucco, la partita resta segnata come partita con trucchi
+fr: Un code a été utilisé : la partie reste marquée comme partie avec codes
+
+it: Chiude la finestra dei trucchi
+fr: Ferme la fenêtre des codes
+
+it: TRUCCHI
+fr: CODES
+
+it: CHIUDI
+fr: FERMER
+
+it: Partita
+fr: Partie
+
+it: Risorse, popolazione, costruzione, nebbia, mappa, ora del giorno, tecnologie e missione
+fr: Ressources, population, construction, brouillard, carte, heure, technologies et mission
+
+it: Oggetti
+fr: Objets
+
+it: Trucchi da applicare a un'unità o a un edificio cliccandolo sulla mappa
+fr: Codes à appliquer à une unité ou à un bâtiment en le cliquant sur la carte
+
+it: Unità
+fr: Unités
+
+it: Crea un'unità di qualunque regno nel punto della mappa che scegli
+fr: Crée une unité de n'importe quel royaume au point de la carte que vous choisissez
+
+it: Edifici
+fr: Bâtiments
+
+it: Crea un edificio già costruito di qualunque regno nel punto della mappa che scegli
+fr: Crée un bâtiment achevé de n'importe quel royaume au point de la carte que vous choisissez
+
+it: Cambia a piacere i rapporti fra due regni
+fr: Change à volonté les relations entre deux royaumes
+
+it: Nessun regno
+fr: Aucun royaume
+
+it: Regno {}
+fr: Royaume {}
+
+it: Regno
+fr: Royaume
+
+it: Europea
+fr: Européenne
+
+it: Araba
+fr: Arabe
+
+it: Asiatica
+fr: Asiatique
+
+it: europea
+fr: européenne
+
+it: araba
+fr: arabe
+
+it: asiatica
+fr: asiatique
+
+it: Alleato
+fr: Allié
+
+it: {a} considera {b} un alleato: non lo attacca
+fr: {a} considère {b} comme un allié : il ne l'attaque pas
+
+it: Neutrale
+fr: Neutre
+
+it: {a} considera {b} neutrale: non lo attacca
+fr: {a} considère {b} comme neutre : il ne l'attaque pas
+
+it: Nemico
+fr: Ennemi
+
+it: {a} considera {b} un nemico e lo attacca
+fr: {a} considère {b} comme un ennemi et l'attaque
+
+it: Condivide la vista
+fr: Partage la vue
+
+it: {b} vede ciò che vedono le unità di {a}
+fr: {b} voit ce que voient les unités de {a}
+
+it: Condivide le risorse
+fr: Partage les ressources
+
+it: {b} può spendere le risorse di {a}
+fr: {b} peut dépenser les ressources de {a}
+
+it: Condivide le unità
+fr: Partage les unités
+
+it: {b} può comandare le unità di {a}
+fr: {b} peut commander les unités de {a}
+
+it: Vittoria condivisa
+fr: Victoire partagée
+
+it: {a} vince insieme a {b}
+fr: {a} gagne avec {b}
+
+it: Vuole la guerra
+fr: Veut la guerre
+
+it: {a} vuole la guerra con {b}: basta che uno dei due la voglia e diventano nemici
+fr: {a} veut la guerre avec {b} : si l'un des deux la veut, ils deviennent ennemis
+
+it: Vuole la pace
+fr: Veut la paix
+
+it: {a} vuole la pace con {b}: quando la vogliono tutti e due diventano neutrali
+fr: {a} veut la paix avec {b} : quand les deux la veulent, ils deviennent neutres
+
+it: Vuole l'alleanza
+fr: Veut l'alliance
+
+it: {a} vuole l'alleanza con {b}: quando la vogliono tutti e due diventano alleati
+fr: {a} veut une alliance avec {b} : quand les deux la veulent, ils deviennent alliés
+
+it: Costo
+fr: Coût
+
+it:  (In questa partita le risorse sono illimitate.)
+fr:  (Les ressources sont illimitées dans cette partie.)
+
+it: Risorse
+fr: Ressources
+
+it: Aggiunge oro, pietra, cibo e legna al tuo regno
+fr: Ajoute or, pierre, nourriture et bois à votre royaume
+
+it: Aggiunge 10 000 di oro, pietra, cibo e legna al tuo regno.
+fr: Ajoute 10 000 d'or, de pierre, de nourriture et de bois à votre royaume.
+
+it: Aggiunge 50 000 di oro, pietra, cibo e legna al tuo regno.
+fr: Ajoute 50 000 d'or, de pierre, de nourriture et de bois à votre royaume.
+
+it: Popolazione massima
+fr: Limite de population
+
+it: Il limite della popolazione del tuo regno
+fr: La limite de population de votre royaume
+
+it: Porta a 1000
+fr: Porter à 1000
+
+it: Già a 1000
+fr: Déjà à 1000
+
+it: Porta a 1000 il limite della popolazione del tuo regno, senza bisogno di case
+fr: Porte la limite de population de votre royaume à 1000, sans besoin de maisons
+
+it: Costruzione immediata
+fr: Construction instantanée
+
+it: Cantieri, unità e ricerche si completano subito
+fr: Chantiers, unités et recherches sont achevés aussitôt
+
+it: Quando è attiva, ogni cantiere si completa al primo colpo di un contadino e le unità e le ricerche escono subito, per tutti i regni. Clicca per attivarla o spegnerla
+fr: Activé, chaque chantier est achevé au premier coup d'un paysan et les unités et les recherches sortent aussitôt, pour tous les royaumes. Cliquez pour l'activer ou le désactiver
+
+it: Nessun requisito
+fr: Sans conditions
+
+it: Costruire, creare e ricercare senza i requisiti
+fr: Construire, créer et rechercher sans les conditions requises
+
+it: Quando è attivo, si possono costruire edifici, creare unità e fare ricerche senza gli edifici e le tecnologie che servirebbero, per tutti i regni. Clicca per attivarlo o spegnerlo
+fr: Activé, on peut construire des bâtiments, créer des unités et faire des recherches sans les bâtiments et les technologies nécessaires, pour tous les royaumes. Cliquez pour l'activer ou le désactiver
+
+it: Nebbia di guerra
+fr: Brouillard de guerre
+
+it: La nebbia che nasconde ciò che le tue unità non vedono
+fr: Le brouillard qui cache ce que vos unités ne voient pas
+
+it: Togli
+fr: Retirer
+
+it: Già tolta
+fr: Déjà retiré
+
+it: Toglie la nebbia di guerra per il resto della partita: vedi tutto ciò che si muove sulla mappa
+fr: Retire le brouillard de guerre pour le reste de la partie : vous voyez tout ce qui bouge sur la carte
+
+it: Mappa
+fr: Carte
+
+it: Le zone della mappa non ancora esplorate
+fr: Les zones de la carte pas encore explorées
+
+it: Rivela tutta
+fr: Tout révéler
+
+it: Già esplorata
+fr: Déjà explorée
+
+it: Rende esplorata tutta la mappa: vedi il terreno e gli edifici, ma le unità solo dove arriva la vista delle tue
+fr: Explore toute la carte : vous voyez le terrain et les bâtiments, mais les unités seulement là où vos unités voient
+
+it: Ora del giorno
+fr: Heure du jour
+
+it: L'ora dell'orologio della partita, che decide la luce del giorno e della notte
+fr: L'heure de l'horloge de la partie, qui règle la lumière du jour et de la nuit
+
+it: Un'ora indietro (con Maiusc dieci)
+fr: Une heure en arrière (dix avec Maj)
+
+it: Un'ora avanti (con Maiusc dieci)
+fr: Une heure en avant (dix avec Maj)
+
+it: Cambia l'ora del giorno con le frecce
+fr: Changez l'heure du jour avec les flèches
+
+it: Tecnologia
+fr: Technologie
+
+it: Una ricerca del tuo regno, completata senza aspettare né pagare
+fr: Une recherche de votre royaume, achevée sans attendre ni payer
+
+it: nessuna da scoprire
+fr: plus rien à découvrir
+
+it: La tecnologia precedente
+fr: La technologie précédente
+
+it: La tecnologia seguente
+fr: La technologie suivante
+
+it: Scopri
+fr: Découvrir
+
+it: Completa subito per il tuo regno: {}
+fr: L'achève aussitôt pour votre royaume : {}
+
+it: Animali e mostri
+fr: Animaux et monstres
+
+it: Le unità della Natura: animali selvatici e mostri
+fr: Les unités de la Nature : animaux sauvages et monstres
+
+it: Togli dalla mappa
+fr: Retirer de la carte
+
+it: Nessuno sulla mappa
+fr: Aucun sur la carte
+
+it: Fa sparire dalla mappa tutte le unità della Natura: animali selvatici e mostri
+fr: Retire de la carte toutes les unités de la Nature : animaux sauvages et monstres
+
+it: Missione
+fr: Mission
+
+it: La missione di questa campagna
+fr: La mission de cette campagne
+
+it: Passa alla successiva
+fr: Passer à la suivante
+
+it: Nessuna successiva
+fr: Pas de mission suivante
+
+it: Solo nelle campagne
+fr: Campagnes seulement
+
+it: Lascia questa missione e apre subito la mappa successiva della campagna
+fr: Quitte cette mission et ouvre aussitôt la carte suivante de la campagne
+
+it: Scegli un trucco: la finestra si chiude e clicchi sulla mappa l'unità o l'edificio a cui applicarlo. Tieni premuto Maiusc per cliccarne altri, tasto destro per finire.
+fr: Choisissez un code : la fenêtre se ferme et vous cliquez sur la carte l'unité ou le bâtiment auquel l'appliquer. Maintenez Maj pour en cliquer d'autres, clic droit pour finir.
+
+it: Invulnerabile
+fr: Invulnérable
+
+it: Non subisce più danni. Un altro clic lo rende di nuovo vulnerabile.
+fr: Il ne subit plus de dégâts. Un autre clic le rend de nouveau vulnérable.
+
+it: Rende invulnerabile l'oggetto che clicchi: non subisce più danni. Cliccarlo di nuovo lo rende di nuovo vulnerabile
+fr: Rend invulnérable l'objet que vous cliquez : il ne subit plus de dégâts. Le cliquer de nouveau le rend vulnérable
+
+it: Prendi il comando
+fr: Prendre le commandement
+
+it: Gli dai ordini anche se è di un altro regno. Un altro clic lo restituisce.
+fr: Vous lui donnez des ordres même s'il appartient à un autre royaume. Un autre clic le rend.
+
+it: Puoi dare ordini all'oggetto che clicchi anche se è di un altro regno. Cliccarlo di nuovo lo restituisce
+fr: Vous pouvez donner des ordres à l'objet que vous cliquez même s'il appartient à un autre royaume. Le cliquer de nouveau le rend
+
+it: Guarda con i suoi occhi
+fr: Voir par ses yeux
+
+it: Vedi ciò che vede, anche se è di un altro regno. Un altro clic smette.
+fr: Vous voyez ce qu'il voit, même s'il appartient à un autre royaume. Un autre clic arrête.
+
+it: Vedi ciò che vede l'oggetto che clicchi, anche se è di un altro regno. Cliccarlo di nuovo smette
+fr: Vous voyez ce que voit l'objet que vous cliquez, même s'il appartient à un autre royaume. Le cliquer de nouveau arrête
+
+it: Dai al regno
+fr: Donner au royaume
+
+it: L'oggetto che clicchi passa al regno scelto: {}
+fr: L'objet que vous cliquez passe au royaume choisi : {}
+
+it: Il regno precedente
+fr: Le royaume précédent
+
+it: Il regno seguente
+fr: Le royaume suivant
+
+it: Il regno a cui passa l'oggetto che clicchi
+fr: Le royaume auquel passe l'objet que vous cliquez
+
+it: Crea le unità e gli edifici della civiltà {}
+fr: Crée les unités et les bâtiments de la civilisation {}
+
+it: Il regno a cui va quello che crei
+fr: Le royaume auquel va ce que vous créez
+
+it: Il regno di cui cambi i rapporti
+fr: Le royaume dont vous changez les relations
+
+it: Il regno verso cui cambiano
+fr: Le royaume envers lequel elles changent
+
+it: Come {} considera {}: clicca una casella per accenderla o spegnerla.
+fr: Comment {} considère {} : cliquez une case pour l'activer ou la désactiver.
+
+it: Scegli due regni diversi.
+fr: Choisissez deux royaumes différents.
+
+it: {}. Ora: {}
+fr: {}. Maintenant : {}
+
+it: sì
+fr: oui
+
+it: un'unità
+fr: une unité
+
+it: un edificio, che arriva già costruito
+fr: un bâtiment, qui arrive déjà construit
+
+it: Clicca {}, poi il punto della mappa dove metterlo. Tieni premuto Maiusc per metterne altri, tasto destro per finire.
+fr: Cliquez {}, puis le point de la carte où le placer. Maintenez Maj pour en placer d'autres, clic droit pour finir.
+
+it: Partita con trucchi: {}
+fr: Partie avec codes : {}
+
+it: Maiusc per continuare, tasto destro per finire.
+fr: Maj pour continuer, clic droit pour finir.
+
+it: Clicca sulla mappa dove mettere: {}. {}
+fr: Cliquez sur la carte où placer : {}. {}
+
+it: Clicca l'oggetto da rendere invulnerabile (o di nuovo vulnerabile).
+fr: Cliquez l'objet à rendre invulnérable (ou de nouveau vulnérable).
+
+it: Clicca l'oggetto di cui prendere il comando (o da restituire).
+fr: Cliquez l'objet dont prendre le commandement (ou à rendre).
+
+it: Clicca l'oggetto con cui guardare (o con cui smettere).
+fr: Cliquez l'objet par lequel voir (ou pour arrêter).
+
+it: Clicca l'oggetto da dare al regno scelto.
+fr: Cliquez l'objet à donner au royaume choisi.
+
+it: Versione della sessione non supportata
+fr: Version de session non prise en charge
+
+it: Archivio della mappa non valido
+fr: Archive de carte non valide
+
+it: Dimensioni o stato della sessione non validi
+fr: Taille ou état de session non valide
+
+it: Riferimenti dell'inventario non validi
+fr: Références d'inventaire non valides
+
+it: Contenuto dell'inventario non valido
+fr: Contenu d'inventaire non valide
+
+it: Collegamento dell'inventario non valido
+fr: Lien d'inventaire non valide
+
+it: Ciclo nell'inventario
+fr: Boucle dans un inventaire
+
+it: Riferimenti della mappa o dell'interfaccia non validi
+fr: Références de carte ou d'interface non valides
+
+it: Ritratto salvato non valido
+fr: Portrait sauvegardé non valide
+
+it: Salvataggio non valido
+fr: Partie sauvegardée non valide
+
+it: Salvataggio non riconosciuto
+fr: Partie sauvegardée non reconnue
+
+it: Versione del salvataggio non supportata
+fr: Version de partie sauvegardée non prise en charge
+
+it: Salvataggio troppo grande o danneggiato
+fr: Partie sauvegardée trop grande ou endommagée
+
+it: Metadati del salvataggio non validi
+fr: Détails de partie sauvegardée non valides
+
+it: Salvataggio troncato
+fr: Partie sauvegardée tronquée
+
+it: Lunghezza del salvataggio non valida
+fr: Longueur de partie sauvegardée non valide
+
+it: Controllo d'integrità del salvataggio fallito
+fr: La partie sauvegardée a échoué au contrôle d'intégrité
+
+it: Sessione compressa danneggiata
+fr: Session compressée endommagée
+
+it: Salvataggio di una versione precedente di ReTzar: non si può più riprendere
+fr: Sauvegardée par une version précédente de ReTzar : elle ne peut plus être reprise
+
+it: Salvataggio troppo grande
+fr: Partie sauvegardée trop grande
+
+it: Percorso del salvataggio non valido
+fr: Chemin de partie sauvegardée non valide
+
+it: Dato della mappa non riconosciuto
+fr: Données de carte non reconnues
+
+it: Dato della mappa troppo grande
+fr: Données de carte trop grandes
+
+it: Dato della mappa danneggiato
+fr: Données de carte endommagées
+
+it: Archivio della mappa troppo grande
+fr: Archive de carte trop grande
+
+it: Salvataggio con dati della mappa non risolti
+fr: Partie sauvegardée avec des données de carte non résolues
+
+it: Regno {}: nessuna posizione iniziale nella mappa
+fr: Royaume {} : aucune position de départ sur la carte
+
+it: Regno {}: spazio insufficiente per il castello
+fr: Royaume {} : pas assez de place pour le château
+
+it: Regno {}: spazio insufficiente per i contadini
+fr: Royaume {} : pas assez de place pour les paysans
+
+it: Identificatori degli oggetti esauriti
+fr: Plus d'identifiants d'objet disponibles
+
+it: Nessun archivio del gioco trovato
+fr: Aucune archive du jeu trouvée
+
+it: Installazione di Tzar non trovata vicino a {}. Usa --source CARTELLA.
+fr: Installation de Tzar introuvable près de {}. Utilisez --source DOSSIER.
+
+it: ReTzar non può continuare:\n\n{}
+fr: ReTzar ne peut pas continuer :\n\n{}
+
+it: ReTzar si è chiuso per un errore interno.\n\n{}\n\nDettagli in crash.log.
+fr: ReTzar s'est fermé à cause d'une erreur interne.\n\n{}\n\nDétails dans crash.log.
+
+it: Tasto Indietro
+fr: Retour arrière
+
+it: Recuperata la precedente copia valida del salvataggio.
+fr: Copie valide précédente de la sauvegarde récupérée.
+
+it: Salvataggio precedente: ripristinata la vista iniziale, senza stato della simulazione.
+fr: Sauvegarde ancienne : vue de départ rétablie, sans l'état de la simulation.
+
+it: Nessuna scheda video Vulkan trovata. ReTzar disegna solo con Vulkan: aggiorna i driver della scheda video.
+fr: Aucune carte graphique Vulkan trouvée. ReTzar ne dessine qu'avec Vulkan : mettez à jour les pilotes de la carte graphique.
+
+it: Scegli la cartella in cui è installato Tzar
+fr: Choisissez le dossier où Tzar est installé
+
+it: Per giocare con ReTzar serve una copia originale di Tzar (dal CD, da GOG o da Steam): alla prossima partenza scegli la cartella in cui è installata.
+fr: Pour jouer à ReTzar, il faut une copie originale de Tzar (du CD, de GOG ou de Steam) : au prochain démarrage, choisissez le dossier où elle est installée.
+
+it: In {} non c'è una copia originale di Tzar.\n\nScegli la cartella in cui è installato il gioco.
+fr: Il n'y a pas de copie originale de Tzar dans {}.\n\nChoisissez le dossier où le jeu est installé.

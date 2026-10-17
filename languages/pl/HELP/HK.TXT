@@ -1,0 +1,132 @@
+     @1--- KLAWISZE OGÓLNE ---@2
+
+@1+ (plus)@2 - Zwiększa szybkość gry
+
+@1- (minus)@2 - Zmniejsza szybkość gry
+
+@1\ (ukośnik)@2 - Pokazuje drzewa przezroczyste, by widzieć ukryte za nimi jednostki i obiekty
+
+@1F2@2 - Szybki zapis bieżącej gry
+
+@1F3@2 - Szybki odczyt gry zapisanej klawiszem F2
+
+@1F4@2 - Pokazuje wynik i czas, jaki upłynął od początku gry
+
+@1F12@2 - Przełącza mapę między pełnym ekranem a oknem
+
+@1Ctrl + Enter@2 - Wysyła twoją pozycję innym graczom (pojawia się na minimapie)
+
+@1Spacja@2 - Wyśrodkowuje mapę na zaznaczonym obiekcie
+
+@1F11@2 - Robi zrzut ekranu gry i zapisuje go w folderze „Screenshots” instalacji TZAR
+
+
+     @1--- ZAZNACZANIE JEDNOSTEK ---@2
+
+@1Lewy przycisk@2 - Zaznacza jednostkę
+
+@1Podwójne kliknięcie lewym przyciskiem@2 - Zaznacza wszystkie jednostki tego samego rodzaju na ekranie
+
+@1Ctrl + podwójne kliknięcie lewym przyciskiem@2 - Zaznacza wszystkie jednostki tego samego rodzaju na ekranie, które robią to samo (na przykład rąbią drewno)
+
+@1Alt + podwójne kliknięcie lewym przyciskiem@2 - Zaznacza wszystkie jednostki wojskowe na ekranie
+
+@1Esc@2 - Odznacza zaznaczoną jednostkę
+
+@1Tab@2 - Pokazuje informacje o jednej jednostce, gdy zaznaczono kilka
+
+
+     @1--- WYDAWANIE ROZKAZÓW JEDNOSTKOM ---@2
+
+@1Prawy przycisk@2 - Jednostka wykonuje domyślną akcję
+
+@1Ctrl + prawy przycisk@2 - Natarcie: jednostka atakuje wszystko, co widzi
+
+@1Shift + prawy przycisk@2 - Jednostka idzie przez punkty trasy i atakuje wszystko, co napotka
+
+@1Alt + prawy przycisk@2 - Skradanie: jednostka atakuje tylko, gdy zostanie zaatakowana
+
+@1Alt + Shift + prawy przycisk@2 - Jednostka idzie przez punkty trasy i atakuje tylko, gdy zostanie zaatakowana
+
+@1Delete@2 - Usuwa zaznaczoną jednostkę
+
+
+     @1--- GRUPOWANIE JEDNOSTEK ---@2
+
+@1Ctrl + cyfra (1-9)@2 - Tworzy grupę z zaznaczonych jednostek
+
+@1Cyfra (1-9)@2 - Zaznacza grupę utworzoną wcześniej przez Ctrl + cyfra
+
+@1Ctrl + 0 (zero)@2 - Usuwa zaznaczone jednostki z ich grupy
+
+
+     @1--- PRZEDMIOTY W EKWIPUNKU ---@2
+
+@1Lewy przycisk na przedmiocie@2 - Bierze przedmiot, by go użyć
+
+@1Lewy przycisk na jednostce z wziętym przedmiotem@2 - Używa wziętego przedmiotu na jednostce
+
+@1Prawy przycisk na przedmiocie@2 - Bierze przedmiot, by położyć go na mapie
+
+@1Lewy przycisk na mapie z wziętym przedmiotem@2 - Kładzie wzięty przedmiot
+
+@1Ctrl + lewy przycisk na przedmiocie@2 - Natychmiastowe użycie przedmiotu
+
+@1Ctrl + prawy przycisk na przedmiocie@2 - Natychmiastowe położenie przedmiotu na mapie
+
+@1Alt + lewy przycisk na przedmiocie@2 - Ustawia przedmiot jako nowy przedmiot domyślny
+
+@1Backspace@2 - Używa przedmiotu domyślnego
+
+@1, (przecinek)@2 - Poprzednia strona ekwipunku
+
+@1. (kropka)@2 - Następna strona ekwipunku
+
+
+     @1--- BUDYNKI ---@2
+
+@1Lewy przycisk@2 - Zaznacza budynek
+
+@1Delete@2 - Usuwa zaznaczony budynek
+
+@1Ctrl + prawy przycisk@2 - Ustawia punkt zbiórki
+
+@1Prawy przycisk@2 - Ustawia punkt zbiórki z domyślną akcją
+
+@1Ctrl + Alt + prawy przycisk@2 - Ustawia punkt zbiórki z natarciem (jednostka atakuje wszystko, co napotka)
+
+@1Ctrl + C@2 - Zaznacza zamek (jeśli jest ich kilka, te klawisze zaznaczają je po kolei)
+
+@1Ctrl + B@2 - Zaznacza koszary (jeśli jest ich kilka, te klawisze zaznaczają je po kolei)
+
+
+     @1--- PRZESUWANIE MAPY ---@2
+
+@1Home@2 - Wyśrodkowuje mapę na budynku, w którym powstała ostatnia jednostka lub technologia
+
+@1Ctrl + Home@2 - Wyśrodkowuje mapę na miejscu ostatniego komunikatu
+
+@1Ctrl + Page Down@2 - Pokazuje miejsce następnego komunikatu
+
+@1Ctrl + Page Up@2 - Pokazuje miejsce poprzedniego komunikatu
+
+@1Strzałki@2 - Przesuwają mapę w kierunku strzałek
+
+
+     @1--- MENU ---@2
+
+@1F1@2 - Pomoc
+
+@1F5@2 - Ekran dyplomacji
+
+@1F6@2 - Okno trybutu
+
+@1F8@2 - Cele bieżącej misji
+
+@1F9@2 - Ekran opcji
+
+@1F10@2 - Menu gry
+
+@1Enter@2 - Rozmowa z innymi graczami
+
+@1Esc@2 - Opuszcza bieżące menu

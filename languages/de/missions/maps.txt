@@ -1,0 +1,76 @@
+# Mappe MP1–MP6 in tedesco: traduzione di questa versione, fatta dall'inglese della versione americana.
+
+# mp1.wmp::maps/mp1
+it: Sarà un lungo inverno
+de: Es wird ein langer Winter (1 gegen 1)
+
+it: (1 giocatore contro 1)\nUna piccola mappa per giocare 1 contro 1 senza oro né pietre ma con un sacco di sorprendenti risorse.
+de: Winzige Karte für 1 gegen 1 ohne Gold und Stein, aber mit vielen Start-Rohstoffen.
+
+it: Regno 1
+de: Reich 1
+
+it: Regno 2
+de: Reich 2
+
+it: Regno 3
+de: Reich 3
+
+it: Regno 4
+de: Reich 4
+
+it: Regno 5
+de: Reich 5
+
+it: Regno 6
+de: Reich 6
+
+it: Regno 7
+de: Reich 7
+
+it: Regno 8
+de: Reich 8
+
+# mp2.wmp::maps/mp2
+it: Non c’è posto per entrambi
+de: Für uns beide ist kein Platz (1 gegen 1)
+
+it: (1 giocatore contro 1)\nUna piccola mappa per 2 giocatori con migliaia di risorse e tre castelli a testa. Troverete enormi quantità di oro e pietre lungo il cammino.
+de: Winzige Karte für zwei Spieler mit vielen Rohstoffen und drei Burgen für jeden. Viel Gold und Stein in der Mitte.
+
+# mp3.wmp::maps/mp3
+it: La conquista del mondo
+de: Die Eroberung der Welt
+
+it: Un grande continente da conquistare. 4 percorsi e migliaia di risorse nella zona centrale.
+de: Ein großer Kontinent will erobert werden. Vier Völker und viele Rohstoffe im mittleren Gebiet.
+
+# mp4.wmp::maps/mp4
+it: Ponte vicino
+de: Die Brücke zu nah
+
+it: Un’enorme mappa con tantissimi ponti per giocare in squadre di 2 contro 2.
+de: Eine riesige Karte mit vielen Brücken für Teams von 2 gegen 2.
+
+# mp5.wmp::maps/mp5
+it: È stata scoperta una ricca miniera aurea. Che cominci la febbre dell’oro!
+de: Eine reiche Goldmine wurde entdeckt – der Goldrausch kann beginnen!
+
+it: Giocatore
+de: Spieler
+
+it: Artù
+de: Artus
+
+it: Merlino
+de: Merlin
+
+it: Lancillotto
+de: Lancelot
+
+# mp6.wmp::maps/mp6
+it: L’occupazione
+de: Die Besetzung (4 gegen 4)
+
+it: (4 giocatori contro 4)\nUna mappa enorme con migliaia di risorse.
+de: Eine gewaltige Karte mit vielen Rohstoffen.

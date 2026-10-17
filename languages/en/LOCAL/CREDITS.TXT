@@ -1,0 +1,357 @@
+@2TZAR
+@1Excalibur and King Arthur
+
+
+
+@0GAME DESIGNER
+@1Vesselin Handjiev
+
+
+@0LEAD PROGRAMMER
+@1Panayot "Otto" Yanazov
+
+
+@0LEAD ARTIST
+@1Rossen Manchev
+
+
+@0PROGRAMMING
+@1Michael "Miho" Peykov
+Alexander "Alex III" Alexandrov
+Julian Manolov
+Oleg Zlatarski
+Vesselin Handjiev
+
+
+@0MAP & CAMPAIGN EDITORS PROGRAMMING
+@1Krassimir "Kastchei" Tuevski
+
+
+@0ADDITIONAL PROGRAMMING
+@1Gabriel Dobrev
+Ivaylo Todorov
+
+
+@0ART AND ANIMATIONS
+@1Rositsa "Ro" Zagorcheva
+Boriana "Bo" Mladenova
+
+
+EURAPEL A&S TEAM
+Georgi Nedeltchev - Team Manager
+Rossen Mantchev
+Teodor Simeonov
+Dimitar Nikolov
+Dimitar "Chrom" Zvetanov
+Chavdar Dragiev
+
+
+IMAGE-ET
+Alexander Sokerov
+
+
+@0SOUND EFFECTS
+@1Vesselin Handjiev
+
+
+EURAPEL A&S TEAM
+Aleksandar Tsvetkov
+Dimitar Sabev
+
+
+@0MUSIC
+@1Kiril "Busty" Petrushev
+Dimitar Sabev
+
+
+@0CAMPAIGN & MAPS
+@1Svetoslav "SAA" Alexandrov
+
+
+@0VOICE OVER
+@1Tim Earle
+
+
+@0MANUAL
+@1Rositsa "Ro" Zagorcheva
+Boriana "Bo" Mladenova
+Krassimir "Kastchei" Tuevski
+
+
+@0TESTING
+@1Test House
+Nine Lund
+DCM Testcenter
+
+
+@0PROJECT MANAGER
+@1Vesselin Handjiev
+Haemimont Multimedia
+
+
+@0VOICE RECORDING
+@1Rosenberg & Söderberg
+Studios
+
+
+@0AUDIO AND VIDEO
+@1Virtual Studio - Sofia
+
+
+@2SPECIAL THANKS
+
+@1Jay Powell
+Kamen Vitanov
+Kalin Toshev
+Angel Stoyanov
+Slav Peychev
+Rich La Porte
+Ben Sawyer
+Steen Hansen (aka Hamlet)
+Matt Lowe (Reckless Rodent)
+Tom Mesher (b:real)
+Jamie Fraser (SpineMan)
+Josh "Herodotus" Watson
+
+
+@0TZAR Heaven
+@1tzar.heavengames.com
+
+
+@0FINAL TESTING
+@3Shaun "BINGFA" Toomey
+Brian "enforc3r" Tan
+Magnus Lind
+Andy "Lava" Oxfeld
+Dave "Stringbags" Stringwell
+Ralph "ALpHsTeR" Nevchas
+Josh "Herodotus" Watson
+Daniel "TLoM" Andersson
+Christian "JaCkz" Bergman
+Will "HellMasker" Decker
+Travis "BearSidhe" Stephenson
+Joseph "Admiral Cricifix" O'Donnell
+Jan-Pierre "WakkoG" Jaspers
+Henrik "Radagast" Hedelund
+Brendan "Perrin" Lynch
+Garret "zx75~GoW~" Rempel
+Katherine "freakygrrl" Jackson
+Brian "Strife" Gerber
+Larry "Nobody" Tallman
+Savonije "Jopie" Hans
+Janne Peippo
+Patrick "MasterMerlin" Burnside
+Tony "FORDY" Ford
+Tina "SNEAK" Ford
+
+Electronic Systems Group affiliated
+with the Technical University of Sofia
+
+... and many others
+
+
+@2OUR THANKS TO
+
+@3All the bars in Sofia
+Zagorka, Kamenitsa, Astika
+KFC, McDonald's
+Pizzeria "Verdi"
+All heavy-metal bands
+All bands that are not heavy-metal
+Our mothers and our grandmothers
+Our husbands, wives and everyone who showed endless patience
+And our special thanks to all our friends
+The movie The Matrix
+(which kept Otto in a good mood)
+Quake II
+(which kept the team from committing suicide)
+Gamers' Workshop magazine
+
+
+And everyone who thinks
+they deserve it...
+
+
+
+
+
+
+@2HAEMIMONT
+MULTIMEDIA
+@1Sofia, Bulgaria 2002
+
+
+
+@2EURAPEL Ltd.
+@1Sofia, Bulgaria 2002
+
+
+
+@2IMAGE-ET
+@1Sofia, Bulgaria 2002
+
+
+
+@2DIGITAL DIALECT
+@1Masher
+Video compression technology
+
+
+
+@2FX INTERACTIVE
+@1Madrid, Spain, 2002
+
+
+
+
+
+@2TZAR
+@1Excalibur and King Arthur
+
+
+@0PRODUCERS
+@1Antonio Lucena Ferrero
+Pablo de la Nuez S.C.
+
+
+@0CAMPAIGN DESIGN
+AND PROGRAMMING
+@1Antonio Priego Marco
+
+
+@0CAMPAIGN SCRIPT
+@1Antonio Priego Marco
+José Villalba
+Antonio Lucena Ferrero
+Pablo de la Nuez S.C.
+
+
+@0GRAPHIC DESIGN
+@1José Luis Díaz "Joky"
+
+
+@0INTRODUCTORY VIDEO AND
+ADDITIONAL GRAPHICS
+@1Equipo FX
+
+
+@0CHARACTER DESIGN
+@1Begoña Echave
+
+
+@0CAST OF THE ITALIAN EDITION
+
+@1MARCO BALZAROTTI
+Narrator
+
+MASSIMO BITOSSI
+Sir Kay
+King Carados
+King Cradelmas
+Dragon
+Lancelot
+
+LUCA BOTTALE
+King of the Hundred Knights
+Angry Knight
+Yamuga
+Young Man
+
+MASSIMO DI BENEDETTO
+Young Arthur
+Sir Gawain
+Young Temujin
+
+GIANNI GAUDE
+Sir Brastias
+King Uriens
+Sir Lucan
+Sir Ladinas
+Sir Balin
+Peasant 1
+Peasant 2
+Mongol Soldier
+
+RICCARDO LOMBARDO
+King of Scotland
+King Lot
+Nero
+Sir Galahad
+Sir Mordred
+Tugril Khan
+
+ANNAMARIA MANTOVANI
+Voices from Beyond
+Vampire Queen
+
+CINZIA MASSIRONI
+Guinevere
+Morgan le Fay
+Elun
+Alana
+Wanli
+The Lady of the Lake
+Nyneve
+Borta
+
+GIORGIO MELAZZI
+King Nentres
+Sir Ulfius
+King Ban
+Sir Percival
+Priest
+Abdul
+Zhorin
+
+ANTONIO PAIOLA
+Sir Ector
+Merlin
+King Clariance
+Sir Kaynes
+Archer
+Inquisitor
+Elder
+
+SILVANO PICCARDI
+Archbishop of Canterbury
+Sir Baudwin
+Sir Phariance
+Sir Lionses
+Knight 1
+Jagadai
+
+PATRIZIO PRATA
+King Brandegoris
+Arthur
+
+RICCARDO ROVATTI
+Haaser
+Knight
+King Bors
+Sir Balan
+Adult Temujin
+Batu
+
+LUCA SANDRI
+Duke Estance
+King of Ireland
+Sir Griflet
+King Pellinore
+Sir Uwain
+Knight 2
+Yenisei
+Bochurgi
+Unojo
+
+
+
+@0TESTING MANAGER
+@1Eduardo Baez
+
+@0TESTING
+@1FX test team
+
+@0ITALIAN LOCALIZATION
+@1Jinglebell Communication S.r.l.
+
+@1 Copyright FX Interactive, 2002

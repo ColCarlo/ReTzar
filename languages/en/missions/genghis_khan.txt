@@ -1,0 +1,469 @@
+# L'Impero di Gengis Khan (campagna dell'edizione italiana, assente dalla versione americana): traduzione di ReTzar.
+
+# impero di gengis khan.wcm
+it: L'Impero di Gengis Khan\n\nLa conquista dell'Asia da parte di Gengis Khan e del suo esercito avvenne fra mille ostacoli. Se vuoi emulare con successo le sue conquiste, dovrai superare varie prove. Se ci riuscirai, la Grande Assemblea dei Guerrieri ti proclamerà Gengis Khan e potrai creare un favoloso esercito per lanciarti alla conquista di Pechino. Se non porterai a termine qualcuna di queste sfide, il tuo potere militare verrà limitato nel corso della prossima campagna: l'invasione dell'Impero Cinese.
+en: The Empire of Genghis Khan\n\nThe conquest of Asia by Genghis Khan and his army came about through a thousand obstacles. If you want to match his conquests, you will have to pass many trials. If you succeed, the Great Assembly of Warriors will proclaim you Genghis Khan and you will be able to raise a fabulous army to set out for the conquest of Peking. If you fail any of these challenges, your military power will be limited during the next campaign: the invasion of the Chinese Empire.
+
+# impero di gengis khan.wcm::maps/gengis_khan01
+it: La proclamazione del Khan
+en: The Proclamation of the Khan
+it: Dopo la morte del padre, Temujín ha ereditato il comando della sua tribù. A soli tredici anni dovrà ridare fiducia al suo popolo demoralizzato e debilitato, sconfiggere le tribù rivali e vendicare la morte del padre.
+en: After his father's death, Temujin has inherited the leadership of his tribe. Only thirteen years old, he must give back hope to his weary and disheartened people, defeat the rival tribes and avenge his father's death.
+it: Taichiti
+en: Taichiuds
+it: Borkigini
+en: Borjigins
+it: Mongoli
+en: Mongols
+it: Kerait
+en: Keraits
+it: Naimani
+en: Naimans
+it: Merkit
+en: Merkits
+it: Nemici
+en: Enemies
+it: Tartari
+en: Tatars
+it: Spirito
+en: Evil
+it: Maligno
+en: Spirit
+it: ossa drago
+en: dragon bones
+it: Muro di
+en: Wall of
+it: forza
+en: force
+it: orca
+en: orc
+it: Orco
+en: Orc
+it: orco
+en: orc
+it: Fucina
+en: Dwarven
+it: Nana
+en: Forge
+it: Scudo
+en: Shield
+it: Nano
+en: Dwarf
+it: Fratello
+en: Brother
+it: Arco
+en: Composite
+it: Composito
+en: Bow
+it: Vecchio
+en: Elder
+it: Grimorio
+en: Grimoire
+it: Draghi
+en: of Dragons
+it: Borkiginos
+en: Borjigins
+it: Negromante
+en: Necromancer
+it: Esercito di Yamuga
+en: Army of Yamuga
+it: Mago
+en: Wizard
+it: Guerriero
+en: Warrior
+it: Straniero
+en: Stranger
+it: Figlia di Yamuga
+en: Yamuga's Daughter
+it: La leggenda narra che Alan-Coa, sposa del capo della tribù più potente della steppa, vedeva in sogno, ogni notte, una figura dai capelli dorati e dagli occhi azzurri che entrava nella sua tenda senza far rumore, le accarezzava il viso e, prima di scomparire, le sussurrava all'orecchio... "GENGIS KHAN".\n\nTrent'anni dopo la sua prima visione, il clan familiare di Alan-Coa venne benedetto dalla nascita di Temujìn che, molto presto, dimostrò doti da gran guerriero e di buon capo.\n\nPer rafforzare il dominio della tribù sui territori della steppa, Temujín acconsente alla volontà del padre e accetta di sposare la figlia del capo Tugril-Khan.\n\nLa notizia dell'accordo si diffonde rapidamente per la steppa e un corteo nuziale, con Temujín e suo padre in testa, parte per suggellare l'alleanza. Lungo il cammino, i tartari, un'antica tribù rivale, li raggiunge e li invita a partecipare a un banchetto organizzato in onore della futura unione. Yesugei, obbligato dalle sacre tradizioni della steppa, non può rifiutare la loro ospitalità e decide di fermarsi. Ma il banchetto celebrativo in realtà nasconde una trappola mortale. Yesugei viene avvelenato e, agonizzante, incarica il figlio di tenere unita la tribù. \n\nLa scomparsa di Yesugei e la giovane età di Temujín, all'epoca appena tredicenne, provocano lo sconcerto fra i parenti e i clan familiari della tribù, che pian piano, cominciano ad abbandonarla portandosi via le proprie greggi. Temujín con il solo aiuto della madre e dei quattro fratelli deve affrontare l'opera di ricostruzione della sua tribù...\n\nComincia a formarsi la leggenda di quello che un giorno verrà chiamato Gengis Khan, re ed imperatore di tutte le popolazioni dell'Asia.
+en: Legend tells that Alan-Qoa, wife of the chief of the mightiest tribe of the steppe, dreamed every night of a figure with golden hair and blue eyes who came into her tent without a sound, stroked her face and, before vanishing, whispered in her ear... "GENGHIS KHAN".\n\nThirty years after her first vision, the clan of Alan-Qoa was blessed with the birth of Temujin, who very soon showed the gifts of a great warrior and a good leader.\n\nTo strengthen the tribe's hold over the lands of the steppe, Temujin bows to his father's will and agrees to marry the daughter of the chief Tugril Khan.\n\nThe news of the pact spreads quickly across the steppe, and a wedding procession, led by Temujin and his father, sets out to seal the alliance. On the way the Tatars, an ancient rival tribe, overtake them and invite them to a feast held in honor of the coming union. Yesugei, bound by the sacred traditions of the steppe, cannot refuse their hospitality and decides to stay. But the festive banquet hides a deadly trap. Yesugei is poisoned and, dying, charges his son with keeping the tribe together.\n\nThe loss of Yesugei and the youth of Temujin, then barely thirteen, bewilder the relatives and the clans of the tribe, who little by little begin to abandon it, taking their herds with them. With only his mother and his four brothers to help him, Temujin must take on the task of rebuilding his tribe...\n\nSo begins the legend of the one who will one day be called Genghis Khan, king and emperor of all the peoples of Asia.
+it: Temujín, a soli tredici anni deve condurre il proprio scoraggiato popolo.
+en: Temujin, only thirteen years old, must lead his disheartened people.
+it: I taichiti, vecchi alleati e compagni d'armi, attaccano l'accampamento. Il sacrificio dei valorosi guerrieri di Temujín non è sufficiente a impedire che lui, sua madre e i suoi fratelli cadano prigionieri...
+en: The Taichiuds, old allies and brothers in arms, attack the camp. The sacrifice of Temujin's brave warriors is not enough to keep him, his mother and his brothers from being taken prisoner...
+it: Catturato
+en: Captured
+it: Un gruppo di stranieri ha rubato otto dei nove cavalli da monta che costituivano la ricchezza del clan. Temujín, protettore del clan, monta sull'ultimo purosangue rimasto e parte alla ricerca dei ladri.
+en: A band of strangers has stolen eight of the nine riding horses that were the wealth of the clan. Temujin, the clan's protector, mounts the last thoroughbred left and sets out after the thieves.
+it: Ladri
+en: Thieves
+it: Tugril-Khan ha accettato la tua dote. Sarai sempre il benvenuto al suo accampamento. I preparativi per le tue nozze sono cominciati.
+en: Tugril Khan has accepted your dowry. You will always be welcome in his camp. The preparations for your wedding have begun.
+it: Matrimonio
+en: Wedding
+it: Borta è stata rapita da un gruppo di guerrieri della tribù dei merkit.
+en: Borta has been kidnapped by a band of warriors of the Merkit tribe.
+it: I rapitori di Borta hanno giurato di non restituirla finché uno solo di loro rimarrà in piedi! La tengono prigioniera nel loro accampamento.
+en: Borta's kidnappers have sworn not to give her back while a single one of them is still standing! They hold her prisoner in their camp.
+it: Rapitore
+en: Kidnapper
+it: Dopo la cerimonia di nozze...
+en: After the wedding ceremony...
+it: Dopo la celebrazione delle nozze fra Temujín e Borta, Tugril-Khan accetta come figlio Temujín e gli garantisce la sua protezione.\n\nCon la benedizione dei kerait, la giovane coppia parte alla volta dell'accampamento di Temujín.
+en: After the wedding of Temujin and Borta is celebrated, Tugril Khan takes Temujin as his son and grants him his protection.\n\nWith the blessing of the Keraits, the young couple sets out for Temujin's camp.
+it: Liberata Borta dalle mani dei merkit, la fama di Temujín si diffonde per tutta la steppa e tutti i suoi familiari e amici tornano all'interno del clan familiare per porsi ai suoi ordini. Borta consiglia a Temujín di ripristinare il commercio fra i mongoli, creando due mercati così che i commercianti possano appoggiarlo.
+en: Once Borta is freed from the hands of the Merkits, Temujin's fame spreads across the whole steppe, and all his relatives and friends come back to the clan to place themselves under his command. Borta advises Temujin to restore trade among the Mongols by building two markets, so that the merchants may support him.
+it: Commercio
+en: Trade
+it: La costruzione dei due mercati permetterà il commercio fra le tribù  della Mongolia e sarà senza dubbio un'ottima fonte di entrate per le future campagne.
+en: The two markets will allow trade among the tribes of Mongolia and will surely be a fine source of income for the campaigns to come.
+it: Mercati
+en: Markets
+it: Improvvisamente, avvicinandosi ai papiri, il suolo comincia a tremare, le statue di pietra prendono vita e si trasformano in esseri enormi e grotteschi che, senza una parola, cominciano ad attaccarti.
+en: Suddenly, as you approach the scrolls, the ground begins to shake, the stone statues come to life and turn into huge, grotesque beings that, without a word, start to attack you.
+it: Golem
+en: Golems
+it: Yamuga si è nascosto da qualche parte a curare le proprie ferite.
+en: Yamuga has hidden somewhere to tend his wounds.
+it: Temujín aveva trovato il suo sospirato arco, il cui strano potere sembrava collegato a sua moglie Borta: finché lei fosse rimasta viva, egli avrebbe usufruito dei favolosi poteri dell'arma.
+en: Temujin had found the bow he longed for, whose strange power seemed bound to his wife Borta: as long as she lived, he would enjoy the weapon's fabulous powers.
+it: La negromante, vedendosi ferita, ha operato una magia ed è scomparsa. Purtroppo quella che sembrava una fuga si rivela essere una trappola mortale per Temujín. La strega con un incantesimo ha evocato un drago malvagio...
+en: Seeing herself wounded, the necromancer cast a spell and vanished. Alas, what looked like a flight turns out to be a deadly trap for Temujin. With a spell, the witch has summoned an evil dragon...
+it: Un fratello di Temujín è stato ferito mortalmente.
+en: A brother of Temujin has been mortally wounded.
+it: Temujín è morto combattendo eroicamente, tuttavia il suo ricordo si perderà nell'oblio.
+en: Temujin has died fighting heroically, yet his memory will be lost in oblivion.
+it: Il vecchio che custodiva i tuoi cavalli è stato assassinato.
+en: The old man who looked after your horses has been murdered.
+it: Borta, la sposa de Temujín, è stata assassinata.
+en: Borta, Temujin's wife, has been murdered.
+it: Il maestro Batu è morto. I monaci piangeranno la sua perdita per anni.
+en: Master Batu is dead. The monks will mourn his loss for years.
+it: La sconfitta delle tribù rivali permette a Temujín di sottomettere tutti i generali e i capi dei clan della steppa. Unite le tribù sotto il suo comando, i capi si riuniscono nella Grande Assemblea dei guerrieri, vicino alle fonti del fiume Onon e, nell'anno della tigre (1206), proclamano Temujín imperatore con il nome di Gengis Khan. Lo stendardo bianco di Gengis Khan sventola superbo alla volta della sua prossima conquista: Pechino, il cuore dell'Impero Cinese.
+en: The defeat of the rival tribes allows Temujin to subdue all the generals and clan chiefs of the steppe. With the tribes united under his command, the chiefs gather in the Great Assembly of Warriors, near the sources of the river Onon, and in the year of the tiger (1206) they proclaim Temujin emperor with the name of Genghis Khan. The white standard of Genghis Khan flies proudly toward his next conquest: Peking, the heart of the Chinese Empire.
+it: Fuggi dai taichiti e ritorna al tuo accampamento. Se vuoi superare l'inverno, dovrai costruire una fattoria per sfamare la tua tribù.
+en: Escape from the Taichiuds and go back to your camp. If you want to survive the winter, you will have to build a farm to feed your tribe.
+it: Temujín e almeno uno dei suoi familiari devono sopravvivere.
+en: Temujin and at least one of his family must survive.
+it: Trova i ladri di cavalli e impossessati della stalla con l'aiuto dei tuoi contadini.
+en: Find the horse thieves and take the stable with the help of your peasants.
+it: Chiedi udienza a Tugril-Khan.
+en: Ask for an audience with Tugril Khan.
+it: Produci unità di cibo fino ad averne 400.
+en: Produce food until you have 400.
+it: Viaggia fino alla corte dei kerait per celebrare le tue nozze.
+en: Travel to the court of the Keraits to celebrate your wedding.
+it: Parti con la tua sposa per fare ritorno al tuo accampamento.
+en: Leave with your bride to go back to your camp.
+it: Sollecita l'aiuto di Tugril-Khan per liberare Borta.
+en: Ask Tugril Khan for help to free Borta.
+it: Trova la pozione di ossa di drago e consegnala a Tugril-Khan.
+en: Find the potion of dragon bones and bring it to Tugril Khan.
+it: Distruggi il castello dei merkit per liberare Borta.\nYamuga deve sopravvivere.
+en: Destroy the castle of the Merkits to free Borta.\nYamuga must survive.
+it: Costruisci due mercati nel tuo accampamento per aumentare il tuo potere economico.
+en: Build two markets in your camp to increase your economic power.
+it: Cerca l'accampamento dei tartari e distruggi il loro castello.
+en: Find the camp of the Tatars and destroy their castle.
+it: Sconfiggi Yamuga e i suoi alleati.
+en: Defeat Yamuga and his allies.
+it: Impossessati dell'arco magico custodito dai taichiti sulla loro collina.
+en: Take the magic bow that the Taichiuds guard on their hill.
+it: Sconfiggi Yamuga e i suoi nuovi alleati del nord-est.
+en: Defeat Yamuga and his new allies of the northeast.
+it: Trova Yamuga e raccontagli la verità riguardo a sua figlia.
+en: Find Yamuga and tell him the truth about his daughter.
+it: Sconfiggi i nani.
+en: Defeat the dwarves.
+it: Sconfiggi gli orchi.
+en: Defeat the orcs.
+it: Trova il grimorio e portalo a Jagadai.
+en: Find the grimoire and bring it to Jagadai.
+it: Recupera i papiri di Kettsuin e consegnali a Batu.
+en: Recover the scrolls of Kettsuin and bring them to Batu.
+it: Con l'aiuto della sua famiglia, Temujín comincia la ricostruzione del suo villaggio, diventando in poco tempo un vero leader fra i suoi.
+en: With the help of his family, Temujin begins to rebuild his village, and soon becomes a true leader among his people.
+it: Bochurgi è morto! Piangeremo per la scomparsa di questo grande guerriero.
+en: Bochurgi is dead! We will mourn the loss of this great warrior.
+it: Tugril-Khan è morto, il suo popolo rimane orfano di un grande capo.
+en: Tugril Khan is dead, and his people are left without a great chief.
+it: e far fronte a un lungo inverno. Solo sua madre Elun e  suoi fratelli gli rimangono accanto...
+en: and to face a long winter. Only his mother Elun and his brothers remain at his side...
+it: Yamuga, invidioso del prestigio di Temujin e del suo nuovo arco, abbandona il clan con i suoi guerrieri.
+en: Yamuga, jealous of Temujin's prestige and of his new bow, leaves the clan with his warriors.
+it: È morta tutta la famiglia di Temujín. Senza il loro aiuto Temujín non potrà mantenere il suo giuramento.
+en: Temujin's whole family is dead. Without their help Temujin will not be able to keep his oath.
+it: Fratelli
+en: Brothers
+it: Sono già trascorsi tre anni dal giuramento di Temujín. Dovrai affrettarti se vuoi mantenere la promessa fatta a tua madre.
+en: Three years have already passed since Temujin's oath. You must hurry if you want to keep the promise made to your mother.
+it: Tempo
+en: Time
+it: Sono già trascorsi otto anni dal giuramento di Temujín. Ti rimane poco tempo...
+en: Eight years have already passed since Temujin's oath. You have little time left...
+it: I tartari, di fronte alla ferocia dell'attacco rimangono confusi e si sottomettono all'autorità di Temujín.
+en: Faced with the fury of the attack, the Tatars are thrown into disarray and submit to Temujin's authority.
+it: Tártari
+en: Tatars
+it: Ora che gli orchi e i nani possono godere di un'accogliente taverna, sarebbe meglio andare a controllare se hanno ancora voglia di combattersi.
+en: Now that the orcs and the dwarves can enjoy a cozy tavern, it would be wise to go and see whether they still feel like fighting each other.
+it: Taverne
+en: Taverns
+it: Temujín è riuscito a riunire la maggior parte delle tribù della steppa sotto il suo comando. I capi si riuniscono nella Grande Assemblea dei guerrieri, vicino alle fonti del fiume Onon e, nell'anno della tigre (1206), proclamano Temujín imperatore con il nome di Gengis Khan. Senza dubbio le tribù ribelli che ancora non accettano la sua autorità cercheranno di osteggiarlo nel corso della nuova missione: la conquista di Pechino, il cuore dell'Impero Cinese.
+en: Temujin has managed to bring most of the tribes of the steppe under his command. The chiefs gather in the Great Assembly of Warriors, near the sources of the river Onon, and in the year of the tiger (1206) they proclaim Temujin emperor with the name of Genghis Khan. No doubt the rebel tribes that still do not accept his authority will try to stand in his way during the new mission: the conquest of Peking, the heart of the Chinese Empire.
+it: Viaggia verso le terre del sud-est e libera Alana dalla sua prigionia.
+en: Travel to the lands of the southeast and free Alana from her captivity.
+it: Trova Yamuga e raccontagli la verità su sua figlia.
+en: Find Yamuga and tell him the truth about his daughter.
+it: Elun, la madre di Temujín, è morta.
+en: Elun, Temujin's mother, is dead.
+it: Jagadai è morto, ora non potrai contare sul suo prezioso aiuto.
+en: Jagadai is dead, and now you cannot count on his precious help.
+it: Il capo degli orchi, Unojo, è morto, l'odio del suo popolo ti seguirà ovunque andrai.
+en: Unojo, chief of the orcs, is dead, and the hatred of his people will follow you wherever you go.
+it: Zhorin, capo dei nani è morto. Il suo popolo ti dichiara una guerra senza quartiere.
+en: Zhorin, chief of the dwarves, is dead. His people declare a merciless war on you.
+it: Yamuga è morto. Le sue truppe ti accusano di averlo mandato incontro ad una morte certa e se ne vanno. I tuoi uomini, di fronte all'abbandono delle truppe di Yamuga, perdono la fiducia nella tua leadership.\nÈ stato un duro colpo. Nessuno ha voglia di combattere al tuo fianco.
+en: Yamuga is dead. His troops accuse you of sending him to certain death and leave. Seeing Yamuga's troops desert, your men lose faith in your leadership.\nIt is a hard blow. Nobody wants to fight at your side.
+it: Yamuga è stato vilmente assassinato dalle tue truppe quando già si era arreso. La legge della steppa ti taccia di essere codardo e crudele e il tuo popolo si rifiuta di seguirti.
+en: Yamuga was basely murdered by your troops after he had already surrendered. The law of the steppe brands you a coward and a cruel man, and your people refuse to follow you.
+it: La stalla che custodiva i tuoi cavalli da monta è stata distrutta. Senza di loro la tua tribù si ritrova privata del suo bene più prezioso.
+en: The stable that held your riding horses has been destroyed. Without them your tribe is robbed of its most precious possession.
+it: Stalla
+en: Stable
+it: I taichiti sono stati battuti dalla forza della sua spada.
+en: The Taichiuds have been beaten by the strength of his sword.
+it: Tutti i borkigini sono morti.
+en: All the Borjigins are dead.
+it: I kerait sono stati decimati.
+en: The Keraits have been decimated.
+it: Hai distrutto la resistenza dei naimani. Lunga vita a Gengis Khan!
+en: You have broken the resistance of the Naimans. Long live Genghis Khan!
+it: I merkit ostili a Temujín sono stati annientati.
+en: The Merkits hostile to Temujin have been wiped out.
+it: La vendetta di Temujín per la morte di suo padre è stata consumata.
+en: Temujin's revenge for his father's death has been carried out.
+it: Yenisei, non abbandonarci. La nostra tribù s'indebolisce e l'inverno si avvicina, abbiamo bisogno di tutti gli uomini disponibili.
+en: Yenisei, do not abandon us. Our tribe grows weaker and winter is coming; we need every man we have.
+it: Donna, non ho intenzione di disertare come hanno fatto i clan familiari che ci hanno abbandonato. Parto alla ricerca di ricchezze per la nostra tribù. Tornerò presto con un gregge dieci volte più numeroso.
+en: Woman, I have no intention of deserting as the clans that abandoned us did. I am going in search of riches for our tribe. I will soon come back with a herd ten times larger.
+it: Non ti preoccupare, madre. Grazie ai nostri cavalli, riunirò la più grande schiera di guerrieri che si sia mai vista. In meno di dieci anni sottometterò tutti i clan e le tribù della steppa e vendicherò la morte di nostro padre.
+en: Don't worry, mother. Thanks to our horses I will gather the greatest host of warriors ever seen. In less than ten years I will subdue every clan and tribe of the steppe and avenge our father's death.
+it: Grazie agli dei sei ancora con me, Temujín. Ritrovo in te la forza di tuo padre. Sarai un grande capo, ma dovrai approfittare degli anni della tua giovinezza.
+en: Thank the gods you are still with me, Temujin. I see your father's strength in you. You will be a great chief, but you must make good use of the years of your youth.
+it: Alle armi! Ci attaccano i taichiti!\nMaledetti traditori!
+en: To arms! The Taichiuds are attacking us!\nCursed traitors!
+it: Correte figli miei!
+en: Run, my children!
+it: Dobbiamo fuggire! Si è fatto giorno. Approfittiamo del fatto che i taichiti dormono dopo la celebrazione di questa notte e fuggiamo... queste palizzate sono vecchie e malfatte, insieme potremo romperle.
+en: We must escape! Day has broken. Let us take advantage of the Taichiuds sleeping after last night's celebration and flee... these stockades are old and badly made; together we can break them.
+it: Ma... dove andremo? Ci hanno portato via tutto... Moriremo di fame! Non abbiamo nemmeno la legna per resistere durante l'inverno.
+en: But... where will we go? They have taken everything from us... We will starve! We do not even have the wood to last through the winter.
+it: La prenderemo a loro. Dobbiamo provarci se non vogliamo rimanere prigionieri tutta la vita.
+en: We will take it from them. We must try, if we do not want to stay prisoners all our lives.
+it: Ma il deposito della legna è vigilato, sarà difficile rompere la palizzata senza essere scoperti.
+en: But the woodpile is guarded; it will be hard to break the stockade without being seen.
+it: Se non dovessimo riuscire a rubare la loro legna, possiamo sempre tornare alle nostre terre e ricostruire il nostro accampamento, non potremo sopravvivere senza un rifugio.
+en: If we cannot steal their wood, we can always go back to our lands and rebuild our camp; we cannot survive without a shelter.
+it: Ho perso le tracce di quei maledetti stranieri! Si sta facendo notte… devo tornare all'accampamento. È un duro colpo per il nostro popolo.
+en: I have lost the trail of those cursed strangers! Night is falling… I must go back to the camp. It is a hard blow for our people.
+it: Salute guerriero!
+en: Greetings, warrior!
+it: Chi sei? Fatti vedere!
+en: Who are you? Show yourself!
+it: Il mio nome è Bochurgui, esperto nelle arti orientali del combattimento. Stavo seguendo le tracce di alcuni stranieri che mi sembravano sospetti fino ad una stalla in cui custodivano dei cavalli.
+en: My name is Bochurgi, master of the eastern arts of combat. I was following the trail of some strangers who seemed suspicious to me, up to a stable where they kept some horses.
+it: Quei cavalli appartengono al mio popolo! Sono cavalli da monta di gran pregio. I ladri di bestiame hanno approfittato dell'oscurità della notte per penetrare nel nostro accampamento e rubarli.
+en: Those horses belong to my people! They are riding horses of great worth. The cattle thieves took advantage of the dark of the night to get into our camp and steal them.
+it: Umm, credo che ti aiuterò. Non mi piacciono gli stranieri, ma se vogliamo recuperare quei cavalli avremo bisogno dell'aiuto della tua tribù. Mentre noi ci occuperemo di distrarre i soldati di guardia, i tuoi uomini potranno cercare di impossessarsi della stalla. Come vedi, alcuni di loro sono all'interno.
+en: Hmm, I think I will help you. I do not like strangers, but if we want to get those horses back we will need the help of your tribe. While we draw off the soldiers on guard, your men can try to take the stable. As you see, some of them are inside.
+it: Andiamo, si trovano da queste parti...
+en: Come, they are over this way...
+it: Il mio nome è Temujín, figlio di Yesugei. Guidami a quella stalla e verrai ricompensato.
+en: My name is Temujin, son of Yesugei. Lead me to that stable and you will be rewarded.
+it: Togliti dalla mia strada! Il tuo aspetto ti tradisce, ladro.
+en: Get out of my way! Your looks betray you, thief.
+it: Non tollererò di essere insultato da te! Proverai l'acciaio della mia spada!
+en: I will not stand being insulted by you! You will taste the steel of my sword!
+it: I nostri cavalli da monta sono stati recuperati! Grazie ad essi potremo aumentare la grandezza e il potere della nostra cavalleria.
+en: Our riding horses have been recovered! Thanks to them we can increase the size and power of our cavalry.
+it: Ora devo recarmi presso la corte di Tugril-Khan, capo della tribù dei kerait dove vive Borta, la mia sposa. Con quest'unione potrò suggellare una potente alleanza.
+en: Now I must go to the court of Tugril Khan, chief of the Keraits, where Borta, my bride, lives. With this union I can seal a mighty alliance.
+it: Potente signore, grazie per avermi liberato dal giogo di quegli assalitori. Ormai sono anziano ma ho allevato i migliori cavalli delle steppe, e questa è la ragione per cui venivo tenuto prigioniero da questi uomini. Come ringraziamento dedicherò il resto della mia vita alla cura dei tuoi destrieri.
+en: Mighty lord, thank you for freeing me from the yoke of those raiders. I am old now, but I have raised the best horses of the steppes, and that is why these men held me prisoner. In gratitude I will devote the rest of my life to the care of your steeds.
+it: Grazie per la tua offerta, vecchio. Occupati dell'allevamento dei miei cavalli ed io proteggerò la tua stalla. Quando ne avrò bisogno, verrò a cercarti.
+en: Thank you for your offer, old man. Take care of breeding my horses and I will protect your stable. When I need you, I will come for you.
+it: Grazie, mio signore.
+en: Thank you, my lord.
+it: Ti porgo il benvenuto Temujín. Il mio nome è Tugril-Khan, capo della tribù dei kerait, famosa in tutta la steppa per i suoi favolosi carri da guerra. Sei diventato un vero capo per la tua tribù. Non mi aspettavo di meno dal futuro marito di mia figlia. Immagino che tu venga a celebrare l'unione con Borta, vero?
+en: I bid you welcome, Temujin. My name is Tugril Khan, chief of the Keraits, a tribe famous across the steppe for its fabulous war chariots. You have become a true chief for your tribe. I expected no less from my daughter's future husband. I suppose you have come to celebrate your union with Borta, have you not?
+it: È così, Tugril-khan. Vengo a portare a compimento la promessa matrimoniale fatta quando era ancora vivo mio padre, il grande Yesugei.
+en: That is so, Tugril Khan. I have come to fulfill the marriage promise made while my father, the great Yesugei, was still alive.
+it: Mi dispiace Tugril-Khan.
+en: I am sorry, Tugril Khan.
+it: In questo caso rispetteremo la tua decisione e aspetteremo il tuo ritorno.
+en: In that case we will respect your decision and await your return.
+it: Conosci gli usi della steppa. Prima dovrai consegnarci una dote degna del prestigio di cui gode mia figlia Borta. Inviaci cibo come forma di tributo. Se sarà di nostro gradimento, te lo faremo sapere e potremo celebrare il matrimonio.
+en: You know the customs of the steppe. First you must give us a dowry worthy of the esteem my daughter Borta enjoys. Send us food as tribute. If it pleases us, we will let you know and we can celebrate the wedding.
+it: Così sia.
+en: So be it.
+it: Salute a te, Temujín, hai cambiato idea?
+en: Greetings to you, Temujin. Have you changed your mind?
+it: Ancora no.
+en: Not yet.
+it: Maledizione! La tribù dei merkit ci ha teso un'imboscata! Corri Borta! Fuggi!
+en: Curses! The Merkit tribe has ambushed us! Run, Borta! Flee!
+it: Temujín, aiutami!
+en: Temujin, help me!
+it: Maledetti... hanno rapito Borta! Sono troppi, se voglio salvarmi devo fuggire per chiedere aiuto a Tugril-Khan e organizzare una spedizione per riscattarla.
+en: Curse them... they have taken Borta! There are too many of them; if I want to save myself I must flee, ask Tugril Khan for help and organize an expedition to rescue her.
+it: Molto bene ragazzo! Ora prendi la tua sposa e torna all'accampamento. Da oggi ti accetto come figlio e come tale potrai contare pienamente sul mio aiuto e sulla mia protezione.
+en: Very well, boy! Now take your bride and go back to the camp. From this day on I accept you as my son, and as such you can count fully on my help and my protection.
+it: Ti ringrazio, grande Tugril-Khan. Il tuo potente esercito mi sarà sicuramente di grande aiuto per sconfiggere i nostri nemici.
+en: I thank you, great Tugril Khan. Your mighty army will surely be a great help in defeating our enemies.
+it: Tugril-Khan! I merkit ci hanno teso un'imboscata e hanno rapito Borta! Ho bisogno del vostro aiuto!
+en: Tugril Khan! The Merkits have ambushed us and taken Borta! I need your help!
+it: Mi porti notizia di grandi disgrazie, figlio mio. Dobbiamo escogitare presto qualcosa o Borta morirà. Purtroppo sono molto malato e riesco a muovermi a fatica. Sai che il mio esercito non si muoverà senza il proprio generale. Invierò il mio messaggero più rapido alla ricerca di Yamuga, tuo amico d'infanzia. Magari ci aiuterà in questo momento così difficile.
+en: You bring me news of great misfortune, my son. We must think of something quickly or Borta will die. Alas, I am very ill and I can barely move. You know my army will not march without its general. I will send my swiftest messenger to look for Yamuga, your childhood friend. Perhaps he will help us in this hard time.
+it: Ma non sarà sufficiente! Abbiamo bisogno del vostro esercito! Ci deve essere un modo per restituirvi il vigore.
+en: But it will not be enough! We need your army! There must be a way to give you back your strength.
+it: Ci sarebbe, anche se qualcuno lo considera solo una leggenda. Gli sciamani della tribù sostengono che esista una bevanda medicinale nei dintorni di un antico vulcano tra le Montagne Bianche, a nord. Si tratta di una pozione unica, fatta con le sacre ossa del drago. Ma il viaggio è pericoloso, le montagne sono infestate da nani e si racconta che alcuni spiriti maligni proteggano la pozione. Se riuscissi a procurarmi la bevanda curativa, forse avremmo una possibilità.
+en: There would be, though some think it only a legend. The shamans of the tribe say there is a healing drink near an ancient volcano in the White Mountains, to the north. It is a unique potion, made with the sacred bones of the dragon. But the journey is dangerous: the mountains are infested with dwarves, and it is said that evil spirits guard the potion. If you could bring me the healing drink, perhaps we would have a chance.
+it: Ve la porterò!
+en: I will bring it to you!
+it: Hai portato la pozione! Il nostro popolo ti sarà eternamente debitore. Durante la tua assenza è giunto al nostro accampamento Yamuga  con le sue truppe. Uniamo le nostre forze per salvare Borta e sottomettiamo i merkit una volta per tutte!
+en: You have brought the potion! Our people will be forever in your debt. While you were away, Yamuga came to our camp with his troops. Let us join our forces to save Borta and subdue the Merkits once and for all!
+it: E allora moriranno tutti! Andiamo ad affrontarli!
+en: Then they will all die! Let us go and face them!
+it: I miei uomini sono al tuo servizio e ti saranno fedeli come lo sarebbero a me.
+en: My men are at your service and will be as loyal to you as they would be to me.
+it: I merkit sono una tribù orgogliosa. Dobbiamo distruggere il loro accampamento se vogliamo liberare Borta.
+en: The Merkits are a proud tribe. We must destroy their camp if we want to free Borta.
+it: Benvenuto, straniero. Il mio nome è Zhorin, figlio di Grorin, re della Montagna Bianca. Siamo un popolo di fabbri eccellenti, creatori di armi e armature. Sei molto lontano dalla tua terra. Cosa ti porta qui?
+en: Welcome, stranger. My name is Zhorin, son of Grorin, king of the White Mountain. We are a people of excellent smiths, makers of weapons and armor. You are very far from your land. What brings you here?
+it: Toglietevi dalla mia strada se non volete saggiare la potenza del mio arco!
+en: Get out of my way if you do not want to feel the might of my bow!
+it: Salute, Zhorin. Vengo in pace.
+en: Greetings, Zhorin. I come in peace.
+it: Dovrai passare sul mio cadavere!
+en: You will have to step over my dead body!
+it: Allora dovrai stare molto attento. A nord abitano alcuni spiriti maligni. Evitali o incorrerai in una morte rapida.
+en: Then you must be very careful. To the north dwell some evil spirits. Avoid them or you will meet a swift death.
+it: Però! Sembra che tu sia riuscito a uscire vivo da queste montagne. Devi essere molto abile con l'arco. Forse potresti aiutarci ad annientare gli orchi dell'est. Sono una calamità per il nostro popolo. Generazioni di lotte senza tregua non ci hanno consentito di sconfiggerli. Segui il corso del fiume verso est e li incontrerai. Se riuscirai nello scopo otterrai da noi servigi e lealtà eterna.
+en: Well! It seems you managed to get out of these mountains alive. You must be very skilled with the bow. Perhaps you could help us wipe out the orcs of the east. They are a plague for our people. Generations of endless fighting have not let us defeat them. Follow the river eastward and you will find them. If you succeed, you will have our service and our loyalty forever.
+it: Grazie, Zhorin. Penserò alla tua offerta.
+en: Thank you, Zhorin. I will think about your offer.
+it: Credo che conquisterò la vostra lealtà con la forza del mio arco!
+en: I think I will win your loyalty with the strength of my bow!
+it: Magnifico! Sei un guerriero portentoso. Il mio esercito e la perizia del mio popolo saranno al tuo servizio, qualora dovessero servirti. Come segno della nostra alleanza ti regalo il mio scudo, forgiato in una lega di mithril, un materiale molto difficile da reperire e assi costoso.
+en: Splendid! You are a mighty warrior. My army and the skill of my people will be at your service, should you need them. As a token of our alliance I give you my shield, forged in an alloy of mithril, a metal very hard to find and very costly.
+it: Alt! Chi sei? Non sembri un fetido nano. Che fai così lontano dal tuo paese? Sono Unojo, capo di questa tribù di orchi.
+en: Halt! Who are you? You do not look like a stinking dwarf. What are you doing so far from your country? I am Unojo, chief of this tribe of orcs.
+it: Ho intenzione di annientarvi!
+en: I mean to wipe you out!
+it: Finalmente un po' di esercizio!
+en: At last, a little exercise!
+it: La fama dell'eccellenza delle vostre armi d'assedio si è estesa a tutta la regione. Mi piacerebbe apprenderne il funzionamento.
+en: The fame of your excellent siege weapons has spread across the whole region. I would like to learn how they work.
+it: Ah, ah, ah, belle parole, umano. Annienta quei seccatori di nani che vivono sulle montagne che troverai risalendo il fiume verso ovest e io ti mostrerò come funzionano le nostre macchine d'assedio. Come ti sembra quest'accordo?
+en: Ha, ha, ha, fine words, human. Wipe out those pesky dwarves who live in the mountains you will find going up the river to the west, and I will show you how our siege machines work. How does that bargain sound to you?
+it: Che c'è? Che hai da annusare?
+en: What is it? What are you sniffing at?
+it: Sto ammirando il vostro esercito. È formidabile!
+en: I am admiring your army. It is formidable!
+it: Sei sorprendente umano! Francamente non pensavo proprio che ci saresti riuscito. Le nostre asce e le nostre macchine d'assedio saranno a tua disposizione quando vorrai. Per il momento, come segno di ringraziamento, ti darò una delle nostre pozioni rinvigorenti. La loro formula è conosciuta solo dallo sciamano della nostra tribù, anche se pare che vengano preparate con ossa di drago. Bevila tutta d'un fiato, i suoi poteri curativi non riescono a nasconderne il sapore orribile...
+en: You are amazing, human! Frankly, I did not think you would make it. Our axes and our siege machines will be at your disposal whenever you want. For now, as a token of thanks, I will give you one of our reviving potions. Their recipe is known only to the shaman of our tribe, though it seems they are made with dragon bones. Drink it all in one gulp; its healing powers cannot hide its horrible taste...
+it: C'è troppo odio fra i nani e gli orchi! Costruiamo a entrambi una taverna in modo che possano affogare il loro risentimento in una giara di idromele!
+en: There is too much hatred between the dwarves and the orcs! Let us build each of them a tavern so they can drown their grudges in a jar of mead!
+it: Yamuga si allontana con le sue truppe e ci abbandona! Farò i conti con quel traditore più tardi, ora che abbiamo recuperato il nostro potere è il momento di trovare e distruggere i tartari, gli assassini di mio padre. Se distruggiamo il loro castello saranno nelle nostre mani!
+en: Yamuga is leaving with his troops and abandoning us! I will settle my account with that traitor later; now that we have regained our power, it is time to find and destroy the Tatars, my father's murderers. If we destroy their castle, they will be in our hands!
+it: L'ambizione di Yamuga è maggiore di quanto pensassi! Questo traditore si è autoproclamato Khan e si è ribellato contro di me! Le spie mi hanno informato che ha suggellato un'alleanza con la tribù dei naimani che abitano le terre del nord-ovest. Darò loro una lezione che non dimenticheranno tanto facilmente!
+en: Yamuga's ambition is greater than I thought! The traitor has proclaimed himself Khan and has rebelled against me! The spies have told me he has sealed an alliance with the Naiman tribe, who live in the lands of the northwest. I will teach them a lesson they will not easily forget!
+it: Benvenuto al tempio Shao-Linn, Temujín. Sono il maestro Batu. La tua fama ti precede. Forse sei tu l'aiuto che attendevamo. Per decenni noi monaci abbiamo tentato, senza alcun risultato, di recuperare i papiri di Kettsuin. Per noi hanno un valore incalcolabile, dato che contengono tutti gli insegnamenti dei nostri predecessori. Ci sono voci secondo cui si troverebbero a nord-est, vicino ai grandi laghi, ma nessuno dei nostri fratelli partiti alla loro ricerca ha mai fatto ritorno al tempio. Aiutaci a recuperarli! Se ci riuscirai i monaci Shao-Linn saranno felici di abbracciare la tua causa.
+en: Welcome to the Shao-Linn temple, Temujin. I am Master Batu. Your fame precedes you. Perhaps you are the help we have been waiting for. For decades we monks have tried, without success, to recover the scrolls of Kettsuin. They are priceless to us, since they hold all the teachings of our forefathers. Rumor has it that they lie to the northeast, near the great lakes, but none of the brothers who set out in search of them has ever come back to the temple. Help us recover them! If you succeed, the Shao-Linn monks will gladly embrace your cause.
+it: Ci hai riportato i papiri di Kettsuin! Gli dei ti devono essere favorevoli! La nostra gratitudine sarà eterna, siamo ansiosi di studiarli. In futuro, se dovessi aver bisogno della nostra saggezza, verremo in tuo soccorso.
+en: You have brought back the scrolls of Kettsuin! The gods must favor you! Our gratitude will be eternal; we are eager to study them. In the future, should you need our wisdom, we will come to your aid.
+it: È ora di attaccare i taichiti e fargli pagare il loro tradimento! Strapperemo loro l'arco magico del drago. Senza esso i nostri vecchi alleati cadranno senza opporre resistenza. Non sarà facile perché l'arco si trova sulla cima della montagna che protegge il loro accampamento e sarà necessario scalarne i dirupi per riuscire a raggiungerlo...
+en: It is time to attack the Taichiuds and make them pay for their betrayal! We will tear the magic dragon bow from them. Without it our old allies will fall without a fight. It will not be easy, because the bow lies on the summit of the mountain that shelters their camp, and we will have to climb its cliffs to reach it...
+it: Come? I naimani proteggono il fuggitivo Yamuga!? Pagheranno per la loro audacia!
+en: What? The Naimans are protecting the fugitive Yamuga!? They will pay for their daring!
+it: Fermo! Ci arrendiamo! Hai vinto Temujín. Rompo il mio arco e m'inchino al tuo cospetto... sono stufo di combattere, mia figlia Alana è stata rapita da un potente guerriero straniero che la tiene prigioniera in un castello a sud-est.
+en: Stop! We surrender! You have won, Temujin. I break my bow and bow before you... I am tired of fighting. My daughter Alana has been kidnapped by a mighty foreign warrior who holds her prisoner in a castle to the southeast.
+it: Benvenuto nella mia umile dimora Temujín. Sono Jagadai, stregone dell'Ordine del Bosco. Da molto tempo il nostro ordine cerca di completare il cerchio della saggezza, ma non possiamo riuscirci finché non verrà recuperato il testo sacro della magia del drago, in cui sono contenuti tutti i segreti per richiamare queste potenti creature. Il libro sacro è stato rubato molto tempo fa da una negromante, rifiutata dal nostro ordine, che abita nelle desolate lande dell'est. Recupera il libro sacro e noi ci metteremo al tuo servizio!
+en: Welcome to my humble home, Temujin. I am Jagadai, sorcerer of the Order of the Forest. For a long time our order has tried to complete the circle of wisdom, but we cannot until the sacred text of dragon magic is recovered, which holds all the secrets for calling up these mighty creatures. The sacred book was stolen long ago by a necromancer, cast out by our order, who lives in the desolate wastes of the east. Recover the sacred book and we will place ourselves at your service!
+it: È incredibile! Ci hai riportato il libro sacro! Da questo momento l'Ordine metterà tutto il suo potere al servizio del tuo destino, Temujín.
+en: It is unbelievable! You have brought back the sacred book! From this moment the Order will put all its power at the service of your destiny, Temujin.
+it: Molto bene ragazzo! Da oggi ti accetto come figlio e come tale potrai contare pienamente sul mio aiuto e sulla mia protezione!
+en: Very well, boy! From this day on I accept you as my son, and as such you can count fully on my help and my protection!
+it: Borta, figlia mia, è arrivato Temujín.
+en: Borta, my daughter, Temujin has arrived.
+it: Benvenuto, mio signore! Sono lusingata dalla generosità della dote che hai consegnato a mio padre, spero di meritarla. Metterò le mie conoscenze magiche al servizio del mio nuovo popolo.
+en: Welcome, my lord! I am flattered by the generous dowry you gave my father, and I hope to deserve it. I will put my knowledge of magic at the service of my new people.
+it: Saluti, incantevole Borta. Aspettavo con impazienza questo momento. Il sangue delle due tribù correrà nelle vene della nostra discendenza.
+en: Greetings, lovely Borta. I have been waiting eagerly for this moment. The blood of the two tribes will run in the veins of our descendants.
+it: Rapita? Ah, ah, ah...! Non sono prigioniera! Il "pericoloso straniero" di cui parla mio padre è un nobile giapponese più interessato a rendermi felice che a combattere. Temujín, gran guerriero, partite e dite a mio padre Yamuga che sono fuggita spontaneamente perché non mi consentiva di sposarlo, noi ci amiamo!
+en: Kidnapped? Ha, ha, ha...! I am no prisoner! The "dangerous stranger" my father speaks of is a Japanese nobleman more interested in making me happy than in fighting. Temujin, great warrior, go and tell my father Yamuga that I ran away of my own free will because he would not let me marry him. We love each other!
+it: E va bene! Ho esagerato un po' ma avevo altri progetti per il suo futuro. Se lei è felice allora così sia. Per quanto mi riguarda, permettimi di appellarmi al nostro glorioso passato comune per scusarmi con te. Perdonandomi otterrai la mia lealtà. Uniamo la nostra saggezza nel campo della guerra per intraprendere nuove campagne. Che te ne pare?
+en: All right! I went a little too far, but I had other plans for her future. If she is happy, then so be it. As for me, let me call on our glorious shared past to apologize to you. Forgive me and you will have my loyalty. Let us join our wisdom in the field of war to take up new campaigns. What do you say?
+
+# impero di gengis khan.wcm::maps/gengis_khan02
+it: La conquista di Pechino
+en: The Conquest of Peking
+it: Temujín, da poco proclamato Gengis Khan, è riuscito a formare il più grande esercito di tutta l'Asia. Capo supremo di tutte le tribù della steppa, si accinge ad affrontare un'impresa alla portata solo dei grandi conquistatori: l'invasione dell'Impero Cinese.
+en: Temujin, newly proclaimed Genghis Khan, has managed to raise the greatest army in all of Asia. Supreme chief of all the tribes of the steppe, he prepares to face a feat within reach only of the great conquerors: the invasion of the Chinese Empire.
+it: Cinesi
+en: Chinese
+it: Regno 3
+en: Kingdom 3
+it: Comandanti
+en: Commanders
+it: Gengis Khan
+en: Genghis Khan
+it: Eroe
+en: Hero
+it: Palazzo
+en: Imperial
+it: Imperiale
+en: Palace
+it: Wanlí
+en: Wanli
+it: Figlia dell'Imperatore
+en: Daughter of the Emperor
+it: Imperatore
+en: Emperor
+it: Yamuga e i suoi uomini si ritirano dalla battaglia...
+en: Yamuga and his men are withdrawing from the battle...
+it: Un inviato ti consegna un messaggio firmato da Yamuga: "Potente Gengis Khan, ho un piano per conquistare la città. Per favore raggiungimi solo dove sto andando, lì ti spiegherò tutto. Creo che ci siano spie cinesi infiltrate nel nostro esercito. Non mi fido di nessuno, devi venire solo."
+en: An envoy hands you a message signed by Yamuga: "Mighty Genghis Khan, I have a plan to take the city. Please join me alone where I am going; there I will explain everything to you. I believe there are Chinese spies in our army. I trust no one; you must come alone."
+it: Gengis Khan impartiva le ultime istruzioni ai suoi generali, doveva approfittare dell'occasione: la Grande Muraglia cinese era scarsamente difesa e oltre essa si estendevano i ricchi territori dell'Impero Cinese...e Pechino. Una volta conquistato il Palazzo Imperiale, il resto sarebbe stato facile...
+en: Genghis Khan was giving the last orders to his generals; he had to seize the moment: the Great Wall of China was poorly defended, and beyond it stretched the rich lands of the Chinese Empire... and Peking. Once the Imperial Palace was taken, the rest would be easy...
+it: Pechino
+en: Peking
+it: Quando la città di Karakorum venne proclamata capitale della Mongolia, Gengis Khan, assieme ai suoi alleati, decise di iniziare l'opera di conquista della Cina alla ricerca di pascoli migliori per i suoi cavalli. Il suo obiettivo era occupare Pechino, ultima roccaforte cinese a nord del paese, dominata dalla dinastia Jin. L'invincibile esercito dell'imperatore cinese Yuan li attende dietro alle muraglie...
+en: When the city of Karakorum was proclaimed the capital of Mongolia, Genghis Khan, together with his allies, decided to begin the conquest of China in search of better pastures for his horses. His goal was to take Peking, the last Chinese stronghold in the north of the country, ruled by the Jin dynasty. The invincible army of the Chinese emperor Yuan awaits them behind the walls...
+it: Conquista il Palazzo Imperiale.
+en: Conquer the Imperial Palace.
+it: Nel 1215 gli eserciti di Gengis Khan occuparono la città di Pechino e nel 1218 la penisola coreana cadde nelle mani dei mongoli. Nel 1222 il loro dominio si estendeva dalla Mongolia fino ad Amu Daria, nell'Asia centrale. Alla sua morte, il 18 agosto del 1227, Gengis Khan aveva creato il più grande impero mai realizzato.
+en: In 1215 the armies of Genghis Khan took the city of Peking, and in 1218 the Korean peninsula fell into the hands of the Mongols. By 1222 their rule stretched from Mongolia to the Amu Darya, in Central Asia. At his death, on August 18, 1227, Genghis Khan had built the greatest empire ever made.
+it: Nel frattempo, nel Palazzo Imperiale...
+en: Meanwhile, in the Imperial Palace...
+it: Gengis Khan deve sopravvivere.
+en: Genghis Khan must survive.
+it: Il porto di Pechino è un punto strategico per la città. Impossessartene potrebbe esserti di grande aiuto.
+en: The port of Peking is a strategic point for the city. Taking it could be of great help to you.
+it: Porto
+en: Port
+it: Non è rimasta una pietra sull'altra a Pechino.
+en: Not one stone is left on another in Peking.
+it: Tutti i mongoli sono stati annientati.
+en: All the Mongols have been wiped out.
+it: Pechino è rimasta senza comandanti... rimane da conquistare solo il palazzo.
+en: Peking is left without commanders... only the palace remains to be taken.
+it: Gengis Khan è morto in battaglia.
+en: Genghis Khan has died in battle.
+it: Hai annientato la maggior parte dell'esercito cinese, la vittoria è vicina.
+en: You have wiped out most of the Chinese army; victory is near.
+it: Tutti i generali di Gengis Khan sono morti.
+en: All the generals of Genghis Khan are dead.
+it: Yamuga e i suoi uomini hanno pagato per il loro tradimento.
+en: Yamuga and his men have paid for their betrayal.
+it: Ho vissuto tutta la vita nella tua ombra Temujín... il tuo nobile lignaggio ti ha permesso di ottenere l'appoggio dei capi delle principali tribù. Ma io ora distruggerò tutto questo! Tu morirai e io diventerò il nuovo Khan. Uccidete Gengis Khan!
+en: I have lived all my life in your shadow, Temujin... your noble lineage won you the support of the chiefs of the main tribes. But now I will destroy all that! You will die and I will become the new Khan. Kill Genghis Khan!
+it: È una trappola! Sei un maledetto traditore Yamuga! Mi hai tradito per la seconda volta. Dovevo ucciderti quando ne avevo la possibilità. Hai venduto il tuo popolo ai nostri nemici! Pagherai per il tuo tradimento!
+en: It is a trap! You are a cursed traitor, Yamuga! You have betrayed me for the second time. I should have killed you when I had the chance. You have sold your people to our enemies! You will pay for your betrayal!
+it: Ah, ah, ah...!
+en: Ha, ha, ha...!
+it: È tutto pronto, figlia mia?
+en: Is everything ready, my daughter?
+it: Sì padre, daremo a Gengis Khan un'accoglienza che non dimenticherà...
+en: Yes, father, we will give Genghis Khan a welcome he will not forget...

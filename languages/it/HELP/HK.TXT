@@ -1,0 +1,132 @@
+     @1--- TASTI GENERALI ---@2
+
+@1+ (più)@2 - Aumenta la velocità del gioco
+
+@1- (meno)@2 - Diminuisce la velocità del gioco
+
+@1\ (barra)@2 - Mostra gli alberi trasparenti, per vedere le unità o gli oggetti che nascondono
+
+@1F2@2 - Salvataggio rapido della partita in corso
+
+@1F3@2 - Carica la partita salvata con F2
+
+@1F4@2 - Mostra il punteggio e il tempo trascorso dall'inizio della partita
+
+@1F12@2 - Passa la mappa da schermo intero a finestra
+
+@1Ctrl + Invio@2 - Manda la tua posizione agli altri giocatori (compare sulla minimappa)
+
+@1Barra spaziatrice@2 - Centra la mappa sull'oggetto selezionato
+
+@1F11@2 - Scatta un'istantanea del gioco e la salva nella cartella «Screenshots» dell'installazione di TZAR
+
+
+     @1--- SELEZIONARE LE UNITÀ ---@2
+
+@1Clic sinistro@2 - Seleziona un'unità
+
+@1Doppio clic sinistro@2 - Seleziona tutte le unità dello stesso tipo sullo schermo
+
+@1Ctrl + doppio clic sinistro@2 - Seleziona tutte le unità dello stesso tipo sullo schermo che fanno la stessa cosa (per esempio tagliano legna)
+
+@1Alt + doppio clic sinistro@2 - Seleziona tutte le unità militari sullo schermo
+
+@1Esc@2 - Deseleziona l'unità selezionata
+
+@1Tab@2 - Mostra i dati di una sola unità quando ne sono selezionate diverse
+
+
+     @1--- DARE ORDINI ALLE UNITÀ ---@2
+
+@1Clic destro@2 - L'unità compie la sua azione predefinita
+
+@1Ctrl + clic destro@2 - Marcia d'attacco: l'unità attacca tutto ciò che vede
+
+@1Maiusc + clic destro@2 - L'unità segue le tappe del percorso e attacca tutto ciò che trova
+
+@1Alt + clic destro@2 - Marcia furtiva: l'unità attacca solo se attaccata
+
+@1Alt + Maiusc + clic destro@2 - L'unità segue le tappe del percorso e attacca solo se attaccata
+
+@1Canc@2 - Elimina l'unità selezionata
+
+
+     @1--- RAGGRUPPARE LE UNITÀ ---@2
+
+@1Ctrl + cifra (1-9)@2 - Forma un gruppo con le unità selezionate
+
+@1Cifra (1-9)@2 - Seleziona un gruppo formato prima con Ctrl + cifra
+
+@1Ctrl + 0 (zero)@2 - Toglie le unità selezionate dal loro gruppo
+
+
+     @1--- USARE GLI OGGETTI DELL'INVENTARIO ---@2
+
+@1Clic sinistro su un oggetto@2 - Prende l'oggetto per usarlo
+
+@1Clic sinistro su un'unità con un oggetto preso@2 - Usa l'oggetto preso sull'unità
+
+@1Clic destro su un oggetto@2 - Prende l'oggetto per lasciarlo sulla mappa
+
+@1Clic sinistro sulla mappa con un oggetto preso@2 - Lascia l'oggetto preso
+
+@1Ctrl + clic sinistro su un oggetto@2 - Usa subito l'oggetto
+
+@1Ctrl + clic destro su un oggetto@2 - Lascia subito l'oggetto sulla mappa
+
+@1Alt + clic sinistro su un oggetto@2 - Fa dell'oggetto il nuovo oggetto predefinito
+
+@1Backspace@2 - Usa l'oggetto predefinito
+
+@1, (virgola)@2 - Pagina precedente dell'inventario
+
+@1. (punto)@2 - Pagina successiva dell'inventario
+
+
+     @1--- EDIFICI ---@2
+
+@1Clic sinistro@2 - Seleziona un edificio
+
+@1Canc@2 - Elimina l'edificio selezionato
+
+@1Ctrl + clic destro@2 - Mette un punto di raccolta
+
+@1Clic destro@2 - Mette un punto di raccolta con l'azione predefinita
+
+@1Ctrl + Alt + clic destro@2 - Mette un punto di raccolta con la marcia d'attacco (l'unità attacca tutto ciò che trova)
+
+@1Ctrl + C@2 - Seleziona un castello (se ce n'è più d'uno, questi tasti li selezionano uno dopo l'altro)
+
+@1Ctrl + B@2 - Seleziona una caserma (se ce n'è più d'una, questi tasti le selezionano una dopo l'altra)
+
+
+     @1--- MUOVERE LA MAPPA ---@2
+
+@1Home@2 - Centra la mappa sull'edificio dove sono state create l'ultima unità o l'ultima tecnologia
+
+@1Ctrl + Home@2 - Centra la mappa sul luogo dell'ultimo messaggio
+
+@1Ctrl + Pag giù@2 - Mostra il luogo del messaggio successivo
+
+@1Ctrl + Pag su@2 - Mostra il luogo del messaggio precedente
+
+@1Frecce@2 - Muovono la mappa nella direzione delle frecce
+
+
+     @1--- MENU ---@2
+
+@1F1@2 - Aiuto
+
+@1F5@2 - Schermata della diplomazia
+
+@1F6@2 - Finestra del tributo
+
+@1F8@2 - Obiettivi della missione in corso
+
+@1F9@2 - Schermata delle opzioni
+
+@1F10@2 - Menu della partita
+
+@1Invio@2 - Chat con gli altri giocatori
+
+@1Esc@2 - Esce dal menu in corso

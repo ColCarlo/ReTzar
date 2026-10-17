@@ -1,0 +1,132 @@
+     @1--- TECLAS GERAIS ---@2
+
+@1+ (mais)@2 - Aumenta a velocidade do jogo
+
+@1- (menos)@2 - Reduz a velocidade do jogo
+
+@1\ (barra)@2 - Mostra as árvores transparentes para ver as unidades ou os objetos que escondem
+
+@1F2@2 - Gravação rápida da partida em curso
+
+@1F3@2 - Carregamento rápido da partida gravada com F2
+
+@1F4@2 - Mostra a pontuação e o tempo decorrido desde o início da partida
+
+@1F12@2 - Alterna o mapa entre ecrã inteiro e janela
+
+@1Ctrl + Enter@2 - Envia a tua posição aos outros jogadores (aparece no minimapa)
+
+@1Barra de espaços@2 - Centra o mapa no objeto selecionado
+
+@1F11@2 - Faz uma captura do jogo e guarda-a na pasta «Screenshots» da instalação de TZAR
+
+
+     @1--- SELECIONAR UNIDADES ---@2
+
+@1Clique esquerdo@2 - Seleciona uma unidade
+
+@1Duplo clique esquerdo@2 - Seleciona todas as unidades do mesmo tipo no ecrã
+
+@1Ctrl + duplo clique esquerdo@2 - Seleciona todas as unidades do mesmo tipo no ecrã que fazem o mesmo (por exemplo, cortar madeira)
+
+@1Alt + duplo clique esquerdo@2 - Seleciona todas as unidades militares no ecrã
+
+@1Esc@2 - Anula a seleção da unidade selecionada
+
+@1Tab@2 - Mostra a informação de uma só unidade quando há várias selecionadas
+
+
+     @1--- DAR ORDENS ÀS UNIDADES ---@2
+
+@1Clique direito@2 - A unidade executa a sua ação predefinida
+
+@1Ctrl + clique direito@2 - Avanço ofensivo: a unidade ataca tudo o que vê
+
+@1Shift + clique direito@2 - A unidade percorre pontos de passagem e ataca tudo o que encontra
+
+@1Alt + clique direito@2 - Avanço furtivo: a unidade só ataca se for atacada
+
+@1Alt + Shift + clique direito@2 - A unidade percorre pontos de passagem e só ataca se for atacada
+
+@1Delete@2 - Elimina a unidade selecionada
+
+
+     @1--- AGRUPAR UNIDADES ---@2
+
+@1Ctrl + número (1-9)@2 - Forma um grupo com as unidades selecionadas
+
+@1Número (1-9)@2 - Seleciona um grupo formado antes com Ctrl + número
+
+@1Ctrl + 0 (zero)@2 - Retira as unidades selecionadas do seu grupo
+
+
+     @1--- OBJETOS DO INVENTÁRIO ---@2
+
+@1Clique esquerdo num objeto@2 - Pega no objeto para o usar
+
+@1Clique esquerdo numa unidade com um objeto na mão@2 - Usa o objeto sobre a unidade
+
+@1Clique direito num objeto@2 - Pega no objeto para o deixar no mapa
+
+@1Clique esquerdo no mapa com um objeto na mão@2 - Deixa o objeto
+
+@1Ctrl + clique esquerdo num objeto@2 - Uso imediato do objeto
+
+@1Ctrl + clique direito num objeto@2 - Deixa o objeto no mapa de imediato
+
+@1Alt + clique esquerdo num objeto@2 - Torna o objeto o novo objeto predefinido
+
+@1Backspace@2 - Usa o objeto predefinido
+
+@1, (vírgula)@2 - Página anterior do inventário
+
+@1. (ponto)@2 - Página seguinte do inventário
+
+
+     @1--- EDIFÍCIOS ---@2
+
+@1Clique esquerdo@2 - Seleciona um edifício
+
+@1Delete@2 - Elimina o edifício selecionado
+
+@1Ctrl + clique direito@2 - Fixa um ponto de reunião
+
+@1Clique direito@2 - Fixa um ponto de reunião com a ação predefinida
+
+@1Ctrl + Alt + clique direito@2 - Fixa um ponto de reunião com avanço ofensivo (a unidade ataca tudo o que encontra)
+
+@1Ctrl + C@2 - Seleciona um castelo (se houver mais de um, estas teclas selecionam-nos um após o outro)
+
+@1Ctrl + B@2 - Seleciona um quartel (se houver mais de um, estas teclas selecionam-nos um após o outro)
+
+
+     @1--- MOVER O MAPA ---@2
+
+@1Home@2 - Centra o mapa no edifício onde foi feita a última unidade ou tecnologia
+
+@1Ctrl + Home@2 - Centra o mapa no local da última mensagem
+
+@1Ctrl + Page Down@2 - Mostra o local da mensagem seguinte
+
+@1Ctrl + Page Up@2 - Mostra o local da mensagem anterior
+
+@1Teclas de seta@2 - Movem o mapa na direção das setas
+
+
+     @1--- MENUS ---@2
+
+@1F1@2 - Ajuda
+
+@1F5@2 - Ecrã de diplomacia
+
+@1F6@2 - Janela de tributos
+
+@1F8@2 - Objetivos da missão atual
+
+@1F9@2 - Ecrã de opções
+
+@1F10@2 - Menu da partida
+
+@1Enter@2 - Conversar com os outros jogadores
+
+@1Esc@2 - Sai do menu atual

@@ -1,0 +1,357 @@
+@2TZAR
+@1Excalibur e o Rei Artur
+
+
+
+@0DESIGN DO JOGO
+@1Vesselin Handjiev
+
+
+@0PROGRAMADOR-CHEFE
+@1Panayot "Otto" Yanazov
+
+
+@0GRAFISTA-CHEFE
+@1Rossen Manchev
+
+
+@0PROGRAMAÇÃO
+@1Michael "Miho" Peykov
+Alexander "Alex III" Alexandrov
+Julian Manolov
+Oleg Zlatarski
+Vesselin Handjiev
+
+
+@0PROGRAMAÇÃO DOS EDITORES DE MAPAS E CAMPANHAS
+@1Krassimir "Kastchei" Tuevski
+
+
+@0PROGRAMAÇÃO ADICIONAL
+@1Gabriel Dobrev
+Ivaylo Todorov
+
+
+@0GRÁFICOS E ANIMAÇÕES
+@1Rositsa "Ro" Zagorcheva
+Boriana "Bo" Mladenova
+
+
+EURAPEL A&S TEAM
+Georgi Nedeltchev - Chefe de equipa
+Rossen Mantchev
+Teodor Simeonov
+Dimitar Nikolov
+Dimitar "Chrom" Zvetanov
+Chavdar Dragiev
+
+
+IMAGE-ET
+Alexander Sokerov
+
+
+@0EFEITOS SONOROS
+@1Vesselin Handjiev
+
+
+EURAPEL A&S TEAM
+Aleksandar Tsvetkov
+Dimitar Sabev
+
+
+@0MÚSICA
+@1Kiril "Busty" Petrushev
+Dimitar Sabev
+
+
+@0CAMPANHA E MAPAS
+@1Svetoslav "SAA" Alexandrov
+
+
+@0VOZES
+@1Tim Earle
+
+
+@0MANUAL
+@1Rositsa "Ro" Zagorcheva
+Boriana "Bo" Mladenova
+Krassimir "Kastchei" Tuevski
+
+
+@0TESTES
+@1Test House
+Nine Lund
+DCM Testcenter
+
+
+@0CHEFE DE PROJETO
+@1Vesselin Handjiev
+Haemimont Multimedia
+
+
+@0GRAVAÇÃO DE VOZES
+@1Rosenberg & Söderberg
+Studios
+
+
+@0ÁUDIO E VÍDEO
+@1Virtual Studio - Sofia
+
+
+@2AGRADECIMENTOS ESPECIAIS
+
+@1Jay Powell
+Kamen Vitanov
+Kalin Toshev
+Angel Stoyanov
+Slav Peychev
+Rich La Porte
+Ben Sawyer
+Steen Hansen (aka Hamlet)
+Matt Lowe (Reckless Rodent)
+Tom Mesher (b:real)
+Jamie Fraser (SpineMan)
+Josh "Herodotus" Watson
+
+
+@0TZAR Heaven
+@1tzar.heavengames.com
+
+
+@0TESTES FINAIS
+@3Shaun "BINGFA" Toomey
+Brian "enforc3r" Tan
+Magnus Lind
+Andy "Lava" Oxfeld
+Dave "Stringbags" Stringwell
+Ralph "ALpHsTeR" Nevchas
+Josh "Herodotus" Watson
+Daniel "TLoM" Andersson
+Christian "JaCkz" Bergman
+Will "HellMasker" Decker
+Travis "BearSidhe" Stephenson
+Joseph "Admiral Cricifix" O'Donnell
+Jan-Pierre "WakkoG" Jaspers
+Henrik "Radagast" Hedelund
+Brendan "Perrin" Lynch
+Garret "zx75~GoW~" Rempel
+Katherine "freakygrrl" Jackson
+Brian "Strife" Gerber
+Larry "Nobody" Tallman
+Savonije "Jopie" Hans
+Janne Peippo
+Patrick "MasterMerlin" Burnside
+Tony "FORDY" Ford
+Tina "SNEAK" Ford
+
+Grupo de Sistemas Eletrónicos ligado
+à Universidade Técnica de Sófia
+
+... e muitos outros
+
+
+@2O NOSSO AGRADECIMENTO A
+
+@3Todos os bares de Sófia
+Zagorka, Kamenitsa, Astika
+KFC, McDonald's
+Pizzeria "Verdi"
+Todas as bandas de heavy metal
+Todas as bandas que não são de heavy metal
+As nossas mães e as nossas avós
+Os nossos maridos, mulheres e todos os que mostraram uma paciência infinita
+E um agradecimento especial a todos os nossos amigos
+O filme Matrix
+(que manteve o Otto bem-disposto)
+Quake II
+(que evitou que a equipa se suicidasse)
+A revista Gamers' Workshop
+
+
+E a todos os que acham
+que o merecem...
+
+
+
+
+
+
+@2HAEMIMONT
+MULTIMEDIA
+@1Sófia, Bulgária 2002
+
+
+
+@2EURAPEL Ltd.
+@1Sófia, Bulgária 2002
+
+
+
+@2IMAGE-ET
+@1Sófia, Bulgária 2002
+
+
+
+@2DIGITAL DIALECT
+@1Masher
+Tecnologia de compressão de vídeo
+
+
+
+@2FX INTERACTIVE
+@1Madrid, Espanha, 2002
+
+
+
+
+
+@2TZAR
+@1Excalibur e o Rei Artur
+
+
+@0PRODUTORES
+@1Antonio Lucena Ferrero
+Pablo de la Nuez S.C.
+
+
+@0DESIGN DA CAMPANHA
+E PROGRAMAÇÃO
+@1Antonio Priego Marco
+
+
+@0ARGUMENTO DA CAMPANHA
+@1Antonio Priego Marco
+José Villalba
+Antonio Lucena Ferrero
+Pablo de la Nuez S.C.
+
+
+@0DESIGN GRÁFICO
+@1José Luis Díaz "Joky"
+
+
+@0VÍDEO DE INTRODUÇÃO E
+GRÁFICOS ADICIONAIS
+@1Equipa FX
+
+
+@0DESIGN DE PERSONAGENS
+@1Begoña Echave
+
+
+@0ELENCO DA EDIÇÃO ITALIANA
+
+@1MARCO BALZAROTTI
+Narrador
+
+MASSIMO BITOSSI
+Sir Kay
+Rei Carados
+Rei Cradelmas
+Dragão
+Lancelote
+
+LUCA BOTTALE
+Rei dos Cem Cavaleiros
+Cavaleiro furioso
+Yamuga
+Jovem
+
+MASSIMO DI BENEDETTO
+Artur jovem
+Sir Galvão
+Temujin jovem
+
+GIANNI GAUDE
+Sir Brastias
+Rei Urien
+Sir Lucan
+Sir Ladinas
+Sir Balin
+Camponês 1
+Camponês 2
+Soldado mongol
+
+RICCARDO LOMBARDO
+Rei da Escócia
+Rei Lot
+Nero
+Sir Galaaz
+Sir Mordred
+Tugril Khan
+
+ANNAMARIA MANTOVANI
+Vozes do além
+Rainha vampira
+
+CINZIA MASSIRONI
+Genebra
+Morgana
+Elun
+Alana
+Wanli
+A Dama do Lago
+Nyneve
+Borta
+
+GIORGIO MELAZZI
+Rei Nentres
+Sir Ulfius
+Rei Ban
+Sir Percival
+Sacerdote
+Abdul
+Zhorin
+
+ANTONIO PAIOLA
+Sir Heitor
+Merlim
+Rei Clariance
+Sir Kaynes
+Arqueiro
+Inquisidor
+Ancião
+
+SILVANO PICCARDI
+Arcebispo de Cantuária
+Sir Baudwin
+Sir Phariance
+Sir Lionses
+Cavaleiro 1
+Jagadai
+
+PATRIZIO PRATA
+Rei Brandegoris
+Artur
+
+RICCARDO ROVATTI
+Haaser
+Cavaleiro
+Rei Bors
+Sir Balan
+Temujin adulto
+Batu
+
+LUCA SANDRI
+Duque Estance
+Rei da Irlanda
+Sir Griflet
+Rei Pellinore
+Sir Yvain
+Cavaleiro 2
+Yenisei
+Bochurgi
+Unojo
+
+
+
+@0CHEFE DE TESTES
+@1Eduardo Baez
+
+@0TESTES
+@1Equipa de testes da FX
+
+@0LOCALIZAÇÃO ITALIANA
+@1Jinglebell Communication S.r.l.
+
+@1 Copyright FX Interactive, 2002

@@ -1,0 +1,76 @@
+# Mappe MP1–MP6 in spagnolo: traduzione di questa versione, fatta dall'inglese della versione americana.
+
+# mp1.wmp::maps/mp1
+it: Sarà un lungo inverno
+es: Va a ser un largo invierno (1 contra 1)
+
+it: (1 giocatore contro 1)\nUna piccola mappa per giocare 1 contro 1 senza oro né pietre ma con un sacco di sorprendenti risorse.
+es: Un mapa diminuto para 1 contra 1, sin oro ni piedra, pero con muchos recursos iniciales.
+
+it: Regno 1
+es: Reino 1
+
+it: Regno 2
+es: Reino 2
+
+it: Regno 3
+es: Reino 3
+
+it: Regno 4
+es: Reino 4
+
+it: Regno 5
+es: Reino 5
+
+it: Regno 6
+es: Reino 6
+
+it: Regno 7
+es: Reino 7
+
+it: Regno 8
+es: Reino 8
+
+# mp2.wmp::maps/mp2
+it: Non c’è posto per entrambi
+es: No hay sitio para los dos (1 contra 1)
+
+it: (1 giocatore contro 1)\nUna piccola mappa per 2 giocatori con migliaia di risorse e tre castelli a testa. Troverete enormi quantità di oro e pietre lungo il cammino.
+es: Un mapa diminuto para dos jugadores con muchos recursos y tres castillos cada uno. Mucho oro y piedra en el centro.
+
+# mp3.wmp::maps/mp3
+it: La conquista del mondo
+es: La conquista del mundo
+
+it: Un grande continente da conquistare. 4 percorsi e migliaia di risorse nella zona centrale.
+es: Un gran continente por conquistar. Cuatro razas y muchos recursos en la zona central.
+
+# mp4.wmp::maps/mp4
+it: Ponte vicino
+es: Un puente demasiado cerca
+
+it: Un’enorme mappa con tantissimi ponti per giocare in squadre di 2 contro 2.
+es: Un mapa inmenso con muchos puentes para jugar por equipos de 2 contra 2.
+
+# mp5.wmp::maps/mp5
+it: È stata scoperta una ricca miniera aurea. Che cominci la febbre dell’oro!
+es: Se ha descubierto una rica mina de oro: ¡que empiece la fiebre del oro!
+
+it: Giocatore
+es: Jugador
+
+it: Artù
+es: Arturo
+
+it: Merlino
+es: Merlín
+
+it: Lancillotto
+es: Lancelot
+
+# mp6.wmp::maps/mp6
+it: L’occupazione
+es: La ocupación (4 contra 4)
+
+it: (4 giocatori contro 4)\nUna mappa enorme con migliaia di risorse.
+es: Un mapa enorme con muchos recursos.

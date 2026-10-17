@@ -1,0 +1,9 @@
+# Sources and documents in LF; Windows scripts stay in CRLF.
+* text=auto eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+# Native fixtures: exact bytes.
+tests/fixtures/** binary
+*.ico binary
+*.bin binary

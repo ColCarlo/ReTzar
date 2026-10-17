@@ -1,0 +1,132 @@
+     @1--- GENERAL KEYS ---@2
+
+@1+ (plus)@2 - Increases the game speed
+
+@1- (minus)@2 - Decreases the game speed
+
+@1\ (slash)@2 - Shows trees translucently so that you may see the units or objects they hide
+
+@1F2@2 - Quick save of the game in progress
+
+@1F3@2 - Quick load of the game saved with F2
+
+@1F4@2 - Shows the score and the time elapsed since the start of the game
+
+@1F12@2 - Switches the map between full screen and window
+
+@1Ctrl + Enter@2 - Sends your location to the other players (it appears on the mini-map)
+
+@1Space bar@2 - Centers the map on the selected object
+
+@1F11@2 - Takes a snapshot of the game and saves it in the "Screenshots" folder of the TZAR installation
+
+
+     @1--- SELECTING UNITS ---@2
+
+@1Left click@2 - Selects a unit
+
+@1Double left click@2 - Selects all units of the same type on the screen
+
+@1Ctrl + double left click@2 - Selects all units of the same type on the screen that are doing the same thing (for example, chopping wood)
+
+@1Alt + double left click@2 - Selects all military units on the screen
+
+@1Escape@2 - Deselects the selected unit
+
+@1Tab@2 - Shows the information of a single unit when several units are selected
+
+
+     @1--- GIVING ORDERS TO UNITS ---@2
+
+@1Right click@2 - The unit performs its default action
+
+@1Ctrl + right click@2 - Move advance: the unit attacks everything in its sight
+
+@1Shift + right click@2 - The unit moves along way points and attacks everything it finds
+
+@1Alt + right click@2 - Move sneak: the unit attacks only if attacked
+
+@1Alt + Shift + right click@2 - The unit moves along way points and attacks only if attacked
+
+@1Delete@2 - Deletes the selected unit
+
+
+     @1--- GROUPING UNITS ---@2
+
+@1Ctrl + digit (1-9)@2 - Makes a group of the selected units
+
+@1Digit (1-9)@2 - Selects a group previously made with Ctrl + digit
+
+@1Ctrl + 0 (zero)@2 - Removes the selected units from their group
+
+
+     @1--- HANDLING INVENTORY ITEMS ---@2
+
+@1Left click on an item@2 - Takes the item to use it
+
+@1Left click on a unit while an item is taken@2 - Uses the taken item on the unit
+
+@1Right click on an item@2 - Takes the item to drop it on the map
+
+@1Left click on the map while an item is taken@2 - Drops the taken item
+
+@1Ctrl + left click on an item@2 - Instant item use
+
+@1Ctrl + right click on an item@2 - Instant item drop on the map
+
+@1Alt + left click on an item@2 - Installs the item as the new default item
+
+@1Backspace@2 - Uses the default item
+
+@1, (comma)@2 - Previous page of the inventory
+
+@1. (period)@2 - Next page of the inventory
+
+
+     @1--- BUILDINGS ---@2
+
+@1Left click@2 - Selects a building
+
+@1Delete@2 - Deletes the selected building
+
+@1Ctrl + right click@2 - Sets a rally point
+
+@1Right click@2 - Sets a rally point with the default action
+
+@1Ctrl + Alt + right click@2 - Sets a rally point with move advance (the unit attacks everything it finds)
+
+@1Ctrl + C@2 - Selects a castle (if there is more than one, use these keys to select them in sequence)
+
+@1Ctrl + B@2 - Selects a barracks (if there is more than one, use these keys to select them in sequence)
+
+
+     @1--- MOVING THE MAP ---@2
+
+@1Home@2 - Centers the map on the building where the latest unit or technology was made
+
+@1Ctrl + Home@2 - Centers the map on the place of the latest message
+
+@1Ctrl + Page Down@2 - Shows the place of the next message
+
+@1Ctrl + Page Up@2 - Shows the place of the previous message
+
+@1Arrow keys@2 - Move the map in the direction of the arrows
+
+
+     @1--- MENUS ---@2
+
+@1F1@2 - Help
+
+@1F5@2 - Diplomacy screen
+
+@1F6@2 - Tribute dialog
+
+@1F8@2 - Objectives of the current mission
+
+@1F9@2 - Options screen
+
+@1F10@2 - Game menu
+
+@1Enter@2 - Chat with the other players
+
+@1Escape@2 - Leaves the current menu

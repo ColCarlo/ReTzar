@@ -1,0 +1,1425 @@
+# TZAR: Il peso della corona (campagna del CD americano) in polacco: traduzione di questa versione dall'inglese originale.
+
+# campagna
+it: TZAR: Il peso della corona\nDopo centinaia di anni di guerra Keana è stata infine conquistata dal Male. Il vecchio re Roan è morto e suo figlio Sartor deve combattere per riportare la pace e la giustizia nel mondo.
+pl: TZAR: Brzemię korony\nPo setkach lat wojny Keana w końcu została podbita przez Zło. Stary król Roan nie żyje, a jego syn Sartor musi walczyć, by przywrócić światu pokój i sprawiedliwość.
+
+# tzar.wcm::maps/vsaa
+it: Ancora una volta
+pl: Jeszcze raz
+
+it: Viaggio alle isole di Allita, salvataggio di Rea di Allita e assedio di Ses di Allita.
+pl: Wyprawa na Wyspy Allity, ocalenie Rei Allity i oblężenie Ses Allity.
+
+it: Forze di Borgh
+pl: Wojska Borgha
+
+it: Ammiraglia di Mun Li
+pl: Okręt flagowy Mun Li
+
+it: Ghiron deve sopravvivere.\n\nCostruisci almeno una Camera commercio sulle isole.
+pl: Ghiron musi przeżyć.\n\nNa wyspach trzeba zbudować co najmniej jedną gildię kupców.
+
+it: Vardal e Ghiron devono sopravvivere.\n\nNon lasciare che il nemico riconquisti le isole.\nCostruisci almeno una Camera commercio sulle isole.
+pl: Vardal i Ghiron muszą przeżyć. \n\nNie pozwól wrogowi odbić wysp.\nNa wyspach trzeba zbudować co najmniej jedną gildię kupców.
+
+it: Sartor, Vardal e Ghiron devono sopravvivere.\n\nVardal E Ghiron devono raggiungere Sartor.\nCostruisci almeno una Camera commercio sulle isole.
+pl: Sartor, Vardal i Ghiron muszą przeżyć.\n\nVardal ORAZ Ghiron muszą dołączyć do Sartora.\nNa wyspach trzeba zbudować co najmniej jedną gildię kupców.
+
+it: Sartor, Vardal e Ghiron devono sopravvivere.\n\nI tre eroi devono salpare verso ovest.\nCostruisci almeno una Camera commercio sulle isole e lascia almeno cinquanta soldati a difenderle.
+pl: Sartor, Vardal i Ghiron muszą przeżyć.\n\nTrzej bohaterowie muszą pożeglować na zachód.\nNa wyspach trzeba zbudować co najmniej jedną gildię kupców i zostawić co najmniej pięćdziesięciu żołnierzy do ich ochrony.
+
+it: La ricostruzione delle isole di Allita procedeva lenta. Per la gente era difficile dimenticare Borgh e ciò che le aveva fatto. I pirati saccheggiavano le coste e Ghiron doveva vegliare senza sosta su quella fragile pace. Un giorno, all'improvviso, ebbe una visione.
+pl: Odbudowa Wysp Allity postępowała powoli. Ludziom trudno było zapomnieć o Borghu i o tym, co im zrobił. Piraci łupili wybrzeża, a Ghiron musiał nieustannie strzec kruchego pokoju. Pewnego dnia nagle doznał wizji.
+
+it: Che piacere rivedervi, amici miei! Ma... dov'è Woolin?
+pl: Miło was znów widzieć, przyjaciele! Ale... gdzie jest Woolin?
+
+it: È stato catturato!
+pl: Został pojmany!
+
+it: E voi lo avete abbandonato?!
+pl: I zostawiliście go?!
+
+it: Non potevo fare nulla...
+pl: Nic nie mogłem zrobić...
+
+it: Basta! Sartor, Vardal ha detto che non poteva aiutarlo e io gli credo! Libereremo Woolin al più presto. Ora dimmi, hai portato notizie della Sfera?
+pl: Dość! Sartorze, Vardal powiedział, że nie mógł pomóc, i ja mu wierzę! Uwolnimy Woolina jak najszybciej. A teraz powiedzcie, czy macie jakieś wieści o Sferze?
+
+it: Sì, mi è capitata tra le mani una lettera che parla di una mappa custodita in una torre dei maghi nel continente di Kalt'ha. La mappa indica dove si trova la Sfera.
+pl: Tak, trafiłem na list, który mówi o mapie przechowywanej w wieży magów na kontynencie Kalt'ha. Mapa pokazuje, gdzie znajduje się Sfera.
+
+it: Prima di essere catturato anche Woolin aveva parlato di quella torre dei maghi.
+pl: Zanim go pojmano, Woolin też wspominał o tej wieży magów.
+
+it: La mappa deve essere di certo laggiù. Andiamo a prenderla subito.
+pl: Mapa z pewnością musi tam być. Ruszajmy po nią od razu.
+
+it: Sì, e lì c'è anche Woolin. Dobbiamo aiutarlo.\nPossiamo portare con noi qualche ninja: si sono dimostrati molto utili.
+pl: Tak, i Woolin też tam jest. Musimy mu pomóc. \nMożemy zabrać ze sobą kilku ninja; okazali się bardzo przydatni.
+
+it: Sono passato da una sventura all'altra. Almeno siamo arrivati in tempo per aiutare il nostro amico. Alla carica!
+pl: Przeszedłem od jednej klęski do drugiej. Przynajmniej zdążyliśmy na czas, by pomóc przyjacielowi. Do szarży!
+
+it: Salve, viaggiatori! Mi chiamo Ghiron e cerco alleati su quest'isola.
+pl: Witajcie, podróżni! Nazywam się Ghiron i szukam sojuszników na tej wyspie.
+
+it: Tutti qui conoscono il vostro nome. Saremmo onorati di aiutare un nobile mago come voi.\nMa ditemi, non siete voi e i vostri amici quelli che hanno conquistato questo luogo non molto tempo fa? Non avete ucciso tutti sull'isola?
+pl: Wszyscy tutaj znają twoje imię. Bylibyśmy zaszczyceni, mogąc pomóc tak szlachetnemu czarodziejowi jak ty.\nAle powiedz mi, czy to nie ty i twoi przyjaciele podbiliście niedawno to miejsce? Czy nie zabiliście wszystkich na wyspie?
+
+it: No, abbiamo risparmiato i pacifici abitanti dei villaggi, ma temo che si uniranno a chiunque possa offrire loro protezione. Ed è proprio ciò che intendo fare. Il mio scopo è restituire a questa terra la sua bellezza e la sua prosperità.
+pl: Nie, oszczędziliśmy spokojnych wieśniaków, ale obawiam się, że przyłączą się do każdego, kto zapewni im ochronę. I właśnie to zamierzam zrobić. Moim celem jest przywrócić tej ziemi piękno i dobrobyt.
+
+it: E l'altra isola?
+pl: A co z drugą wyspą?
+
+it: Ho ricostruito tutto ciò che potevo, ma gran parte delle sue risorse era già esaurita prima che cominciassi.\nMi servono le ricchezze di quest'isola per continuare l'opera.
+pl: Odbudowałem tyle, ile mogłem, ale większość jej zasobów była wyczerpana, zanim zacząłem. \nPotrzebuję bogactw tej wyspy, by kontynuować dzieło.
+
+it: Ma perché tanta fretta? Nessuno ve le porterà via!
+pl: Ale skąd ten pośpiech? Nikt ci ich nie zabierze!
+
+it: Questo è ciò che pensi, ma la verità è che la notte scorsa, mentre pregavo all'altare, ho avuto visioni terribili.\nHo visto una flotta nemica avvicinarsi a queste isole, al comando di Mun Li, il miglior generale di Borgh, e Sartor che la inseguiva molto più indietro.\nE a ovest è successo qualcosa di terribile. Alcuni miei amici potrebbero avere bisogno di aiuto, perciò devo fare del mio meglio per rafforzare in fretta questa regione.\nMi serve l'aiuto della gente del posto.
+pl: Tak ci się wydaje, ale prawda jest taka, że zeszłej nocy, modląc się przy ołtarzu, miałem straszne wizje. \nWidziałem wrogą flotę zbliżającą się do tych wysp pod dowództwem Mun Li, najlepszego wodza Borgha, a daleko za nią ścigającego ją Sartora. \nW dodatku na zachodzie wydarzyło się coś strasznego. Niektórzy z moich przyjaciół mogą potrzebować pomocy, więc muszę zrobić wszystko, by szybko wzmocnić ten region. \nPotrzebuję pomocy miejscowych.
+
+it: Non sono sicuro che abbiate visto le cose giuste! C'è stata una tempesta per tutta la notte, per questo siamo rimasti alla taverna. Nessuna nave potrebbe navigare indenne con un tempo simile.
+pl: Nie jestem pewien, czy dobrze widziałeś! Przez całą noc szalała burza. Dlatego zostaliśmy w karczmie. Przy takiej pogodzie żaden statek nie popłynąłby bez szwanku.
+
+it: Hai ragione, la tempesta ci ha dato davvero un vantaggio. Ma ha soltanto disperso la flotta di Mun Li e danneggiato la sua ammiraglia. Le riparazioni sono in corso su un'isola vicina. Quando saranno terminate, la flotta si radunerà e attaccherà subito. Ma prima possiamo di certo aspettarci qualche nave civetta. Andiamo quindi a cercare gli abitanti dei villaggi.
+pl: Masz rację, naprawdę dała nam przewagę. Ale tylko rozproszyła flotę Mun Li i uszkodziła jej okręt flagowy. Naprawa trwa na pobliskiej wyspie. Gdy się skończy, flota się zbierze i od razu zaatakuje. Do tego czasu możemy się jednak z pewnością spodziewać kilku statków-przynęt. Chodźmy więc odnaleźć wieśniaków.
+
+# tzar.wcm::maps/benas
+it: Guarnigione di Benas
+pl: Garnizon Benas
+
+it: Guardie della foresta
+pl: Straż leśna
+
+it: Mappa della Sfera
+pl: Mapa Sfery
+
+it: Distruggi l'accampamento nemico che sorveglia la salita all'altopiano con la foresta. Hai un giorno (30 minuti) prima che l'esercito di Benas si accorga della nostra presenza.
+pl: Zniszcz obóz wroga strzegący podejścia na zalesiony płaskowyż. Masz jeden dzień (30 minut), zanim armia w Benas odkryje naszą obecność.
+
+it: Distruggi il castello rosso sulla costa orientale. Porta a Ghiron la pergamena con la mappa che indica dove si trova la Sfera.
+pl: Zniszcz czerwony zamek na wybrzeżu na wschodzie. Przynieś Ghironowi zwój z mapą, która wskazuje, gdzie jest Sfera.
+
+it: Ghiron, Sartor, Woolin e Vardal devono sopravvivere.
+pl: Ghiron, Sartor, Woolin i Vardal muszą przeżyć.
+
+it: Woolin era stato salvato, ma la mappa era andata perduta. Restava un solo luogo dove potesse trovarsi: la città di Benas. L'esercito di Sartor avanzava lento nel deserto, costretto a combattere una battaglia dopo l'altra. Eppure sembrava che nulla potesse fermare la sua marcia su Benas.
+pl: Woolin został ocalony, ale mapa przepadła. Pozostało tylko jedno miejsce, gdzie mogła się znajdować: miasto Benas. Armia Sartora posuwała się powoli przez pustynię, tocząc bitwę za bitwą. Mimo to wydawało się, że nic nie powstrzyma jej marszu na Benas.
+
+it: I signori della guerra della città di Benas sanno che siamo qui. Ora dobbiamo rivolgerci contro di loro. Distruggete il castello laggiù e portatemi la mappa che indica dove si trova la Sfera.
+pl: Wodzowie miasta Benas wiedzą, że tu jesteśmy. Teraz musimy się nimi zająć. Zniszcz tamtejszy zamek i przynieś mi mapę, która wskazuje, gdzie jest Sfera.
+
+it: Ho parlato con l'antico emiro di questa provincia. Ha accettato di aiutarci a liberare questa terra dalle forze di Borgh. Ci ha dato il benvenuto nelle sue terre e nel suo castello e ha ordinato a tutti i suoi sudditi di obbedirci.\nPare che la fama delle tue imprese sia giunta fin quaggiù, Sartor.
+pl: Rozmawiałem z dawnym emirem tej prowincji. Zgodził się pomóc nam uwolnić tę ziemię od wojsk Borgha. Powitał nas na swoich ziemiach i w swoim zamku i rozkazał wszystkim poddanym, by byli nam posłuszni.\nNajwyraźniej wieści o twoich czynach dotarły nawet do tej dalekiej krainy, Sartorze.
+
+it: Allora abbiamo un punto d'appoggio per il nostro assalto a Benas. Non ho mai smesso di stupirmi della tua abilità nel convincere la gente, Ghiron.
+pl: Mamy więc przyczółek do natarcia na Benas. Nigdy nie przestałem podziwiać twojego daru przekonywania ludzi, Ghironie.
+
+it: Anche se fosse, stavolta non ce n'è stato bisogno.\nL'emiro mi ha descritto la conformazione di questa terra. Nel deserto ci sono molti luoghi dove estrarre oro o pietra, ma quasi tutti gli alberi sono stati abbattuti dai servi di Borgh per fortificare Benas. L'unica fonte di legname di una certa importanza che ci resta, e a cui possiamo arrivare, è su un basso altopiano lontano a nord, un po' a est di questo castello. Lassù è di stanza una grossa guarnigione, che sorveglia l'unica salita alla foresta.
+pl: Nawet jeśli tak, tym razem nie musiałem z niego korzystać.\nEmir opisał mi ukształtowanie terenu. Na pustyni jest wiele miejsc, gdzie można wydobywać złoto lub kamień, ale niemal wszystkie drzewa wycięli słudzy Borgha, umacniając Benas. Jedyne większe źródło drewna, jakie tu zostało i jest dla nas dostępne, znajduje się na niskim płaskowyżu daleko na północy, nieco na wschód od tego zamku. Stacjonuje tam duży garnizon, który strzeże jedynego podejścia do lasu.
+
+it: Allora dobbiamo distruggerla in fretta, prima che l'esercito di Benas si accorga della nostra presenza. Da quel che so di questa città, ci serviranno molte macchine d'assedio per arrivare al castello.
+pl: W takim razie musimy go szybko zniszczyć, zanim armia w Benas odkryje naszą obecność. Z tego, co wiem o tym mieście, będziemy potrzebować wielu machin oblężniczych, by dotrzeć do tamtejszego zamku.
+
+it: Sì, dobbiamo sbrigarci. Dobbiamo raggiungere il castello di Benas e prendere la mappa che indica dove si trova la Sfera, anche a costo di raderlo al suolo.\nL'emiro mi ha parlato anche di un luogo incantato, una porta verso un mondo al di là. Chi possiede la porta ha il potere di evocare da essa creature magiche. Dobbiamo impadronircene il prima possibile, perché non possiamo lasciare che il nemico la usi contro di noi.
+pl: Tak, musimy się spieszyć. Musimy dotrzeć do zamku w Benas i zdobyć mapę, która wskazuje, gdzie jest Sfera, choćbyśmy mieli zrównać to miejsce z ziemią.\nEmir opowiedział mi też o zaczarowanym miejscu, bramie do innego świata. Kto włada bramą, ten ma moc przywoływania z niej magicznych stworów. Musimy jak najszybciej przejąć nad nią kontrolę, bo nie możemy pozwolić, by wróg użył jej przeciwko nam.
+
+# tzar.wcm::maps/bigisland
+it: La grande isola
+pl: Wielka wyspa
+
+it: Inserire la descrizione !!!!!!!
+pl: Wpisz opis !!!!!!!
+
+it: Pirati
+pl: Piraci
+
+it: Villaggio di pescatori
+pl: Wioska rybacka
+
+it: Resurrezione
+pl: Wskrzeszenie zmarłych
+
+it: Woolin e Vardal devono parlare con Azim e Falla nei due villaggi sulle isole a sud-est.\nAiutali, poi torna a parlare con Marsim.
+pl: Woolin i Vardal muszą porozmawiać z Azimem i Fallą w dwóch wioskach na wyspach na południowym wschodzie.\nPomóż im, a potem wróć porozmawiać z Marsimem.
+
+it: Porta Azim all'oro sull'isola del Teschio. Lascia che lo prenda, poi riportalo al magazzino del villaggio. Difendilo dai guardiani non morti, poi parla con Razma.
+pl: Zaprowadź Azima do złota na Wyspie Czaszki. Pozwól mu je zabrać, a potem odprowadź go do magazynu wioski. Broń go przed nieumarłymi strażnikami, a potem porozmawiaj z Razmą.
+
+it: Va' sull'isola a sud-est del villaggio di Azim e recupera il libro degli incantesimi, poi portalo a Razma. Ti ricompenserà.
+pl: Udaj się na wyspę na południowy wschód od wioski Azima i odzyskaj księgę zaklęć, a potem zanieś ją Razmie. Nagrodzi cię.
+
+it: Distruggi l'accampamento dei pirati sull'isola a nord del villaggio di Falla. Riporta a Falla il sacerdote che vi è tenuto prigioniero.
+pl: Zniszcz obóz piratów na wyspie na północ od wioski Falli. Odprowadź do Falli kapłana, którego tam więżą.
+
+it: Woolin e Vardal devono parlare con Kaffar sulla costa sud-occidentale dell'isola di Sahra.
+pl: Woolin i Vardal muszą porozmawiać z Kaffarem na południowo-zachodnim wybrzeżu wyspy Sahra.
+
+it: Porta Vardal e i resti delle tue truppe alla capanna di Marsim, dove è ancorata la nave, poi salpa verso il bordo orientale della mappa.
+pl: Doprowadź Vardala i resztki swoich wojsk do chaty Marsima, gdzie stoi na kotwicy statek, a potem pożegluj na wschodni skraj mapy.
+
+it: Woolin, Vardal e il tuo galeone devono sopravvivere.
+pl: Woolin, Vardal i twój galeon muszą przetrwać.
+
+it: Poco dopo la vittoria Ghiron, Woolin, Sartor e Vardal si riunirono per decidere la prossima mossa. Parlarono per tutta la notte e al mattino ognuno prese la propria strada. Ghiron rimase sulle isole per aiutarne la ricostruzione, Sartor partì alla testa di un gruppo scelto di cavalieri verso la lontana terra di Hong, e Woolin e Vardal si diressero al continente di Kalt'ha per trovare la torre dei maghi che, a detta di Ghiron, custodiva la chiave del potere di Borgh.
+pl: Wkrótce po zwycięstwie Ghiron, Woolin, Sartor i Vardal zebrali się, by zaplanować kolejny krok. Rozmawiali całą noc, a rano każdy ruszył w swoją stronę. Ghiron został na wyspach, by pomóc w ich odbudowie, Sartor wyruszył na czele wybranego oddziału rycerzy do dalekiej krainy Hong, a Woolin i Vardal udali się na kontynent Kalt'ha, by odnaleźć wieżę czarodziejów, która, jak mówił Ghiron, kryła klucz do potęgi Borgha.
+
+it: Alla nave! Raggiungiamo la nave e salpiamo! Presto!
+pl: Na statek! Wsiadajmy na statek i odpływajmy! Szybko!
+
+it: Woolin ha bisogno del nostro aiuto, uomini!\nAll'attacco!
+pl: Woolin potrzebuje naszej pomocy, ludzie!\nDo ataku!
+
+it: No! Non avvicinatevi, sciocchi! Non potete salvarmi.\nCorrete! Fuggite alle isole di Allita e dite a Ghiron che deve trovare il modo di portare un esercito in cima alle scogliere di Rajba! Deve saperlo!\nPresto, fuggite!
+pl: Nie! Nie zbliżajcie się, głupcy! Nie zdołacie mnie ocalić.\nUciekajcie! Uciekajcie na Wyspy Allity i powiedzcie Ghironowi, że musi znaleźć sposób, by wprowadzić armię na urwiska Rajby! Musi się o tym dowiedzieć!\nSzybko, uciekajcie!
+
+it: Così vieni da solo, Woolin? Dove sono i tuoi soldati?\nPerché non sono vicino a te... nel caso ti servissero?
+pl: Więc przychodzisz sam, Woolinie? Gdzie są twoi żołnierze?\nDlaczego nie ma ich przy tobie... na wypadek, gdybyś ich potrzebował?
+
+it: È sempre saggio esplorare la zona prima di mandare avanti il grosso delle forze. E se hai davvero informazioni preziose, sono pronto ad ascoltarle. Non c'è bisogno che altri siano presenti per parlarne, giusto?
+pl: Zawsze rozsądnie jest zbadać teren, zanim wyśle się główne siły. A jeśli naprawdę masz cenne wieści, jestem gotów ich wysłuchać. Nie trzeba, by ktoś jeszcze był przy tym obecny, prawda?
+
+it: Prudente e coraggioso come sempre... Vedo che non sei cambiato, Woolin, guardia del corpo di re Roan. Tu forse non ti ricordi di me, ma io mi ricordo bene di te, e ho un conto in sospeso con te.\nSei venuto a rubare il segreto della Pioggia di fuoco, ma i tuoi sforzi sono vani e non ti rendi conto della tua follia. La torre dei maghi è lontana, nel deserto a est, in cima alle scogliere rocciose di Rajba. È sorvegliata, ma anche se riuscissi a eludere le guardie non potresti scalare le ripide scogliere, a meno di saper volare.\nOra sei in mio potere! Ti pentirai di essere venuto qui!
+pl: Ostrożny i odważny jak zawsze... Widzę, że się nie zmieniłeś, Woolinie, przyboczny króla Roana. Ty może mnie nie pamiętasz, ale ja dobrze pamiętam ciebie i mam z tobą rachunki do wyrównania.\nPrzyszedłeś wykraść tajemnicę Deszczu ognia, ale twój trud jest daremny, a ty nie dostrzegasz własnej głupoty. Wieża magów stoi daleko na pustyni na wschodzie, wysoko na skalnych urwiskach Rajby. Jest strzeżona, a nawet gdybyś przemknął obok strażników, nie wspiąłbyś się na strome urwiska, chyba że umiałbyś latać.\nTeraz jesteś w mojej mocy! Pożałujesz, że tu przyszedłeś!
+
+it: Non mi piace. Marsim ci aveva messi in guardia da questo Kaffar, e ora vedo che il luogo dove possiamo trovarlo è ideale per un'imboscata. Ogni via d'accesso è ben visibile... E perché mai un ribelle sceglierebbe di incontrarci nel punto dell'isola più vicino alla città nemica?\nRestate qui. Andrò a dare un'occhiata... Se è tutto a posto, vi farò segno di venire.
+pl: Nie podoba mi się to. Marsim ostrzegał nas przed tym Kaffarem, a teraz widzę, że miejsce, w którym mamy go spotkać, jest idealne na zasadzkę. Wszystkie podejścia są dobrze widoczne... I dlaczego buntownik miałby chcieć spotkać się z nami na cyplu wyspy najbliżej miasta wroga?\nZostań tutaj. Pójdę się rozejrzeć... Jeśli wszystko będzie w porządku, dam ci znak, żebyś przyszedł.
+
+it: Vengo con te. Non posso lasciarti affrontare il pericolo da solo.
+pl: Pójdę z tobą. Nie mogę pozwolić, byś sam stawiał czoło niebezpieczeństwu.
+
+it: No, Vardal. Se è un'imboscata, almeno uno di noi deve restare con i nostri uomini per guidarli. Sarebbe stolto farci catturare o uccidere entrambi.\nAndrò io e tu resterai. Se mi dovesse accadere qualcosa, porterai a termine la nostra missione. Aspettami laggiù, vicino alla piramide di sabbia.
+pl: Nie, Vardalu. Jeśli to zasadzka, przynajmniej jeden z nas musi zostać z naszymi ludźmi i dalej nimi dowodzić. Byłoby głupotą, gdyby obu nas pojmano albo zabito.\nJa pójdę, a ty zostaniesz. Gdyby coś mi się stało, ty dokończysz naszą misję. Czekaj na mnie tam, przy piaskowej piramidzie.
+
+it: La fama delle vostre buone azioni corre veloce. Tutti sulle isole sanno che avete aiutato chi era nel bisogno. La gente forse non è ancora pronta a combattere per voi, ma c'è chi vi aiuterebbe.
+pl: Wieść o waszych dobrych uczynkach szybko się rozchodzi. Wszyscy na wyspach wiedzą, że pomogliście potrzebującym. Ludzie może nie są jeszcze gotowi walczyć za was, ale są tacy, którzy by wam pomogli.
+
+it: E in che modo ci aiuterebbero?\nForse conoscete qualcuno che può guidarci alla torre dei maghi che stiamo cercando?
+pl: A w jaki sposób by nam pomogli?\nMoże znasz kogoś, kto zaprowadzi nas do wieży magów, której szukamy?
+
+it: Dovreste andare a parlare con Kaffar.\nÈ venuto da me tempo fa e ha fatto domande su di voi. Sembrava sapere molte cose sul vostro conto e ha lasciato intendere di avere informazioni che trovereste preziose.\nMa state in guardia: Kaffar è noto come uomo coraggioso, ma anche astuto. Spesso fa ciò che pensa gli porterà più profitto... a volte a spese degli altri.
+pl: Powinniście porozmawiać z Kaffarem.\nPrzyszedł do mnie jakiś czas temu i wypytywał o was. Zdawał się dużo o was wiedzieć i dał do zrozumienia, że ma wieści, które uznacie za cenne.\nMiejcie się jednak na baczności, bo Kaffar znany jest jako człowiek odważny, ale i przebiegły. Często robi to, co jego zdaniem przyniesie mu największy zysk... czasem kosztem innych.
+
+it: Andremo a parlare con questo Kaffar. Che la nave resti ancorata qui fino al nostro ritorno. Grazie del consiglio, vecchio.
+pl: Pójdziemy porozmawiać z tym Kaffarem. Niech statek zostanie tu na kotwicy, dopóki nie wrócimy. Dziękuję za radę, starcze.
+
+it: Abbiamo già saputo della battaglia sull'isola dei pirati. E vedo che avete liberato il nostro guaritore. La vostra bella nave avrà certo bisogno di riparazioni. Il minimo che possiamo fare per ripagare la vostra gentilezza è aiutarvi in questo. Uno dei nostri abitanti verrà con voi, così potrete riparare la nave ogni volta che servirà. Credo che vi servirà in perfette condizioni nelle vostre prossime battaglie.\nAndate con la benedizione della brava gente di qui.
+pl: Słyszeliśmy już o bitwie na wyspie piratów. I widzę, że ocaliliście naszego uzdrowiciela. Wasz piękny statek pewnie wymaga napraw. Najmniej, co możemy zrobić, by odwdzięczyć się za waszą dobroć, to wam w tym pomóc. Jeden z naszych wieśniaków popłynie z wami, byście mogli naprawić statek, ilekroć zajdzie potrzeba. Myślę, że w przyszłych bitwach będzie wam potrzebny w doskonałym stanie.\nIdźcie z błogosławieństwem dobrych ludzi stąd.
+
+it: È un accampamento militare o un villaggio?\nVedo case e contadini al lavoro, ma anche molti soldati e un avamposto militare.
+pl: To obóz wojskowy czy wioska?\nWidzę domy i pracujących chłopów, ale jest tu też wielu żołnierzy i placówka wojskowa.
+
+it: Questo è il villaggio di Sal'Bahra e io sono Falla, il capo delle guardie.\nVoi dovete essere Woolin e Vardal dei Protettori? Ho sentito che Marsim ha parlato con degli stranieri che si facevano chiamare con quei nomi.\nAvete un occhio esperto per le cose militari... Forse siete davvero Woolin, la guardia del corpo di re Roan. Siamo stati costretti a schierare qui delle truppe per proteggere gli abitanti dai pirati che solcano queste acque.
+pl: To wioska Sal'Bahra, a ja jestem Falla, dowódca straży.\nWy musicie być Woolin i Vardal z Obrońców? Słyszałem, że Marsim rozmawiał z przybyszami, którzy tak się nazywali.\nMasz wprawne oko do spraw wojskowych... Może naprawdę jesteś Woolinem, przybocznym króla Roana. Musieliśmy rozmieścić tu wojska, by chronić wieśniaków przed piratami, którzy pływają po tych wodach.
+
+it: Perché restate qui ad aspettare che i pirati vengano ad attaccarvi, invece di andare a cercare la loro base e distruggerli una volta per tutte?
+pl: Dlaczego siedzicie tu i czekacie, aż piraci przyjdą was zaatakować, zamiast odszukać ich bazę i zniszczyć ich raz na zawsze?
+
+it: Siamo quasi certi che agiscano da una base su un'isoletta a nord, ma non possiamo attaccarli. Siamo troppo pochi: a pochi è concesso portare armi... tranne che ai soldati di Borgh, si capisce, ma a loro non importa combattere i pirati. Credo perfino che ricevano una parte del bottino dei pirati e in cambio li lascino in pace.\nE non abbiamo navi da guerra per combattere le navi dei pirati. Non possiamo attaccarli con le barche da pesca.
+pl: Jesteśmy niemal pewni, że działają z bazy na małej wyspie na północy, ale nie możemy ich zaatakować. Jest nas za mało: niewielu wolno nosić broń... poza żołnierzami Borgha, rzecz jasna, ale ich nie obchodzi walka z piratami. Myślę nawet, że dostają część łupów piratów i w zamian zostawiają ich w spokoju.\nNie mamy też okrętów wojennych, by walczyć ze statkami piratów. Nie możemy ich zaatakować łodziami rybackimi.
+
+it: Possiamo aiutarvi noi. Abbiamo una nave con i cannoni e credo che siamo abbastanza per assaltare l'accampamento dei pirati.\nDiteci solo dove andare.
+pl: W tym możemy pomóc. Mamy statek z armatami i myślę, że jest nas dość, by stawić czoło obozowi piratów.\nPowiedzcie tylko, dokąd mamy płynąć.
+
+it: Ve lo mostrerò tra un momento.\nAvete una nave potente, ma credo che si possa migliorare... Vi daremo un po' di legname, così potrete modificarla perché infligga più danni in battaglia.\nIl guaritore di questo villaggio è stato fatto prigioniero dai pirati. Se il vostro attacco ai pirati avrà successo, vi prego, trovatelo e riportatelo qui. Ne abbiamo un gran bisogno.
+pl: Zaraz wam pokażę.\nMacie potężny statek, ale myślę, że da się go ulepszyć... Damy wam trochę drewna, żebyście mogli go przebudować, by zadawał w walce więcej obrażeń.\nPiraci wzięli do niewoli uzdrowiciela tej wioski. Jeśli wasz atak na piratów się powiedzie, odnajdźcie go, proszę, i przyprowadźcie z powrotem. Bardzo go potrzebujemy.
+
+it: Ahh... il libro! Ce l'avete!\nÈ un incantesimo potente: anima i corpi di chi cade in battaglia e ve ne dà il comando, così ogni battaglia porterà nuovi soldati nelle vostre file.\nVi avevo promesso una ricompensa se mi aveste portato il libro. Non ho nulla da darvi... se non il mio aiuto. So lanciare incantesimi di benedizione e di guarigione. Posso anche imparare l'incantesimo di questo libro, e di altri, se ne troverete. Vi seguirò, miei signori. Le vostre imprese hanno dimostrato chiaramente che ne siete degni.
+pl: Ach... księga! Macie ją!\nTo potężne zaklęcie: ożywia ciała poległych w bitwie i daje wam nad nimi władzę, tak że każda bitwa przysporzy nowych żołnierzy waszym szeregom.\nObiecałem, że odwdzięczę się wam za przyniesienie księgi. Nie mam wam nic do dania... poza moją pomocą. Umiem rzucać zaklęcia błogosławieństwa i uzdrawiania. Mogę też nauczyć się zaklęcia z tej księgi i innych, jeśli jakieś znajdziecie. Pójdę za wami, panowie. Wasze czyny jasno pokazały, że jesteście tego godni.
+
+it: Oggi avete compiuto una buona azione, signori.\nOra è tempo di compierne un'altra: per voi stessi e contro Borgh... O dovrei dire: per il bene del giovane Sartor?\nLeggo sui vostri volti che volete chiedermi come faccio a sapere tante cose. E ancora una volta non vi risponderò, perciò non chiedetelo.\nSu un'altra delle isole qui vicino c'è un libro degli incantesimi. I soldati di Borgh lo hanno scoperto poco tempo fa, ma non osano toccarlo e hanno mandato a chiamare uno dei maghi perché venga a prenderlo. Questo libro non deve cadere nelle mani di Borgh. Uccidete i soldati, poi portatemi il libro. Vi ricompenserò.\nAndate!
+pl: Dokonaliście dziś dobrego uczynku, panowie.\nTeraz czas na kolejny: dla was samych i przeciw Borghowi... A może powinienem powiedzieć: przez wzgląd na młodego Sartora?\nWidzę po waszych twarzach, że chcecie zapytać, skąd tyle wiem. I znów wam nie odpowiem, więc nie trudźcie się pytaniem.\nNa innej z pobliskich wysp leży księga zaklęć. Żołnierze Borgha odkryli ją niedawno, ale nie śmią jej dotknąć i posłali po jednego z magów, by przybył ją zabrać. Ta księga nie może wpaść w ręce Borgha. Zabijcie żołnierzy, a potem przynieście mi księgę. Wynagrodzę was za to.\nIdźcie!
+
+it: Salute, nobili signori.\nCredo di sapere perché siete qui. Volete sapere dell'isola del Teschio.
+pl: Witajcie, szlachetni panowie.\nChyba wiem, po co tu przybyliście. Chcecie się dowiedzieć o Wyspie Czaszki.
+
+it: Come sapete perché siamo qui?
+pl: Skąd wiesz, po co tu przybyliśmy?
+
+it: So molte cose, signore.\nE ora ve ne svelerò un poco.\nSull'isola del Teschio c'è un tesoro. Ma i pescatori fanno bene a tenersi lontani dalle sue coste. Ci sono bestie pericolose, ma non è di questo che dovete avere paura.\nL'isola è maledetta. Vi dimorano i fantasmi di coloro che lì furono massacrati dai pirati molto tempo fa. Morirono per il tesoro che ora si trova laggiù, e lo custodiranno da chiunque tenti di prenderlo.\nAndate laggiù e distruggete i fantasmi. Azim verrà con voi a prendere l'oro. Quando avrete finito, tornate a parlare con me.
+pl: Wiem wiele, panie.\nI trochę z tego teraz wam zdradzę.\nNa Wyspie Czaszki jest skarb. Rybacy jednak mądrze trzymają się z dala od jej brzegów. Żyją tam groźne bestie, ale to nie ich powinniście się lękać.\nWyspa jest przeklęta. Mieszkają tam duchy tych, których dawno temu wyrżnęli tam piraci. Zginęli za skarb, który dziś tam leży, i będą go strzec przed każdym, kto spróbuje go zabrać.\nUdajcie się tam i zniszczcie duchy. Azim pójdzie z wami po złoto. Gdy to zrobicie, wróćcie porozmawiać ze mną.
+
+it: Salve, buon uomo.\nMi chiamo Woolin e lui è Vardal, cavaliere dell'Ordine dei Protettori. Ci ha mandati qui un eremita di nome Marsim. Ha detto che avreste avuto bisogno di aiuto e noi ve lo daremo volentieri.
+pl: Witaj, dobry człowieku.\nNazywam się Woolin, a to Vardal, rycerz Zakonu Obrońców. Przysłał nas tu pustelnik imieniem Marsim. Powiedział, że potrzebujecie w czymś pomocy, a my chętnie pomożemy.
+
+it: Salve, nobili cavalieri. Siamo in grande difficoltà e Marsim ha fatto bene a parlarvi di noi.\nIl pesce lungo queste coste non è più abbondante come qualche anno fa, ed è l'unica cosa di cui possiamo vivere su quest'isola spoglia. Una settimana fa sono venuti qui gli esattori di Borgh e ci hanno costretti a versare mille monete d'oro al tesoro. Mille monete d'oro! Su questo nostro scoglio di isola non ce n'è mai stato tanto. Se non paghiamo entro una settimana, ci porteranno a lavorare nelle miniere di Borgh! Siamo semplici pescatori, non robusti nani, e là moriremmo di certo. Solo un miracolo può salvarci...
+pl: Witajcie, szlachetni rycerze. Jesteśmy w wielkiej potrzebie, a Marsim dobrze zrobił, że wam o nas powiedział.\nRyb przy tych brzegach nie ma już tyle co kilka lat temu, a to jedyne, z czego możemy żyć na tej nagiej wyspie. Tydzień temu przybyli tu poborcy Borgha i kazali nam wpłacić do skarbca tysiąc sztuk złota. Tysiąc sztuk złota! Nigdy nie było tyle złota na tej naszej małej skale. Jeśli nie zapłacimy w ciągu tygodnia, zabiorą nas do pracy w kopalniach Borgha! Jesteśmy prostymi rybakami, nie twardymi krasnoludami, i z pewnością tam zginiemy. Tylko cud może nas ocalić...
+
+it: Allora vi serve davvero un miracolo, perché non abbiamo con noi tanto oro, e non siamo certo abbastanza forti per difendere quest'isola da tutto l'esercito di Borgh in Kalt'ha, se vi rifiutaste di pagare.
+pl: W takim razie naprawdę potrzebujecie cudu, bo nie mamy przy sobie tyle złota i ledwie starczy nam sił, by utrzymać tę wyspę przeciw całej armii Borgha w Kalt'ha, jeśli odmówicie zapłaty.
+
+it: Dio ci aiuti, se ci rifiutassimo! No, non intendevo nulla del genere. C'è un modo in cui potete aiutare noi poveri pescatori, gentili signori.\nA nord c'è un'isola, l'isola del Teschio. Si dice che vi sia un tesoro, sparso per terra alla portata di chiunque. Ma l'isola è pericolosa: vi dimorano bestie feroci. Se intendete ancora aiutarci, parlate con il sacerdote Razma, poco più a ovest di qui. Lui ne sa di più.
+pl: Niech Bóg ma nas w opiece, jeśli odmówimy! Nie, nie miałem na myśli niczego takiego. Jest sposób, byście pomogli nam, biednym rybakom, łaskawi panowie.\nNa północy leży wyspa, Wyspa Czaszki. Mówią, że jest tam skarb, leżący na ziemi dla każdego, kto go znajdzie. Ale wyspa jest niebezpieczna: żyją tam dzikie bestie. Jeśli wciąż chcecie nam pomóc, porozmawiajcie z kapłanem Razmą, kawałek na zachód stąd. On wie o tym więcej.
+
+it: Salute, viaggiatori.\nSono Marsim, un umile eremita.\nChe cosa vi porta nella terra di Kalt'ha?\nVorrei potervi dire che siete i benvenuti, ma temo che molto presto scoprirete da soli come vanno le cose da queste parti.
+pl: Witajcie, podróżni.\nJestem Marsim, skromny pustelnik.\nCo was sprowadza do krainy Kalt'ha?\nChciałbym powiedzieć, że jesteście tu mile widziani, ale obawiam się, że już wkrótce sami się przekonacie, jak się tu sprawy mają.
+
+it: Perché la gente di qui non dovrebbe essere lieta di incontrare degli stranieri? Abbiamo sentito racconti sulle ricchezze e la prosperità di questa terra, e sulla sua ospitalità.
+pl: Dlaczego ludzie stąd mieliby nie cieszyć się na widok przybyszów? Słyszeliśmy opowieści o bogactwie i dobrobycie tej krainy oraz o jej gościnności.
+
+it: La terra è ancora ricca, e tra noi c'è chi prospera. Ma sotto il dominio di Borgh solo gli spietati e gli indifferenti possono arrivare ad avere più dello stretto necessario per sopravvivere. Proprio su quest'isola sorgeva la capitale di tutta la terra di Kalt'ha, la grande città di Sahra. Ora non ne resta che un paese di pescatori. Borgh ha spostato la sede del suo potere nella città di Benas, proprio di fronte a Sahra, sulla terraferma. Non è altro che un gigantesco accampamento di soldati, con caserme, fucine di armi e laboratori d'assedio.
+pl: Kraina wciąż jest bogata i niektórym z nas dobrze się wiedzie. Ale pod rządami Borgha tylko bezwzględni i obojętni mogą mieć więcej niż tyle, ile ledwie starcza, by przeżyć. Właśnie na tej wyspie leżała niegdyś stolica całej krainy Kalt'ha: wielkie miasto Sahra. Dziś zostało z niego tylko rybackie miasteczko. Borgh przeniósł siedzibę swej władzy do miasta Benas, naprzeciw Sahry, na lądzie stałym. To nic innego jak olbrzymi obóz żołnierzy, z koszarami, zbrojowniami i warsztatami oblężniczymi.
+
+it: Va così male? Avevo sentito dire che il popolo di Kalt'ha non avrebbe accettato il giogo di nessuno...\nSiamo emissari di Sartor, il figlio di re Roan.\nCorrevano voci di maghi arabi che, in una torre da qualche parte su quest'isola, cercano per conto di Borgh il segreto di un potente incantesimo che gli permetterebbe di far piovere fuoco sui suoi nemici. Siamo venuti a impedire che diano un simile potere al nostro nemico. Sapete dove si trova questa torre?
+pl: Aż tak źle? Słyszałem, że lud Kalt'ha nie przyjmie niczyjego jarzma...\nJesteśmy wysłannikami Sartora, syna króla Roana.\nKrążyły pogłoski o arabskich magach w wieży gdzieś na tej wyspie, którzy szukają dla Borgha tajemnicy potężnego zaklęcia, dzięki któremu mógłby sprowadzać deszcz ognia na swoich wrogów. Przybyliśmy, by nie dopuścić, żeby obdarzyli naszego wroga taką mocą. Czy wiesz, gdzie stoi ta wieża?
+
+it: Qui non troverete nessuna torre dei maghi. Forse ce n'è stata una molto tempo fa, ma su quest'isola non ne rimane traccia. Anch'io ho sentito dei maghi di Borgh che lavorano a un incantesimo di Pioggia di fuoco, ma per quel che ne so la loro torre si trova da qualche parte sulla terraferma. E se volete assaltarla, vi servirà l'aiuto del popolo di Kalt'ha.\nIl problema è che non si fideranno di nessuno che non sappiano capace e nobile... Non dopo essersi fidati, non molto tempo fa, degli ambasciatori di Borgh: ora ne paghiamo tutti un prezzo alto.
+pl: Nie znajdziecie tu wieży magów. Może dawno temu jakaś tu była, ale na tej wyspie nie został po niej żaden ślad. Ja także słyszałem, że magowie Borgha pracują nad zaklęciem Deszczu ognia, ale z tego, co wiem, ich wieża stoi gdzieś na lądzie stałym. A jeśli chcecie na nią napaść, będziecie potrzebować pomocy ludu Kalt'ha.\nKłopot w tym, że nie zaufają nikomu, o kim nie wiedzą, że jest zdolny i szlachetny... Nie po tym, jak niedawno zaufali posłom Borgha, a teraz wszyscy płacimy za to wysoką cenę.
+
+it: Non avete mai sentito parlare di Woolin, il capitano di re Roan? E io sono un cavaliere dell'Ordine dei Protettori. Di certo conoscete questi nomi? Sono leggendari, e non solo nelle terre del sud.
+pl: Czy nie słyszeliście o Woolinie, kapitanie króla Roana? A ja jestem rycerzem Zakonu Obrońców. Na pewno znacie te imiona? Są legendą, i to nie tylko w krainach południa.
+
+it: Quei nomi li abbiamo sentiti... così come sapevamo che i nomi e i titoli degli ambasciatori di Borgh erano degni e nobili.\nParole e nomi da soli non vi faranno guadagnare l'amicizia della gente di qui. Se provate ad andare a Sahra e a gridare chi siete, molto probabilmente sarete accolti soltanto dalle spade.\nNo, dovrete dimostrare il vostro valore aiutando chi è nel bisogno tra il popolo di Kalt'ha.\nSulle isole qui vicino ci sono due piccoli villaggi. Parlate con la gente che ci abita e fate ciò che vi chiede. Quando avrete fatto del vostro meglio per aiutarli, tornate da me. Spargerò la voce del vostro arrivo, e quando tutti vedranno che ci volete davvero bene, saranno pronti ad aiutarvi.
+pl: Słyszeliśmy te imiona... tak samo jak wiedzieliśmy, że imiona i tytuły posłów Borgha są godne i szlachetne.\nSame słowa i imiona nie zjednają wam przyjaźni tutejszych ludzi. Jeśli pójdziecie do Sahry i będziecie tam wykrzykiwać, kim jesteście, najpewniej powitają was jedynie ostrza mieczy.\nNie, musicie dowieść swojej wartości, pomagając potrzebującym wśród Kalt'ha.\nNa pobliskich wyspach są dwie małe wioski. Porozmawiajcie z tamtejszymi ludźmi i zróbcie, o co poproszą. Gdy zrobicie wszystko, co w waszej mocy, by im pomóc, wróćcie do mnie. Rozgłoszę wieść o waszym przybyciu, a gdy wszyscy zobaczą, że naprawdę dobrze nam życzycie, będą gotowi wam pomóc.
+
+# tzar.wcm::maps/rajba
+it: Campo di prigionia
+pl: Obóz jeniecki
+
+it: Prigionieri
+pl: Jeńcy
+
+it: Guardie della torre
+pl: Straż wieży
+
+it: Maghi di Rajba
+pl: Magowie Rajby
+
+it: Morte ardente
+pl: Płonąca Śmierć
+
+it: Sartor deve liberare Woolin, tenuto prigioniero in un campo a ovest del castello di Bahra.
+pl: Sartor musi uwolnić Woolina, przetrzymywanego w obozie na zachód od zamku Bahra.
+
+it: Sartor, Ghiron, Woolin e Vardal devono sopravvivere.
+pl: Sartor, Ghiron, Woolin i Vardal muszą przeżyć.
+
+it: Uccidi i maghi sulle scogliere nell'angolo nord-ovest della mappa e prendi il Libro della Morte ardente e la mappa che indica dove si trova la Sfera. Non distruggere la torre.
+pl: Zabij magów na urwiskach w północno-zachodnim rogu mapy i zdobądź Księgę Płonącej Śmierci oraz mapę, która wskazuje, gdzie jest Sfera. Nie niszcz wieży.
+
+it: Porta a Ghiron il Libro della Morte ardente.
+pl: Zanieś Księgę Płonącej Śmierci Ghironowi.
+
+it: Dopo tanto tempo, Sartor poteva finalmente vedere avvicinarsi la fine delle guerre. Dopo molti anni avevano qualche notizia della Sfera. La lettera ricevuta dagli Antichi monaci accennava all'esistenza della mappa di un'isola dove si poteva trovare la Sfera. E la mappa si trovava nel continente di Kalt'ha. Da qualche parte in quella vasta terra era tenuto prigioniero anche Woolin.
+pl: Po tak długim czasie Sartor wreszcie widział nadchodzący koniec Wojen. Po wielu latach mieli jakieś wieści o Sferze. List, który otrzymał od Starożytnych Mnichów, sugerował istnienie mapy wyspy, na której można odnaleźć Sferę. A mapa miała się znajdować na kontynencie Kalt'ha. Gdzieś w tej rozległej krainie więziono też pojmanego Woolina.
+
+it: Godetevi la vostra misera vittoria finché potete, sciocchi! Avrete pure conquistato la torre, ma la mappa non l'avrete mai! La porterò al mio signore a Benas, dove nessun esercito potrà prenderla!\nPresto sarete morti!
+pl: Cieszcie się z waszego marnego zwycięstwa, póki możecie, głupcy! Może i zdobyliście wieżę, ale mapy nigdy nie dostaniecie! Zaniosę ją mojemu panu do Benas, gdzie żadna armia jej nie zdobędzie!\nWkrótce zginiecie!
+
+it: Che piacere vederti qui, Sartor. Cominciavo a temere che non saresti riuscito a sfondare le difese.
+pl: Dobrze cię tu widzieć, Sartorze. Zaczynałem się martwić, że nie zdołasz przebić się przez obronę.
+
+it: Sono felice di vederti illeso e di buon umore, Woolin. Ci sei mancato molto.\nPresto attaccheremo la torre dei maghi sulle scogliere. Verrai con noi, immagino?
+pl: Cieszę się, że widzę cię całego i w dobrym nastroju, Woolinie. Bardzo nam cię brakowało.\nWkrótce zaatakujemy wieżę czarodziejów na urwiskach. Pójdziesz z nami, prawda?
+
+it: Certo che parteciperò all'attacco. Ma devi sapere che non sarà facile arrivare alla torre. Dovremo aprirci la strada attraverso una base nemica prima ancora di arrivare ai piedi delle scogliere. Poi dovremo trovare il modo di scalare le pareti di roccia per raggiungere la torre. Ho sentito dire che il luogo è ben fortificato. E i maghi non saranno facili da uccidere, perché padroneggiano già l'incantesimo della Pioggia di fuoco. È scritto in un libro, il Libro della Morte ardente. Non dobbiamo permettere che questo libro arrivi a Birsha.
+pl: Oczywiście, że wezmę udział w ataku. Ale musisz wiedzieć, że niełatwo będzie dotrzeć do wieży. Będziemy musieli przebić się przez bazę wroga, zanim w ogóle dotrzemy do stóp urwisk. Potem trzeba będzie znaleźć sposób, by wspiąć się po skalnych ścianach do samej wieży. Słyszałem, że to miejsce jest dobrze umocnione. A magów niełatwo będzie zabić, bo opanowali już zaklęcie Deszczu ognia. Jest spisane w księdze: Księdze Płonącej Śmierci. Nie możemy pozwolić, by ta księga trafiła do Birshy.
+
+it: Non dovremo arrampicarci noi sulle pareti di roccia. Nelle terre dell'est ho incontrato una casta di abili guerrieri, i ninja. Sanno andare e venire senza farsi notare, e scogliere e mura non sono un ostacolo per loro. Ora sono pronti ad aiutarci.\nMa il segreto dell'incantesimo della Pioggia di fuoco non è più il nostro scopo principale. Cerchiamo una mappa per trovare la mistica Sfera. Nelle terre dell'est abbiamo trovato prove che era custodita in questa torre.
+pl: Nie będziemy musieli sami wspinać się po skalnych ścianach. W krainach wschodu spotkałem kastę zręcznych wojowników: ninja. Przychodzą i odchodzą niezauważeni, a urwiska i mury nie są dla nich przeszkodą. Teraz są gotowi nam pomóc.\nAle tajemnica zaklęcia Deszczu ognia nie jest już naszym głównym celem. Szukamy mapy, by odnaleźć mistyczną Sferę. W krainach wschodu znaleźliśmy dowody, że przechowywano ją w tej wieży.
+
+it: Sì, ho sentito parlare di una mappa importante. Credo che volessero portarla in un luogo più sicuro, a Benas. Ma non ho idea di come o quando intendessero spostarla.\nFaremo meglio a sbrigarci...
+pl: Tak, podsłuchałem rozmowy o jakiejś ważnej mapie. Myślę, że zamierzali przewieźć ją w bezpieczniejsze miejsce w Benas. Ale nie mam pojęcia, jak i kiedy chcieli ją przenieść.\nLepiej się pospieszmy...
+
+it: Siamo venuti a combattere i maghi di Rajba.\nHo sciolto la maledizione che vi teneva... per un po'. Non può essere spezzata finché ci sono maghi nella torre sulle scogliere.\nOra avete una scelta: combattere con noi contro i maghi che vi hanno maledetti all'oblio, o tornare al vostro oblio. Scegliete in fretta!
+pl: Przybyliśmy walczyć z czarodziejami Rajby.\nZdjąłem z was klątwę... na jakiś czas. Nie da się jej złamać, dopóki w wieży na urwiskach są magowie.\nTeraz macie wybór: walczyć z nami przeciw czarodziejom, którzy skazali was na zapomnienie, albo wrócić do swojego zapomnienia. Wybierajcie szybko!
+
+it: Perché siete venuti a Bahra?\nChi osa camminare sulla terra maledetta?
+pl: Po co przybyliście do Bahry?\nKto śmie stąpać po przeklętej ziemi?
+
+it: Scegliamo di combattere. Anche se non ci fosse alcuna maledizione su di noi, faremmo comunque guerra ai maghi. Sono un male che affligge questa terra da troppo tempo, e vanno eliminati.\nComandateci!
+pl: Wybieramy walkę. Nawet gdyby nie ciążyła na nas żadna klątwa, i tak prowadzilibyśmy wojnę z czarodziejami. To zło, które zbyt długo nęka tę krainę, i trzeba je usunąć.\nRozkazujcie nam!
+
+it: Bene. Il nostro primo compito sarà liberare il nostro amico Woolin. È tenuto prigioniero in una roccaforte a ovest di qui.\nNon possiamo lasciarlo in mano al nemico, e di certo saprà di più sulla torre dei maghi.
+pl: Dobrze. Naszym pierwszym zadaniem będzie uwolnienie naszego przyjaciela Woolina. Więżą go w twierdzy na zachód stąd.\nNie możemy zostawić go w rękach wroga, a on z pewnością wie więcej o wieży czarodziejów.
+
+it: Della sua liberazione mi occuperò io. Chiunque osi mettersi tra noi se ne pentirà!
+pl: Ja zajmę się jego uwolnieniem. Kto ośmieli się stanąć między nami, pożałuje!
+
+it: Soffino i venti del deserto e si increspi la terra!\nSi muovano le dune e si scavino le valli!\nSi ritiri la sabbia dalle mura di Bahra!\nVedano i maledetti la luce del giorno!
+pl: Niech wieją wiatry pustyni i niech ziemia się faluje!\nNiech przesuwają się wydmy i pogłębiają doliny!\nNiech piasek odstąpi od murów Bahry!\nNiech przeklęci ujrzą światło dnia!
+
+it: Bene, eccoci qui, Ghiron.\nCome ci avevi chiesto, abbiamo viaggiato leggeri e non abbiamo portato nessuno che potesse aiutarci a costruire un accampamento qui.\nE ora che facciamo? Presto ci troveranno, e non possiamo certo tirare fuori un esercito dalla sabbia, no?
+pl: Cóż, oto jesteśmy, Ghironie.\nTak jak kazałeś, podróżowaliśmy bez obciążeń i nie zabraliśmy nikogo, kto mógłby pomóc nam rozbić tu obóz.\nCo mamy teraz robić? Wkrótce nas znajdą, a z tutejszego piasku armii nie zrobimy, prawda?
+
+it: Un esercito dalla sabbia? Vedremo...\nMa sappiate questo, amici: siamo osservati. Il nemico sapeva del nostro arrivo molto prima che toccassimo la riva. I maghi del deserto sono una forza da non sottovalutare.\nCi resta poco tempo prima che i nostri nemici radunino le truppe e vengano a prenderci.\nTanto tempo fa qui sorgeva uno splendido castello. Le sue torri dorate scintillavano alla luce del sole nascente...\nOra non ne resta che un cumulo di sabbia sulle mura in rovina. Su questa terra fu gettata una maledizione, un incantesimo d'oblio, e quando calò, il castello e la sua gente furono sepolti sotto il deserto. È giunto il momento che rivedano la luce del giorno.\nVenite!
+pl: Armii z piasku? Zobaczymy...\nAle wiedzcie jedno, przyjaciele: ktoś nas obserwuje. Wróg wiedział o naszym przybyciu na długo, zanim dotknęliśmy brzegu. Czarodzieje pustyni to siła, z którą trzeba się liczyć.\nZostało nam niewiele czasu, zanim nasi wrogowie zbiorą wojska i po nas przyjdą.\nDawno temu stał tu wspaniały zamek. Jego złote wieże lśniły jasno w blasku wschodzącego słońca...\nDziś zostało z niego tylko piaszczyste wzgórze nad zrujnowanymi murami. Na tę krainę rzucono klątwę, zaklęcie zapomnienia, a gdy spadła, zamek i tutejsi ludzie zostali pogrzebani pod pustynią. Nadszedł czas, by znów ujrzeli światło dnia.\nChodźcie!
+
+# tzar.wcm::maps/saa10
+it: Mappa7
+pl: Mapa7
+
+it: Villaggio
+pl: Wioska
+
+it: Pioggia di fuoco
+pl: Deszcz ognia
+
+it: Pozione dell'eroe
+pl: Mikstura bohatera
+
+it: Uccidi Birsha.\n\nWoolin, Sartor e Ghiron devono sopravvivere.
+pl: Zabij Birshę.\n\nWoolin, Sartor i Ghiron muszą przeżyć.
+
+it: Distruggi tutti i fantasmi alla fine del sentiero di croci.
+pl: Zniszcz wszystkie duchy na końcu szlaku krzyży.
+
+it: Prendi la pozione rossa.
+pl: Weź czerwoną miksturę.
+
+it: Dopo la fortunata campagna di Jaddua, Ghiron e Sartor decisero che era il momento giusto per attaccare di sorpresa Birsha nel suo accampamento. Quando tra il loro esercito e le truppe di Birsha non restava che l'ultimo passo di montagna, si fermarono a studiare l'attacco.
+pl: Po zwycięskiej kampanii w Jaddui Ghiron i Sartor uznali, że to równie dobra chwila jak każda inna, by zaskoczyć Birshę w jego obozie. Gdy między ich armią a wojskami Birshy pozostała już tylko ostatnia górska przełęcz, zatrzymali się i zastanowili nad atakiem.
+
+it: Grandi ricompense attendono chi segue i sentieri dei caduti e dà alle loro anime l'ultimo riposo.
+pl: Wielkie nagrody czekają na tych, którzy podążą szlakami poległych i dadzą ich duszom wieczny spoczynek.
+
+it: Sorgete, miei fedeli alleati! Finalmente sono invincibile!
+pl: Powstańcie, moi wierni sojusznicy! Wreszcie jestem niezwyciężony!
+
+it: Siamo all'ultima fase.
+pl: Nadszedł ostatni etap.
+
+it: La seconda fase è compiuta. Possiamo procedere.
+pl: Drugi etap dobiegł końca. Możemy kontynuować.
+
+it: La prima fase è completata.
+pl: Pierwszy etap zakończony.
+
+it: Possiamo cominciare il rito.
+pl: Możemy rozpocząć rytuał.
+
+it: Forza, uomini, uscite allo scoperto e schiacciamoli!
+pl: Dalej, chłopaki, wychodźcie, zmiażdżmy ich!
+
+it: Sono arrivato quasi all'accampamento di Birsha. Alla fine del passo ci sono solo poche guardie. Il suo esercito si è accampato e le truppe si addestrano. Non ci scopriranno in tempo.\nMa tra loro ho visto alcuni sacerdoti. Chi sono?
+pl: Dotarłem prawie do obozu Birshy. Na końcu przełęczy jest tylko kilku strażników. Jego armia rozbiła obóz. Wojska ćwiczą. Nie zauważą nas na czas.\nAle widziałem wśród nich kilku kapłanów. Kim oni są?
+
+it: Ahimè, le voci erano vere. Devono essere i Servi dell'Avidità di cui ho sentito parlare tempo fa. A quanto pare Birsha si è alleato con loro. Anche i loro maghi devono essere qui... Sì, li sento vicino al vulcano, dall'altra parte della montagna. Si preparano a evocare i loro terribili troll! Abbiamo al massimo due giorni. Dobbiamo sbrigarci!
+pl: Niestety, pogłoski się sprawdziły. To muszą być Słudzy Chciwości, o których słyszałem jakiś czas temu. Najwyraźniej Birsha się z nimi sprzymierzył. Ich czarodzieje też muszą tu być... Tak, wyczuwam ich przy wulkanie po drugiej stronie góry. Przygotowują się, by przywołać swoje straszliwe trolle! Mamy najwyżej dwa dni. Musimy się spieszyć!
+
+it: Aspettate, potrebbero cercare di ingannarci. Birsha non è uno sciocco. Deve aver lasciato andare di proposito i nostri esploratori e Sartor. Nel passo potrebbe esserci un'imboscata. Propongo di radunare un esercito più grande.
+pl: Czekajcie, może próbują nas oszukać. Birsha nie jest głupcem. Musiał celowo puścić naszych zwiadowców i Sartora. Na przełęczy może czekać zasadzka. Proponuję zebrać większą armię.
+
+it: E i troll?
+pl: A co z trollami?
+
+it: Una volta ho combattuto con un troll, e indovina chi ha vinto. Si possono distruggere. E poi possiamo comunque attaccare in meno di due giorni con un esercito più grande. Anche il libro magico potrebbe aiutarci.
+pl: Raz walczyłem z trollem i zgadnijcie, kto wygrał. Da się je zniszczyć. Poza tym wciąż możemy uderzyć w niecałe dwa dni z większą armią. Księga magii też może nam pomóc.
+
+it: Gli restano solo poche cariche.
+pl: Zostało w niej tylko kilka ładunków.
+
+it: Se decidiamo di attaccare subito, dovremmo usare l'altro passo. Si trova a ovest di qui. È più largo e meno adatto alle imboscate. Almeno potremo ritirarci senza pericolo.
+pl: Jeśli postanowimy zaatakować teraz, powinniśmy wybrać drugą przełęcz. Leży na zachód stąd. Jest szersza i mniej sprzyja zasadzkom. Przynajmniej będziemy mogli bezpiecznie się wycofać.
+
+# tzar.wcm::maps/saa11
+it: Mappa 8
+pl: Mapa 8
+
+it: I sacerdoti
+pl: Kapłani
+
+it: Avamposto
+pl: Placówka
+
+it: Druido delle acque
+pl: Druid wody
+
+it: Pozione del mago
+pl: Mikstura czarodzieja
+
+it: Congelamento
+pl: Zamrożenie
+
+it: Distruggi tutti i nemici della zona.\n\nWoolin, Sartor e Ghiron devono sopravvivere.
+pl: Zniszcz wszystkich wrogów w okolicy.\n\nWoolin, Sartor i Ghiron muszą przeżyć.
+
+it: Accompagna Ghiron dal suo amico.
+pl: Zaprowadź Ghirona do jego przyjaciela.
+
+it: Sconfitto Birsha, la strada per la capitale di Borgh, Wark Aven, era aperta. Prima dell'attacco Woolin insistette perché Sartor si occupasse prima dei posti di difesa esterni della città. L'entusiasmo spingeva Sartor ad agire con decisione, ma alla fine anche lui convenne che sarebbe stato sciocco lasciare in piedi gli avamposti di Borgh e restare intrappolati tra due forze nemiche quando l'esercito avesse marciato sulla città.
+pl: Gdy Birsha został pokonany, droga do stolicy Borgha, Wark Aven, stanęła otworem. Przed atakiem Woolin nalegał, by Sartor najpierw zajął się zewnętrznymi posterunkami obronnymi miasta. Zapał popychał Sartora do zdecydowanego działania, ale w końcu przyznał, że głupotą byłoby zostawić placówki Borgha nietknięte i dać się złapać między dwie wrogie siły, gdy ich armia ruszy na samo miasto.
+
+it: Mi aspettavo che saresti passato, vecchio amico. Le voci sulle nobili imprese tue e dei tuoi amici sono arrivate perfino a me. Che cosa posso fare per te?
+pl: Spodziewałem się, że wpadniesz, stary przyjacielu. Wieści o szlachetnych czynach twoich i twoich przyjaciół dotarły nawet do mnie. Co mogę dla ciebie zrobić?
+
+it: Ci conosciamo da molto tempo e non ti ho mai chiesto nulla, ma è giunto il momento di farlo. I miei poteri possono essere molto utili in battaglia, ma sono impotente quando i miei compagni hanno bisogno di cure. Odio vederli indebolirsi e morire.\nCi aspetta una battaglia feroce, una battaglia che deciderà le sorti di questa terra per secoli. Dobbiamo essere nelle migliori condizioni per affrontare ciò che verrà. Accetti di unirti alla nostra causa?
+pl: Znamy się od dawna i nigdy o nic cię nie prosiłem, ale nadszedł czas, by to zrobić. Moje moce mogą być bardzo przydatne w bitwie, ale jestem bezradny, gdy moi towarzysze potrzebują uzdrowienia. Nienawidzę patrzeć, jak słabną i umierają.\nZbliża się zacięta bitwa. Taka, która na wieki rozstrzygnie los tej krainy. Musimy być w doskonałej formie, by stawić czoło temu, co nadchodzi. Czy zgodzisz się przyłączyć do naszej sprawy?
+
+it: Be', credo di aver passato abbastanza tempo a pregare su questo scoglio. Tanto gli dei non mi hanno ascoltato. Da questo momento io e il mio apprendista siamo al tuo servizio. Vicino alla mia casa ci sono alcuni oggetti che potrebbero esservi utili.
+pl: Cóż, chyba spędziłem już dość czasu na modlitwach na tej skale. Bogowie i tak mnie nie słuchali. Od teraz mój uczeń i ja jesteśmy do twojej dyspozycji. Przy moim domu leży kilka przedmiotów, które mogą się wam przydać.
+
+it: Finalmente ci separa solo il fiume dalle mura di difesa esterne di Wark Aven. È ora di porre fine a questo terribile conflitto.
+pl: Wreszcie od zewnętrznego muru obronnego Wark Aven dzieli nas już tylko rzeka. Czas zakończyć ten straszny konflikt.
+
+it: Non è ancora finita. I nostri esploratori riferiscono che una grossa forza occupa l'isola nel fiume. Di certo la sostiene il villaggio sull'altra riva. L'unico modo per attraversare è passare sui ponti, ma sono collegati a quell'isola. E sono sicuro che presto arriveranno altri rinforzi da Wark Aven.
+pl: To jeszcze nie koniec. Nasi zwiadowcy donoszą, że duże siły zajmują wyspę na rzece. Z pewnością wspiera je wioska na drugim brzegu. Przeprawić się można tylko mostami, ale łączą się one z tą wyspą. Jestem też pewien, że wkrótce z Wark Aven przyślą kolejne posiłki.
+
+it: Un mio vecchio amico vive su uno scoglio nel lago a est. Potrebbe aiutarci nella nostra impresa. Purtroppo l'unico punto adatto per un porto è vicino all'isola. Forse dovremmo costruirne uno dopo aver ripulito la zona.
+pl: Mój stary przyjaciel mieszka na skale pośrodku jeziora na wschodzie. Może nam pomóc w naszym zadaniu. Niestety jedyne miejsce nadające się na port leży niedaleko wyspy. Może powinniśmy go zbudować, gdy oczyścimy tam okolicę.
+
+# tzar.wcm::maps/saa12
+it: Mappa 9
+pl: Mapa 9
+
+it: Profughi
+pl: Uchodźcy
+
+it: Castello di Borgh
+pl: Zamek Borgha
+
+it: Distruggi il castello di Borgh.\n\nWoolin, Sartor e Ghiron devono sopravvivere.
+pl: Zniszcz zamek Borgha.\n\nWoolin, Sartor i Ghiron muszą przeżyć.
+
+it: Dopo qualche breve scaramuccia, si trovarono davanti alle alte mura di Wark Aven. Sullo sfondo incombevano le torri scure del Castello del Male. Borgh aveva trasformato la città in un accampamento di guerra. Sartor e Woolin avevano deciso di attaccare di sorpresa da tre lati contemporaneamente. Contavano sull'appoggio della gente di Keana, che da molti giorni accorreva sotto le loro bandiere. Solo Ghiron continuava a ricordare che dovevano agire in fretta, prima che Borgh potesse rafforzare la sua posizione e prima che la gente perdesse la fiducia nella vittoria.
+pl: Po kilku krótkich potyczkach stanęli przed wysokimi murami Wark Aven. W tle majaczyły ciemne wieże Zamku Zła. Borgh zmienił miasto w obóz wojenny. Sartor i Woolin postanowili uderzyć z zaskoczenia z trzech stron jednocześnie. Liczyli na wsparcie ludu Keany, który od wielu dni ściągał pod ich sztandary. Tylko Ghiron wciąż im przypominał, że muszą działać szybko, zanim Borgh zdąży umocnić swoją pozycję i zanim lud straci wiarę w ich zwycięstwo.
+
+it: Credo che sia fuggito nel suo castello. Dobbiamo distruggerlo in fretta!
+pl: Chyba uciekł do swojego zamku. Musimy go szybko zniszczyć!
+
+it: Vedo una grande nave lasciare la città. A bordo c'è un grande male: una presenza che mi spaventa.
+pl: Widzę duży statek wypływający z miasta. Na pokładzie jest wielkie zło, obecność, która mnie przeraża.
+
+it: Borgh ha raccolto tutta la sua potenza. Ora dobbiamo combattere per la vita.
+pl: Borgh zebrał całą swoją potęgę. Teraz musimy walczyć o życie.
+
+it: Sono arrivati i primi rinforzi, ma perdiamo uomini troppo in fretta.
+pl: Przybyły pierwsze posiłki, ale za szybko tracimy ludzi.
+
+it: Vi prego, nobili soldati, aiutateci! Siamo pacifici mercanti venuti da lontano. Quando avete sfondato le difese esterne, le truppe di Borgh hanno cominciato a massacrare per le strade di Wark Aven ogni straniero «sospetto». Siamo riusciti a fuggire, ma le guardie alla porta ci hanno visti. Stanno radunando una squadra per inseguirci. In cambio possiamo aiutarvi nella vostra offensiva costruendo alcuni edifici comuni. Possiamo conquistare ciò che non sappiamo costruire.
+pl: Prosimy, szlachetni żołnierze, pomóżcie nam! Jesteśmy spokojnymi kupcami z dalekich stron. Gdy przełamaliście zewnętrzną obronę, wojska Borgha zaczęły mordować na ulicach Wark Aven każdego „podejrzanego” cudzoziemca. Zdołaliśmy uciec, ale strażnicy przy bramie nas zobaczyli. Właśnie zbierają oddział pościgowy. W zamian możemy wam pomóc w natarciu, stawiając kilka zwykłych budynków. Czego nie zbudujemy, to możemy zdobyć.
+
+it: Certo che vi salveremo, ma prima parlateci della città!
+pl: Oczywiście, że was ocalimy, ale najpierw opowiedzcie nam o mieście!
+
+it: C'è poco da dire: la città interna sembra un accampamento di guerra. È fortificata pesantemente e molte truppe si addestrano vicino al castello di Borgh. I maghi evocano golem di pietra. Borgh prepara un massiccio contrattacco per domattina.
+pl: Nie ma wiele do opowiadania: śródmieście wygląda jak obóz wojenny. Jest silnie umocnione, a przy zamku Borgha ćwiczy wiele wojsk. Magowie przywołują kamienne golemy. Borgh szykuje na jutro rano potężny kontratak.
+
+it: Ottimo, allora dobbiamo piantare qui il nostro accampamento e aspettare che venga!
+pl: Doskonale, w takim razie musimy rozbić tu obóz i czekać, aż przyjdzie!
+
+it: Attento, entro domattina non possiamo costruire un accampamento abbastanza forte da resistere ai suoi golem. Ci sottovaluta. Propongo di attaccare prima che raduni tutte le sue forze. Il suo potere è grande.
+pl: Ostrożnie, do jutra rana nie zbudujemy obozu na tyle silnego, by wytrzymał atak jego golemów. On nas nie docenia. Proponuję uderzyć, zanim zbierze wszystkie siły. Jego potęga jest wielka.
+
+it: Forza, l'attacco alla porta orientale è appena cominciato. Non dobbiamo lasciare soli i nostri compagni. Propongo di conquistare quel castello a nord. Sembra quasi indifeso. Che scegliamo di attaccare o di difenderci, ci sarà utile.
+pl: Chodźcie, atak na wschodnią bramę właśnie się zaczął. Nie możemy pozwolić, by nasi towarzysze walczyli sami. Proponuję zająć tamten zamek na północy. Wygląda na prawie niebroniony. Czy postanowimy atakować, czy się bronić, powinien nam się przydać.
+
+it: Facciamolo, allora!
+pl: Zatem do dzieła!
+
+# tzar.wcm::maps/saa3
+it: Mappa 1
+pl: Mapa 1
+
+it: Pattuglia
+pl: Patrol
+
+it: Esploratore
+pl: Zwiadowca
+
+it: Trova l'accampamento dei ribelli vicino alla vecchia strada e parla con Woolin.\nSartor e Ghiron devono sopravvivere.
+pl: Znajdź obóz buntowników przy starej drodze i porozmawiaj z Woolinem.\nSartor i Ghiron muszą przeżyć.
+
+it: Segui Woolin e tendi un'imboscata ai soldati nemici.\nWoolin, Sartor e Ghiron devono sopravvivere.
+pl: Idź za Woolinem i urządź zasadzkę na żołnierzy wroga.\nWoolin, Sartor i Ghiron muszą przeżyć.
+
+it: All'alba Sartor credeva a Ghiron e sapeva tutto delle guerre, di suo padre, re Roan, e della Sfera perduta. Era difficile per lui accettare che le persone che amava come genitori non fossero il suo vero padre e la sua vera madre, e che il destino del mondo dipendesse da lui. Si sentiva male ogni volta che ricordava ciò che i soldati di Borgh avevano fatto al suo villaggio. Ma Sartor sentiva che non poteva più tornare indietro.
+pl: O świcie Sartor wierzył już Ghironowi i wiedział wszystko o wojnach, o swoim ojcu, królu Roanie, i o zaginionej Sferze. Trudno mu było pogodzić się z tym, że ludzie, których kochał jak rodziców, nie byli jego prawdziwą matką i ojcem i że los świata zależy od niego. Robiło mu się niedobrze za każdym razem, gdy przypominał sobie, co żołnierze Borgha zrobili jego wiosce. Ale Sartor czuł, że nie ma już odwrotu.
+
+it: Jaddua - est.
+pl: Jaddua – wschód.
+
+it: Aspettate! Qui c'è qualcosa che non va... Sembra che i nostri compagni siano caduti in un'imboscata. Dobbiamo mandare un esploratore ad avvertire il capitano.
+pl: Czekajcie! Coś tu jest nie tak... Wygląda na to, że nasi towarzysze wpadli w zasadzkę. Musimy wysłać zwiadowcę, by powiadomił kapitana.
+
+it: Benvenuto nel mio accampamento, mio signore. Mi chiamo Woolin. Ero amico e consigliere di vostro padre.
+pl: Witaj w moim obozie, panie. Nazywam się Woolin. Byłem przyjacielem i doradcą twojego ojca.
+
+it: Spero che anche noi diventeremo amici, ora che combatteremo insieme. Che cosa avevate in mente di fare?
+pl: Mam nadzieję, że i my zostaniemy przyjaciółmi, skoro mamy razem walczyć. Co zamierzaliście zrobić?
+
+it: Preparavamo un'imboscata alle truppe nemiche di pattuglia. Si muovono in piccoli gruppi lungo il passaggio nella foresta.
+pl: Planowaliśmy zasadzkę na patrole wroga. Poruszają się małymi grupami przejściem przez las.
+
+it: Allora andiamo.
+pl: No to ruszajmy.
+
+it: D'accordo, dobbiamo tornare alla fossa che avete superato e proseguire verso est lungo la vecchia strada, così da intercettare le pattuglie nemiche e coglierle di sorpresa. Il punto più adatto è dove la strada è sbarrata, il più vicino al sentiero. Vi farò strada.
+pl: Dobrze, musimy wrócić do dołu, obok którego przechodziłeś, i iść dalej na wschód starą drogą, by przechwycić patrole wroga i zaskoczyć je. Najlepsze miejsce jest tam, gdzie droga jest zablokowana, najbliżej ścieżki. Poprowadzę cię.
+
+it: Perciò devi sconfiggere il malvagio Borgh e riunire di nuovo Keana.
+pl: Musisz więc pokonać złego Borgha i znów zjednoczyć Keanę.
+
+it: Ma come faccio? Ho sangue reale, ma chi mi seguirà?
+pl: Ale jak mam to zrobić? Mam królewską krew, ale kto pójdzie za mną?
+
+it: La gente è sfinita, Sartor. Alla morte di tuo padre seguirono guerre e sciagure. Il suo regno di pace è un ricordo prezioso. La gente seguirà chiunque prometta un futuro felice. Soprattutto se è il figlio di Roan.
+pl: Ludzie są wyczerpani, Sartorze. Po śmierci twojego ojca przyszły wojny i klęski. Jego pokojowe rządy to drogie wspomnienie. Ludzie pójdą za każdym, kto obieca im szczęśliwą przyszłość. Zwłaszcza jeśli będzie to syn Roana.
+
+it: Giusto, ma da dove cominciamo?
+pl: To prawda, ale od czego zacząć?
+
+it: Non è un caso che stanotte siamo qui. Ti ho portato in questa foresta perché qui sono di stanza i resti della guardia d'onore di tuo padre. Per tutti questi anni hanno combattuto contro la tirannia di Borgh. Li guida Woolin. Un tempo era il consigliere più fidato di tuo padre. Ci sta aspettando.
+pl: Nie jesteśmy tu dzisiejszej nocy przypadkiem. Przyprowadziłem cię do tego lasu, bo stacjonuje tu to, co zostało ze straży honorowej twojego ojca. Przez wszystkie te lata walczyli z tyranią Borgha. Dowodzi nimi Woolin. Był niegdyś najbardziej zaufanym doradcą twojego ojca. Czeka na nas.
+
+it: Come possiamo trovarlo?
+pl: Jak go znajdziemy?
+
+it: Proseguiremo lungo questo sentiero finché non troveremo una fossa profonda. Fa parte della campagna con cui vent'anni fa Borgh distrusse le strade che collegavano Keana e Jaddua. Da lì dovremo proseguire verso ovest lungo la vecchia strada e trovare uno degli avamposti abbandonati. Ora li usano i ribelli.
+pl: Pójdziemy tą ścieżką, aż znajdziemy głęboki dół. To część kampanii, w której Borgh dwadzieścia lat temu niszczył drogi łączące Keanę i Jadduę. Stamtąd musimy iść dalej na zachód starą drogą i odnaleźć jedną z opuszczonych placówek. Teraz korzystają z nich buntownicy.
+
+it: Allora sei il figlio di re Roan! Prosegui fino al fuoco del bivacco e parla con Woolin.
+pl: A więc jesteś synem króla Roana! Idź do ogniska i porozmawiaj z Woolinem.
+
+# tzar.wcm::maps/saa4
+it: Mappa 2
+pl: Mapa 2
+
+it: Spiriti maligni
+pl: Złe duchy
+
+it: Carri delle tasse
+pl: Wozy z podatkami
+
+it: Carro 2
+pl: Wóz 2
+
+it: Carro 1
+pl: Wóz 1
+
+it: Gli eroi devono parlare con l'anziano.
+pl: Bohaterowie muszą porozmawiać ze Starszym.
+
+it: Distruggi i non morti nel cimitero.
+pl: Zniszcz nieumarłych na cmentarzu.
+
+it: Riporta i tuoi eroi dall'anziano.
+pl: Zaprowadź bohaterów z powrotem do Starszego
+
+it: Distruggi la scorta dei carri delle tasse.
+pl: Zniszcz eskortę wozów z podatkami.
+
+it: Woolin, Ghiron e Sartor devono sopravvivere.
+pl: Woolin, Ghiron i Sartor muszą przeżyć.
+
+it: Proteggi gli abitanti del villaggio.
+pl: Chroń wieśniaków.
+
+it: Erano passate diverse settimane dal fortunato attacco alla pattuglia di Borgh. Woolin aveva recuperato la vecchia armatura di re Roan, chissà da dove, e Sartor faceva fatica ad abituarcisi. Ghiron aveva un piano e continuava a spronarli ad andare avanti. Viaggiavano tutto il giorno, e la sera Woolin e Ghiron raccontavano a Sartor la storia del mondo, di città meravigliose e di tempi in cui le guerre erano solo leggenda. A volte Woolin insegnava a Sartor a combattere con la spada e ad andare a cavallo. Altre volte Ghiron gli insegnava la pazienza e le buone maniere. Un giorno arrivarono in un piccolo villaggio, e dal sorriso di Ghiron Sartor capì che erano giunti a destinazione.
+pl: Minęło kilka tygodni od udanego ataku na patrol Borgha. Woolin zdobył, tylko on wiedział skąd, starą zbroję króla Roana, a Sartor z trudem się do niej przyzwyczajał. Ghiron miał plan i wciąż ich ponaglał. Podróżowali cały dzień, a wieczorem Woolin i Ghiron opowiadali Sartorowi o dziejach świata, o cudownych miastach i o czasach, gdy wojny były tylko legendą. Czasem Woolin uczył Sartora walki mieczem i jazdy konnej. Kiedy indziej Ghiron uczył go cierpliwości i dobrych manier. Pewnego dnia przybyli do małej wioski i po uśmiechu Ghirona Sartor poznał, że dotarli do celu.
+
+it: Ultima dimora - sud-est.
+pl: Miejsce wiecznego spoczynku – południowy wschód.
+
+it: Bene, uomini, voglio che ogni singola moneta di questo villaggio finisca nel mio carro! Che cosa aspetti, vecchio sciocco? Portami il bestiame!
+pl: No dobra, ludzie, chcę, żeby wszystkie monety z tej wioski co do jednej trafiły do mojego wozu! Na co czekasz, stary głupcze? Dawaj bydło!
+
+it: Perché invece non te ne vai dal mio villaggio e lasci qui i carri?
+pl: A może wyniesiesz się z mojej wioski i zostawisz tu wozy?
+
+it: COSA!!! Guardie, diamo una lezione a questo cane. Uccidetelo!
+pl: CO!!! Straż, dajmy temu kundlowi nauczkę. Zabić go!
+
+it: Vediamo chi uscirà vivo di qui. Venite fuori, dobbiamo ucciderli.
+pl: Zobaczymy, kto wyjdzie stąd żywy. Wychodźcie, musimy ich zabić.
+
+it: Grazie della tua bontà, Woolin! Come posso ripagare il mio debito con te o con i tuoi amici? Oh, perdonate questo vecchio sciocco, non mi hai presentato il giovane signore.
+pl: Dziękuję za twoją dobroć, Woolinie! Jak mogę spłacić dług wobec ciebie lub twoich przyjaciół? Och, wybacz staremu głupcowi, nie przedstawiłeś mi młodego pana.
+
+it: Sono Sartor, figlio di Roan. Io e i miei amici siamo qui per prendere l'oro dei carri delle tasse. Ci serve per liberare questa terra dal malvagio Borgh e restaurare il regno di mio padre. Abbiamo bisogno del vostro aiuto, buon uomo. Voi e alcuni dei vostri abitanti ci aiuterete?
+pl: Jestem Sartor, syn Roana. Moi przyjaciele i ja przybyliśmy, by zdobyć złoto z wozów z podatkami. Potrzebujemy go, by uwolnić tę krainę od złego Borgha i odbudować królestwo mojego ojca. Potrzebujemy twojej pomocy, dobry człowieku. Czy ty i kilku twoich wieśniaków nam pomożecie?
+
+it: Sarebbe magnifico se il nostro villaggio si liberasse di quegli sfrontati esattori. Ad ogni modo, non lo faremo solo per il nostro bene, ma anche perché il saggio regno del defunto re brilla ancora nella nostra memoria. C'è però un problema: i loro cavalieri sono troppo forti. Spero che con il vostro aiuto potremo sconfiggerli. Ora nascondete i vostri uomini e aspettate il mio segnale.
+pl: Wspaniale byłoby, gdyby nasza wioska pozbyła się bezczelnych poborców. Zresztą nie zrobimy tego tylko dla własnej korzyści, ale też dlatego, że mądre rządy zmarłego króla wciąż jasno świecą w naszej pamięci. Jest jednak problem: ich rycerze są za silni. Mam nadzieję, że z waszą pomocą zdołamy ich pokonać. Ukryjcie teraz swoich ludzi i czekajcie na mój znak.
+
+it: Non preoccuparti dei cavalieri, vecchio, non possono nulla contro la mia picca. Ora dobbiamo andare.
+pl: Nie martw się rycerzami, starcze, nie mają szans z moją piką. Musimy już iść.
+
+it: Oh, Woolin, che piacere vedere un amico in tempi così difficili!
+pl: Och, Woolinie, jak miło zobaczyć przyjaciela w tych niespokojnych czasach!
+
+it: Hai ragione come sempre, vecchio, ma dimmi: come mai sembri così triste?
+pl: Jak zwykle masz rację, starcze, ale powiedz mi, dlaczego wyglądasz na tak smutnego?
+
+it: Ahimè, come dicevo, i tempi sono duri. Non solo i carri delle tasse sono fermi poco lontano dal villaggio e arriveranno da un momento all'altro a prendersi il nostro ultimo oro e il bestiame, ma qualche giorno fa è anche accaduta una disgrazia.
+pl: Niestety, jak mówiłem, czasy są ciężkie. Nie dość, że wozy z podatkami stoją niedaleko wioski i lada godzina przyjadą zabrać nasze ostatnie złoto i bydło, to jeszcze kilka dni temu wydarzyło się nieszczęście.
+
+it: Dimmi che cosa è successo, vecchio amico!
+pl: Opowiedz mi, co się stało, stary przyjacielu!
+
+it: Sei giorni fa un gruppo di soldati di Borgh è uscito dalla foresta parlando di «una brutta imboscata» e di «vendicare i compagni». Quando mi hanno visto sembravano spaventati, ma uno di loro ha detto agli altri: «Questo contadino non ha l'aria di uno che guida truppe». Poi si sono infuriati e hanno impiccato al vecchio cimitero i primi due abitanti che hanno visto. Dopo quel fatto ho mandato vecchie armi a tutte le fattorie lontane e ho organizzato una guardia al ponte.
+pl: Sześć dni temu z lasu wyszła grupa żołnierzy Borgha, mówiąc o „paskudnej zasadzce” i o „zemście za towarzyszy”. Na mój widok wyglądali na przestraszonych, ale jeden z nich powiedział do pozostałych: „Ten chłop nie wygląda na takiego, co dowodzi wojskiem”. Potem wpadli we wściekłość i powiesili na starym cmentarzu dwóch pierwszych wieśniaków, których zobaczyli. Po tym zdarzeniu rozesłałem starą broń do wszystkich odległych gospodarstw i zorganizowałem straż przy moście.
+
+it: Mi dispiace sentirlo. Se posso fare qualcosa per aiutarti...
+pl: Przykro mi to słyszeć. Jeśli mogę w czymś pomóc...
+
+it: Non è tutto. Ora gli spiriti dei due abitanti infestano il cimitero. Stanno per risvegliare tutti i morti. Ti prego, Woolin, se distruggerai gli spiriti la maledizione sarà spezzata e io sarò in debito con te.
+pl: To nie wszystko. Duchy tych dwóch wieśniaków nawiedzają teraz cmentarz. Zaraz wskrzeszą wszystkich zmarłych. Proszę, Woolinie, jeśli zniszczysz duchy, klątwa zostanie zdjęta, a ja będę twoim dłużnikiem.
+
+it: Allora lo farò.
+pl: W takim razie to zrobię.
+
+it: Allora devi andare verso sud lungo la strada. Dopo aver passato il ponte vedrai un cartello che indica il cimitero. Va' nella direzione che indica.
+pl: Musisz więc iść drogą na południe. Za mostem zobaczysz drogowskaz wskazujący cmentarz. Idź w kierunku, który wskazuje.
+
+it: L'armatura di vostro padre vi sta proprio bene, Sire.
+pl: Zbroja twojego ojca całkiem dobrze na tobie leży, panie.
+
+it: Grazie, Woolin, ma ho ancora bisogno di allenarmi. Questa armatura è molto pesante...
+pl: Dziękuję, Woolinie, ale wciąż potrzebuję więcej ćwiczeń. Ta zbroja jest bardzo ciężka...
+
+it: Ehi, voi due, concentriamoci sul compito che abbiamo davanti. Dobbiamo catturare i carri delle tasse di Borgh. Non possiamo restaurare il castello di Keanor senza oro, giusto?
+pl: Hej, wy dwaj, skupmy się na zadaniu. Musimy zdobyć wozy Borgha z podatkami. Bez złota nie odbudujemy zamku Keanor, prawda?
+
+it: Pensi che ci sarà abbastanza oro su quei carri per aiutarci a restaurare il vecchio castello di Keanor?
+pl: Myślisz, że wiozą dość złota, by pomóc nam odbudować stary zamek Keanor?
+
+it: Sentite, conosco l'anziano del villaggio qui vicino, a sud-est. Lì possiede la locanda. Mi ha detto che le tasse sono altissime. Credo che sia così dappertutto, perciò non preoccupatevi per l'oro.
+pl: Słuchaj, znam Starszego z pobliskiej wioski, na południowy wschód stąd. Jest właścicielem tamtejszej gospody. Mówił mi, że podatki są niezwykle wysokie. Myślę, że wszędzie jest tak samo, więc nie martw się o złoto.
+
+it: Allora dobbiamo andare da lui a chiedere dei carri delle tasse.
+pl: W takim razie musimy się z nim zobaczyć i zapytać o wozy z podatkami.
+
+it: Andiamo, allora!
+pl: No to chodźmy!
+
+# tzar.wcm::maps/saa5
+it: Mappa 3
+pl: Mapa 3
+
+it: Esercito di Borgh
+pl: Armia Borgha
+
+it: Woolin, Sartor e Ghiron devono sopravvivere.
+pl: Woolin, Sartor i Ghiron muszą przeżyć.
+
+it: Distruggi le forze nemiche che attaccano la città.
+pl: Zniszcz wrogie siły atakujące miasto.
+
+it: Completa il castello e costruisci gli edifici più importanti.\n\nRicostruisci quante più difese puoi e raduna qualche truppa.
+pl: Ukończ zamek i zbuduj najważniejsze budynki.\n\nOdbuduj jak najwięcej umocnień i zbierz trochę wojska.
+
+it: Distruggi la forza minacciosa e tutte le truppe ostili rimaste nella zona.
+pl: Zniszcz zagrażające siły i wszystkie pozostałe wrogie wojska w okolicy.
+
+it: Il piano di Ghiron riuscì e i ribelli ottennero l'oro così importante per la loro causa. Felici e soddisfatti, partirono per Keanor. Nessuno si lamentava e la stanchezza sembrava svanita. Un mattino arrivarono in vista di Keanor e la loro gioia svanì di colpo. Davanti alle mura cadenti infuriava una battaglia. Pochi coraggiosi difensori cercavano di respingere l'attacco e di salvare quel poco che restava della città.
+pl: Plan Ghirona się powiódł i buntownicy zdobyli złoto tak ważne dla ich sprawy. Szczęśliwi i zadowoleni wyruszyli do Keanor. Nikt nie narzekał, a zmęczenie jakby zniknęło. Pewnego ranka ujrzeli Keanor i ich radość natychmiast przygasła. Przed kruszącymi się murami toczyła się bitwa. Garstka dzielnych obrońców próbowała odeprzeć atak i ocalić to niewiele, co zostało z miasta.
+
+it: Dobbiamo mandare qualche esploratore ad avvertirci quando le forze nemiche si avvicinano.
+pl: Musimy wysłać zwiadowców, by ostrzegli nas, gdy wrogie siły się zbliżą.
+
+it: La loro cavalleria si avvicina! Salvateci!
+pl: Nadciąga ich jazda! Ratujcie nas!
+
+it: Abbiamo vinto! Ora possiamo ricostruire il castello e la città.
+pl: Wygraliśmy! Teraz możemy odbudować zamek i miasto.
+
+it: Sì, e dobbiamo farlo in fretta. Ho visto il nemico distruggere le mura. Credo che lo facesse per far passare la cavalleria. Se è così, attaccheranno di certo presto.
+pl: Tak, i musimy zrobić to szybko. Widziałem, jak wróg niszczył mur. Myślę, że robili to, by przepuścić jazdę. Jeśli to prawda, z pewnością wkrótce zaatakują.
+
+it: Vedo che le mura sono danneggiate e che la città interna è in fiamme. Dobbiamo sbrigarci!
+pl: Widzę, że mur jest uszkodzony, a śródmieście płonie. Musimy się spieszyć!
+
+it: Ma che cosa è successo al fossato?
+pl: Ale co się stało z fosą?
+
+it: Nessuno poteva sprecarvi risorse. Ora è solo terra. Dentro si combatte ancora: dobbiamo cercare di salvare almeno un po' di contadini e di edifici, così da poter restaurare la città.
+pl: Nikt nie mógł przeznaczyć na nią środków. Teraz to tylko ziemia. W środku wciąż trwa walka; musimy spróbować ocalić przynajmniej kilku chłopów i budynki, żebyśmy mogli odbudować miasto.
+
+# tzar.wcm::maps/saa6
+it: Mappa 4
+pl: Mapa 4
+
+it: Nani
+pl: Krasnoludy
+
+it: Orchi
+pl: Orkowie
+
+it: Castello Valor
+pl: Zamek Valor
+
+it: Castello Dread
+pl: Zamek Dread
+
+it: Capo dei nani
+pl: Przywódca krasnoludów
+
+it: Protettore
+pl: Obrońca
+
+it: Woolin e Valor devono sopravvivere.\n\nDistruggi tutte le forze e gli edifici di Dread.
+pl: Woolin i Valor muszą przeżyć.\n\nZniszcz wszystkie wojska i budynki Dreada.
+
+it: Distruggi tutti gli orchi nelle paludi.
+pl: Zniszcz wszystkich orków na bagnach.
+
+it: Torna dal capo dei nani.
+pl: Wróć do przywódcy krasnoludów.
+
+it: Restaurata Keanor, Ghiron propose a Sartor di mandare Woolin nella regione dei Campi della Luna a spargere la voce del ritorno del figlio di re Roan e del restauro dell'antica capitale. Sartor sapeva che senza l'appoggio della gente di Keana la sua causa era perduta. Così un mattino Woolin prese con sé alcuni uomini e partì. Poco dopo si trovò davanti a Lord Valor.
+pl: Gdy Keanor zostało odbudowane, Ghiron zaproponował Sartorowi, by wysłał Woolina w okolice Księżycowych Pól i rozgłosił wieść o powrocie syna króla Roana i odbudowie dawnej stolicy. Sartor wiedział, że bez poparcia ludu Keany jego sprawa jest przegrana. Pewnego ranka Woolin wziął więc kilku ludzi i wyruszył. Wkrótce stanął przed lordem Valorem.
+
+it: Tutti gli orchi sono morti. Devo parlare di nuovo con il capo dei nani.
+pl: Wszyscy orkowie nie żyją. Muszę znów porozmawiać z przywódcą krasnoludów.
+
+it: Finalmente, ora che gli orchi sono stati uccisi, possiamo estrarre l'oro delle paludi. Ecco la vostra ricompensa: un oggetto magico di grande potere.
+pl: Wreszcie, teraz gdy orkowie zginęli, możemy wydobywać złoto na bagnach. Oto twoja nagroda: magiczny przedmiot o wielkiej mocy.
+
+it: Grazie, e buona fortuna con le nuove miniere.
+pl: Dziękuję i powodzenia w nowych kopalniach.
+
+it: Tieni il tuo dono e aiutami con i tuoi nani nella battaglia contro Lord Dread.
+pl: Zatrzymaj swój dar i pomóż mi ze swoimi krasnoludami w bitwie z lordem Dreadem.
+
+it: Tu e i tuoi amici vi siete dimostrati onorevoli, perciò ci uniremo alla vostra causa. Guidaci in battaglia!
+pl: Ty i twoi przyjaciele okazaliście się honorowi, więc przyłączymy się do waszej sprawy. Prowadź nas do bitwy!
+
+it: Che tu possa vincere la tua onorevole battaglia.
+pl: Oby powiodło ci się w twojej honorowej walce.
+
+it: Ti aiuterò, Lord Valor, ma prima devi farmi un favore. Le nostre miniere d'oro sono esaurite. Volevamo estrarre l'oro nelle paludi, ma sono arrivati gli orchi e vi hanno costruito il loro altare. Distruggili e ti ricompenserò generosamente. Alcuni di noi verranno con te. Torna qui quando avrai finito.
+pl: Pomogę ci, lordzie Valorze, ale najpierw musisz wyświadczyć mi przysługę. Nasze kopalnie złota się wyczerpały. Zamierzaliśmy wydobywać złoto na bagnach, ale przyszli orkowie i zbudowali tam swój ołtarz. Zniszcz ich, a sowicie cię wynagrodzę. Kilku z nas pójdzie z tobą. Wróć tu, gdy zadanie zostanie wykonane.
+
+it: Sono venuto a chiederti aiuto contro il malvagio Lord Dread, capo dei nani.
+pl: Przybyłem prosić cię o pomoc przeciw złemu lordowi Dreadowi, przywódco krasnoludów.
+
+it: Salve! Che cosa porta un gruppo così numeroso di guerrieri in queste terre?
+pl: Witajcie! Co sprowadza tak liczną grupę wojowników w te strony?
+
+it: Mi chiamo Woolin, capitano della guardia d'onore di re Sartor, e questi soldati fanno parte del suo esercito. Siamo qui per chiedere a Lord Valor di unirsi al nuovo re e per offrirgli protezione.
+pl: Nazywam się Woolin, jestem kapitanem straży honorowej króla Sartora, a ci żołnierze należą do jego armii. Przybyliśmy prosić lorda Valora, by przyłączył się do nowego króla i zaoferował mu ochronę.
+
+it: Allora ho trovato gli uomini giusti. Sono Lord Valor e stavo proprio andando a Keanor a chiedere aiuto al nuovo re. Che uomo è?
+pl: W takim razie trafiłem na właściwych ludzi. Jestem lord Valor i właśnie jechałem do Keanor prosić nowego króla o pomoc. Jakim on jest człowiekiem?
+
+it: È un uomo d'onore, come suo padre, re Roan. Sta ricostruendo l'antica capitale e la prepara ad affrontare l'esercito di Borgh. Ma ha bisogno di alleati di cui potersi fidare. Quasi tutti i signori con cui ho già parlato si sono uniti alla sua causa, e credo che il castello Valor non farà eccezione. Di che aiuto avete bisogno?
+pl: To człowiek honoru, jak jego ojciec, król Roan. Odbudowuje dawną stolicę i przygotowuje ją do walki z armią Borgha. Ale potrzebuje sojuszników, którym może zaufać. Większość panów, z którymi już rozmawiałem, przyłączyła się do jego sprawy, i wierzę, że zamek Valor nie będzie wyjątkiem. Jakiej pomocy potrzebujesz?
+
+it: Il mio vicino, Lord Dread, è appoggiato da Borgh. È diventato ricco e forte. È malvagio come tutti quelli che si uniscono a Borgh, e così ha cominciato a radunare un esercito per divorare i suoi vicini. Non posso difendere da solo la mia terra, perciò voglio chiedere al re di aiutarmi con il suo esercito. Ma sappiate questo: che mi aiuti o no, continuerò a essere il suo fedele alleato, e sono certo che quasi tutta la gente delle mie terre farà lo stesso. Abbiamo conosciuto il padre e possiamo fidarci del figlio!
+pl: Mój sąsiad, lord Dread, ma poparcie Borgha. Stał się bogaty i silny. Jest zły jak każdy, kto przyłącza się do Borgha, i zaczął zbierać armię, by pożreć sąsiadów. Sam nie obronię swoich ziem, dlatego chcę poprosić króla, by pomógł mi swoją armią. Ale wiedz jedno: czy mi pomoże, czy nie, pozostanę jego wiernym sojusznikiem i jestem pewien, że większość ludzi na moich ziemiach zrobi to samo. Znaliśmy ojca i możemy zaufać synowi!
+
+it: Riferirò le vostre parole al re. Intanto vi offro il mio aiuto personale e quello delle truppe che guido. Che cosa dobbiamo fare?
+pl: Przekażę twoje słowa królowi. Tymczasem oferuję ci moją osobistą pomoc i pomoc wojsk, którymi dowodzę. Co mamy robić?
+
+it: Prima dovete annunciare alla gente la mia decisione. Troverete cartelli che indicano le fattorie e i villaggi. Quando si saranno uniti a voi, le vostre truppe dovranno difendere il mio castello finché non avrò radunato un esercito. Nel frattempo cercherò di parlare con i nani. Sono accampati sulle montagne a sud. Forse potrebbero darci una mano.
+pl: Najpierw musisz ogłosić ludowi moją decyzję. Znajdziesz drogowskazy wskazujące gospodarstwa i wioski. Gdy ludzie się do was przyłączą, wasze wojska muszą bronić mojego zamku, dopóki nie zbiorę armii. Tymczasem spróbuję porozmawiać z krasnoludami. Obozują w górach na południu. Może zechcą nam pomóc.
+
+# tzar.wcm::maps/saa7
+it: Mappa 5
+pl: Mapa 5
+
+it: Accampamento
+pl: Obóz
+
+it: Woolin e Ghiron devono sopravvivere.
+pl: Woolin i Ghiron muszą przeżyć.
+
+it: Costruisci un porto e una flotta per trasportare le tue truppe.\n\nTrasporta a Keanor quante più truppe puoi per rafforzarne le difese.
+pl: Zbuduj port i flotę, by przewieźć swoje wojska.\n\nPrzewieź do Keanor jak najwięcej wojsk, by wzmocnić jego obronę.
+
+it: Distruggi le forze attaccanti.
+pl: Zniszcz atakujące siły.
+
+it: Distruggi l'accampamento nemico sulla riva occidentale del fiume.
+pl: Zniszcz obóz wroga na zachodnim brzegu rzeki.
+
+it: Cerca di impedire che Sartor venga catturato.
+pl: Spróbuj nie dopuścić do pojmania Sartora.
+
+it: Passarono i giorni. Keanor riacquistava lentamente lo splendore di un tempo, sbiadito negli ultimi anni. Woolin era ancora in missione nei Campi della Luna quando una notte Ghiron ebbe una visione. Borgh aveva deciso di sbarazzarsi di Sartor a ogni costo. Aveva mandato il suo miglior generale, Birsha, a soffocare la ribellione. Il suo esercito era il più grande che avesse mai calpestato queste terre. Ghiron andò a richiamare Woolin, lasciando Sartor a preparare le difese di Keanor. Sia Sartor sia Ghiron sapevano che senza l'aiuto di Woolin la sorte della città era segnata.
+pl: Mijały dni. Keanor powoli odzyskiwało dawną świetność, która w ostatnich latach przygasła. Woolin wciąż wypełniał swoją misję na Księżycowych Polach, gdy pewnej nocy Ghiron miał wizję. Borgh postanowił za wszelką cenę pozbyć się Sartora. Wysłał swojego najlepszego wodza, Birshę, by stłumił bunt. Jego armia była największą, jaka kiedykolwiek stąpała po tych ziemiach. Ghiron wyruszył po Woolina, zostawiając Sartorowi przygotowanie obrony Keanor. Zarówno Sartor, jak i Ghiron wiedzieli, że bez pomocy Woolina los miasta jest przesądzony.
+
+it: Spero che Keanor possa resistere all'attacco imminente.
+pl: Mam nadzieję, że Keanor wytrzyma nadchodzący atak.
+
+it: Sento la sete di sangue dell'esercito di Birsha. Stanno facendo gli ultimi preparativi. Non abbiamo molto tempo.
+pl: Czuję żądzę krwi armii Birshy. Czynią ostatnie przygotowania. Nie mamy wiele czasu.
+
+it: Aspetta! Sento che la flotta di Borgh si sta radunando nel fiume. L'attacco dev'essere previsto per domani.
+pl: Czekajcie! Czuję, że flota Borgha gromadzi się na rzece. Uderzenie musi być zaplanowane na jutro.
+
+it: Sento un grande esercito che circonda Keanor. Dobbiamo sbrigarci.
+pl: Wyczuwam wielką armię okrążającą Keanor. Musimy się spieszyć.
+
+it: Sartor è stato catturato. Dobbiamo aiutarlo.
+pl: Sartor został pojmany. Musimy mu pomóc.
+
+it: Non resterò qui ad aspettare la morte come un codardo. Cavalieri, avanti!
+pl: Nie będę tu czekał na śmierć jak tchórz. Rycerze, naprzód!
+
+it: Finalmente ti ho trovato, Woolin. Abbiamo bisogno di te e delle tue truppe nella capitale. Borgh le ha mandato contro il suo miglior generale, Birsha. Un esercito immenso attaccherà la città tra circa due giorni. Sartor non ha voluto andarsene. La capitale cadrà di certo se non intervieni. Nemmeno il fossato di difesa sarà finito.\nMa dove sono le tue truppe?
+pl: Wreszcie cię znalazłem, Woolinie. Potrzebujemy ciebie i twoich wojsk w stolicy. Borgh wysłał przeciw niej swojego najlepszego wodza, Birshę. Ogromna armia zaatakuje miasto za jakieś dwa dni. Sartor nie chciał odejść. Stolica z pewnością padnie, jeśli nie wkroczysz. Nawet obronny rów nie zostanie ukończony.\nAle gdzie są twoje wojska?
+
+it: Le ho lasciate nella provincia a proteggere i villaggi e i signori più deboli, finché non diventeranno più forti e non raduneranno truppe proprie. Ma non preoccuparti. Posso radunare un esercito più forte entro due giorni. Il vero problema è che possiamo trasportarlo in città solo lungo il fiume. Dobbiamo costruire un porto. Dobbiamo anche decidere se occuparci o no dell'avamposto di Borgh su questa riva del fiume. Distruggerlo potrebbe rallentarci troppo.
+pl: Zostawiłem je w prowincji, by chroniły słabe wioski i panów, dopóki nie okrzepną i nie zbiorą własnych wojsk. Ale nie martw się. W ciągu dwóch dni mogę zebrać silniejszą armię. Prawdziwy problem polega na tym, że do miasta możemy ją przewieźć tylko rzeką. Musimy zbudować port. Musimy też zdecydować, czy zająć się placówką Borgha po tej stronie rzeki, czy nie. Jej zniszczenie może nas zbyt opóźnić.
+
+# tzar.wcm::maps/saa8
+it: Mappa 5.1
+pl: Mapa 5.1
+
+it: Comandante dei soldati con mazza
+pl: Dowódca maczugników
+
+it: Comandante dei fanti
+pl: Dowódca piechurów
+
+it: Comandante dei lancieri
+pl: Dowódca pikinierów
+
+it: Comandante degli arcieri
+pl: Dowódca łuczników
+
+it: Comandante degli arcieri con arco lungo
+pl: Dowódca łuczników z długimi łukami
+
+it: Woolin e Ghiron devono sopravvivere.\n\nGhiron deve raggiungere Sartor.
+pl: Woolin i Ghiron muszą przeżyć.\n\nGhiron musi dotrzeć do Sartora
+
+it: Woolin, Sartor e Ghiron devono sopravvivere.\n\nI tuoi eroi devono raggiungere il passaggio segreto.
+pl: Woolin, Sartor i Ghiron muszą przeżyć.\n\nTwoi bohaterowie muszą dotrzeć do tajnego przejścia.
+
+it: Respinto l'attacco di Birsha, a Keanor regnava una grande inquietudine. Il pericolo immediato per la città era scongiurato, ma Sartor era stato catturato. Dai villaggi di montagna vicini continuava ad arrivare gente in città. La sera, nelle taverne, raccontava a tutti storie spaventose su Birsha e sui resti del suo esercito. Si era ritirato sulle montagne ad aspettare rinforzi e le sue truppe terrorizzavano tutta la zona. Woolin non aveva abbastanza soldati per attaccare Birsha, e le montagne ripide e i passi stretti rendevano il suo accampamento una fortezza inespugnabile. Un mattino il sole sorse su una Keanor senza Ghiron e Woolin. Nessuno sapeva dove fossero.
+pl: Po odparciu ataku Birshy w Keanor zapanował wielki niepokój. Bezpośrednie zagrożenie dla miasta minęło, ale Sartor został pojmany. Ludzie z pobliskich górskich wiosek wciąż napływali do miasta. Wieczorami w karczmach opowiadali wszystkim straszne historie o Birshy i resztkach jego armii. Wycofał się w góry, by czekać na posiłki, a jego wojska terroryzowały całą okolicę. Woolin nie miał dość żołnierzy, by zaatakować Birshę, a strome góry i wąskie przełęcze czyniły z jego obozu niezdobytą twierdzę. Pewnego ranka słońce wzeszło nad Keanor, w którym nie było Ghirona ani Woolina. Nikt nie wiedział, gdzie są.
+
+it: Grazie, amico, sapevo che saresti venuto a liberarmi. Dobbiamo tornare in fretta al passaggio segreto da cui sei venuto: tutto l'accampamento è in allarme.
+pl: Dziękuję, przyjacielu, wiedziałem, że przyjdziesz mnie uwolnić. Musimy szybko wrócić do tajnego przejścia, którym przyszedłeś: cały obóz jest w pogotowiu.
+
+it: Non lasciate che il cavaliere raggiunga l'accampamento!
+pl: Nie pozwól, by rycerz dotarł do obozu!
+
+it: Sartor è nell'angolo nord-ovest dell'accampamento, comandante. Ma se andiamo dritti da lui, metteremo in allarme tutto l'accampamento. Propongo di aggirare l'accampamento da est. Così potremmo incontrare solo pattuglie di arcieri e di cavalieri. Dobbiamo ucciderli in fretta e in silenzio, perché non diano l'allarme all'esercito.
+pl: Sartor jest w północno-zachodnim rogu obozu, dowódco. Ale jeśli pójdziemy prosto do niego, zaalarmujemy cały obóz. Proponuję obejść obóz od wschodu. Wtedy może natkniemy się tylko na patrole łuczników i rycerzy. Musimy ich zabić szybko i po cichu, żeby nie mogli zaalarmować armii.
+
+it: Hai ragione. Non dobbiamo mettere in allarme tutto l'accampamento. Questo passaggio segreto ha nascosto il nostro arrivo, ma non possiamo usarlo di nuovo finché non ci ritiriamo.
+pl: Masz rację. Nie możemy zaalarmować całego obozu. To tajne przejście osłoniło nasze podejście, ale nie użyjemy go ponownie aż do odwrotu.
+
+it: In tal caso dobbiamo uccidere le guardie a nord-est di qui. Poi dobbiamo proseguire verso nord fino all'antico scheletro di un animale gigantesco. Tengono Sartor in un luogo a ovest di lì, dietro il fuoco del comandante. Forse dovremo uccidere anche loro.
+pl: W takim razie musimy zabić strażników na północny wschód stąd. Potem musimy iść na północ, aż dotrzemy do prastarego szkieletu olbrzymiego zwierzęcia. Trzymają Sartora w miejscu na zachód od niego, za ogniskiem dowódcy. Może będziemy musieli zabić i ich.
+
+it: Ricorda, devo liberare Sartor io stesso, perché proteggerlo è mio compito.
+pl: Pamiętajcie, muszę sam uwolnić Sartora, bo to ja odpowiadam za jego ochronę.
+
+# tzar.wcm::maps/saa9
+it: Mappa 6
+pl: Mapa 6
+
+it: Villaggio dell'isola
+pl: Wyspiarska wioska
+
+it: Castello Daring
+pl: Zamek Daring
+
+it: Zhef deve rubare il libro e riportarlo a Ghiron entro mezza giornata.
+pl: Zhef musi ukraść księgę i oddać ją Ghironowi w ciągu pół dnia.
+
+it: Distruggi tutti i nemici della zona.
+pl: Wszyscy wrogowie w okolicy muszą zostać zniszczeni.
+
+it: Birsha non aveva mai conosciuto la sconfitta in vita sua. E non aveva rinunciato al proposito di devastare Keanor. Mentre i resti del suo esercito sbaragliato saccheggiavano le campagne, se ne stava seduto davanti al fuoco, assorto nei suoi piani. Le notizie erano buone. Presto sarebbero arrivati i rinforzi, e allora Sartor non avrebbe avuto scampo. Birsha bramava di avere Sartor prigioniero nel suo accampamento, ma era solo un'illusione.\nIn quello stesso momento uno straniero avvolto in un mantello nero giunse a Keanor. Dalle porte della città si diresse dritto al castello di Keanor e chiese di poter parlare con Ghiron. Poco dopo il loro incontro, Ghiron chiamò Woolin e Sartor e riferì loro ciò che aveva saputo. L'uomo in nero era una spia, una delle migliori mai esistite. Si chiamava Zhef e portava notizie terribili. I rinforzi di Birsha erano già in marcia, ma il peggio si trovava nel porto di Jaddua. Anche un mago malvagio con il suo libro degli incantesimi era in viaggio verso Birsha. Ai ribelli non restava che mandare Zhef ad assassinare il mago e a prendergli il libro degli incantesimi, oppure cercare l'alleanza dei signori delle città vicine.
+pl: Birsha nie zaznał w życiu porażki. I nie porzucił zamiaru obrócenia Keanor w perzynę. Podczas gdy resztki jego rozbitej armii pustoszyły okolicę, on siedział zamyślony przy ognisku i knuł. Wieści były dobre. Wkrótce miały nadejść posiłki, a wtedy Sartor nie miałby żadnych szans. Birsha marzył, by mieć Sartora jako jeńca w swoim obozie, ale było to tylko złudzenie.\nW tym samym czasie do Keanor przybył nieznajomy w czarnym płaszczu. Od bram miasta skierował się prosto do zamku Keanor i zażądał rozmowy z Ghironem. Wkrótce po ich spotkaniu Ghiron wezwał Woolina i Sartora i opowiedział im, czego się dowiedział. Człowiek w czerni był szpiegiem, jednym z najlepszych, jacy kiedykolwiek żyli. Nazywał się Zhef i przynosił straszne wieści. Posiłki Birshy były już w drodze, ale najgorsze czekało w porcie Jaddui. Zły mag ze swoją księgą zaklęć także zmierzał do Birshy. Buntownikom nie pozostawało nic innego, jak wysłać Zhefa, by zabił maga i zabrał mu księgę zaklęć, albo szukać sojuszu z panami sąsiednich miast.
+
+it: È passata mezza giornata! Ormai non possiamo prendere il libro.
+pl: Minęło pół dnia! Teraz nie możemy już zabrać księgi.
+
+it: Se Zhef fallisce, dobbiamo spostarci sull'isola di Lord Daring. Spero che manterrà la parola.
+pl: Jeśli Zhefowi się nie powiedzie, musimy przenieść się na wyspę lorda Daringa. Mam nadzieję, że dotrzyma słowa.
+
+it: Lord Daring, temo che dobbiamo procedere come previsto. Dobbiamo uccidere ogni singolo nemico in città. Di certo useranno contro di noi quel terribile incantesimo.
+pl: Lordzie Daringu, obawiam się, że musimy postąpić zgodnie z planem. Musimy zabić w mieście wszystkich wrogów co do jednego. Z pewnością użyją przeciw nam tego strasznego zaklęcia.
+
+it: Potete usare le risorse della mia isola per costruire una flotta e radunare un esercito. Ho sempre amato Jaddua e non voglio vederla in rovina, ma più ancora vorrei vedere la nostra terra libera dalla tirannia. Attenti all'armata di Borgh. Potrebbe tornare in città da un momento all'altro.
+pl: Możecie użyć zasobów mojej wyspy, by zbudować flotę i zebrać armię. Zawsze lubiłem Jadduę i nie chcę widzieć jej w ruinie, ale jeszcze bardziej chciałbym widzieć naszą ziemię wolną od tyranii. Strzeżcie się armady Borgha. W każdej chwili może wrócić do miasta.
+
+it: Come potrei rifiutarmi di compiere un'impresa così nobile per un vecchio amico? Ti porterò il libro degli incantesimi, Ghiron.
+pl: Jakże mógłbym odmówić staremu przyjacielowi tak szlachetnego czynu? Przyniosę ci księgę zaklęć, Ghironie.
+
+it: Mi conosci, il libro non mi serve per me. Mi serve perché, se cadrà nelle mani di Birsha nel suo accampamento di montagna, la nostra causa sarà perduta. Con questo potente incantesimo e i nuovi rinforzi, l'esercito di Borgh potrà schiacciare ogni resistenza.
+pl: Znasz mnie, nie potrzebuję tej księgi dla siebie. Potrzebuję jej, bo jeśli wpadnie w ręce Birshy w jego górskim obozie, nasza sprawa będzie stracona. Z tym potężnym zaklęciem i nowymi posiłkami armia Borgha zdoła zmiażdżyć wszelki opór.
+
+it: Non preoccuparti, vecchio amico, ti porterò il libro.
+pl: Nie martw się, stary przyjacielu, zdobędę dla ciebie księgę.
+
+it: Devi farlo con estrema prudenza. Per le strade di Jaddua ci sono molte spie al servizio di Borgh. Se una sola di loro ti riconosce sei perduto, ora che i rinforzi sono in città. Non uccidere troppe guardie: la loro assenza verrebbe notata di certo.\nTi consiglio di aspettare qualcuno sulla strada a ovest e di prenderne l'aspetto. Poi entra dalla porta a cui porta quella strada. Lì non ci sono spie.\nIl libro è nella torre dei maghi sull'isola, vicino alla parte nord-ovest della città. Dovrai attraversare il fiume per arrivarci.
+pl: Musisz działać z najwyższą ostrożnością. Na ulicach Jaddui wielu szpiegów pracuje dla Borgha. Jesteś zgubiony, jeśli którykolwiek z nich cię rozpozna, teraz gdy posiłki są w mieście. Nie zabijaj zbyt wielu strażników. Ich brak z pewnością zostałby zauważony.\nProponuję, byś zaczaił się na kogoś na drodze na zachodzie i przybrał jego postać. Potem wejdź przez bramę, do której prowadzi ta droga. Nie ma tam szpiegów. \nKsięga jest w wieży magów na wyspie, blisko północno-zachodniej części miasta. Będziesz musiał przeprawić się przez rzekę, by tam dotrzeć.
+
+it: E ricorda, molte vite dipendono dalla riuscita della tua missione. Jaddua è una città pacifica, ma se non ci riuscirai saremo costretti a entrarvi con la forza. Morirà molta gente che non sopporta l'esercito di Borgh in città, per non parlare delle nostre truppe. Hai mezza giornata prima che le spie di Borgh prendano il pieno controllo della città. Devi andartene prima di allora. Buona fortuna: contiamo su di te.
+pl: I pamiętaj, od powodzenia twojej misji zależy wiele istnień. Jaddua to spokojne miasto, ale jeśli ci się nie uda, będziemy zmuszeni wkroczyć do niego siłą. Zginie wielu ludzi, którym nie w smak obecność armii Borgha w mieście, nie mówiąc o naszych własnych wojskach. Masz pół dnia, zanim szpiedzy Borgha przejmą pełną kontrolę nad miastem. Musisz odejść wcześniej. Powodzenia, liczymy na ciebie.
+
+# tzar.wcm::maps/v_00
+it: L'inizio
+pl: Początek
+
+it: Zio Brian
+pl: Wuj Brian
+
+it: Matteo
+pl: Matthew
+
+it: Il Male è sempre esistito. E non si è mai stancato di tentare di impadronirsi del mondo degli uomini. Invisibile e insidioso, ha conquistato il cuore degli uomini, trasformando i più coraggiosi in codardi. E i giusti in tiranni. Durante una delle ultime guerre, durata centinaia di anni, la forza disumana fu sul punto di vincere. Poi, quando tutto sembrava perduto, nacque un grande mago. Con l'aiuto del suo immenso potere l'uomo riuscì a salvare il suo mondo, sacrificando molte vite lungo il cammino.\nMa il Grande Mago era già vecchio e i suoi giorni in questo mondo erano contati. Mise tutto il potere che gli restava nella creazione di una sfera di cristallo. Poi affidò la Sfera ai re di Keanor, perché con il suo aiuto potessero tenere il Male lontano dal mondo degli uomini.\nPassarono migliaia di anni e nacque un altro grande mago. Il suo cuore, però, era marcio. Rubò la Sfera dal castello di Keanor, sperando di servirsene per conquistare il mondo. I maghi fedeli al re non erano abbastanza forti per recuperare la Sfera, ma riuscirono a maledire il mago malvagio: si sarebbe tramutato in pietra nel momento stesso in cui avesse tentato di usare i poteri della Sfera. Né del mago né della Sfera si seppe più nulla.\nCiò significava, però, che non restava più nulla a impedire al Male di entrare nel mondo. Molti morirono cercando la Sfera perduta. Ma non la cercavano solo gli uomini buoni. Lo stesso Signore del Male mandò i suoi messia a trovare la Sfera e a portargliela. Seguirono guerre, una più terribile dell'altra. Non passò molto tempo prima che il mondo fosse conquistato da tiranni e da sovrani senza onore. Il loro cuore e la loro mente erano schiavi del Male, e ne erano i servi più fedeli.\nDopo anni di guerre devastanti, la terra di Keana si sottomise infine agli eserciti di Borgh, il più spietato dei sovrani che avesse mai calcato la terra. In una delle ultime battaglie, la battaglia di Keanor, cadde lo stesso re Roan. Ma il re aveva un figlio, ancora in fasce. L'ultimo mago superstite del re, il vecchio Ghiron, riuscì a fuggire di nascosto dalle rovine di Keanor con l'erede. Dopo un faticoso viaggio di molti giorni, Ghiron giunse in un villaggio isolato. Lasciò il piccolo Sartor sulla soglia della casa di un povero contadino. Poi se ne andò...
+pl: Zło istniało od zawsze. I nigdy nie ustawało w staraniach, by przejąć władzę nad światem ludzi. Niewidzialne i podstępne, podbijało ludzkie serca, czyniąc z najdzielniejszych tchórzy. A ze sprawiedliwych tyranów. Podczas jednej z ostatnich wojen, która trwała setki lat, nieludzka siła omal nie zwyciężyła. Wtedy, gdy wszystko wydawało się stracone, narodził się wielki czarodziej. Dzięki jego niezwykłej mocy człowiek zdołał ocalić swój świat, choć kosztem wielu istnień.\nAle Wielki Czarodziej był już stary, a jego dni na tym świecie były policzone. Całą moc, jaka mu pozostała, włożył w stworzenie kryształowej sfery. Potem powierzył Sferę pieczy królów Keanor, by z jej pomocą trzymali zło z dala od świata ludzi.\nMinęły tysiące lat i narodził się kolejny wielki czarodziej. Jego serce było jednak zepsute. Ukradł Sferę z zamku Keanor w nadziei, że posłuży mu do zdobycia władzy nad światem. Magowie wierni królowi nie byli dość silni, by odzyskać Sferę, ale zdołali rzucić klątwę na złego czarodzieja. Miał zamienić się w kamień w chwili, gdy spróbuje użyć mocy Sfery. Ani o czarodzieju, ani o Sferze nikt więcej nie usłyszał.\nOznaczało to jednak, że nic już nie powstrzymywało zła przed wkroczeniem do świata. Wielu zginęło, szukając zaginionej Sfery. Ale nie tylko dobrzy ludzie jej szukali. Sam Władca Zła wysłał mesjaszy, by odnaleźli Sferę i przynieśli mu ją. Nastały wojny, jedna straszniejsza od drugiej. Niedługo potem świat został podbity przez tyranów i władców bez honoru. Ich serca i umysły były w niewoli zła, a oni byli jego najwierniejszymi sługami.\nPo latach niszczycielskich wojen kraina Keana w końcu uległa armiom Borgha, najbardziej bezwzględnego władcy, jaki kiedykolwiek chodził po ziemi. W jednej z ostatnich bitew, bitwie o Keanor, poległ sam król Roan. Ale król miał syna, jeszcze niemowlę. Ostatni żyjący czarodziej króla, stary Ghiron, zdołał wymknąć się z ruin Keanor z dziedzicem. Po wyczerpującej, wielodniowej podróży Ghiron przybył do odludnej wioski. Zostawił małego Sartora na progu domu ubogiego rolnika. Potem odszedł...
+
+it: Porta Sartor alla fattoria di suo zio Brian. Sartor deve sopravvivere.
+pl: Zaprowadź Sartora do gospodarstwa jego wuja Briana. Sartor musi przeżyć.
+
+it: Ma li hai uccisi tu? Chi sei?
+pl: Ale zabiłeś ich? Kim jesteś?
+
+it: Felice di rivederti, Sartor. Sono Ghiron. E sì, li ho uccisi io. Vieni con me.
+pl: Miło cię znów widzieć, Sartorze. Jestem Ghiron. I tak, zabiłem ich. Chodź ze mną.
+
+it: Ghiron? Rivedermi? Non ti ho mai visto prima, Ghiron. Aspetta! Sei forse... un mago?
+pl: Ghiron? Znów widzieć? Nigdy cię nie widziałem, Ghironie. Czekaj! Czy ty jesteś... czarodziejem?
+
+it: Sì, sono un mago. Uno buono. Eh, eh! Ora vieni con me.
+pl: Tak, jestem czarodziejem. Dobrym. He, he! A teraz chodź ze mną.
+
+it: Per gli dei! I maghi non esistono. Esistono solo nelle fiabe, vero? Dimmi che ho ragione.
+pl: Na bogów! Czarodzieje nie istnieją. Są tylko w bajkach, prawda? Powiedz, że mam rację.
+
+it: Mi dispiace, Sartor, ma ti sbagli. Ti sembro forse l'eroe di una fiaba? Ho lasciato Keanor appena ho capito che Borgh ti stava cercando. Ma non sono stato abbastanza veloce. Mi dispiace. Ora vieni con me. Ho una storia da raccontarti.
+pl: Przykro mi, Sartorze, ale się mylisz. Czy wyglądam na bohatera z bajki? Opuściłem Keanor, gdy tylko zrozumiałem, że Borgh cię szuka. Ale nie byłem dość szybki. Wybacz. Chodź teraz ze mną. Mam ci do opowiedzenia pewną historię.
+
+it: Maledizione! Sono arrivato tardi di nuovo. Fatti da parte, ragazzo!
+pl: Do licha! Znów się spóźniłem. Odsuń się, chłopcze!
+
+it: Bene! Ora portatemi il ragazzo! Muovetevi, maiali!
+pl: Dobrze! A teraz przyprowadźcie mi chłopaka! Ruszać się, świnie!
+
+it: Zio Brian! Sono preoccupato. Che cosa è successo? Perché la nostra fattoria è in fiamme?
+pl: Wuju Brianie! Martwię się. Co się stało? Dlaczego nasze gospodarstwo płonie?
+
+it: Ora ascoltami, ragazzo mio! Devi fuggire. Subito! Lo sapevo! Sapevo che un giorno sarebbero venuti a prenderti. Salvati, Sartor. Scappa!
+pl: Posłuchaj mnie, chłopcze! Musisz uciekać. Natychmiast! Wiedziałem! Wiedziałem, że kiedyś po ciebie przyjdą. Ratuj się, Sartorze. Uciekaj!
+
+it: Ma che cosa è successo? Per gli dei, sei ferito! Lascia che ti aiuti. Corro a chiamare il guaritore del villaggio. Torno subito. Aspetta solo un momento.
+pl: Ale co się stało? Na bogów, jesteś ranny! Pozwól, że ci pomogę. Pobiegnę po wiejskiego uzdrowiciela. Zaraz wrócę. Poczekaj chwilę.
+
+it: Salute, Sartor!
+pl: Witaj, Sartorze!
+
+it: Ciao, amico mio. Che cosa succede?
+pl: Witaj, przyjacielu. Co się dzieje?
+
+it: Succede? Non lo so. Me ne sto qui seduto a guardare gli alberi. Quest'anno sono proprio belli.
+pl: Co się dzieje? Nie wiem. Siedzę tu sobie i patrzę na drzewa. W tym roku są naprawdę piękne.
+
+it: Ciao, Sartor. Lo sai che tutto il villaggio ti sta cercando? Che cosa succede?
+pl: Cześć, Sartorze. Wiesz, że cała wioska cię szuka? Co się dzieje?
+
+it: Non so che cosa succede, speravo che me lo dicessi tu.
+pl: Nie wiem, co się dzieje, miałem nadzieję, że ty mi powiesz.
+
+it: Non posso dirti molto. Stamattina ho visto degli uomini strani scendere lungo la strada. Hanno chiesto di tuo zio e io gli ho detto di andare a nord-ovest. Chi erano?
+pl: Niewiele mogę ci powiedzieć. Dziś rano widziałem jakichś dziwnych ludzi schodzących drogą. Pytali o twojego wuja, a ja powiedziałem im, żeby szli na północny zachód. Kim oni byli?
+
+it: Oh, non ne ho proprio idea. Ci vediamo dopo. Devo andare.
+pl: Och, naprawdę nie mam pojęcia. Na razie. Muszę iść.
+
+it: Sartor, ti stanno cercando tutti. Dov'eri finito?
+pl: Sartorze, wszyscy cię szukają. Gdzie byłeś?
+
+it: Mio zio Brian mi ha mandato a tagliare un po' di legna. Che cosa succede?
+pl: Wuj Brian wysłał mnie po drewno. Co się dzieje?
+
+it: Che cosa sta succedendo? Che cosa c'è che non va?
+pl: Co się dzieje? Co jest nie tak?
+
+it: Non lo so, ma credo che faresti meglio a sbrigarti.
+pl: Nie wiem, ale chyba lepiej się pospiesz.
+
+it: Ciao, Matteo. Che cosa ci fai qui? Credevo che stessi aiutando tuo padre a riparare il tetto della fattoria.
+pl: Cześć, Matthew. Co tu robisz? Myślałem, że pomagasz ojcu naprawiać dach w gospodarstwie.
+
+it: Sartor, sbrigati! Mi manda tuo zio Brian. Voleva parlarti. Devi andare.
+pl: Sartorze, pospiesz się! Przysłał mnie twój wuj Brian. Chciał z tobą porozmawiać. Musisz iść.
+
+it: Cosa? Che cosa succede? Che cosa c'è che non va?
+pl: Co? Co się dzieje? Co jest nie tak?
+
+it: Non lo so, Sartor. Mi è sembrato molto turbato. È successo qualcosa. Non so molto. Sbrigati e basta.
+pl: Nie wiem, Sartorze. Myślę, że był naprawdę wzburzony. Coś się stało. Niewiele wiem. Po prostu się pospiesz.
+
+it: Oh, sono stanco, ragazzi. Non so perché lo zio Brian mi abbia mandato qui. Abbiamo legna a sufficienza per l'inverno.
+pl: Och, jestem zmęczony, chłopaki. Nie wiem, czemu wuj Brian mnie tu przysłał. Mamy dość drewna na zimę.
+
+it: Anch'io sono stanco. Sartor, tuo zio è un brav'uomo.
+pl: Ja też jestem zmęczony. Sartorze, twój wuj to dobry człowiek.
+
+it: Credo che dovremmo riposarci.
+pl: Myślę, że powinniśmy odpocząć.
+
+it: No, amici. Lasciatemi finire anche quest'albero. Qualcuno ha portato il pranzo?
+pl: Nie, przyjaciele. Pozwólcie, że skończę jeszcze to drzewo. Czy ktoś przyniósł obiad?
+
+it: Sì, io. Prendete le asce, ragazzi. Non resta molto da fare.
+pl: Tak, ja. Bierzcie siekiery, chłopaki. Niewiele już zostało.
+
+# tzar.wcm::maps/v_01
+it: Le isole di Allita
+pl: Wyspy Allity
+
+it: Navi
+pl: Statki
+
+it: Distruggi il castello nella regione settentrionale dell'isola di Ses di Allita. Sartor, Ghiron e Woolin devono sopravvivere.
+pl: Zniszcz zamek w północnej części wyspy Ses Allity. Sartor, Ghiron i Woolin muszą przeżyć.
+
+it: Sartor deve parlare con il messaggero di Rea di Allita (il cavaliere giallo sulla costa meridionale di Ses di Allita).
+pl: Sartor musi porozmawiać z posłańcem z Rei Allity (Żółtym Rycerzem na południowym wybrzeżu Ses Allity).
+
+it: Sartor deve incontrare Vardal. Vardal si trova nella regione sud-occidentale di Rea di Allita.
+pl: Sartor musi spotkać się z Vardalem. Vardal znajduje się w południowo-zachodniej części Rei Allity.
+
+it: Il viaggio fu lunghissimo. Avevano perso il conto dei giorni e si erano abituati all'oceano senza fine. A poco a poco il tempo cambiò. Cominciarono a soffiare venti caldi e il sole sembrava bruciare ancora più crudelmente. All'improvviso davanti a loro apparve la terra. Erano le isole di Allita.
+pl: Podróż była bardzo długa. Stracili rachubę dni i przywykli do bezkresnego oceanu. Stopniowo pogoda się zmieniała. Zaczęły wiać ciepłe wiatry, a słońce zdawało się palić coraz okrutniej. Nagle przed nimi wyłonił się ląd. Były to Wyspy Allity.
+
+it: AH! Ci incontriamo di nuovo. Sapevo che saresti venuto. Lo sapevo come so che alla notte segue il giorno. Allora hai capito che ci sono altre terre che dipendono da Keana? Sapevo che eri un ragazzo sveglio, Sartor.
+pl: HA! Znów się spotykamy. Wiedziałem, że przyjdziesz. Wiedziałem to tak, jak wiem, że po dniu następuje noc. A więc zrozumiałeś, że są inne krainy, które zależą od Keany? Wiedziałem, że jesteś bystrym chłopakiem, Sartorze.
+
+it: Che diavolo vuoi, Vardal? Chi sei? Questa è la TUA isola, no? E come puoi stare qui a chiacchierare mentre il malvagio Borgh distrugge la tua città? Perché te ne stai seduto a guardare gli schiavi di Borgh massacrare la tua gente? Sei un mostro o cosa? Se è una trappola, non mi arrenderò! Combatterò fino all'ultima goccia di sangue.
+pl: Czego ty, do diabła, chcesz, Vardalu? Kim jesteś? To TWOJA wyspa, prawda? I jak możesz paplać, gdy zły Borgh niszczy twoje rodzinne miasto? Dlaczego siedzisz i patrzysz, jak niewolnicy Borgha mordują twój lud? Jesteś potworem czy co? Jeśli to pułapka, nie poddam się! Będę walczył do ostatniej kropli krwi.
+
+it: Calma, Sartor. Non è una trappola. La cosa più importante era che tu capissi di essere l'unica speranza per miliardi di persone. Questa battaglia posso vincerla da solo, ma non tutta la guerra. Sei TU il prescelto. Sei TU che devi guidare le nazioni contro il Male. Così ho aspettato che ti svegliassi. E così è stato, fratello minore. Allora guidaci! Diamo loro una lezione. Ricorda: il castello di Rea deve sopravvivere!
+pl: Spokojnie, Sartorze. To nie pułapka. Najważniejsze było, żebyś zrozumiał, że jesteś jedyną nadzieją miliardów ludzi. Tę bitwę mogę wygrać sam, ale nie całą wojnę. TO TY jesteś wybrańcem. TO TY musisz poprowadzić narody przeciw Złu. Więc czekałem, aż się przebudzisz. I tak się stało, mój młodszy bracie. Prowadź nas zatem! Dajmy im nauczkę. Pamiętaj: zamek Rei musi przetrwać!
+
+it: Ah... fratello? Sei completamente pazzo... Comunque non abbiamo molto tempo. Andiamo.
+pl: Ach... bracie? Jesteś kompletnie szalony... Tak czy owak, nie mamy wiele czasu. Chodźmy.
+
+it: Salve, Sartor. Vedo che hai il tuo bel daffare a combattere gli eserciti di Borgh. Vengo con una grande supplica. La nostra isola, Rea di Allita, la perla del Grande Oceano, è sotto l'attacco di Borgh. I suoi cavalieri malvagi stanno distruggendo la nostra città.
+pl: Witaj, Sartorze. Widzę, że ciężko ci walczyć z armiami Borgha. Przychodzę z wielką prośbą. Nasza własna wyspa, Rea Allity, perła Wielkiego Oceanu, jest atakowana przez Borgha. Jego źli rycerze niszczą nasze miasto.
+
+it: Maledizione! Qui siamo davvero in difficoltà. Dobbiamo distruggere il castello di Ses di Allita, nella parte settentrionale dell'isola, ma temo che non sarà facile come pensavamo. Qui Borgh è davvero forte. Mi dispiace moltissimo sapere che anche Rea è sotto attacco. Ma qui siamo troppo deboli. Ora non posso fare nulla per aiutarvi. Se vuoi il mio parere, ci servono più soldati.
+pl: Do licha! Naprawdę jest nam tu ciężko. Musimy zniszczyć zamek Ses Allity w północnej części wyspy, ale obawiam się, że nie będzie to tak łatwe, jak myśleliśmy. Borgh jest tu naprawdę silny. Strasznie mi przykro, że Rea też jest atakowana. Ale jesteśmy tu za słabi. Nie mogę ci teraz w niczym pomóc. Jeśli chcesz znać moje zdanie, potrzebujemy więcej żołnierzy.
+
+it: Senti, Sartor! Senza offesa, ma non credo che tu abbia qualche possibilità qui. E poi non vedo come farai ad andartene da quest'isola senza una nave. Ma hai ancora la possibilità di salvare Rea. Aiutami ora, e tutta Rea sarà al tuo servizio per sconfiggere Borgh più tardi. Eccomi qui con tutte le mie valorose guardie. Noi e la nostra nave siamo al tuo servizio!
+pl: Słuchaj, Sartorze! Bez urazy, ale nie sądzę, żebyś miał tu jakiekolwiek szanse. I jeszcze jedno: nie wiem, jak zamierzasz uciec z tej wyspy bez statku. Ale wciąż masz szansę ocalić Reę. Pomóż mi teraz, a cała Rea będzie potem na twoje usługi, by pokonać Borgha. Oto stoję tu ze wszystkimi moimi dzielnymi strażnikami. My i nasz statek jesteśmy do twojej dyspozycji!
+
+it: È un onore per me avervi nel mio esercito. Ma come possiamo cambiare le cose? Che cosa possiamo fare? Se vi unite a noi, morirete proprio come tutti questi coraggiosi che combattono per la pace e la luce.
+pl: To dla mnie zaszczyt mieć cię w mojej armii. Ale jak możemy coś zmienić? Co możemy zrobić? Jeśli się do nas przyłączysz, zginiesz jak wszyscy ci dzielni ludzie, którzy walczą o pokój i światło.
+
+it: Una possibilità c'è, Sartor. Gran parte dell'esercito di Rea si trova nella parte sud-occidentale dell'isola di Rea di Allita, guidata dal figlio di re Roan, il possente cavaliere Vardal. Si uniranno a noi, ma lui vuole prima parlare con te. Abbiamo cercato di convincerlo ad attaccare, ma si è rifiutato. Ha detto che non muoverà un solo passo senza aver parlato con te. Non conosco le sue ragioni e non mi piace molto, ma è la nostra unica speranza. Va', Sartor! Va' a parlargli!
+pl: Jest pewna szansa, Sartorze. Większa część armii Rei stacjonuje w południowo-zachodniej części wyspy Rea Allity pod wodzą syna króla Roana, potężnego rycerza Vardala. Przyłączą się do nas, ale on chce najpierw porozmawiać z tobą. Próbowaliśmy namówić go do ataku, ale odmówił. Powiedział, że nie zrobi ani kroku, dopóki z tobą nie porozmawia. Nie znam jego powodów i niezbyt go lubię, ale jest naszą jedyną nadzieją. Idź, Sartorze! Idź z nim porozmawiać!
+
+it: Mmh, è appena arrivato un messaggero da Rea di Allita. Devo andare a parlargli. Credo che sia importante sbrigarci.
+pl: Hmm, właśnie przybył posłaniec z Rei Allity. Muszę iść z nim porozmawiać. Myślę, że musimy się pospieszyć.
+
+it: Guarda. Credo che Vardal avesse ragione. I miei sogni peggiori si sono avverati. L'isola di Ses di Allita è stata conquistata dagli eserciti di Borgh. Sartor, a nord-est di qui, da qualche parte nei boschi, ci sono un vecchio villaggio e un castello abbandonati. Credo che siano sorvegliati da qualche creatura malvagia, ma sono ancora deboli. Ci serve quel castello per stabilire una base militare. Senza di esso non potremo distruggere il castello di Ses di Allita, che ora dovrebbe essere il nostro obiettivo principale.
+pl: Spójrz. Chyba Vardal miał rację. Moje najgorsze sny się spełniły. Wyspa Ses Allity została podbita przez armie Borgha. Sartorze, na północny wschód stąd, gdzieś w lasach, jest stara opuszczona wioska i zamek. Myślę, że strzegą ich złe stwory, ale są jeszcze słabe. Potrzebujemy tego zamku, by założyć bazę wojskową. Bez niego nie zdołamy zniszczyć zamku Ses Allity, który powinien być teraz naszym głównym celem.
+
+it: Benvenuti sull'isola di Ses di Allita, valorosi. Non lontano a ovest di qui c'è l'altra grande isola, Rea di Allita. Come ho detto molte volte durante il viaggio, credo che siate pazzi a restare qui anche solo un minuto. Ma immagino che abbiate le vostre ragioni. Forse qualcosa di molto speciale. Io non posso restare qui oltre. Ohoi!
+pl: Witajcie na wyspie Ses Allity, dzielni ludzie. Niedaleko na zachód stąd leży druga duża wyspa, Rea Allity. Jak mówiłem wiele razy podczas podróży, uważam, że oszaleliście, zostając tu dłużej niż minutę. Ale pewnie macie swoje powody. Może coś bardzo szczególnego. Nie mogę tu dłużej zostać. Ahoj!
+
+it: Addio, capitano! Grazie della vostra pazienza. Che gli dei del mare siano con voi.
+pl: Żegnaj, kapitanie! Dziękujemy za cierpliwość. Niech bogowie morza będą z tobą.
+
+it: Addio, capitano! Non vi dimenticheremo.
+pl: Żegnaj, kapitanie! Nie zapomnimy cię.
+
+it: Abbiate cura di voi!
+pl: Uważajcie na siebie!
+
+it: Agli ordini!
+pl: Tak jest!
+
+# tzar.wcm::maps/v_02
+it: Sartor a Hong
+pl: Sartor w Hongu
+
+it: Sartor è a Hong
+pl: Sartor jest w Hongu
+
+it: Antichi monaci
+pl: Starożytni Mnisi
+
+it: Gran sacerdote
+pl: Arcykapłan
+
+it: Il segreto
+pl: Tajemnica
+
+it: Lettera
+pl: List
+
+it: Trova la lettera segreta che spiega come trovare la Sfera e consegnala a Sartor. Sartor deve sopravvivere.
+pl: Znajdź tajny list z informacją, jak odnaleźć Sferę, i oddaj go Sartorowi. Sartor musi przeżyć.
+
+it: Porta la carovana dall'anziano del villaggio di pescatori (verde). L'anziano e la carovana devono sopravvivere.
+pl: Doprowadź karawanę do Starszego wioski rybackiej (zielonej). Starszy i karawana muszą przetrwać.
+
+it: I maghi che generano draghi vanno fermati. Uccidili tutti e torna dal Gran sacerdote con almeno uno dei ninja. Non lasciare che vengano uccisi tutti, o perderai.
+pl: Trzeba powstrzymać magów, którzy przywołują smoki. Zabij ich wszystkich i wróć do Arcykapłana z co najmniej jednym z ninja. Nie pozwól, by zginęli wszyscy, bo przegrasz.
+
+it: Proteggi i tuoi amici di Ki Taiko (gialli). Se subiscono troppe perdite, perderai. Perderai anche se Toru Se viene ucciso.
+pl: Chroń swoich przyjaciół Ki Taiko (żółtych). Jeśli poniosą zbyt duże straty, przegrasz. Przegrasz też, jeśli zginie Toru Se.
+
+it: Conserva la nave che ti ha dato il villaggio di pescatori. È la loro unica nave. Se la nave affonda, perderai.
+pl: Zachowaj statek, który dała ci wioska rybacka. To ich jedyny statek. Jeśli statek zatonie, przegrasz.
+
+it: Va' all'isola degli Antichi monaci e parla con il Gran sacerdote.
+pl: Udaj się na Wyspę Starożytnych Mnichów i porozmawiaj z Arcykapłanem.
+
+it: Signore Borgh,\n\nil generale Birsha riferisce un aumento delle attività ribelli guidate dal malvagio Sartor. Ritiene che la Torre magica di Kalt'ha non sia più il posto migliore per nascondere la mappa dell'Isola Maledetta. Forse sarebbe meglio che mandaste una brigata di soldati veterani a scortare la mappa. Suggerirei Gen-Sai, il luogo più sicuro che possiamo trovare di questi tempi. So anche che Vardal, il fratello di Sartor, si è unito ai ribelli. È questa la ragione della nostra sconfitta alle isole di Alita. Li contrattaccherò al più presto con tutti i miei eserciti. Come sapete, le isole di Alita sono la chiave dell'Isola Maledetta: dobbiamo riconquistarle.\n\nIn vostro nome. Generale Omi.
+pl: Lordzie Borghu,\n\nGenerał Birsha donosi o wzmożonej działalności buntowników pod wodzą złego Sartora. Uważa, że Wieża Magów w Kalt'ha nie jest już najlepszym miejscem do ukrycia mapy Przeklętej Wyspy. Może lepiej byłoby wysłać brygadę doświadczonych żołnierzy, by eskortowała mapę. Sugerowałbym, że Gen-Sai to obecnie najbezpieczniejsze miejsce, jakie możemy znaleźć. Wiem też, że Vardal, brat Sartora, połączył siły z buntownikami. To z tego powodu ponieśliśmy klęskę na Wyspach Ality. Jak najszybciej przypuszczę na nich kontratak wszystkimi swoimi armiami. Jak wiesz, Wyspy Ality są kluczem do Przeklętej Wyspy: musimy je odbić.\n\nW twoim imieniu. Generał Omi.
+
+it: Sartor deve parlare con l'anziano del villaggio di pescatori (verde).
+pl: Sartor musi porozmawiać ze Starszym wioski rybackiej (zielonej).
+
+it: Dopo molti giorni di viaggio, Sartor e i suoi fedeli cavalieri misero piede sulle coste di Hong. Si aspettava di vedere il paesaggio familiare di città e villaggi. Ciò che vide invece lo colpì profondamente. Faceva freddo e nevicava. La gente vestiva in modo strano e parlava in maniera singolare. Ma anche qui poteva scorgere le cicatrici del dominio spietato di Borgh. Sembrava che il Male avesse messo radici ancora più profonde in queste terre.
+pl: Po wielu dniach podróży Sartor i jego wierni rycerze stanęli na brzegach Hongu. Spodziewał się ujrzeć znajomy widok miast i wiosek. To, co zobaczył zamiast nich, wywarło na nim głębokie wrażenie. Było zimno i padał śnieg. Ludzie ubierali się dziwnie i mówili w osobliwy sposób. Ale i tu dostrzegał blizny bezlitosnych rządów Borgha. Wydawało się, że zło zapuściło w tych krainach jeszcze głębsze korzenie.
+
+it: Ehi, soldato blu! Devo parlare con Sartor. Portalo qui.
+pl: Hej, niebieski żołnierzu! Muszę porozmawiać z Sartorem. Przyprowadź go tu.
+
+it: Ehi, Sartor, sono lieto che i maghi siano morti. Ma desidero tanto rivedere almeno uno dei miei ninja. Mostrami uno di loro e riceverai la lettera.
+pl: Hej, Sartorze, cieszę się, że magowie nie żyją. Ale tak bardzo chcę znów zobaczyć choć jednego z moich ninja. Pokaż mi jednego, a dostaniesz list.
+
+it: Avevi promesso di proteggerci, ma guarda che cosa è successo! Ho perso troppi dei miei contadini. Questo significa GUERRA! Mi riprendo la mia base!
+pl: Obiecałeś nas chronić, a spójrz, co się stało! Straciłem zbyt wielu chłopów. To oznacza WOJNĘ! Odbieram swoją bazę!
+
+it: Ti avevo detto che la tua presenza nelle mie terre significa GUERRA.
+pl: Powiedziałem, że twoja obecność na moich ziemiach oznacza WOJNĘ.
+
+it: Ottimo lavoro. Hai ucciso i maghi di Akawa! Ecco la lettera. Prendila. Buona fortuna! Figliolo...
+pl: Dobra robota. Zabiłeś magów Akawa! Oto list. Weź go. Powodzenia! Mój synu...
+
+it: Benvenuto in pace, figliolo. Come possiamo aiutarti?
+pl: Witaj w pokoju, mój synu. Jak możemy ci pomóc?
+
+it: Gran sacerdote, cerchiamo la Sfera, o una lettera segreta che spieghi come trovarla. Akawa è così ben difesa che non possiamo superarne le mura senza macchine d'assedio. Ci hanno detto che potreste aiutarci.
+pl: Arcykapłanie, szukamy Sfery albo jakiegoś tajnego listu, który powie nam, jak ją odnaleźć. Akawa jest tak dobrze broniona, że bez machin oblężniczych nie przedostaniemy się przez mury. Powiedziano nam, że możesz nam pomóc.
+
+it: Lo so, lo so, figliolo. Ti aiuteremo. Ecco i miei soldati ninja. Affinano le loro arti di combattimento fin dalla nascita. Qualcuno direbbe che sono assassini. Ma non è proprio così. È forse un omicidio uccidere Borgh?
+pl: Wiem, wiem, mój synu. Pomożemy ci. Oto moi żołnierze ninja. Doskonalą sztukę walki od urodzenia. Niektórzy powiedzieliby, że to zabójcy. Ale to nie do końca prawda. Czy zabicie Borgha jest morderstwem?
+
+it: Ehm, credo che sia una specie di omicidio, forse.
+pl: Hm, myślę, że to pewien rodzaj morderstwa, chyba.
+
+it: No! Borgh è malvagio. Va fermato!
+pl: Nie! Borgh jest zły. Trzeba go powstrzymać!
+
+it: Non posso darti ragione, figliolo. È senza dubbio un omicidio. Ma Borgh è così malvagio che la sua morte è inevitabile e tutti noi l'attendiamo con gloriosa speranza.
+pl: Nie mogę się z tobą zgodzić, mój synu. To z całą pewnością morderstwo. Ale Borgh jest tak zły, że jego śmierć jest nieunikniona, i wszyscy czekamy na nią z chwalebną nadzieją.
+
+it: No, figliolo! Non è un omicidio. È chirurgia. Borgh è malvagio e merita di morire.
+pl: Nie, mój synu! To nie morderstwo. To chirurgia. Borgh jest zły i zasługuje na śmierć.
+
+it: Comunque sia! Potremmo discutere tutta la notte, ma immagino che tu non abbia molto tempo. Ti prego, prendi i miei devoti soldati e usali con saggezza. Alcuni di loro moriranno, lo so.
+pl: Mniejsza z tym! Moglibyśmy spierać się całą noc, ale pewnie nie masz wiele czasu. Weź, proszę, moich oddanych żołnierzy i użyj ich mądrze. Niektórzy z nich zginą, wiem.
+
+it: Grazie, Gran sacerdote. Quindi devo andare ad Akawa a rubare la lettera? Giusto?
+pl: Dziękuję, Arcykapłanie. Muszę więc udać się do Akawy i ukraść list? Tak?
+
+it: No. Dio benedica la tua impazienza, figliolo. La lettera non è ad Akawa. È già stata rubata. L'ho rubata io qualche settimana fa. E te la darò. Ma se ti chiedi a che cosa servano questi draghi, te lo dirò. Li hanno generati i maghi di Akawa per terrorizzare i pacifici abitanti della bella Hong. Se vuoi la lettera dovrai uccidere i maghi. Quando tornerai, ti prego, porta almeno uno dei miei ninja. Sono tutto ciò che ho. Se li farai uccidere tutti, aspetterò un altro eroe a cui dare la lettera.
+pl: Nie. Niech Bóg błogosławi twoją niecierpliwość, mój synu. Listu nie ma w Akawie. Został już skradziony. Ukradłem go kilka tygodni temu. I dam ci go. Ale jeśli zastanawiasz się, po co są te smoki, powiem ci. Przywołali je magowie z Akawy, by terroryzować spokojnych mieszkańców pięknego Hongu. Jeśli chcesz listu, musisz zabić magów. Gdy wrócisz, przyprowadź, proszę, co najmniej jednego z moich ninja. To wszystko, co mam. Jeśli pozwolisz, by wszyscy zginęli, poczekam na innego bohatera, któremu dam list.
+
+it: Oh, per gli dei! Sono arrivati i viveri! La nave è tua. Abbine cura e non lasciare che affondi. È la nostra unica nave. Va' all'isola degli Antichi monaci e parla con il Gran sacerdote. Di certo ti aiuterà.
+pl: Och, bogowie! Przybyły zapasy! Statek jest wasz. Dbajcie o niego i nie dajcie go zatopić. To nasz jedyny statek. Udajcie się na Wyspę Starożytnych Mnichów i porozmawiajcie z Arcykapłanem. On z pewnością wam pomoże.
+
+it: Salve. Sono Sart...
+pl: Witaj. Jestem Sart...
+
+it: So chi sei! Credo che qui lo sappiano già tutti. Da queste parti le voci corrono come il fuoco. Cerchi un modo per entrare di nascosto ad Akawa? Per impadronirti della lettera che spiega come trovare la Sfera? Sono l'uomo che fa per te, Sartor! Posso aiutarti.
+pl: Wiem, kim jesteś! Myślę, że wszyscy tutaj już wiedzą. Plotki rozchodzą się tu lotem błyskawicy. Szukasz sposobu, by zakraść się do Akawy? By zdobyć list, który mówi, jak odnaleźć Sferę? Jestem twoim człowiekiem, Sartorze! Mogę ci pomóc.
+
+it: Davvero? Puoi farlo? Dimmi come. Non abbiamo molto tempo.
+pl: Naprawdę? Możesz? Powiedz mi, jak. Nie mamy wiele czasu.
+
+it: Certo che te lo dirò. Ma prima ho bisogno del tuo aiuto. Puoi anche uccidermi, ma insisto perché tu ci aiuti.
+pl: Oczywiście, że ci powiem. Ale najpierw potrzebuję twojej pomocy. Możesz mnie zabić, ale nalegam, żebyś nam pomógł.
+
+it: E va bene. Dimmi di che cosa hai bisogno, ma ti prego, sbrigati. Non abbiamo davvero molto tempo.
+pl: No dobrze. Powiedz, czego potrzebujesz, ale proszę, pospiesz się. Naprawdę nie mamy wiele czasu.
+
+it: Aspettiamo l'arrivo di una carovana di viveri. Purtroppo i soldati di Akawa cercano di bloccare le strade e per i mercanti non è più sicuro. Porta qui la carovana e ti darò una nave. Perché una nave? Perché senza non puoi raggiungere l'isola degli Antichi monaci.
+pl: Czekamy na karawanę z zapasami żywności. Niestety żołnierze z Akawy próbują blokować drogi i kupcy nie są już na nich bezpieczni. Przyprowadź tu karawanę, a dam ci statek. Dlaczego statek? Bo bez niego nie dotrzesz na Wyspę Starożytnych Mnichów.
+
+it: Benvenuto, possente Sartor! Le voci sulla tua marcia vittoriosa si stanno spargendo. Sono io a governare da queste parti. Come posso aiutarti nella tua missione?
+pl: Witaj, potężny Sartorze! Krążą pogłoski o twoim zwycięskim pochodzie. To ja tu rządzę. Jak mogę ci pomóc w twojej misji?
+
+it: Ci serve questa città per stabilire una base! Arrenditi!
+pl: Potrzebujemy tego miasta, by założyć bazę! Poddaj się!
+
+it: Ho sentito che a Hong potremmo trovare qualche notizia sulla Sfera. È vero?
+pl: Słyszałem, że w Hongu możemy znaleźć jakieś wieści o Sferze. Czy to prawda?
+
+it: Arrendermi? Vuoi che mi arrenda?! Questa è la terra dei miei antenati. Il mio esercito non è grande come il tuo, ma tutti noi amiamo il nostro paese. Se vuoi la mia città, dovrai combattere per averla! Credevo che il possente Sartor fosse nato per seppellire le vecchie discordie, non per crearne di nuove. Allora, vuoi combatterci e magari uccidere tutti qui, o te ne vai subito dalla città?
+pl: Poddać się? Chcesz, żebym się poddał?! To ziemia moich przodków. Moja armia nie jest tak liczna jak twoja, ale wszyscy kochamy nasz kraj. Jeśli chcesz mojego miasta, będziesz musiał o nie walczyć! Myślałem, że potężny Sartor narodził się, by grzebać dawne waśnie, a nie wywoływać nowe. Więc jak, chcesz z nami walczyć i pewnie wszystkich tu zabić, czy natychmiast opuścisz miasto?
+
+it: Credo che me la caverò da solo, senza sprecare la vita dei miei fedeli soldati. Addio!
+pl: Myślę, że poradzę sobie sam, nie marnując życia moich wiernych żołnierzy. Żegnaj!
+
+it: Sì, seppellisco le vecchie discordie e so bene come procedere. Come ho detto, ci serve questa terra e me la prenderò! Con o senza il tuo consenso!
+pl: Tak, grzebię dawne waśnie i dobrze wiem, jak postąpić. Jak mówiłem, potrzebujemy tej ziemi i wezmę ją! Za twoją zgodą lub bez niej!
+
+it: E sia. Vattene in fretta da sud. E ricorda, Sartor: se vedrò di nuovo anche uno solo dei tuoi soldati o se «dimenticherai» di lasciare la città, per me significherà una cosa sola: guerra!
+pl: Niech tak będzie. Odejdź szybko na południe. I pamiętaj, Sartorze: jeśli zobaczę choć jednego z twoich żołnierzy albo jeśli „zapomnisz” opuścić miasto, będzie to dla mnie oznaczało tylko jedno: wojnę!
+
+it: Ah! Il possente eroe! Il Guardiano della Pace! Avrai ciò che vuoi! ALLA CARICA!
+pl: Ha! Potężny bohater! Strażnik Pokoju! Dostaniesz to, czego chcesz! DO SZARŻY!
+
+it: Ah... la Sfera! Quanti coraggiosi eroi hanno lasciato le loro ossa in giro per il mondo cercando la Sfera. Be', dubito che la Sfera sia qui. Ne dubito davvero. Ma posso aiutarti nella tua ricerca. Per quel che so, c'è un solo uomo che abbia visto la Sfera. Ora è morto, ma ha disegnato una mappa che spiega come trovarla. Non so dove sia, ma so come puoi trovarla.
+pl: Ach... Sfera! Iluż dzielnych bohaterów zostawiło swoje kości na całym świecie, szukając Sfery. Cóż, wątpię, by Sfera była tutaj. Naprawdę wątpię. Ale mogę ci pomóc w twoich poszukiwaniach. Z tego, co wiem, tylko jeden człowiek widział Sferę. Dziś już nie żyje, ale sporządził mapę, która pokazuje, jak ją odnaleźć. Nie wiem, gdzie ona jest, ale wiem, jak możesz ją znaleźć.
+
+it: Devi andare nella capitale di Hong, Akawa, che si trova lontano a sud-est di qui. Purtroppo qualche anno fa Borgh e i suoi alleati del possente Impero Gen-Sai hanno conquistato la città. Perché ci abbiano lasciati vivere resta un mistero. Ora alcuni maghi custodiscono una lettera segreta che spiega come trovare la mappa. Questi maghi generano anche draghi che ci attaccano senza pietà. Devi ucciderli e rubare la lettera. Ma sta' attento: Akawa è sorvegliata pesantemente. Borgh intende trasformare la città in un'importante base militare per controllare la zona.
+pl: Musisz udać się do stolicy Hongu, Akawy, która leży daleko na południowy wschód stąd. Niestety kilka lat temu Borgh i jego sojusznicy z potężnego Imperium Gen-Sai zdobyli miasto. Dlaczego pozwolili nam żyć, wciąż pozostaje tajemnicą. Teraz kilku magów strzeże tajnego listu, który mówi, jak odnaleźć mapę. Ci magowie przywołują też smoki, które bezlitośnie nas atakują. Musisz ich zabić i ukraść list. Ale strzeż się: Akawa jest silnie strzeżona. Borgh zamierza zmienić miasto w ważną bazę wojskową, by kontrolować okolicę.
+
+it: Una città ben sorvegliata? La base di Borgh?! Non siamo in molti. Come possiamo sconfiggere Borgh? Forse dovremmo tornare indietro a chiedere rinforzi.
+pl: Dobrze strzeżone miasto? Baza Borgha?! Nie jest nas wielu. Jak mamy pokonać Borgha? Może powinniśmy wrócić i poprosić o posiłki.
+
+it: Aspetta! Ho un'idea. Quando Borgh conquistò la regione, la nostra base militare sopravvisse in parte. Posso dartela insieme a uno dei nostri porti. Ti forniremo le risorse, ma dovrai proteggere me e i miei contadini. La vecchia base si trova lungo la strada, a sud di qui. Credo che sarà una buona mossa per tutti e due. Non sei d'accordo?
+pl: Czekaj! Mam pomysł. Gdy Borgh podbił ten region, nasza baza wojskowa częściowo przetrwała. Mogę ci ją dać, a także jeden z naszych portów. Zaopatrzymy cię w surowce, ale będziesz musiał chronić mnie i moich chłopów. Stara baza leży dalej przy drodze, na południe stąd. Myślę, że to dobre posunięcie dla nas obu. Nie zgadzasz się?
+
+it: Sì, certo! Hai la mia parola! Mi occuperò dei tuoi nemici.
+pl: Tak, oczywiście! Masz moje słowo! Zajmę się twoimi wrogami.
+
+it: Proteggerti?! Abbiamo da fare qui. Comunque grazie delle informazioni.
+pl: Chronić was?! Mamy tu co robić. Tak czy owak, dziękuję za informacje.
+
+it: Mi dispiace davvero. Non posso aiutarti in nessun altro modo. Va' a est. C'è un piccolo villaggio di pescatori. È davvero piccolo, ma l'anziano del villaggio è un uomo molto saggio. Forse saprà qualcosa che ti sarà utile. Chi lo sa...
+pl: Naprawdę mi przykro. Nie mogę pomóc w inny sposób. Idź po prostu na wschód. Jest tam mała wioska rybacka. Naprawdę mała, ale tamtejszy Starszy to bardzo mądry człowiek. Może będzie wiedział coś, co ci się przyda. Kto wie...
+
+it: Perfetto! Va' laggiù e libera la base. Oh, dimenticavo di dirti che è sorvegliata da alcune orribili creature. Ma non credo che saranno un problema per te. A proposito, puoi andare a est. C'è un piccolo villaggio di pescatori. È davvero piccolo, ma l'anziano del villaggio è un uomo molto saggio. Forse troverà il modo di aiutarti, Sartor. Buona fortuna!
+pl: Doskonale! Idź tam i odbij bazę. Och, zapomniałem powiedzieć, że strzegą jej okropne stwory. Ale nie sądzę, żeby były dla ciebie problemem. Przy okazji, możesz pójść na wschód. Jest tam mała wioska rybacka. Naprawdę mała, ale tamtejszy Starszy to bardzo mądry człowiek. Może znajdzie sposób, by ci pomóc, Sartorze. Powodzenia!
+
+# tzar.wcm::maps/alex1
+it: Mappa 2.1
+pl: Mapa 2.1
+
+it: Bande erranti
+pl: Wędrowne bandy
+
+it: Navi abbandonate
+pl: Opuszczone statki
+
+it: Guardiani della foresta
+pl: Strażnicy lasu
+
+it: I Protettori
+pl: Obrońcy
+
+it: Proteggi i tuoi eroi. Woolin, Ghiron e Sartor devono sopravvivere.
+pl: Chroń swoich bohaterów. Woolin, Ghiron i Sartor muszą przeżyć.
+
+it: Sartor deve scortare Ghiron fino agli antichi idoli nella foresta a sud-est. Ghiron deve toccare gli idoli. Nessun altro può entrare nella foresta.
+pl: Sartor musi odeskortować Ghirona do starożytnych bożków w lesie na południowym wschodzie. Ghiron musi dotknąć bożków. Nikt inny nie może wejść do lasu.
+
+it: Hai disturbato la foresta! Ora devi distruggere tutti i suoi guardiani prima che Ghiron e Sartor possano portare a termine la loro missione agli idoli.
+pl: Zakłóciłeś spokój lasu! Teraz musisz zniszczyć wszystkich jego strażników, zanim Ghiron i Sartor zdołają dokończyć swoje zadanie przy bożkach.
+
+it: Requisisci le quattro navi vicino all'isola a nord-est. Riempile con un esercito, fai salire a bordo Woolin, Ghiron e Sartor e schierale vicino al porto di Wark Aven, pronte a partire.
+pl: Zajmij cztery statki w pobliżu wyspy na północnym wschodzie. Wypełnij je armią, weź na pokład Woolina, Ghirona i Sartora i ustaw je w pobliżu portu Wark Aven, gotowe do wypłynięcia.
+
+it: La ricostruzione di Wark Aven procedeva bene. Gruppi sparsi dell'esercito sbaragliato di Borgh cercavano di ostacolarla, ma il peggio sembrava passato. Woolin pensava che avessero una base da qualche parte nelle campagne intorno a Wark Aven e progettava di far loro visita con alcune delle migliori truppe ai suoi ordini, quando dal mare aperto arrivò una nave con una strana bandiera. Le persone che sbarcarono sembravano spaventate e sfinite. Ghiron andò al porto per sapere che cosa fosse loro accaduto.
+pl: Odbudowa Wark Aven szła dobrze. Rozproszone grupy rozbitej armii Borgha próbowały w niej przeszkadzać, ale najgorsze wydawało się już minione. Woolin sądził, że mają bazę gdzieś w okolicach Wark Aven, i zamierzał złożyć im wizytę z kilkoma najlepszymi oddziałami pod swoim dowództwem, gdy z otwartego morza nadpłynął statek pod dziwną banderą. Ludzie, którzy zeszli na brzeg, wyglądali na przestraszonych i wyczerpanych. Ghiron udał się do portu, by dowiedzieć się, co ich spotkało.
+
+it: Perché non ti sei schierato dalla mia parte in questo scontro, mago?\nEro in grave pericolo e tu sei rimasto a guardare come andava a finire?!
+pl: Dlaczego nie stanąłeś po mojej stronie w tej walce, czarodzieju?\nByłem w wielkim niebezpieczeństwie, a ty tylko patrzyłeś, co się stanie?!
+
+it: Dovresti conoscere meglio il codice d'onore, Sartor. Nessuno può intromettersi in un duello tra nobili cavalieri, che sia un mago o un contadino. Anche se non si era nell'arena di un torneo, è stato uno scontro leale, e siete entrambi cavalieri.\nE poi, giovane Sartor, non eri in pericolo... fidati di me. Conosco i cavalieri dell'Ordine dei Protettori: tengono il loro onore in gran conto.\nMa basta così. Avevo buone ragioni per agire come ho fatto, e non devo spiegarle a nessuno. Concludiamo il nostro compito in questo luogo sacro.
+pl: Powinieneś lepiej znać kodeks honorowy, Sartorze. Nikt nie może wtrącać się do pojedynku szlachetnych rycerzy, czy to czarodziej, czy chłop. Choć nie odbywało się to w szrankach, była to uczciwa walka, a obaj byliście rycerzami.\nZresztą, młody Sartorze, nie byłeś w niebezpieczeństwie... uwierz mi. Znam rycerzy Zakonu Obrońców: wysoko cenią swój honor.\nAle dość o tym. Miałem dobre powody, by postąpić tak, a nie inaczej, i nie muszę nikomu ich tłumaczyć. Dokończmy nasze zadanie w tym świętym miejscu.
+
+it: Forse hai ragione, Ghiron. Sappi che mi fido del tuo giudizio.\nComunque questo luogo non mi piace. Prima saremo lontani da qui, meglio sarà. Presto!
+pl: Może masz rację, Ghironie. Wiedz, że ufam twojemu osądowi.\nTak czy owak, nie podoba mi się to miejsce. Im szybciej znajdziemy się daleko stąd, tym lepiej. Pospiesz się!
+
+it: Non interrompermi ora, Sartor. Presto sapremo che cosa fare e come farlo nel modo migliore.\n\nHarda enna sagri minustu!\nHarda danni minusti!\nVella ayulo enna!\nDaro! Daro! Daro!\n\nPrestatemi la vostra vista, antichi. Concedetemi la conoscenza di ciò che fu e di ciò che è, perché io possa forgiare ciò che sarà!
+pl: Nie przerywaj mi teraz, Sartorze. Wkrótce będziemy wiedzieć, co zrobić i jak najlepiej to osiągnąć.\n\nHarda enna sagri minustu!\nHarda danni minusti!\nVella ayulo enna!\nDaro! Daro! Daro!\n\nUżyczcie mi swego wzroku, pradawni. Obdarzcie mnie wiedzą o tym, co było i jest, abym mógł wykuć to, co będzie!
+
+it: Vedo un grande male che si agita a nord. Offusca il mondo da un orizzonte all'altro, e continua ad avanzare strisciando. Colonne di fumo e il pianto delle donne segnano il suo cammino. Ha ricoperto due bellissime isole nell'oceano a nord. Si è esteso al continente a nord-ovest. È al sicuro in grandi fortezze nelle magnifiche terre dell'est. Si prepara a riconquistare il sud. Solo l'unione di tutti i popoli liberi del mondo, dell'est, dell'ovest e del sud, può sfidarlo. Solo... ahhh...
+pl: Widzę wielkie zło budzące się na północy. Zaciemnia świat od widnokręgu po widnokrąg i wciąż pełznie naprzód. Słupy dymu i płacz kobiet znaczą jego drogę. Okryło dwie piękne wyspy na oceanie na północy. Rozprzestrzeniło się na kontynent na północnym zachodzie. Jest bezpieczne w wielkich twierdzach we wspaniałych krainach wschodu. Szykuje się, by odzyskać południe. Tylko zjednoczenie wszystkich miłujących wolność ludów świata, ze wschodu, zachodu i południa, może mu się przeciwstawić. Tylko... achhh...
+
+it: Stai bene, Ghiron? Che cosa è successo? Sembri debole.
+pl: Dobrze się czujesz, Ghironie? Co się stało? Wyglądasz na osłabionego.
+
+it: Mi serve solo un momento di riposo...\nHo cercato di guardare nel cuore di questo male... la fonte delle tenebre. Ma su di essa è stato gettato un incantesimo di protezione che non sono riuscito né a piegare né a spezzare. Per poco non ci rimettevo la vita, o peggio.\nAlmeno ora so che cosa bisogna fare.\nDobbiamo radunare un esercito il più in fretta possibile e partire per le isole di Allita, Ses e Rea. A nord ci sono alcune navi di Borgh abbandonate. Basta andare a prenderle, caricarvi un esercito e partire verso nord.
+pl: Potrzebuję tylko chwili odpoczynku...\nPróbowałem zajrzeć w serce tego zła... w źródło ciemności. Ale chroni je zaklęcie, którego nie zdołałem ani nagiąć, ani złamać. Omal nie przypłaciłem tego życiem, albo czymś gorszym.\nPrzynajmniej wiem teraz, co trzeba zrobić.\nMusimy jak najszybciej zebrać armię i wyruszyć na Wyspy Allity, Ses i Reę. Na północy stoi kilka porzuconych statków Borgha. Musimy tylko pójść i je zabrać, potem załadować na nie armię i pożeglować na północ.
+
+it: Sei sconfitto, traditore!\nPerderai la vita, a meno che tu non giuri davanti a me di fare ciò che ti ordino.
+pl: Jesteś pokonany, zdrajco!\nStracisz życie, chyba że przysięgniesz przede mną, że zrobisz, co rozkażę.
+
+it: Non posso dare la mia parola a qualcuno che non conosco.\nMi hai attaccato e sconfitto in uno scontro leale, ma non ti farò alcun giuramento, non prima che tu mi dica che cosa vuoi. Se questo non ti sta bene, allora uccidimi. Ma io non ho tradito nessuno.
+pl: Nie mogę dać słowa komuś, kogo nie znam.\nZaatakowałeś mnie i pokonałeś w uczciwej walce, ale nie złożę ci przysięgi, nie zanim powiesz, czego żądasz. Jeśli ci to nie odpowiada, to mnie zabij. Ale nikogo nie zdradziłem.
+
+it: D'accordo. Allora ti spiegherò.\nMi chiamo Vardal. Sono un cavaliere dell'Ordine dei Protettori delle isole di Allita.\nForse pensi di aver compiuto una buona azione sconfiggendo Borgh qui, ma in realtà hai solo condannato la gente innocente delle isole di Allita a essere schiava del Distruttore, o peggio. Si dice che tu sia il figlio del nostro antico sovrano. Se è così, ci hai traditi. Hai fatto soffrire il mio popolo, e così sono venuto qui per costringerti a rimediare a questo tradimento, o a pagare. Ora devi decidere.
+pl: Słusznie. W takim razie wyjaśnię.\nNazywam się Vardal. Jestem rycerzem Zakonu Obrońców Wysp Allity.\nMoże myślisz, że dokonałeś dobrego uczynku, pokonując tu Borgha, ale w rzeczywistości jedynie skazałeś niewinnych ludzi z Wysp Allity na niewolę u Niszczyciela, albo coś gorszego. Mówią, że jesteś synem naszego dawnego władcy. Jeśli tak, to nas zdradziłeś. Przez ciebie mój lud cierpi, więc przybyłem tu, byś naprawił tę zdradę albo za nią zapłacił. Teraz musisz zdecydować.
+
+it: Sì, ora capisco. Ti do la mia parola: aiuterò gli isolani appena potrò. Ma ho anche un dovere verso la gente di qui. Proprio mentre parliamo, la città di Wark Aven è sotto l'attacco dei resti delle forze di Borgh. Devo difenderla. Quando avrò radunato un esercito sufficiente a difendere la città e da portare con me, partirò per le tue isole a nord. Ti sembra giusto?
+pl: Tak, teraz rozumiem. Daję ci słowo: pomogę wyspiarzom, gdy tylko będę mógł. Ale mam też obowiązek wobec tutejszych ludzi. Miasto Wark Aven jest właśnie atakowane przez resztki wojsk Borgha. Muszę go bronić. Gdy zbiorę armię wystarczającą, by obronić miasto i część zabrać ze sobą, wyruszę na twoje wyspy na północy. Czy uważasz to za uczciwe?
+
+it: Vedo che in te c'è dell'onore. Forse nelle tue vene scorre davvero sangue reale.\nNon indugiare qui. Partirò subito per le isole. Spero di riuscire a radunare una forza abbastanza grande da contare qualcosa nella battaglia per Rea e Ses.\nAddio, Sartor. Ci rivedremo, te lo prometto.
+pl: Widzę, że jest w tobie honor. Może naprawdę płynie w tobie królewska krew.\nNie zwlekaj tutaj. Ja od razu wyruszam na wyspy. Mam nadzieję, że zbiorę siły na tyle duże, by coś znaczyły w bitwie o Reę i Ses.\nŻegnaj, Sartorze. Spotkamy się znowu, obiecuję ci.
+
+it: Hai perso, aggressore!\nCombatti bene, ma attacchi senza preavviso.\nDimmi il tuo nome e spiegati, perché io possa giudicare le ragioni del tuo attacco... e perché mi hai chiamato traditore. Nessuno mi ha mai accusato di tradimento ed è rimasto in vita.\nParla!
+pl: Przegrałeś, napastniku!\nDobrze walczysz, ale atakujesz bez ostrzeżenia.\nPowiedz mi swoje imię i wytłumacz się, bym mógł osądzić powody twojego ataku... i tego, że nazywasz mnie zdrajcą. Nikt jeszcze nie oskarżył mnie o zdradę i nie uszedł z życiem.\nMów!
+
+it: Per Rea e Ses!\nMuori, traditore!
+pl: Za Reę i Ses!\nGiń, zdrajco!
+
+it: Benvenuti, marinai.\nDa dove venite così di corsa? Sembrate deboli... È per il lungo viaggio, o vi è successo qualcosa?
+pl: Witajcie, żeglarze.\nSkąd przybywacie w takim pośpiechu? Wyglądacie na osłabionych... Czy to przez długą podróż, czy coś was spotkało?
+
+it: Veniamo dalle isole di Allita. È davvero un viaggio difficile, e ancor più con una nave danneggiata, l'equipaggio ferito e senza provviste.
+pl: Przypłynęliśmy aż z Wysp Allity. To doprawdy trudna podróż, a tym bardziej z uszkodzonym statkiem, rannymi członkami załogi i bez zapasów.
+
+it: Persino questo viaggio è meglio della guerra sulle nostre isole. Sia maledetto in eterno il nome di Borgh il Distruttore!
+pl: Nawet ta podróż jest lepsza niż wojna na naszych wyspach. Niech imię Borgha Niszczyciela będzie przeklęte na wieki!
+
+it: Dite che Borgh è arrivato in forze a conquistare le isole di Allita?\nNon è possibile. Sono state le mie mani a porre fine alla sua miserabile vita, quando il suo castello gli è crollato addosso.
+pl: Mówicie, że Borgh przybył z wielkimi siłami, by podbić Wyspy Allity?\nTo niemożliwe. Moje własne ręce zakończyły jego nędzne życie, gdy jego zamek zawalił się na niego.
+
+it: È vivo. Non era neppure ferito, ma la sua oscura malvagità è ora ancora più nera... Sulle isole c'erano dei profughi delle vostre terre, e conoscevano Borgh: ci hanno avvertiti appena lo hanno visto. Abbiamo cercato di fuggire il prima possibile...
+pl: On żyje. Nie był nawet ranny, ale jego mroczna złość jest teraz jeszcze czarniejsza... Na wyspach byli zbiegowie z waszych ziem, którzy znali Borgha i ostrzegli nas, gdy tylko go zobaczyli. Próbowaliśmy uciec, gdy tylko mogliśmy...
+
+it: Ahimè, era troppo tardi...
+pl: Niestety, było za późno...
+
+it: Sì, ora capisco... Sentivo che a nord qualcosa non andava, e ora vedo che siamo rimasti inerti troppo a lungo. Vieni con me, Sartor. Ho bisogno che tu mi assista.
+pl: Tak, teraz rozumiem... Czułem, że na północy dzieje się coś złego, a teraz widzę, że zbyt długo pozostawaliśmy bezczynni. Chodź ze mną, Sartorze. Potrzebuję twojej pomocy.
+
+it: Fa' strada, mago. Ti aiuterò in ogni modo possibile.
+pl: Prowadź, czarodzieju. Pomogę ci, jak tylko zdołam.
+
+it: Devo andare nell'antica foresta a sud-est. Presto la città sarà attaccata, ma ho bisogno che tu mi scorti fino al luogo del potere presso gli antichi idoli. Toccandoli potrò vedere da lontano le isole di Allita. Saprò allora che cosa bisogna fare... E sento che devi venire con me.
+pl: Muszę udać się do starego lasu na południowym wschodzie. Miasto wkrótce zostanie zaatakowane, ale musisz mnie odeskortować do miejsca mocy przy starożytnych bożkach. Dotykając ich, będę mógł z daleka ujrzeć Wyspy Allity. Wtedy będę wiedział, co trzeba zrobić... I czuję, że musisz pójść ze mną.
+
+it: Basta parole, allora. Andiamo.
+pl: Dość więc słów. Chodźmy.
+
+it: Devo però avvertirti. La foresta non ama essere disturbata, e sa come trattare gli ospiti sgraditi. Posso proteggere te e me dalla sua collera, ma nessun altro. Dobbiamo andarci da soli.
+pl: Muszę cię jednak ostrzec. Las nie lubi, gdy zakłóca się jego spokój, i wie, jak radzić sobie z nieproszonymi gośćmi. Mogę ochronić przed jego gniewem ciebie i siebie, ale nikogo więcej. Musimy pójść sami.
+
+# tzar.wcm::maps/ultimate
+it: La caduta del Castello del Male
+pl: Upadek Zamku Zła
+
+it: Castello del Male
+pl: Zamek Zła
+
+it: Distruggi il Castello del Male.
+pl: Zniszcz Zamek Zła.
+
+it: Sartor deve sopravvivere.
+pl: Sartor musi przeżyć.
+
+it: Dalle rovine fumanti del castello di Benas Ghiron prese la mappa che indicava dove si trovava la Sfera. Le mani gli tremavano mentre la srotolava, ma il suo sguardo si fece duro quando finalmente riuscì a leggerla. L'ultimo sforzo che dovevano compiere li riportò ancora una volta nella terra di Gen-Sai, l'ultima roccaforte rimasta al Male. Con l'aiuto degli alleati di Hong e di Kalt'ha, l'esercito di Sartor riuscì a sbarcare dalle navi e a costruire accampamenti da cui attaccare il nemico fortificato. Le alte torri dell'accampamento si ergevano alle loro spalle mentre guardavano verso nord, verso l'accampamento nemico.
+pl: Z płonących ruin zamku w Benas Ghiron wyniósł mapę wskazującą, gdzie znajduje się Sfera. Ręce mu drżały, gdy ją rozwijał, ale jego spojrzenie stwardniało, gdy wreszcie mógł ją odczytać. Ostatni wysiłek, jaki musieli podjąć, zaprowadził ich raz jeszcze do krainy Gen-Sai, ostatniej twierdzy zła. Z pomocą sojuszników z Hongu i Kalt'ha armia Sartora zdołała zejść ze statków na ląd i zbudować obozy, z których mogła atakować umocnionego wroga. Wysokie wieże obozu wznosiły się za nimi, gdy patrzyli na północ, w stronę obozu wroga.
+
+it: Sono passati molti anni dalla battaglia decisiva al Castello del Male, ma ricordo ancora tutto come se fosse accaduto ieri. Sento le grida dei morenti echeggiarmi nelle orecchie, rivedo i villaggi saccheggiati e i corpi dei miei alleati. Andava fatto, le forze del Male andavano sconfitte, ma il prezzo che abbiamo pagato...\n\nNegli anni che seguirono, una pace dimenticata tornò a poco a poco a regnare sulle terre martoriate. La gente non guardava più inquieta verso l'orizzonte, in cerca di nuvole di fumo che si levassero da villaggi in fiamme. Ancora una volta la guerra divenne soltanto leggenda. Pochi ricordano le migliaia di persone che diedero la vita nell'ultima Guerra contro il Male... una guerra che ora la gente chiama la Battaglia di Sartor.\n\nAhimè, anche se massacrammo i servi del Male a migliaia, sconfiggemmo il suo messaggero e distruggemmo la sua porta verso il nostro mondo, con grande sgomento non trovammo la Sfera. Proprio come durante gli innumerevoli anni prima del regno di mio padre, nessuno ne sa nulla. Forse qualche mago tenterà ancora una volta di usarne il potere per sottomettere il nostro mondo? Forse il Messia del Male l'ha portata nel suo mondo al di là, dove resterà per sempre fuori dalla nostra portata. Ricordo come il vento cantava tra le rovine del castello che avevamo distrutto... Come se ridesse di noi. Il tempo trasformò lentamente la vittoria di quel giorno in una sconfitta...\n\nPerdonami, padre, perché ho fallito. Ho vendicato la tua morte, ho difeso Keana e ho riportato la pace. Ma non ho trovato la Sfera, la nostra unica arma contro il nemico. Ogni giorno che passa sento un male incombente. Non riesco a capire che cosa sia, né a indicarlo, ma so che sta arrivando. Nel profondo sento che i giorni di pace sono contati e che presto dovremo opporre un'ultima resistenza al Male. Vinceremo ancora, o periremo?\n\nNon lo so...
+pl: Wiele lat minęło od rozstrzygającej bitwy pod Zamkiem Zła, ale wciąż pamiętam wszystko, jakby to było wczoraj. Słyszę, jak w uszach rozbrzmiewają mi krzyki umierających, widzę złupione wioski i ciała moich sojuszników. Trzeba było to zrobić, siły Zła musiały zostać pokonane, ale cena, jaką zapłaciliśmy...\n\nW następnych latach na umęczonych ziemiach stopniowo zapanował zapomniany pokój. Ludzie nie spoglądali już z niepokojem na widnokrąg, wypatrując chmur dymu nad spalonymi wioskami. Znów wojna stała się tylko legendą. Niewielu pamięta tysiące tych, którzy oddali życie w ostatniej Wojnie ze Złem... wojnie, którą ludzie nazywają dziś bitwą Sartora.\n\nNiestety, choć wycięliśmy tysiące sług Zła, pokonaliśmy jego posłańca i zniszczyliśmy jego bramę do naszego świata, ku naszemu wielkiemu przygnębieniu nie znaleźliśmy Sfery. Tak jak przez niezliczone lata przed rządami mojego ojca, nikt nic o niej nie wie. Może jakiś czarodziej znów spróbuje użyć jej mocy, by ujarzmić nasz świat? Może Mesjasz Zła zabrał ją do swojego zaświatowego świata, gdzie na zawsze pozostanie poza naszym zasięgiem. Pamiętam, jak wiatr śpiewał w ruinach zamku, który zniszczyliśmy... jakby się z nas śmiał. Czas powoli zamienił zwycięstwo tamtego dnia w porażkę...\n\nWybacz mi, ojcze, bo zawiodłem. Pomściłem twoją śmierć, obroniłem Keanę i przywróciłem pokój. Ale nie znalazłem Sfery, naszej jedynej broni przeciw wrogowi. Z każdym dniem czuję nadciągające zło. Nie umiem powiedzieć, czym jest, ani go wskazać, ale wiem, że nadchodzi. W głębi duszy czuję, że dni pokoju są policzone i że wkrótce przyjdzie nam stawić Złu ostatni opór. Czy znów zwyciężymy, czy zginiemy?\n\nNie wiem...
+
+it: Lo vedi, Sartor?\nIn lontananza, a nord, dietro il fumo dei fuochi degli accampamenti e la nebbia dei laghi, incombe. Scuro e minaccioso, oscura tutto ciò che vedo e mi attira sempre a sé: il Castello del Male.\nÈ una soglia verso un mondo infero, un portale verso un luogo al di là del nostro spazio e del nostro tempo. Tutte le battaglie che abbiamo combattuto insieme, dall'inizio fino a oggi, sono state contro il potere che emana da questo castello. E ora che è stato contrastato, ha evocato il suo servo più potente per difendersi da noi. Un nero abominio del Male, tratto dai suoi non morti per una sola missione: cancellarci dalla faccia della terra. Guardatene, Sartor, perché può distruggere interi eserciti e spazzare via città con un gesto della mano.
+pl: Widzisz go, Sartorze?\nW oddali na północy, za dymem ognisk i mgłą jezior, majaczy. Mroczny i groźny, przesłania wszystko, co widzę, i nieustannie mnie przyciąga: Zamek Zła.\nTo wrota do świata podziemnego, portal do miejsca poza naszą przestrzenią i czasem. Wszystkie bitwy, które razem stoczyliśmy, od początku aż po dziś, toczyliśmy przeciw mocy, która bije z tego zamku. A teraz, gdy została powstrzymana, wezwała swojego najpotężniejszego sługę, by się przed nami bronić. Czarną ohydę Zła, wydobytą spośród jej nieumarłych w jednym tylko celu: by zgładzić nas z powierzchni ziemi. Strzeż się go, Sartorze, bo potrafi zniszczyć całe armie i zrównać miasta z ziemią jednym ruchem ręki.
+
+it: E se lo distruggessimo? Il Male svanirebbe? Di certo un solo servo del Male non può resistere alla nostra forza unita, una volta sfondate le difese?
+pl: A jeśli go zniszczymy? Czy Zło zniknie? Przecież pojedynczy sługa Zła nie oprze się naszej zjednoczonej potędze, gdy przełamiemy obronę?
+
+it: Non resisterà da solo ai nostri eserciti. Ma questa... creatura, questo Messia del Male, è solo un servo... un esempio di ciò che attende le nostre terre se lasciamo stare il Male. Dobbiamo eliminare il portale da cui è venuto. Dobbiamo distruggere il castello. Quando lo avremo raso al suolo, il nostro compito qui sarà compiuto... Questa è la nostra ultima battaglia, Sartor, la tua ultima battaglia. Dopo sarai il sovrano di tutta Keana.
+pl: Nie stanie sam przeciw naszym armiom. Ale ta... istota, ten Mesjasz Zła, jest tylko sługą... przykładem tego, co czeka nasze ziemie, jeśli pozwolimy Złu działać. Musimy usunąć portal, przez który przybył. Musimy zniszczyć zamek. Gdy obrócimy go w ruinę, nasze zadanie tutaj dobiegnie końca... To nasza ostatnia bitwa, Sartorze, twoja ostatnia bitwa. Potem będziesz władcą całej Keany.
+
+it: Mettiamoci all'opera, allora.\nIl Castello del Male cadrà!\nKeana sarà libera!
+pl: Zabierzmy się więc do dzieła.\nZamek Zła upadnie!\nKeana będzie wolna!

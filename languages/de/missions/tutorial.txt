@@ -1,0 +1,369 @@
+# Il tutorial (Campaign/TzarTutorial.wcm) in tedesco: traduzione di questa versione, fatta dall'inglese della versione americana.
+
+# tzartutorial.wcm
+it: Impara a giocare a Tzar.\nApprendi i concetti fondamentali di TZAR: Excalibur e il Re Artù.
+de: TZAR-Tutorial\nLernen Sie die Grundlagen von TZAR: The Burden Of The Crown
+
+# tzartutorial.wcm::maps/intro
+it: Impara a giocare
+de: Einführung
+
+it: In questa mappa introduttiva Haaser il Saggio ti riassumerà gli elementi fondamentali del gioco. Anche se sei un giocatore provetto, queste istruzioni ti saranno molto utili, giacché contengono alcuni concetti che sono specifici di Tzar: Excalibur e il Re Artù.
+de: Auf dieser Einführungskarte fasst Haaser der Weise die Grundlagen des Spiels für Sie zusammen. Auch als erfahrener Spieler finden Sie sie vielleicht interessant, denn sie erklärt einige Begriffe, die es nur in TZAR: The Burden of the Crown gibt.
+
+it: Giocatore
+de: Spieler
+
+it: Nemico
+de: Feind
+
+it: Regno 3
+de: Reich 3
+
+it: Regno 4
+de: Reich 4
+
+it: Regno 5
+de: Reich 5
+
+it: Saggio
+de: Weiser
+
+it: Regno 7
+de: Reich 7
+
+it: Regno 8
+de: Reich 8
+
+it: Raccogli 200 unità di legna, di cibo, d'oro e di pietra.
+de: Sammeln Sie je 200 Punkte Holz, Nahrung, Gold und Stein.
+
+it: Benvenuto nella campagna introduttiva di Tzar: Excalibur e il Re Artù.\n\nSe dovessi fermare il testo per leggerlo meglio, cliccaci sopra col pulsante sinistro del mouse. Per riavviare clicca nuovamente sul testo. \n\nLe seguenti sette missioni sono state create per presentarti gli aspetti fondamentali di Tzar. Inoltre ti permetteranno di esercitarti con gli elementi più comuni del gioco in uno scenario libero da ostacoli.\n\nSe avessi bisogno di ulteriori aiuti nel corso della missione, fai riferimento all’aiuto interno di gioco. Puoi accedervi in questo modo:\n\n.- Se non hai unità o edifici selezionati, nel menu degli ordini troverai un’icona d’interrogazione. Clicca su di essa col pulsante sinistro del mouse.\n\n.- Se hai un’unità o un edificio selezionato, clicca col pulsante sinistro del mouse su qualunque parte della mappa per accedere all’icona d’interrogazione.\n\nInoltre puoi vedere, in qualsiasi momento, quali siano gli obiettivi da raggiungere per completare la missione.\n\n.- Scegli l’opzione "Istruzioni" nel menu principale (il pulsante nell’angolo superiore sinistro dello schermo).\n\nBuona fortuna.
+de: Willkommen zur Übungskampagne von TZAR: The Burden of the Crown.\n\nWenn Sie diesen Text anhalten wollen, klicken Sie darauf. Um ihn weiterlaufen zu lassen, klicken Sie noch einmal.\n\nDie nächsten sieben Missionen bringen Ihnen die Grundlagen von TZAR bei und lassen Sie die häufigsten Spielelemente in sicherer, entspannter Umgebung üben.\nWenn Sie mehr über das Spiel erfahren wollen, sehen Sie in der eingebauten Hilfe nach. Sie öffnet sich mit der Schaltfläche mit dem Fragezeichen, wenn keine Einheit und kein Gebäude ausgewählt ist. Ihre aktuellen Ziele können Sie auch über Anleitung im Hauptmenü einsehen.\nWenn Sie diese Kampagne abgeschlossen haben, sind Sie bereit, TZAR richtig zu spielen.\n\nViel Glück.
+
+it: Ma che hai fatto? Ora il tuo regno è condannato. Tutto è perduto.
+de: Was hast du getan, junger Freund? Dein Reich ist verloren. Alles ist dahin...
+
+it: Puoi impossessarti di edifici nemici per la tua civiltà e sfruttarli come se fossero tuoi. Seleziona un gruppo di contadini e clicca con il pulsante destro del mouse sull’edificio in questione. Più saranno i contadini impegnati in questo compito, più sarà veloce impossessarsene.
+de: Sie können feindliche Gebäude für Ihre Sache gewinnen, indem Sie mehrere Bauern auswählen und mit der rechten Maustaste auf das Gebäude klicken. Je mehr Bauern Sie einsetzen, desto schneller ist das Gebäude gewonnen.
+
+it: La resistenza opposta dall’edificio nemico al tuo attacco sarà indicata da un numero collocato accanto all’icona "Cuore" che appare nella zona informativa dell’edificio. Quanto più alto è il numero tanto maggiore sarà il tempo che ti occorrerà per impossessartene.
+de: Wie viel Widerstand ein Gebäude leistet, wenn Sie es gewinnen wollen, zeigt die Zahl neben dem Herzsymbol im Auswahlfeld.\nJe größer die Zahl, desto größer der Widerstand.
+
+it: Nel caso un edificio nemico sorga vicino a uno dei tuoi castelli o posti di guardia ti risulterà più facile occuparlo.\nAl contrario, il compito risulterà più difficile se esso dovesse trovarsi nei pressi di una postazione nemica.
+de: Ein Gebäude in der Nähe einer Ihrer Burgen oder Außenposten ist leicht zu gewinnen.\nEin Gebäude in der Nähe einer feindlichen Burg oder eines feindlichen Außenpostens leistet mehr Widerstand.
+
+it: C’è un posto di guardia nemico a est del vecchio accampamento. Il posto di guardia, così come il castello, permette di nascondervi all’interno le unità e di curarle. \nCerca di impossessarti di quest’edificio in modo da non doverti procurare risorse per costruirne uno.
+de: Östlich ihres früheren Lagers steht ein feindlicher Außenposten. Der Außenposten funktioniert ähnlich wie eine Burg – Sie können Ihre Einheiten darin verbergen und heilen. Gewinnen Sie den Außenposten, um sich die Rohstoffe für einen eigenen zu sparen.
+
+it: Puoi destinare una parte dell’oro a migliorare le capacità della tua gente. \nSeleziona il tuo castello e clicca sull’icona "Apprendimento".
+de: Mit etwas Gold können Sie Ihr Volk leistungsfähiger machen.\nWählen Sie Ihre Burg aus und klicken Sie auf die Schaltfläche »Lernen«.
+
+it: Bel lavoro! Ora puoi contare su una buona difesa.
+de: Gut gemacht! Jetzt sind Sie gut verteidigt.
+
+it: Scoperto l'"Apprendimento" le tue unità si arricchiranno di maggior esperienza ogni volta che elimineranno un nemico e, col tempo, accederanno ad un livello superiore. Per ogni livello superato otterranno un bonus d’attacco e di difesa che aumenterà il loro potere.
+de: Nach der Erforschung von »Lernen« gewinnen Ihre Einheiten mit jedem besiegten Feind Erfahrung und erreichen schließlich eine höhere Stufe. Mit jeder Stufe erhalten sie einen Angriffs- und Verteidigungsbonus und werden mächtiger.
+
+it: Abbiamo vinto la battaglia! È tempo di festeggiare la vittoria.
+de: Die Schlacht ist gewonnen! Zeit zum Feiern.
+
+it: Per il momento il nemico non ti darà più fastidio; approfittane per riorganizzarti.
+de: Der Feind wird Sie eine Weile in Ruhe lassen. Nutzen Sie die Zeit, um sich zu ordnen.
+
+it: Erigi intorno al castello due torrette di vedetta che lo proteggano.
+de: Bauen Sie zwei Wachtürme neben Ihrer Burg, um sich zu schützen.
+
+it: Ora tocca a te attaccare il nemico. \nSchiera le tue forze e distruggi la caserma del nemico prima che riesca a radunare un esercito più forte.
+de: Jetzt greifen Sie den Feind an.\nStellen Sie Ihre Truppen auf und zerstören Sie die feindliche Kaserne, bevor er ein stärkeres Heer aufstellt.
+
+it: Per ordinare l’attacco alle unità selezionate, clicca col pulsante destro del mouse sull’edificio o sull’unità nemica che desideri attaccare.
+de: Mit einem Rechtsklick auf ein feindliches Gebäude oder eine feindliche Einheit befehlen Sie den ausgewählten Einheiten, es anzugreifen.
+
+it: Percepisco la presenza di forze nemiche! Si stanno avvicinando da sud-est.
+de: Ich spüre feindliche Truppen! Sie kommen aus dem Südosten.
+
+it: Per farli uscire clicca sull’icona "Evacuare tutte le unità".
+de: Klicken Sie auf Ihre Bauern und dann mit der rechten Maustaste auf die Burg, damit sie sich darin verstecken. In der Burg sind sie besser geschützt, und wenn sie verwundet sind, heilen sie mit der Zeit.\nUm sie herauszuholen, klicken Sie auf die Schaltfläche »Alle Einheiten herauslassen«.
+
+it: Ora clicca sulla caserma che hai appena costruito e poi sull’icona "Creare un fante". Per creare un arciere clicca sull’icona "Creare un arciere".
+de: Klicken Sie nun auf die gerade gebaute Kaserne und dann auf die Schaltfläche »Fußsoldat erschaffen«.\nFür einen Bogenschützen klicken Sie auf die Schaltfläche »Bogenschützen erschaffen«.
+
+it: Per creare un esercito avrai bisogno di cibo e legna, quindi non tralasciare di raccogliere tutte le risorse che riuscirai a trovare. \nCrea l’esercito più numeroso che puoi, perché il nemico è in avvicinamento.
+de: Für ein Heer brauchen Sie Nahrung und Holz, also hören Sie nicht auf, Rohstoffe zu sammeln.\nMachen Sie das Heer so groß wie möglich, denn der Feind ist im Anmarsch.
+
+it: Complimenti! Hai appena portato a termine la tua prima missione.
+de: Glückwunsch! Sie haben gerade Ihre erste Aufgabe erfüllt.
+
+it: La tua prossima sfida sarà di radunare un esercito. Per farlo devi prima creare una caserma.
+de: Ihre nächste Aufgabe ist es, ein Heer aufzustellen. Dazu müssen Sie zuerst eine Kaserne bauen.
+
+it: Seleziona un contadino e clicca sull’icona "Costruire edifici"; comparirà un elenco di edifici o gruppi di edifici.
+de: Wählen Sie einen Bauern aus und klicken Sie auf die Schaltfläche »Bauen«. Sie sehen eine Liste von Gebäuden und Gebäudegruppen.
+
+it: Clicca sull’icona "Costruire una caserma". Apparirà un’immagine dell’edificio. Trasportalo in uno spazio libero della mappa e clicca col pulsante sinistro del mouse. Se non è possibile collocarla in quella posizione la struttura apparirà in rosso, in caso contrario sarà verde.
+de: Klicken Sie auf die Schaltfläche »Kaserne bauen« und setzen Sie die Kaserne in die Ansicht. Sie ist rot, wo Sie sie nicht setzen können, und grün, wo Sie es können.
+
+it: Ormai sei pronto per la tua prima missione!\nRaccogli 200 unità di cibo, legna, oro e pietra; queste risorse serviranno alla tua causa.
+de: Jetzt sind Sie bereit für Ihre erste Aufgabe!\nSammeln Sie je 200 Nahrung, Holz, Gold und Stein. Diese Rohstoffe werden Ihrer Sache dienen.
+
+it: In qualsiasi momento puoi visualizzare gli obiettivi che devi raggiungere per completare la tua missione grazie all’icona "Vedere gli obiettivi attuali" che appare nel menu degli ordini quando non siano selezionati edifici o unità.
+de: Ihre aktuellen Aufgaben sehen Sie mit der Schaltfläche »Aktuelle Aufgaben ansehen«, die erscheint, wenn keine Einheit ausgewählt ist.
+
+it: Utilizza il contadino che hai appena creato per raccogliere l’oro; selezionalo col pulsante sinistro del mouse e clicca con quello destro sulla miniera d’oro che si trova a sud-est del castello.
+de: Lassen Sie den gerade erschaffenen Bauern Gold sammeln: Wählen Sie ihn aus und klicken Sie mit der rechten Maustaste auf die Goldmine südöstlich der Burg.
+
+it: Utilizza il contadino che hai appena creato per raccogliere altro oro.
+de: Lassen Sie den neuen Bauern mehr Gold sammeln.
+
+it: Hai cibo sufficiente per espandere il tuo regno.\nClicca col pulsante sinistro del mouse sul castello in modo da selezionarlo. Noterai come la sua immagine comparirà nella zona informativa.
+de: Sie haben genug Nahrung, um Ihr Reich zu vergrößern.\nKlicken Sie auf die Burg, um sie auszuwählen. Ihr Bild erscheint im Auswahlfeld.
+
+it: Se porti il cursore sull’icona "Creare contadino" vedrai apparire il seguente testo descrittivo nella parte inferiore dell’immagine:\n\n"Creare contadino  P (cibo: 50)"\n\nQuesta dicitura indica l’ordine da eseguire (creare un contadino),\nla possibilità di utilizzare il tasto "P" invece di selezionare l’icona dal menu degli ordini e la quantità di risorse necessaria (50 unità di cibo).\nOgni volta che cliccherai su quest’icona aumenterà il numero di contadini creati, se invece vuoi diminuirlo clicca sulla stessa icona col pulsante destro del mouse.
+de: Führen Sie den Zeiger über die Schaltfläche »Bauern erschaffen«, erscheint unten in der Ansicht ein Beschreibungstext:\n»Bauern erschaffen - 'P' ( Nahrung:50 )«\nKlicken Sie auf die Schaltfläche, um weitere Bauern zu erschaffen, die für Sie arbeiten.
+
+it: Ci sono altri modi per procurarsi il cibo. Seleziona la barca che si trova nel porto a est del castello. Trova una banchina da pesca e cliccaci sopra col pulsante destro del mouse.
+de: Es gibt noch andere Wege, Nahrung zu gewinnen. Wählen Sie das Boot im Hafen östlich der Burg aus. Suchen Sie einen Fischgrund und klicken Sie mit der rechten Maustaste darauf.
+
+it: Bene. Vedo che hai bisogno di aiuto. Di che si tratta?
+de: Nun, wie ich sehe, brauchst du Hilfe. Was gibt es?
+
+it: Come va, ragazzo?
+de: Wie läuft es, junger Freund?
+
+it: Hai bisogno di una mano?
+de: Brauchst du Hilfe?
+
+it: Che posso fare per te?
+de: Kann ich etwas für dich tun?
+
+it: Come posso dare ordini alle mie truppe?
+de: Wie befehlige ich meine Einheiten?
+
+it: Ho bisogno di risorse...
+de: Ich hätte gern Rohstoffe...
+
+it: Cosa rappresentano tutte queste icone e questi numeri che circondano le unità?
+de: Was bedeuten all die Symbole und Zahlen rund um die Ansicht?
+
+it: Come faccio a costruire qualcosa?
+de: Wie kann ich etwas bauen?
+
+it: Per prima cosa seleziona un contadino, poi clicca sull’icona "Costruire edifici". Vedrai apparire un elenco completo di edifici e gruppi di edifici che puoi costruire.
+de: Wähle einen Bauern aus und klicke auf die Schaltfläche »Bauen«. Du siehst eine Liste von Gebäuden und Gebäudegruppen.
+
+it: Puoi vedere quali siano le risorse a tua disposizione nella parte superiore dello schermo. Troverai un’icona specifica per ogni tipo di risorsa: oro, legna, cibo e pietra. L’ultima icona indica il numero di abitanti del tuo regno e il numero massimo di abitanti che sei in grado di mantenere attualmente.
+de: Wie viele Rohstoffe du hast, steht oben auf dem Bildschirm. Für jede Art gibt es ein Symbol – Gold, Holz, Nahrung und Stein. Das letzte Symbol zeigt die Bevölkerung deines Reiches und die höchste Bevölkerung, die deine Rohstoffe ernähren können.
+
+it: Puoi selezionare un’unità cliccando su di essa con il pulsante sinistro del mouse (tieni premuto il tasto "Maiusc" per selezionare contemporaneamente più unità) oppure clicca col pulsante sinistro e, mantenendolo premuto, delinea un riquadro che inglobi tutte le unità che vuoi selezionare.
+de: Du wählst deine Einheiten aus, indem du sie anklickst oder mit der linken Maustaste einen Rahmen um sie ziehst.
+
+it: Selezionando un’unità appariranno, nella zona di selezione e accanto alla sua immagine, tutti i parametri a essa relativi. Le unità militari sono caratterizzate da almeno 3 icone: attacco (spada), difesa (scudo) ed esperienza (croce). I numeri che compaiono accanto alle icone indicano l’abilità dell’unità relativa al parametro specifico.
+de: Wählst du eine Einheit aus, erscheinen ihre Werte neben ihrem Bild im Auswahlfeld. Militäreinheiten haben mindestens drei Symbole – Angriff (Schwert), Verteidigung (Schild) und Stufe (Kreuz). Die Zahlen neben den Symbolen zeigen ihre Fähigkeiten.
+
+it: Per far muovere le unità selezionate, clicca col pulsante destro del mouse su di uno spazio aperto.
+de: Ausgewählte Einheiten bewegst du, indem du mit der rechten Maustaste auf eine freie Stelle klickst.
+
+it: Premendo il pulsante destro del mouse sui diversi oggetti, le unità selezionate compiranno l’azione più appropriata in relazione all’oggetto specifico.\nFai delle prove per vedere come funziona il meccanismo.
+de: Ein Rechtsklick auf verschiedene Objekte lässt die ausgewählten Einheiten die passendste Handlung damit ausführen.\nSieh selbst, wie es funktioniert.
+
+it: Non so cos’altro chiederti, ciao!
+de: Äh... Ich weiß nicht, was ich fragen soll. Auf Wiedersehen!
+
+it: Poi...?
+de: Mehr...
+
+it: Come posso portare sotto il mio comando altre unità?
+de: Wie bekomme ich mehr Einheiten zum Befehligen?
+
+it: Come posso scoprire nuove tecnologie?
+de: Wie erforsche ich Technologien?
+
+it: Come posso difendermi da un attacco nemico?
+de: Wie verteidige ich mich gegen einen feindlichen Angriff?
+
+it: Per esempio, se vuoi costruire una fattoria, clicca su "Comuni" e a seguire sull’icona "Costruire una fattoria".
+de: Willst du zum Beispiel einen Bauernhof bauen, klickst du auf die Gruppe »Gewöhnlich« und dann auf die Schaltfläche »Bauernhof«.
+
+it: Fatto questo, colloca l’edificio all’interno della mappa. Nel caso in cui non potessi posizionarlo nel luogo da te scelto, l’edificio ti apparirà rosso. In caso contrario sarà verde. Quando avrai trovato la posizione giusta, clicca col pulsante sinistro del mouse.
+de: Dann setzt du das Gebäude in die Ansicht. Es ist rot, wo du es nicht setzen kannst, und grün, wo du es kannst.
+
+it: Il modo più facile per ottenere cibo è la coltivazione, anche se, in generale, la pesca risulta più redditizia. Costruisci un porto e poi una barca da pesca. Selezionala e clicca con il pulsante destro del mouse su di una banchina da pesca.
+de: Am einfachsten gewinnst du Nahrung, indem du Felder anlegst.\nFischen ist meist ergiebiger. Baue einen Hafen und dann ein Fischerboot. Wähle es aus und klicke mit der rechten Maustaste auf einen Fischgrund.
+
+it: Puoi anche allevare bestiame. Per farlo costruisci una fattoria, trova in essa la voce "Allevamento" e quindi crea delle mucche. Almeno un contadino dovrà occuparsi di esse, perciò selezionane uno e poi clicca su una mucca col pulsante destro del mouse.
+de: Du kannst auch Vieh züchten. Baue einen Bauernhof. Erforsche die »Viehzucht« und erschaffe dann ein paar Kühe. Lass einen Bauern sie hüten, indem du ihn auswählst und auf eine Kuh klickst.
+
+it: Puoi raccogliere legna selezionando un gruppo di contadini e poi cliccando su di un albero col pulsante destro del mouse. Puoi costruire una segheria vicino al bosco per custodirvi la legna (in questo modo i taglialegna non dovranno andare fino al castello).
+de: Holz sammelst du, indem du Bauern auswählst und mit der rechten Maustaste auf einen Baum klickst. Baust du ein Sägewerk in der Nähe des Waldes, dient es den Holzfällern als Sammelstelle.
+
+it: Per raccogliere oro e pietra dovrai trovare una miniera d’oro o una cava di pietra. Costruisci un deposito vicino ad esse e clicca col pulsante destro del mouse perché i contadini selezionati comincino a raccogliere l’oro nella miniera.
+de: Für Gold oder Stein suchst du eine Gold- oder Steinmine. Baue ein Lager daneben und klicke mit der rechten Maustaste auf die Mine, damit die ausgewählten Bauern für dich abbauen.
+
+it: Per quanto riguarda gli edifici, c’è un’icona a forma di cuore che indica la capacità degli stessi di resistere ai tentativi di attacco da parte dei contadini nemici.
+de: Gebäude haben ein Herzsymbol, das zeigt, wie viel Widerstand sie leisten, wenn feindliche Bauern sie gewinnen wollen.
+
+it: Sotto l’immagine dell’unità ci sono una barra che ne indica lo stato di salute e una serie di numeri che precisano il livello massimo di salute dell’unità e quello specifico del momento. Quando sono selezionate più unità, la barra della salute fornisce una media dello stato di salute delle stesse.
+de: Unter dem Bild der Einheit sind ein Lebensbalken und Zahlen, die ihre aktuelle und höchste Gesundheit zeigen. Sind mehrere Einheiten ausgewählt, zeigt der Balken ihre durchschnittliche Gesundheit.
+
+it: Ci sono molti edifici in cui si possono creare nuove unità. All’interno del castello puoi creare i contadini mentre nelle caserme viene creata la maggior parte delle unità militari. Le fattorie producono mucche e nei porti si costruiscono tutte le barche.
+de: Viele Gebäude bilden Einheiten aus. Deine Burg erschafft Bauern, die Kaserne die meisten Militäreinheiten, Bauernhöfe das Vieh und Häfen alle Schiffe.
+
+it: In primo luogo seleziona un edificio e poi clicca sull’icona che crea l’unità da te desiderata. Troverai le icone nella zona informativa. Spostando il mouse su di esse appariranno messaggi d’aiuto nella parte inferiore sinistra dell’immagine.
+de: Wähle zuerst das passende Gebäude aus und klicke dann auf die Schaltfläche der gewünschten Einheit. Die Schaltflächen liegen beim Auswahlfeld. Hilfetexte erscheinen unten links in der Ansicht, wenn du mit der Maus darüberfährst.
+
+it: Clicca sulle unità che vuoi proteggere e poi clicca immediatamente col pulsante destro del mouse sul castello o sul posto di guardia in cui vuoi nasconderle. Le suddette unità saranno maggiormente protette all’interno di questi edifici e, in seguito, potranno anche curare le loro ferite. \nPer farle uscire dall’edificio, clicca sull’icona "Evacuare tutte le unità".
+de: Klicke auf die Einheiten, die du schützen willst, und dann mit der rechten Maustaste auf die Burg oder einen Außenposten, damit sie hineingehen. Drinnen sind sie besser geschützt, und wenn sie verwundet sind, heilen sie mit der Zeit.\nUm sie herauszuholen, klicke auf die Schaltfläche »Alle Einheiten herauslassen«.
+
+it: Esistono molte tecnologie e unità che non sono immediatamente disponibili all’inizio della partita: scoprirle è molto costoso, ma i vantaggi che procurano sono inestimabili.
+de: Viele Technologien und Einheiten sind zu Spielbeginn nicht verfügbar. Ihre Erforschung ist teuer, aber der Nutzen ist groß.
+
+it: Per scoprire una tecnologia seleziona un edificio in grado di produrla e clicca sulla relativa icona. Quando la ricerca sarà completata le migliorie ad essa associate diverranno automaticamente disponibili.
+de: Um eine Verbesserung zu erforschen, wähle das Gebäude aus, das sie anbietet, und klicke auf ihre Schaltfläche. Die Verbesserung wirkt, sobald die Forschung abgeschlossen ist.
+
+it: Esistono tecnologie che ti permettono di raccogliere più rapidamente le risorse delle segherie, dei depositi o delle fattorie. \nPer rinforzare il tuo esercito o scoprire nuove unità, rivolgiti alla fonderia.
+de: Manche Verbesserungen in Sägewerk, Lager und Bauernhof lassen dich schneller sammeln.\nUm dein Heer zu stärken und neue Einheiten auszubilden, sieh dir die Schmiede an.
+
+it: La quantità di risorse a tua disposizione è visualizzata nella parte superiore dello schermo. Troverai un’icona per ogni tipo di prodotto - oro, legna, cibo e pietra. I due numeri che si trovano dopo l’ultima icona indicano il numero massimo di abitanti del tuo regno e il numero massimo che, in questo momento, puoi mantenere.
+de: Wie viele Rohstoffe du hast, steht oben auf dem Bildschirm. Für jede Art gibt es ein Symbol – Gold, Holz, Nahrung und Stein. Die beiden Zahlen nach dem letzten Symbol zeigen die Bevölkerung deines Reiches und die höchste Bevölkerung, die du zurzeit ernähren kannst.
+
+it: Non solo avrai bisogno di più legna per rinforzare il tuo regno, ma ti occorrerà anche del cibo.\nCi sono nuovi contadini che hanno abbracciato la tua causa: selezionali e, col pulsante destro del mouse, clicca sui campi in modo che comincino a raccogliere cibo.
+de: Sie brauchen mehr Holz, um Ihr Reich zu stärken, aber auch Nahrung.\nEinige neue Bauern haben sich Ihrer Sache angeschlossen. Wählen Sie sie aus und klicken Sie mit der rechten Maustaste auf die Felder östlich der Burg, dann sammeln sie Nahrung für Sie.
+
+it: Vedo che ti sei procurato del cibo. Puoi utilizzare i nuovi contadini fedeli alla tua causa per raccoglierne dell’altro.
+de: Wie ich sehe, hast du etwas Nahrung gesammelt. Mit diesen neuen Bauern, die sich deiner Sache angeschlossen haben, sammelst du noch schneller.
+
+it: Non dimenticare che i campi spariranno se non ci saranno contadini a coltivarli.
+de: Vorsicht: Die Felder verschwinden schnell, wenn keine Bauern darauf arbeiten.
+
+it: Molto bene! Ora sai come far muovere i contadini.
+de: Sehr gut. Jetzt weißt du, wie man Bauern bewegt.
+
+it: Clicca su di un albero col pulsante destro del mouse e i contadini selezionati lo abbatteranno. Ordina a tutti i tuoi contadini di raccogliere la legna e osserva come lo fanno.
+de: Mit einem Rechtsklick auf einen Baum lässt du die ausgewählten Bauern ihn fällen.\nBefiehl all deinen Bauern, Holz zu sammeln, und sieh zu, wie sie es tun.
+
+it: Bene. Ora clicca su uno spazio aperto col pulsante destro del mouse per ordinare a un contadino di dirigersi lì. \nGuida il contadino al castello che si trova a nord; per farlo ti basta cliccare in prossimità della struttura.
+de: Gut. Klicke jetzt mit der rechten Maustaste auf eine freie Stelle, damit der Bauer dorthin geht.\nSchicke den Bauern zur Burg nördlich von hier, indem du in ihre Nähe klickst.
+
+it: Salve ragazzo!\nMi chiamo Haaser e sono qui per insegnarti un po’ di cose.\nPer continuare clicca sul testo.
+de: Sei gegrüßt, junger Freund!\nMein Name ist Haaser, und ich will meine Weisheit mit dir teilen.\nKlicke auf den Text, um fortzufahren.
+
+it: Credo di sapere quello che mi stai per spiegare: affidami una missione e ti dimostrerò cosa so fare!
+de: Vielleicht weiß ich schon, was du mir sagen willst. Gib mir eine Aufgabe, damit ich mich beweisen kann!
+
+it: Hmm, cos’è un gioco di strategia in tempo reale?
+de: Hm, was ist eigentlich ein Echtzeit-Strategiespiel?
+
+it: Va bene! Raccogli 200 unità di legna, cibo, oro e pietra. \nRicordati che se hai bisogno d’aiuto puoi sempre rivolgerti a me (basta che clicchi su di me col pulsante sinistro del mouse).
+de: Gut. Deine Aufgabe ist es, je 200 Einheiten Holz, \nNahrung, Gold und Stein zu sammeln.\nAber denk daran – du kannst mich jederzeit anklicken und um Hilfe bitten.
+
+it: Per selezionare un contadino cliccaci sopra col pulsante sinistro del mouse oppure,\nse vuoi selezionarne più di uno, tieni premuto il pulsante sinistro del mouse mentre crei un riquadro intorno a essi. \nOra cerca di selezionare il contadino che si trova vicino all’albero caduto.
+de: Bauern wählst du aus, indem du sie anklickst oder mit der linken Maustaste einen Rahmen um sie ziehst.\nVersuche jetzt, den Bauern neben dem toten Baum auszuwählen.
+
+it: Bene, vedo che hai bisogno di alcune spiegazioni.\nCome noterai, sullo schermo è visibile solo una piccola parte del mondo, però se porti il mouse verso l’angolo sinistro dello schermo potrai spostarti sulla mappa (non farlo mentre stiamo parlando!).
+de: Gut, ich erkläre es dir.\nAuf dem Bildschirm siehst du nur einen kleinen Teil der Welt.\nFührst du die Maus an den Bildschirmrand, scrollt die Ansicht. (Während wir reden, geht das nicht.)
+
+it: Hai mai affrontato un gioco di strategia in tempo reale?
+de: Hast du schon andere Echtzeit-Strategiespiele gespielt?
+
+it: E ricorda che se ti occorresse aiuto puoi sempre rivolgerti a me.
+de: Und denk daran – du kannst mich jederzeit anklicken und um Hilfe bitten.
+
+# tzartutorial.wcm::maps/perfect 3
+it: Esercitazione di base 3
+de: Tutorial 3
+
+it: Regno 6
+de: Reich 6
+
+it: Costruisci 2 caserme e crea 10 unità militari
+de: Bauen Sie zwei Kasernen und erschaffen Sie zehn Militäreinheiten.
+
+it: Distruggi tutte le unità nemiche che si trovano in zona
+de: Besiegen Sie alle feindlichen Einheiten im Gebiet.
+
+it: Hai dimostrato la tua capacità nell’ottenere risorse e nell’organizzare la tua economia, ma ora è arrivato il momento di mettere alla prova la tua abilità nel creare un esercito.\n\nCircolano voci sulla presenza in zona di truppe nemiche e di bestie orribili. Riunisci tutte le tue forze e sconfiggili.\n\n- Costruisci 2 caserme\n\n- Crea 10 unità militari\n\n- Distruggi tutte le forze nemiche presenti in zona
+de: Sie haben sich beim Sammeln von Rohstoffen und beim Ordnen Ihrer Wirtschaft bewährt. Zeit, Ihr Geschick beim Aufstellen eines Heeres zu prüfen! \nMan munkelt von feindlichen Truppen und schrecklichen Ungeheuern in der Gegend. Stellen Sie eine passende Streitmacht auf und vernichten Sie sie.\n\n - Zwei Kasernen bauen\n\n - Zehn Militäreinheiten erschaffen\n\n - Alle feindlichen Truppen im Gebiet vernichten
+
+# tzartutorial.wcm::maps/perfect 4
+it: Esercitazione di base 4
+de: Tutorial 4
+
+it: Regno3
+de: Reich 3
+
+it: Costruisci un porto\n\nCostruisci 2 barche da pesca\n\nCostruisci 3 golette e 2 galere
+de: Bauen Sie einen Hafen.\n\nBauen Sie zwei Fischerboote.\n\nBauen Sie drei Schebecken und zwei Holks.
+
+it: Distruggi tutte le unità nemiche presenti in zona\nFai sbarcare alcune truppe nell’estremità occidentale dell’isola e distruggi l’accampamento che è lì posizionato
+de: Vernichten Sie alle feindlichen Einheiten im Gebiet.\n\nSetzen Sie Truppen auf der Insel weit im Westen ab und zerstören Sie das Lager dort.
+
+it: Hai dimostrato il tuo valore annientando piccoli gruppi di unità nemiche, ma ora vediamo come te la cavi nell’organizzare una forza combinata.\n\nI tuoi nemici vogliono prendere il controllo di questa zona: stanno costruendo una flotta presso un’isola fortificata che si trova a sud. Distruggili!\n\n- Costruisci un porto\n\n- Costruisci 2 barche da pesca\n\n- Costruisci 3 golette e 2 galere\n\n- Elimina la presenza nemica dalla zona
+de: Sie haben kleine feindliche Gruppen gut besiegt. Doch nun ist es Zeit zu sehen, ob Sie eine gemischte Streitmacht führen können.\nIhre Feinde wollen dieses Gebiet unter ihre Kontrolle bringen. Sie bauen eine Flotte auf einer befestigten Insel weit im Süden. Vernichten Sie sie! \n\n - Hafen bauen\n\n - Zwei Fischerboote bauen\n\n - Drei Schebecken und zwei Holks bauen\n\n - Den Feind aus diesem Gebiet vertreiben
+
+# tzartutorial.wcm::maps/perfect 5
+it: Esercitazione di base 5
+de: Tutorial 5
+
+it: Costruisci una fonderia, una stalla, un posto di guardia, una taverna e un laboratorio\n\nCostruisci 3 catapulte
+de: Bauen Sie Schmiede, Stall, Außenposten, Taverne und Werkstatt.\n\nErschaffen Sie drei Katapulte.
+
+it: Distruggi le torri nemiche
+de: Zerstören Sie die feindlichen Türme.
+
+it: Hai svolto un ottimo il lavoro nel corso della tua ultima missione! Ora ti manca solo una sfida prima di affrontare il mondo reale nella tua prossima missione. A nord-est troverai una postazione nemica molto ben difesa. Utilizza le baliste e gli avamposti per rompere le linee nemiche.\n\n- Costruisci una fonderia, una stalla, una bottega, una taverna e un posto di guardia\n\n- Costruisci 3 baliste\n\n- Distruggi tutte le torri nemiche
+de: Hervorragende Arbeit in der letzten Mission! Eine letzte Aufgabe bleibt vor der echten Herausforderung der nächsten Mission.\nIm Nordwesten liegt eine schwer verteidigte Stellung. Durchbrechen Sie die Verteidigung mühelos mit Katapulten und Verbesserungen.\n\n - Schmiede, Stall, Werkstatt, Taverne und Außenposten bauen\n\n - Drei Katapulte erschaffen\n\n - Alle feindlichen Türme zerstören
+
+# tzartutorial.wcm::maps/tutmap1
+it: Esercitazione di base 1
+de: Grundausbildung 1
+
+it: Esercizio per la  costruzione di case e la creazione di coltivazioni, per l’addestramento di contadini e la raccolta di risorse
+de: Üben Sie, Häuser und Felder zu bauen, Bauern auszubilden und Rohstoffe zu sammeln.
+
+it: In questa missione di preparazione dovrai familiarizzare con le sfide fondamentali che i tuoi contadini dovranno affrontare. Inoltre dovrai dimostrare le tue doti di leader portando a termine alcuni piccoli compiti.\n\nInizierai da un modesto accampamento con alcuni contadini disposti a lavorare per te. Devi costruire delle case, procurarti del cibo e della legna e addestrare altri contadini. Potresti anche dover creare delle coltivazioni aggiuntive per accelerare il processo di raccolta del cibo. Approfittane anche per esplorare la zona con le unità che in questo momento risultano libere.\n\nQuesti sono i tuoi obiettivi:\n\n- Raccogli 100 unità di cibo e 100 di legna\n\n- Costruisci 2 case\n\n- Addestra 10 contadini
+de: In dieser Übungsmission lernen Sie die Grundaufgaben Ihrer Bauern kennen. Außerdem müssen Sie Ihre Eignung als Herrscher beweisen, indem Sie einige einfache Ziele erreichen.\nSie beginnen mit einem kleinen Lager und ein paar arbeitswilligen Bauern. Sie müssen Häuser bauen, Nahrung und Holz sammeln und weitere Bauern ausbilden. Weitere Felder könnten die Ernte beschleunigen. Erkunden Sie das Gebiet ruhig mit Einheiten, die Sie nicht brauchen.\nIhre Ziele:\n\n - 100 Punkte Nahrung und 100 Punkte Holz sammeln\n\n - Zwei Häuser bauen\n\n - Zehn Bauern ausbilden
+
+it: Raccogli 100 unità di cibo e 100 di legna, addestra 10 contadini e costruisci 2 case
+de: Sammeln Sie 100 Punkte Nahrung und 100 Punkte Holz, bilden Sie zehn Bauern aus, bauen Sie zwei Häuser
+
+# tzartutorial.wcm::maps/tutmap2
+it: Esercitazione di base 2
+de: Grundausbildung 2
+
+it: Esercizi di costruzione delle strutture economiche fondamentali e di raccolta di ogni tipo di risorse
+de: Üben Sie, die grundlegenden Wirtschaftsgebäude zu bauen und alle Arten von Rohstoffen zu sammeln.
+
+it: Costruisci una segheria\nCostruisci un magazzino e raccogli 200 unità d'oro e 200 di pietra\nCostruisci una fattoria, scopri la tecnologia “Allevamento” e alleva 2 mucche
+de: Bauen Sie ein Sägewerk und ein Lager, sammeln Sie 200 Gold und 200 Stein, bauen Sie einen Bauernhof, erforschen Sie die Viehzucht und züchten Sie zwei Kühe.
+
+it: Hai fatto un buon lavoro nella raccolta di risorse.\n\nIn questa missione continuerai a guidare i tuoi contadini aiutandoli a stabilire un buon equilibrio economico: per ottenerlo dovrai costruire alcuni edifici d’appoggio che permetteranno di migliorare la raccolta di risorse. Questo è ciò che dovrai fare: in primo luogo costruisci una segheria vicino al bosco in modo da accelerare l’opera di isboscamento. \n\nSuccessivamente crea un deposito vicino alle miniere d’oro e alle cave di pietra e comincia a sfruttarle, infine costruisci una fattoria, inserisci in essa la tecnologia dell’allevamento e alleva alcune mucche. Alla fine di quanto sopra sarai a tuo agio con i compiti fondamentali per il mantenimento di un’economia efficiente e potrai passare a missioni più "stimolanti".\n\n- Costruisci una segheria vicino al bosco che si trova a sud\n\n- Costruisci un deposito vicino ai giacimenti di pietre e oro che si trovano a est\n\n- Raccogli 200 unità d'oro e pietra\n\n- Costruisci una fattoria e scopri la tecnologia dell’allevamento\n\n- Alleva 2 mucche
+de: Gute Arbeit beim Sammeln der nötigen Rohstoffe.\nIn dieser Mission lenken Sie weiter Ihre Bauern und helfen ihnen, eine starke Wirtschaft aufzubauen. Sie werden einige Hilfsgebäude bauen müssen, die das Sammeln der Rohstoffe leistungsfähiger machen. Das ist zu tun: Bauen Sie zuerst ein Sägewerk am Wald, damit das Holzfällen schneller geht. Dann bauen Sie ein Lager bei den Gold- und Steinminen und beginnen, diese Rohstoffe abzubauen. Bauen Sie einen Bauernhof, erforschen Sie dort die Viehzucht und züchten Sie dann ein Paar Kühe. Danach kennen Sie die Grundaufgaben einer leistungsfähigen Wirtschaft und sind bereit für spannendere Missionen.\n\n - Ein Sägewerk am Wald im Süden bauen\n - Ein Lager bei den Stein- und Goldvorkommen im Osten bauen\n - 200 Punkte Gold und 200 Punkte Stein sammeln\n - Einen Bauernhof bauen und die Viehzucht erforschen\n - Zwei Kühe züchten
+
+# tzartutorial.wcm::maps/tutmap6
+it: Esercitazione di base 6
+de: Grundausbildung 6
+
+it: Esercizio di costruzione e miglioramento delle torri e, volendo, di combattimento contro il nemico controllato dal computer
+de: Üben Sie, Türme zu bauen und auszubauen, und wenn Sie wollen, gegen einen Feind unter Computersteuerung zu kämpfen.
+
+it: Costruisci 6 torri di pietra
+de: Bauen Sie sechs Bergfriede.
+
+it: Sbaraglia il nemico (regno rosso)
+de: Besiegen Sie das rote feindliche Reich.
+
+it: Ora sei quasi pronto per assumerti la responsabilità di governare il regno.\n\nTuttavia c’è ancora qualcosa che devi imparare prima di impegnarti in una vera battaglia: come erigere fortificazioni.\n\nNella tua prossima missione dovrai costruire alcune torri in pietra. Per farlo crea delle torrette d’osservazione per poi migliorarle fino ad ottenere delle torri di guardia e poi delle torri in pietra. Ma prima devi scoprire la tecnologia "Architettura".\nQuando avrai finito di fortificare la tua città, ti si presenterà la possibilità di scontrarti con il nemico. \n\nQuesto è ciò che dovrai fare:\n\n- Costruire 6 torri in pietra\n\n- Distruggere il regno rosso nemico (se hai deciso di combattere)
+de: Sie sind fast bereit, die Verantwortung für ein Reich zu tragen.\nDoch eines müssen Sie noch lernen, bevor Sie in eine echte Schlacht ziehen – Befestigungen zu bauen.\nIn Ihrer nächsten Mission müssen Sie mehrere Bergfriede bauen. Dazu bauen Sie zuerst Wachtürme, bauen sie zu Wehrtürmen und dann zu Bergfrieden aus. Dafür müssen Sie die Baukunst erforschen.\nWenn Ihre Stadt befestigt ist, können Sie wählen, gegen einen echten Feind zu kämpfen.\nDas ist zu tun:\n\n - Sechs Bergfriede bauen\n- Das rote feindliche Reich vernichten (wenn Sie kämpfen wollen)
+
+it: Congratulazioni! Hai portato a compimento tutte le missioni di preparazione e sei pronto per governare il tuo regno.\nVuoi uscire ora o preferisci mettere alla prova le tue nuove capacità in una vera battaglia?
+de: Glückwunsch! Sie haben alle Übungsaufgaben erfüllt und sind bereit, Ihr eigenes Reich zu regieren.\nWollen Sie jetzt aufhören oder Ihr neues Können in einer echten Schlacht erproben?
+
+it: Voglio uscire ora.
+de: Ich möchte jetzt aufhören.
+
+it: Voglio combattere! Vediamo come sono questi temibili eserciti!
+de: Ich will kämpfen! Gebt mir alles, was ihr habt!
+
+it: Congratulazioni! Hai portato a compimento tutte le missioni di preparazione e sei pronto per governare il tuo regno.\nOra sei nel pieno di uno scontro cruciale all’ultimo sangue con un nemico potente. Vuoi uscire ora o preferisci mettere alla prova le tue nuove capacità in una vera battaglia?
+de: Glückwunsch! Sie haben alle Übungsaufgaben erfüllt und sind bereit, Ihr eigenes Reich zu regieren.\nNun stehen Sie in einem Kampf auf Leben und Tod gegen einen mächtigen Feind. Wollen Sie jetzt aufhören oder Ihr neues Können in dieser Schlacht erproben?

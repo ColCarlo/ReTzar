@@ -1,0 +1,958 @@
+{
+  "original_sha256": "d54482ffc9d9884401e9c9f498b3c3d0118dd0142277ff5e1a00ca25e8cd9dbb",
+  "scope": "Isolated original arithmetic with property getter stubs; not complete combat or capture scheduling",
+  "damage": [
+    {
+      "attack": 1,
+      "defence": 0,
+      "category": 0,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 0,
+      "category": 1,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 0,
+      "category": 2,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 0,
+      "category": 3,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 0,
+      "category": 5,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 3,
+      "category": 0,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 3,
+      "category": 1,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 3,
+      "category": 2,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 3,
+      "category": 3,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 3,
+      "category": 5,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 10,
+      "category": 0,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 10,
+      "category": 1,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 10,
+      "category": 2,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 10,
+      "category": 3,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 10,
+      "category": 5,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 100,
+      "category": 0,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 100,
+      "category": 1,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 100,
+      "category": 2,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 100,
+      "category": 3,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 100,
+      "category": 5,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 1000,
+      "category": 0,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 1000,
+      "category": 1,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 1000,
+      "category": 2,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 1000,
+      "category": 3,
+      "expected": 1
+    },
+    {
+      "attack": 1,
+      "defence": 1000,
+      "category": 5,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 0,
+      "category": 0,
+      "expected": 5
+    },
+    {
+      "attack": 5,
+      "defence": 0,
+      "category": 1,
+      "expected": 5
+    },
+    {
+      "attack": 5,
+      "defence": 0,
+      "category": 2,
+      "expected": 5
+    },
+    {
+      "attack": 5,
+      "defence": 0,
+      "category": 3,
+      "expected": 5
+    },
+    {
+      "attack": 5,
+      "defence": 0,
+      "category": 5,
+      "expected": 5
+    },
+    {
+      "attack": 5,
+      "defence": 3,
+      "category": 0,
+      "expected": 3
+    },
+    {
+      "attack": 5,
+      "defence": 3,
+      "category": 1,
+      "expected": 3
+    },
+    {
+      "attack": 5,
+      "defence": 3,
+      "category": 2,
+      "expected": 3
+    },
+    {
+      "attack": 5,
+      "defence": 3,
+      "category": 3,
+      "expected": 5
+    },
+    {
+      "attack": 5,
+      "defence": 3,
+      "category": 5,
+      "expected": 3
+    },
+    {
+      "attack": 5,
+      "defence": 10,
+      "category": 0,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 10,
+      "category": 1,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 10,
+      "category": 2,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 10,
+      "category": 3,
+      "expected": 5
+    },
+    {
+      "attack": 5,
+      "defence": 10,
+      "category": 5,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 100,
+      "category": 0,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 100,
+      "category": 1,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 100,
+      "category": 2,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 100,
+      "category": 3,
+      "expected": 5
+    },
+    {
+      "attack": 5,
+      "defence": 100,
+      "category": 5,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 1000,
+      "category": 0,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 1000,
+      "category": 1,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 1000,
+      "category": 2,
+      "expected": 1
+    },
+    {
+      "attack": 5,
+      "defence": 1000,
+      "category": 3,
+      "expected": 5
+    },
+    {
+      "attack": 5,
+      "defence": 1000,
+      "category": 5,
+      "expected": 1
+    },
+    {
+      "attack": 10,
+      "defence": 0,
+      "category": 0,
+      "expected": 10
+    },
+    {
+      "attack": 10,
+      "defence": 0,
+      "category": 1,
+      "expected": 10
+    },
+    {
+      "attack": 10,
+      "defence": 0,
+      "category": 2,
+      "expected": 10
+    },
+    {
+      "attack": 10,
+      "defence": 0,
+      "category": 3,
+      "expected": 10
+    },
+    {
+      "attack": 10,
+      "defence": 0,
+      "category": 5,
+      "expected": 10
+    },
+    {
+      "attack": 10,
+      "defence": 3,
+      "category": 0,
+      "expected": 7
+    },
+    {
+      "attack": 10,
+      "defence": 3,
+      "category": 1,
+      "expected": 7
+    },
+    {
+      "attack": 10,
+      "defence": 3,
+      "category": 2,
+      "expected": 7
+    },
+    {
+      "attack": 10,
+      "defence": 3,
+      "category": 3,
+      "expected": 10
+    },
+    {
+      "attack": 10,
+      "defence": 3,
+      "category": 5,
+      "expected": 7
+    },
+    {
+      "attack": 10,
+      "defence": 10,
+      "category": 0,
+      "expected": 5
+    },
+    {
+      "attack": 10,
+      "defence": 10,
+      "category": 1,
+      "expected": 5
+    },
+    {
+      "attack": 10,
+      "defence": 10,
+      "category": 2,
+      "expected": 5
+    },
+    {
+      "attack": 10,
+      "defence": 10,
+      "category": 3,
+      "expected": 10
+    },
+    {
+      "attack": 10,
+      "defence": 10,
+      "category": 5,
+      "expected": 5
+    },
+    {
+      "attack": 10,
+      "defence": 100,
+      "category": 0,
+      "expected": 1
+    },
+    {
+      "attack": 10,
+      "defence": 100,
+      "category": 1,
+      "expected": 1
+    },
+    {
+      "attack": 10,
+      "defence": 100,
+      "category": 2,
+      "expected": 1
+    },
+    {
+      "attack": 10,
+      "defence": 100,
+      "category": 3,
+      "expected": 10
+    },
+    {
+      "attack": 10,
+      "defence": 100,
+      "category": 5,
+      "expected": 1
+    },
+    {
+      "attack": 10,
+      "defence": 1000,
+      "category": 0,
+      "expected": 1
+    },
+    {
+      "attack": 10,
+      "defence": 1000,
+      "category": 1,
+      "expected": 1
+    },
+    {
+      "attack": 10,
+      "defence": 1000,
+      "category": 2,
+      "expected": 1
+    },
+    {
+      "attack": 10,
+      "defence": 1000,
+      "category": 3,
+      "expected": 10
+    },
+    {
+      "attack": 10,
+      "defence": 1000,
+      "category": 5,
+      "expected": 1
+    },
+    {
+      "attack": 50,
+      "defence": 0,
+      "category": 0,
+      "expected": 50
+    },
+    {
+      "attack": 50,
+      "defence": 0,
+      "category": 1,
+      "expected": 50
+    },
+    {
+      "attack": 50,
+      "defence": 0,
+      "category": 2,
+      "expected": 50
+    },
+    {
+      "attack": 50,
+      "defence": 0,
+      "category": 3,
+      "expected": 50
+    },
+    {
+      "attack": 50,
+      "defence": 0,
+      "category": 5,
+      "expected": 50
+    },
+    {
+      "attack": 50,
+      "defence": 3,
+      "category": 0,
+      "expected": 47
+    },
+    {
+      "attack": 50,
+      "defence": 3,
+      "category": 1,
+      "expected": 47
+    },
+    {
+      "attack": 50,
+      "defence": 3,
+      "category": 2,
+      "expected": 47
+    },
+    {
+      "attack": 50,
+      "defence": 3,
+      "category": 3,
+      "expected": 50
+    },
+    {
+      "attack": 50,
+      "defence": 3,
+      "category": 5,
+      "expected": 47
+    },
+    {
+      "attack": 50,
+      "defence": 10,
+      "category": 0,
+      "expected": 41
+    },
+    {
+      "attack": 50,
+      "defence": 10,
+      "category": 1,
+      "expected": 41
+    },
+    {
+      "attack": 50,
+      "defence": 10,
+      "category": 2,
+      "expected": 41
+    },
+    {
+      "attack": 50,
+      "defence": 10,
+      "category": 3,
+      "expected": 50
+    },
+    {
+      "attack": 50,
+      "defence": 10,
+      "category": 5,
+      "expected": 41
+    },
+    {
+      "attack": 50,
+      "defence": 100,
+      "category": 0,
+      "expected": 16
+    },
+    {
+      "attack": 50,
+      "defence": 100,
+      "category": 1,
+      "expected": 16
+    },
+    {
+      "attack": 50,
+      "defence": 100,
+      "category": 2,
+      "expected": 16
+    },
+    {
+      "attack": 50,
+      "defence": 100,
+      "category": 3,
+      "expected": 50
+    },
+    {
+      "attack": 50,
+      "defence": 100,
+      "category": 5,
+      "expected": 16
+    },
+    {
+      "attack": 50,
+      "defence": 1000,
+      "category": 0,
+      "expected": 2
+    },
+    {
+      "attack": 50,
+      "defence": 1000,
+      "category": 1,
+      "expected": 2
+    },
+    {
+      "attack": 50,
+      "defence": 1000,
+      "category": 2,
+      "expected": 2
+    },
+    {
+      "attack": 50,
+      "defence": 1000,
+      "category": 3,
+      "expected": 50
+    },
+    {
+      "attack": 50,
+      "defence": 1000,
+      "category": 5,
+      "expected": 2
+    },
+    {
+      "attack": 500,
+      "defence": 0,
+      "category": 0,
+      "expected": 500
+    },
+    {
+      "attack": 500,
+      "defence": 0,
+      "category": 1,
+      "expected": 500
+    },
+    {
+      "attack": 500,
+      "defence": 0,
+      "category": 2,
+      "expected": 500
+    },
+    {
+      "attack": 500,
+      "defence": 0,
+      "category": 3,
+      "expected": 500
+    },
+    {
+      "attack": 500,
+      "defence": 0,
+      "category": 5,
+      "expected": 500
+    },
+    {
+      "attack": 500,
+      "defence": 3,
+      "category": 0,
+      "expected": 497
+    },
+    {
+      "attack": 500,
+      "defence": 3,
+      "category": 1,
+      "expected": 497
+    },
+    {
+      "attack": 500,
+      "defence": 3,
+      "category": 2,
+      "expected": 497
+    },
+    {
+      "attack": 500,
+      "defence": 3,
+      "category": 3,
+      "expected": 500
+    },
+    {
+      "attack": 500,
+      "defence": 3,
+      "category": 5,
+      "expected": 497
+    },
+    {
+      "attack": 500,
+      "defence": 10,
+      "category": 0,
+      "expected": 490
+    },
+    {
+      "attack": 500,
+      "defence": 10,
+      "category": 1,
+      "expected": 490
+    },
+    {
+      "attack": 500,
+      "defence": 10,
+      "category": 2,
+      "expected": 490
+    },
+    {
+      "attack": 500,
+      "defence": 10,
+      "category": 3,
+      "expected": 500
+    },
+    {
+      "attack": 500,
+      "defence": 10,
+      "category": 5,
+      "expected": 490
+    },
+    {
+      "attack": 500,
+      "defence": 100,
+      "category": 0,
+      "expected": 416
+    },
+    {
+      "attack": 500,
+      "defence": 100,
+      "category": 1,
+      "expected": 416
+    },
+    {
+      "attack": 500,
+      "defence": 100,
+      "category": 2,
+      "expected": 416
+    },
+    {
+      "attack": 500,
+      "defence": 100,
+      "category": 3,
+      "expected": 500
+    },
+    {
+      "attack": 500,
+      "defence": 100,
+      "category": 5,
+      "expected": 416
+    },
+    {
+      "attack": 500,
+      "defence": 1000,
+      "category": 0,
+      "expected": 166
+    },
+    {
+      "attack": 500,
+      "defence": 1000,
+      "category": 1,
+      "expected": 166
+    },
+    {
+      "attack": 500,
+      "defence": 1000,
+      "category": 2,
+      "expected": 166
+    },
+    {
+      "attack": 500,
+      "defence": 1000,
+      "category": 3,
+      "expected": 500
+    },
+    {
+      "attack": 500,
+      "defence": 1000,
+      "category": 5,
+      "expected": 166
+    }
+  ],
+  "capture": [
+    {
+      "resistance": 0,
+      "after_pulse": 0
+    },
+    {
+      "resistance": 1,
+      "after_pulse": 0
+    },
+    {
+      "resistance": 2,
+      "after_pulse": 0
+    },
+    {
+      "resistance": 3,
+      "after_pulse": 0
+    },
+    {
+      "resistance": 5,
+      "after_pulse": 0
+    },
+    {
+      "resistance": 6,
+      "after_pulse": 1
+    },
+    {
+      "resistance": 80,
+      "after_pulse": 75
+    },
+    {
+      "resistance": 1000,
+      "after_pulse": 995
+    }
+  ],
+  "ship_upgrades": [
+    {
+      "before_level": 1,
+      "after_level": 2,
+      "period_ms": 2400
+    },
+    {
+      "before_level": 2,
+      "after_level": 3,
+      "period_ms": 1900
+    },
+    {
+      "before_level": 3,
+      "after_level": 4,
+      "period_ms": 1500
+    },
+    {
+      "before_level": 4,
+      "after_level": 5,
+      "period_ms": 1200
+    },
+    {
+      "before_level": 5,
+      "after_level": 6,
+      "period_ms": 800
+    },
+    {
+      "before_level": 6,
+      "after_level": 6,
+      "period_ms": 3000
+    }
+  ],
+  "ore": [
+    {
+      "yield_amount": 10,
+      "percent": 50,
+      "before": 1,
+      "after": 0,
+      "load": 2
+    },
+    {
+      "yield_amount": 10,
+      "percent": 50,
+      "before": 3,
+      "after": 0,
+      "load": 6
+    },
+    {
+      "yield_amount": 10,
+      "percent": 50,
+      "before": 10,
+      "after": 5,
+      "load": 10
+    },
+    {
+      "yield_amount": 10,
+      "percent": 50,
+      "before": 100,
+      "after": 95,
+      "load": 10
+    },
+    {
+      "yield_amount": 10,
+      "percent": 100,
+      "before": 1,
+      "after": 0,
+      "load": 1
+    },
+    {
+      "yield_amount": 10,
+      "percent": 100,
+      "before": 3,
+      "after": 0,
+      "load": 3
+    },
+    {
+      "yield_amount": 10,
+      "percent": 100,
+      "before": 10,
+      "after": 0,
+      "load": 10
+    },
+    {
+      "yield_amount": 10,
+      "percent": 100,
+      "before": 100,
+      "after": 90,
+      "load": 10
+    },
+    {
+      "yield_amount": 12,
+      "percent": 50,
+      "before": 1,
+      "after": 0,
+      "load": 2
+    },
+    {
+      "yield_amount": 12,
+      "percent": 50,
+      "before": 3,
+      "after": 0,
+      "load": 6
+    },
+    {
+      "yield_amount": 12,
+      "percent": 50,
+      "before": 10,
+      "after": 4,
+      "load": 12
+    },
+    {
+      "yield_amount": 12,
+      "percent": 50,
+      "before": 100,
+      "after": 94,
+      "load": 12
+    },
+    {
+      "yield_amount": 12,
+      "percent": 100,
+      "before": 1,
+      "after": 0,
+      "load": 1
+    },
+    {
+      "yield_amount": 12,
+      "percent": 100,
+      "before": 3,
+      "after": 0,
+      "load": 3
+    },
+    {
+      "yield_amount": 12,
+      "percent": 100,
+      "before": 10,
+      "after": 0,
+      "load": 10
+    },
+    {
+      "yield_amount": 12,
+      "percent": 100,
+      "before": 100,
+      "after": 88,
+      "load": 12
+    }
+  ],
+  "bribes": [
+    {
+      "level": 0,
+      "gold": 50
+    },
+    {
+      "level": 1,
+      "gold": 52
+    },
+    {
+      "level": 5,
+      "gold": 62
+    },
+    {
+      "level": 10,
+      "gold": 75
+    },
+    {
+      "level": 100,
+      "gold": 300
+    }
+  ]
+}

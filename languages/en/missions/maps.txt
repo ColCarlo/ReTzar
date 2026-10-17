@@ -1,0 +1,60 @@
+# Mappe MP1–MP6: i testi della versione americana (Maps/*.wmp del CD),
+# accoppiati per posizione a quelli dell'edizione italiana.
+
+# mp1.wmp::maps/mp1
+it: Sarà un lungo inverno
+en: It's going to be a long winter (1x1 players)
+it: (1 giocatore contro 1)\nUna piccola mappa per giocare 1 contro 1 senza oro né pietre ma con un sacco di sorprendenti risorse.
+en: Tiny map for 1 vs 1 with no gold or stone, but a lot of starting resources.
+it: Regno 1
+en: Kingdom 1
+it: Regno 2
+en: Kingdom 2
+it: Regno 3
+en: Kingdom 3
+it: Regno 4
+en: Kingdom 4
+it: Regno 5
+en: Kingdom 5
+it: Regno 6
+en: Kingdom 6
+it: Regno 7
+en: Kingdom 7
+it: Regno 8
+en: Kingdom 8
+
+# mp2.wmp::maps/mp2
+it: Non c’è posto per entrambi
+en: There is not enough room for two of us (1x1 players)
+it: (1 giocatore contro 1)\nUna piccola mappa per 2 giocatori con migliaia di risorse e tre castelli a testa. Troverete enormi quantità di oro e pietre lungo il cammino.
+en: Tiny map for two players with a lot of resources, and three castles for each player. A lot of gold and stone in the middle.
+
+# mp3.wmp::maps/mp3
+it: La conquista del mondo
+en: Conquer the World
+it: Un grande continente da conquistare. 4 percorsi e migliaia di risorse nella zona centrale.
+en: A big continent to be conquered. Four races and a lot of resources in the central area.
+
+# mp4.wmp::maps/mp4
+it: Ponte vicino
+en: Bridge too close
+it: Un’enorme mappa con tantissimi ponti per giocare in squadre di 2 contro 2.
+en: A huge map with many bridges for playing in teams 2 vs 2.
+
+# mp5.wmp::maps/mp5
+it: È stata scoperta una ricca miniera aurea. Che cominci la febbre dell’oro!
+en: A large gold mine has been found - let the gold rush begin!
+it: Giocatore
+en: Player
+it: Artù
+en: Arthur
+it: Merlino
+en: Merlin
+it: Lancillotto
+en: Lancelot
+
+# mp6.wmp::maps/mp6
+it: L’occupazione
+en: The Occupation - (4x4 players)
+it: (4 giocatori contro 4)\nUna mappa enorme con migliaia di risorse.
+en: An enormous map with a lot of resources.

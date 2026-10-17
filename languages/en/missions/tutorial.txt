@@ -1,0 +1,258 @@
+# Il tutorial (Campaign/TzarTutorial.wcm): i testi della versione americana,
+# accoppiati per posizione a quelli dell'edizione italiana.
+
+# tzartutorial.wcm
+it: Impara a giocare a Tzar.\nApprendi i concetti fondamentali di TZAR: Excalibur e il Re Artù.
+en: TZAR Tutorial\nLearn the basics of playing TZAR: The Burden Of The Crown
+
+# tzartutorial.wcm::maps/intro
+it: Impara a giocare
+en: Introduction
+it: In questa mappa introduttiva Haaser il Saggio ti riassumerà gli elementi fondamentali del gioco. Anche se sei un giocatore provetto, queste istruzioni ti saranno molto utili, giacché contengono alcuni concetti che sono specifici di Tzar: Excalibur e il Re Artù.
+en: In this introductory map, Haaser the Wise summarizes the basics of the game for you. Even if you are an experienced player you may still find it interesting because it explains a few concepts that are specific for TZAR: The Burden of the Crown.
+it: Giocatore
+en: Player
+it: Nemico
+en: Enemy
+it: Regno 3
+en: Kingdom 3
+it: Regno 4
+en: Kingdom 4
+it: Regno 5
+en: Kingdom 5
+it: Saggio
+en: Wise
+it: Regno 7
+en: Kingdom 7
+it: Regno 8
+en: Kingdom 8
+it: Raccogli 200 unità di legna, di cibo, d'oro e di pietra.
+en: Gather 200 points of wood, food, gold and stone.
+it: Benvenuto nella campagna introduttiva di Tzar: Excalibur e il Re Artù.\n\nSe dovessi fermare il testo per leggerlo meglio, cliccaci sopra col pulsante sinistro del mouse. Per riavviare clicca nuovamente sul testo. \n\nLe seguenti sette missioni sono state create per presentarti gli aspetti fondamentali di Tzar. Inoltre ti permetteranno di esercitarti con gli elementi più comuni del gioco in uno scenario libero da ostacoli.\n\nSe avessi bisogno di ulteriori aiuti nel corso della missione, fai riferimento all’aiuto interno di gioco. Puoi accedervi in questo modo:\n\n.- Se non hai unità o edifici selezionati, nel menu degli ordini troverai un’icona d’interrogazione. Clicca su di essa col pulsante sinistro del mouse.\n\n.- Se hai un’unità o un edificio selezionato, clicca col pulsante sinistro del mouse su qualunque parte della mappa per accedere all’icona d’interrogazione.\n\nInoltre puoi vedere, in qualsiasi momento, quali siano gli obiettivi da raggiungere per completare la missione.\n\n.- Scegli l’opzione "Istruzioni" nel menu principale (il pulsante nell’angolo superiore sinistro dello schermo).\n\nBuona fortuna.
+en: Welcome to the tutorial campaign of TZAR: The Burden of the Crown.\n\nIf you need to stop this text from scrolling, click on it. To allow it to move again, click on it once more.\n\nThe next seven missions are made to teach you the basics of playing TZAR, and to allow you to practice the most common elements of the gameplay in a safe and stress-free environment.\nIf you want to learn more about playing the game, check out the in-game help system. It is accessed by pressing the button with the question mark, when no units or buildings are selected. You may also examine your current objectives by selecting Instructions from the main menu.\nWhen you have completed this campaign, you will be ready to play TZAR for real.\n\nGood luck.
+it: Ma che hai fatto? Ora il tuo regno è condannato. Tutto è perduto.
+en: What have you done, young one? Your kingdom is now doomed. Everything is lost ...
+it: Puoi impossessarti di edifici nemici per la tua civiltà e sfruttarli come se fossero tuoi. Seleziona un gruppo di contadini e clicca con il pulsante destro del mouse sull’edificio in questione. Più saranno i contadini impegnati in questo compito, più sarà veloce impossessarsene.
+en: You can convert enemy buildings to your cause by selecting several peasants and right-clicking on the building. The more peasants you assign, the faster the building will be converted.
+it: La resistenza opposta dall’edificio nemico al tuo attacco sarà indicata da un numero collocato accanto all’icona "Cuore" che appare nella zona informativa dell’edificio. Quanto più alto è il numero tanto maggiore sarà il tempo che ti occorrerà per impossessartene.
+en: The amount of resistance a building will offer when you try to convert it is shown as a number next to the heart icon in the selection display area.\nThe greater the number, the greater the resistance will be.
+it: Nel caso un edificio nemico sorga vicino a uno dei tuoi castelli o posti di guardia ti risulterà più facile occuparlo.\nAl contrario, il compito risulterà più difficile se esso dovesse trovarsi nei pressi di una postazione nemica.
+en: When a building is located close to one of your castles or outposts it will be easy for you to convert it.\nWhen a building is located close to one of the enemy's castles or outposts it will offer more resistance when you try to convert it.
+it: C’è un posto di guardia nemico a est del vecchio accampamento. Il posto di guardia, così come il castello, permette di nascondervi all’interno le unità e di curarle. \nCerca di impossessarti di quest’edificio in modo da non doverti procurare risorse per costruirne uno.
+en: There is an enemy outpost to the east of their previous camp. The outpost works a lot like a castle - you can hide and heal your units inside. Convert the outpost to spare the resources needed to build one.
+it: Puoi destinare una parte dell’oro a migliorare le capacità della tua gente. \nSeleziona il tuo castello e clicca sull’icona "Apprendimento".
+en: You may spend some gold to make your people perform better.\nSelect your castle and click on the "Learning" button.
+it: Bel lavoro! Ora puoi contare su una buona difesa.
+en: Good job! You're well defended now.
+it: Scoperto l'"Apprendimento" le tue unità si arricchiranno di maggior esperienza ogni volta che elimineranno un nemico e, col tempo, accederanno ad un livello superiore. Per ogni livello superato otterranno un bonus d’attacco e di difesa che aumenterà il loro potere.
+en: After having researched "Learning", your units will get more experienced with every kill they make and eventually reach a higher level. At each level they will be awarded with an attack and defense bonus and thereby become more powerful.
+it: Abbiamo vinto la battaglia! È tempo di festeggiare la vittoria.
+en: The battle is won! It's time for celebration.
+it: Per il momento il nemico non ti darà più fastidio; approfittane per riorganizzarti.
+en: The enemy won't bother you for a while. You may spend some time organizing yourself.
+it: Erigi intorno al castello due torrette di vedetta che lo proteggano.
+en: Build two Watch Towers next to your castle to protect yourself.
+it: Ora tocca a te attaccare il nemico. \nSchiera le tue forze e distruggi la caserma del nemico prima che riesca a radunare un esercito più forte.
+en: Now it's your turn to attack the enemy.\nAlign your forces and destroy the enemy's barracks before he creates a stronger army.
+it: Per ordinare l’attacco alle unità selezionate, clicca col pulsante destro del mouse sull’edificio o sull’unità nemica che desideri attaccare.
+en: By right-clicking on an enemy building or unit you can order the selected units to attack it.
+it: Percepisco la presenza di forze nemiche! Si stanno avvicinando da sud-est.
+en: I feel the presence of enemy forces! They are coming from the southeast.
+it: Per farli uscire clicca sull’icona "Evacuare tutte le unità".
+en: Click on your peasants and then right-click on the castle to make them hide inside. They will be more protected in the castle, and if they are wounded they will heal with time.\nTo get them out, click on the "Emerge All Units" button.
+it: Ora clicca sulla caserma che hai appena costruito e poi sull’icona "Creare un fante". Per creare un arciere clicca sull’icona "Creare un arciere".
+en: Now click on the barracks you've just built and click on the "Build Footman" button.\nTo build an archer, click on the "Build Archer" button.
+it: Per creare un esercito avrai bisogno di cibo e legna, quindi non tralasciare di raccogliere tutte le risorse che riuscirai a trovare. \nCrea l’esercito più numeroso che puoi, perché il nemico è in avvicinamento.
+en: You'll need food and wood to create an army, so don't stop gathering resources.\nMake the army as large as possible because the enemy is on his way.
+it: Complimenti! Hai appena portato a termine la tua prima missione.
+en: Congratulations! You've just completed your first quest.
+it: La tua prossima sfida sarà di radunare un esercito. Per farlo devi prima creare una caserma.
+en: Your next task is to create an army. To do that you must first build barracks.
+it: Seleziona un contadino e clicca sull’icona "Costruire edifici"; comparirà un elenco di edifici o gruppi di edifici.
+en: Select a peasant and click on the "Build" button. You'll see a list of buildings and groups of buildings.
+it: Clicca sull’icona "Costruire una caserma". Apparirà un’immagine dell’edificio. Trasportalo in uno spazio libero della mappa e clicca col pulsante sinistro del mouse. Se non è possibile collocarla in quella posizione la struttura apparirà in rosso, in caso contrario sarà verde.
+en: Click on the "Build Barracks" button and place the barracks in the view. You'll see that they are colored in red if you cannot place them, and in green if you can.
+it: Ormai sei pronto per la tua prima missione!\nRaccogli 200 unità di cibo, legna, oro e pietra; queste risorse serviranno alla tua causa.
+en: Now you're ready for your first quest!\nGather 200 food, wood, gold and stone. These resources will be used to support your cause.
+it: In qualsiasi momento puoi visualizzare gli obiettivi che devi raggiungere per completare la tua missione grazie all’icona "Vedere gli obiettivi attuali" che appare nel menu degli ordini quando non siano selezionati edifici o unità.
+en: You can access your current quests by clicking on the "View Current Quests" button, which appears when no units are selected.
+it: Utilizza il contadino che hai appena creato per raccogliere l’oro; selezionalo col pulsante sinistro del mouse e clicca con quello destro sulla miniera d’oro che si trova a sud-est del castello.
+en: Use the new peasant you've just created to gather gold by selecting him and right-clicking on the gold mine to the southeast of the castle.
+it: Utilizza il contadino che hai appena creato per raccogliere altro oro.
+en: Use the new peasant you've created to gather more gold.
+it: Hai cibo sufficiente per espandere il tuo regno.\nClicca col pulsante sinistro del mouse sul castello in modo da selezionarlo. Noterai come la sua immagine comparirà nella zona informativa.
+en: You have enough food to expand your kingdom.\nClick on the castle to select it. You'll see its image appear in the selection display area.
+it: Se porti il cursore sull’icona "Creare contadino" vedrai apparire il seguente testo descrittivo nella parte inferiore dell’immagine:\n\n"Creare contadino  P (cibo: 50)"\n\nQuesta dicitura indica l’ordine da eseguire (creare un contadino),\nla possibilità di utilizzare il tasto "P" invece di selezionare l’icona dal menu degli ordini e la quantità di risorse necessaria (50 unità di cibo).\nOgni volta che cliccherai su quest’icona aumenterà il numero di contadini creati, se invece vuoi diminuirlo clicca sulla stessa icona col pulsante destro del mouse.
+en: If you move onto the "Create Peasant" button, a description text will appear at the bottom of the view:\n"Create Peasant - 'P' ( Food:50 )"\nClick on the button to create more peasants to work for you.
+it: Ci sono altri modi per procurarsi il cibo. Seleziona la barca che si trova nel porto a est del castello. Trova una banchina da pesca e cliccaci sopra col pulsante destro del mouse.
+en: There are other ways to gather food. Select the boat at the harbor to the east of the castle. Find a fishing-patch and right-click on it.
+it: Bene. Vedo che hai bisogno di aiuto. Di che si tratta?
+en: Well, I see you need some help. What is it?
+it: Come va, ragazzo?
+en: How is it going, young one?
+it: Hai bisogno di una mano?
+en: Do you need assistance?
+it: Che posso fare per te?
+en: Anything I can do for you?
+it: Come posso dare ordini alle mie truppe?
+en: How to command my units?
+it: Ho bisogno di risorse...
+en: I want some resources ...
+it: Cosa rappresentano tutte queste icone e questi numeri che circondano le unità?
+en: What are all these icons and numbers surrounding the view?
+it: Come faccio a costruire qualcosa?
+en: How can I build something?
+it: Per prima cosa seleziona un contadino, poi clicca sull’icona "Costruire edifici". Vedrai apparire un elenco completo di edifici e gruppi di edifici che puoi costruire.
+en: Select a peasant and click on the "Build" button. You'll see a list of buildings and groups of buildings.
+it: Puoi vedere quali siano le risorse a tua disposizione nella parte superiore dello schermo. Troverai un’icona specifica per ogni tipo di risorsa: oro, legna, cibo e pietra. L’ultima icona indica il numero di abitanti del tuo regno e il numero massimo di abitanti che sei in grado di mantenere attualmente.
+en: The amount of resources at your disposal is shown at the top of the screen. There is an icon for every type of resource - gold, wood, food and stone. The last icon shows the population of your kingdom and the maximum population you can support with your resources.
+it: Puoi selezionare un’unità cliccando su di essa con il pulsante sinistro del mouse (tieni premuto il tasto "Maiusc" per selezionare contemporaneamente più unità) oppure clicca col pulsante sinistro e, mantenendolo premuto, delinea un riquadro che inglobi tutte le unità che vuoi selezionare.
+en: You select your units by clicking on them or dragging them with the left mouse button.
+it: Selezionando un’unità appariranno, nella zona di selezione e accanto alla sua immagine, tutti i parametri a essa relativi. Le unità militari sono caratterizzate da almeno 3 icone: attacco (spada), difesa (scudo) ed esperienza (croce). I numeri che compaiono accanto alle icone indicano l’abilità dell’unità relativa al parametro specifico.
+en: When you select one unit, you'll see its statistics appear next to its image in the selection display area. For military units there are at least three icons - attack (sword), defense (shield) and level (cross). The numbers next to the icons show the unit's abilities.
+it: Per far muovere le unità selezionate, clicca col pulsante destro del mouse su di uno spazio aperto.
+en: You order selected units to move by clicking on an open space with the right mouse button.
+it: Premendo il pulsante destro del mouse sui diversi oggetti, le unità selezionate compiranno l’azione più appropriata in relazione all’oggetto specifico.\nFai delle prove per vedere come funziona il meccanismo.
+en: Right-clicking on various objects will instruct the selected units to carry out the most appropriate action with that object.\nSee for yourself how it works.
+it: Non so cos’altro chiederti, ciao!
+en: Er ... I don't know what to ask. Bye!
+it: Poi...?
+en: More ...
+it: Come posso portare sotto il mio comando altre unità?
+en: How do I get more units to command?
+it: Come posso scoprire nuove tecnologie?
+en: How do I research technologies?
+it: Come posso difendermi da un attacco nemico?
+en: How can I defend myself against an enemy attack?
+it: Per esempio, se vuoi costruire una fattoria, clicca su "Comuni" e a seguire sull’icona "Costruire una fattoria".
+en: If you want to build a farm, for instance, you click on the "Common" group and then on the "Farm" button.
+it: Fatto questo, colloca l’edificio all’interno della mappa. Nel caso in cui non potessi posizionarlo nel luogo da te scelto, l’edificio ti apparirà rosso. In caso contrario sarà verde. Quando avrai trovato la posizione giusta, clicca col pulsante sinistro del mouse.
+en: Then place the building in the view. It will be colored in red if you cannot place it and in green if you can.
+it: Il modo più facile per ottenere cibo è la coltivazione, anche se, in generale, la pesca risulta più redditizia. Costruisci un porto e poi una barca da pesca. Selezionala e clicca con il pulsante destro del mouse su di una banchina da pesca.
+en: The easiest way to gather food is by creating fields.\nFishing is usually more effective. Build a harbor and then a fishing boat. Select it and right-click on a fishing-patch.
+it: Puoi anche allevare bestiame. Per farlo costruisci una fattoria, trova in essa la voce "Allevamento" e quindi crea delle mucche. Almeno un contadino dovrà occuparsi di esse, perciò selezionane uno e poi clicca su una mucca col pulsante destro del mouse.
+en: You can also create cattle. Build a farm. Master "Domestication" and then create some cows. Make a peasant tend them by selecting and clicking on a cow.
+it: Puoi raccogliere legna selezionando un gruppo di contadini e poi cliccando su di un albero col pulsante destro del mouse. Puoi costruire una segheria vicino al bosco per custodirvi la legna (in questo modo i taglialegna non dovranno andare fino al castello).
+en: You gather wood by selecting peasants and right-clicking on a tree. If you build a lumber mill close to the woods, it will serve as a gathering point for the woodcutters.
+it: Per raccogliere oro e pietra dovrai trovare una miniera d’oro o una cava di pietra. Costruisci un deposito vicino ad esse e clicca col pulsante destro del mouse perché i contadini selezionati comincino a raccogliere l’oro nella miniera.
+en: To gather gold or stone, find a gold mine or a stone mine. Build a storage next to it and right-click on the mine to order the selected peasants to mine gold for you.
+it: Per quanto riguarda gli edifici, c’è un’icona a forma di cuore che indica la capacità degli stessi di resistere ai tentativi di attacco da parte dei contadini nemici.
+en: Buildings have a hearth icon that shows the amount of resistance the building will render when enemy peasants try to convert it.
+it: Sotto l’immagine dell’unità ci sono una barra che ne indica lo stato di salute e una serie di numeri che precisano il livello massimo di salute dell’unità e quello specifico del momento. Quando sono selezionate più unità, la barra della salute fornisce una media dello stato di salute delle stesse.
+en: Below the unit's picture there is a health bar and numbers showing the unit's current and maximum health. When multiple units are selected, the health bar displays the average health for all of them.
+it: Ci sono molti edifici in cui si possono creare nuove unità. All’interno del castello puoi creare i contadini mentre nelle caserme viene creata la maggior parte delle unità militari. Le fattorie producono mucche e nei porti si costruiscono tutte le barche.
+en: There are many buildings that produce units. Your castle creates peasants, barracks produce most of the military units, farms produce cattle and harbors produce all ships.
+it: In primo luogo seleziona un edificio e poi clicca sull’icona che crea l’unità da te desiderata. Troverai le icone nella zona informativa. Spostando il mouse su di esse appariranno messaggi d’aiuto nella parte inferiore sinistra dell’immagine.
+en: First select the building you need and then click on the button that produces the unit you want. The buttons are located near the selection display area. Help messages are shown in the lower left corner of the view when moved onto with the mouse.
+it: Clicca sulle unità che vuoi proteggere e poi clicca immediatamente col pulsante destro del mouse sul castello o sul posto di guardia in cui vuoi nasconderle. Le suddette unità saranno maggiormente protette all’interno di questi edifici e, in seguito, potranno anche curare le loro ferite. \nPer farle uscire dall’edificio, clicca sull’icona "Evacuare tutte le unità".
+en: Click on the units you want to protect and then right-click on the castle or an outpost to order them to enter. They will be more protected inside, and if they are wounded they will heal with time.\nTo get them out click on the "Emerge All Units" button.
+it: Esistono molte tecnologie e unità che non sono immediatamente disponibili all’inizio della partita: scoprirle è molto costoso, ma i vantaggi che procurano sono inestimabili.
+en: Many technologies and units are not available at the outset of the game. To research them is costly, but the benefits are substantial.
+it: Per scoprire una tecnologia seleziona un edificio in grado di produrla e clicca sulla relativa icona. Quando la ricerca sarà completata le migliorie ad essa associate diverranno automaticamente disponibili.
+en: To research an upgrade, select the building that makes it and click on the button for the upgrade. The upgrade will be in effect as soon as the researching process is over.
+it: Esistono tecnologie che ti permettono di raccogliere più rapidamente le risorse delle segherie, dei depositi o delle fattorie. \nPer rinforzare il tuo esercito o scoprire nuove unità, rivolgiti alla fonderia.
+en: There are upgrades that will let you gather resources faster in the lumber mill, storage and farm buildings.\nTo make your army stronger and produce new units, check out the blacksmith.
+it: La quantità di risorse a tua disposizione è visualizzata nella parte superiore dello schermo. Troverai un’icona per ogni tipo di prodotto - oro, legna, cibo e pietra. I due numeri che si trovano dopo l’ultima icona indicano il numero massimo di abitanti del tuo regno e il numero massimo che, in questo momento, puoi mantenere.
+en: The amount of resources at your disposal is shown at the top of the screen. There is an icon for every type of resource - gold, wood, food and stone. The two numbers after the last icon show the population of your kingdom and the maximum population you can currently support.
+it: Non solo avrai bisogno di più legna per rinforzare il tuo regno, ma ti occorrerà anche del cibo.\nCi sono nuovi contadini che hanno abbracciato la tua causa: selezionali e, col pulsante destro del mouse, clicca sui campi in modo che comincino a raccogliere cibo.
+en: You need more wood to strengthen your kingdom, but you also need some food.\nThere are a few new peasants allied to your cause. Select them and right-click on the fields to the east of the castle and they will start gathering food for you.
+it: Vedo che ti sei procurato del cibo. Puoi utilizzare i nuovi contadini fedeli alla tua causa per raccoglierne dell’altro.
+en: I see that you've managed to gather some food. You can use these new peasants allied to your cause to gather resources even faster.
+it: Non dimenticare che i campi spariranno se non ci saranno contadini a coltivarli.
+en: Be aware that the fields will quickly disappear if there are no peasants working on them.
+it: Molto bene! Ora sai come far muovere i contadini.
+en: Very well. Now you know how to move your peasants.
+it: Clicca su di un albero col pulsante destro del mouse e i contadini selezionati lo abbatteranno. Ordina a tutti i tuoi contadini di raccogliere la legna e osserva come lo fanno.
+en: By right-clicking on a tree you can make the selected peasants chop it.\nOrder all your peasants to gather wood and see how they will do it.
+it: Bene. Ora clicca su uno spazio aperto col pulsante destro del mouse per ordinare a un contadino di dirigersi lì. \nGuida il contadino al castello che si trova a nord; per farlo ti basta cliccare in prossimità della struttura.
+en: Good. Now, right-click on an open space to order the peasant to go there.\nMove the peasant to the castle north of here by clicking near it.
+it: Salve ragazzo!\nMi chiamo Haaser e sono qui per insegnarti un po’ di cose.\nPer continuare clicca sul testo.
+en: Hello, young one!\nMy name is Haaser and I will share my wisdom with you.\nClick on the text to proceed.
+it: Credo di sapere quello che mi stai per spiegare: affidami una missione e ti dimostrerò cosa so fare!
+en: I might already know what you are going tell me. Give me a quest so that I can prove myself!
+it: Hmm, cos’è un gioco di strategia in tempo reale?
+en: Hmm, what is an RTS game anyway?
+it: Va bene! Raccogli 200 unità di legna, cibo, oro e pietra. \nRicordati che se hai bisogno d’aiuto puoi sempre rivolgerti a me (basta che clicchi su di me col pulsante sinistro del mouse).
+en: OK. Your quest is to gather 200 units of wood, \nfood, gold and stone.\nBut remember - you can always click on me to ask for my help.
+it: Per selezionare un contadino cliccaci sopra col pulsante sinistro del mouse oppure,\nse vuoi selezionarne più di uno, tieni premuto il pulsante sinistro del mouse mentre crei un riquadro intorno a essi. \nOra cerca di selezionare il contadino che si trova vicino all’albero caduto.
+en: You select peasants by clicking on them, or dragging them with the left mouse button.\nNow, try to select the peasant close to that dead tree.
+it: Bene, vedo che hai bisogno di alcune spiegazioni.\nCome noterai, sullo schermo è visibile solo una piccola parte del mondo, però se porti il mouse verso l’angolo sinistro dello schermo potrai spostarti sulla mappa (non farlo mentre stiamo parlando!).
+en: OK, I'll give you an explanation.\nYou only see a small portion of the world on your screen.\nBy moving the mouse to the edge of the screen, you'll scroll your view. (This will not work while we talk).
+it: Hai mai affrontato un gioco di strategia in tempo reale?
+en: Have you played other RTS games before?
+it: E ricorda che se ti occorresse aiuto puoi sempre rivolgerti a me.
+en: And remember - you can always click on me to ask for my help.
+
+# tzartutorial.wcm::maps/perfect 3
+it: Esercitazione di base 3
+en: Tutorial 3
+it: Regno 6
+en: Kingdom 6
+it: Costruisci 2 caserme e crea 10 unità militari
+en: Build two barracks and create ten military units.
+it: Distruggi tutte le unità nemiche che si trovano in zona
+en: Defeat all enemy units in the area.
+it: Hai dimostrato la tua capacità nell’ottenere risorse e nell’organizzare la tua economia, ma ora è arrivato il momento di mettere alla prova la tua abilità nel creare un esercito.\n\nCircolano voci sulla presenza in zona di truppe nemiche e di bestie orribili. Riunisci tutte le tue forze e sconfiggili.\n\n- Costruisci 2 caserme\n\n- Crea 10 unità militari\n\n- Distruggi tutte le forze nemiche presenti in zona
+en: You have proven yourself worthy in gathering resources and organizing your economy. It is time to test your skills in creating an army! \nThere are rumors of enemy troops and some terrible monsters scattered in the area. Create a suitable force and destroy them.\n\n - Build two barracks\n\n - Create ten military units\n\n - Destroy all enemy forces in the area
+
+# tzartutorial.wcm::maps/perfect 4
+it: Esercitazione di base 4
+en: Tutorial 4
+it: Regno3
+en: Kingdom 3
+it: Costruisci un porto\n\nCostruisci 2 barche da pesca\n\nCostruisci 3 golette e 2 galere
+en: Build a harbor.\n\nBuild two fishing boats.\n\nBuild three pinques and two hulks.
+it: Distruggi tutte le unità nemiche presenti in zona\nFai sbarcare alcune truppe nell’estremità occidentale dell’isola e distruggi l’accampamento che è lì posizionato
+en: Destroy all enemy units in the area.\n\nUnload some troops on the island far to the west and destroy the camp there.
+it: Hai dimostrato il tuo valore annientando piccoli gruppi di unità nemiche, ma ora vediamo come te la cavi nell’organizzare una forza combinata.\n\nI tuoi nemici vogliono prendere il controllo di questa zona: stanno costruendo una flotta presso un’isola fortificata che si trova a sud. Distruggili!\n\n- Costruisci un porto\n\n- Costruisci 2 barche da pesca\n\n- Costruisci 3 golette e 2 galere\n\n- Elimina la presenza nemica dalla zona
+en: You performed well on defeating small groups of enemy units. But it's time to see if you can organize a combined force.\nYour enemies plan to take control of this area. They are building a fleet on a fortified island far to the south. Destroy them! \n\n - Build harbor\n\n - Build two fishing boats\n\n - Build three pinques and two hulks\n\n - Remove the enemy presence from this area
+
+# tzartutorial.wcm::maps/perfect 5
+it: Esercitazione di base 5
+en: Tutorial 5
+it: Costruisci una fonderia, una stalla, un posto di guardia, una taverna e un laboratorio\n\nCostruisci 3 catapulte
+en: Build blacksmith, stable, outpost, tavern and workshop.\n\nCreate three catapults.
+it: Distruggi le torri nemiche
+en: Destroy the enemy towers.
+it: Hai svolto un ottimo il lavoro nel corso della tua ultima missione! Ora ti manca solo una sfida prima di affrontare il mondo reale nella tua prossima missione. A nord-est troverai una postazione nemica molto ben difesa. Utilizza le baliste e gli avamposti per rompere le linee nemiche.\n\n- Costruisci una fonderia, una stalla, una bottega, una taverna e un posto di guardia\n\n- Costruisci 3 baliste\n\n- Distruggi tutte le torri nemiche
+en: Excellent job on that last mission! There is one final task left before the real challenge in the next mission.\nThere is a heavily defended position to the northwest. Use catapults and advancements to easily penetrate the defenses.\n\n - Build blacksmith, stable, workshop, tavern and outpost\n\n - Create three catapults\n\n - Destroy all enemy towers
+
+# tzartutorial.wcm::maps/tutmap1
+it: Esercitazione di base 1
+en: Basic training 1
+it: Esercizio per la  costruzione di case e la creazione di coltivazioni, per l’addestramento di contadini e la raccolta di risorse
+en: Practice on building houses and fields, training peasants and gathering resources.
+it: In questa missione di preparazione dovrai familiarizzare con le sfide fondamentali che i tuoi contadini dovranno affrontare. Inoltre dovrai dimostrare le tue doti di leader portando a termine alcuni piccoli compiti.\n\nInizierai da un modesto accampamento con alcuni contadini disposti a lavorare per te. Devi costruire delle case, procurarti del cibo e della legna e addestrare altri contadini. Potresti anche dover creare delle coltivazioni aggiuntive per accelerare il processo di raccolta del cibo. Approfittane anche per esplorare la zona con le unità che in questo momento risultano libere.\n\nQuesti sono i tuoi obiettivi:\n\n- Raccogli 100 unità di cibo e 100 di legna\n\n- Costruisci 2 case\n\n- Addestra 10 contadini
+en: In this training mission you will familiarize yourself with the basic tasks your peasants have to perform. Also, you will have to prove your fitness as a ruler by accomplishing a few simple goals.\nYou start out in command of a small camp with a few peasants eager to work. You have to build some houses, gather some food and wood, and train more peasants. You might want to build some additional fields to speed up the harvesting of food. Feel free to explore the area with any unneeded units.\nHere are your objectives:\n\n - Gather 100 points of food and 100 points of wood\n\n - Build two houses\n\n - Train ten peasants
+it: Raccogli 100 unità di cibo e 100 di legna, addestra 10 contadini e costruisci 2 case
+en: Gather 100 points of food and 100 points of wood, train ten peasants, build two houses
+
+# tzartutorial.wcm::maps/tutmap2
+it: Esercitazione di base 2
+en: Basic training 2
+it: Esercizi di costruzione delle strutture economiche fondamentali e di raccolta di ogni tipo di risorse
+en: Practice building basic economy structures and gathering all kinds of resources.
+it: Costruisci una segheria\nCostruisci un magazzino e raccogli 200 unità d'oro e 200 di pietra\nCostruisci una fattoria, scopri la tecnologia “Allevamento” e alleva 2 mucche
+en: Build a lumber mill, a storage unit, collect 200 gold and 200 stone, build a farm, research the Domestication technology and produce two cows.
+it: Hai fatto un buon lavoro nella raccolta di risorse.\n\nIn questa missione continuerai a guidare i tuoi contadini aiutandoli a stabilire un buon equilibrio economico: per ottenerlo dovrai costruire alcuni edifici d’appoggio che permetteranno di migliorare la raccolta di risorse. Questo è ciò che dovrai fare: in primo luogo costruisci una segheria vicino al bosco in modo da accelerare l’opera di isboscamento. \n\nSuccessivamente crea un deposito vicino alle miniere d’oro e alle cave di pietra e comincia a sfruttarle, infine costruisci una fattoria, inserisci in essa la tecnologia dell’allevamento e alleva alcune mucche. Alla fine di quanto sopra sarai a tuo agio con i compiti fondamentali per il mantenimento di un’economia efficiente e potrai passare a missioni più "stimolanti".\n\n- Costruisci una segheria vicino al bosco che si trova a sud\n\n- Costruisci un deposito vicino ai giacimenti di pietre e oro che si trovano a est\n\n- Raccogli 200 unità d'oro e pietra\n\n- Costruisci una fattoria e scopri la tecnologia dell’allevamento\n\n- Alleva 2 mucche
+en: Good work on gathering the needed resources.\nIn this mission you will continue directing your peasants and help them build a powerful economy. You will need to build some support buildings, and this will make the collection of resources more efficient. Here is what you'll need to do: first build a lumber mill near the forest so that woodcutting becomes faster. Then build a storage area near the gold and stone mines and start collecting these resources. Build a farm and research the Domestication technology in it, then produce a pair of cows. Once you have done this, you will be familiar with the basic tasks related to maintaining an efficient economy, and will be ready to move on to more exciting missions.\n\n - Build a lumber mill near the forest to the south\n - Build a storage next to the stone and gold deposits to the east\n - Collect 200 points of gold and 200 points of stone\n - Build a farm and research the Domestication technology\n - Produce two cows
+
+# tzartutorial.wcm::maps/tutmap6
+it: Esercitazione di base 6
+en: Basic training 6
+it: Esercizio di costruzione e miglioramento delle torri e, volendo, di combattimento contro il nemico controllato dal computer
+en: Practice building and upgrading towers, and, as an option, fighting a computer-controlled enemy.
+it: Costruisci 6 torri di pietra
+en: Build six Keep Towers.
+it: Sbaraglia il nemico (regno rosso)
+en: Defeat the red enemy kingdom.
+it: Ora sei quasi pronto per assumerti la responsabilità di governare il regno.\n\nTuttavia c’è ancora qualcosa che devi imparare prima di impegnarti in una vera battaglia: come erigere fortificazioni.\n\nNella tua prossima missione dovrai costruire alcune torri in pietra. Per farlo crea delle torrette d’osservazione per poi migliorarle fino ad ottenere delle torri di guardia e poi delle torri in pietra. Ma prima devi scoprire la tecnologia "Architettura".\nQuando avrai finito di fortificare la tua città, ti si presenterà la possibilità di scontrarti con il nemico. \n\nQuesto è ciò che dovrai fare:\n\n- Costruire 6 torri in pietra\n\n- Distruggere il regno rosso nemico (se hai deciso di combattere)
+en: Now you are almost ready to bear the responsibility of ruling a kingdom.\nHowever, there is one more thing you need to learn before you enter a real battle - how to build fortifications.\nIn your next mission you will have to build several Keep Towers. This is done by first building Watch Towers, upgrading them to Guard Towers, and then to Keep Towers. To achieve this, you will need to research the Architecture technology.\nWhen you are done fortifying your town, you will have the option of fighting a real enemy.\nHere is what you will have to do:\n\n - Build six Keep Towers\n- Destroy the red enemy kingdom (if you choose to fight)
+it: Congratulazioni! Hai portato a compimento tutte le missioni di preparazione e sei pronto per governare il tuo regno.\nVuoi uscire ora o preferisci mettere alla prova le tue nuove capacità in una vera battaglia?
+en: Congratulations! You have completed all the training tasks and are now ready to rule a kingdom of your own.\nWould you like to quit playing now, or would you like to try your newly acquired skills in a real battle?
+it: Voglio uscire ora.
+en: I would like to quit now.
+it: Voglio combattere! Vediamo come sono questi temibili eserciti!
+en: I would like to do battle! Hit me with all you've got!
+it: Congratulazioni! Hai portato a compimento tutte le missioni di preparazione e sei pronto per governare il tuo regno.\nOra sei nel pieno di uno scontro cruciale all’ultimo sangue con un nemico potente. Vuoi uscire ora o preferisci mettere alla prova le tue nuove capacità in una vera battaglia?
+en: Congratulations! You have completed all the training tasks and are now ready to rule a kingdom of your own.\nYou are now engaged in a battle of life and death with a powerful enemy. Do you wish to quit now, or do you want to try your newly acquired skills in this battle?

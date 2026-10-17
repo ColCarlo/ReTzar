@@ -1,0 +1,2027 @@
+; The texts of the help screens in English (HELP\ITEMS.TXT of the American
+; release), laid over the Italian edition's entries; links and icons stay.
+
+[U_E_PEASANT]
+rollover = Learn more about the unit - Peasant
+brief = Peasant
+detail = Cost-50 food, Sight-5, Health-50p, Attack Skill-5p, Defense Skill-0 ~ They can move, build, capture, attack, repair, harvest, explore, carry gold, stone, milk, meat and wood, tend cattle, and bribe units.
+
+[U_E_FOOTMAN]
+rollover = Learn more about the unit - Footman
+brief = Footman
+detail = Cost-50 food, Sight-5, Health-65p, Attack Skill-6p, Defense Skill-3 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_E_ARCHER]
+rollover = Learn more about the unit - Archer
+brief = Archer
+detail = Cost-40 food/20 wood, Sight-10, Attack Range-6, Health-50p, Attack Skill-5p, Defense Skill-0 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_E_MACEMAN]
+rollover = Learn more about the unit - Maceman
+brief = Maceman
+detail = Cost-120 food, Sight-5, Health-120p, Attack Skill-8p, Defense Skill-0 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_E_PIKEMAN]
+rollover = Learn more about the unit - Pikeman
+brief = Pikeman
+detail = Cost-90 food/40 gold, Sight-5, Health-75p, Attack Skill-8p, Defense Skill-4 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_E_LONGBOWMAN]
+rollover = Learn more about the unit - Longbowman
+brief = Longbowman
+detail = Cost-90 food/70 gold, Sight-16, Health-50p, Attack Range-12p, Attack Skill-5p, Defense Skill-2 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_E_KNIGHT]
+rollover = Learn more about the unit - Knight
+brief = Knight
+detail = Cost-120 food/90 gold, Sight-5, Health-120p, Attack Skill-12p, Defense Skill-6 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_E_CRUSADER]
+rollover = Learn more about the unit - Crusader
+brief = Crusader
+detail = Sight-5, Health-180p, Attack Skill-14p, Defense Skill-8 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_E_PRIEST]
+rollover = Learn more about the unit - Priest
+brief = Priest
+detail = Cost-150 gold, Sight-20, Health-60p, Attack Range-18p, Attack Skill-20p, Defense Skill-0 ~ They can move, explore, heal units, and bless.
+
+[U_E_SPY]
+rollover = Learn more about the unit - Spy
+brief = Spy
+detail = Cost-150 gold, Sight-12, Health-50p, Attack Skill-20p, Defense Skill-0 ~ They can move, attack, pick items, patrol, guard, explore, impersonate, and reveal.
+
+[U_E_MAGE]
+rollover = Learn more about the unit - Mage
+brief = Mage
+detail = Cost-150 gold, Sight-14, Health-60p, Attack Range-10p, Attack Skill-5p, Defense Skill-0 ~ They can move, attack, cast lightning, spawn bats, freeze, spawn stone golems, and make units invisible.
+
+[U_E_CARAVAN]
+rollover = Learn more about the unit - Caravan
+brief = Caravan
+detail = Cost-400 food/200 wood, Sight-7, Health-350p, Attack Skill-0p, Defense Skill-0 ~ They can move, commence trade, load units and goods, unload, and explore.
+
+[U_A_PEASANT]
+rollover = Learn more about the unit - Peasant
+brief = Peasant
+detail = Cost-40 food, Sight-5, Health-50p, Attack Skill-5p, Defense Skill-0 ~ They can move, build, capture, attack, repair, harvest, trade, explore, carry gold, stone, milk, meat, wood, and tend cattle.
+
+[U_A_RHONIN]
+rollover = Learn more about the unit - Rhonin
+brief = Rhonin
+detail = Cost-40 food, Sight-5, Health-50p, Attack Skill-7p, Defense Skill-0 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_A_ARCHER]
+rollover = Learn more about the unit - Archer
+brief = Archer
+detail = Cost-40 food/20 wood, Sight-10, Attack Range-6, Health-50p, Attack Skill-5p, Defense Skill-0 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_A_SAMURAI]
+rollover = Learn more about the unit - Samurai
+brief = Samurai
+detail = Cost-90 food/40 gold, Sight-6, Health-120p, Attack Skill-10p, Defense Skill-4 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_A_HORSE_ARCHER]
+rollover = Learn more about the unit - Horse Archer
+brief = Horse Archer
+detail = Cost-120 food/40 gold, Sight-12, Attack Range-7p, Health-75p, Attack Skill-7p, Defense Skill-0 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_A_HORSE_SAMURAI]
+rollover = Learn more about the unit - Horse Samurai
+brief = Horse Samurai
+detail = Cost-100 food/60 gold, Sight-5, Health-160p, Attack Skill-14p, Defense Skill-4 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_A_CHARIOT]
+rollover = Learn more about the unit - Armored Chariot
+brief = Armored Chariot
+detail = Cost-150 food/150 wood, Sight-5, Health-180p, Attack Skill-3p, Defense Skill-5 ~ They can move, attack, patrol, guard, and explore.
+
+[U_A_NINJA]
+rollover = Learn more about the unit - Ninja
+brief = Ninja
+detail = Cost-80 gold, Sight-10, Health-90p, Attack Skill-12p, Defense Skill-5 ~ They can move, attack, pick items, patrol, guard, explore, cloak, and commit murder.
+
+[U_A_PRIEST]
+rollover = Learn more about the unit - Priest
+brief = Priest
+detail = Cost-150 gold, Sight-14, Health-120p, Attack Skill-10p, Defense Skill-10 ~ They can move, explore, heal units, and bless.
+
+[U_A_MONK]
+rollover = Learn more about the unit - Monk
+brief = Monk
+detail = Cost-250 food, Sight-5, Health-120p, Attack Skill-6p, Defense Skill-6 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_A_MAGE]
+rollover = Learn more about the unit - Mage
+brief = Mage
+detail = Cost-150 gold, Sight-14, Health-60p, Attack Range-10p, Attack Skill-8p, Defense Skill-0 ~ They can move, attack, turn units to stone, produce whirlpools, flame bolts, spawn dragons, and convert manna into experience.
+
+[U_R_PEASANT]
+rollover = Learn more about the unit - Peasant
+brief = Peasant
+detail = Cost-50 food, Sight-5, Health-50p, Attack Skill-5p, Defense Skill-0 ~ They can move, build, capture, attack, repair, harvest, explore, carry gold, stone, milk, meat, and wood, tend cattle, and bribe units. They can be turned into Jihad warriors.
+
+[U_R_FOOTMAN]
+rollover = Learn more about the unit - Footman
+brief = Footman
+detail = Cost-50 food, Sight-5, Health-50p, Attack Skill-6p, Defense Skill-1 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_R_ARCHER]
+rollover = Learn more about the unit - Archer
+brief = Archer
+detail = Cost-40 food/20 wood, Sight-10, Attack Range-6, Health-50p, Attack Skill-5p, Defense Skill-0 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_R_SPEARMAN]
+rollover = Learn more about the unit - Spearman
+brief = Spearman
+detail = Cost-60 food/50 gold, Sight-5, Health-75p, Attack Skill-6p, Defense Skill-2 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_R_SATRAP]
+rollover = Learn more about the unit - Satrap
+brief = Satrap
+detail = Cost-120 food, Sight-5, Health-120p, Attack Skill-8p, Defense Skill-0 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_R_CAVALRY]
+rollover = Learn more about the unit - Cavalry
+brief = Cavalry
+detail = Cost-100 food/60 gold, Sight-5, Health-90p, Attack Skill-10p, Defense Skill-2 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_R_HORSE_ARCHER]
+rollover = Learn more about the unit - Horse Archer
+brief = Horse Archer
+detail = Cost-100 food/50 gold, Sight-12, Attack Range-7p, Health-75p, Attack Skill-6p, Defense Skill-2 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_R_JIHAD_WARRIOR]
+rollover = Learn more about the unit - Jihad Warrior
+brief = Jihad Warrior
+detail = Cost-100 food, Sight-5, Health-10p, Attack Skill-18p, Defense Skill-2 ~ They can move, attack, pick items, patrol, guard, and explore. They are created from peasants after the Jihad technology has been researched.
+
+[U_R_PRIEST]
+rollover = Learn more about the unit - Priest
+brief = Priest
+detail = Cost-150 gold, Sight-20, Attack Range-18p, Health-60p, Attack Skill-20p, Defense Skill-0 ~ They can move, explore, heal units, bless and perform exorcism.
+
+[U_R_SPY]
+rollover = Learn more about the unit - Spy
+brief = Spy
+detail = Cost-150 gold, Sight-12, Health-50p, Attack Skill-20p, Defense Skill-0 ~ They can move, attack, pick items, patrol, guard, explore, impersonate, and reveal.
+
+[U_R_MAGE]
+rollover = Learn more about the unit - Mage
+brief = Mage
+detail = Cost-150 gold, Sight-14, Health-60p, Attack Range-10p, Attack Skill-8p, Defense Skill-0 ~ They can move, attack, spawn Magic Carpets, raise the dead, spawn jinns, create Magic Vision and Rain of Fire.
+
+[U_R_CARAVAN]
+rollover = Learn more about the unit - Caravan
+brief = Caravan
+detail = Cost-500 food, Sight-5, Health-150p, Attack Skill-0p, Defense Skill-0 ~ They can move, commence trade, load units and goods, unload, and explore.
+
+[U_R_JANISSARY]
+rollover = Learn more about the unit - Janissary
+brief = Janissary
+detail = Cost-120 food/80 gold, Sight-5, Health-130p, Attack Skill-18p, Defense Skill-4 ~ They can move, attack, pick items, patrol, guard, and explore.
+
+[U_C_CATAPULT]
+rollover = Learn more about the unit - Catapult
+brief = Catapult
+detail = Cost-600 wood, Sight-16, Attack Range-14p, Health-110p, Attack Skill-10p, Defense Skill-0 ~ They can move, attack, patrol, guard, and explore.
+
+[U_C_HEAVY_CATAPULT]
+rollover = Learn more about the unit - Heavy Catapult
+brief = Heavy Catapult
+detail = Cost-1200 wood, Sight-24, Attack Range-22p, Health-250p, Attack Skill-25p, Defense Skill-0 ~ They can move, attack, patrol, guard, and explore.
+
+[U_C_BALLISTA]
+rollover = Learn more about the unit - Ballista
+brief = Ballista
+detail = Cost-800 wood, Sight-14, Attack Range-12p, Health-75p, Attack Skill-25p, Defense Skill-0 ~ They can move, attack, patrol, guard, and explore.
+
+[U_C_GALLEON]
+rollover = Learn more about the unit - Galleon
+brief = Galleon
+detail = Cost-800 food/1200 wood, Sight-14, Attack Range-12p, Health-1200p, Attack Skill-35p, Defense Skill-0 ~ They can move, attack, load, unload, commence trade, and upgrade cannons. Galleons are only available for the Europeans and the Arabians.
+
+[U_C_HULK]
+rollover = Learn more about the unit - Hulk
+brief = Hulk
+detail = Cost-300 food/500 wood, Sight-12, Attack Range-10p, Health-700p, Attack Skill-18p, Defense Skill-0 ~ They can move, attack, load, unload, commence trade, and upgrade cannons.
+
+[U_C_XEBEC]
+rollover = Learn more about the unit - Xebec
+brief = Xebec
+detail = Cost-200 food/300 wood, Sight-10, Attack Range-8p, Health-300p, Attack Skill-10p, Defense Skill-0 ~ They can move, attack, load, unload, commence trade, and upgrade cannons.
+
+[U_C_FISHING_BOAT]
+rollover = Learn more about the unit - Fishing Boat
+brief = Fishing Boat
+detail = Cost-100 food/200 wood, Sight-10, Attack Range-8p, Health-50p, Attack Skill-1p, Defense Skill-0 ~ They can move, fish and stop.
+
+[U_C_COW]
+rollover = Learn more about cattle
+brief = Cattle
+detail = Cost-300 food, Sight-3, Health-80p ~ Cows are available only for Europeans and Arabians. Cattle provide resources. Peasants tend them and add the milk obtained to the food in the treasury. Cows can be slaughtered, and their meat collected by peasants or other units. Milk and meat are stored in the farm, or in the castle.
+
+[U_C_BEAR]
+rollover = Learn more about bears
+brief = Bears
+detail = Sight-3, Health-70p ~ Bears are nature creatures. They attack all units within their range. Bears can be affected by the Magic Vision spell and are used to explore the map.
+
+[U_C_BAT]
+rollover = Learn more about bats
+brief = Bats
+detail = Cost-25 manna, Sight-10, Health-20p, Attack Skill-3p, Defense Skill-0 ~ Bats are spawned by European mages. They can move, attack, patrol, guard, and explore. The population limit affects bats.
+
+[U_C_STONE_GOLEM]
+rollover = Learn more about the unit - Stone Golem
+brief = Stone Golem
+detail = Cost-120 gold/600 manna, Sight-10, Health-400p, Attack Skill-25p, Defense Skill-0 ~ Stone golems are spawned by mages. They can move, attack, pick items, patrol, guard, and explore. The population limit affects stone golems.
+
+[U_C_ORK]
+rollover = Learn more about the unit - Orc
+brief = Orc
+detail = Cost-60 gold, Sight-5, Health-50p, Attack Skill-18p, Defense Skill-2 ~ Orcs are created in the Magic Gateways. They can move, attack, pick items, patrol, guard, and explore. The population limit affects orcs.
+
+[U_C_DWARF]
+rollover = Learn more about the unit - Dwarf
+brief = Dwarf
+detail = Cost-80 gold, Sight-3, Health-120p, Attack Skill-7p, Defense Skill-7 ~ Dwarfs are created in the Magic Gateways. They can move, attack, pick items, patrol, guard, and explore. The population limit affects dwarfs.
+
+[U_C_DRAGON]
+rollover = Learn more about the unit - Dragon
+brief = Dragon
+detail = Cost-80 gold/800 manna, Sight-12, Attack Range-3p, Health-300p, Attack Skill-25p, Defense Skill-0 ~ Dragons are spawned by Asian mages. They can move, attack, patrol, guard, and explore. The population limit affects dragons.
+
+[U_C_JINN]
+rollover = Learn more about the unit - Jinn
+brief = Jinn
+detail = Cost-50 gold/300 manna, Sight-8, Health-300p, Attack Skill-20p, Defense Skill-5 ~ Jinns are spawned by Arabian mages. They can move, attack, patrol, guard, and explore. The population limit affects jinns.
+
+[U_C_CARPET]
+rollover = Learn more about the unit - Magic Carpet
+brief = Magic Carpet
+detail = Cost-80 gold/500 manna, Sight-8, Health-90p ~ Magic Carpets are spawned by Arabian mages. They can move, attack, load, unload, and explore. The population limit affects Magic Carpets. They can be used for transporting units over water, as well as over ground.
+
+[U_C_SKELETON]
+rollover = Learn more about the unit - Skeleton
+brief = Skeleton
+detail = Cost-30 food, Sight-5, Health-40p, Attack Skill-4p, Defense Skill-0 ~ Skeletons can be summoned from the Magic Gateways, or spawned from dead units by the Arabian mages if the Necromancy spell has been researched. They can move, attack, patrol, guard, and explore. The population limit affects skeletons.
+
+[U_C_GHOST]
+rollover = Learn more about the unit - Ghost
+brief = Ghost
+detail = Cost-40 gold, Sight-5, Health-60p, Attack Skill-8p, Defense Skill-0 ~ Ghosts are created in the Magic Gateways. They can move, attack, pick items, put curses on people, patrol, guard, and explore. The population limit affects ghosts.
+
+[U_C_MESSIAH]
+rollover = Learn more about the Messiah
+brief = Messiah
+detail = Cost-2000 gold, Sight-20, Attack Range-18p, Health-1000p, Attack Skill-50p, Defense Skill-10 ~ The Messiah appears in the campaigns. It is the most powerful unit of all. The Messiah can use all the spells in the game.
+
+[B_E_CASTLE]
+rollover = Learn more about the building - Castle
+brief = Castle
+detail = Cost-1500 stone/1500 wood, Sight-12, Resistance-1000p, Health-8000p, Emits Resistance/on your own buildings/-+400,Emits Resistance/on other buildings/--200 ~ The castle is the main building of a kingdom. It is the only place where peasants and spies can be created. All resources can be stored there.
+
+[B_E_HOUSE]
+rollover = Learn more about the building - House
+brief = House
+detail = Cost-75 wood, Sight-4, Resistance-50p, Health-500p, ~ Houses increase the population limit of a kingdom. Each house allows 10 more units to be created.
+
+[B_E_LUMBER_MILL]
+rollover = Learn more about the building - Lumber mill
+brief = Lumber mill
+detail = Cost-100 wood, Sight-4, Resistance-80p, Health-800p, ~ The lumber mill is used to store wood. The closer the mill is to the trees, the more efficient the woodcutters will be.
+
+[B_E_STORAGE]
+rollover = Learn more about the building - Storage
+brief = Storage
+detail = Cost-200 wood, Sight-5, Resistance-80p, Health-800p, ~ The storage is used for storing stone and gold. The closer a storage unit is located to the mine, the more efficient the miners will be.
+
+[B_E_FARM]
+rollover = Learn more about the building - Farm
+brief = Farm
+detail = Cost-200 wood, Sight-5, Resistance-80p, Health-800p, ~ The farm is used for storing food. The closer the farm is to the fields, the more efficient the harvesters will be.
+
+[B_E_HARBOR]
+rollover = Learn more about the building - Harbor
+brief = Harbor
+detail = Cost-200 food/200 wood, Sight-8, Resistance-200p, Health-1400p, Emits Resistance/on your own buildings/-+100,Emits Resistance/on other buildings/--50 ~ The harbor is a place for storing fish, building ships and engaging in trade.
+
+[B_E_BLACKSMITH]
+rollover = Learn more about the building - Blacksmith
+brief = Blacksmith
+detail = Cost-150 food/150 wood, Sight-8, Resistance-80p, Health-800p, ~ The blacksmith is a place for researching technologies that improve the military units' characteristics.
+
+[B_E_WORKSHOP]
+rollover = Learn more about the building - Workshop
+brief = Workshop
+detail = Cost-150 food/150 wood, Sight-8, Resistance-80p, Health-800p, ~ The blacksmith is a place for researching technologies that improve the military units' characteristics.
+
+[B_E_CHURCH]
+rollover = Learn more about the building - Church
+brief = Church
+detail = Cost-200 food/200 stone, Sight-6, Resistance-200p, Health-1000p, Emits Resistance/on your own buildings/-+50,Emits Resistance/on other buildings/--100 ~ Priests are created in the church.
+
+[B_E_TAVERN]
+rollover = Learn more about the building - Tavern
+brief = Tavern
+detail = Cost-200 food/200 wood, Sight-5, Resistance-150p, Health-1000p, Emits Resistance/on your own buildings/--50,Emits Resistance/on other buildings/--50 ~ The tavern is a place for converting resources, obtaining loans, hiring military units and gambling. You need to have researched the appropriate technologies in order to gain access to all the options.
+
+[B_E_MARKET]
+rollover = Learn more about the building - Market
+brief = Market
+detail = Cost-200 food/200 wood, Sight-8, Resistance-200p, Health-1400p ~ The market is a place for trading resources. Trade is performed by caravans. You need to have researched the Trade Routes technology to be able to produce caravans and engage in trade.
+
+[B_E_BARRACKS]
+rollover = Learn more about the building - Barracks
+brief = Barracks
+detail = Cost-200 food/200 wood, Sight-6, Resistance-500p, Health-1400p ~ Barracks are the buildings in which all military units are produced. All units will not be available until the required technologies have been researched.
+
+[B_E_STABLE]
+rollover = Learn more about the building - Stable
+brief = Stable
+detail = Cost-200 food/200 wood, Sight-5, Resistance-80p, Health-500p ~ A stable is needed to produce mounted units. If the stable is destroyed, the production of mounted units is not possible until a new stable has been built.
+
+[B_E_OUTPOST]
+rollover = Learn more about the building - Outpost
+brief = Outpost
+detail = Cost-200 wood/400 stone, Sight-8, Resistance-500p, Health-5000p, Emits Resistance/on your own buildings/-+200,Emits Resistance/on other buildings/--200 ~ The outpost is the place where armies can take cover and be healed. It is recommended to build outposts in the course of an invasion as the troops advance.
+
+[B_E_CATHEDRAL]
+rollover = Learn more about the building - Cathedral
+brief = Cathedral
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of the cathedral lets the player follow the Way of Religion. The technologies that become available in the cathedral will provide the player with access to effective approaches with which to build an empire.
+
+[B_E_MAGE_TOWER]
+rollover = Learn more about the building - Mages' Tower
+brief = Mages' Tower
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of the Mages' Tower lets the player follow the Way of Magic. Powerful spells can be researched in it, and mages created.
+
+[B_E_MERCHANTS_GUILD]
+rollover = Learn more about the building - Merchants' Guild
+brief = Merchants' Guild
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of the Merchants' Guild lets the player follow the Way of Trade and Crafts. You can build a very strong economy, use all the advantages of trade, and not have to rely on the limited map resources.
+
+[B_E_WARRIORS_GUILD]
+rollover = Learn more about the building - Warriors' Guild
+brief = Warriors' Guild
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of the Warriors' Guild lets the player follow the Way of Glory. You can build a very powerful army. There are many technologies available that allow the units to gain experience, increase their attack skill and become almost invincible.
+
+[B_A_CASTLE]
+rollover = Learn more about the building - Castle
+brief = Castle
+detail = Cost-1500 stone/1500 wood, Sight-12, Resistance-1000p, Health-8000p, Emits Resistance/on your own buildings/-+500,Emits Resistance/on other buildings/--300 ~ The castle is the main building of a kingdom. It is the only place where peasants can be created. All resources can be stored there.
+
+[B_A_HOUSE]
+rollover = Learn more about the building - House
+brief = House
+detail = Cost-75 wood, Sight-4, Resistance-50p, Health-500p, ~ Houses increase the population limit of a kingdom. Each house allows 10 more units to be created.
+
+[B_A_LUMBER_MILL]
+rollover = Learn more about the building - Lumber mill
+brief = Lumber mill
+detail = Cost-100 wood, Sight-4, Resistance-80p, Health-800p, ~ The lumber mill is used to store wood. The closer the mill is to the trees, the more efficient the woodcutters will be.
+
+[B_A_STORAGE]
+rollover = Learn more about the building - Storage
+brief = Storage
+detail = Cost-200 wood, Sight-5, Resistance-80p, Health-800p, ~ The storage is used for storing stone and gold. The closer the storage unit is to the mine, the more efficient the miners will be.
+
+[B_A_FARM]
+rollover = Learn more about the building - Farm
+brief = Farm
+detail = Cost-200 wood, Sight-5, Resistance-80p, Health-800p, ~ The farm is used for storing food. The closer the farm is to the fields, the more efficient the harvesters will be.
+
+[B_A_HARBOR]
+rollover = Learn more about the building - Harbor
+brief = Harbor
+detail = Cost-200 food/200wood, Sight-8, Resistance-200p, Health-1400p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--100 ~ The harbor is a place for storing fish, building ships and engaging in trade.
+
+[B_A_BLACKSMITH]
+rollover = Learn more about the building - Blacksmith
+brief = Blacksmith
+detail = Cost-150 food/150 wood, Sight-8, Resistance-80p, Health-800p, ~ The blacksmith is a place for researching technologies that improve the military units' characteristics.
+
+[B_A_WORKSHOP]
+rollover = Learn more about the building - Workshop
+brief = Workshop
+detail = Cost-150 food/150wood, Sight-8, Resistance-80p, Health-800p, ~ The workshop is a place for researching technologies that improve the military units' characteristics.
+
+[B_A_MONASTERY]
+rollover = Learn more about the building - Monastery
+brief = Monastery
+detail = Cost-200 food/200 stone, Sight-6, Resistance-200p, Health-1000p, Emits Resistance/on your own buildings/-+100,Emits Resistance/on other buildings/--200 ~ Priests are created in the monastery.
+
+[B_A_TAVERN]
+rollover = Learn more about the building - Tavern
+brief = Tavern
+detail = Cost-200 food/200 wood, Sight-5, Resistance-150p, Health-1000p, Emits Resistance/on your own buildings/--200,Emits Resistance/on other buildings/--200 ~ The tavern is a place for converting resources, obtaining loans, hiring military units and gambling. You need to have researched the appropriate technologies in order to gain access to all the options.
+
+[B_A_MARKET]
+rollover = Learn more about the building - Market
+brief = Market
+detail = Cost-200 food/200 wood, Sight-8, Resistance-200p, Health-1400p ~ The market is a place for trading items. You have to research the Jewelry technology first.
+
+[B_A_BARRACKS]
+rollover = Learn more about the building - Barracks
+brief = Barracks
+detail = Cost-200 food/200 wood, Sight-6, Resistance-500p, Health-1400p ~ Barracks are the buildings in which all military units are produced. All units will not be available until the required technologies have been researched.
+
+[B_A_STABLE]
+rollover = Learn more about the building - Stable
+brief = Stable
+detail = Cost-200 food/200 wood, Sight-5, Resistance-80p, Health-500p ~ A stable is needed to produce mounted units. If the stable is destroyed, the production of mounted units is not possible until a new stable has been built.
+
+[B_A_OUTPOST]
+rollover = Learn more about the building - Outpost
+brief = Outpost
+detail = Cost-200 wood/400 stone, Sight-8, Resistance-500p, Health-2000p, Emits Resistance/on your own buildings/-+400,Emits Resistance/on other buildings/--400 ~ The outpost is the place where armies can take cover and be healed. It is recommended to build outposts in the course of an invasion as the troops advance.
+
+[B_A_SHAO_LINN]
+rollover = Learn more about the building - Shao Linn
+brief = Shao Linn
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of Shao Linn lets the player follow the Way of Religion. The technologies that become available in it, will provide the player with access to effective approaches with which to build an empire.
+
+[B_A_MAGE_TOWER]
+rollover = Learn more about the building - Mages' Tower
+brief = Mages' Tower
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of the Mages' Tower lets the player follow the Way of Magic. Powerful spells can be researched in it, and mages created.
+
+[B_A_MERCHANTS_GUILD]
+rollover = Learn more about the building - Merchants' Guild
+brief = Merchants' Guild
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of the Merchants' Guild lets the player follow the Way of Trade and Crafts. You can build a very strong economy, use all the advantages of trade, and not have to rely on the limited map resources.
+
+[B_A_WARRIORS_GUILD]
+rollover = Learn more about the building - Warriors' Guild
+brief = Warriors' Guild
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of the Warriors' Guild lets the player follow the Way of Glory. You can build a very powerful army. There are many technologies available that allow the units to gain experience, increase their attack skill and become almost invincible.
+
+[B_R_CASTLE]
+rollover = Learn more about the building - Castle
+brief = Castle
+detail = Cost-1500 stone/1500 wood, Sight-12, Resistance-1000p, Health-8000p, Emits Resistance/on your own buildings/-+500,Emits Resistance/on other buildings/--300 ~ The castle is the main building of a kingdom. It is the only place where peasants and spies can be created. All resources can be stored there.
+
+[B_R_HOUSE]
+rollover = Learn more about the building - House
+brief = House
+detail = Cost-75 wood, Sight-4, Resistance-50p, Health-500p, ~ Houses increase the population limit of a kingdom. Each house allows 10 more units to be created.
+
+[B_R_LUMBER_MILL]
+rollover = Learn more about the building - Lumber mill
+brief = Lumber mill
+detail = Cost-100 wood, Sight-4, Resistance-80p, Health-800p, ~ The lumber mill is used to store wood. The closer the mill is to the trees, the more efficient the woodcutters will be.
+
+[B_R_STORAGE]
+rollover = Learn more about the building - Storage
+brief = Storage
+detail = Cost-200 wood, Sight-5, Resistance-80p, Health-800p, ~ The storage is used for storing stone and gold. The closer the storage unit is to the mine, the more efficient the miners will be.
+
+[B_R_FARM]
+rollover = Learn more about the building - Farm
+brief = Farm
+detail = Cost-200 wood, Sight-5, Resistance-80p, Health-800p, ~ The farm is used for storing food. The closer the farm is to the fields, the more efficient the harvesters will be.
+
+[B_R_HARBOR]
+rollover = Learn more about the building - Harbor
+brief = Harbor
+detail = Cost-200 food/200 wood, Sight-8, Resistance-200p, Health-1400p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--100 ~ The harbor is a place for storing fish, building ships and engaging in trade.
+
+[B_R_BLACKSMITH]
+rollover = Learn more about the building - Blacksmith
+brief = Blacksmith
+detail = Cost-150 food/150 wood, Sight-8, Resistance-80p, Health-800p, ~ The blacksmith is a place for researching technologies that improve the military units' characteristics.
+
+[B_R_WORKSHOP]
+rollover = Learn more about the building - Workshop
+brief = Workshop
+detail = Cost-150 food/150 wood, Sight-8, Resistance-80p, Health-800p, ~ The workshop is a place for researching technologies that improve the military units' characteristics.
+
+[B_R_CHURCH]
+rollover = Learn more about the building - Church
+brief = Church
+detail = Cost-200 food/200 stone, Sight-6, Resistance-200p, Health-1000p, Emits Resistance/on your own buildings/-+100,Emits Resistance/on other buildings/--200 ~ Priests are created in the church.
+
+[B_R_TAVERN]
+rollover = Learn more about the building - Tavern
+brief = Tavern
+detail = Cost-200 food/200 wood, Sight-5, Resistance-150p, Health-1000p, Emits Resistance/on your own buildings/--200,Emits Resistance/on other buildings/--200 ~ The tavern is a place for converting resources, obtaining loans, hiring military units and gambling. You need to have researched the appropriate technologies in order to gain access to all the options.
+
+[B_R_MARKET]
+rollover = Learn more about the building - Market
+brief = Market
+detail = Cost-200 food/200 wood, Sight-8, Resistance-200p, Health-1400p ~ The market is a place for trading resources. Trade is performed by caravans. You need to have researched the Trade Routes technology to be able to produce caravans and engage in trade.
+
+[B_R_BARRACKS]
+rollover = Learn more about the building - Barracks
+brief = Barracks
+detail = Cost-200 food/200 wood, Sight-6, Resistance-500p, Health-1400p ~ Barracks are the buildings in which all military units are produced. All units will not be available until the required technologies have been researched.
+
+[B_R_STABLE]
+rollover = Learn more about the building - Stable
+brief = Stable
+detail = Cost-200 food/200 wood, Sight-5, Resistance-80p, Health-500p ~ A stable is needed to produce mounted units. If the stable is destroyed, the production of mounted units is not possible until a new stable has been built.
+
+[B_R_OUTPOST]
+rollover = Learn more about the building - Outpost
+brief = Outpost
+detail = Cost-200 wood/400 stone, Sight-8, Resistance-500p, Health-2000p, Emits Resistance/on your own buildings/-+400,Emits Resistance/on other buildings/--400 ~ The outpost is the place where armies can take cover and be healed. It is recommended to build outposts in the course of an invasion as the troops advance.
+
+[B_R_MOSQUE]
+rollover = Learn more about the building - Mosque
+brief = Mosque
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of the mosque lets the player follow the Way of Religion. The technologies that become available in the mosque will provide the player with access to effective approaches with which to build an empire.
+
+[B_R_MAGE_TOWER]
+rollover = Learn more about the building - Mages' Tower
+brief = Mages' Tower
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of the Mages' Tower lets the player follow the Way of Magic. Powerful spells can be researched in it, and mages created.
+
+[B_R_MERCHANTS_GUILD]
+rollover = Learn more about the building - Merchants' Guild
+brief = Merchants' Guild
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of the Merchants' Guild lets the player follow the Way of Trade and Crafts. You can build a very strong economy, use all the advantages of trade, and not have to rely on the limited map resources.
+
+[B_R_WARRIORS_GUILD]
+rollover = Learn more about the building - Warriors' Guild
+brief = Warriors' Guild
+detail = Cost-2000 stone/2000 gold, Sight-8, Resistance-700p, Health-5000p, Emits Resistance/on your own buildings/-+300,Emits Resistance/on other buildings/--500 ~ The construction of the Warriors' Guild lets the player follow the Way of Glory. You can build a very powerful army. There are many technologies available that allow the units to gain experience, increase their attack skill and become almost invincible.
+
+[B_R_MAGIC_WORKSHOP]
+rollover = Learn more about the building - Magic Workshop
+brief = Magic Workshop
+detail = Cost-300 stone, Sight-5, Resistance-200p, Health-1200p ~ The Magic Workshop is a place for the production of Magic Items.
+
+[B_C_FIELD]
+rollover = Learn more about the Fields
+brief = Field
+detail = Cost-200 wood, Sight-1, Health-100p ~ The fields produce the food resource, and are in constant need of care. If they are neglected, they will disappear. It is recommendable to place them in the vicinity of a farm or the castle, so that the harvesters become more efficient in storing food.
+
+[B_C_WOOD_WALL]
+rollover = Learn more about the Wooden Wall
+brief = Wooden Wall
+detail = Cost-20 wood, Sight-1, Health-2000p ~ Walls are a good way to fortify a kingdom. They are not expensive to build and they provide good protection against enemy attacks. However, they are not strong enough to withstand an attack with siege weapons. It is always recommendable to place towers to guard them.
+
+[B_C_STONE_WALL]
+rollover = Learn more about the Stone Wall
+brief = Stone Wall
+detail = Cost-20 stone, Sight-2, Health-4000p ~ Stone Walls are a very good way to fortify a kingdom. Stone Walls can only be created by upgrading the Wooden Walls. They are not expensive to build and they provide good protection against enemy attacks. It is always recommendable to place towers to guard them.
+
+[B_C_WOOD_GATE]
+rollover = Learn more about the Wooden Gate
+brief = Wooden Gate
+detail = Cost-200 wood, Sight-8, Health-1500p ~ Wooden Gates are a necessity for a fortified kingdom. The owner has the choice to command them himself, or let the sub AI do it. If the AI of the gates is switched on, they open for the kingdom's units, and close for enemy units. It is always recommendable to place towers to guard them.
+
+[B_C_STONE_GATE]
+rollover = Learn more about the Stone Gate
+brief = Stone Gate
+detail = Cost-200 stone, Sight-12, Health-3000p ~ Stone Gates are created from Wooden Gates and are more resistant to attacks. The owner has the choice to command them himself, or let the sub AI do it. If the AI of the gates is switched on, they open for the kingdom's units, and close for enemy units. It is always recommendable to place towers to guard them.
+
+[B_C_BRIDGE]
+rollover = Learn more about the Bridge
+brief = Bridge
+detail = Cost-300 stone, Sight-1, Health-10000p ~ Stone Gates are created from Wooden Gates and are more resistant to attacks. The owner has the choice to command them himself, or let the sub AI do it. If the AI of the gates is switched on, they open for the kingdom's units, and close for enemy units. It is always recommendable to place towers to guard them.
+
+[B_C_WATCH_TOWER]
+rollover = Learn more about the Watch Tower
+brief = Watch Tower
+detail = Cost-300 wood, Sight-15, Attack Skill-7, Attack Range-8, Resistance-100p, Health-400p ~ Watch Towers are a good way to fortify a kingdom. They attack enemy units as soon as they come into their attack range. It is recommendable to build them so that their ranges overlap each other, leaving  no uncovered ground for enemy units.
+
+[B_C_GUARD_TOWER]
+rollover = Learn more about the Guard Tower
+brief = Guard Tower
+detail = Sight-15, Attack Skill-12, Attack Range-12, Resistance-150p, Health-1000p ~ Guard Towers are created by upgrading Watch Towers. Guard Towers provide the most effective way to fortify a kingdom. They attack enemy units as soon as they come into their attack range. It is recommendable to build them so that their ranges overlap each other, leaving no uncovered ground for enemy units.
+
+[B_C_STONE_TOWER]
+rollover = Learn more about the Stone Tower
+brief = Stone Tower
+detail = Sight-15, Attack Skill-16, Attack Range-16, Resistance-300p, Health-2000p ~ Stone Towers are created by upgrading Guard Towers. Stone Towers provide the most effective way to fortify a kingdom. They attack enemy units as soon as they come into their attack range, which is greater than that of Guard Towers. It is recommendable to build them so that their ranges overlap each other, leaving no uncovered ground for enemy units.
+
+[B_C_CANNON_TOWER]
+rollover = Learn more about the Cannon Tower
+brief = Cannon Tower
+detail = Sight-15, Attack Skill-40, Attack Range-10, Resistance-300p, Health-2500p ~ Cannon Towers are created by upgrading Guard Towers. Cannon Towers provide the most powerful way to guard a European or Arabian kingdom. They attack enemy units as soon as they come into their attack range, which is greater than that of Stone Towers. It is recommendable to build them so that their ranges overlap each other, leaving no uncovered ground for enemy units.
+
+[B_C_ROCKET_TOWER]
+rollover = Learn more about the Rocket Tower
+brief = Rocket Tower
+detail = Cost-1000 wood/400 stone, Sight-25, Attack Skill-30, Attack Range-20, Resistance-300p, Health-1400p ~ Rocket Towers can be built after having researched the necessary technology in the Merchants' Guild. They provide the most powerful way to guard an Asian kingdom. They attack enemy units as soon as they come into their attack range, which is greater than that of any other tower. It is recommendable to build towers so that their ranges overlap each other, leaving no uncovered ground for enemy units.
+
+[B_C_DUMMY]
+rollover = Learn more about the Dummy
+brief = Dummy
+detail = Cost-300 wood, Health-5000p ~ Dummies allow the player to train his army, and thereby have units with a higher level of experience, before sending them off to fight. The more technologies for higher experience achievement that have been researched in the Warriors' Guild, the higher level the units will receive.
+
+[B_C_MAGIC_GATEWAY]
+rollover = Learn more about the Magic Gateway
+brief = Magic Gateway
+detail = Sight-10, Health-2000p ~ Magic Gateways are found on the map. One has to capture the Magic Gateway to be able to use it. Only military units can capture them. The units produced in the Magic Gateways belong to the kingdom of the player who has captured them. He has full control over them.
+
+[B_C_EVIL_CASTLE]
+rollover = Learn more about the Evil Castle
+brief = Evil Castle
+detail = Sight-10, Health-20000p ~ The Evil Castle is the place where the Messiah rules. It only appears in the campaigns.
+
+[T_E_FEUDALISM]
+rollover = Learn more about the technology - Feudalism
+brief = Feudalism
+detail = Cost-300 gold ~ Feudalism makes the production of peasants 20% cheaper. It is recommendable to research this technology at the beginning of a game, when many peasants are needed to build up the economy.
+
+[T_E_ARCHITECTURE]
+rollover = Learn more about the technology - Architecture
+brief = Architecture
+detail = Cost-300 gold ~ Architecture makes the construction of any structure 20% faster.
+
+[T_E_LEARNING]
+rollover = Learn more about the technology - Learning
+brief = Learning
+detail = Cost-400 gold ~ Learning allows the units to gain up to 4 levels of experience.
+
+[T_E_ROTATING_FIELDS]
+rollover = Learn more about the technology - Rotating Fields
+brief = Rotating Fields
+detail = Cost-400 gold ~ The Rotating Fields technology enables peasants to gather twice as much food after sowing.
+
+[T_E_DOMESTICATION]
+rollover = Learn more about the technology - Domestication
+brief = Domestication
+detail = Cost-300 gold ~ The Domestication technology allows the production of cattle in the farms.
+
+[T_E_TEMPER_IRON]
+rollover = Learn more about the technology - Temper Iron
+brief = Temper Iron
+detail = Cost-300 gold ~ The Temper Iron technology increases the sword attack of the military units by 1 point.
+
+[T_E_PLATE_ARMOR]
+rollover = Learn more about the technology - Plate Armor
+brief = Plate Armor
+detail = Cost-1400 gold ~ The Plate Armor technology allows the production of knights.
+
+[T_E_SCALE_ARMOR]
+rollover = Learn more about the technology - Scale Armor
+brief = Scale Armor
+detail = Cost-400 gold ~ The Scale Armor technology increases the defense score of all infantry units by 1 point.
+
+[T_E_CHAIN_MAIL]
+rollover = Learn more about the technology - Chain Mail
+brief = Chain Mail
+detail = Cost-400 gold ~ The Chain Mail technology increases the defense parameter of all infantry units by 2 points.
+
+[T_E_HALBERD]
+rollover = Learn more about the technology - Halberd
+brief = Halberd
+detail = Cost-600g old ~ The Halberd technology makes the creation of spear units possible.
+
+[T_E_SAW]
+rollover = Learn more about the technology - Saw
+brief = Saw
+detail = Cost-400 gold ~ The Saw technology enables woodcutters to carry 2 points more wood to the lumber mills.
+
+[T_E_CROSSBOW]
+rollover = Learn more about the technology - Crossbow
+brief = Crossbow
+detail = Cost-400 gold ~ The Crossbow technology increases the attack score of each arrow by 1 point.
+
+[T_E_LONGBOW]
+rollover = Learn more about the technology - Longbow
+brief = Longbow
+detail = Cost-700 gold ~ The Longbow technology makes Longbowmen available.
+
+[T_E_GOLD_MINING]
+rollover = Learn more about the technology - Gold Mining
+brief = Gold Mining
+detail = Cost-400 gold ~ The Gold Mining technology enables miners to carry 12 gold from the mines.
+
+[T_E_STONE_MINING]
+rollover = Learn more about the technology - Stone Mining
+brief = Stone Mining
+detail = Cost-400 gold ~ The Stone Mining technology enables miners to carry 12 stone from the quarries.
+
+[T_E_ENGINEERING]
+rollover = Learn more about the technology - Engineering
+brief = Engineering
+detail = Cost-400 gold ~ The Engineering technology increases the attack of catapults and heavy catapults by 5 points.
+
+[T_E_CANNON_TOWER]
+rollover = Learn more about the technology - Cannon Towers
+brief = Cannon Towers
+detail = Cost-400 gold ~ The Cannon Tower technology makes the upgrading of Stone Towers to Cannon Towers possible.
+
+[T_E_HEROISM]
+rollover = Learn more about the technology - Heroism
+brief = Heroism
+detail = Cost-500 gold ~ The Heroism technology allows units to gain unlimited experience, enabling the player to turn some of his players into heroes.
+
+[T_E_LEADERSHIP]
+rollover = Learn more about the technology - Leadership
+brief = Leadership
+detail = Cost-500 gold ~ The Leadership technology allows the units around a hero to gain experience.
+
+[T_E_HONOR]
+rollover = Learn more about the technology - Honor
+brief = Honor
+detail = Cost-500 gold ~ The Honor technology makes the heroes' attack 50% higher when fighting other heroes.
+
+[T_E_WARFARE]
+rollover = Learn more about the technology - Warfare
+brief = Warfare
+detail = Cost-400 gold ~ The Warfare technology speeds up the learning process of all units.
+
+[T_E_MERCENARIES]
+rollover = Learn more about the technology - Mercenaries
+brief = Mercenaries
+detail = Cost-600 gold ~ The Mercenaries technology allows the recruitment of mercenaries in the taverns.
+
+[T_E_HEROES_QUEST]
+rollover = Learn more about the technology - Heroes' Quest
+brief = Heroes' Quest
+detail = Cost-800 gold ~ The Heroes' Quest technology allows the recruitment of heroes in the taverns.
+
+[T_E_FAME]
+rollover = Learn more about the technology - Fame
+brief = Fame
+detail = Cost-500 gold ~ The Fame technology allows the recruitment of better, cheaper and more experienced mercenaries in the taverns.
+
+[T_E_TACTICS]
+rollover = Learn more about the technology - Tactics
+brief = Tactics
+detail = Cost-800 gold ~ The Tactics technology speeds up the learning process of the units.
+
+[T_E_SIEGE_TACTICS]
+rollover = Learn more about the technology - Siege Tactics
+brief = Siege Tactics
+detail = Cost-1200 gold ~ The Siege Tactics technology allows the production of heavy catapults in the workshops.
+
+[T_E_BODY_BUILDING]
+rollover = Learn more about the technology - Body Building
+brief = Body Building
+detail = Cost-1200 gold ~ The Body Building technology increases the units' hit-points by 5 points for each new level.
+
+[T_E_LANDING_TACTICS]
+rollover = Learn more about the technology - Landing Tactics
+brief = Landing Tactics
+detail = Cost-300 gold ~ The Landing Tactics technology allows ships to carry 50% more units.
+
+[T_E_FANATICISM]
+rollover = Learn more about the technology - Fanaticism
+brief = Fanaticism
+detail = Cost-400 gold ~ The Fanaticism technology increases the buildings' resistance with 50%.
+
+[T_E_CRUSADE]
+rollover = Learn more about the technology - Crusade
+brief = Crusade
+detail = Cost-1400 gold ~ The Crusade technology makes the launching of a crusade possible. 20 crusaders appear at the selected location one by one and form a fearsome army.
+
+[T_E_ESPIONAGE]
+rollover = Learn more about the technology - Espionage
+brief = Espionage
+detail = Cost-400 gold ~ The Espionage technology allows the production of spies in the castle.
+
+[T_E_BLESS]
+rollover = Learn more about the technology - Blessing
+brief = Blessing
+detail = Cost-400 gold ~ The Blessing technology increases units' attack with 8 points. Allows priests to bless units.
+
+[T_E_HEALING]
+rollover = Learn more about the technology - Healing
+brief = Healing
+detail = Cost-400 gold ~ The Healing technology makes the Healing spell available and allows priests to heal units.
+
+[T_E_MEDICINE]
+rollover = Learn more about the technology - Medicine
+brief = Medicine
+detail = Cost-500 gold ~ The Medicine technology allows priests to heal from a greater range.
+
+[T_E_INQUISITION]
+rollover = Learn more about the technology - Inquisition
+brief = Inquisition
+detail = Cost-400 gold ~ The Inquisition technology makes the effect of the Exorcism spell 5 points higher.
+
+[T_E_TRADE_ROUTES]
+rollover = Learn more about the technology - Trade Routes
+brief = Trade Routes
+detail = Cost-400 gold ~ The Trade Routes technology allows trading with caravans and ships.
+
+[T_E_MAP_MAKING]
+rollover = Learn more about the technology - Map Making
+brief = Map Making
+detail = Cost-800 gold ~ The Map Making technology makes the construction of galleons possible.
+
+[T_E_USURY]
+rollover = Learn more about the technology - Usury
+brief = Usury
+detail = Cost-300 gold ~ The Usury technology allows the player to obtain loans in the taverns.
+
+[T_E_GAMBLING]
+rollover = Learn more about the technology - Gambling
+brief = Gambling
+detail = Cost-500 gold ~ The Gambling technology allows the player to gamble in the taverns.
+
+[T_E_SUPPLY_STORAGE]
+rollover = Learn more about the technology - Supply Storage
+brief = Supply Storage
+detail = Cost-500 gold ~ The Supply Storage technology increases the population limit by 50%.
+
+[T_E_BRIBERY]
+rollover = Learn more about the technology - Bribery
+brief = Bribery
+detail = Cost-300 gold ~ The Bribery technology allows peasants to bribe enemy units.
+
+[T_E_TRADE_TAXES]
+rollover = Learn more about the technology - Trade Taxes
+brief = Trade Taxes
+detail = Cost-500 gold ~ The Trade Taxes technology increases trade profit by 5%.
+
+[T_E_BAT]
+rollover = Learn more about the technology - Bats
+brief = Bats
+detail = Cost-400 gold ~ The Bat technology enables mages to spawn bats.
+
+[T_E_STONE_GOLEM]
+rollover = Learn more about the technology - Stone Golem
+brief = Stone Golem
+detail = Cost-800 gold ~ The Stone Golem technology enables mages to spawn stone golems.
+
+[T_E_INVISIBILITY]
+rollover = Learn more about the technology - Invisibility
+brief = Invisibility
+detail = Cost-500 gold ~ The Invisibility technology enables mages to make units invisible for a limited period of time.
+
+[T_E_LIGHTNING]
+rollover = Learn more about the technology - Lightning
+brief = Lightning
+detail = Cost-400 gold ~ The Lightning technology enables mages to use the Lightning spell.
+
+[T_E_FREEZE]
+rollover = Learn more about the technology - Freeze
+brief = Freeze
+detail = Cost-800 gold ~ The Freeze technology enables mages to use the Freeze spell.
+
+[T_A_FEUDALISM]
+rollover = Learn more about the technology - Feudalism
+brief = Feudalism
+detail = Cost-300 gold ~ Feudalism makes the production of peasants 20% cheaper. It is recommendable to research this technology at the beginning of a game, when many peasants are needed to build up the economy.
+
+[T_A_ARCHITECTURE]
+rollover = Learn more about the technology - Architecture
+brief = Architecture
+detail = Cost-300 gold ~ Architecture makes the construction of any structure 20% faster.
+
+[T_A_LEARNING]
+rollover = Learn more about the technology - Learning
+brief = Learning
+detail = Cost-400g old ~ Learning allows the units to gain up to 4 levels of experience.
+
+[T_A_GREAT_WALL]
+rollover = Learn more about the technology - Great Wall
+brief = Great Wall
+detail = Cost-600 gold ~ Makes the hit-points of Stone Walls and Towers 30% higher.
+
+[T_A_BUDHISM]
+rollover = Learn more about the technology - Buddhism
+brief = Buddhism
+detail = Cost-500 gold ~ Makes the buildings' resistance 50% higher.
+
+[T_A_ROTATING_FIELDS]
+rollover = Learn more about the technology - Rotating Fields
+brief = Rotating Fields
+detail = Cost-400 gold ~ The Rotating Fields technology enables peasants to gather twice as much food after sowing.
+
+[T_A_IRRIGATION]
+rollover = Learn more about the technology - Irrigation
+brief = Irrigation
+detail = Cost-400 gold ~ The Irrigation technology enables peasants to gather 16 food, instead of 12, when working the fields.
+
+[T_A_ART_OF_RIDING]
+rollover = Learn more about the technology - Art of Riding
+brief = Art of Riding
+detail = Cost-400 gold ~ The Art of Riding technology allows the production of horse archers in the barracks.
+
+[T_A_TEMPER_IRON]
+rollover = Learn more about the technology - Temper Iron
+brief = Temper Iron
+detail = Cost-400 gold ~ The Temper Iron technology increases the sword attack of the military units by 1 point.
+
+[T_A_SCALE_ARMOR]
+rollover = Learn more about the technology - Scale Armor
+brief = Scale Armor
+detail = Cost-400 gold ~ The Scale Armor technology increases the defense of all infantry units by 1 point.
+
+[T_A_CHAIN_MAIL]
+rollover = Learn more about the technology - Chain Mail
+brief = Chain Mail
+detail = Cost-400 gold ~ The Chain Mail technology increases the defense parameter of all infantry units by 2 points.
+
+[T_A_CHARIOT]
+rollover = Learn more about the technology - Armored Chariot
+brief = Armored Chariot
+detail = Cost-300 gold ~ The Armored Chariot technology makes armored chariots available in the barracks.
+
+[T_A_SAW]
+rollover = Learn more about the technology - Saw
+brief = Saw
+detail = Cost-400 gold ~ The Saw technology enables woodcutters to carry 2 points more wood to the lumber mills.
+
+[T_A_CROSSBOW]
+rollover = Learn more about the technology - Crossbow
+brief = Crossbow
+detail = Cost-400 gold ~ The Crossbow technology increases any attack by an arrow by 1 point.
+
+[T_A_GOLD_MINING]
+rollover = Learn more about the technology - Gold Mining
+brief = Gold Mining
+detail = Cost-400 gold ~ The Gold Mining technology enables miners to carry 12 gold from the mines.
+
+[T_A_STONE_MINING]
+rollover = Learn more about the technology - Stone Mining
+brief = Stone Mining
+detail = Cost-400 gold ~ The Stone Mining technology enables miners to carry 12 stone from the quarries.
+
+[T_A_ENGINEERING]
+rollover = Learn more about the technology - Engineering
+brief = Engineering
+detail = Cost-400 gold ~ The Engineering technology increases the attack of catapults by 5 points.
+
+[T_A_CANNON_TOWER]
+rollover = Learn more about the technology - Cannon Towers
+brief = Cannon Towers
+detail = Cost-400 gold ~ The Cannon Tower technology makes the upgrading of Stone Towers to Cannon Towers possible.
+
+[T_A_HEROISM]
+rollover = Learn more about the technology - Heroism
+brief = Heroism
+detail = Cost-500 gold ~ The Heroism technology allows the units to gain unlimited experience, allowing the player to turn some of his players into heroes.
+
+[T_A_LEADERSHIP]
+rollover = Learn more about the technology - Leadership
+brief = Leadership
+detail = Cost-500 old ~ The Leadership technology allows the units around a hero to gain experience.
+
+[T_A_HONOR]
+rollover = Learn more about the technology - Honor
+brief = Honor
+detail = Cost-500 gold ~ The Honor technology makes heroes' attack 50% higher when fighting other heroes.
+
+[T_A_SUN_TZU_BOOK]
+rollover = Learn more about the technology - Sun Tzu's Book
+brief = Sun Tzu's Book
+detail = Cost-600 gold ~ The Sun Tzu's Book technology speeds up the learning process of units.
+
+[T_A_WARFARE]
+rollover = Learn more about the technology - Warfare
+brief = Warfare
+detail = Cost-400 gold ~ The Warfare technology speeds up the learning process of all units.
+
+[T_A_TACTICS]
+rollover = Learn more about the technology - Tactics
+brief = Tactics
+detail = Cost-800 gold ~ The Tactics technology speeds up the learning process of units.
+
+[T_A_MERCENARIES]
+rollover = Learn more about the technology - Mercenaries
+brief = Mercenaries
+detail = Cost-600 gold ~ The Mercenaries technology allows the recruitment of mercenaries in the taverns.
+
+[T_A_HEROES_QUEST]
+rollover = Learn more about the technology - Heroes' Quest
+brief = Heroes' Quest
+detail = Cost-800 gold ~ The Heroes' Quest technology allows the recruitment of heroes in the taverns.
+
+[T_A_BUSHIDO]
+rollover = Learn more about the technology - Bushido
+brief = Bushido
+detail = Cost-500 gold ~ The Bushido technology allows the production of horse samurais in the barracks.
+
+[T_A_MEDITATION]
+rollover = Learn more about the technology - Meditation
+brief = Meditation
+detail = Cost-300 gold ~ The Meditation technology makes the production of monks 25% cheaper.
+
+[T_A_PHILOSOPHY]
+rollover = Learn more about the technology - Philosophy
+brief = Philosophy
+detail = Cost-400 gold ~ The Philosophy technology makes the monks reach level 2 when created.
+
+[T_A_KUNG_FU]
+rollover = Learn more about the technology - Kung Fu
+brief = Kung Fu
+detail = Cost-400 gold ~ The Kung Fu technology increases the attack of all Kung Fu units /peasants, monks and priests/ by 1 point.
+
+[T_A_NINJAS]
+rollover = Learn more about the technology - Ninjas
+brief = Ninjas
+detail = Cost-500 gold ~ The Ninja technology allows the creation of ninjas in the castle.
+
+[T_A_MASTERY]
+rollover = Learn more about the technology - Mastery
+brief = Mastery
+detail = Cost-500 gold ~ The Mastery technology allows the priests to train units to their own level.
+
+[T_A_TOURNAMENTS]
+rollover = Learn more about the technology - Tournaments
+brief = Tournaments
+detail = Cost-800 gold ~ The Tournaments technology allows Kung Fu units /peasants, monks and priests/ to share experience.
+
+[T_A_HEALING]
+rollover = Learn more about the technology - Healing
+brief = Healing
+detail = Cost-400 gold ~ The Healing technology makes the Healing spell available and allows priests to heal units.
+
+[T_A_MEDICINE]
+rollover = Learn more about the technology - Medicine
+brief = Medicine
+detail = Cost-500 gold ~ The Medicine technology allows priests to heal from a greater range.
+
+[T_A_TRADE_ROUTES]
+rollover = Learn more about the technology - Trade Routes
+brief = Trade Routes
+detail = Cost-400 gold ~ The Trade Routes technology allows trading with peasants.
+
+[T_A_USURY]
+rollover = Learn more about the technology - Usury
+brief = Usury
+detail = Cost-300 gold ~ The Usury technology allows the player to obtain loans in the taverns.
+
+[T_A_BANKING]
+rollover = Learn more about the technology - Banking
+brief = Banking
+detail = Cost-600 gold ~ The Banking technology increases the profit of trade by 5%.
+
+[T_A_SUPPLY_STORAGE]
+rollover = Learn more about the technology - Supply Storage
+brief = Supply Storage
+detail = Cost-500 gold ~ The Supply Storage technology increases the population limit by 50%.
+
+[T_A_SEAFOOD]
+rollover = Learn more about the technology - Sea Food
+brief = Sea Food
+detail = Cost-500 gold ~ The Sea Food technology increases the population limit by 25%.
+
+[T_A_JEWELRY]
+rollover = Learn more about the technology - Jewelry
+brief = Jewelry
+detail = Cost-400 gold ~ The Jewelry technology allows trade with Magic Items in the markets.
+
+[T_A_CHEMISTRY]
+rollover = Learn more about the technology - Chemistry
+brief = Chemistry
+detail = Cost-500 gold ~ The Chemistry technology increases the flaming arrows' attack potential by 2 points.
+
+[T_A_GUNPOWDER]
+rollover = Learn more about the technology - Gunpowder
+brief = Gunpowder
+detail = Cost-500 gold ~ The Gunpowder technology increases the attack potential of Cannon Towers by 10%.
+
+[T_A_ROCKET_ARROW]
+rollover = Learn more about the technology - Rocket Arrow
+brief = Rocket Arrow
+detail = Cost-800 gold ~ The Rocket Arrow technology makes Rocket Towers available.
+
+[T_A_CONCENTRATION]
+rollover = Learn more about the Concentration technology
+brief = Concentration
+detail = Cost-400 gold ~ The Concentration technology speeds up the manna restoration of all manna units.
+
+[T_A_CONFUSION]
+rollover = Learn more about the Confusion technology
+brief = Confusion
+detail = Cost-400 gold ~ The Confusion technology enables mages to use the Confusion spell.
+
+[T_A_WHIRLPOOL]
+rollover = Learn more about the Whirlpool technology
+brief = Whirlpool
+detail = Cost-300 gold ~ The Whirlpool technology enables mages to use the Whirlpool spell.
+
+[T_A_FLAMEBOLT]
+rollover = Learn more about the Flame Bolt technology
+brief = Flame Bolt
+detail = Cost-400 gold ~ The Flame Bolt technology enables mages to use the Flame Bolt spell.
+
+[T_A_DRAGON]
+rollover = Learn more about the Dragon technology
+brief = Dragon
+detail = Cost-800 gold ~ The Dragon technology enables mages to spawn dragons.
+
+[T_A_TURN_TO_STONE]
+rollover = Learn more about the Turn to Stone technology
+brief = Turn to stone
+detail = Cost-300 gold ~ The Turn to Stone technology enables mages to use the Turn to Stone spell.
+
+[T_R_FEUDALISM]
+rollover = Learn more about the technology - Feudalism
+brief = Feudalism
+detail = Cost-300 gold ~ Feudalism makes the production of peasants 20% cheaper. It is recommendable to research this technology at the beginning of a game, when many peasants are needed to build up the economy.
+
+[T_R_SLAVERY]
+rollover = Learn more about the technology - Slavery
+brief = Slavery
+detail = Cost-200 gold ~ Slavery makes the production of peasants 20% cheaper. It is recommendable to research this technology at the beginning of a game, when many peasants are needed to build up the economy.
+
+[T_R_ARCHITECTURE]
+rollover = Learn more about the technology - Architecture
+brief = Architecture
+detail = Cost-300 gold ~ Architecture makes the construction of any structure 20% faster.
+
+[T_R_LEARNING]
+rollover = Learn more about the technology - Learning
+brief = Learning
+detail = Cost-400 gold ~ Learning allows the units to gain up to 4 levels of experience.
+
+[T_R_ROTATING_FIELDS]
+rollover = Learn more about the technology - Rotating Fields
+brief = Rotating Fields
+detail = Cost-400 gold ~ The Rotating Fields technology enables peasants to gather twice as much food after sowing.
+
+[T_R_DOMESTICATION]
+rollover = Learn more about the technology - Domestication
+brief = Domestication
+detail = Cost-300 gold ~ The Domestication technology allows the production of cattle in the farms.
+
+[T_R_COW_POACHING]
+rollover = Learn more about the technology - Cow Poaching
+brief = Cow Poaching
+detail = Cost-200 gold ~ The Cow Poaching technology allows peasants to steal cows.
+
+[T_R_ART_OF_RIDING]
+rollover = Learn more about the Art of Riding technology
+brief = Art of Riding
+detail = Cost-400 gold ~ The Art of Riding technology makes horse archers available in the barracks.
+
+[T_R_HORSEMANSHIP]
+rollover = Learn more about the Horsemanship technology
+brief = Horsemanship
+detail = Cost-400 gold ~ The Horsemanship technology makes all mounted units cheaper.
+
+[T_R_TEMPER_IRON]
+rollover = Learn more about the technology - Temper Iron
+brief = Temper Iron
+detail = Cost-400 gold ~ The Temper Iron technology increases the sword attack potential of the military units by 1 point.
+
+[T_R_HALBERD]
+rollover = Learn more about the technology - Halberd
+brief = Halberd
+detail = Cost-600 gold ~ The Halberd technology allows the production of spear units.
+
+[T_R_SCALE_ARMOR]
+rollover = Learn more about the technology - Scale Armor
+brief = Scale Armor
+detail = Cost-400 gold ~ The Scale Armor technology makes the defense of all infantry units 1 point higher.
+
+[T_R_CHAIN_MAIL]
+rollover = Learn more about the technology - Chain Mail
+brief = Chain Mail
+detail = Cost-400 gold ~ The Chain Mail technology increases the defense parameter of all infantry units by 2 points.
+
+[T_R_SCIMITAR]
+rollover = Learn more about the Scimitar technology
+brief = Scimitar
+detail = Cost-400 gold ~ The Scimitar technology increases the sword attack potential of all units by 1 point, and allows the production of satraps in the barracks.
+
+[T_R_SAW]
+rollover = Learn more about the technology - Saw
+brief = Saw
+detail = Cost-400 gold ~ The Saw technology enables woodcutters to carry 2 points more wood to the lumber mills.
+
+[T_R_CROSSBOW]
+rollover = Learn more about the technology - Crossbow
+brief = Crossbow
+detail = Cost-400 gold ~ The Crossbow technology increases the attack potential of any arrow by 1 point.
+
+[T_R_GOLD_MINING]
+rollover = Learn more about the technology - Gold Mining
+brief = Gold Mining
+detail = Cost-400 gold ~ The Gold Mining technology enables miners to carry 12 gold from the mines.
+
+[T_R_STONE_MINING]
+rollover = Learn more about the technology - Stone Mining
+brief = Stone Mining
+detail = Cost-400 gold ~ The Stone Mining technology enables miners to carry 12 stone from the quarries.
+
+[T_R_ENGINEERING]
+rollover = Learn more about the technology - Engineering
+brief = Engineering
+detail = Cost-400 gold ~ The Engineering technology increases the attack potential of siege weapons by 5 points.
+
+[T_R_CANNON_TOWER]
+rollover = Learn more about the technology - Cannon Towers
+brief = Cannon Towers
+detail = Cost-400 gold ~ The Cannon Tower technology makes the upgrading of Stone Towers to Cannon Towers possible.
+
+[T_R_HEROISM]
+rollover = Learn more about the technology - Heroism
+brief = Heroism
+detail = Cost-500 gold ~ The Heroism technology allows the units to gain unlimited experience, allowing the player to turn some of his players into heroes.
+
+[T_R_LEADERSHIP]
+rollover = Learn more about the technology - Leadership
+brief = Leadership
+detail = Cost-500 gold ~ The Leadership technology allows the units around a hero to gain experience.
+
+[T_R_HONOR]
+rollover = Learn more about the technology - Honor
+brief = Honor
+detail = Cost-500 gold ~ The Honor technology increases the heroes' attack potential by 50% in fights with other heroes.
+
+[T_R_WARFARE]
+rollover = Learn more about the technology - Warfare
+brief = Warfare
+detail = Cost-400 gold ~ The Warfare technology speeds up the learning process of all units.
+
+[T_R_MERCENARIES]
+rollover = Learn more about the technology - Mercenaries
+brief = Mercenaries
+detail = Cost-600 gold ~ The Mercenaries technology allows the recruitment of mercenaries in the taverns.
+
+[T_R_HEROES_QUEST]
+rollover = Learn more about the technology - Heroes' Quest
+brief = Heroes' Quest
+detail = Cost-800 gold ~ The Heroes' Quest technology allows the recruitment of heroes in the taverns.
+
+[T_R_FAME]
+rollover = Learn more about the technology - Fame
+brief = Fame
+detail = Cost-500 gold ~ The Fame technology allows the recruitment of better, cheaper and more experienced mercenaries in the taverns.
+
+[T_R_BODY_BUILDING]
+rollover = Learn more about the technology - Body Building
+brief = Body Building
+detail = Cost-1200 gold ~ The Body Building technology increases the units' hit-points by 5 points for each new level.
+
+[T_R_RIDING_HORDES]
+rollover = Learn more about the Riding Hordes technology
+brief = Riding Hordes
+detail = Cost-500 gold ~ The Riding Hordes technology increases the mounted units' attack by 2 points, and their defense potential by 1 point.
+
+[T_R_JANISSARY]
+rollover = Learn more about the Janissary technology
+brief = Janissary
+detail = Cost-1200 gold ~ The Janissary technology makes janissary units available in the barracks.
+
+[T_R_LANDING_TACTICS]
+rollover = Learn more about the technology - Landing Tactics
+brief = Landing Tactics
+detail = Cost-300 gold ~ The Landing Tactics technology allows ships to carry 50% more units.
+
+[T_R_FANATICISM]
+rollover = Learn more about the technology - Fanaticism
+brief = Fanaticism
+detail = Cost-400 gold ~ The Fanaticism technology increases the buildings' resistance with 50%.
+
+[T_R_JIHAD]
+rollover = Learn more about the Jihad technology
+brief = Jihad
+detail = Cost-1200 gold ~ The Jihad technology allows peasants to be converted into Jihad warriors, and Jihad warriors to be created in the barracks.
+
+[T_R_ESPIONAGE]
+rollover = Learn more about the technology - Espionage
+brief = Espionage
+detail = Cost-400 gold ~ The Espionage technology allows the production of spies in the castle.
+
+[T_R_BLESS]
+rollover = Learn more about the technology - Blessing
+brief = Blessing
+detail = Cost-400 gold ~ The Blessing technology increases the units' attack with 8 points. Allows priests to bless units.
+
+[T_R_HEALING]
+rollover = Learn more about the technology - Healing
+brief = Healing
+detail = Cost-400 gold ~ The Healing technology makes the Healing spell available and allows priests to heal units.
+
+[T_R_TRADE_ROUTES]
+rollover = Learn more about the technology - Trade Routes
+brief = Trade Routes
+detail = Cost-400 gold ~ The Trade Routes technology allows trade with caravans and ships.
+
+[T_R_USURY]
+rollover = Learn more about the technology - Usury
+brief = Usury
+detail = Cost-300 gold ~ The Usury technology allows the player to obtain loans in the taverns.
+
+[T_R_GAMBLING]
+rollover = Learn more about the technology - Gambling
+brief = Gambling
+detail = Cost-500 gold ~ The Gambling technology allows the player to gamble in the taverns.
+
+[T_R_SUPPLY_STORAGE]
+rollover = Learn more about the technology - Supply Storage
+brief = Supply Storage
+detail = Cost-500 gold ~ The Supply Storage technology increases the population limit by 50%.
+
+[T_R_BRIBERY]
+rollover = Learn more about the technology - Bribery
+brief = Bribery
+detail = Cost-300gold ~ The Bribery technology allows peasants to bribe enemy units.
+
+[T_R_ORE_FLOTATION]
+rollover = Learn more about the technology - Ore Floatation
+brief = Ore Floatation
+detail = Cost-300 gold ~ The Ore Floatation technology increases the yield of the gold mines by 100%.
+
+[T_R_MAGIC_CARPET]
+rollover = Learn more about the Magic Carpet technology
+brief = Magic Carpet
+detail = Cost-300 gold ~ The Magic Carpet technology enables mages to spawn Magic Carpets.
+
+[T_R_JINN]
+rollover = Learn more about the Jinn technology
+brief = Jinn
+detail = Cost-600 gold ~ The Jinn technology enables mages to spawn jinns.
+
+[T_R_NECROMANCY]
+rollover = Learn more about the Necromancy technology
+brief = Necromancy
+detail = Cost-400 gold ~ The Necromancy technology enables mages to use the Necromancy spell and raise dead units.
+
+[T_R_MAGIC_VISION]
+rollover = Learn more about the Magic Vision technology
+brief = Magic Vision
+detail = Cost-400 gold ~ The Magic Vision technology enables mages to use the Magic Vision spell and explore the map faster.
+
+[T_R_RAIN_OF_FIRE]
+rollover = Learn more about the Rain of Fire technology
+brief = Rain of Fire
+detail = Cost-800 gold ~ The Rain of Fire technology enables mages to use the Rain of Fire spell.
+
+[T_R_WITCHCRAFTS]
+rollover = Learn more about the Witch Crafts technology
+brief = Witch Crafts
+detail = Cost-800 gold ~ The Witch Crafts technology allows the construction of Magic Workshops and the production of Magic Items.
+
+[I_WEAPON]
+rollover = Learn more about the Weapon Item
+brief = Weapon Item
+detail = The Weapon Items increase the attack parameter of the owner. Some units have an attack parameter. When a unit has a Weapon Item in its inventory, its attack parameter is the sum of the attack points of the unit and those of the item. If the item is dropped, the unit's attack points return to their former value.
+
+[I_ARMOR]
+rollover = Learn more about the Armor Item
+brief = Armor Item
+detail = The Armor Items increase the defense parameter of the owner. All units have a defense parameter. When a unit has an Armor Item in its inventory, its defense parameter is the sum of the defense points of the unit and those of the item. If the item is dropped, the unit's defense points return to their former value.
+
+[I_SPELLBOOK]
+rollover = Learn more about the Spell Book Item
+brief = Spell Book Item
+detail = The Spell Book Items give the owner the ability to cast spells.
+
+[I_SCROLL]
+rollover = Learn more about the Scroll Item
+brief = Scroll Item
+detail = The Scroll Items contain text used in stories. You can read the message they hold buy picking up the Scroll Item and selecting it in the unit's inventory.
+
+[I_POTION]
+rollover = Learn more about the Potion Item
+brief = Potion Item
+detail = The Potion Items increase the health parameter of the owner. All units have a health parameter. When a unit uses a Potion Item, its health parameter is increased by the amount of health the item bears.
+
+[I_RESOURCE]
+rollover = Learn more about the Resource Item
+brief = Resource Item
+detail = Resource Items are small amounts of resources located on the map. They can be picked up by the units and stored in the treasury. The amount of the Resource Item is visible in the selection view, once it has been selected.
+
+[C_MOVE]
+rollover = Learn how to use the command Move
+brief = Move
+detail = To move a unit, select it and either click on the Move Button, or simply right-click on the desired destination. ~ To move in a defined path, press Shift and point at the desired destinations with the right mouse button. ~ Move-advance - move around looking for enemies by holding the Ctrl key while right-clicking at the desired destination. ~ Move-sneak - if you want your units to respond only if attacked, hold the Alt key while pointing at the location.
+
+[C_REPAIR]
+rollover = Learn how to repair a building
+brief = Repair
+detail = Select a peasant unit, click on the Repair Button in the Orders Bar, and then right-click on the building that needs to be repaired.
+
+[C_HARVEST]
+rollover = Learn how to use the command Harvest
+brief = Harvest
+detail = Select a peasant unit, click on the Harvest Order Button and point at the resource to be gathered.
+
+[C_EXPLORE]
+rollover = Learn how to explore an area
+brief = Explore
+detail = Select a unit, click on the Explore Order Button, and point at the area to be explored.
+
+[C_ATTACK]
+rollover = Learn how to attack enemy units
+brief = Attack
+detail = Select a unit, click on the Attack Order Button or simply point at an enemy unit or object by right-clicking on it. ~ You can make a multiple selection of different objects by holding the Shift key while right-clicking on them one after another. ~ If you hold the Alt key when selecting an object to be attacked, all objects of the same type will be selected and attacked. also = WI_COMMANDS,HT_COMMANDS
+
+[C_STOP]
+rollover = Learn how to stop your units
+brief = Stop
+detail = Select a unit and click on the Stop Order Button in the Orders Bar.
+
+[C_PICKITEM]
+rollover = Learn how to pick an item
+brief = Pick Item
+detail = Select a unit, click on the Pick Item Order Button or simply move the cursor over an item and select the item to be picked with the right mouse button.
+
+[C_USEITEM]
+rollover = Learn how to use an item
+brief = Use Item
+detail = Select a unit with objects in its holder. Open the holder, choose the item to use and point on the object.
+
+[C_DROPITEM]
+rollover = Learn how to drop an item
+brief = Drop Item
+detail = Select a unit with objects in its holder. Open the holder and choose the item to be dropped while holding the Alt key. Click on the Use Item Order Button and point at the desired location.
+
+[C_CAPTURE]
+rollover = Learn how to capture an enemy building
+brief = Capture
+detail = Select a peasant unit, click on the Capture Order Button or simply right-click on an enemy building.
+
+[C_BUILD]
+rollover = Learn how to build
+brief = Build
+detail = Select a peasant unit, click on the Build Order Button, and choose a building to be constructed by selecting the desired Building Button. Then point at the desired location. The image of the building is green when the location is approved.
+
+[C_PATROL]
+rollover = Learn how to make your units patrol an area
+brief = Patrol
+detail = Select a unit, click on the Patrol Order Button and right-click on the destination. The unit patrols between its previous position and the destinations pointed out. ~ If you wish to establish a defined path for patrolling, hold the Shift key while placing the destination points.
+
+[C_GUARD]
+rollover = Learn how to guard an object
+brief = Guard
+detail = Select a unit, click on the Guard Order Button and select the object to be guarded. ~ You can make a multiple selection of different objects to be guarded by holding the Shift key while right-clicking on them one after another. ~ If you hold the Alt key when selecting an object to be guarded, all objects of the same type will be selected and guarded.
+
+[C_LOAD]
+rollover = Learn how to load units
+brief = Load
+detail = Select the units to be loaded and right-click on the unit that is to be loaded.
+
+[C_UNLOAD]
+rollover = Learn how to unload units
+brief = Unload
+detail = Select a loaded unit and point at the place where you wish to unload the objects. The color of the cursor shows if the location is approved.
+
+[C_EMERGE]
+rollover = Learn more about the building - Castle
+brief = Emerge
+detail = Select a building with units in it. Enter the holder and select a unit to come out. To make all units emerge, select the building and then click on the Emerge Order Button.
+
+[C_LIGHTNING]
+rollover = Learn how to use the Lightning Spell
+brief = Lightning Spell
+detail = Only European mages can cast the Lightning spell. Select the Lightning Order Button and then point at the unit you wish to attack.
+
+[C_SPAWNBAT]
+rollover = Learn how to spawn bats
+brief = Spawn Bat
+detail = Only European mages can cast the Spawn Bats spell. Select the Bat Order Button and then point at the desired location where bats will be spawned.
+
+[C_FREEZE]
+rollover = Learn how to use the Freeze Spell
+brief = Freeze Spell
+detail = Only European mages can cast the Freeze spell. Select the Freeze Order Button and then point at the unit you wish to attack.
+
+[C_SPAWNSTONEGOLEM]
+rollover = Learn how to spawn a Stone Golem
+brief = Spawn Stone Golems
+detail = Only European mages can spawn stone golems. Select the Stone Golem Order Button and then point at the desired location where stone golems will be spawned.
+
+[C_INVISIBILITY]
+rollover = Learn how to use the Invisibility Spell
+brief = Invisibility
+detail = Only European mages can use the Invisibility spell. Select the Invisibility Order Button and then point at the unit you wish to make invisible.
+
+[C_TRADE]
+rollover = Learn how to trade
+brief = Trade
+detail = Trade allows you to exchange food, wood, gold, iron and stone with other kingdoms, or perform trade between your own markets. Traders and/or ships perform trade. Select a trader or a ship. Click on the Trade Order Button in the Orders Bar. Click on the location indication in the Trade menu - the cursor changes. Select the market or harbor where you wish to start. Select the type of resources you want to carry from it. Select the destination and the type of resources you want to carry back. Select the amount you wish to trade. Click on Start to start trading, and Cancel to quit.
+
+[C_HEAL]
+rollover = Learn how to use the Healing command
+brief = Heal units
+detail = Select the Heal Order Button and then point at the units that needs to be cured. The Healing command recovers the health status of the unit.
+
+[C_BLESS]
+rollover = Learn how to use the Blessing command
+brief = Bless units
+detail = Select the Bless Order Button and then point at the units that needs to be blessed. This command increases the units' attack skill.
+
+[C_IMPERSONATE]
+rollover = Learn how to use the Impersonate command
+brief = Impersonate
+detail = Select a spy and click on the Impersonate Order Button, then select the unit that needs to be impersonated.
+
+[C_REVEAL]
+rollover = Learn how to use the Reveal command
+brief = Reveal
+detail = Select an impersonated unit and click on the Reveal Order Button.
+
+[C_BRIBE]
+rollover = Learn how to Bribe units
+brief = Bribe
+detail = Select a peasant unit. Click on the Bribe Order Button and then point at the enemy unit you wish to bribe. That way this unit becomes yours.
+
+[C_ATTACKGROUND]
+rollover = Learn how to use the Attack Ground command
+brief = Attack ground
+detail = Select a unit, then click on the Attack Ground Order Button and point at the location you wish to attack. The unit will keep attacking this place even if no object exists there until you stop it.
+
+[C_STANDGROUND]
+rollover = Learn how to use the Stand Ground command
+brief = Stand Ground
+detail = Select a unit, then click on the Stand Ground Order Button and point at the place where you wish to locate the unit. It will stand there until you decide otherwise.
+
+[C_HOLDSTEADY]
+rollover = Learn how to use the Hold Steady command
+brief = Hold Steady
+detail = Select a unit, then click on the Stand Ground Order Button and its activities will immediately stop.
+
+[C_FISHING]
+rollover = Learn how to use the Start Fishing command
+brief = Start Fishing
+detail = Select a fishing boat, then click on the Start Fishing Order Button and select a fishing patch.
+
+[C_LOANRETURN]
+rollover = Learn how to Return a Loan
+brief = Return Loan
+detail = To return a loan, click on the Return Loan Button in the Orders Bar in the tavern.
+
+[C_LOAN]
+rollover = Learn how to Obtain Loans
+brief = Obtain Loans
+detail = Select a tavern, then click on the Obtain Loan Order Button. Select the type of resource you want to loan - gold, stone, food, or wood. ~ The amount you can receive from the chosen resource is displayed in the bottom left corner of the view.
+
+[C_JIHAD]
+rollover = Learn how to use the Jihad command
+brief = Jihad
+detail = Use it to convert peasants into Jihad warriors. Select a peasant, then click on the Jihad Order Button.
+
+[C_CLOAK]
+rollover = Learn how to cloak ninja units
+brief = Cloak
+detail = Select the ninja unit, then click on the Cloak Order Button. The unit will be invisible for a certain period of time.
+
+[C_UNCLOAK]
+rollover = Learn how to uncloak ninja units
+brief = Uncloak
+detail = Select a cloaked ninja unit, then click on the Uncloak Order Button to reveal it.
+
+[C_MURDER]
+rollover = Learn how to murder an enemy's unit
+brief = Murder
+detail = Select a ninja unit, then click on the Murder Order Button and select the unit to be murdered.
+
+[C_GATEOPEN]
+rollover = Learn how to open a gate
+brief = Open Gate
+detail = Select the gate and click on the Gate Open Order Button.
+
+[C_GATECLOSE]
+rollover = Learn how to close a gate
+brief = Close Gate
+detail = Select the gate and click on the Gate Closed Order Button.
+
+[C_GATESUBAION]
+rollover = Learn how to switch on the Automatic Open and Closing of the gate
+brief = Gate AI on
+detail = Select the gate and click on the Gate AI On Order Button. The AI automatically opens and closes the gate whenever there are units in front of it.
+
+[C_GATESUBAIOFF]
+rollover = Learn how to switch off the Automatic Open and Closing of the gate
+brief = Gate AI off
+detail = Select the gate and click on the Gate AI Off Order Button to switch off the AI assistance.
+
+[C_COMMON]
+rollover = Learn how to create Common buildings
+brief = Common Buildings
+detail = Select a peasant, click on the Build Order Button and then on the Common Buildings Button.
+
+[C_RARE]
+rollover = Learn how to create Rare buildings
+brief = Rare Buildings
+detail = Select a peasant, click on the Build Order Button and then on the Rare Buildings Button.
+
+[C_SPECIAL]
+rollover = Learn how to create Special buildings
+brief = Special Buildings
+detail = Select a peasant, click on the Build Order Button and then on the Special Buildings Button.
+
+[C_SETAI]
+rollover = Learn how to set the AI control of your units
+brief = AI
+detail = Do not select any units. Click on the AI Order Button. Four types of AI assistance will appear - AI Full, AI None, AI War, AI Economy. Select the kind you wish to use.
+
+[C_SETAINONE]
+rollover = Learn how to switch off the AI control of your units
+brief = AI None
+detail = Click on the AI None Order Button.
+
+[C_SETAIFULL]
+rollover = Learn how to switch on full AI control of your units
+brief = AI Full
+detail = Click on the AI Full Order Button.
+
+[C_SETAIWAR]
+rollover = Learn how to switch on War AI control of your units
+brief = AI War
+detail = Click on the AI War Order Button.
+
+[C_SETAIECO]
+rollover = Learn how to switch on Economy AI control of your units
+brief = AI Economy
+detail = Click on the AI Economy Order Button.
+
+[C_VIEWHEROES]
+rollover = Learn how to View Heroes on the map
+brief = View Heroes
+detail = The View Heroes Order Button is available only if some of your heroes are on the map. Do not select any units. Click on the View Heroes Order Button if it is highlighted, then you will see icons of all your heroes. Now you can choose which one to select.
+
+[C_VIEWSPYS]
+rollover = Learn how to View Spies on the map
+brief = View Spies
+detail = The View Spies Order Button is available only if some of your spies are on the map. Do not select any units. Click on the View Spies Order Button if it is highlighted, then you will see icons of all your spies. Now you can choose which one to select.
+
+[C_VIEWITEMS]
+rollover = Learn how to View Items on the map
+brief = View Items
+detail = The View Items Order Button is available only if some of your items are on the map. Do not select any units. Click on the View Items Order Button if it is highlighted, then you will see icons of all your items. Now you can choose which one to select.
+
+[C_TOWERUP1]
+rollover = Learn how to upgrade a Watch Tower to a Guard Tower
+brief = Upgrade to Guard Tower
+detail = Select a Watch Tower and then click on the Upgrade to Guard Tower Order Button.
+
+[C_TOWERUP2]
+rollover = Learn how to upgrade a Guard Tower to a Stone Tower
+brief = Upgrade to Stone Tower
+detail = Select a Guard Tower and then click on the Upgrade to Stone Tower Order Button.
+
+[C_TOWERUP3]
+rollover = Learn how to upgrade a Guard Tower or Stone Tower to a Cannon Tower
+brief = Upgrade to Cannon Tower
+detail = Select a Guard Tower or Stone Tower and then click on the Upgrade to Cannon Tower Order Button.
+
+[C_TOSWALL]
+rollover = Learn how to upgrade a Wooden Wall to a Stone Wall
+brief = Upgrade to Stone Wall
+detail = Select a Wooden Wall, then click on the Upgrade to Stone Wall Order Button. ~ This command is available only if the Architecture technology has been researched.
+
+[C_TOSGATE]
+rollover = Learn how to upgrade a Wooden Gate to a Stone Gate
+brief = Upgrade to Stone Gate
+detail = Select a Wooden Gate, then click on the Upgrade to Stone Gate Order Button. ~ This command is available only if the Architecture technology has been researched.
+
+[C_RISEDEAD]
+rollover = Learn how to use the Raise the Dead spell
+brief = Raise the Dead spell
+detail = Select an Arabian mage, then click on the Raise the Dead Spell Order Button. If there are any dead units around, they will turn into skeleton units.
+
+[C_SPAWNDRAGON]
+rollover = Learn how to spawn dragons
+brief = Spawn Dragons
+detail = Only Asian mages can spawn dragons. Select the Spawn Dragon Order Button and then point at the desired location where the dragons will be spawned.
+
+[C_FLAMEBOLT]
+rollover = Learn how to use the Flame Bolt spell
+brief = Flame Bolt Spell
+detail = Only Asian mages can use the Flame Bolt spell. Click on the Flame Bolt Order Button and select which unit to attack.
+
+[C_WHIRLPOOL]
+rollover = Learn how to use the Whirlpool spell
+brief = Whirlpool Spell
+detail = Only Asian mages can use the Whirlpool spell. Click on the Whirlpool Order Button and select a location on the water to cast the spell.
+
+[C_TURNTOSTONE]
+rollover = Learn how to use the Turn to Stone spell
+brief = Turn to Stone spell
+detail = Only Asian mages can use the Turn to Stone spell. Click on the Turn to Stone Order Button and select which unit to cast on.
+
+[C_FIRERAIN]
+rollover = Learn how to use the Rain of Fire spell
+brief = Rain of Fire spell
+detail = Only Arabian mages can use the Rain of Fire spell. Click on the Rain of Fire Order Button and select a location to cast the spell.
+
+[C_SPAWNJINN]
+rollover = Learn how to spawn jinns
+brief = Spawn Jinns
+detail = Only Arabian mages can spawn jinns. Click on the Jinn Order Button and then point at the desired location where the jinns will be spawned.
+
+[C_MAGICVISION]
+rollover = Learn how to use the Magic Vision spell
+brief = Magic Vision spell
+detail = Only Arabian mages can use the Magic Vision spell. Click on the Magic Vision Order Button and select a location or unit to cast the spell on. If you select a unit it will reveal the fog for you for a certain period of time.
+
+[C_CONFUSION]
+rollover = Learn how to use the Confusion spell
+brief = Confusion Spell
+detail = Only Asian mages can use the Confusion spell. Click on the Confusion Order Button and select which unit to cast the spell on. ~ Units affected by this spell become hostile to all other units for a certain period of time.
+
+[C_BUILDITEM]
+rollover = Learn how to produce an item
+brief = Produce Item
+detail = The Magic Workshop is the place where you produce items. Click on the Build Magic Item Order Button. The menu for the production of items appears. Choose the type of object you wish to produce. Choose the amount of gold you are ready to spend. Click on Start to produce the item, and Cancel to quit.
+
+[C_CONVERT]
+rollover = Learn how to convert resources in the taverns
+brief = Convert Resources
+detail = Select a tavern. Click on the Trade order in the Orders Bar. Select the type of resources you want to give away. Select the amount you are ready to give. Select the type of resources you wish to receive. The proportion is 1/10 - you give ten times more than you receive. Click on Start to start trading, and Cancel to quit.
+
+[C_PREACHCRUSADE]
+rollover = Learn how to preach a crusade
+brief = Preach a Crusade
+detail = You can launch a crusade only in a European cathedral. Select the Preach Crusade Order Button and then point at the desired gathering point. This place must not be far from the cathedral. You can only have one crusade at the same time.
+
+[C_SHIPLEVEL2]
+rollover = Learn how to upgrade ships' cannons
+brief = Upgrade Ships' Cannons
+detail = Select the galleon, then click on the Upgrade Cannons Order Button. Cannons can be upgraded up to level six.
+
+[C_HOLDFIRE]
+rollover = Learn how to hold fire
+brief = Hold Fire
+detail = Select the cannon or the Rocket Tower and click on the Hold Fire Order Button. The tower will stop firing. The Fire at Will Order Button appears.
+
+[C_FIREATWILL]
+rollover = Learn how to fire at will
+brief = Fire at Will
+detail = Select the cannon or the Rocket Tower and click on the Fire at Will Order Button. The tower will only start firing when you order it. The Hold Fire Order Button appears.
+
+[C_HIREMERCENARIES]
+rollover = Learn how to hire mercenaries
+brief = Hire Mercenaries
+detail = Mercenaries can only be hired in the taverns. Click on the Hire Mercenaries Order Button and a list of military units will appear. Select the ones of your choice.
+
+[C_HIREHEROES]
+rollover = Learn how to hire heroes
+brief = Hire Heroes
+detail = Heroes can only be hired in the taverns. Click on the Hire Heroes Order Button and a list of military units will appear. Select the ones of your choice.
+
+[C_BUYITEMS]
+rollover = Learn how to buy items
+brief = Buy Items
+detail = Only Asian markets can trade with items. Click on the Buy Items Order Button and a list of different items will appear. You see the price of the item in the text line below. Select the item you wish to buy.
+
+[C_SELLITEMS]
+rollover = Learn more about the building - Castle
+brief = Move
+detail = Only Asian markets can trade with items. Click on the Sell Items Order Button and a list of different items that your units possesses will appear. You see the amount you will get by selling an item in the text line below. Select the one you wish to sell.
+
+[C_GAMBLE]
+rollover = Learn how to gamble
+brief = Gambling
+detail = Gambling is performed in the taverns. Select a tavern and click on the Gamble Button in the Orders Bar. Select the type and amount of resource you wish to put down. Select the proportion. Click on Gamble to start, and Cancel to quit.
+
+[C_VIEWQUEST]
+rollover = Learn how to view the quest
+brief = View the Quest
+detail = The View the Quest Order Button is available only if you're playing a quest game. Do not select any units. Click on the View the Quest Order Button if it is highlighted, and you will see the quest.
+
+[HT_COLLECTRES]
+rollover = Learn more about how to collect resources
+brief = How to collect resources
+detail = Resources are needed to produce peasants, military units, siege weapons, and ships. They are used to train and upgrade units, erect buildings, to build defense structures, and forge new technology. Peasants increase your resources by cutting wood, mining gold and stone, fishing and tending cattle. Certain types of technology will increase the productivity of the peasants that gather resources. Trade is another way to increase the wealth of a kingdom.
+
+[HT_PRODUCE_ARMY]
+rollover = Learn how to produce an army
+brief = How to produce an army
+detail = Every player has to produce an army in order to have a powerful kingdom and to be able to fight against enemies. The main building in which military units are created is the barrack. Many units do not require any special technologies to be researched in order to be built. The larger the army, the more powerful it will be. It is possible to balance the advantages of the different types of units - infantry, mounted or siege weapons - to make the troops stronger. Some creatures which can be summoned in the Magic Gateways are of great help for all armies. To be able to summon them, the player must first capture the Magic Workshop.
+
+[HT_TRAIN_UNITS]
+rollover = Learn how to train units
+brief = How to train units
+detail = Each unit has its own attack, defense and health parameters. The units can gain experience in combat. For example, one veteran unit can beat several "newbee" units of the same kind. Military units can be trained by building dummies, after the Tactics technology has been researched. Thereby their experience parameter will be increased.
+
+[HT_HEAL_UNITS]
+rollover = Learn how to heal units
+brief = How to heal units
+detail = Priests can heal units so that they recover their health parameter when it has been reduced by combat. The Healing technology is needed. When a priest heals the troops as they attack, they can reach higher levels by gaining more experience. Another way to heal units is to make them enter an outpost.
+
+[HT_GARRISON_UNITS]
+rollover = Learn how to garrison units and remove them
+brief = How to garrison units and remove them
+detail = You can make your units enter the castle or the outpost. They are healed in those buildings. The emerge command makes the units come out of them.
+
+[HT_USE_SHIPS]
+rollover = Learn how to transport units with ships
+brief = How to transport units with ships
+detail = Units can be transported over water with ships. Ships will accommodate the following number of units: 8 on the xebec, 16 on the hulk and 24 on the galleon. The Landing Tactics technology, researched in the harbor, allows ships to carry 50% more units.
+
+[HT_USE_MAGIC_CARPETS]
+rollover = Learn how to transport units with Magic Carpets
+brief = How to transport units with Magic Carpets
+detail = Magic Carpets are spawned by the Arabian mages. They can transport units over water, as well as over ground. Each Magic Carpet can carry up to 8 units. Magic Carpets are also useful for exploring the map.
+
+[HT_UPGRADE_TOWERS]
+rollover = Learn how to upgrade towers
+brief = How to upgrade towers
+detail = There are several types of towers in Tzar. However, only the Watch Towers can be built. All other towers, except the Rocket Tower, are upgraded from Watch Towers. The Architecture and Cannon Towers technologies are needed to upgrade the Watch Towers. The order button for the next possible upgrade appears after each new upgrade.
+
+[HT_CREATE_ITEMS]
+rollover = Learn more about how to create items
+brief = How to create items
+detail = Items can only be created in the Arabian Magic Workshop, after the Witchcraft technology has been researched. Select a Magic Workshop, and click on the Build Magic Item Order Button. The menu for the production of items appears. Choose the type of object you wish to produce. Choose the amount of gold you are willing to spend. Select Start to produce the item, and Cancel to quit.
+
+[HT_USE_ITEMS]
+rollover = Learn more about how to use items
+brief = How to use items
+detail = Items can be picked up by issuing the Pick Up Order, or simply by right-clicking on them. The items in a unit's inventory can be used by selecting them and left-clicking on the desired location. Items can be dropped by holding the Alt key while selecting the item in the inventory, and pointing at the location where you wish to place them.
+
+[HT_BUY_ITEMS]
+rollover = Learn more about how to buy items
+brief = How to buy items
+detail = Items can only be bought and sold in the Asian market, after the Jewelry technology has been researched. Select a market, click on the Buy Item Order Button. The item appears on the ground, next to the market. To sell an item, select a market. All the items in your units' possession appear in its inventory. Move the cursor over the item you are willing to sell. The amount of gold you will receive appears in the help text line. Select the item you wish to sell. Gold will be added to your treasury.
+
+[HT_VIEW_QUESTS]
+rollover = Learn how to view current quests
+brief = How to view current quests
+detail = Quests appear in the campaigns. They give the player directives to follow in order to accomplish a certain mission. All available quests can be examined by clicking on the See Current Quests Button in the Orders Bar.
+
+[HT_BUILD]
+rollover = Learn more about how to build structures
+brief = How to build structures
+detail = Only the peasant unit can build structures. Select a peasant, and click on the Build Button in the Orders Bar or "B" on the keyboard. Select the type of building to be constructed in the Orders Bar. Point at the location of the building on the map. If the structure can be erected on the chosen location, the image will be green. Some buildings require that certain technologies have been researched, in order to be erected.
+
+[HT_CAPTURE_BUILDINGS]
+rollover = Learn more about how to capture buildings
+brief = How to capture buildings
+detail = Buildings can be captured only by peasants. The player can issue the "Capture" order from the Orders Bar or by simply right-clicking on an enemy building. The closer a building is to the castle, the harder it is to capture.
+
+[HT_COMMANDS]
+rollover = Learn how to command units
+brief = What is a command
+detail = Commands can be issued by the buttons in the Orders Bar, or by a combination of right/left-clicking for the most common of them. Many commands  can be given from the keyboard with the Hotkeys.
+
+[HT_TRADE_SHIPS]
+rollover = Learn how to trade with ships
+brief = How to trade with ships
+detail = To be able to trade you must research the Trade Routes technology and have at least two harbors and a ship. Example: One ship brings wood from Harbor A which it unloads at Harbor B. At Harbor B it loads stone which is later unloaded at Harbor A. The profit depends on the distance between the two harbors and the quantity of resources. The longer the distance, the bigger the profit. You can choose the type of the profit you gain - gold, stone, wood, or food.
+
+[HT_TRADE_CARAVANS]
+rollover = Learn how to trade with caravans
+brief = How to trade with caravans
+detail = To be able to trade you must research the Trade Routes technology and have at least two markets and a caravan/Asian peasant. Example: One caravan/peasant brings wood from Market A which is unloaded at Market B. At Market B it loads stone which is later unloaded at Market A. The profit depends on the distance between the two markets and the quantity of resources. The longer the distance, the bigger the profit. You can choose the type of profit you gain - gold, stone, wood, or food.
+
+[HT_BRIBE]
+rollover = Learn how to bribe units
+brief = How to bribe units
+detail = Arabian and European peasants can bribe enemy units, but first you need to research the Bribery technology in the Merchants' Guild.
+
+[HT_GAMBLE]
+rollover = Learn how to gamble in the taverns
+brief = How to gamble in the taverns
+detail = Gambling is performed in the taverns, but first you need to research the Gambling technology. Select a tavern, and click on the Gamble Button in the Orders Bar. Select the type and amount of resource you wish to put down. Select the proportion. Click on Gamble to start, and Cancel to quit.
+
+[HT_REMOVE]
+rollover = Learn how to remove troops and structures
+brief = How to remove troops and structures
+detail = Units and buildings can be removed by selecting them and pressing the Del key on the Keyboard. If this is done in the beginning of the construction of a structure, the amount of resources it has cost will be added back to the treasury. Enemy units or buildings can not be removed in this way.
+
+[HT_GATHER_FOOD]
+rollover = Learn how to gather food
+brief = How to gather food
+detail = Food can be gathered by harvesting fields, fishing and tending cattle. Peasants tend the fields and harvest them. They carry food to the farm or the castle. If the player has researched the Domestication technology, he can produce cattle and milk them for food. The fishing boats are produced in the harbors. They gather food from the fishing patches in the sea and the food is stored in the harbors.
+
+[HT_TEND_COWS]
+rollover = Learn how to tend cattle
+brief = How to tend cattle
+detail = If the player has researched the Domestication technology, he can produce cattle and milk them for food. A peasant can tend more than one cow, milk it and bring the milk to the farm or the castle. Cows can be slaughtered, and their meat collected by peasants or other units.
+
+[HT_TEND_FIELDS]
+rollover = Learn how to harvest fields
+brief = How to harvest fields
+detail = The fields produce the food resource, and they are in need of constant care. If they are neglected, they will disappear. It is recommendable to place them in the vicinity of a farm or the castle, so that the harvesters become more efficient in storing the food. The Rotating Fields and Irrigation technologies increase the amount of food carried by peasants. Only one peasant can tend each field.
+
+[HT_CHOP_WOOD]
+rollover = Learn how to chop wood
+brief = How to chop wood
+detail = Wood is obtained by cutting down trees. Only peasants can chop trees. Wood is stored in the lumber mill. The closer the mill is to the trees, the more efficient the woodcutters will be. The Saw technology increases the amount of wood carried by peasants.
+
+[HT_MINE]
+rollover = Learn how to mine gold and stone
+brief = How to mine gold and stone
+detail = Gold and stone are found as rocks on the map. They are mined by peasants. Each location contains a certain amount of the resource. Select a location to see the amount of resources it contains. It appears in the Selection View as a number. Gold and stone are gathered in the storage or in the castle. The Gold/Stone Mining technology increases the amount of gold/stone carried by peasants.
+
+[HT_BUILD_WALLS_GATES]
+rollover = Learn how to build walls and gates
+brief = How to build walls and gates
+detail = Peasants build walls and gates. Select the Build Wall Order Button, point at the starting location and hold the left mouse button while dragging to the end location. The wall appears green where it can be erected. Gates can be placed over previously erected walls or at any other appropriate location. While placing a gate you can change its direction by holding down the Alt or Ctrl key. Only wooden walls and gates can be built. If the Architecture technology has been researched you can upgrade them to stone.
+
+[HT_BUILD_BRIDGES]
+rollover = Learn how to build bridges
+brief = How to build bridges
+detail = Bridges can be built when you have researched the Architecture technology in the castle. While placing a bridge you can change its direction by holding down the Alt key.
+
+[HT_UPGRADE_SHIPS]
+rollover = Learn how to upgrade ships
+brief = How to upgrade ships
+detail = Ships' cannons can be upgraded so that they will fire more frequently. You can upgrade cannons up to level six.
+
+[HT_REQRUIT]
+rollover = Learn how to recruit mercenaries and heroes
+brief = How to recruit mercenaries and heroes
+detail = You can hire mercenaries and heroes in the taverns, but first you need to research the Mercenaries and Heroes' Quest technologies in the Warriors' Guild. You can hire different types of units of all races. Mercenaries and heroes gather in the taverns with time.
+
+[WI_RESOURCES]
+rollover = Learn what resources are
+brief = What are resources
+detail = Resources are needed to produce peasants, military units, siege weapons, and ships. They are used to train and upgrade units, erect buildings, to defense structures, and forge new technology. Peasants increase your resources by cutting wood, mining gold and stone, fishing and tending cattle. Certain types of technology will increase the productivity of the peasants that gather the resources. Trade is another way to increase the wealth of a kingdom.
+
+[WI_TRADE]
+rollover = Learn what trade is
+brief = What is trade
+detail = Trade is an alternative way to gather resources. It allows you to exchange food, wood, gold and stone with other kingdoms or perform trade between your own markets. Traders and/or ships perform trade. In order to trade you have to research the Trade Routes technology in the Merchants' Guild. It enables you to create traders in markets and to trade with ships. The trading unit moves between two markets (or harbors) carrying goods in two directions.
+
+[WI_ITEMS]
+rollover = Learn more about what an item is
+brief = What is an item
+detail = Items are small objects on the map. Units can pick them up and use them. Items are produced in certain buildings. Only the Arabian mages are able to produce items in the Magic Workshops, and only after they have discovered the necessary technology - Witch Craft. There are several categories of items: Weapons, Armor, Spell Books, Scrolls, Potions, and Resource Items. No items are impossible to produce, but better items cost more and take longer time to produce. Asian markets can trade items after the Jewelry technology has been researched.
+
+[WI_SPELLS]
+rollover = Learn what spells are
+brief = What is a spell
+detail = A spell is a magical event. A certain type of technology must be researched for a spell to be cast. Only mages can cast spells. Some spells spawn units, others inflict damage or heal units. Each spell requires a certain amount of manna. Spells are also found in the Spell Book Item. Any unit can cast a spell from a Spell Book Item, as long as it is in its possession.
+
+[WI_BUILDING]
+rollover = Learn what a building is
+brief = What is a building
+detail = Buildings are where units are created and technologies are researched. They are unique for each race. There are three groups of buildings for each race: Guilds, Common and Rare.
+
+[WI_RACE]
+rollover = Learn what a race is
+brief = What is a race
+detail = There are three races in Tzar - European, Arabian and Asian. Each race has its own unique buildings, units and technologies. They are carefully balanced, so that each race takes full advantage of its distinguishing features and levels of technological mastery.
+
+[WI_TECHNOLOGY]
+rollover = Learn what technology is
+brief = What is technology
+detail = By creating different edifices, the player gains several developmental options to choose from. The various types of technology form a complicated structure called the Technology Tree.
+
+[WI_UNIT]
+rollover = Learn what a unit is
+brief = What is a unit
+detail = The unit is the main instrument for playing. Most of the units can be produced in the buildings. To produce a unit, one must have achieved the adequate amount of resources and technology. Different units require different resources. Certain units have to be spawned by mages. Other units can be summoned in the Magic Gateways.
+
+[WI_COMMANDS]
+rollover = Learn what a command is
+brief = What is a command
+detail = Commands are the way to manage units. When a unit is selected, it can be ordered to perform different actions. The available commands appear as Order Buttons in the interface. Not all orders are optional for all units. They depend on the unit type and the level of researched technologies obtained by the unit.
+
+[WI_POP_LIMIT]
+rollover = Learn what the population limit is
+brief = What is the population limit
+detail = The population limit is the maximum number of units a player can have in a game. It is established in the setup of the game. It is impossible to create more units than the population limit allows. Houses are vital for the amount of units a player can produce at a certain moment. Each house increases the number of units that can be produced by 10. However, this number cannot exceed the population limit established for the game.
+
+[WI_STRATEGIES]
+rollover = Learn what strategies there are in Tzar
+brief = What strategy to follow
+detail = Once the player has developed the kingdom, he can choose between four different strategies to play: the Way of Glory, the Way of Religion, the Way of Magic, and the Way of Trade and Crafts. Each strategy is represented by a particular building - the Warriors' Guild, the Cathedral/Mosque/Shao Linn temple, the Mages' Tower, and the Merchants' Guild. The way selected will define different technologies to invent unique units and buildings.
+
+[WI_SIEGE_WEAPON]
+rollover = Learn what siege weapons are
+brief = What is a siege weapon
+detail = Catapults, heavy catapults and ballistas are siege weapons. They are produced in the workshops. The cost is limited to wood resources, but the heavy catapult requires the attainment of the Siege Tactics technology first. Siege weapons are powerful weapons when attacking fortified enemy kingdoms. They inflict damage on all units, not only on enemy ones. Peasants can repair damaged weapons if you have the required amount of wood. Select a peasant, click on the Repair Button in the Orders Bar and then point at the damaged siege weapon, or simply right-click on the one that needs to be repaired.
+
+[WI_HOTKEYS]
+rollover = Learn what hotkeys are
+brief = What are hotkeys
+detail = Hotkeys are the fastest way to play Tzar. You can perform a number of actions without using the interface, by only pressing certain keys on the keyboard.
+
+[WI_HERO]
+rollover = Learn what a hero is
+brief = What is a hero
+detail = A hero is a powerful unit with extraordinary health, attack or defense features, and a certain experience level. Every unit can be turned into a hero and provided with any name you wish as soon as he reaches the experience level of 12.
+
+[WI_QUEST]
+rollover = Learn what a quest is
+brief = What is a quest
+detail = A quest is a mission objective that a player has to fulfill in order to continue the game.
+
+[WI_RESISTANCE]
+rollover = Learn what resistance is
+brief = What is resistance
+detail = The resistance reduces the amount of damage a building suffers when attacked. The closer to the castle a building is, the greater resistance it will have. Some buildings emit resistance - positive for those of the same kingdom, and negative for enemy buildings.
+
+[WI_TECHTREE]
+rollover = Learn what the Technology Tree is
+brief = What is the Technology Tree
+detail = The various types of technology form a complicated structure called the Technology Tree. It shows the technological paths you can pursue in Tzar and the order in which you have to research the technologies to make the next ones available.
+
+[WI_GUILD]
+rollover = Learn what a guild is
+brief = What is a guild
+detail = Each strategy in the game - the Way of Glory, the Way of Religion, the Way of Magic, and the Way of Trade and Crafts is represented by a particular building - the Warriors' Guild, the Cathedral/Mosque/Shao Linn temple, the Mages' Tower, and the Merchants' Guild.
+
+[WI_TRANSPORT]
+rollover = Learn how transport is performed
+brief = What are the transportation ways
+detail = There are several ways to transport units and goods. Ships, Magic Carpets and traders can load units. Only ships and Magic Carpets can transport units over water.
+
+[WI_DIPLOMACY]
+rollover = Learn what diplomacy is
+brief = What is diplomacy
+detail = Each player can choose his diplomatic stance towards the other players. The three stances are Allies, Enemies and Neutral. Ally - military units do not attack the other players' buildings and units. Enemy - military units attack all buildings and units in their sight. Neutral - military units attack only military units in their sight. Two players can take different stances towards each other.
+
+[WI_ALLIED_VICTORY]
+rollover = Learn what allied victory is
+brief = What is allied victory
+detail = In allied victory the players can choose to win (or loose) as a team. The player who achieves the victory condition(s) wins the game for all allies.
+
+[WI_UNIT_STATISTICS]
+rollover = Learn what the units' statistics are
+brief = What are the units' statistics
+detail = The units' statistics give valuable information about the characteristics of units or buildings. You can see the image of a selected object and its statistics in the selection view. Name, kingdom, health status - the amount of damage a unit can suffer,  attack - the amount of damage a unit can inflict, manna - the current magic capacity of a unit, power - the current capacity of a unit to perform special actions, range - the distance in which a unit inflicts damage, resistance - reduces the amount of damage a building suffers when attacked , inside - the number of objects in the unit's holder, defense - reduces the amount of damage a unit suffers when attacked,  time - the period of time for a task to be finished, and level - measures the unit's experience. When multiple units are selected, only their HEALTH STATUS is displayed.
+
+[WI_MANNA]
+rollover = Learn what manna is
+brief = What is manna
+detail = Manna is the current magic capacity of a unit. Mages need manna to spawn magic creatures, and then some time to recover it to its former value.

@@ -1,0 +1,4 @@
+# The Microsoft C runtime inside the executables: ReTzar starts on any
+# Windows 10 or 11 without VCRUNTIME140.dll (the copy in `release` too).
+[target.x86_64-pc-windows-msvc]
+rustflags = ["-C", "target-feature=+crt-static"]

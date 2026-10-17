@@ -1,0 +1,132 @@
+     @1--- ALLGEMEINE TASTEN ---@2
+
+@1+ (Plus)@2 - Erhöht die Spielgeschwindigkeit
+
+@1- (Minus)@2 - Verringert die Spielgeschwindigkeit
+
+@1\ (Schrägstrich)@2 - Zeigt Bäume durchsichtig, damit Sie die Einheiten oder Objekte dahinter sehen
+
+@1F2@2 - Schnellspeichern der laufenden Partie
+
+@1F3@2 - Schnellladen der mit F2 gespeicherten Partie
+
+@1F4@2 - Zeigt die Punkte und die seit Spielbeginn vergangene Zeit
+
+@1F12@2 - Schaltet die Karte zwischen Vollbild und Fenster um
+
+@1Strg + Eingabe@2 - Sendet Ihre Position an die anderen Spieler (sie erscheint auf der Minikarte)
+
+@1Leertaste@2 - Zentriert die Karte auf das ausgewählte Objekt
+
+@1F11@2 - Macht ein Bildschirmfoto des Spiels und speichert es im Ordner »Screenshots« der TZAR-Installation
+
+
+     @1--- EINHEITEN AUSWÄHLEN ---@2
+
+@1Linksklick@2 - Wählt eine Einheit aus
+
+@1Doppelter Linksklick@2 - Wählt alle Einheiten derselben Art auf dem Bildschirm aus
+
+@1Strg + doppelter Linksklick@2 - Wählt alle Einheiten derselben Art auf dem Bildschirm aus, die dasselbe tun (zum Beispiel Holz fällen)
+
+@1Alt + doppelter Linksklick@2 - Wählt alle Militäreinheiten auf dem Bildschirm aus
+
+@1Esc@2 - Hebt die Auswahl der Einheit auf
+
+@1Tab@2 - Zeigt die Angaben einer einzelnen Einheit, wenn mehrere ausgewählt sind
+
+
+     @1--- EINHEITEN BEFEHLE GEBEN ---@2
+
+@1Rechtsklick@2 - Die Einheit führt ihre Standardaktion aus
+
+@1Strg + Rechtsklick@2 - Angriffsmarsch: Die Einheit greift alles in Sichtweite an
+
+@1Umschalt + Rechtsklick@2 - Die Einheit folgt Wegpunkten und greift alles an, was sie findet
+
+@1Alt + Rechtsklick@2 - Schleichmarsch: Die Einheit greift nur an, wenn sie angegriffen wird
+
+@1Alt + Umschalt + Rechtsklick@2 - Die Einheit folgt Wegpunkten und greift nur an, wenn sie angegriffen wird
+
+@1Entf@2 - Löscht die ausgewählte Einheit
+
+
+     @1--- EINHEITEN GRUPPIEREN ---@2
+
+@1Strg + Ziffer (1-9)@2 - Bildet eine Gruppe aus den ausgewählten Einheiten
+
+@1Ziffer (1-9)@2 - Wählt eine zuvor mit Strg + Ziffer gebildete Gruppe aus
+
+@1Strg + 0 (Null)@2 - Nimmt die ausgewählten Einheiten aus ihrer Gruppe
+
+
+     @1--- GEGENSTÄNDE IM INVENTAR ---@2
+
+@1Linksklick auf einen Gegenstand@2 - Nimmt den Gegenstand, um ihn zu benutzen
+
+@1Linksklick auf eine Einheit mit genommenem Gegenstand@2 - Benutzt den genommenen Gegenstand an der Einheit
+
+@1Rechtsklick auf einen Gegenstand@2 - Nimmt den Gegenstand, um ihn auf der Karte abzulegen
+
+@1Linksklick auf die Karte mit genommenem Gegenstand@2 - Legt den genommenen Gegenstand ab
+
+@1Strg + Linksklick auf einen Gegenstand@2 - Sofortige Benutzung des Gegenstands
+
+@1Strg + Rechtsklick auf einen Gegenstand@2 - Sofortiges Ablegen des Gegenstands auf der Karte
+
+@1Alt + Linksklick auf einen Gegenstand@2 - Macht den Gegenstand zum neuen Standardgegenstand
+
+@1Rücktaste@2 - Benutzt den Standardgegenstand
+
+@1, (Komma)@2 - Vorherige Inventarseite
+
+@1. (Punkt)@2 - Nächste Inventarseite
+
+
+     @1--- GEBÄUDE ---@2
+
+@1Linksklick@2 - Wählt ein Gebäude aus
+
+@1Entf@2 - Löscht das ausgewählte Gebäude
+
+@1Strg + Rechtsklick@2 - Setzt einen Sammelpunkt
+
+@1Rechtsklick@2 - Setzt einen Sammelpunkt mit Standardaktion
+
+@1Strg + Alt + Rechtsklick@2 - Setzt einen Sammelpunkt mit Angriffsmarsch (die Einheit greift alles an, was sie findet)
+
+@1Strg + C@2 - Wählt eine Burg aus (gibt es mehrere, wählen diese Tasten sie nacheinander aus)
+
+@1Strg + B@2 - Wählt eine Kaserne aus (gibt es mehrere, wählen diese Tasten sie nacheinander aus)
+
+
+     @1--- DIE KARTE BEWEGEN ---@2
+
+@1Pos1@2 - Zentriert die Karte auf das Gebäude, in dem die letzte Einheit oder Technologie entstand
+
+@1Strg + Pos1@2 - Zentriert die Karte auf den Ort der letzten Meldung
+
+@1Strg + Bild ab@2 - Zeigt den Ort der nächsten Meldung
+
+@1Strg + Bild auf@2 - Zeigt den Ort der vorherigen Meldung
+
+@1Pfeiltasten@2 - Bewegen die Karte in Pfeilrichtung
+
+
+     @1--- MENÜS ---@2
+
+@1F1@2 - Hilfe
+
+@1F5@2 - Diplomatie-Bildschirm
+
+@1F6@2 - Tribut-Fenster
+
+@1F8@2 - Ziele der aktuellen Mission
+
+@1F9@2 - Optionen-Bildschirm
+
+@1F10@2 - Spielmenü
+
+@1Eingabe@2 - Chat mit den anderen Spielern
+
+@1Esc@2 - Verlässt das aktuelle Menü

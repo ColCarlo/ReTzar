@@ -1,0 +1,132 @@
+     @1--- TECLAS GENERALES ---@2
+
+@1+ (más)@2 - Aumenta la velocidad del juego
+
+@1- (menos)@2 - Reduce la velocidad del juego
+
+@1\ (barra)@2 - Muestra los árboles transparentes para ver las unidades u objetos que ocultan
+
+@1F2@2 - Guardado rápido de la partida en curso
+
+@1F3@2 - Carga rápida de la partida guardada con F2
+
+@1F4@2 - Muestra la puntuación y el tiempo transcurrido desde el inicio de la partida
+
+@1F12@2 - Cambia el mapa entre pantalla completa y ventana
+
+@1Ctrl + Intro@2 - Envía tu posición a los demás jugadores (aparece en el minimapa)
+
+@1Barra espaciadora@2 - Centra el mapa en el objeto seleccionado
+
+@1F11@2 - Hace una captura del juego y la guarda en la carpeta «Screenshots» de la instalación de TZAR
+
+
+     @1--- SELECCIONAR UNIDADES ---@2
+
+@1Clic izquierdo@2 - Selecciona una unidad
+
+@1Doble clic izquierdo@2 - Selecciona todas las unidades del mismo tipo en la pantalla
+
+@1Ctrl + doble clic izquierdo@2 - Selecciona todas las unidades del mismo tipo en la pantalla que hacen lo mismo (por ejemplo, talar madera)
+
+@1Alt + doble clic izquierdo@2 - Selecciona todas las unidades militares en la pantalla
+
+@1Esc@2 - Deselecciona la unidad seleccionada
+
+@1Tab@2 - Muestra la información de una sola unidad cuando hay varias seleccionadas
+
+
+     @1--- DAR ÓRDENES A LAS UNIDADES ---@2
+
+@1Clic derecho@2 - La unidad realiza su acción predeterminada
+
+@1Ctrl + clic derecho@2 - Avance ofensivo: la unidad ataca todo lo que ve
+
+@1Mayús + clic derecho@2 - La unidad recorre puntos de paso y ataca todo lo que encuentra
+
+@1Alt + clic derecho@2 - Avance sigiloso: la unidad solo ataca si la atacan
+
+@1Alt + Mayús + clic derecho@2 - La unidad recorre puntos de paso y solo ataca si la atacan
+
+@1Supr@2 - Elimina la unidad seleccionada
+
+
+     @1--- AGRUPAR UNIDADES ---@2
+
+@1Ctrl + número (1-9)@2 - Forma un grupo con las unidades seleccionadas
+
+@1Número (1-9)@2 - Selecciona un grupo formado antes con Ctrl + número
+
+@1Ctrl + 0 (cero)@2 - Saca las unidades seleccionadas de su grupo
+
+
+     @1--- OBJETOS DEL INVENTARIO ---@2
+
+@1Clic izquierdo en un objeto@2 - Coge el objeto para usarlo
+
+@1Clic izquierdo en una unidad con un objeto cogido@2 - Usa el objeto cogido sobre la unidad
+
+@1Clic derecho en un objeto@2 - Coge el objeto para dejarlo en el mapa
+
+@1Clic izquierdo en el mapa con un objeto cogido@2 - Deja el objeto cogido
+
+@1Ctrl + clic izquierdo en un objeto@2 - Uso inmediato del objeto
+
+@1Ctrl + clic derecho en un objeto@2 - Deja el objeto en el mapa al instante
+
+@1Alt + clic izquierdo en un objeto@2 - Convierte el objeto en el nuevo objeto predeterminado
+
+@1Retroceso@2 - Usa el objeto predeterminado
+
+@1, (coma)@2 - Página anterior del inventario
+
+@1. (punto)@2 - Página siguiente del inventario
+
+
+     @1--- EDIFICIOS ---@2
+
+@1Clic izquierdo@2 - Selecciona un edificio
+
+@1Supr@2 - Elimina el edificio seleccionado
+
+@1Ctrl + clic derecho@2 - Fija un punto de reunión
+
+@1Clic derecho@2 - Fija un punto de reunión con la acción predeterminada
+
+@1Ctrl + Alt + clic derecho@2 - Fija un punto de reunión con avance ofensivo (la unidad ataca todo lo que encuentra)
+
+@1Ctrl + C@2 - Selecciona un castillo (si hay más de uno, estas teclas los seleccionan uno tras otro)
+
+@1Ctrl + B@2 - Selecciona un cuartel (si hay más de uno, estas teclas los seleccionan uno tras otro)
+
+
+     @1--- MOVER EL MAPA ---@2
+
+@1Inicio@2 - Centra el mapa en el edificio donde se hizo la última unidad o tecnología
+
+@1Ctrl + Inicio@2 - Centra el mapa en el lugar del último mensaje
+
+@1Ctrl + Av Pág@2 - Muestra el lugar del mensaje siguiente
+
+@1Ctrl + Re Pág@2 - Muestra el lugar del mensaje anterior
+
+@1Teclas de flecha@2 - Mueven el mapa en la dirección de las flechas
+
+
+     @1--- MENÚS ---@2
+
+@1F1@2 - Ayuda
+
+@1F5@2 - Pantalla de diplomacia
+
+@1F6@2 - Ventana de tributos
+
+@1F8@2 - Objetivos de la misión actual
+
+@1F9@2 - Pantalla de opciones
+
+@1F10@2 - Menú de la partida
+
+@1Intro@2 - Charlar con los demás jugadores
+
+@1Esc@2 - Sale del menú actual

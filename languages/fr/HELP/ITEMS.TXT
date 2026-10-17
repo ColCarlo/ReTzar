@@ -1,0 +1,2027 @@
+; I testi delle schermate di aiuto in francese (HELP/ITEMS.TXT), tradotti da questa versione
+; e posati sulle voci dell'edizione italiana; collegamenti e icone restano.
+
+[U_E_PEASANT]
+rollover = En savoir plus sur l'unité - Paysan
+brief = Paysan
+detail = Coût-50 nourriture, Vue-5, Santé-50p, Attaque-5p, Défense-0 ~ Ils peuvent se déplacer, construire, capturer, attaquer, réparer, récolter, explorer, transporter or, pierre, lait, viande et bois, garder le bétail et soudoyer des unités.
+
+[U_E_FOOTMAN]
+rollover = En savoir plus sur l'unité - Fantassin
+brief = Fantassin
+detail = Coût-50 nourriture, Vue-5, Santé-65p, Attaque-6p, Défense-3 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_E_ARCHER]
+rollover = En savoir plus sur l'unité - Archer
+brief = Archer
+detail = Coût-40 nourriture/20 bois, Vue-10, Portée-6, Santé-50p, Attaque-5p, Défense-0 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_E_MACEMAN]
+rollover = En savoir plus sur l'unité - Porte-masse
+brief = Porte-masse
+detail = Coût-120 nourriture, Vue-5, Santé-120p, Attaque-8p, Défense-0 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_E_PIKEMAN]
+rollover = En savoir plus sur l'unité - Piquier
+brief = Piquier
+detail = Coût-90 nourriture/40 or, Vue-5, Santé-75p, Attaque-8p, Défense-4 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_E_LONGBOWMAN]
+rollover = En savoir plus sur l'unité - Archer au long arc
+brief = Archer au long arc
+detail = Coût-90 nourriture/70 or, Vue-16, Santé-50p, Portée-12p, Attaque-5p, Défense-2 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_E_KNIGHT]
+rollover = En savoir plus sur l'unité - Chevalier
+brief = Chevalier
+detail = Coût-120 nourriture/90 or, Vue-5, Santé-120p, Attaque-12p, Défense-6 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_E_CRUSADER]
+rollover = En savoir plus sur l'unité - Croisé
+brief = Croisé
+detail = Vue-5, Santé-180p, Attaque-14p, Défense-8 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_E_PRIEST]
+rollover = En savoir plus sur l'unité - Prêtre
+brief = Prêtre
+detail = Coût-150 or, Vue-20, Santé-60p, Portée-18p, Attaque-20p, Défense-0 ~ Ils peuvent se déplacer, explorer, soigner des unités et bénir.
+
+[U_E_SPY]
+rollover = En savoir plus sur l'unité - Espion
+brief = Espion
+detail = Coût-150 or, Vue-12, Santé-50p, Attaque-20p, Défense-0 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder, explorer, se déguiser et se révéler.
+
+[U_E_MAGE]
+rollover = En savoir plus sur l'unité - Magicien
+brief = Magicien
+detail = Coût-150 or, Vue-14, Santé-60p, Portée-10p, Attaque-5p, Défense-0 ~ Ils peuvent se déplacer, attaquer, lancer la foudre, invoquer des chauves-souris, geler, invoquer des golems de pierre et rendre des unités invisibles.
+
+[U_E_CARAVAN]
+rollover = En savoir plus sur l'unité - Caravane
+brief = Caravane
+detail = Coût-400 nourriture/200 bois, Vue-7, Santé-350p, Attaque-0p, Défense-0 ~ Ils peuvent se déplacer, commercer, charger des unités et des marchandises, décharger et explorer.
+
+[U_A_PEASANT]
+rollover = En savoir plus sur l'unité - Paysan
+brief = Paysan
+detail = Coût-40 nourriture, Vue-5, Santé-50p, Attaque-5p, Défense-0 ~ Ils peuvent se déplacer, construire, capturer, attaquer, réparer, récolter, commercer, explorer, transporter or, pierre, lait, viande et bois, et garder le bétail.
+
+[U_A_RHONIN]
+rollover = En savoir plus sur l'unité - Rônin
+brief = Rônin
+detail = Coût-40 nourriture, Vue-5, Santé-50p, Attaque-7p, Défense-0 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_A_ARCHER]
+rollover = En savoir plus sur l'unité - Archer
+brief = Archer
+detail = Coût-40 nourriture/20 bois, Vue-10, Portée-6, Santé-50p, Attaque-5p, Défense-0 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_A_SAMURAI]
+rollover = En savoir plus sur l'unité - Samouraï
+brief = Samouraï
+detail = Coût-90 nourriture/40 or, Vue-6, Santé-120p, Attaque-10p, Défense-4 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_A_HORSE_ARCHER]
+rollover = En savoir plus sur l'unité - Archer monté
+brief = Archer monté
+detail = Coût-120 nourriture/40 or, Vue-12, Portée-7p, Santé-75p, Attaque-7p, Défense-0 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_A_HORSE_SAMURAI]
+rollover = En savoir plus sur l'unité - Samouraï monté
+brief = Samouraï monté
+detail = Coût-100 nourriture/60 or, Vue-5, Santé-160p, Attaque-14p, Défense-4 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_A_CHARIOT]
+rollover = En savoir plus sur l'unité - Char cuirassé
+brief = Char cuirassé
+detail = Coût-150 nourriture/150 bois, Vue-5, Santé-180p, Attaque-3p, Défense-5 ~ Ils peuvent se déplacer, attaquer, patrouiller, garder et explorer.
+
+[U_A_NINJA]
+rollover = En savoir plus sur l'unité - Ninja
+brief = Ninja
+detail = Coût-80 or, Vue-10, Santé-90p, Attaque-12p, Défense-5 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder, explorer, se dissimuler et assassiner.
+
+[U_A_PRIEST]
+rollover = En savoir plus sur l'unité - Prêtre
+brief = Prêtre
+detail = Coût-150 or, Vue-14, Santé-120p, Attaque-10p, Défense-10 ~ Ils peuvent se déplacer, explorer, soigner des unités et bénir.
+
+[U_A_MONK]
+rollover = En savoir plus sur l'unité - Moine
+brief = Moine
+detail = Coût-250 nourriture, Vue-5, Santé-120p, Attaque-6p, Défense-6 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_A_MAGE]
+rollover = En savoir plus sur l'unité - Magicien
+brief = Magicien
+detail = Coût-150 or, Vue-14, Santé-60p, Portée-10p, Attaque-8p, Défense-0 ~ Ils peuvent se déplacer, attaquer, pétrifier des unités, créer des tourbillons et des traits de feu, invoquer des dragons et convertir le mana en expérience.
+
+[U_R_PEASANT]
+rollover = En savoir plus sur l'unité - Paysan
+brief = Paysan
+detail = Coût-50 nourriture, Vue-5, Santé-50p, Attaque-5p, Défense-0 ~ Ils peuvent se déplacer, construire, capturer, attaquer, réparer, récolter, explorer, transporter or, pierre, lait, viande et bois, garder le bétail et soudoyer des unités. Ils peuvent devenir guerriers du djihad.
+
+[U_R_FOOTMAN]
+rollover = En savoir plus sur l'unité - Fantassin
+brief = Fantassin
+detail = Coût-50 nourriture, Vue-5, Santé-50p, Attaque-6p, Défense-1 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_R_ARCHER]
+rollover = En savoir plus sur l'unité - Archer
+brief = Archer
+detail = Coût-40 nourriture/20 bois, Vue-10, Portée-6, Santé-50p, Attaque-5p, Défense-0 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_R_SPEARMAN]
+rollover = En savoir plus sur l'unité - Lancier
+brief = Lancier
+detail = Coût-60 nourriture/50 or, Vue-5, Santé-75p, Attaque-6p, Défense-2 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_R_SATRAP]
+rollover = En savoir plus sur l'unité - Satrape
+brief = Satrape
+detail = Coût-120 nourriture, Vue-5, Santé-120p, Attaque-8p, Défense-0 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_R_CAVALRY]
+rollover = En savoir plus sur l'unité - Cavalerie
+brief = Cavalerie
+detail = Coût-100 nourriture/60 or, Vue-5, Santé-90p, Attaque-10p, Défense-2 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_R_HORSE_ARCHER]
+rollover = En savoir plus sur l'unité - Archer monté
+brief = Archer monté
+detail = Coût-100 nourriture/50 or, Vue-12, Portée-7p, Santé-75p, Attaque-6p, Défense-2 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_R_JIHAD_WARRIOR]
+rollover = En savoir plus sur l'unité - Guerrier du djihad
+brief = Guerrier du djihad
+detail = Coût-100 nourriture, Vue-5, Santé-10p, Attaque-18p, Défense-2 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer. Ils naissent de paysans une fois la technologie Djihad recherchée.
+
+[U_R_PRIEST]
+rollover = En savoir plus sur l'unité - Prêtre
+brief = Prêtre
+detail = Coût-150 or, Vue-20, Portée-18p, Santé-60p, Attaque-20p, Défense-0 ~ Ils peuvent se déplacer, explorer, soigner des unités, bénir et pratiquer l'exorcisme.
+
+[U_R_SPY]
+rollover = En savoir plus sur l'unité - Espion
+brief = Espion
+detail = Coût-150 or, Vue-12, Santé-50p, Attaque-20p, Défense-0 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder, explorer, se déguiser et se révéler.
+
+[U_R_MAGE]
+rollover = En savoir plus sur l'unité - Magicien
+brief = Magicien
+detail = Coût-150 or, Vue-14, Santé-60p, Portée-10p, Attaque-8p, Défense-0 ~ Ils peuvent se déplacer, attaquer, invoquer des tapis volants, relever les morts, invoquer des djinns, créer la Vision magique et la Pluie de feu.
+
+[U_R_CARAVAN]
+rollover = En savoir plus sur l'unité - Caravane
+brief = Caravane
+detail = Coût-500 nourriture, Vue-5, Santé-150p, Attaque-0p, Défense-0 ~ Ils peuvent se déplacer, commercer, charger des unités et des marchandises, décharger et explorer.
+
+[U_R_JANISSARY]
+rollover = En savoir plus sur l'unité - Janissaire
+brief = Janissaire
+detail = Coût-120 nourriture/80 or, Vue-5, Santé-130p, Attaque-18p, Défense-4 ~ Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer.
+
+[U_C_CATAPULT]
+rollover = En savoir plus sur l'unité - Catapulte
+brief = Catapulte
+detail = Coût-600 bois, Vue-16, Portée-14p, Santé-110p, Attaque-10p, Défense-0 ~ Ils peuvent se déplacer, attaquer, patrouiller, garder et explorer.
+
+[U_C_HEAVY_CATAPULT]
+rollover = En savoir plus sur l'unité - Catapulte lourde
+brief = Catapulte lourde
+detail = Coût-1200 bois, Vue-24, Portée-22p, Santé-250p, Attaque-25p, Défense-0 ~ Ils peuvent se déplacer, attaquer, patrouiller, garder et explorer.
+
+[U_C_BALLISTA]
+rollover = En savoir plus sur l'unité - Baliste
+brief = Baliste
+detail = Coût-800 bois, Vue-14, Portée-12p, Santé-75p, Attaque-25p, Défense-0 ~ Ils peuvent se déplacer, attaquer, patrouiller, garder et explorer.
+
+[U_C_GALLEON]
+rollover = En savoir plus sur l'unité - Galion
+brief = Galion
+detail = Coût-800 nourriture/1200 bois, Vue-14, Portée-12p, Santé-1200p, Attaque-35p, Défense-0 ~ Ils peuvent se déplacer, attaquer, charger, décharger, commercer et améliorer leurs canons. Les galions ne sont disponibles que pour les Européens et les Arabes.
+
+[U_C_HULK]
+rollover = En savoir plus sur l'unité - Hourque
+brief = Hourque
+detail = Coût-300 nourriture/500 bois, Vue-12, Portée-10p, Santé-700p, Attaque-18p, Défense-0 ~ Ils peuvent se déplacer, attaquer, charger, décharger, commercer et améliorer leurs canons.
+
+[U_C_XEBEC]
+rollover = En savoir plus sur l'unité - Chébec
+brief = Chébec
+detail = Coût-200 nourriture/300 bois, Vue-10, Portée-8p, Santé-300p, Attaque-10p, Défense-0 ~ Ils peuvent se déplacer, attaquer, charger, décharger, commercer et améliorer leurs canons.
+
+[U_C_FISHING_BOAT]
+rollover = En savoir plus sur l'unité - Bateau de pêche
+brief = Bateau de pêche
+detail = Coût-100 nourriture/200 bois, Vue-10, Portée-8p, Santé-50p, Attaque-1p, Défense-0 ~ Ils peuvent se déplacer, pêcher et s'arrêter.
+
+[U_C_COW]
+rollover = En savoir plus sur le bétail
+brief = Bétail
+detail = Coût-300 nourriture, Vue-3, Santé-80p ~ Les vaches ne sont disponibles que pour les Européens et les Arabes. Le bétail fournit des ressources. Les paysans le gardent et ajoutent le lait obtenu à la nourriture du trésor. Les vaches peuvent être abattues et leur viande ramassée par les paysans ou d'autres unités. Le lait et la viande sont stockés à la ferme ou au château.
+
+[U_C_BEAR]
+rollover = En savoir plus sur les ours
+brief = Ours
+detail = Vue-3, Santé-70p ~ Les ours sont des créatures de la nature. Ils attaquent toutes les unités à leur portée. Les ours peuvent être soumis au sort Vision magique et servent alors à explorer la carte.
+
+[U_C_BAT]
+rollover = En savoir plus sur les chauves-souris
+brief = Chauves-souris
+detail = Coût-25 mana, Vue-10, Santé-20p, Attaque-3p, Défense-0 ~ Les chauves-souris sont invoquées par les magiciens européens. Elles peuvent se déplacer, attaquer, patrouiller, garder et explorer. Les chauves-souris comptent dans la limite de population.
+
+[U_C_STONE_GOLEM]
+rollover = En savoir plus sur l'unité - Golem de pierre
+brief = Golem de pierre
+detail = Coût-120 or/600 mana, Vue-10, Santé-400p, Attaque-25p, Défense-0 ~ Les golems de pierre sont invoqués par les magiciens. Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer. Les golems de pierre comptent dans la limite de population.
+
+[U_C_ORK]
+rollover = En savoir plus sur l'unité - Orc
+brief = Orc
+detail = Coût-60 or, Vue-5, Santé-50p, Attaque-18p, Défense-2 ~ Les orcs sont créés dans les portails magiques. Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer. Les orcs comptent dans la limite de population.
+
+[U_C_DWARF]
+rollover = En savoir plus sur l'unité - Nain
+brief = Nain
+detail = Coût-80 or, Vue-3, Santé-120p, Attaque-7p, Défense-7 ~ Les nains sont créés dans les portails magiques. Ils peuvent se déplacer, attaquer, ramasser des objets, patrouiller, garder et explorer. Les nains comptent dans la limite de population.
+
+[U_C_DRAGON]
+rollover = En savoir plus sur l'unité - Dragon
+brief = Dragon
+detail = Coût-80 or/800 mana, Vue-12, Portée-3p, Santé-300p, Attaque-25p, Défense-0 ~ Les dragons sont invoqués par les magiciens asiatiques. Ils peuvent se déplacer, attaquer, patrouiller, garder et explorer. Les dragons comptent dans la limite de population.
+
+[U_C_JINN]
+rollover = En savoir plus sur l'unité - Djinn
+brief = Djinn
+detail = Coût-50 or/300 mana, Vue-8, Santé-300p, Attaque-20p, Défense-5 ~ Les djinns sont invoqués par les magiciens arabes. Ils peuvent se déplacer, attaquer, patrouiller, garder et explorer. Les djinns comptent dans la limite de population.
+
+[U_C_CARPET]
+rollover = En savoir plus sur l'unité - Tapis volant
+brief = Tapis volant
+detail = Coût-80 or/500 mana, Vue-8, Santé-90p ~ Les tapis volants sont invoqués par les magiciens arabes. Ils peuvent se déplacer, attaquer, charger, décharger et explorer. Les tapis volants comptent dans la limite de population. Ils servent à transporter des unités au-dessus de l'eau comme de la terre.
+
+[U_C_SKELETON]
+rollover = En savoir plus sur l'unité - Squelette
+brief = Squelette
+detail = Coût-30 nourriture, Vue-5, Santé-40p, Attaque-4p, Défense-0 ~ Les squelettes peuvent être appelés des portails magiques, ou relevés des unités mortes par les magiciens arabes si le sort de Nécromancie a été recherché. Ils peuvent se déplacer, attaquer, patrouiller, garder et explorer. Les squelettes comptent dans la limite de population.
+
+[U_C_GHOST]
+rollover = En savoir plus sur l'unité - Fantôme
+brief = Fantôme
+detail = Coût-40 or, Vue-5, Santé-60p, Attaque-8p, Défense-0 ~ Les fantômes sont créés dans les portails magiques. Ils peuvent se déplacer, attaquer, ramasser des objets, maudire, patrouiller, garder et explorer. Les fantômes comptent dans la limite de population.
+
+[U_C_MESSIAH]
+rollover = En savoir plus sur le Messie
+brief = Messie
+detail = Coût-2000 or, Vue-20, Portée-18p, Santé-1000p, Attaque-50p, Défense-10 ~ Le Messie apparaît dans les campagnes. C'est l'unité la plus puissante de toutes. Le Messie peut utiliser tous les sorts du jeu.
+
+[B_E_CASTLE]
+rollover = En savoir plus sur le bâtiment - Château
+brief = Château
+detail = Coût-1500 pierre/1500 bois, Vue-12, Résistance-1000p, Santé-8000p, Résistance émise/sur vos bâtiments/-+400,Résistance émise/sur les autres bâtiments/--200 ~ Le château est le bâtiment principal d'un royaume. C'est le seul endroit où l'on peut créer des paysans et des espions. Toutes les ressources peuvent y être stockées.
+
+[B_E_HOUSE]
+rollover = En savoir plus sur le bâtiment - Maison
+brief = Maison
+detail = Coût-75 bois, Vue-4, Résistance-50p, Santé-500p, ~ Les maisons augmentent la limite de population d'un royaume. Chaque maison permet de créer 10 unités de plus.
+
+[B_E_LUMBER_MILL]
+rollover = En savoir plus sur le bâtiment - Scierie
+brief = Scierie
+detail = Coût-100 bois, Vue-4, Résistance-80p, Santé-800p, ~ La scierie sert à stocker le bois. Plus la scierie est proche des arbres, plus les bûcherons sont efficaces.
+
+[B_E_STORAGE]
+rollover = En savoir plus sur le bâtiment - Entrepôt
+brief = Entrepôt
+detail = Coût-200 bois, Vue-5, Résistance-80p, Santé-800p, ~ L'entrepôt sert à stocker la pierre et l'or. Plus l'entrepôt est proche de la mine, plus les mineurs sont efficaces.
+
+[B_E_FARM]
+rollover = En savoir plus sur le bâtiment - Ferme
+brief = Ferme
+detail = Coût-200 bois, Vue-5, Résistance-80p, Santé-800p, ~ La ferme sert à stocker la nourriture. Plus la ferme est proche des champs, plus les moissonneurs sont efficaces.
+
+[B_E_HARBOR]
+rollover = En savoir plus sur le bâtiment - Port
+brief = Port
+detail = Coût-200 nourriture/200 bois, Vue-8, Résistance-200p, Santé-1400p, Résistance émise/sur vos bâtiments/-+100,Résistance émise/sur les autres bâtiments/--50 ~ Le port sert à stocker le poisson, à construire des navires et à commercer.
+
+[B_E_BLACKSMITH]
+rollover = En savoir plus sur le bâtiment - Forge
+brief = Forge
+detail = Coût-150 nourriture/150 bois, Vue-8, Résistance-80p, Santé-800p, ~ La forge est l'endroit où l'on recherche les technologies qui améliorent les caractéristiques des unités militaires.
+
+[B_E_WORKSHOP]
+rollover = En savoir plus sur le bâtiment - Atelier
+brief = Atelier
+detail = Coût-150 nourriture/150 bois, Vue-8, Résistance-80p, Santé-800p, ~ La forge est l'endroit où l'on recherche les technologies qui améliorent les caractéristiques des unités militaires.
+
+[B_E_CHURCH]
+rollover = En savoir plus sur le bâtiment - Église
+brief = Église
+detail = Coût-200 nourriture/200 pierre, Vue-6, Résistance-200p, Santé-1000p, Résistance émise/sur vos bâtiments/-+50,Résistance émise/sur les autres bâtiments/--100 ~ Les prêtres sont créés à l'église.
+
+[B_E_TAVERN]
+rollover = En savoir plus sur le bâtiment - Taverne
+brief = Taverne
+detail = Coût-200 nourriture/200 bois, Vue-5, Résistance-150p, Santé-1000p, Résistance émise/sur vos bâtiments/--50,Résistance émise/sur les autres bâtiments/--50 ~ La taverne permet de convertir des ressources, d'obtenir des prêts, d'engager des unités militaires et de jouer à des jeux de hasard. Il faut avoir recherché les technologies voulues pour accéder à toutes ces possibilités.
+
+[B_E_MARKET]
+rollover = En savoir plus sur le bâtiment - Marché
+brief = Marché
+detail = Coût-200 nourriture/200 bois, Vue-8, Résistance-200p, Santé-1400p ~ Le marché permet de commercer des ressources. Le commerce se fait par caravanes. Il faut avoir recherché la technologie Routes commerciales pour produire des caravanes et commercer.
+
+[B_E_BARRACKS]
+rollover = En savoir plus sur le bâtiment - Caserne
+brief = Caserne
+detail = Coût-200 nourriture/200 bois, Vue-6, Résistance-500p, Santé-1400p ~ La caserne est le bâtiment où sont produites toutes les unités militaires. Toutes les unités ne seront pas disponibles avant que les technologies nécessaires aient été recherchées.
+
+[B_E_STABLE]
+rollover = En savoir plus sur le bâtiment - Écurie
+brief = Écurie
+detail = Coût-200 nourriture/200 bois, Vue-5, Résistance-80p, Santé-500p ~ Une écurie est nécessaire pour produire des unités montées. Si l'écurie est détruite, on ne peut plus produire d'unités montées avant d'avoir construit une nouvelle écurie.
+
+[B_E_OUTPOST]
+rollover = En savoir plus sur le bâtiment - Avant-poste
+brief = Avant-poste
+detail = Coût-200 bois/400 pierre, Vue-8, Résistance-500p, Santé-5000p, Résistance émise/sur vos bâtiments/-+200,Résistance émise/sur les autres bâtiments/--200 ~ L'avant-poste est l'endroit où les armées peuvent s'abriter et être soignées. Il est conseillé de construire des avant-postes au cours d'une invasion, à mesure que les troupes avancent.
+
+[B_E_CATHEDRAL]
+rollover = En savoir plus sur le bâtiment - Cathédrale
+brief = Cathédrale
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction de la cathédrale permet au joueur de suivre la Voie de la Religion. Les technologies disponibles dans la cathédrale donnent au joueur des moyens efficaces de bâtir un empire.
+
+[B_E_MAGE_TOWER]
+rollover = En savoir plus sur le bâtiment - Tour des mages
+brief = Tour des mages
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction de la Tour des mages permet au joueur de suivre la Voie de la Magie. On peut y rechercher des sorts puissants et y créer des magiciens.
+
+[B_E_MERCHANTS_GUILD]
+rollover = En savoir plus sur le bâtiment - Guilde des marchands
+brief = Guilde des marchands
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction de la Guilde des marchands permet au joueur de suivre la Voie du Commerce et de l'Artisanat. On peut bâtir une économie très forte, profiter de tous les avantages du commerce et ne pas dépendre des ressources limitées de la carte.
+
+[B_E_WARRIORS_GUILD]
+rollover = En savoir plus sur le bâtiment - Guilde des guerriers
+brief = Guilde des guerriers
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction de la Guilde des guerriers permet au joueur de suivre la Voie de la Gloire. On peut bâtir une armée très puissante. De nombreuses technologies permettent aux unités de gagner de l'expérience, d'augmenter leur attaque et de devenir presque invincibles.
+
+[B_A_CASTLE]
+rollover = En savoir plus sur le bâtiment - Château
+brief = Château
+detail = Coût-1500 pierre/1500 bois, Vue-12, Résistance-1000p, Santé-8000p, Résistance émise/sur vos bâtiments/-+500,Résistance émise/sur les autres bâtiments/--300 ~ Le château est le bâtiment principal d'un royaume. C'est le seul endroit où l'on peut créer des paysans. Toutes les ressources peuvent y être stockées.
+
+[B_A_HOUSE]
+rollover = En savoir plus sur le bâtiment - Maison
+brief = Maison
+detail = Coût-75 bois, Vue-4, Résistance-50p, Santé-500p, ~ Les maisons augmentent la limite de population d'un royaume. Chaque maison permet de créer 10 unités de plus.
+
+[B_A_LUMBER_MILL]
+rollover = En savoir plus sur le bâtiment - Scierie
+brief = Scierie
+detail = Coût-100 bois, Vue-4, Résistance-80p, Santé-800p, ~ La scierie sert à stocker le bois. Plus la scierie est proche des arbres, plus les bûcherons sont efficaces.
+
+[B_A_STORAGE]
+rollover = En savoir plus sur le bâtiment - Entrepôt
+brief = Entrepôt
+detail = Coût-200 bois, Vue-5, Résistance-80p, Santé-800p, ~ L'entrepôt sert à stocker la pierre et l'or. Plus l'entrepôt est proche de la mine, plus les mineurs sont efficaces.
+
+[B_A_FARM]
+rollover = En savoir plus sur le bâtiment - Ferme
+brief = Ferme
+detail = Coût-200 bois, Vue-5, Résistance-80p, Santé-800p, ~ La ferme sert à stocker la nourriture. Plus la ferme est proche des champs, plus les moissonneurs sont efficaces.
+
+[B_A_HARBOR]
+rollover = En savoir plus sur le bâtiment - Port
+brief = Port
+detail = Coût-200 nourriture/200 bois, Vue-8, Résistance-200p, Santé-1400p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--100 ~ Le port sert à stocker le poisson, à construire des navires et à commercer.
+
+[B_A_BLACKSMITH]
+rollover = En savoir plus sur le bâtiment - Forge
+brief = Forge
+detail = Coût-150 nourriture/150 bois, Vue-8, Résistance-80p, Santé-800p, ~ La forge est l'endroit où l'on recherche les technologies qui améliorent les caractéristiques des unités militaires.
+
+[B_A_WORKSHOP]
+rollover = En savoir plus sur le bâtiment - Atelier
+brief = Atelier
+detail = Coût-150 nourriture/150 bois, Vue-8, Résistance-80p, Santé-800p, ~ L'atelier est l'endroit où l'on recherche les technologies qui améliorent les caractéristiques des unités militaires.
+
+[B_A_MONASTERY]
+rollover = En savoir plus sur le bâtiment - Monastère
+brief = Monastère
+detail = Coût-200 nourriture/200 pierre, Vue-6, Résistance-200p, Santé-1000p, Résistance émise/sur vos bâtiments/-+100,Résistance émise/sur les autres bâtiments/--200 ~ Les prêtres sont créés au monastère.
+
+[B_A_TAVERN]
+rollover = En savoir plus sur le bâtiment - Taverne
+brief = Taverne
+detail = Coût-200 nourriture/200 bois, Vue-5, Résistance-150p, Santé-1000p, Résistance émise/sur vos bâtiments/--200,Résistance émise/sur les autres bâtiments/--200 ~ La taverne permet de convertir des ressources, d'obtenir des prêts, d'engager des unités militaires et de jouer à des jeux de hasard. Il faut avoir recherché les technologies voulues pour accéder à toutes ces possibilités.
+
+[B_A_MARKET]
+rollover = En savoir plus sur le bâtiment - Marché
+brief = Marché
+detail = Coût-200 nourriture/200 bois, Vue-8, Résistance-200p, Santé-1400p ~ Le marché permet de commercer des objets. Il faut d'abord rechercher la technologie Joaillerie.
+
+[B_A_BARRACKS]
+rollover = En savoir plus sur le bâtiment - Caserne
+brief = Caserne
+detail = Coût-200 nourriture/200 bois, Vue-6, Résistance-500p, Santé-1400p ~ La caserne est le bâtiment où sont produites toutes les unités militaires. Toutes les unités ne seront pas disponibles avant que les technologies nécessaires aient été recherchées.
+
+[B_A_STABLE]
+rollover = En savoir plus sur le bâtiment - Écurie
+brief = Écurie
+detail = Coût-200 nourriture/200 bois, Vue-5, Résistance-80p, Santé-500p ~ Une écurie est nécessaire pour produire des unités montées. Si l'écurie est détruite, on ne peut plus produire d'unités montées avant d'avoir construit une nouvelle écurie.
+
+[B_A_OUTPOST]
+rollover = En savoir plus sur le bâtiment - Avant-poste
+brief = Avant-poste
+detail = Coût-200 bois/400 pierre, Vue-8, Résistance-500p, Santé-2000p, Résistance émise/sur vos bâtiments/-+400,Résistance émise/sur les autres bâtiments/--400 ~ L'avant-poste est l'endroit où les armées peuvent s'abriter et être soignées. Il est conseillé de construire des avant-postes au cours d'une invasion, à mesure que les troupes avancent.
+
+[B_A_SHAO_LINN]
+rollover = En savoir plus sur le bâtiment - Shao Linn
+brief = Shao Linn
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction du Shao Linn permet au joueur de suivre la Voie de la Religion. Les technologies qui y deviennent disponibles donnent au joueur des moyens efficaces de bâtir un empire.
+
+[B_A_MAGE_TOWER]
+rollover = En savoir plus sur le bâtiment - Tour des mages
+brief = Tour des mages
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction de la Tour des mages permet au joueur de suivre la Voie de la Magie. On peut y rechercher des sorts puissants et y créer des magiciens.
+
+[B_A_MERCHANTS_GUILD]
+rollover = En savoir plus sur le bâtiment - Guilde des marchands
+brief = Guilde des marchands
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction de la Guilde des marchands permet au joueur de suivre la Voie du Commerce et de l'Artisanat. On peut bâtir une économie très forte, profiter de tous les avantages du commerce et ne pas dépendre des ressources limitées de la carte.
+
+[B_A_WARRIORS_GUILD]
+rollover = En savoir plus sur le bâtiment - Guilde des guerriers
+brief = Guilde des guerriers
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction de la Guilde des guerriers permet au joueur de suivre la Voie de la Gloire. On peut bâtir une armée très puissante. De nombreuses technologies permettent aux unités de gagner de l'expérience, d'augmenter leur attaque et de devenir presque invincibles.
+
+[B_R_CASTLE]
+rollover = En savoir plus sur le bâtiment - Château
+brief = Château
+detail = Coût-1500 pierre/1500 bois, Vue-12, Résistance-1000p, Santé-8000p, Résistance émise/sur vos bâtiments/-+500,Résistance émise/sur les autres bâtiments/--300 ~ Le château est le bâtiment principal d'un royaume. C'est le seul endroit où l'on peut créer des paysans et des espions. Toutes les ressources peuvent y être stockées.
+
+[B_R_HOUSE]
+rollover = En savoir plus sur le bâtiment - Maison
+brief = Maison
+detail = Coût-75 bois, Vue-4, Résistance-50p, Santé-500p, ~ Les maisons augmentent la limite de population d'un royaume. Chaque maison permet de créer 10 unités de plus.
+
+[B_R_LUMBER_MILL]
+rollover = En savoir plus sur le bâtiment - Scierie
+brief = Scierie
+detail = Coût-100 bois, Vue-4, Résistance-80p, Santé-800p, ~ La scierie sert à stocker le bois. Plus la scierie est proche des arbres, plus les bûcherons sont efficaces.
+
+[B_R_STORAGE]
+rollover = En savoir plus sur le bâtiment - Entrepôt
+brief = Entrepôt
+detail = Coût-200 bois, Vue-5, Résistance-80p, Santé-800p, ~ L'entrepôt sert à stocker la pierre et l'or. Plus l'entrepôt est proche de la mine, plus les mineurs sont efficaces.
+
+[B_R_FARM]
+rollover = En savoir plus sur le bâtiment - Ferme
+brief = Ferme
+detail = Coût-200 bois, Vue-5, Résistance-80p, Santé-800p, ~ La ferme sert à stocker la nourriture. Plus la ferme est proche des champs, plus les moissonneurs sont efficaces.
+
+[B_R_HARBOR]
+rollover = En savoir plus sur le bâtiment - Port
+brief = Port
+detail = Coût-200 nourriture/200 bois, Vue-8, Résistance-200p, Santé-1400p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--100 ~ Le port sert à stocker le poisson, à construire des navires et à commercer.
+
+[B_R_BLACKSMITH]
+rollover = En savoir plus sur le bâtiment - Forge
+brief = Forge
+detail = Coût-150 nourriture/150 bois, Vue-8, Résistance-80p, Santé-800p, ~ La forge est l'endroit où l'on recherche les technologies qui améliorent les caractéristiques des unités militaires.
+
+[B_R_WORKSHOP]
+rollover = En savoir plus sur le bâtiment - Atelier
+brief = Atelier
+detail = Coût-150 nourriture/150 bois, Vue-8, Résistance-80p, Santé-800p, ~ L'atelier est l'endroit où l'on recherche les technologies qui améliorent les caractéristiques des unités militaires.
+
+[B_R_CHURCH]
+rollover = En savoir plus sur le bâtiment - Église
+brief = Église
+detail = Coût-200 nourriture/200 pierre, Vue-6, Résistance-200p, Santé-1000p, Résistance émise/sur vos bâtiments/-+100,Résistance émise/sur les autres bâtiments/--200 ~ Les prêtres sont créés à l'église.
+
+[B_R_TAVERN]
+rollover = En savoir plus sur le bâtiment - Taverne
+brief = Taverne
+detail = Coût-200 nourriture/200 bois, Vue-5, Résistance-150p, Santé-1000p, Résistance émise/sur vos bâtiments/--200,Résistance émise/sur les autres bâtiments/--200 ~ La taverne permet de convertir des ressources, d'obtenir des prêts, d'engager des unités militaires et de jouer à des jeux de hasard. Il faut avoir recherché les technologies voulues pour accéder à toutes ces possibilités.
+
+[B_R_MARKET]
+rollover = En savoir plus sur le bâtiment - Marché
+brief = Marché
+detail = Coût-200 nourriture/200 bois, Vue-8, Résistance-200p, Santé-1400p ~ Le marché permet de commercer des ressources. Le commerce se fait par caravanes. Il faut avoir recherché la technologie Routes commerciales pour produire des caravanes et commercer.
+
+[B_R_BARRACKS]
+rollover = En savoir plus sur le bâtiment - Caserne
+brief = Caserne
+detail = Coût-200 nourriture/200 bois, Vue-6, Résistance-500p, Santé-1400p ~ La caserne est le bâtiment où sont produites toutes les unités militaires. Toutes les unités ne seront pas disponibles avant que les technologies nécessaires aient été recherchées.
+
+[B_R_STABLE]
+rollover = En savoir plus sur le bâtiment - Écurie
+brief = Écurie
+detail = Coût-200 nourriture/200 bois, Vue-5, Résistance-80p, Santé-500p ~ Une écurie est nécessaire pour produire des unités montées. Si l'écurie est détruite, on ne peut plus produire d'unités montées avant d'avoir construit une nouvelle écurie.
+
+[B_R_OUTPOST]
+rollover = En savoir plus sur le bâtiment - Avant-poste
+brief = Avant-poste
+detail = Coût-200 bois/400 pierre, Vue-8, Résistance-500p, Santé-2000p, Résistance émise/sur vos bâtiments/-+400,Résistance émise/sur les autres bâtiments/--400 ~ L'avant-poste est l'endroit où les armées peuvent s'abriter et être soignées. Il est conseillé de construire des avant-postes au cours d'une invasion, à mesure que les troupes avancent.
+
+[B_R_MOSQUE]
+rollover = En savoir plus sur le bâtiment - Mosquée
+brief = Mosquée
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction de la mosquée permet au joueur de suivre la Voie de la Religion. Les technologies disponibles dans la mosquée donnent au joueur des moyens efficaces de bâtir un empire.
+
+[B_R_MAGE_TOWER]
+rollover = En savoir plus sur le bâtiment - Tour des mages
+brief = Tour des mages
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction de la Tour des mages permet au joueur de suivre la Voie de la Magie. On peut y rechercher des sorts puissants et y créer des magiciens.
+
+[B_R_MERCHANTS_GUILD]
+rollover = En savoir plus sur le bâtiment - Guilde des marchands
+brief = Guilde des marchands
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction de la Guilde des marchands permet au joueur de suivre la Voie du Commerce et de l'Artisanat. On peut bâtir une économie très forte, profiter de tous les avantages du commerce et ne pas dépendre des ressources limitées de la carte.
+
+[B_R_WARRIORS_GUILD]
+rollover = En savoir plus sur le bâtiment - Guilde des guerriers
+brief = Guilde des guerriers
+detail = Coût-2000 pierre/2000 or, Vue-8, Résistance-700p, Santé-5000p, Résistance émise/sur vos bâtiments/-+300,Résistance émise/sur les autres bâtiments/--500 ~ La construction de la Guilde des guerriers permet au joueur de suivre la Voie de la Gloire. On peut bâtir une armée très puissante. De nombreuses technologies permettent aux unités de gagner de l'expérience, d'augmenter leur attaque et de devenir presque invincibles.
+
+[B_R_MAGIC_WORKSHOP]
+rollover = En savoir plus sur le bâtiment - Atelier de magie
+brief = Atelier de magie
+detail = Coût-300 pierre, Vue-5, Résistance-200p, Santé-1200p ~ L'atelier de magie est l'endroit où l'on fabrique les objets magiques.
+
+[B_C_FIELD]
+rollover = En savoir plus sur les champs
+brief = Champ
+detail = Coût-200 bois, Vue-1, Santé-100p ~ Les champs produisent la ressource nourriture et demandent des soins constants. S'ils sont négligés, ils disparaissent. Il est conseillé de les placer près d'une ferme ou du château, pour que les moissonneurs stockent la nourriture plus efficacement.
+
+[B_C_WOOD_WALL]
+rollover = En savoir plus sur la palissade
+brief = Palissade
+detail = Coût-20 bois, Vue-1, Santé-2000p ~ Les murs sont un bon moyen de fortifier un royaume. Ils ne coûtent pas cher et protègent bien des attaques ennemies. Mais ils ne sont pas assez solides pour résister aux armes de siège. Il est toujours conseillé de placer des tours pour les garder.
+
+[B_C_STONE_WALL]
+rollover = En savoir plus sur le mur de pierre
+brief = Mur de pierre
+detail = Coût-20 pierre, Vue-2, Santé-4000p ~ Les murs de pierre sont un très bon moyen de fortifier un royaume. On ne les obtient qu'en améliorant les palissades. Ils ne coûtent pas cher et protègent bien des attaques ennemies. Il est toujours conseillé de placer des tours pour les garder.
+
+[B_C_WOOD_GATE]
+rollover = En savoir plus sur la porte de bois
+brief = Porte de bois
+detail = Coût-200 bois, Vue-8, Santé-1500p ~ Les portes de bois sont indispensables à un royaume fortifié. Le propriétaire peut les commander lui-même ou les confier à leur IA. Si l'IA des portes est activée, elles s'ouvrent pour les unités du royaume et se ferment devant les unités ennemies. Il est toujours conseillé de placer des tours pour les garder.
+
+[B_C_STONE_GATE]
+rollover = En savoir plus sur la porte de pierre
+brief = Porte de pierre
+detail = Coût-200 pierre, Vue-12, Santé-3000p ~ Les portes de pierre s'obtiennent à partir des portes de bois et résistent mieux aux attaques. Le propriétaire peut les commander lui-même ou les confier à leur IA. Si l'IA des portes est activée, elles s'ouvrent pour les unités du royaume et se ferment devant les unités ennemies. Il est toujours conseillé de placer des tours pour les garder.
+
+[B_C_BRIDGE]
+rollover = En savoir plus sur le pont
+brief = Pont
+detail = Coût-300 pierre, Vue-1, Santé-10000p ~ Les portes de pierre s'obtiennent à partir des portes de bois et résistent mieux aux attaques. Le propriétaire peut les commander lui-même ou les confier à leur IA. Si l'IA des portes est activée, elles s'ouvrent pour les unités du royaume et se ferment devant les unités ennemies. Il est toujours conseillé de placer des tours pour les garder.
+
+[B_C_WATCH_TOWER]
+rollover = En savoir plus sur la tour de guet
+brief = Tour de guet
+detail = Coût-300 bois, Vue-15, Attaque-7, Portée-8, Résistance-100p, Santé-400p ~ Les tours de guet sont un bon moyen de fortifier un royaume. Elles attaquent les unités ennemies dès qu'elles entrent dans leur portée. Il est conseillé de les construire de façon que leurs portées se chevauchent, sans laisser de terrain à découvert aux unités ennemies.
+
+[B_C_GUARD_TOWER]
+rollover = En savoir plus sur la tour de garde
+brief = Tour de garde
+detail = Vue-15, Attaque-12, Portée-12, Résistance-150p, Santé-1000p ~ Les tours de garde s'obtiennent en améliorant les tours de guet. Elles sont le moyen le plus efficace de fortifier un royaume. Elles attaquent les unités ennemies dès qu'elles entrent dans leur portée. Il est conseillé de les construire de façon que leurs portées se chevauchent, sans laisser de terrain à découvert aux unités ennemies.
+
+[B_C_STONE_TOWER]
+rollover = En savoir plus sur la tour de pierre
+brief = Tour de pierre
+detail = Vue-15, Attaque-16, Portée-16, Résistance-300p, Santé-2000p ~ Les tours de pierre s'obtiennent en améliorant les tours de garde. Elles sont le moyen le plus efficace de fortifier un royaume. Elles attaquent les unités ennemies dès qu'elles entrent dans leur portée, plus grande que celle des tours de garde. Il est conseillé de les construire de façon que leurs portées se chevauchent, sans laisser de terrain à découvert aux unités ennemies.
+
+[B_C_CANNON_TOWER]
+rollover = En savoir plus sur la tour à canon
+brief = Tour à canon
+detail = Vue-15, Attaque-40, Portée-10, Résistance-300p, Santé-2500p ~ Les tours à canon s'obtiennent en améliorant les tours de garde. Elles sont le moyen le plus puissant de garder un royaume européen ou arabe. Elles attaquent les unités ennemies dès qu'elles entrent dans leur portée, plus grande que celle des tours de pierre. Il est conseillé de les construire de façon que leurs portées se chevauchent, sans laisser de terrain à découvert aux unités ennemies.
+
+[B_C_ROCKET_TOWER]
+rollover = En savoir plus sur la tour à fusées
+brief = Tour à fusées
+detail = Coût-1000 bois/400 pierre, Vue-25, Attaque-30, Portée-20, Résistance-300p, Santé-1400p ~ Les tours à fusées peuvent être construites après avoir recherché la technologie nécessaire dans la Guilde des marchands. Elles sont le moyen le plus puissant de garder un royaume asiatique. Elles attaquent les unités ennemies dès qu'elles entrent dans leur portée, plus grande que celle de toute autre tour. Il est conseillé de construire les tours de façon que leurs portées se chevauchent, sans laisser de terrain à découvert aux unités ennemies.
+
+[B_C_DUMMY]
+rollover = En savoir plus sur le mannequin
+brief = Mannequin
+detail = Coût-300 bois, Santé-5000p ~ Les mannequins permettent au joueur d'entraîner son armée, et d'avoir ainsi des unités plus expérimentées avant de les envoyer au combat. Plus on a recherché de technologies d'expérience dans la Guilde des guerriers, plus le niveau atteint par les unités est élevé.
+
+[B_C_MAGIC_GATEWAY]
+rollover = En savoir plus sur le portail magique
+brief = Portail magique
+detail = Vue-10, Santé-2000p ~ Les portails magiques se trouvent sur la carte. Il faut capturer un portail magique pour pouvoir l'utiliser. Seules les unités militaires peuvent les capturer. Les unités produites dans les portails magiques appartiennent au royaume du joueur qui les a capturés, et il en a le contrôle total.
+
+[B_C_EVIL_CASTLE]
+rollover = En savoir plus sur le Château du Mal
+brief = Château du Mal
+detail = Vue-10, Santé-20000p ~ Le Château du Mal est le lieu où règne le Messie. Il n'apparaît que dans les campagnes.
+
+[T_E_FEUDALISM]
+rollover = En savoir plus sur la technologie - Féodalité
+brief = Féodalité
+detail = Coût-300 or ~ La féodalité rend la production de paysans 20 % moins chère. Il est conseillé de rechercher cette technologie en début de partie, quand il faut beaucoup de paysans pour bâtir l'économie.
+
+[T_E_ARCHITECTURE]
+rollover = En savoir plus sur la technologie - Architecture
+brief = Architecture
+detail = Coût-300 or ~ L'architecture rend la construction de tout bâtiment 20 % plus rapide.
+
+[T_E_LEARNING]
+rollover = En savoir plus sur la technologie - Apprentissage
+brief = Apprentissage
+detail = Coût-400 or ~ L'apprentissage permet aux unités de gagner jusqu'à 4 niveaux d'expérience.
+
+[T_E_ROTATING_FIELDS]
+rollover = En savoir plus sur la technologie - Rotation des cultures
+brief = Rotation des cultures
+detail = Coût-400 or ~ La technologie Rotation des cultures permet aux paysans de récolter deux fois plus de nourriture après les semailles.
+
+[T_E_DOMESTICATION]
+rollover = En savoir plus sur la technologie - Domestication
+brief = Domestication
+detail = Coût-300 or ~ La technologie Domestication permet de produire du bétail dans les fermes.
+
+[T_E_TEMPER_IRON]
+rollover = En savoir plus sur la technologie - Trempe du fer
+brief = Trempe du fer
+detail = Coût-300 or ~ La technologie Trempe du fer augmente de 1 point l'attaque à l'épée des unités militaires.
+
+[T_E_PLATE_ARMOR]
+rollover = En savoir plus sur la technologie - Armure de plates
+brief = Armure de plates
+detail = Coût-1400 or ~ La technologie Armure de plates permet de produire des chevaliers.
+
+[T_E_SCALE_ARMOR]
+rollover = En savoir plus sur la technologie - Armure d'écailles
+brief = Armure d'écailles
+detail = Coût-400 or ~ La technologie Armure d'écailles augmente de 1 point la défense de toutes les unités d'infanterie.
+
+[T_E_CHAIN_MAIL]
+rollover = En savoir plus sur la technologie - Cotte de mailles
+brief = Cotte de mailles
+detail = Coût-400 or ~ La technologie Cotte de mailles augmente de 2 points la défense de toutes les unités d'infanterie.
+
+[T_E_HALBERD]
+rollover = En savoir plus sur la technologie - Hallebarde
+brief = Hallebarde
+detail = Coût-600 or ~ La technologie Hallebarde permet de créer des unités à lance.
+
+[T_E_SAW]
+rollover = En savoir plus sur la technologie - Scie
+brief = Scie
+detail = Coût-400 or ~ La technologie Scie permet aux bûcherons de porter 2 points de bois de plus aux scieries.
+
+[T_E_CROSSBOW]
+rollover = En savoir plus sur la technologie - Arbalète
+brief = Arbalète
+detail = Coût-400 or ~ La technologie Arbalète augmente de 1 point l'attaque de chaque flèche.
+
+[T_E_LONGBOW]
+rollover = En savoir plus sur la technologie - Arc long
+brief = Arc long
+detail = Coût-700 or ~ La technologie Arc long rend disponibles les archers au long arc.
+
+[T_E_GOLD_MINING]
+rollover = En savoir plus sur la technologie - Extraction de l'or
+brief = Extraction de l'or
+detail = Coût-400 or ~ La technologie Extraction de l'or permet aux mineurs de rapporter 12 d'or des mines.
+
+[T_E_STONE_MINING]
+rollover = En savoir plus sur la technologie - Extraction de la pierre
+brief = Extraction de la pierre
+detail = Coût-400 or ~ La technologie Extraction de la pierre permet aux mineurs de rapporter 12 de pierre des carrières.
+
+[T_E_ENGINEERING]
+rollover = En savoir plus sur la technologie - Ingénierie
+brief = Ingénierie
+detail = Coût-400 or ~ La technologie Ingénierie augmente de 5 points l'attaque des catapultes et des catapultes lourdes.
+
+[T_E_CANNON_TOWER]
+rollover = En savoir plus sur la technologie - Tours à canon
+brief = Tours à canon
+detail = Coût-400 or ~ La technologie Tour à canon permet d'améliorer les tours de pierre en tours à canon.
+
+[T_E_HEROISM]
+rollover = En savoir plus sur la technologie - Héroïsme
+brief = Héroïsme
+detail = Coût-500 or ~ La technologie Héroïsme permet aux unités de gagner une expérience illimitée, et donc au joueur de faire de certaines d'entre elles des héros.
+
+[T_E_LEADERSHIP]
+rollover = En savoir plus sur la technologie - Commandement
+brief = Commandement
+detail = Coût-500 or ~ La technologie Commandement permet aux unités proches d'un héros de gagner de l'expérience.
+
+[T_E_HONOR]
+rollover = En savoir plus sur la technologie - Honneur
+brief = Honneur
+detail = Coût-500 or ~ La technologie Honneur augmente de 50 % l'attaque des héros quand ils combattent d'autres héros.
+
+[T_E_WARFARE]
+rollover = En savoir plus sur la technologie - Art de la guerre
+brief = Art de la guerre
+detail = Coût-400 or ~ La technologie Art de la guerre accélère l'apprentissage de toutes les unités.
+
+[T_E_MERCENARIES]
+rollover = En savoir plus sur la technologie - Mercenaires
+brief = Mercenaires
+detail = Coût-600 or ~ La technologie Mercenaires permet de recruter des mercenaires dans les tavernes.
+
+[T_E_HEROES_QUEST]
+rollover = En savoir plus sur la technologie - Quête des héros
+brief = Quête des héros
+detail = Coût-800 or ~ La technologie Quête des héros permet de recruter des héros dans les tavernes.
+
+[T_E_FAME]
+rollover = En savoir plus sur la technologie - Renommée
+brief = Renommée
+detail = Coût-500 or ~ La technologie Renommée permet de recruter dans les tavernes des mercenaires meilleurs, moins chers et plus expérimentés.
+
+[T_E_TACTICS]
+rollover = En savoir plus sur la technologie - Tactique
+brief = Tactique
+detail = Coût-800 or ~ La technologie Tactique accélère l'apprentissage des unités.
+
+[T_E_SIEGE_TACTICS]
+rollover = En savoir plus sur la technologie - Tactique de siège
+brief = Tactique de siège
+detail = Coût-1200 or ~ La technologie Tactique de siège permet de produire des catapultes lourdes dans les ateliers.
+
+[T_E_BODY_BUILDING]
+rollover = En savoir plus sur la technologie - Culture physique
+brief = Culture physique
+detail = Coût-1200 or ~ La technologie Culture physique augmente de 5 les points de vie des unités à chaque nouveau niveau.
+
+[T_E_LANDING_TACTICS]
+rollover = En savoir plus sur la technologie - Tactique de débarquement
+brief = Tactique de débarquement
+detail = Coût-300 or ~ La technologie Tactique de débarquement permet aux navires de transporter 50 % d'unités de plus.
+
+[T_E_FANATICISM]
+rollover = En savoir plus sur la technologie - Fanatisme
+brief = Fanatisme
+detail = Coût-400 or ~ La technologie Fanatisme augmente de 50 % la résistance des bâtiments.
+
+[T_E_CRUSADE]
+rollover = En savoir plus sur la technologie - Croisade
+brief = Croisade
+detail = Coût-1400 or ~ La technologie Croisade permet de lancer une croisade. 20 croisés apparaissent un à un à l'endroit choisi et forment une armée redoutable.
+
+[T_E_ESPIONAGE]
+rollover = En savoir plus sur la technologie - Espionnage
+brief = Espionnage
+detail = Coût-400 or ~ La technologie Espionnage permet de produire des espions au château.
+
+[T_E_BLESS]
+rollover = En savoir plus sur la technologie - Bénédiction
+brief = Bénédiction
+detail = Coût-400 or ~ La technologie Bénédiction augmente de 8 points l'attaque des unités. Elle permet aux prêtres de bénir les unités.
+
+[T_E_HEALING]
+rollover = En savoir plus sur la technologie - Guérison
+brief = Guérison
+detail = Coût-400 or ~ La technologie Guérison rend disponible le sort de soin et permet aux prêtres de soigner les unités.
+
+[T_E_MEDICINE]
+rollover = En savoir plus sur la technologie - Médecine
+brief = Médecine
+detail = Coût-500 or ~ La technologie Médecine permet aux prêtres de soigner de plus loin.
+
+[T_E_INQUISITION]
+rollover = En savoir plus sur la technologie - Inquisition
+brief = Inquisition
+detail = Coût-400 or ~ La technologie Inquisition augmente de 5 points l'effet du sort Exorcisme.
+
+[T_E_TRADE_ROUTES]
+rollover = En savoir plus sur la technologie - Routes commerciales
+brief = Routes commerciales
+detail = Coût-400 or ~ La technologie Routes commerciales permet de commercer avec des caravanes et des navires.
+
+[T_E_MAP_MAKING]
+rollover = En savoir plus sur la technologie - Cartographie
+brief = Cartographie
+detail = Coût-800 or ~ La technologie Cartographie permet de construire des galions.
+
+[T_E_USURY]
+rollover = En savoir plus sur la technologie - Usure
+brief = Usure
+detail = Coût-300 or ~ La technologie Usure permet au joueur d'obtenir des prêts dans les tavernes.
+
+[T_E_GAMBLING]
+rollover = En savoir plus sur la technologie - Jeux de hasard
+brief = Jeux de hasard
+detail = Coût-500 or ~ La technologie Jeux de hasard permet au joueur de parier dans les tavernes.
+
+[T_E_SUPPLY_STORAGE]
+rollover = En savoir plus sur la technologie - Réserves de vivres
+brief = Réserves de vivres
+detail = Coût-500 or ~ La technologie Réserves de vivres augmente de 50 % la limite de population.
+
+[T_E_BRIBERY]
+rollover = En savoir plus sur la technologie - Corruption
+brief = Corruption
+detail = Coût-300 or ~ La technologie Corruption permet aux paysans de soudoyer des unités ennemies.
+
+[T_E_TRADE_TAXES]
+rollover = En savoir plus sur la technologie - Taxes commerciales
+brief = Taxes commerciales
+detail = Coût-500 or ~ La technologie Taxes commerciales augmente de 5 % les profits du commerce.
+
+[T_E_BAT]
+rollover = En savoir plus sur la technologie - Chauves-souris
+brief = Chauves-souris
+detail = Coût-400 or ~ La technologie Chauve-souris permet aux magiciens d'invoquer des chauves-souris.
+
+[T_E_STONE_GOLEM]
+rollover = En savoir plus sur la technologie - Golem de pierre
+brief = Golem de pierre
+detail = Coût-800 or ~ La technologie Golem de pierre permet aux magiciens d'invoquer des golems de pierre.
+
+[T_E_INVISIBILITY]
+rollover = En savoir plus sur la technologie - Invisibilité
+brief = Invisibilité
+detail = Coût-500 or ~ La technologie Invisibilité permet aux magiciens de rendre des unités invisibles pendant un temps limité.
+
+[T_E_LIGHTNING]
+rollover = En savoir plus sur la technologie - Foudre
+brief = Foudre
+detail = Coût-400 or ~ La technologie Foudre permet aux magiciens d'utiliser le sort Foudre.
+
+[T_E_FREEZE]
+rollover = En savoir plus sur la technologie - Gel
+brief = Gel
+detail = Coût-800 or ~ La technologie Gel permet aux magiciens d'utiliser le sort Geler.
+
+[T_A_FEUDALISM]
+rollover = En savoir plus sur la technologie - Féodalité
+brief = Féodalité
+detail = Coût-300 or ~ La féodalité rend la production de paysans 20 % moins chère. Il est conseillé de rechercher cette technologie en début de partie, quand il faut beaucoup de paysans pour bâtir l'économie.
+
+[T_A_ARCHITECTURE]
+rollover = En savoir plus sur la technologie - Architecture
+brief = Architecture
+detail = Coût-300 or ~ L'architecture rend la construction de tout bâtiment 20 % plus rapide.
+
+[T_A_LEARNING]
+rollover = En savoir plus sur la technologie - Apprentissage
+brief = Apprentissage
+detail = Coût-400 or ~ L'apprentissage permet aux unités de gagner jusqu'à 4 niveaux d'expérience.
+
+[T_A_GREAT_WALL]
+rollover = En savoir plus sur la technologie - Grande Muraille
+brief = Grande Muraille
+detail = Coût-600 or ~ Augmente de 30 % les points de vie des murs et des tours de pierre.
+
+[T_A_BUDHISM]
+rollover = En savoir plus sur la technologie - Bouddhisme
+brief = Bouddhisme
+detail = Coût-500 or ~ Augmente de 50 % la résistance des bâtiments.
+
+[T_A_ROTATING_FIELDS]
+rollover = En savoir plus sur la technologie - Rotation des cultures
+brief = Rotation des cultures
+detail = Coût-400 or ~ La technologie Rotation des cultures permet aux paysans de récolter deux fois plus de nourriture après les semailles.
+
+[T_A_IRRIGATION]
+rollover = En savoir plus sur la technologie - Irrigation
+brief = Irrigation
+detail = Coût-400 or ~ La technologie Irrigation permet aux paysans de récolter 16 de nourriture au lieu de 12 en travaillant les champs.
+
+[T_A_ART_OF_RIDING]
+rollover = En savoir plus sur la technologie - Art équestre
+brief = Art équestre
+detail = Coût-400 or ~ La technologie Art équestre permet de produire des archers montés à la caserne.
+
+[T_A_TEMPER_IRON]
+rollover = En savoir plus sur la technologie - Trempe du fer
+brief = Trempe du fer
+detail = Coût-400 or ~ La technologie Trempe du fer augmente de 1 point l'attaque à l'épée des unités militaires.
+
+[T_A_SCALE_ARMOR]
+rollover = En savoir plus sur la technologie - Armure d'écailles
+brief = Armure d'écailles
+detail = Coût-400 or ~ La technologie Armure d'écailles augmente de 1 point la défense de toutes les unités d'infanterie.
+
+[T_A_CHAIN_MAIL]
+rollover = En savoir plus sur la technologie - Cotte de mailles
+brief = Cotte de mailles
+detail = Coût-400 or ~ La technologie Cotte de mailles augmente de 2 points la défense de toutes les unités d'infanterie.
+
+[T_A_CHARIOT]
+rollover = En savoir plus sur la technologie - Char cuirassé
+brief = Char cuirassé
+detail = Coût-300 or ~ La technologie Char cuirassé rend disponibles les chars cuirassés à la caserne.
+
+[T_A_SAW]
+rollover = En savoir plus sur la technologie - Scie
+brief = Scie
+detail = Coût-400 or ~ La technologie Scie permet aux bûcherons de porter 2 points de bois de plus aux scieries.
+
+[T_A_CROSSBOW]
+rollover = En savoir plus sur la technologie - Arbalète
+brief = Arbalète
+detail = Coût-400 or ~ La technologie Arbalète augmente de 1 point toute attaque à la flèche.
+
+[T_A_GOLD_MINING]
+rollover = En savoir plus sur la technologie - Extraction de l'or
+brief = Extraction de l'or
+detail = Coût-400 or ~ La technologie Extraction de l'or permet aux mineurs de rapporter 12 d'or des mines.
+
+[T_A_STONE_MINING]
+rollover = En savoir plus sur la technologie - Extraction de la pierre
+brief = Extraction de la pierre
+detail = Coût-400 or ~ La technologie Extraction de la pierre permet aux mineurs de rapporter 12 de pierre des carrières.
+
+[T_A_ENGINEERING]
+rollover = En savoir plus sur la technologie - Ingénierie
+brief = Ingénierie
+detail = Coût-400 or ~ La technologie Ingénierie augmente de 5 points l'attaque des catapultes.
+
+[T_A_CANNON_TOWER]
+rollover = En savoir plus sur la technologie - Tours à canon
+brief = Tours à canon
+detail = Coût-400 or ~ La technologie Tour à canon permet d'améliorer les tours de pierre en tours à canon.
+
+[T_A_HEROISM]
+rollover = En savoir plus sur la technologie - Héroïsme
+brief = Héroïsme
+detail = Coût-500 or ~ La technologie Héroïsme permet aux unités de gagner une expérience illimitée, et donc au joueur de faire de certaines d'entre elles des héros.
+
+[T_A_LEADERSHIP]
+rollover = En savoir plus sur la technologie - Commandement
+brief = Commandement
+detail = Coût-500 old ~ La technologie Commandement permet aux unités proches d'un héros de gagner de l'expérience.
+
+[T_A_HONOR]
+rollover = En savoir plus sur la technologie - Honneur
+brief = Honneur
+detail = Coût-500 or ~ La technologie Honneur augmente de 50 % l'attaque des héros quand ils combattent d'autres héros.
+
+[T_A_SUN_TZU_BOOK]
+rollover = En savoir plus sur la technologie - Le livre de Sun Tzu
+brief = Le livre de Sun Tzu
+detail = Coût-600 or ~ La technologie Le livre de Sun Tzu accélère l'apprentissage des unités.
+
+[T_A_WARFARE]
+rollover = En savoir plus sur la technologie - Art de la guerre
+brief = Art de la guerre
+detail = Coût-400 or ~ La technologie Art de la guerre accélère l'apprentissage de toutes les unités.
+
+[T_A_TACTICS]
+rollover = En savoir plus sur la technologie - Tactique
+brief = Tactique
+detail = Coût-800 or ~ La technologie Tactique accélère l'apprentissage des unités.
+
+[T_A_MERCENARIES]
+rollover = En savoir plus sur la technologie - Mercenaires
+brief = Mercenaires
+detail = Coût-600 or ~ La technologie Mercenaires permet de recruter des mercenaires dans les tavernes.
+
+[T_A_HEROES_QUEST]
+rollover = En savoir plus sur la technologie - Quête des héros
+brief = Quête des héros
+detail = Coût-800 or ~ La technologie Quête des héros permet de recruter des héros dans les tavernes.
+
+[T_A_BUSHIDO]
+rollover = En savoir plus sur la technologie - Bushido
+brief = Bushido
+detail = Coût-500 or ~ La technologie Bushido permet de produire des samouraïs montés à la caserne.
+
+[T_A_MEDITATION]
+rollover = En savoir plus sur la technologie - Méditation
+brief = Méditation
+detail = Coût-300 or ~ La technologie Méditation rend la production de moines 25 % moins chère.
+
+[T_A_PHILOSOPHY]
+rollover = En savoir plus sur la technologie - Philosophie
+brief = Philosophie
+detail = Coût-400 or ~ La technologie Philosophie fait atteindre aux moines le niveau 2 dès leur création.
+
+[T_A_KUNG_FU]
+rollover = En savoir plus sur la technologie - Kung-fu
+brief = Kung-fu
+detail = Coût-400 or ~ La technologie Kung-fu augmente de 1 point l'attaque de toutes les unités de kung-fu /paysans, moines et prêtres/.
+
+[T_A_NINJAS]
+rollover = En savoir plus sur la technologie - Ninjas
+brief = Ninjas
+detail = Coût-500 or ~ La technologie Ninja permet de créer des ninjas au château.
+
+[T_A_MASTERY]
+rollover = En savoir plus sur la technologie - Maîtrise
+brief = Maîtrise
+detail = Coût-500 or ~ La technologie Maîtrise permet aux prêtres de former des unités jusqu'à leur propre niveau.
+
+[T_A_TOURNAMENTS]
+rollover = En savoir plus sur la technologie - Tournois
+brief = Tournois
+detail = Coût-800 or ~ La technologie Tournois permet aux unités de kung-fu /paysans, moines et prêtres/ de partager leur expérience.
+
+[T_A_HEALING]
+rollover = En savoir plus sur la technologie - Guérison
+brief = Guérison
+detail = Coût-400 or ~ La technologie Guérison rend disponible le sort de soin et permet aux prêtres de soigner les unités.
+
+[T_A_MEDICINE]
+rollover = En savoir plus sur la technologie - Médecine
+brief = Médecine
+detail = Coût-500 or ~ La technologie Médecine permet aux prêtres de soigner de plus loin.
+
+[T_A_TRADE_ROUTES]
+rollover = En savoir plus sur la technologie - Routes commerciales
+brief = Routes commerciales
+detail = Coût-400 or ~ La technologie Routes commerciales permet de commercer avec des paysans.
+
+[T_A_USURY]
+rollover = En savoir plus sur la technologie - Usure
+brief = Usure
+detail = Coût-300 or ~ La technologie Usure permet au joueur d'obtenir des prêts dans les tavernes.
+
+[T_A_BANKING]
+rollover = En savoir plus sur la technologie - Banque
+brief = Banque
+detail = Coût-600 or ~ La technologie Banque augmente de 5 % les profits du commerce.
+
+[T_A_SUPPLY_STORAGE]
+rollover = En savoir plus sur la technologie - Réserves de vivres
+brief = Réserves de vivres
+detail = Coût-500 or ~ La technologie Réserves de vivres augmente de 50 % la limite de population.
+
+[T_A_SEAFOOD]
+rollover = En savoir plus sur la technologie - Fruits de mer
+brief = Fruits de mer
+detail = Coût-500 or ~ La technologie Fruits de mer augmente de 25 % la limite de population.
+
+[T_A_JEWELRY]
+rollover = En savoir plus sur la technologie - Joaillerie
+brief = Joaillerie
+detail = Coût-400 or ~ La technologie Joaillerie permet de commercer des objets magiques sur les marchés.
+
+[T_A_CHEMISTRY]
+rollover = En savoir plus sur la technologie - Chimie
+brief = Chimie
+detail = Coût-500 or ~ La technologie Chimie augmente de 2 points l'attaque des flèches enflammées.
+
+[T_A_GUNPOWDER]
+rollover = En savoir plus sur la technologie - Poudre à canon
+brief = Poudre à canon
+detail = Coût-500 or ~ La technologie Poudre à canon augmente de 10 % l'attaque des tours à canon.
+
+[T_A_ROCKET_ARROW]
+rollover = En savoir plus sur la technologie - Flèche-fusée
+brief = Flèche-fusée
+detail = Coût-800 or ~ La technologie Flèche-fusée rend disponibles les tours à fusées.
+
+[T_A_CONCENTRATION]
+rollover = En savoir plus sur la technologie Concentration
+brief = Concentration
+detail = Coût-400 or ~ La technologie Concentration accélère la reconstitution du mana de toutes les unités à mana.
+
+[T_A_CONFUSION]
+rollover = En savoir plus sur la technologie Confusion
+brief = Confusion
+detail = Coût-400 or ~ La technologie Confusion permet aux magiciens d'utiliser le sort Confusion.
+
+[T_A_WHIRLPOOL]
+rollover = En savoir plus sur la technologie Tourbillon
+brief = Tourbillon
+detail = Coût-300 or ~ La technologie Tourbillon permet aux magiciens d'utiliser le sort Tourbillon.
+
+[T_A_FLAMEBOLT]
+rollover = En savoir plus sur la technologie Trait de feu
+brief = Trait de feu
+detail = Coût-400 or ~ La technologie Trait de feu permet aux magiciens d'utiliser le sort Trait de feu.
+
+[T_A_DRAGON]
+rollover = En savoir plus sur la technologie Dragon
+brief = Dragon
+detail = Coût-800 or ~ La technologie Dragon permet aux magiciens d'invoquer des dragons.
+
+[T_A_TURN_TO_STONE]
+rollover = En savoir plus sur la technologie Pétrification
+brief = Pétrification
+detail = Coût-300 or ~ La technologie Pétrification permet aux magiciens d'utiliser le sort Pétrifier.
+
+[T_R_FEUDALISM]
+rollover = En savoir plus sur la technologie - Féodalité
+brief = Féodalité
+detail = Coût-300 or ~ La féodalité rend la production de paysans 20 % moins chère. Il est conseillé de rechercher cette technologie en début de partie, quand il faut beaucoup de paysans pour bâtir l'économie.
+
+[T_R_SLAVERY]
+rollover = En savoir plus sur la technologie - Esclavage
+brief = Esclavage
+detail = Coût-200 or ~ L'esclavage rend la production de paysans 20 % moins chère. Il est conseillé de rechercher cette technologie en début de partie, quand il faut beaucoup de paysans pour bâtir l'économie.
+
+[T_R_ARCHITECTURE]
+rollover = En savoir plus sur la technologie - Architecture
+brief = Architecture
+detail = Coût-300 or ~ L'architecture rend la construction de tout bâtiment 20 % plus rapide.
+
+[T_R_LEARNING]
+rollover = En savoir plus sur la technologie - Apprentissage
+brief = Apprentissage
+detail = Coût-400 or ~ L'apprentissage permet aux unités de gagner jusqu'à 4 niveaux d'expérience.
+
+[T_R_ROTATING_FIELDS]
+rollover = En savoir plus sur la technologie - Rotation des cultures
+brief = Rotation des cultures
+detail = Coût-400 or ~ La technologie Rotation des cultures permet aux paysans de récolter deux fois plus de nourriture après les semailles.
+
+[T_R_DOMESTICATION]
+rollover = En savoir plus sur la technologie - Domestication
+brief = Domestication
+detail = Coût-300 or ~ La technologie Domestication permet de produire du bétail dans les fermes.
+
+[T_R_COW_POACHING]
+rollover = En savoir plus sur la technologie - Vol de bétail
+brief = Vol de bétail
+detail = Coût-200 or ~ La technologie Vol de bétail permet aux paysans de voler des vaches.
+
+[T_R_ART_OF_RIDING]
+rollover = En savoir plus sur la technologie Art équestre
+brief = Art équestre
+detail = Coût-400 or ~ La technologie Art équestre rend disponibles les archers montés à la caserne.
+
+[T_R_HORSEMANSHIP]
+rollover = En savoir plus sur la technologie Équitation
+brief = Équitation
+detail = Coût-400 or ~ La technologie Équitation rend toutes les unités montées moins chères.
+
+[T_R_TEMPER_IRON]
+rollover = En savoir plus sur la technologie - Trempe du fer
+brief = Trempe du fer
+detail = Coût-400 or ~ La technologie Trempe du fer augmente de 1 point l'attaque à l'épée des unités militaires.
+
+[T_R_HALBERD]
+rollover = En savoir plus sur la technologie - Hallebarde
+brief = Hallebarde
+detail = Coût-600 or ~ La technologie Hallebarde permet de produire des unités à lance.
+
+[T_R_SCALE_ARMOR]
+rollover = En savoir plus sur la technologie - Armure d'écailles
+brief = Armure d'écailles
+detail = Coût-400 or ~ La technologie Armure d'écailles augmente de 1 point la défense de toutes les unités d'infanterie.
+
+[T_R_CHAIN_MAIL]
+rollover = En savoir plus sur la technologie - Cotte de mailles
+brief = Cotte de mailles
+detail = Coût-400 or ~ La technologie Cotte de mailles augmente de 2 points la défense de toutes les unités d'infanterie.
+
+[T_R_SCIMITAR]
+rollover = En savoir plus sur la technologie Cimeterre
+brief = Cimeterre
+detail = Coût-400 or ~ La technologie Cimeterre augmente de 1 point l'attaque à l'épée de toutes les unités et permet de produire des satrapes à la caserne.
+
+[T_R_SAW]
+rollover = En savoir plus sur la technologie - Scie
+brief = Scie
+detail = Coût-400 or ~ La technologie Scie permet aux bûcherons de porter 2 points de bois de plus aux scieries.
+
+[T_R_CROSSBOW]
+rollover = En savoir plus sur la technologie - Arbalète
+brief = Arbalète
+detail = Coût-400 or ~ La technologie Arbalète augmente de 1 point l'attaque de toute flèche.
+
+[T_R_GOLD_MINING]
+rollover = En savoir plus sur la technologie - Extraction de l'or
+brief = Extraction de l'or
+detail = Coût-400 or ~ La technologie Extraction de l'or permet aux mineurs de rapporter 12 d'or des mines.
+
+[T_R_STONE_MINING]
+rollover = En savoir plus sur la technologie - Extraction de la pierre
+brief = Extraction de la pierre
+detail = Coût-400 or ~ La technologie Extraction de la pierre permet aux mineurs de rapporter 12 de pierre des carrières.
+
+[T_R_ENGINEERING]
+rollover = En savoir plus sur la technologie - Ingénierie
+brief = Ingénierie
+detail = Coût-400 or ~ La technologie Ingénierie augmente de 5 points l'attaque des armes de siège.
+
+[T_R_CANNON_TOWER]
+rollover = En savoir plus sur la technologie - Tours à canon
+brief = Tours à canon
+detail = Coût-400 or ~ La technologie Tour à canon permet d'améliorer les tours de pierre en tours à canon.
+
+[T_R_HEROISM]
+rollover = En savoir plus sur la technologie - Héroïsme
+brief = Héroïsme
+detail = Coût-500 or ~ La technologie Héroïsme permet aux unités de gagner une expérience illimitée, et donc au joueur de faire de certaines d'entre elles des héros.
+
+[T_R_LEADERSHIP]
+rollover = En savoir plus sur la technologie - Commandement
+brief = Commandement
+detail = Coût-500 or ~ La technologie Commandement permet aux unités proches d'un héros de gagner de l'expérience.
+
+[T_R_HONOR]
+rollover = En savoir plus sur la technologie - Honneur
+brief = Honneur
+detail = Coût-500 or ~ La technologie Honneur augmente de 50 % l'attaque des héros dans les combats contre d'autres héros.
+
+[T_R_WARFARE]
+rollover = En savoir plus sur la technologie - Art de la guerre
+brief = Art de la guerre
+detail = Coût-400 or ~ La technologie Art de la guerre accélère l'apprentissage de toutes les unités.
+
+[T_R_MERCENARIES]
+rollover = En savoir plus sur la technologie - Mercenaires
+brief = Mercenaires
+detail = Coût-600 or ~ La technologie Mercenaires permet de recruter des mercenaires dans les tavernes.
+
+[T_R_HEROES_QUEST]
+rollover = En savoir plus sur la technologie - Quête des héros
+brief = Quête des héros
+detail = Coût-800 or ~ La technologie Quête des héros permet de recruter des héros dans les tavernes.
+
+[T_R_FAME]
+rollover = En savoir plus sur la technologie - Renommée
+brief = Renommée
+detail = Coût-500 or ~ La technologie Renommée permet de recruter dans les tavernes des mercenaires meilleurs, moins chers et plus expérimentés.
+
+[T_R_BODY_BUILDING]
+rollover = En savoir plus sur la technologie - Culture physique
+brief = Culture physique
+detail = Coût-1200 or ~ La technologie Culture physique augmente de 5 les points de vie des unités à chaque nouveau niveau.
+
+[T_R_RIDING_HORDES]
+rollover = En savoir plus sur la technologie Hordes à cheval
+brief = Hordes à cheval
+detail = Coût-500 or ~ La technologie Hordes à cheval augmente de 2 points l'attaque des unités montées et de 1 point leur défense.
+
+[T_R_JANISSARY]
+rollover = En savoir plus sur la technologie Janissaire
+brief = Janissaire
+detail = Coût-1200 or ~ La technologie Janissaire rend disponibles les janissaires à la caserne.
+
+[T_R_LANDING_TACTICS]
+rollover = En savoir plus sur la technologie - Tactique de débarquement
+brief = Tactique de débarquement
+detail = Coût-300 or ~ La technologie Tactique de débarquement permet aux navires de transporter 50 % d'unités de plus.
+
+[T_R_FANATICISM]
+rollover = En savoir plus sur la technologie - Fanatisme
+brief = Fanatisme
+detail = Coût-400 or ~ La technologie Fanatisme augmente de 50 % la résistance des bâtiments.
+
+[T_R_JIHAD]
+rollover = En savoir plus sur la technologie Djihad
+brief = Djihad
+detail = Coût-1200 or ~ La technologie Djihad permet de transformer les paysans en guerriers du djihad, et de créer des guerriers du djihad à la caserne.
+
+[T_R_ESPIONAGE]
+rollover = En savoir plus sur la technologie - Espionnage
+brief = Espionnage
+detail = Coût-400 or ~ La technologie Espionnage permet de produire des espions au château.
+
+[T_R_BLESS]
+rollover = En savoir plus sur la technologie - Bénédiction
+brief = Bénédiction
+detail = Coût-400 or ~ La technologie Bénédiction augmente de 8 points l'attaque des unités. Elle permet aux prêtres de bénir les unités.
+
+[T_R_HEALING]
+rollover = En savoir plus sur la technologie - Guérison
+brief = Guérison
+detail = Coût-400 or ~ La technologie Guérison rend disponible le sort de soin et permet aux prêtres de soigner les unités.
+
+[T_R_TRADE_ROUTES]
+rollover = En savoir plus sur la technologie - Routes commerciales
+brief = Routes commerciales
+detail = Coût-400 or ~ La technologie Routes commerciales permet de commercer avec des caravanes et des navires.
+
+[T_R_USURY]
+rollover = En savoir plus sur la technologie - Usure
+brief = Usure
+detail = Coût-300 or ~ La technologie Usure permet au joueur d'obtenir des prêts dans les tavernes.
+
+[T_R_GAMBLING]
+rollover = En savoir plus sur la technologie - Jeux de hasard
+brief = Jeux de hasard
+detail = Coût-500 or ~ La technologie Jeux de hasard permet au joueur de parier dans les tavernes.
+
+[T_R_SUPPLY_STORAGE]
+rollover = En savoir plus sur la technologie - Réserves de vivres
+brief = Réserves de vivres
+detail = Coût-500 or ~ La technologie Réserves de vivres augmente de 50 % la limite de population.
+
+[T_R_BRIBERY]
+rollover = En savoir plus sur la technologie - Corruption
+brief = Corruption
+detail = Coût-300 or ~ La technologie Corruption permet aux paysans de soudoyer des unités ennemies.
+
+[T_R_ORE_FLOTATION]
+rollover = En savoir plus sur la technologie - Flottation du minerai
+brief = Flottation du minerai
+detail = Coût-300 or ~ La technologie Flottation du minerai augmente de 100 % le rendement des mines d'or.
+
+[T_R_MAGIC_CARPET]
+rollover = En savoir plus sur la technologie Tapis volant
+brief = Tapis volant
+detail = Coût-300 or ~ La technologie Tapis volant permet aux magiciens d'invoquer des tapis volants.
+
+[T_R_JINN]
+rollover = En savoir plus sur la technologie Djinn
+brief = Djinn
+detail = Coût-600 or ~ La technologie Djinn permet aux magiciens d'invoquer des djinns.
+
+[T_R_NECROMANCY]
+rollover = En savoir plus sur la technologie Nécromancie
+brief = Nécromancie
+detail = Coût-400 or ~ La technologie Nécromancie permet aux magiciens d'utiliser le sort Nécromancie et de relever les unités mortes.
+
+[T_R_MAGIC_VISION]
+rollover = En savoir plus sur la technologie Vision magique
+brief = Vision magique
+detail = Coût-400 or ~ La technologie Vision magique permet aux magiciens d'utiliser le sort Vision magique et d'explorer la carte plus vite.
+
+[T_R_RAIN_OF_FIRE]
+rollover = En savoir plus sur la technologie Pluie de feu
+brief = Pluie de feu
+detail = Coût-800 or ~ La technologie Pluie de feu permet aux magiciens d'utiliser le sort Pluie de feu.
+
+[T_R_WITCHCRAFTS]
+rollover = En savoir plus sur la technologie Sorcellerie
+brief = Sorcellerie
+detail = Coût-800 or ~ La technologie Sorcellerie permet de construire des ateliers de magie et de produire des objets magiques.
+
+[I_WEAPON]
+rollover = En savoir plus sur les armes
+brief = Arme
+detail = Les armes augmentent l'attaque de leur porteur. Certaines unités ont une valeur d'attaque. Quand une unité a une arme dans son inventaire, son attaque est la somme des points d'attaque de l'unité et de ceux de l'objet. Si l'objet est lâché, les points d'attaque de l'unité reviennent à leur valeur précédente.
+
+[I_ARMOR]
+rollover = En savoir plus sur les armures
+brief = Armure
+detail = Les armures augmentent la défense de leur porteur. Toutes les unités ont une valeur de défense. Quand une unité a une armure dans son inventaire, sa défense est la somme des points de défense de l'unité et de ceux de l'objet. Si l'objet est lâché, les points de défense de l'unité reviennent à leur valeur précédente.
+
+[I_SPELLBOOK]
+rollover = En savoir plus sur les livres de sorts
+brief = Livre de sorts
+detail = Les livres de sorts donnent à leur porteur le pouvoir de lancer des sorts.
+
+[I_SCROLL]
+rollover = En savoir plus sur les parchemins
+brief = Parchemin
+detail = Les parchemins contiennent des textes utilisés dans les histoires. On peut lire leur message en ramassant le parchemin et en le sélectionnant dans l'inventaire de l'unité.
+
+[I_POTION]
+rollover = En savoir plus sur les potions
+brief = Potion
+detail = Les potions augmentent la santé de leur porteur. Toutes les unités ont une valeur de santé. Quand une unité utilise une potion, sa santé augmente de la quantité que contient l'objet.
+
+[I_RESOURCE]
+rollover = En savoir plus sur les ressources à ramasser
+brief = Ressource à ramasser
+detail = Les ressources à ramasser sont de petites quantités de ressources sur la carte. Les unités peuvent les ramasser et les déposer au trésor. La quantité apparaît dans la vue de sélection, une fois l'objet sélectionné.
+
+[C_MOVE]
+rollover = Apprendre à utiliser la commande Se déplacer
+brief = Se déplacer
+detail = Pour déplacer une unité, sélectionnez-la et cliquez sur le bouton Se déplacer, ou faites simplement un clic droit sur la destination voulue. ~ Pour suivre un chemin précis, maintenez Maj et désignez les destinations avec le bouton droit de la souris. ~ Avance offensive : pour avancer en cherchant des ennemis, maintenez Ctrl en faisant un clic droit sur la destination. ~ Avance discrète : si vous voulez que vos unités ne ripostent que si elles sont attaquées, maintenez Alt en désignant le lieu.
+
+[C_REPAIR]
+rollover = Apprendre à réparer un bâtiment
+brief = Réparer
+detail = Sélectionnez un paysan, cliquez sur le bouton Réparer de la barre des ordres, puis faites un clic droit sur le bâtiment à réparer.
+
+[C_HARVEST]
+rollover = Apprendre à utiliser la commande Récolter
+brief = Récolter
+detail = Sélectionnez un paysan, cliquez sur le bouton d'ordre Récolter et désignez la ressource à ramasser.
+
+[C_EXPLORE]
+rollover = Apprendre à explorer une zone
+brief = Explorer
+detail = Sélectionnez une unité, cliquez sur le bouton d'ordre Explorer et désignez la zone à explorer.
+
+[C_ATTACK]
+rollover = Apprendre à attaquer les unités ennemies
+brief = Attaquer
+detail = Sélectionnez une unité, cliquez sur le bouton d'ordre Attaquer ou désignez simplement une unité ou un objet ennemi d'un clic droit. ~ Vous pouvez choisir plusieurs objets différents en maintenant Maj pendant que vous faites un clic droit sur chacun d'eux. ~ Si vous maintenez Alt en choisissant un objet à attaquer, tous les objets du même type seront choisis et attaqués.
+
+[C_STOP]
+rollover = Apprendre à arrêter vos unités
+brief = Arrêter
+detail = Sélectionnez une unité et cliquez sur le bouton d'ordre Arrêter de la barre des ordres.
+
+[C_PICKITEM]
+rollover = Apprendre à ramasser un objet
+brief = Ramasser un objet
+detail = Sélectionnez une unité, cliquez sur le bouton d'ordre Ramasser ou placez simplement le curseur sur un objet et désignez l'objet à ramasser avec le bouton droit de la souris.
+
+[C_USEITEM]
+rollover = Apprendre à utiliser un objet
+brief = Utiliser un objet
+detail = Sélectionnez une unité qui porte des objets. Ouvrez son inventaire, choisissez l'objet à utiliser et désignez la cible.
+
+[C_DROPITEM]
+rollover = Apprendre à lâcher un objet
+brief = Lâcher un objet
+detail = Sélectionnez une unité qui porte des objets. Ouvrez son inventaire et choisissez l'objet à lâcher en maintenant Alt. Cliquez sur le bouton d'ordre Utiliser l'objet et désignez l'endroit voulu.
+
+[C_CAPTURE]
+rollover = Apprendre à capturer un bâtiment ennemi
+brief = Capturer
+detail = Sélectionnez un paysan, cliquez sur le bouton d'ordre Capturer ou faites simplement un clic droit sur un bâtiment ennemi.
+
+[C_BUILD]
+rollover = Apprendre à construire
+brief = Construire
+detail = Sélectionnez un paysan, cliquez sur le bouton d'ordre Construire et choisissez le bâtiment à construire avec le bouton correspondant. Désignez ensuite l'endroit voulu. L'image du bâtiment est verte quand l'emplacement convient.
+
+[C_PATROL]
+rollover = Apprendre à faire patrouiller vos unités
+brief = Patrouiller
+detail = Sélectionnez une unité, cliquez sur le bouton d'ordre Patrouiller et faites un clic droit sur la destination. L'unité patrouille entre sa position précédente et les destinations désignées. ~ Pour fixer un chemin de patrouille précis, maintenez Maj en plaçant les points de destination.
+
+[C_GUARD]
+rollover = Apprendre à garder un objet
+brief = Garder
+detail = Sélectionnez une unité, cliquez sur le bouton d'ordre Garder et choisissez l'objet à garder. ~ Vous pouvez choisir plusieurs objets à garder en maintenant Maj pendant que vous faites un clic droit sur chacun d'eux. ~ Si vous maintenez Alt en choisissant un objet à garder, tous les objets du même type seront choisis et gardés.
+
+[C_LOAD]
+rollover = Apprendre à charger des unités
+brief = Charger
+detail = Sélectionnez les unités à charger et faites un clic droit sur l'unité qui doit les embarquer.
+
+[C_UNLOAD]
+rollover = Apprendre à décharger des unités
+brief = Décharger
+detail = Sélectionnez une unité chargée et désignez l'endroit où vous voulez débarquer les objets. La couleur du curseur indique si l'endroit convient.
+
+[C_EMERGE]
+rollover = En savoir plus sur le bâtiment - Château
+brief = Faire sortir
+detail = Sélectionnez un bâtiment qui abrite des unités. Ouvrez son contenu et choisissez une unité à faire sortir. Pour faire sortir toutes les unités, sélectionnez le bâtiment puis cliquez sur le bouton d'ordre Faire sortir.
+
+[C_LIGHTNING]
+rollover = Apprendre à utiliser le sort Foudre
+brief = Sort Foudre
+detail = Seuls les magiciens européens peuvent lancer le sort Foudre. Choisissez le bouton d'ordre Foudre puis désignez l'unité que vous voulez attaquer.
+
+[C_SPAWNBAT]
+rollover = Apprendre à invoquer des chauves-souris
+brief = Invoquer une chauve-souris
+detail = Seuls les magiciens européens peuvent invoquer des chauves-souris. Choisissez le bouton d'ordre Chauve-souris puis désignez l'endroit où elles doivent apparaître.
+
+[C_FREEZE]
+rollover = Apprendre à utiliser le sort Geler
+brief = Sort Geler
+detail = Seuls les magiciens européens peuvent lancer le sort Geler. Choisissez le bouton d'ordre Geler puis désignez l'unité que vous voulez attaquer.
+
+[C_SPAWNSTONEGOLEM]
+rollover = Apprendre à invoquer un golem de pierre
+brief = Invoquer des golems de pierre
+detail = Seuls les magiciens européens peuvent invoquer des golems de pierre. Choisissez le bouton d'ordre Golem de pierre puis désignez l'endroit où ils doivent apparaître.
+
+[C_INVISIBILITY]
+rollover = Apprendre à utiliser le sort Invisibilité
+brief = Invisibilité
+detail = Seuls les magiciens européens peuvent utiliser le sort Invisibilité. Choisissez le bouton d'ordre Invisibilité puis désignez l'unité que vous voulez rendre invisible.
+
+[C_TRADE]
+rollover = Apprendre à commercer
+brief = Commerce
+detail = Le commerce permet d'échanger nourriture, bois, or, fer et pierre avec d'autres royaumes, ou entre vos propres marchés. Les marchands ou les navires font le commerce. Sélectionnez un marchand ou un navire. Cliquez sur le bouton d'ordre Commercer de la barre des ordres. Cliquez sur l'indication de lieu du menu Commerce : le curseur change. Choisissez le marché ou le port de départ. Choisissez le type de ressources à y emporter. Choisissez la destination et le type de ressources à rapporter. Choisissez la quantité à échanger. Cliquez sur Commencer pour lancer le commerce, et sur Annuler pour y renoncer.
+
+[C_HEAL]
+rollover = Apprendre à utiliser la commande Soigner
+brief = Soigner des unités
+detail = Choisissez le bouton d'ordre Soigner puis désignez les unités à soigner. La commande Soigner rétablit la santé de l'unité.
+
+[C_BLESS]
+rollover = Apprendre à utiliser la commande Bénir
+brief = Bénir des unités
+detail = Choisissez le bouton d'ordre Bénir puis désignez les unités à bénir. Cette commande augmente l'attaque des unités.
+
+[C_IMPERSONATE]
+rollover = Apprendre à utiliser la commande Se déguiser
+brief = Se déguiser
+detail = Sélectionnez un espion et cliquez sur le bouton d'ordre Se déguiser, puis choisissez l'unité à imiter.
+
+[C_REVEAL]
+rollover = Apprendre à utiliser la commande Se révéler
+brief = Se révéler
+detail = Sélectionnez une unité déguisée et cliquez sur le bouton d'ordre Se révéler.
+
+[C_BRIBE]
+rollover = Apprendre à soudoyer des unités
+brief = Soudoyer
+detail = Sélectionnez un paysan. Cliquez sur le bouton d'ordre Soudoyer puis désignez l'unité ennemie à soudoyer. Cette unité devient ainsi la vôtre.
+
+[C_ATTACKGROUND]
+rollover = Apprendre à utiliser la commande Attaquer le sol
+brief = Attaquer le sol
+detail = Sélectionnez une unité, cliquez sur le bouton d'ordre Attaquer le sol et désignez l'endroit à attaquer. L'unité attaquera cet endroit même s'il n'y a aucun objet, jusqu'à ce que vous l'arrêtiez.
+
+[C_STANDGROUND]
+rollover = Apprendre à utiliser la commande Ne pas bouger
+brief = Ne pas bouger
+detail = Sélectionnez une unité, cliquez sur le bouton d'ordre Ne pas bouger et désignez l'endroit où placer l'unité. Elle y restera jusqu'à ce que vous en décidiez autrement.
+
+[C_HOLDSTEADY]
+rollover = Apprendre à utiliser la commande Tenir la position
+brief = Tenir la position
+detail = Sélectionnez une unité, puis cliquez sur le bouton d'ordre Ne pas bouger : ses activités s'arrêtent aussitôt.
+
+[C_FISHING]
+rollover = Apprendre à utiliser la commande Commencer à pêcher
+brief = Commencer à pêcher
+detail = Sélectionnez un bateau de pêche, cliquez sur le bouton d'ordre Commencer à pêcher et choisissez un banc de poissons.
+
+[C_LOANRETURN]
+rollover = Apprendre à rembourser un prêt
+brief = Rembourser un prêt
+detail = Pour rembourser un prêt, cliquez sur le bouton Rembourser le prêt dans la barre des ordres de la taverne.
+
+[C_LOAN]
+rollover = Apprendre à obtenir des prêts
+brief = Obtenir des prêts
+detail = Sélectionnez une taverne, puis cliquez sur le bouton d'ordre Obtenir un prêt. Choisissez le type de ressource à emprunter : or, pierre, nourriture ou bois. ~ La quantité que vous pouvez recevoir de la ressource choisie s'affiche dans le coin inférieur gauche de la vue.
+
+[C_JIHAD]
+rollover = Apprendre à utiliser la commande Djihad
+brief = Djihad
+detail = Elle sert à transformer les paysans en guerriers du djihad. Sélectionnez un paysan, puis cliquez sur le bouton d'ordre Djihad.
+
+[C_CLOAK]
+rollover = Apprendre à dissimuler les ninjas
+brief = Se dissimuler
+detail = Sélectionnez le ninja, puis cliquez sur le bouton d'ordre Se dissimuler. L'unité sera invisible pendant un certain temps.
+
+[C_UNCLOAK]
+rollover = Apprendre à faire réapparaître les ninjas
+brief = Se montrer
+detail = Sélectionnez un ninja dissimulé, puis cliquez sur le bouton d'ordre Se montrer pour le faire réapparaître.
+
+[C_MURDER]
+rollover = Apprendre à assassiner une unité ennemie
+brief = Assassiner
+detail = Sélectionnez un ninja, puis cliquez sur le bouton d'ordre Assassiner et choisissez l'unité à assassiner.
+
+[C_GATEOPEN]
+rollover = Apprendre à ouvrir une porte
+brief = Ouvrir la porte
+detail = Sélectionnez la porte et cliquez sur le bouton d'ordre Ouvrir la porte.
+
+[C_GATECLOSE]
+rollover = Apprendre à fermer une porte
+brief = Fermer la porte
+detail = Sélectionnez la porte et cliquez sur le bouton d'ordre Fermer la porte.
+
+[C_GATESUBAION]
+rollover = Apprendre à activer l'ouverture et la fermeture automatiques de la porte
+brief = IA de la porte activée
+detail = Sélectionnez la porte et cliquez sur le bouton d'ordre IA de la porte activée. L'IA ouvre et ferme automatiquement la porte quand des unités se présentent devant.
+
+[C_GATESUBAIOFF]
+rollover = Apprendre à désactiver l'ouverture et la fermeture automatiques de la porte
+brief = IA de la porte désactivée
+detail = Sélectionnez la porte et cliquez sur le bouton d'ordre IA de la porte désactivée pour couper l'aide de l'IA.
+
+[C_COMMON]
+rollover = Apprendre à construire les bâtiments communs
+brief = Bâtiments communs
+detail = Sélectionnez un paysan, cliquez sur le bouton d'ordre Construire puis sur le bouton Bâtiments communs.
+
+[C_RARE]
+rollover = Apprendre à construire les bâtiments rares
+brief = Bâtiments rares
+detail = Sélectionnez un paysan, cliquez sur le bouton d'ordre Construire puis sur le bouton Bâtiments rares.
+
+[C_SPECIAL]
+rollover = Apprendre à construire les bâtiments spéciaux
+brief = Bâtiments spéciaux
+detail = Sélectionnez un paysan, cliquez sur le bouton d'ordre Construire puis sur le bouton Bâtiments spéciaux.
+
+[C_SETAI]
+rollover = Apprendre à confier vos unités à l'IA
+brief = IA
+detail = Ne sélectionnez aucune unité. Cliquez sur le bouton d'ordre IA. Quatre types d'aide de l'IA apparaissent : IA complète, aucune IA, IA de guerre, IA d'économie. Choisissez celle que vous voulez.
+
+[C_SETAINONE]
+rollover = Apprendre à retirer vos unités à l'IA
+brief = Aucune IA
+detail = Cliquez sur le bouton d'ordre Aucune IA.
+
+[C_SETAIFULL]
+rollover = Apprendre à confier entièrement vos unités à l'IA
+brief = IA complète
+detail = Cliquez sur le bouton d'ordre IA complète.
+
+[C_SETAIWAR]
+rollover = Apprendre à confier vos unités à l'IA de guerre
+brief = IA de guerre
+detail = Cliquez sur le bouton d'ordre IA de guerre.
+
+[C_SETAIECO]
+rollover = Apprendre à confier vos unités à l'IA d'économie
+brief = IA d'économie
+detail = Cliquez sur le bouton d'ordre IA d'économie.
+
+[C_VIEWHEROES]
+rollover = Apprendre à voir les héros sur la carte
+brief = Voir les héros
+detail = Le bouton d'ordre Voir les héros n'est disponible que si certains de vos héros sont sur la carte. Ne sélectionnez aucune unité. Cliquez sur le bouton Voir les héros s'il est allumé : les icônes de tous vos héros apparaissent. Vous pouvez alors choisir celui à sélectionner.
+
+[C_VIEWSPYS]
+rollover = Apprendre à voir les espions sur la carte
+brief = Voir les espions
+detail = Le bouton d'ordre Voir les espions n'est disponible que si certains de vos espions sont sur la carte. Ne sélectionnez aucune unité. Cliquez sur le bouton Voir les espions s'il est allumé : les icônes de tous vos espions apparaissent. Vous pouvez alors choisir celui à sélectionner.
+
+[C_VIEWITEMS]
+rollover = Apprendre à voir les objets sur la carte
+brief = Voir les objets
+detail = Le bouton d'ordre Voir les objets n'est disponible que si certains de vos objets sont sur la carte. Ne sélectionnez aucune unité. Cliquez sur le bouton Voir les objets s'il est allumé : les icônes de tous vos objets apparaissent. Vous pouvez alors choisir celui à sélectionner.
+
+[C_TOWERUP1]
+rollover = Apprendre à améliorer une tour de guet en tour de garde
+brief = Améliorer en tour de garde
+detail = Sélectionnez une tour de guet puis cliquez sur le bouton d'ordre Améliorer en tour de garde.
+
+[C_TOWERUP2]
+rollover = Apprendre à améliorer une tour de garde en tour de pierre
+brief = Améliorer en tour de pierre
+detail = Sélectionnez une tour de garde puis cliquez sur le bouton d'ordre Améliorer en tour de pierre.
+
+[C_TOWERUP3]
+rollover = Apprendre à améliorer une tour de garde ou de pierre en tour à canon
+brief = Améliorer en tour à canon
+detail = Sélectionnez une tour de garde ou une tour de pierre puis cliquez sur le bouton d'ordre Améliorer en tour à canon.
+
+[C_TOSWALL]
+rollover = Apprendre à améliorer une palissade en mur de pierre
+brief = Améliorer en mur de pierre
+detail = Sélectionnez une palissade, puis cliquez sur le bouton d'ordre Améliorer en mur de pierre. ~ Cette commande n'est disponible que si la technologie Architecture a été recherchée.
+
+[C_TOSGATE]
+rollover = Apprendre à améliorer une porte de bois en porte de pierre
+brief = Améliorer en porte de pierre
+detail = Sélectionnez une porte de bois, puis cliquez sur le bouton d'ordre Améliorer en porte de pierre. ~ Cette commande n'est disponible que si la technologie Architecture a été recherchée.
+
+[C_RISEDEAD]
+rollover = Apprendre à utiliser le sort Relever les morts
+brief = Sort Relever les morts
+detail = Sélectionnez un magicien arabe, puis cliquez sur le bouton d'ordre Relever les morts. S'il y a des unités mortes alentour, elles deviennent des squelettes.
+
+[C_SPAWNDRAGON]
+rollover = Apprendre à invoquer des dragons
+brief = Invoquer des dragons
+detail = Seuls les magiciens asiatiques peuvent invoquer des dragons. Choisissez le bouton d'ordre Invoquer un dragon puis désignez l'endroit où les dragons doivent apparaître.
+
+[C_FLAMEBOLT]
+rollover = Apprendre à utiliser le sort Trait de feu
+brief = Sort Trait de feu
+detail = Seuls les magiciens asiatiques peuvent utiliser le sort Trait de feu. Cliquez sur le bouton d'ordre Trait de feu et choisissez l'unité à attaquer.
+
+[C_WHIRLPOOL]
+rollover = Apprendre à utiliser le sort Tourbillon
+brief = Sort Tourbillon
+detail = Seuls les magiciens asiatiques peuvent utiliser le sort Tourbillon. Cliquez sur le bouton d'ordre Tourbillon et choisissez un endroit sur l'eau où lancer le sort.
+
+[C_TURNTOSTONE]
+rollover = Apprendre à utiliser le sort Pétrifier
+brief = Sort Pétrifier
+detail = Seuls les magiciens asiatiques peuvent utiliser le sort Pétrifier. Cliquez sur le bouton d'ordre Pétrifier et choisissez l'unité visée.
+
+[C_FIRERAIN]
+rollover = Apprendre à utiliser le sort Pluie de feu
+brief = Sort Pluie de feu
+detail = Seuls les magiciens arabes peuvent utiliser le sort Pluie de feu. Cliquez sur le bouton d'ordre Pluie de feu et choisissez un endroit où lancer le sort.
+
+[C_SPAWNJINN]
+rollover = Apprendre à invoquer des djinns
+brief = Invoquer des djinns
+detail = Seuls les magiciens arabes peuvent invoquer des djinns. Cliquez sur le bouton d'ordre Djinn puis désignez l'endroit où les djinns doivent apparaître.
+
+[C_MAGICVISION]
+rollover = Apprendre à utiliser le sort Vision magique
+brief = Sort Vision magique
+detail = Seuls les magiciens arabes peuvent utiliser le sort Vision magique. Cliquez sur le bouton d'ordre Vision magique et choisissez un endroit ou une unité visée. Si vous choisissez une unité, elle dissipera pour vous le brouillard pendant un certain temps.
+
+[C_CONFUSION]
+rollover = Apprendre à utiliser le sort Confusion
+brief = Sort Confusion
+detail = Seuls les magiciens asiatiques peuvent utiliser le sort Confusion. Cliquez sur le bouton d'ordre Confusion et choisissez l'unité visée. ~ Les unités touchées par ce sort deviennent hostiles à toutes les autres unités pendant un certain temps.
+
+[C_BUILDITEM]
+rollover = Apprendre à fabriquer un objet
+brief = Fabriquer un objet
+detail = L'atelier de magie est l'endroit où l'on fabrique les objets. Cliquez sur le bouton d'ordre Fabriquer un objet magique. Le menu de fabrication apparaît. Choisissez le type d'objet à fabriquer. Choisissez la quantité d'or que vous êtes prêt à dépenser. Cliquez sur Commencer pour fabriquer l'objet, et sur Annuler pour y renoncer.
+
+[C_CONVERT]
+rollover = Apprendre à convertir des ressources dans les tavernes
+brief = Convertir des ressources
+detail = Sélectionnez une taverne. Cliquez sur l'ordre Commercer de la barre des ordres. Choisissez le type de ressources à céder. Choisissez la quantité que vous êtes prêt à donner. Choisissez le type de ressources à recevoir. La proportion est de 1/10 : vous donnez dix fois plus que vous ne recevez. Cliquez sur Commencer pour lancer l'échange, et sur Annuler pour y renoncer.
+
+[C_PREACHCRUSADE]
+rollover = Apprendre à prêcher une croisade
+brief = Prêcher une croisade
+detail = On ne peut lancer une croisade que dans une cathédrale européenne. Choisissez le bouton d'ordre Prêcher une croisade puis désignez le point de rassemblement voulu. Ce lieu ne doit pas être loin de la cathédrale. On ne peut avoir qu'une croisade à la fois.
+
+[C_SHIPLEVEL2]
+rollover = Apprendre à améliorer les canons des navires
+brief = Améliorer les canons des navires
+detail = Sélectionnez le galion, puis cliquez sur le bouton d'ordre Améliorer les canons. Les canons peuvent être améliorés jusqu'au niveau six.
+
+[C_HOLDFIRE]
+rollover = Apprendre à cesser le feu
+brief = Cesser le feu
+detail = Sélectionnez le canon ou la tour à fusées et cliquez sur le bouton d'ordre Cesser le feu. La tour arrête de tirer. Le bouton d'ordre Tir à volonté apparaît.
+
+[C_FIREATWILL]
+rollover = Apprendre à tirer à volonté
+brief = Tir à volonté
+detail = Sélectionnez le canon ou la tour à fusées et cliquez sur le bouton d'ordre Tir à volonté. La tour ne tirera que sur votre ordre. Le bouton d'ordre Cesser le feu apparaît.
+
+[C_HIREMERCENARIES]
+rollover = Apprendre à engager des mercenaires
+brief = Engager des mercenaires
+detail = On ne peut engager des mercenaires que dans les tavernes. Cliquez sur le bouton d'ordre Engager des mercenaires : une liste d'unités militaires apparaît. Choisissez celles que vous voulez.
+
+[C_HIREHEROES]
+rollover = Apprendre à engager des héros
+brief = Engager des héros
+detail = On ne peut engager des héros que dans les tavernes. Cliquez sur le bouton d'ordre Engager des héros : une liste d'unités militaires apparaît. Choisissez celles que vous voulez.
+
+[C_BUYITEMS]
+rollover = Apprendre à acheter des objets
+brief = Acheter des objets
+detail = Seuls les marchés asiatiques peuvent commercer des objets. Cliquez sur le bouton d'ordre Acheter des objets : une liste d'objets apparaît. Le prix de l'objet s'affiche dans la ligne de texte en dessous. Choisissez l'objet que vous voulez acheter.
+
+[C_SELLITEMS]
+rollover = En savoir plus sur le bâtiment - Château
+brief = Se déplacer
+detail = Seuls les marchés asiatiques peuvent commercer des objets. Cliquez sur le bouton d'ordre Vendre des objets : la liste des objets que possèdent vos unités apparaît. La somme que vous obtiendrez en vendant un objet s'affiche dans la ligne de texte en dessous. Choisissez celui que vous voulez vendre.
+
+[C_GAMBLE]
+rollover = Apprendre à parier
+brief = Jeux de hasard
+detail = On parie dans les tavernes. Sélectionnez une taverne et cliquez sur le bouton Parier de la barre des ordres. Choisissez le type et la quantité de ressource à miser. Choisissez la proportion. Cliquez sur Parier pour commencer, et sur Annuler pour y renoncer.
+
+[C_VIEWQUEST]
+rollover = Apprendre à voir la quête
+brief = Voir la quête
+detail = Le bouton d'ordre Voir la quête n'est disponible que si vous jouez une partie à quête. Ne sélectionnez aucune unité. Cliquez sur le bouton Voir la quête s'il est allumé : la quête s'affiche.
+
+[HT_COLLECTRES]
+rollover = En savoir plus sur la récolte des ressources
+brief = Comment récolter des ressources
+detail = Les ressources servent à produire paysans, unités militaires, armes de siège et navires. Elles servent à entraîner et améliorer les unités, à élever des bâtiments et des défenses, et à forger de nouvelles technologies. Les paysans augmentent vos ressources en coupant du bois, en extrayant or et pierre, en pêchant et en gardant le bétail. Certaines technologies augmentent la productivité des paysans qui récoltent. Le commerce est un autre moyen d'enrichir un royaume.
+
+[HT_PRODUCE_ARMY]
+rollover = Apprendre à lever une armée
+brief = Comment lever une armée
+detail = Chaque joueur doit lever une armée pour avoir un royaume puissant et pouvoir combattre ses ennemis. Le principal bâtiment où l'on crée les unités militaires est la caserne. Beaucoup d'unités ne demandent aucune technologie particulière pour être produites. Plus l'armée est grande, plus elle est puissante. On peut équilibrer les avantages des différents types d'unités (infanterie, cavalerie, armes de siège) pour rendre les troupes plus fortes. Certaines créatures qu'on peut appeler dans les portails magiques sont d'une grande aide pour toutes les armées. Pour pouvoir les appeler, le joueur doit d'abord capturer l'atelier de magie.
+
+[HT_TRAIN_UNITS]
+rollover = Apprendre à entraîner les unités
+brief = Comment entraîner les unités
+detail = Chaque unité a ses propres valeurs d'attaque, de défense et de santé. Les unités gagnent de l'expérience au combat. Par exemple, un vétéran peut battre plusieurs « bleus » de la même sorte. On peut entraîner les unités militaires en construisant des mannequins, une fois la technologie Tactique recherchée. Leur expérience augmente ainsi.
+
+[HT_HEAL_UNITS]
+rollover = Apprendre à soigner les unités
+brief = Comment soigner les unités
+detail = Les prêtres peuvent soigner les unités pour qu'elles retrouvent la santé perdue au combat. Il faut la technologie Guérison. Quand un prêtre soigne les troupes pendant qu'elles attaquent, elles peuvent atteindre des niveaux plus élevés en gagnant plus d'expérience. On peut aussi soigner les unités en les faisant entrer dans un avant-poste.
+
+[HT_GARRISON_UNITS]
+rollover = Apprendre à mettre des unités en garnison et à les en sortir
+brief = Comment mettre des unités en garnison et les en sortir
+detail = Vous pouvez faire entrer vos unités dans le château ou l'avant-poste. Elles y sont soignées. La commande Faire sortir les en fait sortir.
+
+[HT_USE_SHIPS]
+rollover = Apprendre à transporter des unités par bateau
+brief = Comment transporter des unités par bateau
+detail = Les navires peuvent transporter des unités sur l'eau. Ils accueillent le nombre d'unités suivant : 8 sur le chébec, 16 sur la hourque et 24 sur le galion. La technologie Tactique de débarquement, recherchée au port, permet aux navires de transporter 50 % d'unités de plus.
+
+[HT_USE_MAGIC_CARPETS]
+rollover = Apprendre à transporter des unités en tapis volant
+brief = Comment transporter des unités en tapis volant
+detail = Les tapis volants sont invoqués par les magiciens arabes. Ils peuvent transporter des unités au-dessus de l'eau comme de la terre. Chaque tapis volant peut porter jusqu'à 8 unités. Les tapis volants sont aussi utiles pour explorer la carte.
+
+[HT_UPGRADE_TOWERS]
+rollover = Apprendre à améliorer les tours
+brief = Comment améliorer les tours
+detail = Il existe plusieurs types de tours dans Tzar. Mais seules les tours de guet peuvent être construites. Toutes les autres, sauf la tour à fusées, s'obtiennent en améliorant les tours de guet. Il faut les technologies Architecture et Tours à canon pour améliorer les tours de guet. Le bouton d'ordre de l'amélioration suivante apparaît après chaque amélioration.
+
+[HT_CREATE_ITEMS]
+rollover = En savoir plus sur la fabrication des objets
+brief = Comment fabriquer des objets
+detail = Les objets ne peuvent être fabriqués que dans l'atelier de magie arabe, une fois la technologie Sorcellerie recherchée. Sélectionnez un atelier de magie et cliquez sur le bouton d'ordre Fabriquer un objet magique. Le menu de fabrication apparaît. Choisissez le type d'objet à fabriquer. Choisissez la quantité d'or que vous voulez dépenser. Choisissez Commencer pour fabriquer l'objet, et Annuler pour y renoncer.
+
+[HT_USE_ITEMS]
+rollover = En savoir plus sur l'utilisation des objets
+brief = Comment utiliser les objets
+detail = On ramasse les objets avec l'ordre Ramasser, ou simplement d'un clic droit dessus. On utilise les objets de l'inventaire d'une unité en les sélectionnant puis en faisant un clic gauche sur l'endroit voulu. On lâche les objets en maintenant Alt pendant qu'on les sélectionne dans l'inventaire, puis en désignant l'endroit où les poser.
+
+[HT_BUY_ITEMS]
+rollover = En savoir plus sur l'achat d'objets
+brief = Comment acheter des objets
+detail = On ne peut acheter et vendre des objets qu'au marché asiatique, une fois la technologie Joaillerie recherchée. Sélectionnez un marché et cliquez sur le bouton d'ordre Acheter un objet. L'objet apparaît au sol, près du marché. Pour vendre un objet, sélectionnez un marché. Tous les objets que possèdent vos unités apparaissent dans son inventaire. Placez le curseur sur l'objet que vous voulez vendre. La quantité d'or que vous recevrez s'affiche dans la ligne d'aide. Choisissez l'objet à vendre. L'or est ajouté à votre trésor.
+
+[HT_VIEW_QUESTS]
+rollover = Apprendre à voir les quêtes en cours
+brief = Comment voir les quêtes en cours
+detail = Les quêtes apparaissent dans les campagnes. Elles donnent au joueur les consignes à suivre pour accomplir une mission. Toutes les quêtes disponibles peuvent être consultées en cliquant sur le bouton Voir les quêtes en cours de la barre des ordres.
+
+[HT_BUILD]
+rollover = En savoir plus sur la construction des bâtiments
+brief = Comment construire des bâtiments
+detail = Seul le paysan peut construire des bâtiments. Sélectionnez un paysan et cliquez sur le bouton Construire de la barre des ordres, ou appuyez sur « B ». Choisissez dans la barre des ordres le type de bâtiment à construire. Désignez son emplacement sur la carte. Si le bâtiment peut être élevé à l'endroit choisi, l'image est verte. Certains bâtiments exigent la recherche de certaines technologies pour être élevés.
+
+[HT_CAPTURE_BUILDINGS]
+rollover = En savoir plus sur la capture des bâtiments
+brief = Comment capturer des bâtiments
+detail = Seuls les paysans peuvent capturer des bâtiments. Le joueur peut donner l'ordre « Capturer » depuis la barre des ordres, ou faire simplement un clic droit sur un bâtiment ennemi. Plus un bâtiment est proche du château, plus il est difficile à capturer.
+
+[HT_COMMANDS]
+rollover = Apprendre à commander les unités
+brief = Qu'est-ce qu'une commande
+detail = Les commandes se donnent avec les boutons de la barre des ordres, ou par une combinaison de clics droit et gauche pour les plus courantes. Beaucoup de commandes peuvent se donner au clavier avec les raccourcis.
+
+[HT_TRADE_SHIPS]
+rollover = Apprendre à commercer par bateau
+brief = Comment commercer par bateau
+detail = Pour commercer, vous devez rechercher la technologie Routes commerciales et avoir au moins deux ports et un navire. Exemple : un navire prend du bois au port A et le décharge au port B. Au port B, il charge de la pierre qu'il décharge ensuite au port A. Le profit dépend de la distance entre les deux ports et de la quantité de ressources. Plus la distance est grande, plus le profit est élevé. Vous pouvez choisir le type de profit : or, pierre, bois ou nourriture.
+
+[HT_TRADE_CARAVANS]
+rollover = Apprendre à commercer par caravane
+brief = Comment commercer par caravane
+detail = Pour commercer, vous devez rechercher la technologie Routes commerciales et avoir au moins deux marchés et une caravane ou un paysan asiatique. Exemple : une caravane ou un paysan prend du bois au marché A et le décharge au marché B. Au marché B, il charge de la pierre qu'il décharge ensuite au marché A. Le profit dépend de la distance entre les deux marchés et de la quantité de ressources. Plus la distance est grande, plus le profit est élevé. Vous pouvez choisir le type de profit : or, pierre, bois ou nourriture.
+
+[HT_BRIBE]
+rollover = Apprendre à soudoyer des unités
+brief = Comment soudoyer des unités
+detail = Les paysans arabes et européens peuvent soudoyer des unités ennemies, mais il faut d'abord rechercher la technologie Corruption dans la Guilde des marchands.
+
+[HT_GAMBLE]
+rollover = Apprendre à parier dans les tavernes
+brief = Comment parier dans les tavernes
+detail = On parie dans les tavernes, mais il faut d'abord rechercher la technologie Jeux de hasard. Sélectionnez une taverne et cliquez sur le bouton Parier de la barre des ordres. Choisissez le type et la quantité de ressource à miser. Choisissez la proportion. Cliquez sur Parier pour commencer, et sur Annuler pour y renoncer.
+
+[HT_REMOVE]
+rollover = Apprendre à supprimer des troupes et des bâtiments
+brief = Comment supprimer des troupes et des bâtiments
+detail = On supprime des unités et des bâtiments en les sélectionnant et en appuyant sur la touche Suppr du clavier. Si on le fait au début de la construction d'un bâtiment, les ressources qu'il a coûté reviennent au trésor. On ne peut pas supprimer ainsi des unités ou des bâtiments ennemis.
+
+[HT_GATHER_FOOD]
+rollover = Apprendre à récolter de la nourriture
+brief = Comment récolter de la nourriture
+detail = On récolte la nourriture en moissonnant les champs, en pêchant et en gardant le bétail. Les paysans cultivent les champs et les moissonnent. Ils portent la nourriture à la ferme ou au château. Si le joueur a recherché la technologie Domestication, il peut produire du bétail et le traire pour se nourrir. Les bateaux de pêche sont produits dans les ports. Ils récoltent la nourriture des bancs de poissons en mer, et elle est stockée dans les ports.
+
+[HT_TEND_COWS]
+rollover = Apprendre à garder le bétail
+brief = Comment garder le bétail
+detail = Si le joueur a recherché la technologie Domestication, il peut produire du bétail et le traire pour se nourrir. Un paysan peut garder plus d'une vache, la traire et porter le lait à la ferme ou au château. Les vaches peuvent être abattues et leur viande ramassée par les paysans ou d'autres unités.
+
+[HT_TEND_FIELDS]
+rollover = Apprendre à moissonner les champs
+brief = Comment moissonner les champs
+detail = Les champs produisent la ressource nourriture et demandent des soins constants. S'ils sont négligés, ils disparaissent. Il est conseillé de les placer près d'une ferme ou du château, pour que les moissonneurs stockent la nourriture plus efficacement. Les technologies Rotation des cultures et Irrigation augmentent la quantité de nourriture portée par les paysans. Un seul paysan peut cultiver chaque champ.
+
+[HT_CHOP_WOOD]
+rollover = Apprendre à couper du bois
+brief = Comment couper du bois
+detail = On obtient le bois en abattant des arbres. Seuls les paysans peuvent couper les arbres. Le bois est stocké à la scierie. Plus la scierie est proche des arbres, plus les bûcherons sont efficaces. La technologie Scie augmente la quantité de bois portée par les paysans.
+
+[HT_MINE]
+rollover = Apprendre à extraire l'or et la pierre
+brief = Comment extraire l'or et la pierre
+detail = L'or et la pierre se trouvent sous forme de rochers sur la carte. Les paysans les extraient. Chaque gisement contient une certaine quantité de ressource. Sélectionnez un gisement pour voir la quantité qu'il contient : elle apparaît sous forme de nombre dans la vue de sélection. L'or et la pierre sont stockés à l'entrepôt ou au château. Les technologies Extraction de l'or et Extraction de la pierre augmentent la quantité portée par les paysans.
+
+[HT_BUILD_WALLS_GATES]
+rollover = Apprendre à construire des murs et des portes
+brief = Comment construire des murs et des portes
+detail = Les paysans construisent les murs et les portes. Choisissez le bouton d'ordre Construire un mur, désignez le point de départ et maintenez le bouton gauche de la souris en tirant jusqu'au point d'arrivée. Le mur apparaît en vert là où il peut être élevé. Les portes peuvent être placées sur des murs déjà élevés ou à tout autre endroit qui convient. En plaçant une porte, vous pouvez changer son orientation en maintenant Alt ou Ctrl. Seuls les murs et les portes de bois peuvent être construits. Si la technologie Architecture a été recherchée, vous pouvez les améliorer en pierre.
+
+[HT_BUILD_BRIDGES]
+rollover = Apprendre à construire des ponts
+brief = Comment construire des ponts
+detail = On peut construire des ponts une fois la technologie Architecture recherchée au château. En plaçant un pont, vous pouvez changer son orientation en maintenant Alt.
+
+[HT_UPGRADE_SHIPS]
+rollover = Apprendre à améliorer les navires
+brief = Comment améliorer les navires
+detail = Les canons des navires peuvent être améliorés pour tirer plus souvent. Vous pouvez améliorer les canons jusqu'au niveau six.
+
+[HT_REQRUIT]
+rollover = Apprendre à recruter des mercenaires et des héros
+brief = Comment recruter des mercenaires et des héros
+detail = Vous pouvez engager des mercenaires et des héros dans les tavernes, mais il faut d'abord rechercher les technologies Mercenaires et Quête des héros dans la Guilde des guerriers. Vous pouvez engager différents types d'unités de toutes les races. Mercenaires et héros se rassemblent peu à peu dans les tavernes.
+
+[WI_RESOURCES]
+rollover = Apprendre ce que sont les ressources
+brief = Que sont les ressources
+detail = Les ressources servent à produire paysans, unités militaires, armes de siège et navires. Elles servent à entraîner et améliorer les unités, à élever des bâtiments et des défenses, et à forger de nouvelles technologies. Les paysans augmentent vos ressources en coupant du bois, en extrayant or et pierre, en pêchant et en gardant le bétail. Certaines technologies augmentent la productivité des paysans qui récoltent. Le commerce est un autre moyen d'enrichir un royaume.
+
+[WI_TRADE]
+rollover = Apprendre ce qu'est le commerce
+brief = Qu'est-ce que le commerce
+detail = Le commerce est un autre moyen de rassembler des ressources. Il permet d'échanger nourriture, bois, or et pierre avec d'autres royaumes, ou entre vos propres marchés. Les marchands ou les navires font le commerce. Pour commercer, il faut rechercher la technologie Routes commerciales dans la Guilde des marchands. Elle permet de créer des marchands dans les marchés et de commercer par bateau. L'unité marchande va et vient entre deux marchés (ou ports) en transportant des marchandises dans les deux sens.
+
+[WI_ITEMS]
+rollover = En savoir plus sur ce qu'est un objet
+brief = Qu'est-ce qu'un objet
+detail = Les objets sont de petites choses présentes sur la carte. Les unités peuvent les ramasser et les utiliser. Les objets sont fabriqués dans certains bâtiments. Seuls les magiciens arabes peuvent fabriquer des objets dans les ateliers de magie, et seulement après avoir découvert la technologie nécessaire : la Sorcellerie. Il existe plusieurs catégories d'objets : armes, armures, livres de sorts, parchemins, potions et ressources. Aucun objet n'est impossible à fabriquer, mais les meilleurs coûtent plus cher et demandent plus de temps. Les marchés asiatiques peuvent commercer des objets une fois la technologie Joaillerie recherchée.
+
+[WI_SPELLS]
+rollover = Apprendre ce que sont les sorts
+brief = Qu'est-ce qu'un sort
+detail = Un sort est un événement magique. Il faut avoir recherché une technologie précise pour lancer un sort. Seuls les magiciens peuvent lancer des sorts. Certains sorts invoquent des unités, d'autres infligent des dégâts ou soignent des unités. Chaque sort demande une certaine quantité de mana. On trouve aussi des sorts dans les livres de sorts. Toute unité peut lancer un sort d'un livre de sorts tant qu'elle le possède.
+
+[WI_BUILDING]
+rollover = Apprendre ce qu'est un bâtiment
+brief = Qu'est-ce qu'un bâtiment
+detail = Les bâtiments sont les lieux où l'on crée des unités et où l'on recherche des technologies. Ils sont propres à chaque race. Chaque race a trois groupes de bâtiments : guildes, communs et rares.
+
+[WI_RACE]
+rollover = Apprendre ce qu'est une race
+brief = Qu'est-ce qu'une race
+detail = Il y a trois races dans Tzar : européenne, arabe et asiatique. Chacune a ses propres bâtiments, unités et technologies. Elles sont soigneusement équilibrées, pour que chaque race tire pleinement parti de ses traits distinctifs et de sa maîtrise technologique.
+
+[WI_TECHNOLOGY]
+rollover = Apprendre ce qu'est la technologie
+brief = Qu'est-ce que la technologie
+detail = En élevant différents édifices, le joueur obtient plusieurs voies de développement parmi lesquelles choisir. Les différentes technologies forment une structure complexe appelée l'arbre technologique.
+
+[WI_UNIT]
+rollover = Apprendre ce qu'est une unité
+brief = Qu'est-ce qu'une unité
+detail = L'unité est le principal instrument du jeu. La plupart des unités peuvent être produites dans les bâtiments. Pour produire une unité, il faut disposer des ressources et des technologies voulues. Chaque unité demande des ressources différentes. Certaines unités doivent être invoquées par les magiciens. D'autres peuvent être appelées dans les portails magiques.
+
+[WI_COMMANDS]
+rollover = Apprendre ce qu'est une commande
+brief = Qu'est-ce qu'une commande
+detail = Les commandes sont le moyen de diriger les unités. Quand une unité est sélectionnée, on peut lui ordonner différentes actions. Les commandes disponibles apparaissent comme boutons d'ordre dans l'interface. Tous les ordres ne sont pas possibles pour toutes les unités : ils dépendent du type d'unité et du niveau des technologies recherchées.
+
+[WI_POP_LIMIT]
+rollover = Apprendre ce qu'est la limite de population
+brief = Qu'est-ce que la limite de population
+detail = La limite de population est le nombre maximal d'unités qu'un joueur peut avoir dans une partie. Elle est fixée dans les réglages de la partie. On ne peut pas créer plus d'unités que la limite ne le permet. Les maisons sont essentielles pour le nombre d'unités qu'un joueur peut produire à un moment donné. Chaque maison augmente de 10 le nombre d'unités possibles. Mais ce nombre ne peut pas dépasser la limite de population fixée pour la partie.
+
+[WI_STRATEGIES]
+rollover = Apprendre quelles stratégies existent dans Tzar
+brief = Quelle stratégie suivre
+detail = Une fois son royaume développé, le joueur peut choisir entre quatre stratégies : la Voie de la Gloire, la Voie de la Religion, la Voie de la Magie et la Voie du Commerce et de l'Artisanat. Chaque stratégie est représentée par un bâtiment : la Guilde des guerriers, le temple Cathédrale/Mosquée/Shao Linn, la Tour des mages et la Guilde des marchands. La voie choisie détermine les technologies permettant d'inventer des unités et des bâtiments uniques.
+
+[WI_SIEGE_WEAPON]
+rollover = Apprendre ce que sont les armes de siège
+brief = Qu'est-ce qu'une arme de siège
+detail = Catapultes, catapultes lourdes et balistes sont des armes de siège. On les produit dans les ateliers. Elles ne coûtent que du bois, mais la catapulte lourde exige d'abord la technologie Tactique de siège. Les armes de siège sont redoutables contre les royaumes ennemis fortifiés. Elles blessent toutes les unités, pas seulement les ennemies. Les paysans peuvent réparer les armes endommagées si vous avez assez de bois. Sélectionnez un paysan, cliquez sur le bouton Réparer de la barre des ordres puis désignez l'arme de siège endommagée, ou faites simplement un clic droit sur celle à réparer.
+
+[WI_HOTKEYS]
+rollover = Apprendre ce que sont les raccourcis clavier
+brief = Que sont les raccourcis clavier
+detail = Les raccourcis clavier sont la façon la plus rapide de jouer à Tzar. Vous pouvez accomplir de nombreuses actions sans passer par l'interface, en appuyant simplement sur certaines touches du clavier.
+
+[WI_HERO]
+rollover = Apprendre ce qu'est un héros
+brief = Qu'est-ce qu'un héros
+detail = Un héros est une unité puissante à la santé, à l'attaque ou à la défense extraordinaires, avec un certain niveau d'expérience. Toute unité peut devenir un héros et recevoir le nom que vous voulez dès qu'elle atteint le niveau d'expérience 12.
+
+[WI_QUEST]
+rollover = Apprendre ce qu'est une quête
+brief = Qu'est-ce qu'une quête
+detail = Une quête est un objectif de mission que le joueur doit remplir pour continuer la partie.
+
+[WI_RESISTANCE]
+rollover = Apprendre ce qu'est la résistance
+brief = Qu'est-ce que la résistance
+detail = La résistance réduit les dégâts que subit un bâtiment attaqué. Plus un bâtiment est proche du château, plus sa résistance est grande. Certains bâtiments émettent de la résistance : positive pour ceux du même royaume, négative pour les bâtiments ennemis.
+
+[WI_TECHTREE]
+rollover = Apprendre ce qu'est l'arbre technologique
+brief = Qu'est-ce que l'arbre technologique
+detail = Les différentes technologies forment une structure complexe appelée l'arbre technologique. Il montre les voies technologiques que vous pouvez suivre dans Tzar et l'ordre dans lequel rechercher les technologies pour rendre disponibles les suivantes.
+
+[WI_GUILD]
+rollover = Apprendre ce qu'est une guilde
+brief = Qu'est-ce qu'une guilde
+detail = Chaque stratégie du jeu (la Voie de la Gloire, la Voie de la Religion, la Voie de la Magie et la Voie du Commerce et de l'Artisanat) est représentée par un bâtiment : la Guilde des guerriers, le temple Cathédrale/Mosquée/Shao Linn, la Tour des mages et la Guilde des marchands.
+
+[WI_TRANSPORT]
+rollover = Apprendre comment se fait le transport
+brief = Quels sont les moyens de transport
+detail = Il y a plusieurs moyens de transporter unités et marchandises. Les navires, les tapis volants et les marchands peuvent embarquer des unités. Seuls les navires et les tapis volants peuvent transporter des unités sur l'eau.
+
+[WI_DIPLOMACY]
+rollover = Apprendre ce qu'est la diplomatie
+brief = Qu'est-ce que la diplomatie
+detail = Chaque joueur peut choisir sa position diplomatique envers les autres joueurs. Les trois positions sont Allié, Ennemi et Neutre. Allié : les unités militaires n'attaquent pas les bâtiments et les unités de l'autre joueur. Ennemi : les unités militaires attaquent tous les bâtiments et toutes les unités qu'elles voient. Neutre : les unités militaires n'attaquent que les unités militaires qu'elles voient. Deux joueurs peuvent avoir des positions différentes l'un envers l'autre.
+
+[WI_ALLIED_VICTORY]
+rollover = Apprendre ce qu'est la victoire partagée
+brief = Qu'est-ce que la victoire partagée
+detail = Avec la victoire partagée, les joueurs peuvent choisir de gagner (ou de perdre) en équipe. Le joueur qui remplit la ou les conditions de victoire fait gagner la partie à tous ses alliés.
+
+[WI_UNIT_STATISTICS]
+rollover = Apprendre ce que sont les statistiques des unités
+brief = Que sont les statistiques des unités
+detail = Les statistiques des unités donnent de précieuses informations sur les caractéristiques des unités ou des bâtiments. L'image d'un objet sélectionné et ses statistiques apparaissent dans la vue de sélection. Nom, royaume, santé (les dégâts qu'une unité peut subir), attaque (les dégâts qu'une unité peut infliger), mana (la capacité magique actuelle d'une unité), puissance (la capacité actuelle d'une unité à accomplir des actions spéciales), portée (la distance à laquelle une unité inflige des dégâts), résistance (réduit les dégâts que subit un bâtiment attaqué), contenu (le nombre d'objets portés par l'unité), défense (réduit les dégâts que subit une unité attaquée), temps (le délai pour achever une tâche) et niveau (mesure l'expérience de l'unité). Quand plusieurs unités sont sélectionnées, seule leur SANTÉ est affichée.
+
+[WI_MANNA]
+rollover = Apprendre ce qu'est le mana
+brief = Qu'est-ce que le mana
+detail = Le mana est la capacité magique actuelle d'une unité. Les magiciens ont besoin de mana pour invoquer des créatures magiques, puis d'un certain temps pour le reconstituer.

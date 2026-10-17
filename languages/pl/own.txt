@@ -1,0 +1,1054 @@
+# I testi propri di ReTzar in polacco: l'italiano, come scritto nel codice, e la traduzione di questa versione.
+
+it: Gioco
+pl: Gra
+
+it: Schermo
+pl: Ekran
+
+it: Grafica
+pl: Grafika
+
+it: Tasti
+pl: Klawisze
+
+it: PARTITA
+pl: ROZGRYWKA
+
+it: MAPPA
+pl: MAPA
+
+it: GIOCATORE
+pl: GRACZ
+
+it: FINESTRA
+pl: OKNO
+
+it: INTERFACCIA
+pl: INTERFEJS
+
+it: IMMAGINE
+pl: OBRAZ
+
+it: VISUALE
+pl: WIDOK
+
+it: EVENTI E MAPPA
+pl: ZDARZENIA I MAPA
+
+it: FINESTRE
+pl: OKNA
+
+it: Effetti sonori
+pl: Efekty dźwiękowe
+
+it: Musica
+pl: Muzyka
+
+it: Voci delle unità
+pl: Głosy jednostek
+
+it: Suoni degli edifici
+pl: Dźwięki budynków
+
+it: Suoni della natura
+pl: Odgłosy natury
+
+it: Velocità del gioco
+pl: Szybkość gry
+
+it: Clima
+pl: Pogoda
+
+it: Giorno e notte
+pl: Dzień i noc
+
+it: Velocità di scorrimento
+pl: Szybkość przewijania
+
+it: Scorrimento ai bordi
+pl: Przewijanie przy krawędziach
+
+it: Nome sulle proprie unità
+pl: Nazwa nad twoimi jednostkami
+
+it: Lingua
+pl: Język
+
+it: Ricorda le missioni raggiunte
+pl: Zapamiętuj osiągnięte misje
+
+it: Schermo intero
+pl: Pełny ekran
+
+it: Dimensioni della finestra
+pl: Rozmiar okna
+
+it: Fotogrammi al secondo
+pl: Klatki na sekundę
+
+it: Scala
+pl: Skala
+
+it: Pannello dei comandi
+pl: Panel dowodzenia
+
+it: Puntatore
+pl: Kursor
+
+it: Testi sulla mappa
+pl: Teksty na mapie
+
+it: Griglia di piazzamento
+pl: Siatka rozmieszczania
+
+it: Colori a 24 bit
+pl: Kolory 24-bitowe
+
+it: Pixel della mappa
+pl: Piksele mapy
+
+it: Effetto monitor CRT
+pl: Efekt monitora CRT
+
+it: Testi in alta definizione
+pl: Teksty w wysokiej rozdzielczości
+
+it: Luci notturne
+pl: Nocne światła
+
+it: Bagliore di fuochi e magie
+pl: Blask ognia i magii
+
+it: Nebbia morbida
+pl: Miękka mgła
+
+it: Ambiente vivo
+pl: Żywy świat
+
+it: Zoom fluido
+pl: Płynny zoom
+
+it: Pixel nitidi
+pl: Ostre piksele
+
+it: Adatta allo schermo
+pl: Dopasuj do ekranu
+
+it: A destra
+pl: Po prawej
+
+it: A sinistra
+pl: Po lewej
+
+it: Del gioco
+pl: Z gry
+
+it: Di Windows
+pl: Z Windows
+
+it: Originali
+pl: Oryginalne
+
+it: Contorno
+pl: Obrys
+
+it: Fondo scuro
+pl: Ciemny pas
+
+it: Leggera
+pl: Lekka
+
+it: Media
+pl: Średnia
+
+it: Marcata
+pl: Wyraźna
+
+it: Regolari
+pl: Równe
+
+it: Levigati
+pl: Wygładzone
+
+it: Sincronizzazione verticale
+pl: Synchronizacja pionowa
+
+it: nessuno
+pl: brak
+
+it: Sì
+pl: Tak
+
+it: Predefiniti
+pl: Domyślne
+
+it: Annulla
+pl: Anuluj
+
+it: Scrivi il numero e premi Invio; 0 toglie il limite, Esc annulla.
+pl: Wpisz liczbę i naciśnij Enter; 0 usuwa limit, Esc anuluje.
+
+it: Premi un tasto…
+pl: Naciśnij klawisz…
+
+it: Premi il nuovo tasto; Esc annulla.
+pl: Naciśnij nowy klawisz; Esc anuluje.
+
+it: Aggiunta di questa versione, assente nell'originale.
+pl: Dodatek tej wersji, nieobecny w oryginale.
+
+it: Volumi, voci e suoni del gioco.
+pl: Głośność, głosy i dźwięki gry.
+
+it: La partita, lo scorrimento della mappa, il tuo nome e la lingua.
+pl: Rozgrywka, przewijanie mapy, twoje imię i język.
+
+it: La finestra del gioco e l'aspetto dell'interfaccia.
+pl: Okno gry i wygląd interfejsu.
+
+it: Gli effetti grafici moderni, tutti facoltativi e spenti all'inizio.
+pl: Nowoczesne efekty graficzne, wszystkie opcjonalne i na początku wyłączone.
+
+it: I tasti dei comandi sulla mappa.
+pl: Klawisze poleceń mapy.
+
+it: Effetti, voci e rumori della mappa: l'interruttore li spegne, il cursore ne regola il volume.
+pl: Efekty, głosy i odgłosy mapy: przełącznik je wyłącza, suwak ustawia ich głośność.
+
+it: La musica di menu e missioni: l'interruttore la spegne, il cursore ne regola il volume.
+pl: Muzyka menu i misji: przełącznik ją wyłącza, suwak ustawia jej głośność.
+
+it: Le risposte delle unità quando le selezioni e dai loro ordini.
+pl: Odpowiedzi jednostek, gdy je zaznaczasz i wydajesz im rozkazy.
+
+it: Il suono degli edifici quando li selezioni.
+pl: Dźwięk budynków, gdy je zaznaczasz.
+
+it: Animali, vento e pioggia intorno alla parte di mappa che guardi.
+pl: Zwierzęta, wiatr i deszcz wokół oglądanej części mapy.
+
+it: Quanto scorre veloce la partita aperta; si regola solo durante una partita.
+pl: Jak szybko toczy się otwarta rozgrywka; ustawia się ją tylko w trakcie gry.
+
+it: Pioggia e neve sulla mappa, con il loro effetto sulle unità.
+pl: Deszcz i śnieg na mapie oraz ich wpływ na jednostki.
+
+it: Il passare del giorno e della notte, che cambia luce e visibilità.
+pl: Przemijanie dnia i nocy, które zmienia światło i zasięg wzroku.
+
+it: Il pannello dei trucchi di questa partita (tasto F7).
+pl: Panel kodów tej rozgrywki (klawisz F7).
+
+it: Quanto velocemente si sposta la mappa con frecce e bordi dello schermo.
+pl: Jak szybko mapa przesuwa się strzałkami i przy krawędziach ekranu.
+
+it: La mappa si sposta quando porti il puntatore ai bordi dello schermo.
+pl: Mapa przesuwa się, gdy zbliżysz kursor do krawędzi ekranu.
+
+it: Il nome mostrato sulle tue unità.
+pl: Nazwa wyświetlana nad twoimi jednostkami.
+
+it: Apri l'elenco e scegli la lingua di testi e voci.
+pl: Otwórz listę i wybierz język tekstów i głosów.
+
+it: Le missioni delle campagne già raggiunte restano da scegliere; l'originale mostra solo la prima.
+pl: Osiągnięte już misje kampanii pozostają do wyboru; oryginał oferuje tylko pierwszą.
+
+it: Il gioco occupa tutto lo schermo, senza bordi; altrimenti è in una finestra (anche Alt+Invio).
+pl: Gra zajmuje cały ekran, bez ramki; w przeciwnym razie jest w oknie (także Alt+Enter).
+
+it: Trascina i bordi della finestra per cambiarne le dimensioni, che restano per la prossima volta; qui ne scegli una pronta.
+pl: Przeciągnij krawędzie okna, by zmienić jego rozmiar, który zostanie zapamiętany; tutaj wybierasz gotowy.
+
+it: I fotogrammi seguono la frequenza dello schermo, senza strappi nell'immagine; il limite dei fotogrammi allora non serve e si spegne.
+pl: Klatki podążają za częstotliwością odświeżania ekranu, bez rozdzierania; limit klatek staje się zbędny i wyłącza się.
+
+it: I fotogrammi al secondo massimi: trascina la barra o scrivi il numero; in fondo alla barra nessun limite. Spento con la sincronizzazione verticale.
+pl: Największa liczba klatek na sekundę: przeciągnij pasek lub wpisz liczbę; na końcu paska nie ma limitu. Wyłączone przy synchronizacji pionowej.
+
+it: Pixel nitidi: l'interfaccia ingrandita di un numero intero di volte. Adatta: riempie lo schermo.
+pl: Ostre piksele: interfejs powiększony całkowitą liczbę razy. Dopasuj: wypełnia ekran.
+
+it: Da che parte dello schermo sta il pannello dei comandi durante la partita.
+pl: Po której stronie ekranu jest panel dowodzenia w trakcie gry.
+
+it: Il puntatore disegnato dal gioco o quello di Windows, con lo stesso disegno.
+pl: Kursor rysowany przez grę albo kursor systemu Windows, z tym samym obrazkiem.
+
+it: Come si leggono messaggi e consigli sulla mappa: con l'ombra originale, un contorno nero o un fondo scuro.
+pl: Jak czytelne są komunikaty i podpowiedzi na mapie: z oryginalnym cieniem, czarnym obrysem lub ciemnym pasem.
+
+it: Una griglia con le caselle libere e occupate mentre piazzi un edificio, e quanto si vede.
+pl: Siatka wolnych i zajętych pól podczas stawiania budynku oraz jej wyrazistość.
+
+it: Sfumature lisce di notte, nelle ombre e nella nebbia, senza i 5 bit per colore dell'originale.
+pl: Łagodne przejścia nocą, w cieniach i we mgle, bez 5 bitów na kolor z oryginału.
+
+it: Pixel originali, regolari a ogni zoom o levigati, con i bordi smussati.
+pl: Oryginalne piksele, równe przy każdym przybliżeniu, lub wygładzone o zmiękczonych krawędziach.
+
+it: Righe e curvatura di un vecchio monitor.
+pl: Linie skanowania i krzywizna starego monitora.
+
+it: Testi dell'interfaccia nitidi alla risoluzione dello schermo.
+pl: Ostre teksty interfejsu w rozdzielczości ekranu.
+
+it: Di notte fuochi, edifici e magie fanno luce intorno.
+pl: Nocą ogniska, budynki i magia oświetlają swoje otoczenie.
+
+it: Un alone luminoso intorno a fuochi, magie e fulmini.
+pl: Jasny blask wokół ognia, magii i błyskawic.
+
+it: Bordi sfumati della nebbia invece dei riquadri.
+pl: Miękkie brzegi mgły zamiast kwadratów.
+
+it: Alberi che ondeggiano al vento e acqua che luccica.
+pl: Drzewa kołyszące się na wietrze i lśniąca woda.
+
+it: La rotella ingrandisce scorrendo, con più passi.
+pl: Kółko myszy przybliża płynnie, w większej liczbie kroków.
+
+it: Fai clic e premi il nuovo tasto del comando; Esc annulla.
+pl: Kliknij, a potem naciśnij nowy klawisz polecenia; Esc anuluje.
+
+it: Rimette le impostazioni di questa scheda come all'inizio; nome, lingua e dimensioni della finestra restano.
+pl: Przywraca ustawienia tej karty do stanu początkowego; imię, język i rozmiar okna pozostają.
+
+it: Chiude rimettendo tutto com'era all'apertura delle opzioni (anche Esc).
+pl: Zamyka, przywracając wszystko do stanu z chwili otwarcia ustawień (także Esc).
+
+it: Scorrimento
+pl: Przewijanie
+
+it: Resa dell'IA
+pl: Kapitulacja SI
+
+it: RESA DELL'IA: con la BANDIERA bianca i regni del computer si arrendono quando perdono, con le SPADE combattono fino alla fine
+pl: KAPITULACJA SI: z białą FLAGĄ królestwa komputera poddają się, gdy przegrywają, z MIECZAMI walczą do końca
+
+it: Scorri a sinistra
+pl: Przewiń w lewo
+
+it: Scorri a destra
+pl: Przewiń w prawo
+
+it: Scorri in alto
+pl: Przewiń w górę
+
+it: Scorri in basso
+pl: Przewiń w dół
+
+it: Centra la selezione
+pl: Wyśrodkuj zaznaczenie
+
+it: Unità successiva del gruppo
+pl: Następna jednostka grupy
+
+it: Ultimo evento
+pl: Ostatnie zdarzenie
+
+it: Evento precedente
+pl: Poprzednie zdarzenie
+
+it: Evento successivo
+pl: Następne zdarzenie
+
+it: Destinazione o raduno
+pl: Cel lub punkt zbiórki
+
+it: Barre della salute
+pl: Paski zdrowia
+
+it: Alberi trasparenti
+pl: Przezroczyste drzewa
+
+it: Elimina la selezione
+pl: Usuń zaznaczenie
+
+it: Aumenta la velocità
+pl: Zwiększ szybkość
+
+it: Riduci la velocità
+pl: Zmniejsz szybkość
+
+it: Salvataggio rapido
+pl: Szybki zapis
+
+it: Caricamento rapido
+pl: Szybki odczyt
+
+it: Punteggio e tempo
+pl: Wynik i czas
+
+it: Pagina precedente dell'inventario
+pl: Poprzednia strona ekwipunku
+
+it: Pagina seguente dell'inventario
+pl: Następna strona ekwipunku
+
+it: Aiuto
+pl: Pomoc
+
+it: Diplomazia
+pl: Dyplomacja
+
+it: Obiettivi
+pl: Cele
+
+it: Opzioni
+pl: Opcje
+
+it: Menu della partita
+pl: Menu gry
+
+it: Conversazione
+pl: Rozmowa
+
+it: Tributi
+pl: Trybut
+
+it: Pannello dei trucchi
+pl: Panel kodów
+
+it: Spazio
+pl: Spacja
+
+it: Freccia sinistra
+pl: Strzałka w lewo
+
+it: Freccia destra
+pl: Strzałka w prawo
+
+it: Freccia su
+pl: Strzałka w górę
+
+it: Freccia giù
+pl: Strzałka w dół
+
+it: Invio
+pl: Enter
+
+it: Canc
+pl: Delete
+
+it: Ins
+pl: Insert
+
+it: Fine
+pl: End
+
+it: Pag su
+pl: Page Up
+
+it: Pag giù
+pl: Page Down
+
+it: + (tastierino)
+pl: + (kl. numeryczna)
+
+it: - (tastierino)
+pl: - (kl. numeryczna)
+
+it: * (tastierino)
+pl: * (kl. numeryczna)
+
+it: / (tastierino)
+pl: / (kl. numeryczna)
+
+it: Invio (tastierino)
+pl: Enter (kl. numeryczna)
+
+it: {} (tastierino)
+pl: {} (kl. numeryczna)
+
+it: Inizializzazione dell'audio…
+pl: Uruchamianie dźwięku…
+
+it: Audio non disponibile
+pl: Dźwięk niedostępny
+
+it: Impostazioni non leggibili ({}): ripristinati i valori predefiniti.
+pl: Nie udało się odczytać ustawień ({}): przywrócono wartości domyślne.
+
+it: La modalità multigiocatore non è disponibile in questa versione.
+pl: Tryb wieloosobowy nie jest dostępny w tej wersji.
+
+it: Eroe
+pl: Bohater
+
+it: Nessuna missione selezionata
+pl: Nie wybrano misji
+
+it: (missione non installata)
+pl: (misja niezainstalowana)
+
+it: La missione del salvataggio non è presente
+pl: Misja zapisanej gry nie jest zainstalowana
+
+it: Missione non trovata
+pl: Nie znaleziono misji
+
+it: Mappa casuale {}
+pl: Mapa losowa {}
+
+it: {} · {}×{} · seme {}
+pl: {} · {}×{} · ziarno {}
+
+it: Caricamento di «{}»…
+pl: Wczytywanie „{}”…
+
+it: Ripristino di «{}»…
+pl: Przywracanie „{}”…
+
+it: Un salvataggio è già in corso
+pl: Zapis już trwa
+
+it: Attendi il completamento del salvataggio
+pl: Zaczekaj na koniec zapisu
+
+it: Nessuna mappa aperta
+pl: Żadna mapa nie jest otwarta
+
+it: Simulazione non inizializzata
+pl: Rozgrywka się nie rozpoczęła
+
+it: Salvataggio interrotto
+pl: Zapis przerwany
+
+it: Salvataggio non riuscito: {}
+pl: Zapis nieudany: {}
+
+it: Impossibile riprodurre intro: {}
+pl: Nie można odtworzyć wstępu: {}
+
+it: Casuale
+pl: Losowa
+
+it: Arcipelaghi
+pl: Archipelagi
+
+it: Isole
+pl: Wyspy
+
+it: Continente
+pl: Kontynent
+
+it: Laghi
+pl: Jeziora
+
+it: Terra
+pl: Ląd
+
+it: Annulla e restituisci il costo
+pl: Anuluj i zwróć koszt
+
+it: Indietro
+pl: Wstecz
+
+it: Trucchi\nApre la finestra dei trucchi di questa partita
+pl: Kody\nOtwiera okno kodów tej rozgrywki
+
+it: Trucchi
+pl: Kody
+
+it: Apre la finestra dei trucchi di questa partita
+pl: Otwiera okno kodów tej rozgrywki
+
+it: Usato un trucco, la partita resta segnata come partita con trucchi
+pl: Użyto kodu: rozgrywka pozostaje oznaczona jako gra z kodami
+
+it: Chiude la finestra dei trucchi
+pl: Zamyka okno kodów
+
+it: TRUCCHI
+pl: KODY
+
+it: CHIUDI
+pl: ZAMKNIJ
+
+it: Partita
+pl: Rozgrywka
+
+it: Risorse, popolazione, costruzione, nebbia, mappa, ora del giorno, tecnologie e missione
+pl: Surowce, ludność, budowa, mgła, mapa, pora dnia, technologie i misja
+
+it: Oggetti
+pl: Obiekty
+
+it: Trucchi da applicare a un'unità o a un edificio cliccandolo sulla mappa
+pl: Kody do zastosowania na jednostce lub budynku przez kliknięcie go na mapie
+
+it: Unità
+pl: Jednostki
+
+it: Crea un'unità di qualunque regno nel punto della mappa che scegli
+pl: Tworzy jednostkę dowolnego królestwa w wybranym punkcie mapy
+
+it: Edifici
+pl: Budynki
+
+it: Crea un edificio già costruito di qualunque regno nel punto della mappa che scegli
+pl: Tworzy ukończony budynek dowolnego królestwa w wybranym punkcie mapy
+
+it: Cambia a piacere i rapporti fra due regni
+pl: Dowolnie zmienia stosunki między dwoma królestwami
+
+it: Nessun regno
+pl: Brak królestwa
+
+it: Regno {}
+pl: Królestwo {}
+
+it: Regno
+pl: Królestwo
+
+it: Europea
+pl: Europejska
+
+it: Araba
+pl: Arabska
+
+it: Asiatica
+pl: Azjatycka
+
+it: europea
+pl: europejskiej
+
+it: araba
+pl: arabskiej
+
+it: asiatica
+pl: azjatyckiej
+
+it: Alleato
+pl: Sojusznik
+
+it: {a} considera {b} un alleato: non lo attacca
+pl: {a} uważa {b} za sojusznika: nie atakuje go
+
+it: Neutrale
+pl: Neutralny
+
+it: {a} considera {b} neutrale: non lo attacca
+pl: {a} uważa {b} za neutralnego: nie atakuje go
+
+it: Nemico
+pl: Wróg
+
+it: {a} considera {b} un nemico e lo attacca
+pl: {a} uważa {b} za wroga i atakuje go
+
+it: Condivide la vista
+pl: Dzieli widok
+
+it: {b} vede ciò che vedono le unità di {a}
+pl: {b} widzi to, co widzą jednostki {a}
+
+it: Condivide le risorse
+pl: Dzieli surowce
+
+it: {b} può spendere le risorse di {a}
+pl: {b} może wydawać surowce {a}
+
+it: Condivide le unità
+pl: Dzieli jednostki
+
+it: {b} può comandare le unità di {a}
+pl: {b} może dowodzić jednostkami {a}
+
+it: Vittoria condivisa
+pl: Wspólne zwycięstwo
+
+it: {a} vince insieme a {b}
+pl: {a} zwycięża razem z {b}
+
+it: Vuole la guerra
+pl: Chce wojny
+
+it: {a} vuole la guerra con {b}: basta che uno dei due la voglia e diventano nemici
+pl: {a} chce wojny z {b}: jeśli chce jej którekolwiek z nich, stają się wrogami
+
+it: Vuole la pace
+pl: Chce pokoju
+
+it: {a} vuole la pace con {b}: quando la vogliono tutti e due diventano neutrali
+pl: {a} chce pokoju z {b}: gdy chcą go oba, stają się neutralne
+
+it: Vuole l'alleanza
+pl: Chce sojuszu
+
+it: {a} vuole l'alleanza con {b}: quando la vogliono tutti e due diventano alleati
+pl: {a} chce sojuszu z {b}: gdy chcą go oba, stają się sojusznikami
+
+it: Costo
+pl: Koszt
+
+it:  (In questa partita le risorse sono illimitate.)
+pl:  (W tej rozgrywce surowce są nieograniczone.)
+
+it: Risorse
+pl: Surowce
+
+it: Aggiunge oro, pietra, cibo e legna al tuo regno
+pl: Dodaje złoto, kamień, żywność i drewno twojemu królestwu
+
+it: Aggiunge 10 000 di oro, pietra, cibo e legna al tuo regno.
+pl: Dodaje po 10 000 złota, kamienia, żywności i drewna twojemu królestwu.
+
+it: Aggiunge 50 000 di oro, pietra, cibo e legna al tuo regno.
+pl: Dodaje po 50 000 złota, kamienia, żywności i drewna twojemu królestwu.
+
+it: Popolazione massima
+pl: Limit ludności
+
+it: Il limite della popolazione del tuo regno
+pl: Limit ludności twojego królestwa
+
+it: Porta a 1000
+pl: Podnieś do 1000
+
+it: Già a 1000
+pl: Już 1000
+
+it: Porta a 1000 il limite della popolazione del tuo regno, senza bisogno di case
+pl: Podnosi limit ludności twojego królestwa do 1000, bez potrzeby budowania domów
+
+it: Costruzione immediata
+pl: Natychmiastowa budowa
+
+it: Cantieri, unità e ricerche si completano subito
+pl: Budowy, jednostki i badania kończą się od razu
+
+it: Quando è attiva, ogni cantiere si completa al primo colpo di un contadino e le unità e le ricerche escono subito, per tutti i regni. Clicca per attivarla o spegnerla
+pl: Gdy włączone, każda budowa kończy się po pierwszym uderzeniu chłopa, a jednostki i badania pojawiają się od razu, dla wszystkich królestw. Kliknij, by włączyć lub wyłączyć
+
+it: Nessun requisito
+pl: Bez wymagań
+
+it: Costruire, creare e ricercare senza i requisiti
+pl: Buduj, twórz i badaj bez wymagań
+
+it: Quando è attivo, si possono costruire edifici, creare unità e fare ricerche senza gli edifici e le tecnologie che servirebbero, per tutti i regni. Clicca per attivarlo o spegnerlo
+pl: Gdy włączone, można stawiać budynki, tworzyć jednostki i prowadzić badania bez potrzebnych budynków i technologii, dla wszystkich królestw. Kliknij, by włączyć lub wyłączyć
+
+it: Nebbia di guerra
+pl: Mgła wojny
+
+it: La nebbia che nasconde ciò che le tue unità non vedono
+pl: Mgła, która skrywa to, czego nie widzą twoje jednostki
+
+it: Togli
+pl: Usuń
+
+it: Già tolta
+pl: Już usunięta
+
+it: Toglie la nebbia di guerra per il resto della partita: vedi tutto ciò che si muove sulla mappa
+pl: Usuwa mgłę wojny do końca rozgrywki: widzisz wszystko, co porusza się po mapie
+
+it: Mappa
+pl: Mapa
+
+it: Le zone della mappa non ancora esplorate
+pl: Jeszcze niezbadane obszary mapy
+
+it: Rivela tutta
+pl: Odkryj wszystko
+
+it: Già esplorata
+pl: Już zbadana
+
+it: Rende esplorata tutta la mappa: vedi il terreno e gli edifici, ma le unità solo dove arriva la vista delle tue
+pl: Bada całą mapę: widzisz teren i budynki, ale jednostki tylko tam, gdzie widzą je twoje jednostki
+
+it: Ora del giorno
+pl: Pora dnia
+
+it: L'ora dell'orologio della partita, che decide la luce del giorno e della notte
+pl: Godzina na zegarze rozgrywki, od której zależy światło dnia i nocy
+
+it: Un'ora indietro (con Maiusc dieci)
+pl: Godzina wstecz (dziesięć z Shiftem)
+
+it: Un'ora avanti (con Maiusc dieci)
+pl: Godzina naprzód (dziesięć z Shiftem)
+
+it: Cambia l'ora del giorno con le frecce
+pl: Zmień porę dnia strzałkami
+
+it: Tecnologia
+pl: Technologia
+
+it: Una ricerca del tuo regno, completata senza aspettare né pagare
+pl: Badanie twojego królestwa, ukończone bez czekania i bez płacenia
+
+it: nessuna da scoprire
+pl: nie ma już nic do odkrycia
+
+it: La tecnologia precedente
+pl: Poprzednia technologia
+
+it: La tecnologia seguente
+pl: Następna technologia
+
+it: Scopri
+pl: Odkryj
+
+it: Completa subito per il tuo regno: {}
+pl: Kończy je od razu dla twojego królestwa: {}
+
+it: Animali e mostri
+pl: Zwierzęta i potwory
+
+it: Le unità della Natura: animali selvatici e mostri
+pl: Jednostki Natury: dzikie zwierzęta i potwory
+
+it: Togli dalla mappa
+pl: Usuń z mapy
+
+it: Nessuno sulla mappa
+pl: Brak na mapie
+
+it: Fa sparire dalla mappa tutte le unità della Natura: animali selvatici e mostri
+pl: Usuwa z mapy wszystkie jednostki Natury: dzikie zwierzęta i potwory
+
+it: Missione
+pl: Misja
+
+it: La missione di questa campagna
+pl: Misja tej kampanii
+
+it: Passa alla successiva
+pl: Przejdź do następnej
+
+it: Nessuna successiva
+pl: Brak następnej misji
+
+it: Solo nelle campagne
+pl: Tylko w kampaniach
+
+it: Lascia questa missione e apre subito la mappa successiva della campagna
+pl: Opuszcza tę misję i od razu otwiera następną mapę kampanii
+
+it: Scegli un trucco: la finestra si chiude e clicchi sulla mappa l'unità o l'edificio a cui applicarlo. Tieni premuto Maiusc per cliccarne altri, tasto destro per finire.
+pl: Wybierz kod: okno się zamyka, a ty klikasz na mapie jednostkę lub budynek, na którym ma zadziałać. Przytrzymaj Shift, by kliknąć kolejne, prawy przycisk kończy.
+
+it: Invulnerabile
+pl: Niezniszczalny
+
+it: Non subisce più danni. Un altro clic lo rende di nuovo vulnerabile.
+pl: Nie odnosi już obrażeń. Kolejne kliknięcie znów czyni go wrażliwym.
+
+it: Rende invulnerabile l'oggetto che clicchi: non subisce più danni. Cliccarlo di nuovo lo rende di nuovo vulnerabile
+pl: Czyni kliknięty obiekt niezniszczalnym: nie odnosi już obrażeń. Ponowne kliknięcie znów czyni go wrażliwym
+
+it: Prendi il comando
+pl: Przejmij dowodzenie
+
+it: Gli dai ordini anche se è di un altro regno. Un altro clic lo restituisce.
+pl: Wydajesz mu rozkazy, nawet jeśli należy do innego królestwa. Kolejne kliknięcie go oddaje.
+
+it: Puoi dare ordini all'oggetto che clicchi anche se è di un altro regno. Cliccarlo di nuovo lo restituisce
+pl: Możesz wydawać rozkazy klikniętemu obiektowi, nawet jeśli należy do innego królestwa. Ponowne kliknięcie go oddaje
+
+it: Guarda con i suoi occhi
+pl: Patrz jego oczami
+
+it: Vedi ciò che vede, anche se è di un altro regno. Un altro clic smette.
+pl: Widzisz to, co on widzi, nawet jeśli należy do innego królestwa. Kolejne kliknięcie kończy.
+
+it: Vedi ciò che vede l'oggetto che clicchi, anche se è di un altro regno. Cliccarlo di nuovo smette
+pl: Widzisz to, co widzi kliknięty obiekt, nawet jeśli należy do innego królestwa. Ponowne kliknięcie kończy
+
+it: Dai al regno
+pl: Oddaj królestwu
+
+it: L'oggetto che clicchi passa al regno scelto: {}
+pl: Kliknięty obiekt przechodzi do wybranego królestwa: {}
+
+it: Il regno precedente
+pl: Poprzednie królestwo
+
+it: Il regno seguente
+pl: Następne królestwo
+
+it: Il regno a cui passa l'oggetto che clicchi
+pl: Królestwo, do którego przechodzi kliknięty obiekt
+
+it: Crea le unità e gli edifici della civiltà {}
+pl: Tworzy jednostki i budynki cywilizacji {}
+
+it: Il regno a cui va quello che crei
+pl: Królestwo, do którego trafia to, co tworzysz
+
+it: Il regno di cui cambi i rapporti
+pl: Królestwo, którego stosunki zmieniasz
+
+it: Il regno verso cui cambiano
+pl: Królestwo, wobec którego się zmieniają
+
+it: Come {} considera {}: clicca una casella per accenderla o spegnerla.
+pl: Jak {} traktuje {}: kliknij pole, by je włączyć lub wyłączyć.
+
+it: Scegli due regni diversi.
+pl: Wybierz dwa różne królestwa.
+
+it: {}. Ora: {}
+pl: {}. Teraz: {}
+
+it: sì
+pl: tak
+
+it: un'unità
+pl: jednostkę
+
+it: un edificio, che arriva già costruito
+pl: budynek, który pojawia się już zbudowany
+
+it: Clicca {}, poi il punto della mappa dove metterlo. Tieni premuto Maiusc per metterne altri, tasto destro per finire.
+pl: Kliknij {}, a potem punkt mapy, gdzie ma stanąć. Przytrzymaj Shift, by postawić więcej, prawy przycisk kończy.
+
+it: Partita con trucchi: {}
+pl: Gra z kodami: {}
+
+it: Maiusc per continuare, tasto destro per finire.
+pl: Shift, by kontynuować, prawy przycisk kończy.
+
+it: Clicca sulla mappa dove mettere: {}. {}
+pl: Kliknij na mapie, gdzie postawić: {}. {}
+
+it: Clicca l'oggetto da rendere invulnerabile (o di nuovo vulnerabile).
+pl: Kliknij obiekt, który ma stać się niezniszczalny (lub znów wrażliwy).
+
+it: Clicca l'oggetto di cui prendere il comando (o da restituire).
+pl: Kliknij obiekt, nad którym przejmujesz dowodzenie (lub który oddajesz).
+
+it: Clicca l'oggetto con cui guardare (o con cui smettere).
+pl: Kliknij obiekt, którego oczami chcesz patrzeć (lub by przestać).
+
+it: Clicca l'oggetto da dare al regno scelto.
+pl: Kliknij obiekt, który ma przejść do wybranego królestwa.
+
+it: Versione della sessione non supportata
+pl: Nieobsługiwana wersja sesji
+
+it: Archivio della mappa non valido
+pl: Nieprawidłowe archiwum mapy
+
+it: Dimensioni o stato della sessione non validi
+pl: Nieprawidłowy rozmiar lub stan sesji
+
+it: Riferimenti dell'inventario non validi
+pl: Nieprawidłowe odwołania ekwipunku
+
+it: Contenuto dell'inventario non valido
+pl: Nieprawidłowa zawartość ekwipunku
+
+it: Collegamento dell'inventario non valido
+pl: Nieprawidłowe powiązanie ekwipunku
+
+it: Ciclo nell'inventario
+pl: Pętla w ekwipunku
+
+it: Riferimenti della mappa o dell'interfaccia non validi
+pl: Nieprawidłowe odwołania mapy lub interfejsu
+
+it: Ritratto salvato non valido
+pl: Nieprawidłowy zapisany portret
+
+it: Salvataggio non valido
+pl: Nieprawidłowy zapis gry
+
+it: Salvataggio non riconosciuto
+pl: Nierozpoznany zapis gry
+
+it: Versione del salvataggio non supportata
+pl: Nieobsługiwana wersja zapisu gry
+
+it: Salvataggio troppo grande o danneggiato
+pl: Zapis gry za duży lub uszkodzony
+
+it: Metadati del salvataggio non validi
+pl: Nieprawidłowe dane zapisu gry
+
+it: Salvataggio troncato
+pl: Zapis gry jest niepełny
+
+it: Lunghezza del salvataggio non valida
+pl: Nieprawidłowa długość zapisu gry
+
+it: Controllo d'integrità del salvataggio fallito
+pl: Zapis gry nie przeszedł kontroli spójności
+
+it: Sessione compressa danneggiata
+pl: Uszkodzona skompresowana sesja
+
+it: Salvataggio di una versione precedente di ReTzar: non si può più riprendere
+pl: Zapisano we wcześniejszej wersji ReTzar: nie można go już wznowić
+
+it: Salvataggio troppo grande
+pl: Zapis gry za duży
+
+it: Percorso del salvataggio non valido
+pl: Nieprawidłowa ścieżka zapisu gry
+
+it: Dato della mappa non riconosciuto
+pl: Nierozpoznane dane mapy
+
+it: Dato della mappa troppo grande
+pl: Dane mapy za duże
+
+it: Dato della mappa danneggiato
+pl: Uszkodzone dane mapy
+
+it: Archivio della mappa troppo grande
+pl: Archiwum mapy za duże
+
+it: Salvataggio con dati della mappa non risolti
+pl: Zapis gry z nierozwiązanymi danymi mapy
+
+it: Regno {}: nessuna posizione iniziale nella mappa
+pl: Królestwo {}: brak pozycji startowej na mapie
+
+it: Regno {}: spazio insufficiente per il castello
+pl: Królestwo {}: za mało miejsca na zamek
+
+it: Regno {}: spazio insufficiente per i contadini
+pl: Królestwo {}: za mało miejsca dla chłopów
+
+it: Identificatori degli oggetti esauriti
+pl: Brak wolnych identyfikatorów obiektów
+
+it: Nessun archivio del gioco trovato
+pl: Nie znaleziono żadnego archiwum gry
+
+it: Installazione di Tzar non trovata vicino a {}. Usa --source CARTELLA.
+pl: Nie znaleziono instalacji Tzara w pobliżu {}. Użyj --source FOLDER.
+
+it: ReTzar non può continuare:\n\n{}
+pl: ReTzar nie może kontynuować:\n\n{}
+
+it: ReTzar si è chiuso per un errore interno.\n\n{}\n\nDettagli in crash.log.
+pl: ReTzar został zamknięty z powodu błędu wewnętrznego.\n\n{}\n\nSzczegóły w crash.log.
+
+it: Tasto Indietro
+pl: Backspace
+
+it: Recuperata la precedente copia valida del salvataggio.
+pl: Odzyskano poprzednią poprawną kopię zapisu.
+
+it: Salvataggio precedente: ripristinata la vista iniziale, senza stato della simulazione.
+pl: Starszy zapis: przywrócono widok początkowy, bez stanu symulacji.
+
+it: Nessuna scheda video Vulkan trovata. ReTzar disegna solo con Vulkan: aggiorna i driver della scheda video.
+pl: Nie znaleziono karty graficznej obsługującej Vulkan. ReTzar rysuje tylko przez Vulkan: zaktualizuj sterowniki karty graficznej.
+
+it: Scegli la cartella in cui è installato Tzar
+pl: Wybierz folder, w którym jest zainstalowany Tzar
+
+it: Per giocare con ReTzar serve una copia originale di Tzar (dal CD, da GOG o da Steam): alla prossima partenza scegli la cartella in cui è installata.
+pl: Do gry w ReTzar potrzebujesz oryginalnej kopii Tzar (z płyty CD, z GOG lub ze Steama): przy następnym uruchomieniu wybierz folder, w którym jest zainstalowana.
+
+it: In {} non c'è una copia originale di Tzar.\n\nScegli la cartella in cui è installato il gioco.
+pl: W {} nie ma oryginalnej kopii Tzar.\n\nWybierz folder, w którym jest zainstalowana gra.

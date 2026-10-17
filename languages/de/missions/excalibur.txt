@@ -1,0 +1,1744 @@
+# Re Artù ed Excalibur (campagna dell'edizione italiana) in tedesco: traduzione di questa versione.
+
+# excalibur e il re artu.wcm
+it: Re Artù ed Excalibur\n\nGiunto il giorno stabilito, mentre tutti pregavano, nel patio della chiesa più imponente di Londra apparve un enorme blocco di marmo e su di esso un'incudine d'acciaio attraversata da una spada. Su di essa erano incise queste parole:\n\n"CHIUNQUE RIESCA A ESTRARRE LA SPADA DA QUESTA ROCCIA E DA QUEST'INCUDINE SARÀ RE D'INGHILTERRA PER DIRITTO DI NASCITA"
+de: König Artus und Excalibur\n\nAls der festgesetzte Tag kam, erschien, während alle beteten, auf dem Kirchhof der größten Kirche Londons ein gewaltiger Marmorblock und darauf ein Amboss aus Stahl, durch den ein Schwert getrieben war. Darauf waren diese Worte eingraviert:\n\n»WER DIESES SCHWERT AUS DIESEM STEIN UND AMBOSS ZIEHT, IST VON RECHTS WEGEN DER GEBORENE KÖNIG GANZ ENGLANDS«
+
+# excalibur e il re artu.wcm::maps/1_a merlín y el rey arturo
+it: Merlino e il Re Artù
+de: Merlin und König Artus
+
+it: Venne annunciato pubblicamente che, dopo il torneo dell'Anno Nuovo, tutti i cavalieri presenti avrebbero potuto cercare di estrarre la spada. Ma tutti i tentativi furono vani finché...
+de: Es wurde verkündet, dass nach dem Neujahrsturnier jeder anwesende Ritter versuchen dürfe, das Schwert zu ziehen. Doch jeder Versuch war vergebens, bis...
+
+it: Regno 1
+de: Reich 1
+
+it: Artù
+de: Artus
+
+it: Regno 2
+de: Reich 2
+
+it: Popolo
+de: Volk
+
+it: Regno 3
+de: Reich 3
+
+it: Cavalieri
+de: Ritter
+
+it: Porta
+de: Tor
+
+it: Regno 5
+de: Reich 5
+
+it: Regno 6
+de: Reich 6
+
+it: Regno 7
+de: Reich 7
+
+it: Regno 8
+de: Reich 8
+
+it: Arcivescovo
+de: Erzbischof
+
+it: Canterbury
+de: von Canterbury
+
+it: Sir Hector
+de: Sir Ector
+
+it: Spada
+de: Schwert
+
+it: Brigante
+de: Räuber
+
+it: Al principio del VI secolo d.C., nell'anno 516, re Artù succedeva nella corona d'Inghilterra al padre Uther Pendragon.\n\nMa la storia di quello che diverrà il miglior re d'Inghilterra cominciò alcuni anni prima...\n\nPoco prima della nascita di Artù, suo padre, volendo stipulare un patto per porre fine alle ostilità causate dal duca di Cornovaglia, ordinò al nobile di recarsi a corte con la propria sposa, Igraine.\n\nIl re s'innamorò perdutamente della bella sposa del duca che, non cedendo alle suppliche del sovrano, propose al marito di fuggire nottetempo e di rifugiarsi nel loro castello. Uther Pendragon, umiliato, trovò in questa sfida la scusa perfetta per annientare il duca e appropriarsi delle sue terre, dei suoi vassalli e... della sua sposa. E così dal desiderio si generò la guerra.\n\nVennero combattute battaglie crudelissime, e quanto più era cruenta la guerra tanto più il re rimpiangeva e desiderava Igraine. Disperato, Uther sollecitò l'aiuto del mago Merlino. Grazie alle sue arti magiche il sovrano riuscì ad ingannare Igraine: tre ore dopo che il marito era perito in battaglia, Uther Pendragon, sotto le sembianze del duca, possedette la sua amata.\n\nQuando Igraine seppe di essere rimasta vedova, non ebbe altra possibilità che sottomettersi al volere del re, che finì per prenderla come sposa.\n\nNove mesi dopo quell'inganno nacque un bimbo e giunse il momento in cui il re dovette pagare per la sua lussuria, consegnando a Merlino il frutto della propria passione per Igraine. Merlino affidò a Sir Hector la custodia e l'educazione del neonato che il mago battezzò con un nome che più avanti avrebbe suscitato il terrore fra i suoi nemici, poiché sarebbe stato il re d'Inghilterra più potente di tutti i tempi: Artù.\n\nQuando Artù aveva due anni, il padre morì lasciando il trono vacante. Da quel momento un'epoca buia avvolse i suoi domini. I saccheggi e le distruzioni scacciarono il buon senso e Merlino decise di convocare i cavalieri del regno per Natale sperando che il Signore inviasse un segnale che ponesse fine a tanta pazzia. \n\nGiunto il giorno stabilito, mentre tutti pregavano, apparve nel patio della chiesa più imponente di Londra un enorme blocco di marmo e su di esso un'incudine di acciaio attraversata da una spada. Su di essa erano incise queste parole:\n\n"Chiunque riesca ad estrarre la spada da questa roccia e da quest'incudine sarà re d'Inghilterra per diritto di nascita."\n\nVenne annunciato pubblicamente che, dopo il torneo dell'Anno Nuovo, tutti i cavalieri presenti avrebbero potuto cercare di estrarre la spada. Ma tutti i tentativi furono vani finché...
+de: Zu Beginn des sechsten Jahrhunderts, im Jahr 516, folgte König Artus seinem Vater Uther Pendragon auf den Thron Englands.\n\nDoch die Geschichte dessen, der Englands bester König werden sollte, begann einige Jahre früher...\n\nKurz vor Artus' Geburt befahl sein Vater, um durch einen Pakt den vom Herzog von Cornwall verursachten Streit zu beenden, dem Edelmann, mit seiner Gemahlin Igraine an den Hof zu kommen.\n\nDer König verliebte sich unsterblich in die schöne Gemahlin des Herzogs, die seinem Drängen nicht nachgab und ihren Mann bat, nachts zu fliehen und in ihrer Burg Zuflucht zu suchen. Uther Pendragon, gedemütigt, fand in diesem Trotz den perfekten Vorwand, den Herzog zu vernichten und sich seiner Länder, seiner Vasallen und... seiner Frau zu bemächtigen. So gebar die Begierde den Krieg.\n\nÄußerst grausame Schlachten wurden geschlagen, und je blutiger der Krieg wurde, desto mehr verzehrte sich der König nach Igraine. Verzweifelt suchte Uther die Hilfe des Zauberers Merlin. Dank seiner Zauberkünste gelang es dem König, Igraine zu täuschen: Drei Stunden nachdem ihr Mann in der Schlacht gefallen war, lag Uther Pendragon in der Gestalt des Herzogs bei seiner Geliebten.\n\nAls Igraine erfuhr, dass sie Witwe war, blieb ihr nichts anderes übrig, als sich dem Willen des Königs zu beugen, der sie schließlich zur Frau nahm.\n\nNeun Monate nach jener Täuschung wurde ein Kind geboren, und für den König kam die Stunde, für seine Lust zu bezahlen: Er musste Merlin die Frucht seiner Leidenschaft für Igraine übergeben. Merlin gab das Neugeborene Sir Ector in Obhut und Erziehung, und der Zauberer gab ihm einen Namen, der später seine Feinde in Schrecken versetzen sollte, denn er würde der mächtigste König Englands aller Zeiten sein: Artus.\n\nAls Artus zwei Jahre alt war, starb sein Vater und ließ den Thron leer. Von da an brach ein finsteres Zeitalter über seine Länder herein. Plünderung und Zerstörung vertrieben alle Vernunft, und Merlin beschloss, die Ritter des Reiches zu Weihnachten zusammenzurufen, in der Hoffnung, der Herr möge ein Zeichen senden, um diesem Wahnsinn ein Ende zu bereiten.\n\nAls der festgesetzte Tag kam, erschien, während alle beteten, auf dem Kirchhof der größten Kirche Londons ein gewaltiger Marmorblock und darauf ein Amboss aus Stahl, durch den ein Schwert getrieben war. Darauf waren diese Worte eingraviert:\n\n»Wer dieses Schwert aus diesem Stein und Amboss zieht, ist von Rechts wegen der geborene König ganz Englands.«\n\nEs wurde verkündet, dass nach dem Neujahrsturnier jeder anwesende Ritter versuchen dürfe, das Schwert zu ziehen. Doch jeder Versuch war vergebens, bis...
+
+it: Artù estrasse la spada che era conficcata in un blocco di pietra nel patio della chiesa.
+de: Artus zog das Schwert, das in einem Steinblock auf dem Kirchhof steckte.
+
+it: Sir Kay, il fratellastro di Artù, riconobbe la spada non appena l'ebbe impugnata e subito la mostrò al padre. Sir Hector, con i due figli, tornò alla chiesa e chiese ad Artù di rinfilare la spada nella roccia e di estrarla nuovamente, cosa che il ragazzo fece senza alcuna difficoltà.\n\nDi fronte all'evidenza dei fatti il padre ed il fratello s'inchinarono dinanzi ad Artù.\n\nL'Arcivescovo di Canterbury, informato dell'accaduto, diede ordine a tutti i cavalieri di riunirsi. Ognuno di loro tentò, inutilmente di estrarre la spada dalla roccia. Solo Artù riuscì ad impossessarsene senza alcuna difficoltà. I cavalieri del regno tentarono nuovamente l'impresa il giorno di Pentecoste ma, anche in quell'occasione, Artù fu il solo a riuscirci.\n\nE così l'Arcivescovo decise di investire Artù del titolo di cavaliere e poi di quello di re. Ed egli giurò che sarebbe stato un re giusto e leale fino alla fine dei suoi giorni.
+de: Sir Kay, Artus' Ziehbruder, erkannte das Schwert, sobald er es hielt, und zeigte es sofort seinem Vater. Sir Ector kehrte mit seinen beiden Söhnen in die Kirche zurück und bat Artus, das Schwert wieder in den Stein zu stecken und erneut herauszuziehen, was der Junge mühelos tat.\n\nAngesichts dieser klaren Wahrheit knieten Vater und Bruder vor Artus nieder.\n\nDer Erzbischof von Canterbury, über das Geschehene unterrichtet, befahl allen Rittern, sich zu versammeln. Jeder von ihnen versuchte vergeblich, das Schwert aus dem Stein zu ziehen. Nur Artus konnte es mühelos nehmen. Die Ritter des Reiches versuchten es am Pfingsttag erneut, doch auch diesmal gelang es allein Artus.\n\nUnd so beschloss der Erzbischof, Artus zum Ritter und dann zum König zu machen. Und Artus schwor, bis ans Ende seiner Tage ein gerechter und treuer König zu sein.
+
+it: Porta a tuo fratello Kay una spada, prima che venga squalificato dal torneo
+de: Bringen Sie Ihrem Bruder Kay ein Schwert, bevor er vom Turnier ausgeschlossen wird
+
+it: Rimane poco tempo...
+de: Es bleibt wenig Zeit...
+
+it: Artù non giunse in tempo al torneo...
+de: Artus kam nicht rechtzeitig zum Turnier...
+
+it: Artù è morto...
+de: Artus ist tot...
+
+it: Corri a dare la spada a tuo fratello Kay.
+de: Lauf und gib deinem Bruder Kay das Schwert.
+
+it: Espada
+de: Schwert
+
+it: Artù non giunse in tempo al torneo
+de: Artus kam nicht rechtzeitig zum Turnier
+
+it: Forza, figli miei, o non arriveremo mai al torneo...
+de: Kommt, meine Söhne, sonst kommen wir nie zum Turnier...
+
+it: Ho già 15 anni padre, quando potrò partecipare?
+de: Ich bin schon fünfzehn, Vater. Wann darf ich teilnehmen?
+
+it: Non affliggerti, quando sarai abbastanza grande potrai farlo, Artù.
+de: Gräme dich nicht. Wenn du alt genug bist, wirst du es, Artus.
+
+it: Nel frattempo prendi esempio da tuo fratello Kay.
+de: Bis dahin folge dem Beispiel deines Bruders Kay.
+
+it: Sì, padre.
+de: Ja, Vater.
+
+it: Spero che quest'anno il Signore mi giudichi degno.
+de: Ich hoffe, der Herr hält mich dieses Jahr für würdig.
+
+it: Benvenuto Sir Hector. Il torneo è appena cominciato. Vostro figlio, Sir Kay, partecipa?
+de: Willkommen, Sir Ector. Das Turnier hat gerade begonnen. Nimmt Euer Sohn, Sir Kay, teil?
+
+it: Certo.
+de: Gewiss.
+
+it: Allora dovrebbe brandire una spada. Il suo turno è dopo questa giostra.
+de: Dann muss er ein Schwert tragen. Nach diesem Lanzengang ist er an der Reihe.
+
+it: Ho dimenticato a casa la mia spada, padre.
+de: Ich habe mein Schwert zu Hause gelassen, Vater.
+
+it: Corri Artù! Vai a cercare una spada. Io devo aiutare tuo fratello ad indossare l'armatura e a prepararsi per il torneo. Se non ritorni prima della fine di questa clessidra tuo fratello sarà squalificato. Non perdere tempo giocando con le mucche!
+de: Lauf, Artus! Hol ein Schwert. Ich muss deinem Bruder in die Rüstung helfen und ihn für das Turnier bereitmachen. Bist du nicht zurück, bevor diese Sanduhr abgelaufen ist, wird dein Bruder ausgeschlossen. Vertrödle keine Zeit mit Spielen bei den Kühen!
+
+it: Sarò rapido come il vento!
+de: Ich werde schnell wie der Wind sein!
+
+it: La casa è chiusa! Sono tutti a vedere il torneo... e ora dove la trovo una spada? Umm...
+de: Das Haus ist verschlossen! Alle sind zum Turnier gegangen... und wo finde ich jetzt ein Schwert? Hm...
+
+it: Devo assolutamente portargliene una... o qualche scapaccione non me lo leva nessuno. Domanderò a quei taglialegna se possono prestarmene una.
+de: Ich muss ihm wirklich eines bringen... sonst entgehe ich einer ordentlichen Tracht Prügel nicht. Ich frage die Holzfäller dort, ob sie mir eines leihen können.
+
+it: Per favore, lasciatemi passare.
+de: Bitte lasst mich durch.
+
+it: Cosa vuoi, figliolo?
+de: Was willst du, mein Sohn?
+
+it: Voglio entrare a prendere la spada.
+de: Ich will hinein und das Schwert holen.
+
+it: Sono il giardiniere.
+de: Ich bin der Gärtner.
+
+it: Mi dispiace, non abbiamo giardini.
+de: Tut mir leid, wir haben keine Gärten.
+
+it: Ah, ah, ah... Prima dovrebbe spuntarti la barba e dovresti vincere il torneo. Tornatene a casa, ragazzo.
+de: Ha, ha, ha... Erst lass dir einen Bart wachsen und gewinne das Turnier. Geh nach Hause, Junge.
+
+it: Vengo a pregare.
+de: Ich bin gekommen, um zu beten.
+
+it: In questo caso passa pure, figlio mio.
+de: Dann tritt ein, mein Sohn.
+
+it: Spero che mio fratello non si accorga che non si tratta della sua spada.
+de: Ich hoffe, mein Bruder merkt nicht, dass es nicht sein Schwert ist.
+
+it: Guardate questo ragazzo... Ha estratto la spada!
+de: Seht euch diesen Jungen an... Er hat das Schwert gezogen!
+
+it: Scusatemi. Potreste prestarmi una spada?
+de: Verzeihung. Könntet Ihr mir ein Schwert leihen?
+
+it: Ah, ah, ah... Ragazzo, ci hai presi per dei guerrieri? Siamo semplici taglialegna.
+de: Ha, ha, ha... Junge, hältst du uns für Krieger? Wir sind einfache Holzfäller.
+
+it: Ah, ah, ah! L'unica spada disponibile si trova nel patio della chiesa.
+de: Ha, ha, ha! Das einzige Schwert, das zu haben ist, steckt auf dem Kirchhof.
+
+it: Chiaramente bisogna vedere se il clero ti lascerà passare... Devi dir loro che vai a pregare... e di certo ti spalancheranno le porte. Ma non ti risulterà così facile impossessarti della spada, ragazzo. Ah, ah, ah!
+de: Natürlich, wir werden sehen, ob die Geistlichen dich durchlassen... Du musst ihnen sagen, dass du zum Beten gekommen bist... dann öffnen sie dir sicher die Türen. Aber so leicht wirst du nicht an das Schwert kommen, Junge. Ha, ha, ha!
+
+it: Grazie.
+de: Danke.
+
+it: Briganti!
+de: Räuber!
+
+it: Addosso!
+de: Packt sie!
+
+it: Ho la forza per affrontarli...
+de: Ich habe die Kraft, mich ihnen zu stellen...
+
+# excalibur e il re artu.wcm::maps/1_b merlín y el rey arturo b
+it: Merlino e il Re Artù 2
+de: Merlin und König Artus 2
+
+it: Fedeli
+de: Königstreue
+
+it: Ribelli
+de: Aufständische
+
+it: Abitanti
+de: Bürger
+
+it: Merlino
+de: Merlin
+
+it: Nobili ribelli
+de: Aufständische Adlige
+
+it: Re
+de: König
+
+it: Mago
+de: Zauberer
+
+it: Arcivescovo di Canterbury
+de: Erzbischof von Canterbury
+
+it: Generale
+de: Feldherr
+
+it: La Torre
+de: Der Turm
+
+it: Sir Bawdewyn
+de: Sir Baudwin
+
+it: Re di Scozia
+de: König von Schottland
+
+it: Re Lot
+de: König Lot
+
+it: Re di Carados
+de: König Carados
+
+it: Re Nentres
+de: König Nentres
+
+it: Duca Estance
+de: Herzog Estance
+
+it: Re dei Cento Cavalieri
+de: König der Hundert Ritter
+
+it: Pozione di vita
+de: Trank des Lebens
+
+it: Pozione di forza
+de: Trank der Stärke
+
+it: Un brivido ti corre lungo la schiena...
+de: Ein Schauer läuft Ihnen über den Rücken...
+
+it: MERLINO E IL RE ARTÙ\n\nDopo aver cercato di organizzare il proprio governo e aver imposto la pace e l'ordine, Artù con i suoi cavalieri si trasferì in Galles, nella città di Caerlon, per essere ufficialmente incoronato.\n\nMa mentre accadeva tutto questo, un gruppo di re e cavalieri, fra i quali il re Lot di Lothian e Orkney, il re di Scozia, il re di Carados e il re dei Cento Cavalieri, non essendo a conoscenza delle vere origini di Artù, cospiravano per destituirlo. Questi nobili signori si radunarono a Caerleon per manifestare la propria contrarietà al fatto che un uomo senza lignaggio e nobiltà di sangue reggesse la corona d'Inghilterra.\n\nSu consiglio di Merlino, Artù cercò di parlare con loro ma non venne ascoltato. Lo stesso mago cercò di dissuaderli ma nessuno gli diede retta... Di fronte ad una tale minaccia Artù riunì i suoi più fedeli cavalieri, armati e approvvigionati, e decise di affrontare l'imminente offensiva appostandosi in una torre fortificata.\n\nA quel punto i signori ribelli cominciarono l'assedio alla torre...
+de: MERLIN UND KÖNIG ARTUS\n\nNachdem Artus versucht hatte, seine Herrschaft zu festigen und Frieden und Ordnung durchzusetzen, zog er mit seinen Rittern nach Wales, in die Stadt Caerleon, um dort förmlich gekrönt zu werden.\n\nDoch während all dies geschah, verschwor sich eine Schar von Königen und Rittern, unter ihnen König Lot von Lothian und Orkney, der König von Schottland, König Carados und der König der Hundert Ritter, die nichts von Artus' wahrer Herkunft wussten, um ihn zu stürzen. Diese edlen Herren versammelten sich in Caerleon, um ihren Unmut darüber zu zeigen, dass ein Mann ohne Abstammung und ohne edles Blut die Krone Englands trug.\n\nAuf Merlins Rat versuchte Artus, mit ihnen zu sprechen, doch er wurde nicht angehört. Der Zauberer selbst versuchte, sie umzustimmen, doch niemand hörte auf ihn... Angesichts dieser Bedrohung versammelte Artus seine treuesten Ritter, bewaffnet und mit Vorräten versehen, und beschloss, dem bevorstehenden Ansturm von einem befestigten Turm aus zu begegnen.\n\nDa begannen die aufständischen Herren die Belagerung des Turms...
+
+it: Hanno assassinato l'Arcivescovo... Senza lui la causa è perduta.
+de: Sie haben den Erzbischof ermordet... Ohne ihn ist die Sache verloren.
+
+it: Hanno atterrato uno dei tuoi generali... Le tue truppe fuggono terrorizzate.
+de: Sie haben einen Ihrer Feldherren niedergestreckt... Ihre Truppen fliehen in Panik.
+
+it: I ribelli non devono occupare la Torre.
+de: Die Aufständischen dürfen den Turm nicht einnehmen.
+
+it: Hanno occupato la Torre... Tutto è perduto.
+de: Sie haben den Turm eingenommen... Alles ist verloren.
+
+it: Nel frattempo, nell'accampamento nemico...
+de: Unterdessen im feindlichen Lager...
+
+it: Il nemico si ritira per preparare l'attacco finale...\n\nSe non accade un miracolo, siamo perduti.
+de: Der Feind zieht sich zurück, um den letzten Sturm vorzubereiten...\n\nWenn kein Wunder geschieht, sind wir verloren.
+
+it: Retirada
+de: Rückzug
+
+it: Finalmente si decisero ad ascoltare Artù che uscì scortato ma quando andò incontro ai signori ribelli, da entrambe le parti si levarono parole forti e irate e non si raggiunse un accordo...
+de: Endlich willigten sie ein, Artus anzuhören, der unter Geleit herauskam; doch als er den aufständischen Herren begegnete, fielen auf beiden Seiten harte und zornige Worte, und es kam keine Einigung zustande...
+
+it: Gli abitanti di Caerleon si sono uniti alla nostra causa armati di bastoni e randelli.
+de: Die Bürger von Caerleon haben sich, mit Stöcken und Knüppeln bewaffnet, unserer Sache angeschlossen.
+
+it: Mentre i nemici fuggivano, Merlino apparve ad Artù e gli consigliò di non inseguirli perché i suoi uomini erano pochi e stanchi.\n\nTornato a Londra, Artù convocò un Consiglio Generale nel corso del quale Merlino predisse che i sei signori ribelli ancora liberi avrebbero proseguito la guerra in modo sporadico. Cosa conveniva fare? Sarebbe stata una decisione del re, che però avrebbe potuto contare sulla forza e la lealtà dei suoi cavalieri.
+de: Als die Feinde flohen, erschien Merlin Artus und riet ihm, sie nicht zu verfolgen, denn seine Männer waren wenige und erschöpft.\n\nZurück in London berief Artus einen Großen Rat ein, auf dem Merlin vorhersagte, dass die sechs noch freien aufständischen Herren den Krieg hier und dort fortsetzen würden. Was war zu tun? Die Entscheidung lag beim König, doch er konnte auf die Stärke und Treue seiner Ritter zählen.
+
+it: Attacca i nobili ribelli.
+de: Greifen Sie die aufständischen Adligen an.
+
+it: Proteggi il tuo esercito dal fuoco nemico all'interno della Torre.
+de: Bringen Sie Ihr Heer im Turm vor dem feindlichen Beschuss in Sicherheit.
+
+it: Utilizza le tue macchine d'assedio contro le forze nemiche.
+de: Setzen Sie Ihre Belagerungsmaschinen gegen die feindlichen Truppen ein.
+
+it: Artù, Merlino, Sir Hector, Sir Kay, Sir Bawdewyn, Sir Brastias e l'Arcivescovo di Canterbury devono sopravvivere.
+de: Artus, Merlin, Sir Ector, Sir Kay, Sir Baudwin, Sir Brastias und der Erzbischof von Canterbury müssen überleben.
+
+it: Hanno decimato i tuoi uomini...! Devi claudicare.
+de: Sie haben Ihre Männer dezimiert...! Sie müssen sich ergeben.
+
+it: Hai annientato le masnade ribelli.
+de: Sie haben die aufständischen Scharen vernichtet.
+
+it: Hanno ucciso tutti gli abitanti di Caerleon.
+de: Sie haben alle Bürger von Caerleon getötet.
+
+it: Merlino è morto. Che disgrazia! Devi claudicare.
+de: Merlin ist tot. Welch ein Unglück! Sie müssen sich ergeben.
+
+it: Re Artù giace colpito a morte. Camelot non vedrà più la luce.
+de: König Artus liegt tödlich verwundet. Camelot wird nie das Licht der Welt erblicken.
+
+it: I nobili ribelli fuggono da codardi, per evitare di farsi annientare.
+de: Die aufständischen Adligen fliehen feige, um der Vernichtung zu entgehen.
+
+it: Non toccate il mio tesoro o pagherete con la vita.
+de: Rührt meinen Schatz nicht an, oder ihr bezahlt mit eurem Leben.
+
+it: Siamo assediati e il nemico si accinge ad attaccare. Presto! Riparate la porta a sud che è danneggiata.\n\nDobbiamo impedire che prendano la torre!
+de: Wir sind belagert, und der Feind greift gleich an. Schnell! Repariert das beschädigte Südtor.\n\nWir müssen verhindern, dass sie den Turm einnehmen!
+
+it: Sì, Maestà.
+de: Ja, Majestät.
+
+it: Che Dio ci dia la forza per distruggere il nemico.
+de: Möge Gott uns die Kraft geben, den Feind zu vernichten.
+
+it: Veloci! Impugnate le armi! Il nemico ci attacca.
+de: Schnell! Zu den Waffen! Der Feind greift uns an.
+
+it: Maestà, se doveste trovarvi in pericolo, non esitate ad utilizzare la spada di Uther.
+de: Majestät, solltet Ihr in Gefahr geraten, zögert nicht, Uthers Schwert zu gebrauchen.
+
+it: Qualcuno dovrebbe andare alla ricerca dell'esercito che ho inviato a sud-est per richiamarlo.
+de: Jemand sollte das Heer suchen, das ich nach Südosten geschickt habe, und es zurückrufen.
+
+it: Merlino, tu che sei un uomo saggio, dicci: perché questo ragazzino imberbe e senza lignaggio ha occupato il trono d'Inghilterra?
+de: Merlin, du weiser Mann, sag uns: Warum hat dieser bartlose Knabe ohne Abstammung den Thron Englands bestiegen?
+
+it: Signori miei, vi dirò qual è la ragione. Artù è il figlio di re Uther Pendragon, nato da Igraine, un tempo sposa del duca di Tintagel, e per questo è destinato ad essere il re d'Inghilterra.
+de: Meine Herren, ich sage euch den Grund. Artus ist der Sohn König Uther Pendragons, geboren von Igraine, einst Gemahlin des Herzogs von Tintagel, und darum ist er bestimmt, König von England zu sein.
+
+it: In questo caso Artù è un illegittimo e come tale non può sedere sul trono.
+de: Dann ist Artus ein Bastard, und als solcher kann er nicht auf dem Thron sitzen.
+
+it: I beni che offriremo ad Artù saranno la spada e la guerra.
+de: Unsere Geschenke an Artus werden das Schwert und der Krieg sein.
+
+it: È vergognoso che una terra tanto nobile sia nelle mani di un moccioso senza nobiltà.
+de: Es ist eine Schande, dass so ein edles Land in den Händen eines Rotzbengels ohne Adel ist.
+
+it: Quanto dite non corrisponde al vero. Artù è stato concepito tre ore dopo la morte del duca, e tredici giorni dopo Uther sposò Igraine, che divenne regina. Pertanto Artù è frutto del loro matrimonio e non è un bastardo come volete sostenere.
+de: Was ihr sagt, ist nicht wahr. Artus wurde drei Stunden nach dem Tod des Herzogs gezeugt, und dreizehn Tage später heiratete Uther Igraine, die Königin wurde. Darum ist Artus die Frucht ihrer Ehe und kein Bastard, wie ihr behauptet.
+
+it: Bah... sei uno stregone e un ciarlatano.
+de: Pah... du bist ein Hexer und ein Scharlatan.
+
+it: Vi annuncio che nonostante il vostro dissenso, o quello di chiunque altro, Artù è il legittimo re, annienterà i suoi nemici e regnerà a lungo sull'Inghilterra, l'Irlanda, la Scozia e il Galles, così come su altri regni che non mi prenderò nemmeno il disturbo di nominare.
+de: Ich sage euch: Ob ihr oder sonst jemand widerspricht, Artus ist der rechtmäßige König. Er wird seine Feinde zermalmen und lange über England, Irland, Schottland und Wales herrschen, dazu über andere Reiche, die zu nennen ich mir gar nicht die Mühe mache.
+
+it: Non siamo il genere di uomini che si lascia intimorire dalle ingannevoli parole di un indovino.
+de: Wir sind nicht die Männer, die sich von den trügerischen Worten eines Wahrsagers schrecken lassen.
+
+it: Mio signore, attacca subito e con forza i nobili mentre sono impreparati e disorganizzati. Inoltre, alcuni cavalieri hanno abbandonato i ribelli e hanno abbracciato la nostra causa. Li incontrerai a sud. Io ti aiuterò con la mia magia.
+de: Herr, greift die Adligen sofort und hart an, solange sie unvorbereitet und in Unordnung sind. Außerdem haben einige Ritter die Aufständischen verlassen und sich unserer Sache angeschlossen. Ihr trefft sie im Süden. Ich werde Euch mit meiner Magie helfen.
+
+it: Piomberemo su di loro menando colpi a destra e a manca.
+de: Wir fallen über sie her und schlagen nach rechts und links.
+
+it: Se attacchiamo i loro capi, vinceremo la battaglia.
+de: Greifen wir ihre Anführer an, gewinnen wir die Schlacht.
+
+# excalibur e il re artu.wcm::maps/2 los nobles rebeldes
+it: I nobili ribelli
+de: Die aufständischen Adligen
+
+it: Eroi
+de: Helden
+
+it: Nobili
+de: Adlige
+
+it: Esploratori
+de: Späher
+
+it: Re di
+de: König von
+
+it: Scozia
+de: Schottland
+
+it: Irlanda
+de: Irland
+
+it: Cradilment
+de: Cradelmas
+
+it: Uryens
+de: Urien
+
+it: Re dei
+de: König der
+
+it: Cento
+de: Hundert
+
+it: Clarivaus
+de: Clariance
+
+it: Duca di
+de: Herzog von
+
+it: Lyonse
+de: Lionses
+
+it: Gryfflet
+de: Griflet
+
+it: Bawdewyn
+de: Baudwin
+
+it: Hector
+de: Ector
+
+it: Il mago
+de: Der Zauberer
+
+it: Lucas
+de: Lucan
+
+it: I NOBILI RIBELLI\n\nDopo essersi ripresi dalla sconfitta, i nemici di Artù avevano accresciuto considerevolmente le loro forze grazie ad accordi e coalizioni con altri nobili che, come loro, non vedevano di buon occhio il giovane re.\n\nDi fronte a questa pericolosa situazione, Merlino consigliò ad Artù di chiedere aiuto a due re francesi: Ban de Benwick e Bors di Gallia, scrivendo loro delle lettere che sarebbero state consegnate personalmente da due dei migliori cavalieri di Artù.\n\nRicevuta la richiesta d'intervento, entrambi i sovrani promisero di intervenire con un numeroso esercito prima del giorno di Ognissanti, con la promessa che Artù, in caso di loro bisogno, avrebbe ricambiato il favore. Così avvenne e, in occasione del loro arrivo, il re d'Inghilterra organizzò giostre e tornei per festeggiarli.\n\nAl termine dei festeggiamenti, una notte, i tre re si riunirono e stabilirono, fra le altre cose, che Merlino si sarebbe recato in Francia per reclutare un esercito da condurre a nord dell'Inghilterra.\n\nIn gran segreto Merlino riunì diecimila cavalieri che imbarcò con i loro destrieri alla volta dell'Inghilterra. Lui stesso li fece nascondere nel bosco di Bedgrayne ed informò Artù, che ne fu molto compiaciuto e con lui i due re francesi. Poi si diressero tutti verso l'accampamento segreto in cui stanziava questo imponente esercito.\n\nNel frattempo i ribelli del nord si prepararono alla guerra mettendo sotto assedio un castello nelle vicinanze del bosco di Bedgrayne. Poco dopo il grosso dell'esercito ribelle marciava verso l'accampamento di Artù...
+de: DIE AUFSTÄNDISCHEN ADLIGEN\n\nNachdem sie sich von ihrer Niederlage erholt hatten, hatten Artus' Feinde ihre Streitkräfte durch Pakte und Bündnisse mit anderen Adligen, die den jungen König ebenso wenig mochten, stark vermehrt.\n\nAngesichts dieser gefährlichen Lage riet Merlin Artus, zwei französische Könige um Hilfe zu bitten, Ban von Benwick und Bors von Gallien, und ihnen Briefe zu schreiben, die zwei von Artus' besten Rittern persönlich überbringen sollten.\n\nAls sie den Hilferuf erhielten, versprachen beide Könige, vor Allerheiligen mit einem großen Heer zu kommen, unter der Zusage, dass Artus ihnen im Bedarfsfall denselben Dienst erweisen würde. So geschah es, und bei ihrer Ankunft veranstaltete der König von England ihnen zu Ehren Lanzenstechen und Turniere.\n\nAls die Feste vorüber waren, trafen sich die drei Könige eines Nachts und kamen unter anderem überein, dass Merlin nach Frankreich gehen, ein Heer ausheben und es in den Norden Englands führen sollte.\n\nIn größter Heimlichkeit sammelte Merlin zehntausend Ritter und schiffte sie mit ihren Rössern nach England ein. Er selbst versteckte sie im Wald von Bedegraine und unterrichtete Artus, der darüber sehr erfreut war, und mit ihm die beiden französischen Könige. Dann brachen alle zu dem geheimen Lager auf, in dem dieses mächtige Heer lag.\n\nUnterdessen rüsteten sich die Aufständischen des Nordens zum Krieg und belagerten eine Burg nahe dem Wald von Bedegraine. Bald darauf marschierte der Großteil des aufständischen Heeres auf Artus' Lager zu...
+
+it: Nell'accampamento nemico...
+de: Im feindlichen Lager...
+
+it: Nel frattempo, nell'accampamento di Artù...
+de: Unterdessen in Artus' Lager...
+
+it: A est, nascosti nel bosco...
+de: Im Osten, im Wald verborgen...
+
+it: Ugualmente nascosti, al margine ovest del bosco...
+de: Ebenfalls verborgen, am Westrand des Waldes...
+
+it: Trova e distruggi gli esploratori dei ribelli, e inganna l'esercito nemico perché si diriga verso la gola.
+de: Finden und vernichten Sie die Späher der Aufständischen und locken Sie das feindliche Heer mit einer List in die Schlucht.
+
+it: Artù, Merlino, Sir Kay, l'Arcivescovo di Canterbury, re Ban, re Bors e Sir Gryfflet devono sopravvivere alla battaglia.
+de: Artus, Merlin, Sir Kay, der Erzbischof von Canterbury, König Ban, König Bors und Sir Griflet müssen die Schlacht überleben.
+
+it: Se attacchiamo brevemente e poi ci ritiriamo a Sud, il nemico ci seguirà...
+de: Greifen wir kurz an und ziehen uns dann nach Süden zurück, folgt uns der Feind...
+
+it: Annienta il nemico.
+de: Vernichten Sie den Feind.
+
+it: Quando Artù venne informato che re Royns del Galles del Nord aveva attaccato re Lodegrange di Camylarde, suo amico, si dispose a portargli aiuto partendo per quelle terre, sconfiggendo al suo passaggio le forze di Royns e liberando re Lodegrange, padre di Ginevra. Dopo questa vittoria i re francesi, che stavano difendendo Benwick dal re Caludas ripresero il cammino verso le proprie terre e Artù tornò a Caerleon.\n\nQueste gesta vennero cantate a lungo dai menestrelli, e le loro narrazioni sarebbero restate immutate se una spia non si fosse introdotta a corte. Con la scusa di consegnare un messaggio Margawse, sposa del Re Lot, rimase per un certo periodo a Caerlon spiando il Re. Artù non sapeva che questa bella donna era per metà sua sorella e peccò corteggiandola e facendole avere un figlio che secondo le profezie di Merlino sarebbe stato la sua rovina.\n\nIntimorito dalla profezia di Merlino, Artù ordinò di imbarcare su una nave tutti i bimbi maschi nati il primo di maggio. Il destino però fece cambiare il vento e la nave naufragò contro una scogliera. Fu una carneficina ma, in mezzo al fragore delle onde, un uomo che si trovava sulla spiaggia, sentì il pianto di un bimbo, l'unico sopravvissuto. Galleggiando su una tavola, quell'infante, poi chiamato Mordred, avrebbe cambiato il corso degli eventi.
+de: Als Artus erfuhr, dass König Rience von Nordwales seinen Freund König Leodegrance von Cameliard angegriffen hatte, rüstete er sich, ihm zu Hilfe zu kommen, und zog in jene Länder; unterwegs schlug er Rience' Truppen und befreite König Leodegrance, den Vater Guineveres. Nach diesem Sieg machten sich die französischen Könige, die Benwick gegen König Claudas verteidigten, auf den Heimweg, und Artus kehrte nach Caerleon zurück.\n\nDiese Taten wurden lange von den Spielleuten besungen, und ihre Geschichten wären unverändert geblieben, hätte sich nicht eine Spionin an den Hof geschlichen. Unter dem Vorwand, eine Botschaft zu überbringen, blieb Morgause, die Gemahlin König Lots, eine Zeit lang in Caerleon und spionierte den König aus. Artus wusste nicht, dass diese schöne Frau seine Halbschwester war, und er sündigte, indem er um sie warb und ihr einen Sohn schenkte, der nach Merlins Weissagungen sein Verderben sein würde.\n\nVon Merlins Weissagung erschreckt, ließ Artus alle am ersten Mai geborenen Knaben auf ein Schiff bringen. Doch das Schicksal drehte den Wind, und das Schiff zerschellte an einem Riff. Es war ein Gemetzel, doch im Tosen der Wellen hörte ein Mann am Strand das Weinen eines Kindes, des einzigen Überlebenden. Auf einer Planke treibend sollte dieser Säugling, später Mordred genannt, den Lauf der Dinge verändern.
+
+it: Artù ritiene che sia ora che i francesi entrino in battaglia e ha inviato due messaggeri. Attendono i tuoi ordini...
+de: Artus meint, es sei Zeit, dass die Franken in die Schlacht eingreifen, und hat zwei Boten geschickt. Sie erwarten Ihre Befehle...
+
+it: Francos
+de: Franken
+
+it: Dall'altra parte del fiumiciattolo c'è una città
+de: Auf der anderen Seite des Bachs liegt eine
+
+it: fantasma dimenticata da tempo. I suoi abitanti si sono destati.
+de: Geisterstadt, längst vergessen. Ihre Bewohner sind erwacht.
+
+it: A nord-est del bosco un drago difende gelosamente un tesoro.
+de: Im Nordosten des Waldes hütet ein Drache eifersüchtig einen Schatz.
+
+it: Questi vampiri a nord-est del bosco devono aver annientato un intero esercito.
+de: Diese Vampire im Nordosten des Waldes müssen ein ganzes Heer vernichtet haben.
+
+it: Questi golem a sud-est del bosco devono aver imprigionato questo arciere in una gabbia.
+de: Diese Golems im Südosten des Waldes müssen den Bogenschützen in einen Käfig gesperrt haben.
+
+it: Gli strapparono il suo arco magico.
+de: Sie haben ihm seinen Zauberbogen entrissen.
+
+it: Re Artù è morto... e con lui tutte le nostre speranze.
+de: König Artus ist tot... und mit ihm all unsere Hoffnungen.
+
+it: Merlino è morto. Che digrazia!
+de: Merlin ist tot. Welch ein Unglück!
+
+it: L'Arcivescovo giace inerte. Tutto è perduto.
+de: Der Erzbischof liegt leblos da. Alles ist verloren.
+
+it: Sir Kay è morto in battaglia. È un duro colpo per Artù.
+de: Sir Kay ist in der Schlacht gefallen. Ein harter Schlag für Artus.
+
+it: Re Ban è morto... La notizia si diffonderà per tutto il mondo conosciuto.
+de: König Ban ist tot... Die Kunde wird sich in der ganzen bekannten Welt verbreiten.
+
+it: Sir Bors è morto. Che disgrazia!
+de: Sir Bors ist tot. Welch ein Unglück!
+
+it: Sir Gryfflet è morto.
+de: Sir Griflet ist tot.
+
+it: Sir Lyonse è caduto in battaglia.
+de: Sir Lionses ist in der Schlacht gefallen.
+
+it: Sir Phariance è caduto in battaglia.
+de: Sir Phariance ist in der Schlacht gefallen.
+
+it: Sir Ladinas è caduto in battaglia.
+de: Sir Ladinas ist in der Schlacht gefallen.
+
+it: Sir Hector è caduto in battaglia.
+de: Sir Ector ist in der Schlacht gefallen.
+
+it: Sir Ulfius è caduto in battaglia.
+de: Sir Ulfius ist in der Schlacht gefallen.
+
+it: Sir Bawdewyn è caduto in battaglia.
+de: Sir Baudwin ist in der Schlacht gefallen.
+
+it: Sir Kaynes è caduto in battaglia.
+de: Sir Kaynes ist in der Schlacht gefallen.
+
+it: Sir Brastias è caduto in battaglia.
+de: Sir Brastias ist in der Schlacht gefallen.
+
+it: Sir Lucas è caduto in battaglia.
+de: Sir Lucan ist in der Schlacht gefallen.
+
+it: Entrata alla gola di Roughen
+de: Eingang der Schlucht von Roughen
+
+it: I nostri uomini sono stati annientati, tutto è perduto.
+de: Unsere Männer wurden vernichtet; alles ist verloren.
+
+it: Le masnade ribelli sono state annientate.
+de: Die aufständischen Scharen wurden vernichtet.
+
+it: I cavalieri di Ban sono morti in battaglia.
+de: Bans Ritter sind in der Schlacht gefallen.
+
+it: I cavalieri di Bors sono morti in battaglia.
+de: Bors' Ritter sind in der Schlacht gefallen.
+
+it: Hanno catturato tutti gli esploratori.
+de: Sie haben alle Späher gefangen genommen.
+
+it: Bene signori, abbiamo assediato il castello che abbiamo incontrato ieri ma dobbiamo avanzare giacché l'esercito di Artù si trova a sud, in questo bosco.
+de: Nun, meine Herren, wir haben die Burg belagert, auf die wir gestern gestoßen sind, doch wir müssen weiter, denn Artus' Heer steht im Süden, in diesem Wald.
+
+it: Io attaccherei il prima possibile.
+de: Ich würde so bald wie möglich angreifen.
+
+it: Sì, questo moccioso non si aspetta un attacco. Sicuramente pensa che lo attenderemo nel castello.
+de: Ja, dieser Rotzbengel rechnet nicht mit einem Angriff. Er denkt sicher, wir erwarten ihn an der Burg.
+
+it: Dobbiamo muoverci con cautela, forse sarebbe meglio attaccare da est, c'è più spazio e non avremmo problemi a schierare il nostro esercito in caso ci imbattessimo nella masnada dell'imberbe Artù.
+de: Wir müssen vorsichtig vorrücken. Vielleicht wäre es besser, von Osten anzugreifen: Dort ist mehr Raum, und wir könnten unser Heer mühelos entfalten, falls wir auf die Bande dieses bartlosen Artus stoßen.
+
+it: Sempre meglio che proseguire per questa gola.
+de: Besser jedenfalls, als durch diese Schlucht weiterzuziehen.
+
+it: Certo. Questo capraio potrebbe tenderci una trappola.
+de: Natürlich. Dieser Ziegenhirt könnte uns eine Falle stellen.
+
+it: Sarebbe meglio allestire anche un piccolo accampamento, si sta facendo notte e le vecchie del posto dicono che il bosco è incantato.
+de: Es wäre auch besser, ein kleines Lager aufzuschlagen. Die Nacht bricht herein, und die alten Weiber hier sagen, der Wald sei verzaubert.
+
+it: Il re di Carados ha forse paura? Ah, ah, ah.
+de: Hat der König von Carados etwa Angst? Ha, ha, ha.
+
+it: Non ho affatto paura, e se continuate a burlarvi di me...
+de: Ich habe überhaupt keine Angst, und wenn du weiter über mich spottest...
+
+it: Calmi signori. Siamo tutti dalla stessa parte.
+de: Beruhigt euch, meine Herren. Wir stehen alle auf derselben Seite.
+
+it: Giusto, ciononostante ho inviato degli esploratori verso sud.
+de: Gut. Trotzdem habe ich Späher nach Süden geschickt.
+
+it: Speriamo che non tardino a portarci notizie. Che Dio ci protegga.
+de: Hoffen wir, dass sie uns bald Nachricht bringen. Gott schütze uns.
+
+it: Bene, signori...\n\ndicci tutto Merlino.
+de: Nun, meine Herren...\n\nerzähl uns alles, Merlin.
+
+it: Il nemico si trova alla fine della gola che si trova a nord. Un attacco veloce al loro accampamento sarebbe la mossa migliore.
+de: Der Feind steht am Ende der Schlucht im Norden. Ein schneller Angriff auf sein Lager wäre der beste Zug.
+
+it: I nostri informatori ci dicono che sono superiori per numero.
+de: Unsere Kundschafter berichten, dass sie in der Überzahl sind.
+
+it: Ma non per bravura.
+de: Aber nicht an Tapferkeit.
+
+it: Forse sarebbe meglio farli procedere nella gola, in questo modo il loro numero non sarebbe più uno svantaggio per noi. Se ci attaccano da est siamo perduti.
+de: Vielleicht wäre es besser, sie in die Schlucht zu locken; dann wäre ihre Zahl kein Vorteil mehr gegen uns. Greifen sie uns von Osten an, sind wir verloren.
+
+it: Si sta facendo notte...
+de: Die Nacht bricht herein...
+
+it: Allora sarà meglio attaccare il prima possibile, quando ancora sono stanchi per la marcia che hanno dovuto compiere.
+de: Dann wäre es am besten, so bald wie möglich anzugreifen, solange sie noch vom Marsch erschöpft sind, den sie machen mussten.
+
+it: Sì... e obbligarli a discendere lungo la gola. Ma come possiamo farlo?
+de: Ja... und sie in die Schlucht hinabzwingen. Doch wie schaffen wir das?
+
+it: Se li provochiamo da dentro la gola, sicuramente la loro sete di sangue gli offuscherà la mente.
+de: Wenn wir sie aus der Schlucht heraus herausfordern, wird ihr Blutdurst ihnen gewiss den Verstand trüben.
+
+it: Sarebbe bene se riuscissimo a catturare i loro esploratori. Probabilmente stanno già venendo qui. Secondo quanto mi è stato riferito si tratta di un piccolo gruppo a cavallo e si trovano nella valle.
+de: Es wäre gut, wenn wir ihre Späher fangen könnten. Wahrscheinlich sind sie schon auf dem Weg hierher. Soweit man mir gesagt hat, sind sie ein kleiner berittener Trupp und befinden sich im Tal.
+
+it: Allora attacchiamoli.
+de: Dann greifen wir sie an.
+
+it: Fate attenzione, se per disgrazia il nemico fosse più forte di quanto pensassimo, sarebbe più sensato creare un piccolo accampamento sull'altra sponda del fiume, dove abbondano le risorse. Siate cauti, i racconti dei trovatori narrano che il bosco di Bedgrayne è incantato. Quali pericoli ci attenderanno?
+de: Gebt acht: Sollte der Feind unglücklicherweise stärker sein, als wir denken, wäre es klüger, ein kleines Lager am anderen Flussufer aufzuschlagen, wo es Rohstoffe in Fülle gibt. Seid vorsichtig; die Geschichten der Troubadoure erzählen, der Wald von Bedegraine sei verzaubert. Welche Gefahren erwarten uns dort?
+
+it: Il nostro arcivescovo veglia sempre per la nostra salute e inoltre i nostri amici Galli attendono nascosti fra i due boschi. Al nostro segnale attaccheranno...
+de: Unser Erzbischof wacht stets über unsere Gesundheit, und außerdem warten unsere Freunde aus Gallien versteckt zwischen den beiden Wäldern. Auf unser Zeichen greifen sie an...
+
+it: Che nessuno attacchi senza un mio segnale.
+de: Niemand greift ohne mein Zeichen an.
+
+it: Vediamo se questi inglesi sanno maneggiare le armi.
+de: Sehen wir, ob diese Engländer mit ihren Waffen umgehen können.
+
+it: In cosa consiste lo stratagemma di Artù, Maestà?
+de: Was ist Artus' List, Majestät?
+
+it: Nel far credere al nemico che Artù può contare solo sulle sue truppe. Non appena loro avranno provocato il nemico e avranno attaccato in valle, noi attaccheremo su segnale di Artù.
+de: Den Feind glauben zu machen, Artus könne nur auf seine eigenen Truppen zählen. Sobald sie den Feind herausgefordert und im Tal angegriffen haben, greifen wir auf Artus' Zeichen an.
+
+it: Che Dio ci dia la forza per combattere.
+de: Möge Gott uns die Kraft zum Kampf geben.
+
+it: Non intendi fermarti? Non ne hai abbastanza? È ora di porre fine a questa carneficina. I signori ribelli hanno giurato di non lasciare il campo di battaglia vivi.
+de: Wollt Ihr nicht aufhören? Habt Ihr noch nicht genug? Es ist Zeit, diesem Gemetzel ein Ende zu machen. Die aufständischen Herren haben geschworen, das Schlachtfeld nicht lebend zu verlassen.
+
+it: Sono d'accordo Merlino.
+de: Ich stimme dir zu, Merlin.
+
+it: Li distruggerò ora.
+de: Ich werde sie jetzt vernichten.
+
+it: Mi ritirerò dal campo di battaglia appena possibile e lascerò riposare i miei uomini. Mai prima d'ora così pochi uomini hanno realizzato tante prodezze contro un nemico così potente.
+de: Ich ziehe mich vom Schlachtfeld zurück, sobald ich kann, und lasse meine Männer ruhen. Nie zuvor haben so wenige Männer solche Taten gegen einen so mächtigen Feind vollbracht.
+
+it: Ti assicuro che per tre anni questo nemico non ci darà fastidio. Questi undici signori hanno, nei loro territori, più problemi di quanti immaginino. Alcuni saraceni sono sbarcati sulle loro coste saccheggiando e incendiando le loro terre e uccidendo la popolazione. Torniamo a casa...
+de: Ich versichere Euch, dieser Feind wird uns drei Jahre lang nicht behelligen. Diese elf Herren haben in ihren eigenen Ländern mehr Sorgen, als sie ahnen. Sarazenen sind an ihren Küsten gelandet, plündern und brennen ihre Länder nieder und töten die Leute. Gehen wir heim...
+
+# excalibur e il re artu.wcm::maps/3_a el poder de excalibur
+it: Il potere di Excalibur
+de: Die Macht Excaliburs
+
+it: Artù e Merlino
+de: Artus und Merlin
+
+it: Malviventi
+de: Gesetzlose
+
+it: Regno 4
+de: Reich 4
+
+it: Stregato
+de: Verhexte
+
+it: Mostri
+de: Ungeheuer
+
+it: Dama
+de: Herrin
+
+it: del Lago
+de: vom See
+
+it: Vascello
+de: Schiff
+
+it: Contadino
+de: Bauer
+
+it: Un giorno Artù, passeggiando per un bosco nei dintorni di Camelot...
+de: Eines Tages, als Artus in einem Wald nahe Camelot spazieren ging...
+
+it: La spada di Artù si spezzò in due ed egli venne disarcionato.
+de: Artus' Schwert zerbrach in zwei Stücke, und er wurde aus dem Sattel gehoben.
+
+it: Merlino operò una magia contro il cavaliere.
+de: Merlin belegte den Ritter mit einem Zauber.
+
+it: Una donna si avvicina camminando sulla superficie del lago
+de: Eine Frau kommt über die Oberfläche des Sees geschritten
+
+it: Appropriati del vascello vigilato dai mostri e prendi la spada.
+de: Erobern Sie das von den Ungeheuern bewachte Schiff und holen Sie das Schwert.
+
+it: Artù è morto.
+de: Artus ist tot.
+
+it: Mago Merlino è morto
+de: Der Zauberer Merlin ist tot
+
+it: Artù afferrò delicatamente la spada.
+de: Artus ergriff sanft das Schwert.
+
+it: Gli assalitori fuggirono alla vista di Artù.
+de: Die Angreifer flohen beim Anblick von Artus.
+
+it: Artù prese la delicatamente la spada, la mano si aprì e poi scomparve nell'acqua. \n\nLa spada riportava incisa la scritta: "Excalibur"
+de: Artus ergriff sanft das Schwert; die Hand öffnete sich und verschwand dann im Wasser.\n\nIn das Schwert war das Wort eingraviert: »Excalibur«
+
+it: Artù è salito sul vascello...
+de: Artus ist an Bord des Schiffes gegangen...
+
+it: I contadini che attaccarono Merlino sono morti.
+de: Die Bauern, die Merlin angegriffen haben, sind tot.
+
+it: Hai annientato gli esseri che proteggevano il vascello.
+de: Sie haben die Geschöpfe vernichtet, die das Schiff bewachten.
+
+it: Vedi, nonostante la tua magia e la tua scienza ti avrebbero ucciso se non fossi arrivato a salvarti. Forse stai invecchiando.
+de: Siehst du, trotz all deiner Magie und Gelehrsamkeit hätten sie dich getötet, wäre ich nicht gekommen, dich zu retten. Vielleicht wirst du alt.
+
+it: So che ti piace pensarlo ma non è così. Tu sei in pericolo più di me e io sono qui per salvarti. Accompagnami.
+de: Ich weiß, dass du das gern glaubst, doch es ist nicht so. Du bist in größerer Gefahr als ich, und ich bin hier, um dich zu retten. Komm mit mir.
+
+it: Fermi non potete passare di qui.
+de: Halt, hier kommst du nicht durch.
+
+it: Perché vigili su questo cammino e provochi ogni cavaliere che passa?
+de: Warum bewachst du diesen Weg und forderst jeden Ritter heraus, der vorbeikommt?
+
+it: È una mia abitudine.
+de: Das ist mein Brauch.
+
+it: E io te la farò cambiare.
+de: Und ich werde dich dazu bringen, ihn zu ändern.
+
+it: Fermati, cavaliere! Quest'uomo vale molto più di quanto pensi. Se lo uccidessi apriresti una ferita terribile in tutto il regno.
+de: Halt, Ritter! Dieser Mann ist weit mehr wert, als du denkst. Wenn du ihn tötest, schlägst du dem ganzen Reich eine furchtbare Wunde.
+
+it: Cosa vuoi dire?
+de: Was meinst du?
+
+it: L'uomo che stai per affrontare è re Artù.
+de: Der Mann, dem du dich gleich stellst, ist König Artus.
+
+it: L'hai ucciso?
+de: Hast du ihn getötet?
+
+it: No, è solo addormentato.
+de: Nein, er schläft nur.
+
+it: È il re Pellinore. Non c'è cavaliere al mondo che lo superi. In futuro ti offrirà ottimi servigi e anche i suoi figli Parsifal e Lamorak.
+de: Das ist König Pellinore. Es gibt keinen Ritter auf der Welt, der ihn übertrifft. Mit der Zeit wird er dir gut dienen, und auch seine Söhne Parzival und Lamorak.
+
+it: Ho perso la mia spada nel corso del combattimento. Cos'è un cavaliere senza spada?
+de: Ich habe im Kampf mein Schwert verloren. Was ist ein Ritter ohne Schwert?
+
+it: Un re vale più della sua corona e un cavaliere più della sua spada. La sconfitta attende tutti, da qualche parte. Alcuni sono distrutti dalla sconfitta, altri diventano meschini a causa della vittoria. Solo la grandezza vince sulla sconfitta e sulla vittoria.
+de: Ein König ist mehr wert als seine Krone und ein Ritter mehr als sein Schwert. Auf jeden wartet irgendwo die Niederlage. Manche zerbrechen an der Niederlage, andere werden durch den Sieg kleinlich. Nur die Größe triumphiert über Niederlage und Sieg zugleich.
+
+it: Come sempre i tuoi consigli sono ottimi.
+de: Wie immer ist dein Rat vortrefflich.
+
+it: Per di qua c'è una spada che può diventare tua, se riesco a procurartela. Seguimi...
+de: Hier entlang gibt es ein Schwert, das dein werden kann, wenn ich es dir beschaffen kann. Folge mir...
+
+it: Guarda, vicino a quell'isolotto emerge un braccio che regge una spada.
+de: Sieh, nahe der kleinen Insel ragt ein Arm aus dem Wasser und hält ein Schwert.
+
+it: È quella di cui ti parlavo.
+de: Das ist das Schwert, von dem ich dir erzählt habe.
+
+it: È la Dama del Lago.
+de: Es ist die Herrin vom See.
+
+it: Signora, vi prego, parlatemi di questa spada che vedo nel lago. Vorrei averla dato che non ne possiedo una.
+de: Herrin, ich bitte Euch, erzählt mir von diesem Schwert, das ich im See sehe. Ich hätte es gern, denn ich habe keines.
+
+it: La spada è mia, messere, ma potete prenderla. L'unico vascello che si trova da queste parti è custodito da esseri maligni.
+de: Das Schwert gehört mir, Herr, doch Ihr dürft es nehmen. Das einzige Schiff hier in der Gegend wird von bösen Geschöpfen bewacht.
+
+it: Io ti aiuterò Artù.
+de: Ich werde dir helfen, Artus.
+
+# excalibur e il re artu.wcm::maps/3_b el poder de excalibur
+it: Il potere di Excalibur 2
+de: Die Macht Excaliburs 2
+
+it: Terrabic
+de: Terrabil
+
+it: Prigioniero
+de: Gefangener
+
+it: Nerone
+de: Nero
+
+it: Fratello
+de: Bruder
+
+it: Duca
+de: Herzog
+
+it: Cladilment
+de: Cradelmas
+
+it: Royns
+de: Rience
+
+it: Libro
+de: Buch
+
+it: Negromanzia
+de: der Totenbeschwörung
+
+it: Pioggia
+de: Regen
+
+it: Fuoco
+de: aus Feuer
+
+it: Vita
+de: des Lebens
+
+it: Ipnotizzatore
+de: der Hypnose
+
+it: Mana
+de: des Manas
+
+it: Cattura il re Royns e conducilo alle rovine da cui sei partito.
+de: Nehmen Sie König Rience gefangen und bringen Sie ihn zu den Ruinen, von denen Sie aufgebrochen sind.
+
+it: Sir Balin, Sir Balan e Merlino devono sopravvivere.
+de: Sir Balin, Sir Balan und Merlin müssen überleben.
+
+it: Merlino è morto.
+de: Merlin ist tot.
+
+it: Sir Balin è caduto in battaglia.
+de: Sir Balin ist in der Schlacht gefallen.
+
+it: Sir Balan giace morto sul campo di battaglia.
+de: Sir Balan liegt tot auf dem Schlachtfeld.
+
+it: Re Royns è stato catturato. Conduciamolo alle rovine da cui siamo partiti.
+de: König Rience wurde gefangen genommen. Bringen wir ihn zu den Ruinen, von denen wir aufgebrochen sind.
+
+it: Grazie alle sue arti magiche Merlino, insieme a re Royns, si trasportò a Camelot per raccontare gli avvenimenti ad Artù che rimase colpito.\n\nNerone, fratello di Royns, stava radunando un esercito per liberarlo e Merlino consigliò di attaccarlo prima che marciasse contro Camelot
+de: Mit seinen Zauberkünsten versetzte sich Merlin zusammen mit König Rience nach Camelot, um Artus zu berichten, was geschehen war, und Artus war tief beeindruckt.\n\nNero, Rience' Bruder, sammelte ein Heer, um ihn zu befreien, und Merlin riet, ihn anzugreifen, bevor er auf Camelot marschierte
+
+it: Artù e il suo esercito sono giunti nei dintorni del castello di Terrabic.
+de: Artus und sein Heer haben die Umgebung der Burg von Terrabil erreicht.
+
+it: Distruggi il castello nemico e Terrabic si piegherà ai tuoi ordini.
+de: Zerstören Sie die feindliche Burg, und Terrabil wird sich Ihren Befehlen beugen.
+
+it: Nerone è morto in battaglia.
+de: Nero ist in der Schlacht gefallen.
+
+it: Sir Balin, Sir Balan, Merlino, re Pellinore e re Artù devono sopravvivere.
+de: Sir Balin, Sir Balan, Merlin, König Pellinore und König Artus müssen überleben.
+
+it: Re Artù è morto. Tutto è perduto.
+de: König Artus ist tot. Alles ist verloren.
+
+it: Avendo distrutto l’accampamento nemico, il castello di Terrabic è caduto nelle tue mani e i suoi contadini sono ai tuoi ordini. Affrettati ad organizzare le difese insieme a loro, dato che sta per sopraggiungere l’esercito di re Lot.
+de: Mit dem zerstörten feindlichen Lager ist die Burg von Terrabil in Ihre Hände gefallen, und ihre Bauern stehen unter Ihrem Befehl. Organisieren Sie mit ihnen rasch die Verteidigung, denn das Heer König Lots wird gleich eintreffen.
+
+it: Il castello di Terrabic è alla nostra mercé.
+de: Die Burg von Terrabil ist uns ausgeliefert.
+
+it: Il castello di Terrabic è ai tuoi ordini. Organizza le difese prima che l’esercito di re Lot e dei suoi alleati giunga in Cornovaglia. Fai presto, hai pochissimo tempo.
+de: Die Burg von Terrabil steht unter Ihrem Befehl. Organisieren Sie die Verteidigung, bevor das Heer König Lots und seiner Verbündeten Cornwall erreicht. Beeilen Sie sich: Sie haben sehr wenig Zeit.
+
+it: L’esercito di re Lot, unitamente alle forze di tutti i nobili ribelli, è sopraggiunto e ha intenzione di assediare il castello di Terrabic per distruggere Artù.\n\nPossiamo solo affidarci a Dio.
+de: Das Heer König Lots ist mit den Truppen aller aufständischen Adligen eingetroffen und will die Burg von Terrabil belagern, um Artus zu vernichten.\n\nWir können nur auf Gott vertrauen.
+
+it: Annienta re Lot e i suoi dieci nobili ribelli. Distruggi tutte le truppe nemiche.
+de: Vernichten Sie König Lot und seine zehn aufständischen Adligen. Zerstören Sie alle feindlichen Truppen.
+
+it: Il ribelle re Nentres è morto in battaglia.
+de: Der aufständische König Nentres ist in der Schlacht gefallen.
+
+it: Il ribelle re di Scozia è morto.
+de: Der aufständische König von Schottland ist tot.
+
+it: Il ribelle re di Carados è morto in battaglia.
+de: Der aufständische König Carados ist in der Schlacht gefallen.
+
+it: Il ribelle Duca di Estance è morto.
+de: Der aufständische Herzog von Estance ist tot.
+
+it: Il ribelle re Brandegoris è morto in battaglia.
+de: Der aufständische König Brandegoris ist in der Schlacht gefallen.
+
+it: Il giovane re ribelle dei Cento Cavalieri è morto in battaglia.
+de: Der junge aufständische König der Hundert Ritter ist in der Schlacht gefallen.
+
+it: Il ribelle re Clarivaus è morto.
+de: Der aufständische König Clariance ist tot.
+
+it: Il ribelle re Uryens di Gore è morto in battaglia.
+de: Der aufständische König Urien von Gore ist in der Schlacht gefallen.
+
+it: Il ribelle re Cradilment è morto.
+de: Der aufständische König Cradelmas ist tot.
+
+it: Il ribelle re Anguyshaunce d’Irlanda è morto in battaglia.
+de: Der aufständische König Anguish von Irland ist in der Schlacht gefallen.
+
+it: Il ribelle re Lot è morto in battaglia.
+de: Der aufständische König Lot ist in der Schlacht gefallen.
+
+it: Il re Pellinore è morto in battaglia.
+de: König Pellinore ist in der Schlacht gefallen.
+
+it: Sono morti tutti i capi ribelli. La vittoria è vicina.
+de: Alle Anführer der Aufständischen sind tot. Der Sieg ist nahe.
+
+it: Merlino tornò sul campo di battaglia con Sir Balin e Sir Balan. L’esercitò di Artù arriverà presto...
+de: Merlin ist mit Sir Balin und Sir Balan auf das Schlachtfeld zurückgekehrt. Artus' Heer wird bald eintreffen...
+
+it: IL POTERE DI EXCALIBUR\n\nRe Royns del Galles del Nord infiammava nuovamente le terre di Artù e si era già impossessato dell’Irlanda, distruggendo i raccolti al suo passaggio e sterminando la popolazione. Le spie di Artù testimoniavano che aveva posto sotto assedio il castello di Terrabic, in Cornovaglia.\n\nNessuno sembrava essere in grado di fermarlo finché Sir Balin, un cavaliere disonorato a causa di un crimine mai commesso, col fratello, Sir Balan e il mago Merlino decisero di catturare re Royns. Lo avrebbero condotto a Camelot per ottenere il favore del re e recuperare l’onore perduto.
+de: DIE MACHT EXCALIBURS\n\nKönig Rience von Nordwales setzte Artus' Länder wieder einmal in Brand. Er hatte bereits Irland an sich gerissen, die Ernten auf seinem Weg vernichtet und die Menschen niedergemetzelt. Artus' Spione meldeten, dass er die Burg von Terrabil in Cornwall belagerte.\n\nNiemand schien ihn aufhalten zu können, bis Sir Balin, ein Ritter, der für ein nie begangenes Verbrechen entehrt worden war, mit seinem Bruder Sir Balan und dem Zauberer Merlin beschloss, König Rience gefangen zu nehmen. Sie wollten ihn nach Camelot bringen, um die Gunst des Königs zu gewinnen und ihre verlorene Ehre zurückzuerlangen.
+
+it: Il destino e la burla di una piccola corte dai bizzarri passatempi, fecero in modo che, invece di ricevere la meritata gloria, Sir Balin e Sir Balan finirono con l’uccidersi l’uno l’altro, senza saperlo, in singolar tenzone. Tuttavia la loro impresa venne ricordata a lungo dato che, grazie a loro, Artù riuscì a terminare il processo di restaurazione del regno attraverso la legge, l’ordine e la forza.\n\nCamelot da questo momento godrà di un periodo di pace.
+de: Das Schicksal und der Scherz eines kleinen Hofes mit seltsamen Vergnügungen fügten es, dass Sir Balin und Sir Balan, statt den verdienten Ruhm zu empfangen, einander im Zweikampf töteten, ohne es zu wissen. Doch ihre Tat blieb lange in Erinnerung, denn dank ihnen konnte Artus das Reich durch Gesetz, Ordnung und Stärke vollends wiederherstellen.\n\nVon nun an wird Camelot eine Zeit des Friedens genießen.
+
+it: Capturado
+de: Gefangen
+
+it: Conduci re Royns alle rovine da cui sei partito.
+de: Bringen Sie König Rience zu den Ruinen, von denen Sie aufgebrochen sind.
+
+it: L’esercito di Artù è stato decimato.
+de: Artus' Heer wurde aufgerieben.
+
+it: Tutti gli eroi sono morti.
+de: Alle Helden sind tot.
+
+it: Terrabic è caduto davanti al nemico.
+de: Terrabil ist dem Feind in die Hände gefallen.
+
+it: Hai sconfitto tutti i capi nemici.
+de: Sie haben alle feindlichen Anführer besiegt.
+
+it: Dobbiamo muoverci con cautela. Grazie all’incantesimo che ho lanciato, fra poco sapremo dove si trova re Royns...
+de: Wir müssen vorsichtig vorrücken. Dank meines Zaubers werden wir bald wissen, wo König Rience ist...
+
+it: Umm... è il nostro momento. Royns si è allontanato dall’accampamento accompagnato solo da un gruppo di guardie.
+de: Hm... jetzt ist unsere Gelegenheit. Rience hat das Lager nur mit einer Handvoll Wachen verlassen.
+
+it: Catturiamolo e portiamolo qui.
+de: Nehmen wir ihn gefangen und bringen ihn hierher.
+
+it: Cerchiamo di essere prudenti: il castello di Terrabic è assediato dall’esercito di Royns e potrebbero tenderci un’imboscata in qualsiasi momento.
+de: Seien wir vorsichtig: Die Burg von Terrabil wird von Rience' Heer belagert, und sie könnten uns jederzeit in einen Hinterhalt locken.
+
+it: In questo caso sarebbe meglio se lanciassi un incantesimo sulle vostre armi, ma se lo facessi diminuirei il potere dei miei libri magici e delle mie pozioni. Cosa pensate sia più conveniente?
+de: In diesem Fall wäre es besser, wenn ich eure Waffen verzaubere, doch dann würde ich die Kraft meiner Zauberbücher und meiner Tränke schwächen. Was haltet ihr für das Beste?
+
+it: Usa la tua magia sulle nostre armi, le renderai più potenti.
+de: Wirke deine Magie auf unsere Waffen; du machst sie stärker.
+
+it: Preserva le tue arti magiche, ne avremo bisogno.
+de: Behalte deine Zauberkünste; wir werden sie brauchen.
+
+it: Così sia.
+de: So sei es.
+
+it: D’accordo.
+de: Einverstanden.
+
+it: Ora Royns dovrà rispondere davanti al re Artù.
+de: Jetzt wird sich Rience vor König Artus verantworten müssen.
+
+it: Non appena arriverà l’esercito di re Lot e i suoi nobili ribelli, annienteremo Artù una volta per tutte.
+de: Sobald das Heer König Lots und seiner aufständischen Adligen eintrifft, werden wir Artus ein für alle Mal zerschmettern.
+
+it: Nel frattempo noi attenderemo.
+de: Bis dahin warten wir.
+
+it: Cavalieri è ora di chiudere la ferita che dissangua il nostro popolo. Oggi Merlino ci ha promesso che la vittoria sarà nostra. Distruggiamo il castello dei nostri nemici prima che sopraggiungano le truppe di re Lot. Abbiamo poco tempo. All’attacco!
+de: Ritter, es ist Zeit, die Wunde zu schließen, aus der unser Volk blutet. Heute hat Merlin uns versprochen, dass der Sieg unser sein wird. Zerstören wir die Burg unserer Feinde, bevor die Truppen König Lots eintreffen. Wir haben wenig Zeit. Angriff!
+
+it: Che Dio ci protegga in battaglia.
+de: Möge Gott uns in der Schlacht beschützen.
+
+it: Distruggiamo l'indegno re, Artù!
+de: Vernichten wir den unwürdigen König Artus!
+
+# excalibur e il re artu.wcm::maps/4 la hermandad de la mesa redonda
+it: La Confraternita della Tavola Rotonda.
+de: Die Tafelrunde
+
+it: Saraceni
+de: Sarazenen
+
+it: Vichinghi
+de: Wikinger
+
+it: Soldato
+de: Soldat
+
+it: Vichingo
+de: Wikinger
+
+it: Ginevra
+de: Guinevere
+
+it: Regina
+de: Königin
+
+it: Danimarca
+de: von Dänemark
+
+it: del Val
+de: vom Tal
+
+it: Sorleyse
+de: von Sorleise
+
+it: Longtaynse
+de: von Longtains
+
+it: Mentre gli uomini di Artù erano accampati...
+de: Während Artus' Männer ihr Lager aufgeschlagen hatten...
+
+it: Fuggi con re Artù, la regina Ginevra, Sir Kay, Sir Gryfflet, Sir Gawain e almeno un contadino verso l'altra sponda del fiume Humber.
+de: Fliehen Sie mit König Artus, Königin Guinevere, Sir Kay, Sir Griflet, Sir Gawain und mindestens einem Bauern an das andere Ufer des Humber.
+
+it: Annienta i cinque re vichinghi.
+de: Vernichten Sie die fünf Wikingerkönige.
+
+it: Erigi una cattedrale nel punto in cui erano accampati i tuoi cavalieri e annienta tutti i vichinghi e i mercenari saraceni.
+de: Errichten Sie eine Kathedrale dort, wo Ihre Ritter lagerten, und vernichten Sie alle Wikinger und sarazenischen Söldner.
+
+it: Artù, Sir Kay, Sir Gryfflet, Ginevra e Sir Gawain devono sopravvivere.
+de: Artus, Sir Kay, Sir Griflet, Guinevere und Sir Gawain müssen überleben.
+
+it: L'abbazia è stata eretta in memoria dei valorosi cavalieri.
+de: Die Abtei wurde zum Gedenken an die tapferen Ritter errichtet.
+
+it: Sir Kay è caduto in battaglia.
+de: Sir Kay ist in der Schlacht gefallen.
+
+it: Hanno assassinato la regina Ginevra.
+de: Sie haben Königin Guinevere ermordet.
+
+it: Sir Gawain è morto.
+de: Sir Gawain ist tot.
+
+it: Re Artù è morto in battaglia.
+de: König Artus ist in der Schlacht gefallen.
+
+it: LA CONFRATERNITA DELLA TAVOLA ROTONDA\n\nNel corso di una visita al castello del re Lodegrange, Artù s'innamorò perdutamente della di lui figlia, Ginevra.\n\nDesiderava sposarla anche se Merlino lo aveva avvertito che era una scelta sfortunata. Il mago predisse, infatti, che se l'avesse sposata, lei lo avrebbe tradito con il suo miglior amico.\n\nNon dando retta ai consigli del mago, Artù inviò un corteo a chiedere ufficialmente la mano di Ginevra.\n\nIl padre di Ginevra, entusiasta della cosa, diede come dote ad Artù un'enorme tavola rotonda, un vecchio regalo di re Uther Pendragon, padre di Artù, attorno alla quale potevano sedersi centocinquanta persone. Inoltre, Lodegrange inviò insieme alla tavola cento cavalieri perfettamente armati ed equipaggiati perché servissero Artù.\n\nQuindi Artù inviò il suo miglior cavaliere, Sir Lancillotto, a ricevere Ginevra, ma subito si intuì che fra i due era nato qualcosa di più di una semplice amicizia. Tre giorni dopo Artù sposò Ginevra nella chiesa di S. Stefano, la incoronò con una cerimonia favolosa e a corte ci fu una grande festa con molto giubilo.\n\nLa tavola rotonda, dono di nozze, venne collocata in un grande salone del palazzo e Merlino, con le sue arti magiche, vi fece apparire incisi in oro i nomi dei più nobili cavalieri che avevano giurato fedeltà ad Artù. Così nacque la Confraternita della Tavola Rotonda, della quale avrebbero fatto parte i più valorosi e onorevoli cavalieri del regno, in favore della difesa dei più alti ideali della cavalleria.\n\nMa tre posti, a quella tavola, rimasero liberi.\n\nMerlino spiegò che due di essi sarebbero stati per i migliori cavalieri di ogni anno e l'altro sarebbe stato destinato all'uomo più meritevole del mondo. Se qualcuno avesse osato sedersi su quella sedia senza esserne degno, sarebbe stato annientato immediatamente.\n\nNessuno osava occupare la sedia proibita, nemmeno Sir Lancillotto che era considerato il più valoroso e degno fra i cavalieri.\n\nTrascorsero alcuni mesi e il destino fece in modo che Merlino s'innamorasse di Nyneve, una delle damigelle della Dama del Lago che Sir Pellinore aveva condotto a corte. Nyneve amava le magie e con grande astuzia interrogava Merlino sulle sue arti magiche, facendogli capire che gli avrebbe concesso i propri favori in cambio delle sue conoscenze. Il mago, completamente rapito dalla bellezza della giovane, cedette, pur sapendo che lei sarebbe stata la causa della sua rovina.\n\nCosì un giorno Nyneve, grazie alla magia appena appresa, rinchiuse a vita Merlino in una caverna.\n\nNel frattempo Artù, privato della compagnia del suo leale consigliere, ricevette la triste notizia che cinque re vichinghi, con l'appoggio di mercenari saraceni, avevano invaso l'Inghilterra con un formidabile esercito, distruggendo ogni cosa al loro passaggio: terre, uomini, castelli e città.\n\nDecisi a far fronte alla minaccia, il re e la regina partirono per il nord con i vassalli che risiedevano a corte. Giunsero sulle sponde del fiume Humber e lì si accamparono...
+de: DIE TAFELRUNDE\n\nBei einem Besuch auf der Burg König Leodegrances verliebte sich Artus unsterblich in die Tochter des Königs, Guinevere.\n\nEr wollte sie heiraten, obwohl Merlin ihn gewarnt hatte, dass es eine unglückliche Wahl sei. Der Zauberer sagte nämlich voraus, sie werde ihn, falls er sie heirate, mit seinem besten Freund betrügen.\n\nOhne auf den Rat des Zauberers zu hören, schickte Artus einen Festzug, um offiziell um Guineveres Hand anzuhalten.\n\nGuineveres Vater gab Artus hocherfreut als Mitgift einen riesigen runden Tisch, ein altes Geschenk König Uther Pendragons, Artus' Vater, an dem hundertfünfzig Menschen Platz fanden. Mehr noch: Leodegrance schickte mit dem Tisch hundert vortrefflich bewaffnete und ausgerüstete Ritter, die Artus dienen sollten.\n\nDann schickte Artus seinen besten Ritter, Sir Lancelot, um Guinevere zu empfangen, doch bald war offenkundig, dass zwischen den beiden mehr als bloße Freundschaft entstanden war. Drei Tage später heiratete Artus Guinevere in der Kirche St. Stephan, krönte sie in einer prachtvollen Zeremonie, und am Hof wurde unter großem Jubel ein großes Fest gefeiert.\n\nDie Tafelrunde, das Hochzeitsgeschenk, wurde in einem großen Saal des Palastes aufgestellt, und Merlin ließ mit seinen Zauberkünsten darauf in Gold eingraviert die Namen der edelsten Ritter erscheinen, die Artus die Treue geschworen hatten. So entstand die Gemeinschaft der Tafelrunde, der sich die tapfersten und ehrenhaftesten Ritter des Reiches anschließen sollten, zur Verteidigung der höchsten Ideale des Rittertums.\n\nDoch drei Sitze an diesem Tisch blieben leer.\n\nMerlin erklärte, zwei davon seien für die besten Ritter jedes Jahres bestimmt und der dritte für den würdigsten Mann der Welt. Sollte jemand es wagen, sich auf diesen Sitz zu setzen, ohne seiner würdig zu sein, würde er auf der Stelle vernichtet.\n\nNiemand wagte es, den verbotenen Sitz einzunehmen, nicht einmal Sir Lancelot, der als der tapferste und würdigste der Ritter galt.\n\nEinige Monate vergingen, und das Schicksal fügte es, dass Merlin sich in Nyneve verliebte, eine der Damen der Herrin vom See, die Sir Pellinore an den Hof gebracht hatte. Nyneve liebte die Magie und befragte Merlin mit großer List über seine Künste, wobei sie ihn verstehen ließ, sie werde ihm ihre Gunst im Tausch gegen sein Wissen gewähren. Der Zauberer, ganz von der Schönheit des Mädchens betört, gab nach, obwohl er wusste, dass sie sein Verderben sein würde.\n\nUnd so schloss Nyneve eines Tages mit der Magie, die sie gerade erlernt hatte, Merlin auf Lebenszeit in einer Höhle ein.\n\nUnterdessen erhielt Artus, der Gesellschaft seines treuen Ratgebers beraubt, die traurige Nachricht, dass fünf Wikingerkönige, unterstützt von sarazenischen Söldnern, mit einem gewaltigen Heer in England eingefallen waren und alles auf ihrem Weg zerstörten: Länder, Menschen, Burgen und Städte.\n\nEntschlossen, sich der Bedrohung zu stellen, zogen König und Königin mit den Vasallen, die am Hof lebten, nach Norden. Sie erreichten die Ufer des Humber und schlugen dort ihr Lager auf...
+
+it: Quando la notizia della nuova vittoria superò le frontiere, i nemici vennero presi dal terrore e quelli che avevano intenzione di attaccare Artù decisero di desistere.\n\nDopo la battaglia il re, come ricompensa degli sforzi di Sir Kay, Sir Gryfflet e Sir Gawain, li ammise a far parte del gruppo dei Cavalieri della Tavola Rotonda.
+de: Als die Kunde vom neuen Sieg die Grenzen überschritt, packte die Feinde das Entsetzen, und wer Artus hatte angreifen wollen, gab es auf.\n\nNach der Schlacht nahm der König zum Lohn für die Mühen von Sir Kay, Sir Griflet und Sir Gawain diese in die Gemeinschaft der Ritter der Tafelrunde auf.
+
+it: Annienta i vichinghi e i saraceni.
+de: Vernichten Sie die Wikinger und die Sarazenen.
+
+it: I tuoi uomini sono stati decimati.
+de: Ihre Männer wurden aufgerieben.
+
+it: I mercenari saraceni sono stati annientati.
+de: Die sarazenischen Söldner wurden vernichtet.
+
+it: Tutti i tuoi eroi sono stati annientati.
+de: Alle Ihre Helden wurden vernichtet.
+
+it: I vichinghi sono stati annientati.
+de: Die Wikinger wurden vernichtet.
+
+it: Che il Signore ci protegga!
+de: Der Herr beschütze uns!
+
+it: Hai eliminato i re vichinghi.
+de: Sie haben die Wikingerkönige getötet.
+
+it: Imboscata!
+de: Hinterhalt!
+
+it: Presto, prendete le armi!
+de: Schnell, zu den Waffen!
+
+it: Proteggiamo la regina Ginevra!
+de: Beschützen wir Königin Guinevere!
+
+it: Grazie ma anch'io so combattere.
+de: Danke, doch auch ich kann kämpfen.
+
+it: Sono troppi, non possiamo trattenerli.
+de: Es sind zu viele; wir können sie nicht aufhalten.
+
+it: Fuggiamo a sud dove ci aspettano alcuni vascelli. I nostri valorosi cavalieri ci copriranno la fuga. Quando saremo sull'altra sponda del fiume ci riorganizzeremo per attaccarli.
+de: Fliehen wir nach Süden, wo uns Schiffe erwarten. Unsere tapferen Ritter decken unsere Flucht. Sobald wir am anderen Flussufer sind, sammeln wir uns, um sie anzugreifen.
+
+it: Alcuni contadini dovrebbero accompagnarci, nel caso dovessimo montare un accampamento.
+de: Ein paar Bauern sollten mit uns kommen, falls wir ein Lager aufschlagen müssen.
+
+it: Se Merlino fosse qui... Per fortuna ho almeno Excalibur con me.
+de: Wäre nur Merlin hier... Zum Glück habe ich wenigstens Excalibur bei mir.
+
+it: Guardate! I capi vichinghi ci impediscono la ritirata.
+de: Seht! Die Wikingerhäuptlinge schneiden uns den Rückzug ab.
+
+it: Cavalcano da soli, senza scorta. Attacchiamoli, prima di salire sulle navi.
+de: Sie reiten allein, ohne Geleit. Greifen wir sie an, bevor wir an Bord der Schiffe gehen.
+
+it: Quando il nemico vedrà i suoi capi morti si perderà d'animo. Avete combattuto magnificamente. Farò in modo che riceviate una giusta ricompensa.
+de: Wenn der Feind seine Anführer tot sieht, wird er den Mut verlieren. Ihr habt prächtig gekämpft. Ich werde dafür sorgen, dass ihr gerechten Lohn erhaltet.
+
+it: Presto! Il fiume è sorvegliato da navi vichinghe.
+de: Schnell! Der Fluss wird von Wikingerschiffen überwacht.
+
+it: Sull'altra sponda del fiume troveremo le risorse necessarie per montare un accampamento da cui attaccare i vichinghi. Il fiume Humber è molto generoso per quanto riguarda la pesca.
+de: Am anderen Flussufer finden wir, was wir brauchen, um ein Lager aufzuschlagen, von dem aus wir die Wikinger angreifen. Der Humber ist sehr großzügig, was den Fischfang angeht.
+
+it: Vi prometto che erigerò un'abbazia nel punto in cui eravamo accampati, come segno di gratitudine verso i nostri valorosi cavalieri che hanno perso la vita.
+de: Ich verspreche euch, dort, wo wir lagerten, eine Abtei zu errichten, als Zeichen der Dankbarkeit für unsere tapferen Ritter, die ihr Leben gelassen haben.
+
+it: Artù! Ho condotto qui i migliori cavalieri del regno per salvarti.
+de: Artus! Ich habe die besten Ritter des Reiches hergebracht, um dich zu retten.
+
+it: Re Pellinore era accorso in aiuto di Artù ma ormai la battaglia era terminata...
+de: König Pellinore war Artus zu Hilfe geeilt, doch da war die Schlacht schon vorüber...
+
+# excalibur e il re artu.wcm::maps/5 morgana le fay
+it: La fata Morgana
+de: Morgan le Fay
+
+it: Schiavi
+de: Sklaven
+
+it: Animali
+de: Tiere
+
+it: Amici
+de: Freunde
+
+it: Strega
+de: Hexe
+
+it: Lancillotto
+de: Lancelot
+
+it: Creature
+de: Geschöpfe
+
+it: Guardiano
+de: Wächter
+
+it: Attacco
+de: Angriff
+
+it: Difesa
+de: Verteidigung
+
+it: Livello
+de: Stufe
+
+it: Salute
+de: Gesundheit
+
+it: Est/questo
+de: von Ostland
+
+it: Galles
+de: von Nordwales
+
+it: Morgana
+de: Morgan
+
+it: La Fata
+de: le Fay
+
+it: Isole
+de: der Fernen Inseln
+
+it: Ewain
+de: Iwein
+
+it: Trova e recupera la spada Excalibur.
+de: Finden Sie das Schwert Excalibur und holen Sie es zurück.
+
+it: Trova e libera Sir Lancillotto dal castello di Morgana prima che lei lo uccida.
+de: Finden Sie Sir Lancelot und befreien Sie ihn aus Morgans Burg, bevor sie ihn tötet.
+
+it: Non avendo recuperato la spada Excalibur in tempo, i nemici di Artù hanno potuto attaccare e distruggere Camelot.
+de: Da das Schwert Excalibur nicht rechtzeitig zurückgeholt wurde, konnten Artus' Feinde Camelot angreifen und zerstören.
+
+it: Tiempo
+de: Zeit
+
+it: Sir Ewain e Nyneve sono morti.
+de: Sir Iwein und Nyneve sind tot.
+
+it: Morgana ha trionfato.
+de: Morgan hat triumphiert.
+
+it: Alcuni pipistrelli di Morgana vi hanno scoperto... ora saprà che siete qui.
+de: Einige von Morgans Fledermäusen haben Sie entdeckt... jetzt wird sie wissen, dass Sie hier sind.
+
+it: Il paese chiamato Le Corna del Diavolo è stato saccheggiato dagli scagnozzi di Morgana.
+de: Das Dorf namens Teufelshörner wurde von Morgans Schergen geplündert.
+
+it: Dall'altare del teschio escono dei raggi di sole che uccidono alcuni dei tuoi eroi. I sopravvissuti cadono a terra svenuti e si risvegliano in uno strano luogo...
+de: Vom Schädelaltar gehen Sonnenstrahlen aus, die einige Ihrer Helden töten. Die Überlebenden sinken ohnmächtig zu Boden und erwachen an einem seltsamen Ort...
+
+it: Provano una strana sensazione... hanno perso gli oggetti che portavano con loro...
+de: Sie fühlen sich seltsam... sie haben die Gegenstände verloren, die sie bei sich trugen...
+
+it: Morgana ha operato una magia trasportandosi in un luogo sicuro.
+de: Morgan hat einen Zauber gewirkt und sich an einen sicheren Ort versetzt.
+
+it: Hai trovato la spada Excalibur
+de: Sie haben das Schwert Excalibur gefunden
+
+it: Bravo! Hai recuperato la spada Excalibur.
+de: Gut gemacht! Sie haben das Schwert Excalibur zurückgeholt.
+
+it: Lancilloto è riuscito a scappare scavando una galleria fino al fiume. Questo è certamente il modo migliore per fuggire dal castello. Dobbiamo cercarlo all'interno della galleria perché potrebbe trovarsi in pericolo. Ma prima dobbiamo recuperare la spada Excalibur.
+de: Lancelot ist entkommen, indem er einen Tunnel zum Fluss gegraben hat. Das ist sicher der beste Weg, aus der Burg zu fliehen. Wir müssen ihn im Tunnel suchen, denn er könnte in Gefahr sein. Doch zuerst müssen wir das Schwert Excalibur zurückholen.
+
+it: La galleria passava attraverso le segrete del castello, sfociando in un piccolo porto comunicante con il fiume che circondava il castello. I nostri eroi rubano un vascello...
+de: Der Tunnel führte durch die Kerker der Burg und mündete in einen kleinen Hafen, der mit dem Fluss rund um die Burg verbunden war. Unsere Helden stehlen ein Schiff...
+
+it: Lungo il fiume, in direzione sud-est, potrai sfuggire all'esercito di Morgana che è già alla tua ricerca. Sembra che anche Lancillotto abbia scelto questa strada con un piccolo vascello.
+de: Entlang des Flusses nach Südosten können Sie Morgans Heer entkommen, das Sie bereits sucht. Offenbar hat auch Lancelot diesen Weg genommen, in einem kleinen Boot.
+
+it: Sir Lancillotto ha fatto naufragio e si trova circondato dagli scagnozzi di Morgana. Liberalo e segui il corso del fiume!
+de: Sir Lancelot hat Schiffbruch erlitten und ist von Morgans Schergen umzingelt. Befreien Sie ihn und folgen Sie dem Lauf des Flusses!
+
+it: Nonostante gli sforzi degli scagnozzi di Morgana, sei riuscito nel tuo intento.
+de: Trotz der Bemühungen von Morgans Schergen ist es Ihnen gelungen.
+
+it: Castello di Morgana. Non siete i benvenuti.
+de: Morgans Burg. Sie sind hier nicht willkommen.
+
+it: LA FATA MORGANA\n\nLa fata Morgana, sorellastra di Artù, era una donna misteriosa, attraente e passionale, piena di crudeltà e ambizione. Da giovane, in un convento, aveva appreso l'arte della magia nera e della negromanzia. Ma soprattutto traeva piacere nel piegare gli uomini e sottometterli al suo volere grazie alla bellezza, agli incantesimi e, nel caso non bastassero, col tradimento e l'omicidio.\n\nDa quando Artù era diventato re, Morgana desiderava impossessarsi del suo trono e aveva tentato per ben due volte, per fortuna senza riuscirci, di assassinare il fratellastro.\n\nTimorosa della vendetta di Artù, scappò nei suoi possedimenti nel paese di Gore e, chiusa nel suo inespugnabile castello, pianificò, assieme a tre regine fattucchiere, come eliminare Artù.\n\nUno dei suoi malefici stratagemmi consistette nel rubare Excalibur. E come se non bastasse Sir Lancillotto, uno dei più valorosi cavalieri di Artù, cadde preda delle streghe che lo rinchiusero in un'oscura prigione sotterranea, in attesa di una fine terribile.\n\nSir Ewain, figlio di Morgana e cugino del re, assieme alla fattucchiera Nyneve, che non amava molto Morgana, decisero di recuperare Excalibur e liberare Sir Lancillotto. Non erano soli: alcuni amici stranieri di Sir Ewain li accompagnavano in quest'avventura...
+de: MORGAN LE FAY\n\nMorgan le Fay, Artus' Halbschwester, war eine geheimnisvolle Frau, verführerisch und leidenschaftlich, voller Grausamkeit und Ehrgeiz. Als Mädchen hatte sie in einem Kloster die Kunst der schwarzen Magie und der Totenbeschwörung erlernt. Vor allem aber bereitete es ihr Vergnügen, Männer zu beugen und sie ihrem Willen zu unterwerfen, durch ihre Schönheit, durch Zauber und, wenn dies nicht genügte, durch Verrat und Mord.\n\nSeit Artus König geworden war, sehnte sich Morgan danach, seinen Thron an sich zu reißen, und zweimal hatte sie, zum Glück vergeblich, versucht, ihren Halbbruder zu ermorden.\n\nAus Furcht vor Artus' Rache floh sie in ihre Länder im Land Gore und schmiedete, eingeschlossen in ihrer uneinnehmbaren Burg, mit drei Zauberinnen-Königinnen Pläne, wie sie Artus beseitigen könnte.\n\nEiner ihrer finsteren Pläne war es, Excalibur zu stehlen. Und als wäre das nicht genug, fiel Sir Lancelot, einer der tapfersten Ritter des Artus, den Hexen in die Hände, die ihn in einen finsteren Kerker sperrten, wo ihn ein schreckliches Ende erwartete.\n\nSir Iwein, Morgans Sohn und Vetter des Königs, beschloss zusammen mit der Zauberin Nyneve, die Morgan wenig zugetan war, Excalibur zurückzuholen und Sir Lancelot zu befreien. Sie waren nicht allein: Einige fremde Freunde Sir Iweins begleiteten sie auf diesem Abenteuer...
+
+it: Ferita nell'orgoglio, Morgana dovette ammettere la sconfitta: Sir Lancillotto era fuggito e Artù si era riappropriato di Excalibur.\n\nTuttavia giurò a se stessa che avrebbe eliminato il fratellastro e tutto quello che lui amava, anche a costo della vita. Possedeva ancora molto potere e lo avrebbe dimostrato al momento opportuno.
+de: In ihrem Stolz verletzt, musste Morgan ihre Niederlage eingestehen: Sir Lancelot war entkommen, und Artus hatte Excalibur zurückerobert.\n\nDoch sie schwor sich, ihren Halbbruder und alles, was er liebte, zu vernichten, und koste es sie das Leben. Sie besaß noch große Macht, und sie würde sie zeigen, wenn die Zeit gekommen war.
+
+it: Lancillotto è riuscito a scappare scavando una galleria fino al fiume. Ora che abbiamo la spada Excalibur, seguiremo questa galleria perchè Sir Lancillotto potrebbe trovarsi in pericolo
+de: Lancelot ist entkommen, indem er einen Tunnel zum Fluss gegraben hat. Jetzt, da wir das Schwert Excalibur haben, folgen wir diesem Tunnel, denn Sir Lancelot könnte in Gefahr sein
+
+it: Non provarci... In queste terre bruciate dal sole puoi solo trovare la morte...
+de: Versucht es nicht... In diesen sonnenverbrannten Ländern findet ihr nur den Tod...
+
+it: Hai annientato tutti gli schiavi. Le tue gesta verranno cantate su tutta la Terra.
+de: Sie haben alle Sklaven vernichtet. Ihre Taten werden auf der ganzen Erde besungen werden.
+
+it: Perché hai ammazzato le mucche del popolo? Potrai...
+de: Warum habt ihr die Kühe der Leute getötet? Ihr hättet...
+
+it: Gli amici di Sir Ewain sono stati annientati dagli scagnozzi di Morgana.
+de: Sir Iweins Freunde wurden von Morgans Schergen vernichtet.
+
+it: Hai sconfitto le streghe malvagie.
+de: Sie haben die bösen Hexen besiegt.
+
+it: Sir Lancillotto è morto.
+de: Sir Lancelot ist tot.
+
+it: Hai annientato le creature del castello.
+de: Sie haben die Geschöpfe der Burg vernichtet.
+
+it: Hai annientato i guardiani del castello.
+de: Sie haben die Wächter der Burg vernichtet.
+
+it: Sir Ewain, i vostri amici non ci saranno di grande aiuto per penetrare nel castello di Morgana. Se almeno l'Arcivescovo di Canterbury avesse potuto aiutarci... Si dice che anche lui sia stato catturato da Morgana con Sir Lancillotto. Speriamo di trovarlo ancora in vita.
+de: Sir Iwein, deine Freunde werden uns kaum helfen, in Morgans Burg zu gelangen. Hätte uns nur der Erzbischof von Canterbury helfen können... Man sagt, auch er sei mit Sir Lancelot von Morgan gefangen genommen worden. Hoffen wir, dass wir ihn noch lebend finden.
+
+it: Così sia! Qualsiasi aiuto è sempre poco. Andiamo velocemente al castello, non resta molto prima che le streghe uccidano Sir Lancillotto.
+de: So sei es! Hilfe ist nie zu viel. Eilen wir zur Burg; es bleibt nicht mehr viel Zeit, bevor die Hexen Sir Lancelot töten.
+
+it: Ummm... Mi sembra di ricordare che ad est esista un posto chiamato "Le Corna del Diavolo", dove le leggende dicono si trovi un'entrata segreta per il castello. Potremmo tentare da lì.
+de: Hm... ich meine mich zu erinnern, dass es im Osten einen Ort namens »Teufelshörner« gibt, wo den Legenden nach ein geheimer Eingang zur Burg liegt. Wir könnten es von dort versuchen.
+
+it: Riusciremo certamente a trovare un modo per penetrare nel castello, anche se non scarteremo questa possibilità.
+de: Wir werden sicher einen Weg finden, in die Burg zu gelangen, doch diese Möglichkeit schließen wir nicht aus.
+
+it: D'accordo, ma facciamo attenzione, questa terra è pericolosa e piena degli scagnozzi di Morgana.
+de: Einverstanden, doch seien wir vorsichtig: Dieses Land ist gefährlich und voller Schergen Morgans.
+
+it: Per favore! Salvatemi! Sir Lancillotto ed io cercavamo di recuperare Excalibur quando le streghe ci hanno teso una trappola. Liberatemi e vi aiuterò.
+de: Bitte! Rettet mich! Sir Lancelot und ich wollten Excalibur zurückholen, als die Hexen uns eine Falle stellten. Befreit mich, und ich helfe euch.
+
+it: Fuggite da qui... siete in pericolo.
+de: Flieht von hier... ihr seid in Gefahr.
+
+it: Qui potrete trovare solo la morte.
+de: Hier findet ihr nur den Tod.
+
+it: Allontanatevi...
+de: Geht fort...
+
+it: Siete avvisati. State andando incontro alla morte...
+de: Ihr seid gewarnt. Ihr geht in euren Tod...
+
+it: È un peccato che dobbiate morire così presto.
+de: Schade, dass ihr so bald sterben müsst.
+
+it: Vi annienterò tutti.
+de: Ich werde euch alle vernichten.
+
+it: Ah, ah, ah...
+de: Ha, ha, ha...
+
+it: Così il mio stesso figlio vuole distruggermi... Ah, ah, ah.
+de: Mein eigener Sohn will mich also vernichten... Ha, ha, ha.
+
+it: Aiuto! Fatemi uscire da qui...
+de: Hilfe! Holt mich hier heraus...
+
+# excalibur e il re artu.wcm::maps/6 el santo grial
+it: Il Santo Graal
+de: Der Heilige Gral
+
+it: Vampira
+de: Vampirin
+
+it: Banditi
+de: Banditen
+
+it: Tenebroso
+de: der Finstere
+
+it: Legna
+de: Holz
+
+it: Il Santo
+de: Der Heilige
+
+it: Graal
+de: Gral
+
+it: Pietra
+de: Stein
+
+it: Vescovo
+de: Bischof
+
+it: Vecchio
+de: Greis
+
+it: Parsifal
+de: Parzival
+
+it: Nel frattempo, gli uomini che trasportavano il Santo Graal e la Sacra Lancia cadevano in un'imboscata...
+de: Unterdessen gerieten die Männer, die den Heiligen Gral und die Heilige Lanze trugen, in einen Hinterhalt...
+
+it: Porta il Santo Graal nella città di Sarras e impedisci che cada nelle mani dei banditi.
+de: Bringen Sie den Heiligen Gral in die Stadt Sarras und verhindern Sie, dass er den Banditen in die Hände fällt.
+
+it: Sir Bors, Sir Parsifal e Sir Galahad devono sopravvivere.
+de: Sir Bors, Sir Parzival und Sir Galahad müssen überleben.
+
+it: Il Santo Graal è stato distrutto dai banditi... Che Dio abbia pietà di noi!
+de: Der Heilige Gral wurde von den Banditen zerstört... Gott sei uns gnädig!
+
+it: Il valoroso Sir Bors è caduto in battaglia.
+de: Der tapfere Sir Bors ist in der Schlacht gefallen.
+
+it: Sir Parsifal, dopo una sanguinosa battaglia è caduto al suolo inerte.
+de: Nach einer blutigen Schlacht ist Sir Parzival leblos zu Boden gesunken.
+
+it: Sir Galahad, barcollante per le ferite mortali subite, ha compiuto la sua ultima impresa.
+de: Sir Galahad hat, von seinen tödlichen Wunden taumelnd, seine letzte Tat vollbracht.
+
+it: Costruisci una cattedrale in cui custodire la reliquia prima che cali la notte.
+de: Bauen Sie eine Kathedrale, um die Reliquie darin aufzubewahren, bevor die Nacht hereinbricht.
+
+it: La reliquia, non protetta, è sparita nell'oscurità della notte.
+de: Die unbewachte Reliquie ist im Dunkel der Nacht verschwunden.
+
+it: La città di Sarras ha eretto un altare in cui custodire la sacra reliquia e proteggerla dai nemici.
+de: Die Stadt Sarras hat einen Altar errichtet, um die heilige Reliquie darin aufzubewahren und vor ihren Feinden zu schützen.
+
+it: Catedral
+de: Kathedrale
+
+it: Un vascello clandestino salpa da Sarras con un importante carico nella stiva...
+de: Ein geheimes Schiff verlässt Sarras mit einer wichtigen Ladung im Laderaum...
+
+it: El Santo Grial
+de: Der Heilige Gral
+
+it: Trova il Santo Graal, recuperalo e riportalo nella città di Sarras.
+de: Finden Sie den Heiligen Gral, holen Sie ihn zurück und bringen Sie ihn in die Stadt Sarras.
+
+it: Il Santo Graal è stato distrutto... Che Dio abbia pietà di noi!
+de: Der Heilige Gral wurde zerstört... Gott sei uns gnädig!
+
+it: C'è una malvagia regina vampira dietro al furto del Santo Graal.
+de: Hinter dem Raub des Heiligen Grals steckt eine böse Vampirkönigin.
+
+it: Vampiresa
+de: Vampirin
+
+it: Uccidendo la regina vampira viene distrutta anche la sua magia liberando dal giogo della schiavitù i suoi scagnozzi.
+de: Mit dem Tod der Vampirkönigin wird auch ihre Magie zerstört, und ihre Schergen werden vom Joch der Sklaverei befreit.
+
+it: Hai recuperato il Santo Graal! Questo è un giorno felice per tutta la Cristianità.
+de: Sie haben den Heiligen Gral zurückgeholt! Dies ist ein glücklicher Tag für die ganze Christenheit.
+
+it: Il Santo Graal viene riportato a Sarras.
+de: Der Heilige Gral wird nach Sarras zurückgebracht.
+
+it: Un carro carico di legna è entrato a Sarras.
+de: Ein mit Holz beladener Karren ist in Sarras eingetroffen.
+
+it: Una nave carica di legna è giunta a Sarras.
+de: Ein mit Holz beladenes Schiff hat Sarras erreicht.
+
+it: Un carro carico di pietra è entrato a Sarras.
+de: Ein mit Stein beladener Karren ist in Sarras eingetroffen.
+
+it: Una nave carica di pietra è entrata a Sarras.
+de: Ein mit Stein beladenes Schiff hat Sarras erreicht.
+
+it: IL SANTO GRAAL\n\nCome predetto da Merlino di fronte a tutti i Cavalieri della Tavola Rotonda, uno dei tre posti che inizialmente non erano stati occupati era destinato al cavaliere più degno e puro del regno, ossia a chi avrebbe trovato il Santo Graal.\n\nLa sua identità sarebbe stata svelata alcuni anni dopo quando, nel giorno della sua ammissione alla Confraternita, apparve il suo nome inciso sulla sedia proibita. Tutti poterono leggere queste parole: Sir Galahad. Effettivamente l'eletto era il figlio di Sir Lancillotto.\n\nCompiendo la missione a cui era destinato, Sir Galahad si mise alla ricerca del Santo Graal, il calice usato da Gesù nell'Ultima Cena.\n\nSecondo le credenze popolari, la reliquia era stata portata da Giuseppe d'Arimatea a Sarras, città in cui il santo visse fino alla morte.\n\nAll'epoca di Artù il Graal era custodito da re Pelles.\n\nQuando Sir Galahad, insieme a Sir Parsifal e Sir Boris, giunsero a Sarras, re Pelles, temendo le intenzioni dei cavalieri, decise di rinchiuderli nei sotterranei del castello. Lì rimasero per più di un anno finché, alla morte del re, vennero liberati e Sir Galahad venne designato nuovo reggente di Sarras...
+de: DER HEILIGE GRAL\n\nWie Merlin vor allen Rittern der Tafelrunde vorausgesagt hatte, war einer der drei anfangs leer gebliebenen Sitze für den würdigsten und reinsten Ritter des Reiches bestimmt, also für den, der den Heiligen Gral finden würde.\n\nSein Name sollte einige Jahre später offenbart werden, als an dem Tag, an dem er in die Gemeinschaft aufgenommen wurde, sein Name auf dem verbotenen Sitz eingraviert erschien. Alle konnten diese Worte lesen: Sir Galahad. Der Auserwählte war nämlich der Sohn Sir Lancelots.\n\nUm die Suche zu erfüllen, für die er bestimmt war, zog Sir Galahad aus, den Heiligen Gral zu suchen, den Kelch, den Jesus beim Letzten Abendmahl benutzt hatte.\n\nDem Volksglauben nach hatte Josef von Arimathäa die Reliquie nach Sarras gebracht, in die Stadt, in der der Heilige bis zu seinem Tod lebte.\n\nZu Artus' Zeiten wurde der Gral von König Pelles gehütet.\n\nAls Sir Galahad zusammen mit Sir Parzival und Sir Bors Sarras erreichte, beschloss König Pelles, der die Absichten der Ritter fürchtete, sie in die Kerker der Burg zu sperren. Dort blieben sie mehr als ein Jahr, bis sie beim Tod des Königs freigelassen wurden und Sir Galahad zum neuen Herrscher von Sarras ernannt wurde...
+
+it: Di fronte all'altare costruito come culto e custodia del Santo Graal, apparve un anziano vescovo che pregava inginocchiato.\n\nRivolgendosi a Sir Galahad disse: "Vieni, avvicinati e vedrai quello che tanto desideravi...". Il cavaliere fece quello che gli chiedeva l'anziano e dopo aver visto il Santo Graal in tutto il suo splendore cadde morto e la reliquia scomparve per sempre.\n\nSir Parsifal e Sir Bors, diedero solenne sepoltura a Sir Galahad e Sir Bors si mise in cammino alla volta di Camelot per informare re Artù dell'accaduto.
+de: Vor dem Altar, der zur Verehrung und Aufbewahrung des Heiligen Grals errichtet worden war, erschien ein alter Bischof, kniend im Gebet.\n\nAn Sir Galahad gewandt, sagte er: »Komm, tritt näher, und du wirst sehen, wonach du dich so gesehnt hast...«. Der Ritter tat, worum der Alte ihn bat, und nachdem er den Heiligen Gral in all seiner Pracht gesehen hatte, fiel er tot nieder, und die Reliquie verschwand für immer.\n\nSir Parzival und Sir Bors gaben Sir Galahad ein feierliches Begräbnis, und Sir Bors brach nach Camelot auf, um König Artus zu berichten, was geschehen war.
+
+it: I banditi potrebbero rubarci il Santo Graal se non terminiamo in tempo la costruzione della cattedrale.
+de: Die Banditen könnten uns den Heiligen Gral rauben, wenn wir die Kathedrale nicht rechtzeitig fertig bauen.
+
+it: Terminiamo velocemente la cattedrale. Rimane poco tempo.
+de: Bauen wir die Kathedrale schnell fertig. Es bleibt wenig Zeit.
+
+it: Abbiamo giusto il tempo di finire la cattedrale!
+de: Wir haben gerade noch Zeit, die Kathedrale fertigzustellen!
+
+it: Hai recuperato il Santo Graal! Certamente nessun capitano di nave accetterà di caricarlo nella stiva per paura di quello che potrebbe succedere al suo bastimento. Dovrai trovare il modo per trasportarlo via terra...
+de: Sie haben den Heiligen Gral zurückgeholt! Gewiss wird kein Schiffskapitän bereit sein, ihn in seinem Laderaum zu befördern, aus Angst, was seinem Schiff geschehen könnte. Sie müssen einen Weg finden, ihn über Land zu bringen...
+
+it: El Grial
+de: Der Gral
+
+it: La regina vampira con una magia è scomparsa dalla tua vista... Dove sarà?
+de: Mit einem Zauber ist die Vampirkönigin vor Ihren Augen verschwunden... Wo mag sie sein?
+
+it: Sarras è caduta.
+de: Sarras ist gefallen.
+
+it: Hai annientato tutti i maledetti saraceni.
+de: Sie haben alle verfluchten Sarazenen vernichtet.
+
+it: Hai sconfitto la regina vampira!
+de: Sie haben die Vampirkönigin besiegt!
+
+it: Hai annientato tutti i banditi.
+de: Sie haben alle Banditen vernichtet.
+
+it: Tutti i tuoi eroi sono morti.
+de: Alle Ihre Helden sind tot.
+
+it: Il Santo Graal è stato distrutto.
+de: Der Heilige Gral wurde zerstört.
+
+it: La città di Sarras è assediata dai banditi.
+de: Die Stadt Sarras wird von Banditen belagert.
+
+it: Si accingono ad attaccare... Presto, alle armi!
+de: Gleich greifen sie an... Schnell, zu den Waffen!
+
+it: Preghiamo perché non accada nulla agli uomini che ho inviato alla ricerca delle risorse che ci occorrono per fortificare la città.
+de: Beten wir, dass den Männern nichts zustößt, die ich ausgeschickt habe, um die Rohstoffe zu suchen, die wir zur Befestigung der Stadt brauchen.
+
+it: E poi hanno il Santo Graal... se cadesse nelle mani di questi malfattori...
+de: Und sie haben den Heiligen Gral... wenn er diesen Schurken in die Hände fiele...
+
+it: Il Santo Graal è in salvo a Sarras, almeno per ora.
+de: Der Heilige Gral ist in Sarras sicher, zumindest vorerst.
+
+it: Sì. Costruiamo al più presto un altare per venerare una reliquia così sacra.
+de: Ja. Errichten wir so bald wie möglich einen Altar, um eine so heilige Reliquie zu verehren.
+
+it: Questi banditi non molleranno tanto facilmente.
+de: Diese Banditen werden nicht so leicht aufgeben.
+
+it: Riusciremo a respingerli con rinnovato vigore non appena avremo costruito la cattedrale.
+de: Sobald wir die Kathedrale gebaut haben, können wir sie mit neuer Kraft zurückschlagen.
+
+it: Hanno rubato il Santo Graal! I ladri hanno approfittato di un momento di distrazione per portarcelo via da sotto gli occhi.
+de: Sie haben den Heiligen Gral gestohlen! Die Diebe haben einen Moment der Unachtsamkeit genutzt, um ihn uns vor der Nase wegzunehmen.
+
+it: Temo che possano essere stati i dannati saraceni del sud-est. Dobbiamo recuperare il Santo Graal a tutti i costi!
+de: Ich fürchte, es waren die verfluchten Sarazenen aus dem Südosten. Wir müssen den Heiligen Gral um jeden Preis zurückholen!
+
+it: In nome di Satana, non riuscirete a recuperare il Santo Graal!
+de: Im Namen Satans, ihr werdet den Heiligen Gral nicht zurückholen!
+
+it: Vieni, avvicinati e vedrai quello che tanto desideravi...
+de: Komm, tritt näher, und du wirst sehen, wonach du dich so gesehnt hast...
+
+# excalibur e il re artu.wcm::maps/7 la traición de sir mordred
+it: Il tradimento di Sir Mordred
+de: Der Verrat Sir Mordreds
+
+it: Guardie
+de: Wachen
+
+it: Inquisitore
+de: Inquisitor
+
+it: Amico
+de: Freund
+
+it: di Sir Bors
+de: von Sir Bors
+
+it: Carnefice
+de: Henker
+
+it: Libera Ginevra dalle fiamme prima dell'alba giorno successivo.
+de: Befreien Sie Guinevere vor dem Morgengrauen des nächsten Tages aus den Flammen.
+
+it: Siamo arrivati tardi: la pira su cui si trova Ginevra è già stata accesa.
+de: Wir kommen zu spät: Der Scheiterhaufen, auf dem Guinevere steht, brennt schon.
+
+it: Il nobile cavaliere Sir Bors è morto in battaglia.
+de: Der edle Ritter Sir Bors ist in der Schlacht gefallen.
+
+it: Sir Lancillotto è stato ferito a morte. La disgrazia incombe su Camelot.
+de: Sir Lancelot wurde tödlich verwundet. Unheil droht Camelot.
+
+it: Re Artù è morto in battaglia. Tutta a gente per bene si metterà contro di te.
+de: König Artus ist in der Schlacht gefallen. Jede anständige Seele wird sich gegen Sie wenden.
+
+it: Il valoroso Sir Gawain, fedele ad Artù, si allontana ferito dal campo di battaglia.
+de: Der tapfere Sir Gawain, Artus treu ergeben, verlässt verwundet das Schlachtfeld.
+
+it: Il codardo Sir Mordred se l'è svignata dalla battaglia.
+de: Der feige Sir Mordred hat sich aus der Schlacht davongestohlen.
+
+it: Sir Lancillotto, Sir Bors, la regina Ginevra e re Artù devono sopravvivere.
+de: Sir Lancelot, Sir Bors, Königin Guinevere und König Artus müssen überleben.
+
+it: IL TRADIMENTO DI SIR MORDRED\n\nLa diaspora della maggior parte dei Cavalieri della Tavola Rotonda e gli intrighi della corte destabilizzarono il regno e causarono la decadenza di Camelot.\n\nSir Mordred, il figlio che Artù aveva avuto da sua sorella Margawse, sposa del re Lot, che era stato riconosciuto da Merlino, sin dalla nascita, come il futuro responsabile della caduta del monarca, era riuscito a far parte della Confraternita.\n\nInsieme al fratellastro Agravain, malvagio come lui e ad altri dodici cavalieri desiderosi di prendere il trono di Artù, Sir Mordred voleva fare in modo che il re scoprisse l'adulterio della sua sposa Ginevra con Sir Lancillotto. Di fronte ad un tale tradimento e secondo i dettami della legge che lui stesso aveva stabilito, Artù avrebbe dovuto imprigionare Lancillotto e condannare al rogo la regina, perdendo così due dei suoi più fedeli alleati.\n\nCome previsto Sir Lancillotto venne sorpreso negli alloggi privati della regina e dovette combattere contro i cospiratori uccidendoli tutti, tranne Sir Mordred che riuscì a fuggire e ad informare il re.\n\nSir Lancillotto scappò alle guardie ma Ginevra venne catturata e condannata al rogo, nonostante la reticenza del re.\n\nI cavalieri della corte si divisero: alcuni difesero Sir Lancillotto mentre altri rimasero dalla parte di Artù.\n\nPassò il tempo e venne il momento di eseguire la condanna a morte della regina ma, quando già la regina era legata alla pira, apparve Sir Lancillotto con un gruppo di cavalieri...
+de: DER VERRAT SIR MORDREDS\n\nDie Zerstreuung der meisten Ritter der Tafelrunde und die Ränke des Hofes erschütterten das Reich und führten den Niedergang Camelots herbei.\n\nSir Mordred, der Sohn, den Artus mit seiner Schwester Morgause, der Gemahlin König Lots, gezeugt hatte und den Merlin von Geburt an als den kannte, der den Sturz des Königs herbeiführen würde, hatte es geschafft, in die Gemeinschaft aufgenommen zu werden.\n\nZusammen mit seinem Halbbruder Agravain, der ebenso niederträchtig war wie er, und zwölf weiteren Rittern, die begierig waren, Artus' Thron an sich zu reißen, wollte Sir Mordred, dass der König den Ehebruch seiner Gemahlin Guinevere mit Sir Lancelot entdeckte. Angesichts eines solchen Verrats müsste Artus nach dem Gesetz, das er selbst erlassen hatte, Lancelot einkerkern und die Königin zum Scheiterhaufen verurteilen und verlöre so zwei seiner treuesten Verbündeten.\n\nWie vorhergesehen, wurde Sir Lancelot in den Privatgemächern der Königin ertappt und musste gegen die Verschwörer kämpfen; er tötete sie alle bis auf Sir Mordred, dem die Flucht gelang und der dem König Bericht erstattete.\n\nSir Lancelot entkam den Wachen, doch Guinevere wurde gefangen genommen und trotz des Widerstrebens des Königs zum Scheiterhaufen verurteilt.\n\nDie Ritter des Hofes waren gespalten: Die einen verteidigten Sir Lancelot, während die anderen zu Artus hielten.\n\nDie Zeit verging, und der Tag kam, an dem das Todesurteil der Königin vollstreckt werden sollte; doch als die Königin schon an den Scheiterhaufen gebunden war, erschien Sir Lancelot mit einer Schar von Rittern...
+
+it: Sir Lancillotto si rifugiò in Francia inseguito da re Artù e da Sir Gawain. Quest'ultimo desiderava vendicarsi per la morte dei suoi fratelli, caduti nel combattimento durante il quale Lancilotto aveva liberato Ginevra dalle fiamme.\n\nNel frattempo, approfittando della prolungata assenza di Artù, Sir Mordred sparse per tutto il regno la voce che il re era morto e si autoproclamò erede legittimo della corona d'Inghilterra.
+de: Sir Lancelot flüchtete nach Frankreich, verfolgt von König Artus und Sir Gawain. Gawain sehnte sich danach, den Tod seiner Brüder zu rächen, die in dem Kampf gefallen waren, in dem Lancelot Guinevere aus den Flammen befreit hatte.\n\nUnterdessen nutzte Sir Mordred Artus' lange Abwesenheit, verbreitete im ganzen Reich, der König sei tot, und rief sich zum rechtmäßigen Erben der Krone Englands aus.
+
+it: La regina Ginevra è libera.
+de: Königin Guinevere ist frei.
+
+it: Rescate
+de: Rettung
+
+it: Fuggi con Ginevra fino al termine di uno dei cammini fuori da Camelot.
+de: Fliehen Sie mit Guinevere bis ans Ende einer der Straßen, die aus Camelot hinausführen.
+
+it: Ginevra viene portata in un luogo sicuro.
+de: Guinevere wird an einen sicheren Ort gebracht.
+
+it: Non hai lasciato pietra su pietra a Camelot. Sarai ricordato come un assassino.
+de: Sie haben in Camelot keinen Stein auf dem anderen gelassen. Man wird sich an Sie als Mörder erinnern.
+
+it: Tutto il tuo esercito è stato distrutto.
+de: Ihr ganzes Heer wurde vernichtet.
+
+it: Tutti i tuoi amici di Camelot sono morti.
+de: Alle Ihre Freunde in Camelot sind tot.
+
+it: Hai decimato la popolazione di Camelot! Folle!
+de: Sie haben das Volk von Camelot dezimiert! Wahnsinniger!
+
+it: I cuori di Sir Lancillotto e Artù si spezzano per la morte di Ginevra.
+de: Sir Lancelot und Artus bricht beim Tod Guineveres das Herz.
+
+it: Hai annientato tutte le guardie di Camelot.
+de: Sie haben alle Wachen Camelots vernichtet.
+
+it: Dobbiamo liberare Ginevra prima dell'alba o le fiamme lambiranno il suo corpo.
+de: Wir müssen Guinevere vor dem Morgengrauen befreien, sonst lecken die Flammen an ihrem Leib.
+
+it: Abbiamo poco tempo e metà dei cavalieri della Tavola Rotonda sono dalla tua parte, Sir Lancillotto, l'altra metà invece difende Camelot. Sarà una battaglia fra fratelli.
+de: Wir haben wenig Zeit, und die Hälfte der Ritter der Tafelrunde steht auf deiner Seite, Sir Lancelot, während die andere Hälfte Camelot verteidigt. Es wird eine Schlacht zwischen Brüdern.
+
+it: State attenti ad Artù, questa volta Excalibur sarà contro di noi. Ad ogni modo, non uccidete il sovrano. Se dovesse morire, Sir Mordred avrebbe la scusa perfetta...
+de: Hütet euch vor Artus: Diesmal wird Excalibur gegen uns sein. Tötet jedenfalls den König nicht. Stürbe er, hätte Sir Mordred den perfekten Vorwand...
+
+it: Come possiamo liberare Ginevra? Camelot è una città ben difesa.
+de: Wie können wir Guinevere befreien? Camelot ist eine gut verteidigte Stadt.
+
+it: Potremmo attaccare con una macchina d'assedio. Se dovessimo aver bisogno di altri rinforzi potremmo trovare alcuni mercenari nelle taverne. Inoltre distruggere i ponti sarebbe una buona mossa per assediare la città.
+de: Wir könnten mit einer Belagerungsmaschine angreifen. Bräuchten wir mehr Verstärkung, könnten wir in den Tavernen Söldner finden. Außerdem wäre es ein guter Zug, die Brücken zu zerstören, um die Stadt zu belagern.
+
+it: Ummm... È fattibile.
+de: Hm... Das lässt sich machen.
+
+it: Potremmo corrompere le guardie, in questo modo arriveremmo a Ginevra. O infiltrare alcune persone travestite.
+de: Wir könnten die Wachen bestechen; so kämen wir zu Guinevere. Oder ein paar verkleidete Leute einschleusen.
+
+it: Ho un amico, un mercante di Sarras, che potrebbe aiutarci. È certamente al mercato. Se lo troviamo ci aiuterà.
+de: Ich habe einen Freund, einen Kaufmann aus Sarras, der uns helfen könnte. Er ist sicher auf dem Markt. Wenn wir ihn finden, wird er uns helfen.
+
+it: Sì, anch'io ho alcune conoscenze a Camelot che potrebbero esserci utili. Ma non credo che sarebbero in grado di strappare Ginevra alle fiamme. Purtroppo però c'è anche chi mi conosce e non esiterebbe a denunciarci. Attenzione alla Santa Inquisizione che si è messa in mezzo e ha deciso di condannare a morte Ginevra a tutti i costi.
+de: Ja, auch ich habe in Camelot einige Bekannte, die uns nützlich sein könnten. Doch ich glaube nicht, dass sie Guinevere den Flammen entreißen könnten. Leider gibt es auch Leute, die mich kennen und nicht zögern würden, uns zu verraten. Hütet euch vor der Heiligen Inquisition, die sich eingemischt hat und entschlossen ist, Guinevere um jeden Preis hinzurichten.
+
+it: Io sono in amicizia con i guardiani della porta nord e credo che ci lasceranno passare.
+de: Ich stehe mit den Wachen am Nordtor auf gutem Fuß und glaube, sie werden uns durchlassen.
+
+it: Per guadagnare tempo, potremmo impossessarci di alcuni edifici che potrebbero esserci utili. Nei dintorni della città ci sono persone che potrebbero aiutarci.
+de: Um Zeit zu gewinnen, könnten wir einige Gebäude einnehmen, die uns nützlich sein könnten. Rund um die Stadt gibt es Leute, die uns helfen könnten.
+
+it: Dio ci assista!
+de: Gott steh uns bei!
+
+it: E se utilizzassimo la magia?
+de: Und wenn wir Magie benutzten?
+
+it: Questa adultera deve morire tra le fiamme.
+de: Diese Ehebrecherin muss in den Flammen sterben.
+
+it: Non posso guardare, Sir Mordred.
+de: Ich kann nicht hinsehen, Sir Mordred.
+
+it: Io nemmeno.
+de: Ich auch nicht.
+
+it: Confessa i tuoi peccati, adultera!
+de: Beichte deine Sünden, Ehebrecherin!
+
+it: Il mio nome è Abdul e sono amico di Sir Bors. Vi aiuterò.
+de: Mein Name ist Abdul, und ich bin ein Freund von Sir Bors. Ich werde euch helfen.
+
+# excalibur e il re artu.wcm::maps/8_a el mito de camelot
+it: Il mito di Camelot
+de: Der Mythos von Camelot
+
+it: Dedicato a mia moglie Nuria,\nGrazie per darmi appoggio nei miei sogni.
+de: Für meine Frau Nuria,\ndanke, dass du mich in meinen Träumen unterstützt.
+
+it: Traditori
+de: Verräter
+
+it: Mercenari
+de: Söldner
+
+it: IL MITO DI CAMELOT\n\nQuando Artù venne informato degli ultimi avvenimenti e di come Mordred aveva usurpato la corona, partì immediatamente per riprendersi il potere.\n\nAlla prima occasione di scontro con le forze di Sir Mordred, Sir Gawain venne ferito mortalmente, ma prima di morire chiese perdono ad Artù per averlo fatto allontanare da Camelot all'inseguimento di Lancillotto, lasciando così il regno al proprio destino e scrisse a quest'ultimo pregandolo di intervenire in favore del re, aiutandolo ad affrontare Sir Mordred e i suoi traditori.\n\nLa notte in cui morì, Sir Gawain apparve in sogno a re Artù avvertendolo del pericolo che avrebbe corso lottando contro Mordred senza l'aiuto di Sir Lancillotto.\n\nDando retta all'avvertimento, il sovrano decise stabilire una tregua con il figlio Mordred, per prendere tempo e permettere a Sir Lancillotto di giungere in Inghilterra.\n\nPer suggellare tale accordo, padre e figlio si diedero appuntamento nella pianura di Salisbury...
+de: DER MYTHOS VON CAMELOT\n\nAls Artus von den jüngsten Ereignissen erfuhr und davon, wie Mordred die Krone an sich gerissen hatte, brach er sofort auf, um seine Macht zurückzuerobern.\n\nBeim ersten Zusammenstoß mit den Truppen Sir Mordreds wurde Sir Gawain tödlich verwundet; doch bevor er starb, bat er Artus um Vergebung dafür, ihn bei der Verfolgung Lancelots von Camelot fortgelockt und das Reich seinem Schicksal überlassen zu haben, und er schrieb Lancelot und flehte ihn an, dem König zu Hilfe zu kommen und ihm beizustehen, Sir Mordred und seinen Verrätern entgegenzutreten.\n\nIn der Nacht seines Todes erschien Sir Gawain König Artus im Traum und warnte ihn vor der Gefahr, in die er sich begäbe, wenn er ohne die Hilfe Sir Lancelots gegen Mordred kämpfte.\n\nDie Warnung beherzigend, beschloss der König, mit seinem Sohn Mordred einen Waffenstillstand zu schließen, um Zeit zu gewinnen und Sir Lancelot zu ermöglichen, England zu erreichen.\n\nUm diesen Pakt zu besiegeln, vereinbarten Vater und Sohn, sich in der Ebene von Salisbury zu treffen...
+
+it: Sir Mordred si è nascosto in un castello nemico.
+de: Sir Mordred hat sich in einer feindlichen Burg versteckt.
+
+it: Distruggi tutti i castelli nemici per obbligare Sir Mordred ad affrontarti.
+de: Zerstören Sie alle feindlichen Burgen, um Sir Mordred zu zwingen, sich Ihnen zu stellen.
+
+it: Brandita la spada per ammazzare il serpente, l'esercito nemico credette che si trattasse del segnale di guerra e si lanciò con furore in battaglia.
+de: Als das Schwert gezogen wurde, um die Schlange zu töten, hielt das feindliche Heer es für das Zeichen zum Krieg und stürzte sich wütend in die Schlacht.
+
+it: L'esercito di re Artù è stato sconfitto. Sir Mordred governerà sull'Inghilterra.
+de: König Artus' Heer wurde besiegt. Sir Mordred wird über England herrschen.
+
+it: Hai annientato tutti i traditori della Corona.
+de: Sie haben alle Verräter an der Krone vernichtet.
+
+it: Hai annientato gli eserciti arabi.
+de: Sie haben die arabischen Heere vernichtet.
+
+it: Le masnade orientali sono state decimate.
+de: Die Scharen aus dem Osten wurden aufgerieben.
+
+it: Il re è morto, viva re Mordred.
+de: Der König ist tot, es lebe König Mordred.
+
+it: Firmiamo un accordo di pace.
+de: Schließen wir einen Friedensvertrag.
+
+it: Queste sono le condizioni...
+de: Dies sind die Bedingungen...
+
+it: Maledetto serpente, ha morso la zampa del mio cavallo. Lo ucciderò con la mia spada...
+de: Verfluchte Schlange, sie hat mein Pferd ins Bein gebissen. Ich werde sie mit meinem Schwert töten...
+
+# excalibur e il re artu.wcm::maps/8_b el mito de camelot
+it: La fine di Camelot
+de: Das Ende Camelots
+
+it: Dedicato a mia moglie Nuria,\ngrazie per darmi appoggio nei miei sogni.\n\nAi miei genitori, a mia sorella e alla sua famiglia, \nper tutti i momenti felici.\n\nAl mio compagno d'armi Juanjo,\nnon insistere, che non passerai di livello.\n\nAi fedeli a Tzar, in particolar modo a Runner...
+de: Für meine Frau Nuria,\ndanke, dass du mich in meinen Träumen unterstützt.\n\nFür meine Eltern, meine Schwester und ihre Familie,\nfür all die glücklichen Zeiten.\n\nFür meinen Waffenbruder Juanjo,\ngib's auf, du steigst keine Stufe auf.\n\nFür die Treuen von Tzar, besonders für Runner...
+
+it: Bevidere
+de: Bedivere
+
+it: Confuso e senza castelli in cui rifugiarsi, Sir Mordred guidò il suo esercito nell'ultima battaglia contro Artù. La carneficina fu spaventosa, solo un piccolo gruppo di uomini riuscì a salvarsi...
+de: Verwirrt und ohne eine Burg, in die er sich hätte flüchten können, führte Sir Mordred sein Heer in die letzte Schlacht gegen Artus. Das Gemetzel war furchtbar; nur eine kleine Schar von Männern überlebte...
+
+it: Batalla
+de: Schlacht
+
+it: Ferito a morte da Sir Mordred, Artù chiese all'unico cavaliere del suo esercito rimasto in vita, di lanciare la sua spada nel lago...
+de: Von Sir Mordred tödlich verwundet, bat Artus den einzigen Ritter seines Heeres, der noch am Leben war, sein Schwert in den See zu werfen...
+
+it: Sir Bevidere la lanciò e vide un braccio che emergeva dalle acque per afferrare la spada e affondare con essa.
+de: Sir Bedivere warf es und sah einen Arm aus dem Wasser auftauchen, der das Schwert ergriff und mit ihm versank.
+
+it: Il cavaliere portò Artù sulla riva, dove lo attendeva una zattera con tre regine misteriose vestite di nero. La zattera con il re si allontanò sulla superficie del lago e scomparve in lontananza.
+de: Der Ritter trug Artus ans Ufer, wo ihn eine Barke mit drei geheimnisvollen, schwarz gekleideten Königinnen erwartete. Die Barke mit dem König glitt über die Oberfläche des Sees davon und verschwand in der Ferne.
+
+it: Alcuni giorni dopo, Sir Bevidere trovò una tomba in cui era stato sepolto da poco un cavaliere senza nome, portato da tre donne vestite di nero.\n\nImmaginando che si trattasse del corpo di Artù, Sir Bevidere costruì una cappella nelle vicinanze e si dedicò a vigilarla.\n\nQuando Lancillotto giunse con il suo esercito era ormai troppo tardi. Artù era già morto combattendo contro il suo stesso figlio Mordred. Disperato per l'accaduto, si diresse alla cappella di Sir Bevidere e lì visse per il resto dei suoi giorni in solitudine.\n\nGinevra morì di lì a poco e venne sepolta con Artù.\n\nCosì finì il regno di Artù e cominciò la sua leggenda.
+de: Einige Tage später fand Sir Bedivere ein Grab, in dem kürzlich ein namenloser Ritter beigesetzt worden war, den drei schwarz gekleidete Frauen gebracht hatten.\n\nIn der Ahnung, dass es der Leichnam des Artus war, baute Sir Bedivere in der Nähe eine Kapelle und widmete sich ihrer Bewachung.\n\nAls Lancelot mit seinem Heer eintraf, war es zu spät. Artus war bereits im Kampf gegen seinen eigenen Sohn Mordred gestorben. Verzweifelt über das Geschehene, ging er zur Kapelle Sir Bediveres und verbrachte dort den Rest seiner Tage in Einsamkeit.\n\nGuinevere starb bald darauf und wurde mit Artus begraben.\n\nSo endete die Herrschaft des Artus, und so begann seine Legende.
+
+it: Sir Bevidere aiuta re Artù a camminare...
+de: Sir Bedivere hilft König Artus beim Gehen...
+
+it: Tutti i tuoi uomini sono stati annientati.
+de: Alle Ihre Männer wurden vernichtet.
+
+it: Sir Mordred è rimasto solo sul campo di battaglia.
+de: Sir Mordred steht allein auf dem Schlachtfeld.
+
+it: Artù s'imbarca su una zattera.
+de: Artus besteigt eine Barke.
+
+it: Sir Mordred è morto per mano di Artù ma prima di morire lo ha trapassato con la sua spada.
+de: Sir Mordred ist von Artus' Hand gefallen, doch bevor er starb, durchbohrte er ihn mit seinem Schwert.
+
+it: All'attacco!
+de: Angriff!
+
+it: Stai per morire, padre!
+de: Du wirst sterben, Vater!
+
+it: Vieni vita, vieni morte!
+de: Komme Leben, komme Tod!

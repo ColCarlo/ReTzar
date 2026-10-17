@@ -1,0 +1,22 @@
+# Builds on Windows at every push and pull request: the game, the tools, the
+# tests and retzar-arena. The tests do not run here: most of them read the
+# original game, which the repository does not contain.
+name: Build
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      # The toolchain is the one in rust-toolchain.toml, installed by rustup.
+      - name: Toolchain
+        run: rustup show
+      - uses: Swatinem/rust-cache@v2
+      - name: Game, tools and tests
+        run: cargo build --locked --all-targets
+      - name: retzar-arena
+        run: cargo build --locked --no-default-features --features arena --bin retzar-arena

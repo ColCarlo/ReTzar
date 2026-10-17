@@ -1,0 +1,369 @@
+# Il tutorial (Campaign/TzarTutorial.wcm) in spagnolo: traduzione di questa versione, fatta dall'inglese della versione americana.
+
+# tzartutorial.wcm
+it: Impara a giocare a Tzar.\nApprendi i concetti fondamentali di TZAR: Excalibur e il Re Artù.
+es: Tutorial de TZAR\nAprende lo básico de TZAR: The Burden Of The Crown
+
+# tzartutorial.wcm::maps/intro
+it: Impara a giocare
+es: Introducción
+
+it: In questa mappa introduttiva Haaser il Saggio ti riassumerà gli elementi fondamentali del gioco. Anche se sei un giocatore provetto, queste istruzioni ti saranno molto utili, giacché contengono alcuni concetti che sono specifici di Tzar: Excalibur e il Re Artù.
+es: En este mapa de introducción, Haaser el Sabio te resume lo básico del juego. Aunque seas un jugador experto, puede interesarte, porque explica algunos conceptos propios de TZAR: The Burden of the Crown.
+
+it: Giocatore
+es: Jugador
+
+it: Nemico
+es: Enemigo
+
+it: Regno 3
+es: Reino 3
+
+it: Regno 4
+es: Reino 4
+
+it: Regno 5
+es: Reino 5
+
+it: Saggio
+es: Sabio
+
+it: Regno 7
+es: Reino 7
+
+it: Regno 8
+es: Reino 8
+
+it: Raccogli 200 unità di legna, di cibo, d'oro e di pietra.
+es: Reúne 200 puntos de madera, comida, oro y piedra.
+
+it: Benvenuto nella campagna introduttiva di Tzar: Excalibur e il Re Artù.\n\nSe dovessi fermare il testo per leggerlo meglio, cliccaci sopra col pulsante sinistro del mouse. Per riavviare clicca nuovamente sul testo. \n\nLe seguenti sette missioni sono state create per presentarti gli aspetti fondamentali di Tzar. Inoltre ti permetteranno di esercitarti con gli elementi più comuni del gioco in uno scenario libero da ostacoli.\n\nSe avessi bisogno di ulteriori aiuti nel corso della missione, fai riferimento all’aiuto interno di gioco. Puoi accedervi in questo modo:\n\n.- Se non hai unità o edifici selezionati, nel menu degli ordini troverai un’icona d’interrogazione. Clicca su di essa col pulsante sinistro del mouse.\n\n.- Se hai un’unità o un edificio selezionato, clicca col pulsante sinistro del mouse su qualunque parte della mappa per accedere all’icona d’interrogazione.\n\nInoltre puoi vedere, in qualsiasi momento, quali siano gli obiettivi da raggiungere per completare la missione.\n\n.- Scegli l’opzione "Istruzioni" nel menu principale (il pulsante nell’angolo superiore sinistro dello schermo).\n\nBuona fortuna.
+es: Bienvenido a la campaña de aprendizaje de TZAR: The Burden of the Crown.\n\nSi quieres detener el desplazamiento de este texto, haz clic en él. Para que vuelva a moverse, haz clic otra vez.\n\nLas siete misiones siguientes te enseñan lo básico de TZAR y te dejan practicar los elementos más habituales del juego en un entorno seguro y sin presión.\nSi quieres saber más sobre el juego, consulta la ayuda integrada. Se abre con el botón del signo de interrogación cuando no hay unidades ni edificios seleccionados. También puedes revisar tus objetivos actuales eligiendo Instrucciones en el menú principal.\nCuando termines esta campaña, estarás listo para jugar a TZAR de verdad.\n\nBuena suerte.
+
+it: Ma che hai fatto? Ora il tuo regno è condannato. Tutto è perduto.
+es: ¿Qué has hecho, joven? Tu reino está perdido. Todo ha terminado...
+
+it: Puoi impossessarti di edifici nemici per la tua civiltà e sfruttarli come se fossero tuoi. Seleziona un gruppo di contadini e clicca con il pulsante destro del mouse sull’edificio in questione. Più saranno i contadini impegnati in questo compito, più sarà veloce impossessarsene.
+es: Puedes ganar edificios enemigos para tu causa seleccionando varios campesinos y haciendo clic derecho en el edificio. Cuantos más campesinos envíes, antes será tuyo el edificio.
+
+it: La resistenza opposta dall’edificio nemico al tuo attacco sarà indicata da un numero collocato accanto all’icona "Cuore" che appare nella zona informativa dell’edificio. Quanto più alto è il numero tanto maggiore sarà il tempo che ti occorrerà per impossessartene.
+es: La resistencia que opone un edificio cuando intentas ganarlo aparece como un número junto al icono del corazón, en la zona de selección.\nCuanto mayor sea el número, mayor será la resistencia.
+
+it: Nel caso un edificio nemico sorga vicino a uno dei tuoi castelli o posti di guardia ti risulterà più facile occuparlo.\nAl contrario, il compito risulterà più difficile se esso dovesse trovarsi nei pressi di una postazione nemica.
+es: Un edificio cercano a uno de tus castillos o puestos avanzados será fácil de ganar.\nUn edificio cercano a un castillo o puesto avanzado enemigo resistirá más cuando intentes ganarlo.
+
+it: C’è un posto di guardia nemico a est del vecchio accampamento. Il posto di guardia, così come il castello, permette di nascondervi all’interno le unità e di curarle. \nCerca di impossessarti di quest’edificio in modo da non doverti procurare risorse per costruirne uno.
+es: Hay un puesto avanzado enemigo al este de su antiguo campamento. El puesto avanzado funciona en gran parte como un castillo: puedes refugiar y curar en él a tus unidades. Gana el puesto avanzado para ahorrarte los recursos de construir uno.
+
+it: Puoi destinare una parte dell’oro a migliorare le capacità della tua gente. \nSeleziona il tuo castello e clicca sull’icona "Apprendimento".
+es: Puedes gastar algo de oro para que tu gente rinda más.\nSelecciona tu castillo y haz clic en el botón «Aprendizaje».
+
+it: Bel lavoro! Ora puoi contare su una buona difesa.
+es: ¡Bien hecho! Ahora estás bien defendido.
+
+it: Scoperto l'"Apprendimento" le tue unità si arricchiranno di maggior esperienza ogni volta che elimineranno un nemico e, col tempo, accederanno ad un livello superiore. Per ogni livello superato otterranno un bonus d’attacco e di difesa che aumenterà il loro potere.
+es: Tras investigar «Aprendizaje», tus unidades ganarán experiencia con cada enemigo abatido y acabarán subiendo de nivel. En cada nivel reciben una bonificación de ataque y defensa y se hacen más poderosas.
+
+it: Abbiamo vinto la battaglia! È tempo di festeggiare la vittoria.
+es: ¡La batalla está ganada! Es hora de celebrarlo.
+
+it: Per il momento il nemico non ti darà più fastidio; approfittane per riorganizzarti.
+es: El enemigo no te molestará durante un tiempo. Puedes aprovechar para organizarte.
+
+it: Erigi intorno al castello due torrette di vedetta che lo proteggano.
+es: Construye dos atalayas junto a tu castillo para protegerte.
+
+it: Ora tocca a te attaccare il nemico. \nSchiera le tue forze e distruggi la caserma del nemico prima che riesca a radunare un esercito più forte.
+es: Ahora te toca atacar al enemigo.\nAgrupa tus fuerzas y destruye el cuartel enemigo antes de que forme un ejército más fuerte.
+
+it: Per ordinare l’attacco alle unità selezionate, clicca col pulsante destro del mouse sull’edificio o sull’unità nemica che desideri attaccare.
+es: Con un clic derecho en un edificio o una unidad enemigos ordenas a las unidades seleccionadas que lo ataquen.
+
+it: Percepisco la presenza di forze nemiche! Si stanno avvicinando da sud-est.
+es: ¡Siento la presencia de fuerzas enemigas! Vienen del sureste.
+
+it: Per farli uscire clicca sull’icona "Evacuare tutte le unità".
+es: Haz clic en tus campesinos y luego clic derecho en el castillo para que se refugien dentro. Allí estarán más protegidos y, si están heridos, sanarán con el tiempo.\nPara sacarlos, haz clic en el botón «Hacer salir a todas las unidades».
+
+it: Ora clicca sulla caserma che hai appena costruito e poi sull’icona "Creare un fante". Per creare un arciere clicca sull’icona "Creare un arciere".
+es: Ahora haz clic en el cuartel que acabas de construir y luego en el botón «Crear un infante».\nPara crear un arquero, haz clic en el botón «Crear un arquero».
+
+it: Per creare un esercito avrai bisogno di cibo e legna, quindi non tralasciare di raccogliere tutte le risorse che riuscirai a trovare. \nCrea l’esercito più numeroso che puoi, perché il nemico è in avvicinamento.
+es: Necesitarás comida y madera para crear un ejército, así que no dejes de recoger recursos.\nHaz el ejército lo más grande posible, porque el enemigo está en camino.
+
+it: Complimenti! Hai appena portato a termine la tua prima missione.
+es: ¡Enhorabuena! Acabas de cumplir tu primera tarea.
+
+it: La tua prossima sfida sarà di radunare un esercito. Per farlo devi prima creare una caserma.
+es: Tu siguiente tarea es crear un ejército. Para ello primero debes construir un cuartel.
+
+it: Seleziona un contadino e clicca sull’icona "Costruire edifici"; comparirà un elenco di edifici o gruppi di edifici.
+es: Selecciona un campesino y haz clic en el botón «Construir». Verás una lista de edificios y grupos de edificios.
+
+it: Clicca sull’icona "Costruire una caserma". Apparirà un’immagine dell’edificio. Trasportalo in uno spazio libero della mappa e clicca col pulsante sinistro del mouse. Se non è possibile collocarla in quella posizione la struttura apparirà in rosso, in caso contrario sarà verde.
+es: Haz clic en el botón «Construir un cuartel» y colócalo en la vista. Verás que se colorea de rojo si no puedes colocarlo, y de verde si puedes.
+
+it: Ormai sei pronto per la tua prima missione!\nRaccogli 200 unità di cibo, legna, oro e pietra; queste risorse serviranno alla tua causa.
+es: ¡Ya estás listo para tu primera tarea!\nReúne 200 de comida, madera, oro y piedra. Estos recursos servirán a tu causa.
+
+it: In qualsiasi momento puoi visualizzare gli obiettivi che devi raggiungere per completare la tua missione grazie all’icona "Vedere gli obiettivi attuali" che appare nel menu degli ordini quando non siano selezionati edifici o unità.
+es: Puedes consultar tus tareas actuales con el botón «Ver las tareas actuales», que aparece cuando no hay ninguna unidad seleccionada.
+
+it: Utilizza il contadino che hai appena creato per raccogliere l’oro; selezionalo col pulsante sinistro del mouse e clicca con quello destro sulla miniera d’oro che si trova a sud-est del castello.
+es: Pon a recoger oro al campesino que acabas de crear: selecciónalo y haz clic derecho en la mina de oro al sureste del castillo.
+
+it: Utilizza il contadino che hai appena creato per raccogliere altro oro.
+es: Pon al nuevo campesino que has creado a recoger más oro.
+
+it: Hai cibo sufficiente per espandere il tuo regno.\nClicca col pulsante sinistro del mouse sul castello in modo da selezionarlo. Noterai come la sua immagine comparirà nella zona informativa.
+es: Tienes comida suficiente para ampliar tu reino.\nHaz clic en el castillo para seleccionarlo. Verás su imagen en la zona de selección.
+
+it: Se porti il cursore sull’icona "Creare contadino" vedrai apparire il seguente testo descrittivo nella parte inferiore dell’immagine:\n\n"Creare contadino  P (cibo: 50)"\n\nQuesta dicitura indica l’ordine da eseguire (creare un contadino),\nla possibilità di utilizzare il tasto "P" invece di selezionare l’icona dal menu degli ordini e la quantità di risorse necessaria (50 unità di cibo).\nOgni volta che cliccherai su quest’icona aumenterà il numero di contadini creati, se invece vuoi diminuirlo clicca sulla stessa icona col pulsante destro del mouse.
+es: Si pasas por el botón «Crear un campesino», aparecerá un texto descriptivo en la parte inferior de la vista:\n«Crear un campesino - 'P' ( Comida:50 )»\nHaz clic en el botón para crear más campesinos que trabajen para ti.
+
+it: Ci sono altri modi per procurarsi il cibo. Seleziona la barca che si trova nel porto a est del castello. Trova una banchina da pesca e cliccaci sopra col pulsante destro del mouse.
+es: Hay otras formas de conseguir comida. Selecciona el barco del puerto, al este del castillo. Busca un banco de peces y haz clic derecho en él.
+
+it: Bene. Vedo che hai bisogno di aiuto. Di che si tratta?
+es: Bueno, veo que necesitas ayuda. ¿Qué ocurre?
+
+it: Come va, ragazzo?
+es: ¿Qué tal te va, joven?
+
+it: Hai bisogno di una mano?
+es: ¿Necesitas ayuda?
+
+it: Che posso fare per te?
+es: ¿Puedo hacer algo por ti?
+
+it: Come posso dare ordini alle mie truppe?
+es: ¿Cómo doy órdenes a mis unidades?
+
+it: Ho bisogno di risorse...
+es: Quiero algunos recursos...
+
+it: Cosa rappresentano tutte queste icone e questi numeri che circondano le unità?
+es: ¿Qué son todos esos iconos y números alrededor de la vista?
+
+it: Come faccio a costruire qualcosa?
+es: ¿Cómo puedo construir algo?
+
+it: Per prima cosa seleziona un contadino, poi clicca sull’icona "Costruire edifici". Vedrai apparire un elenco completo di edifici e gruppi di edifici che puoi costruire.
+es: Selecciona un campesino y haz clic en el botón «Construir». Verás una lista de edificios y grupos de edificios.
+
+it: Puoi vedere quali siano le risorse a tua disposizione nella parte superiore dello schermo. Troverai un’icona specifica per ogni tipo di risorsa: oro, legna, cibo e pietra. L’ultima icona indica il numero di abitanti del tuo regno e il numero massimo di abitanti che sei in grado di mantenere attualmente.
+es: Los recursos de que dispones aparecen en la parte superior de la pantalla. Hay un icono para cada tipo de recurso: oro, madera, comida y piedra. El último icono muestra la población de tu reino y la población máxima que pueden mantener tus recursos.
+
+it: Puoi selezionare un’unità cliccando su di essa con il pulsante sinistro del mouse (tieni premuto il tasto "Maiusc" per selezionare contemporaneamente più unità) oppure clicca col pulsante sinistro e, mantenendolo premuto, delinea un riquadro che inglobi tutte le unità che vuoi selezionare.
+es: Seleccionas tus unidades haciendo clic en ellas o rodeándolas con el botón izquierdo del ratón.
+
+it: Selezionando un’unità appariranno, nella zona di selezione e accanto alla sua immagine, tutti i parametri a essa relativi. Le unità militari sono caratterizzate da almeno 3 icone: attacco (spada), difesa (scudo) ed esperienza (croce). I numeri che compaiono accanto alle icone indicano l’abilità dell’unità relativa al parametro specifico.
+es: Al seleccionar una unidad, sus estadísticas aparecen junto a su imagen en la zona de selección. Las unidades militares tienen al menos tres iconos: ataque (espada), defensa (escudo) y nivel (cruz). Los números junto a los iconos muestran sus capacidades.
+
+it: Per far muovere le unità selezionate, clicca col pulsante destro del mouse su di uno spazio aperto.
+es: Para mover las unidades seleccionadas, haz clic con el botón derecho en un espacio libre.
+
+it: Premendo il pulsante destro del mouse sui diversi oggetti, le unità selezionate compiranno l’azione più appropriata in relazione all’oggetto specifico.\nFai delle prove per vedere come funziona il meccanismo.
+es: Un clic derecho en distintos objetos hace que las unidades seleccionadas hagan la acción más adecuada con ese objeto.\nCompruébalo tú mismo.
+
+it: Non so cos’altro chiederti, ciao!
+es: Eh... No sé qué preguntar. ¡Adiós!
+
+it: Poi...?
+es: Más...
+
+it: Come posso portare sotto il mio comando altre unità?
+es: ¿Cómo consigo más unidades que mandar?
+
+it: Come posso scoprire nuove tecnologie?
+es: ¿Cómo investigo tecnologías?
+
+it: Come posso difendermi da un attacco nemico?
+es: ¿Cómo me defiendo de un ataque enemigo?
+
+it: Per esempio, se vuoi costruire una fattoria, clicca su "Comuni" e a seguire sull’icona "Costruire una fattoria".
+es: Si quieres construir una granja, por ejemplo, haz clic en el grupo «Comunes» y luego en el botón «Granja».
+
+it: Fatto questo, colloca l’edificio all’interno della mappa. Nel caso in cui non potessi posizionarlo nel luogo da te scelto, l’edificio ti apparirà rosso. In caso contrario sarà verde. Quando avrai trovato la posizione giusta, clicca col pulsante sinistro del mouse.
+es: Luego coloca el edificio en la vista. Se colorea de rojo si no puedes colocarlo y de verde si puedes.
+
+it: Il modo più facile per ottenere cibo è la coltivazione, anche se, in generale, la pesca risulta più redditizia. Costruisci un porto e poi una barca da pesca. Selezionala e clicca con il pulsante destro del mouse su di una banchina da pesca.
+es: La forma más fácil de conseguir comida es crear campos.\nLa pesca suele ser más eficaz. Construye un puerto y luego un barco pesquero. Selecciónalo y haz clic derecho en un banco de peces.
+
+it: Puoi anche allevare bestiame. Per farlo costruisci una fattoria, trova in essa la voce "Allevamento" e quindi crea delle mucche. Almeno un contadino dovrà occuparsi di esse, perciò selezionane uno e poi clicca su una mucca col pulsante destro del mouse.
+es: También puedes criar ganado. Construye una granja. Domina la «Domesticación» y luego crea algunas vacas. Pon a un campesino a cuidarlas seleccionándolo y haciendo clic en una vaca.
+
+it: Puoi raccogliere legna selezionando un gruppo di contadini e poi cliccando su di un albero col pulsante destro del mouse. Puoi costruire una segheria vicino al bosco per custodirvi la legna (in questo modo i taglialegna non dovranno andare fino al castello).
+es: Para recoger madera, selecciona campesinos y haz clic derecho en un árbol. Si construyes un aserradero cerca del bosque, servirá de punto de entrega a los leñadores.
+
+it: Per raccogliere oro e pietra dovrai trovare una miniera d’oro o una cava di pietra. Costruisci un deposito vicino ad esse e clicca col pulsante destro del mouse perché i contadini selezionati comincino a raccogliere l’oro nella miniera.
+es: Para recoger oro o piedra, busca una mina de oro o de piedra. Construye un almacén al lado y haz clic derecho en la mina para que los campesinos seleccionados la exploten para ti.
+
+it: Per quanto riguarda gli edifici, c’è un’icona a forma di cuore che indica la capacità degli stessi di resistere ai tentativi di attacco da parte dei contadini nemici.
+es: Los edificios tienen un icono de corazón que muestra la resistencia que opondrán cuando campesinos enemigos intenten ganarlos.
+
+it: Sotto l’immagine dell’unità ci sono una barra che ne indica lo stato di salute e una serie di numeri che precisano il livello massimo di salute dell’unità e quello specifico del momento. Quando sono selezionate più unità, la barra della salute fornisce una media dello stato di salute delle stesse.
+es: Bajo la imagen de la unidad hay una barra de salud y unos números que muestran su salud actual y máxima. Cuando hay varias unidades seleccionadas, la barra muestra la salud media de todas.
+
+it: Ci sono molti edifici in cui si possono creare nuove unità. All’interno del castello puoi creare i contadini mentre nelle caserme viene creata la maggior parte delle unità militari. Le fattorie producono mucche e nei porti si costruiscono tutte le barche.
+es: Muchos edificios producen unidades. Tu castillo crea campesinos, el cuartel produce casi todas las unidades militares, las granjas producen ganado y los puertos todos los barcos.
+
+it: In primo luogo seleziona un edificio e poi clicca sull’icona che crea l’unità da te desiderata. Troverai le icone nella zona informativa. Spostando il mouse su di esse appariranno messaggi d’aiuto nella parte inferiore sinistra dell’immagine.
+es: Selecciona primero el edificio que necesitas y luego haz clic en el botón que produce la unidad que quieres. Los botones están junto a la zona de selección. Al pasar el ratón por encima aparecen mensajes de ayuda en la esquina inferior izquierda de la vista.
+
+it: Clicca sulle unità che vuoi proteggere e poi clicca immediatamente col pulsante destro del mouse sul castello o sul posto di guardia in cui vuoi nasconderle. Le suddette unità saranno maggiormente protette all’interno di questi edifici e, in seguito, potranno anche curare le loro ferite. \nPer farle uscire dall’edificio, clicca sull’icona "Evacuare tutte le unità".
+es: Haz clic en las unidades que quieres proteger y luego clic derecho en el castillo o un puesto avanzado para que entren. Dentro estarán más protegidas y, si están heridas, sanarán con el tiempo.\nPara sacarlas, haz clic en el botón «Hacer salir a todas las unidades».
+
+it: Esistono molte tecnologie e unità che non sono immediatamente disponibili all’inizio della partita: scoprirle è molto costoso, ma i vantaggi che procurano sono inestimabili.
+es: Muchas tecnologías y unidades no están disponibles al principio de la partida. Investigarlas es caro, pero las ventajas son grandes.
+
+it: Per scoprire una tecnologia seleziona un edificio in grado di produrla e clicca sulla relativa icona. Quando la ricerca sarà completata le migliorie ad essa associate diverranno automaticamente disponibili.
+es: Para investigar una mejora, selecciona el edificio que la ofrece y haz clic en su botón. La mejora surte efecto en cuanto termina la investigación.
+
+it: Esistono tecnologie che ti permettono di raccogliere più rapidamente le risorse delle segherie, dei depositi o delle fattorie. \nPer rinforzare il tuo esercito o scoprire nuove unità, rivolgiti alla fonderia.
+es: Hay mejoras del aserradero, el almacén y la granja que te harán recoger recursos más deprisa.\nPara fortalecer tu ejército y producir nuevas unidades, echa un vistazo a la herrería.
+
+it: La quantità di risorse a tua disposizione è visualizzata nella parte superiore dello schermo. Troverai un’icona per ogni tipo di prodotto - oro, legna, cibo e pietra. I due numeri che si trovano dopo l’ultima icona indicano il numero massimo di abitanti del tuo regno e il numero massimo che, in questo momento, puoi mantenere.
+es: Los recursos de que dispones aparecen en la parte superior de la pantalla. Hay un icono para cada tipo de recurso: oro, madera, comida y piedra. Los dos números tras el último icono muestran la población de tu reino y la población máxima que puedes mantener ahora.
+
+it: Non solo avrai bisogno di più legna per rinforzare il tuo regno, ma ti occorrerà anche del cibo.\nCi sono nuovi contadini che hanno abbracciato la tua causa: selezionali e, col pulsante destro del mouse, clicca sui campi in modo che comincino a raccogliere cibo.
+es: Necesitas más madera para fortalecer tu reino, pero también algo de comida.\nUnos cuantos campesinos nuevos se han unido a tu causa. Selecciónalos y haz clic derecho en los campos al este del castillo, y empezarán a recoger comida para ti.
+
+it: Vedo che ti sei procurato del cibo. Puoi utilizzare i nuovi contadini fedeli alla tua causa per raccoglierne dell’altro.
+es: Veo que has conseguido reunir algo de comida. Con estos nuevos campesinos unidos a tu causa recogerás recursos aún más deprisa.
+
+it: Non dimenticare che i campi spariranno se non ci saranno contadini a coltivarli.
+es: Ten en cuenta que los campos desaparecen enseguida si no hay campesinos trabajándolos.
+
+it: Molto bene! Ora sai come far muovere i contadini.
+es: Muy bien. Ya sabes mover a tus campesinos.
+
+it: Clicca su di un albero col pulsante destro del mouse e i contadini selezionati lo abbatteranno. Ordina a tutti i tuoi contadini di raccogliere la legna e osserva come lo fanno.
+es: Con un clic derecho en un árbol haces que los campesinos seleccionados lo talen.\nOrdena a todos tus campesinos que recojan madera y mira cómo lo hacen.
+
+it: Bene. Ora clicca su uno spazio aperto col pulsante destro del mouse per ordinare a un contadino di dirigersi lì. \nGuida il contadino al castello che si trova a nord; per farlo ti basta cliccare in prossimità della struttura.
+es: Bien. Ahora haz clic derecho en un espacio libre para que el campesino vaya allí.\nLleva al campesino al castillo que hay al norte haciendo clic cerca de él.
+
+it: Salve ragazzo!\nMi chiamo Haaser e sono qui per insegnarti un po’ di cose.\nPer continuare clicca sul testo.
+es: ¡Hola, joven!\nMe llamo Haaser y voy a compartir contigo mi sabiduría.\nHaz clic en el texto para continuar.
+
+it: Credo di sapere quello che mi stai per spiegare: affidami una missione e ti dimostrerò cosa so fare!
+es: Puede que ya sepa lo que vas a decirme. ¡Dame una tarea para que pueda demostrar lo que valgo!
+
+it: Hmm, cos’è un gioco di strategia in tempo reale?
+es: Hum, ¿qué es exactamente un juego de estrategia en tiempo real?
+
+it: Va bene! Raccogli 200 unità di legna, cibo, oro e pietra. \nRicordati che se hai bisogno d’aiuto puoi sempre rivolgerti a me (basta che clicchi su di me col pulsante sinistro del mouse).
+es: Bien. Tu tarea es reunir 200 unidades de madera, \ncomida, oro y piedra.\nPero recuerda: siempre puedes hacer clic en mí para pedirme ayuda.
+
+it: Per selezionare un contadino cliccaci sopra col pulsante sinistro del mouse oppure,\nse vuoi selezionarne più di uno, tieni premuto il pulsante sinistro del mouse mentre crei un riquadro intorno a essi. \nOra cerca di selezionare il contadino che si trova vicino all’albero caduto.
+es: Seleccionas a los campesinos haciendo clic en ellos o rodeándolos con el botón izquierdo del ratón.\nAhora intenta seleccionar al campesino que está junto a aquel árbol muerto.
+
+it: Bene, vedo che hai bisogno di alcune spiegazioni.\nCome noterai, sullo schermo è visibile solo una piccola parte del mondo, però se porti il mouse verso l’angolo sinistro dello schermo potrai spostarti sulla mappa (non farlo mentre stiamo parlando!).
+es: Bien, te lo explicaré.\nEn la pantalla solo ves una pequeña parte del mundo.\nSi llevas el ratón al borde de la pantalla, la vista se desplaza. (Mientras hablamos no funciona.)
+
+it: Hai mai affrontato un gioco di strategia in tempo reale?
+es: ¿Has jugado antes a otros juegos de estrategia en tiempo real?
+
+it: E ricorda che se ti occorresse aiuto puoi sempre rivolgerti a me.
+es: Y recuerda: siempre puedes hacer clic en mí para pedirme ayuda.
+
+# tzartutorial.wcm::maps/perfect 3
+it: Esercitazione di base 3
+es: Tutorial 3
+
+it: Regno 6
+es: Reino 6
+
+it: Costruisci 2 caserme e crea 10 unità militari
+es: Construye dos cuarteles y crea diez unidades militares.
+
+it: Distruggi tutte le unità nemiche che si trovano in zona
+es: Derrota a todas las unidades enemigas de la zona.
+
+it: Hai dimostrato la tua capacità nell’ottenere risorse e nell’organizzare la tua economia, ma ora è arrivato il momento di mettere alla prova la tua abilità nel creare un esercito.\n\nCircolano voci sulla presenza in zona di truppe nemiche e di bestie orribili. Riunisci tutte le tue forze e sconfiggili.\n\n- Costruisci 2 caserme\n\n- Crea 10 unità militari\n\n- Distruggi tutte le forze nemiche presenti in zona
+es: Has demostrado tu valía reuniendo recursos y organizando tu economía. ¡Es hora de poner a prueba tu habilidad para formar un ejército! \nDicen que hay tropas enemigas y monstruos terribles por la zona. Forma una fuerza adecuada y destrúyelos.\n\n - Construir dos cuarteles\n\n - Crear diez unidades militares\n\n - Destruir todas las fuerzas enemigas de la zona
+
+# tzartutorial.wcm::maps/perfect 4
+it: Esercitazione di base 4
+es: Tutorial 4
+
+it: Regno3
+es: Reino 3
+
+it: Costruisci un porto\n\nCostruisci 2 barche da pesca\n\nCostruisci 3 golette e 2 galere
+es: Construye un puerto.\n\nConstruye dos barcos pesqueros.\n\nConstruye tres jabeques y dos urcas.
+
+it: Distruggi tutte le unità nemiche presenti in zona\nFai sbarcare alcune truppe nell’estremità occidentale dell’isola e distruggi l’accampamento che è lì posizionato
+es: Destruye todas las unidades enemigas de la zona.\n\nDesembarca tropas en la isla del lejano oeste y destruye el campamento que hay allí.
+
+it: Hai dimostrato il tuo valore annientando piccoli gruppi di unità nemiche, ma ora vediamo come te la cavi nell’organizzare una forza combinata.\n\nI tuoi nemici vogliono prendere il controllo di questa zona: stanno costruendo una flotta presso un’isola fortificata che si trova a sud. Distruggili!\n\n- Costruisci un porto\n\n- Costruisci 2 barche da pesca\n\n- Costruisci 3 golette e 2 galere\n\n- Elimina la presenza nemica dalla zona
+es: Has vencido bien a pequeños grupos de unidades enemigas. Pero es hora de ver si sabes organizar una fuerza combinada.\nTus enemigos planean hacerse con esta zona. Están construyendo una flota en una isla fortificada muy al sur. ¡Destrúyelos! \n\n - Construir un puerto\n\n - Construir dos barcos pesqueros\n\n - Construir tres jabeques y dos urcas\n\n - Expulsar al enemigo de esta zona
+
+# tzartutorial.wcm::maps/perfect 5
+it: Esercitazione di base 5
+es: Tutorial 5
+
+it: Costruisci una fonderia, una stalla, un posto di guardia, una taverna e un laboratorio\n\nCostruisci 3 catapulte
+es: Construye una herrería, un establo, un puesto avanzado, una taberna y un taller.\n\nCrea tres catapultas.
+
+it: Distruggi le torri nemiche
+es: Destruye las torres enemigas.
+
+it: Hai svolto un ottimo il lavoro nel corso della tua ultima missione! Ora ti manca solo una sfida prima di affrontare il mondo reale nella tua prossima missione. A nord-est troverai una postazione nemica molto ben difesa. Utilizza le baliste e gli avamposti per rompere le linee nemiche.\n\n- Costruisci una fonderia, una stalla, una bottega, una taverna e un posto di guardia\n\n- Costruisci 3 baliste\n\n- Distruggi tutte le torri nemiche
+es: ¡Excelente trabajo en esa última misión! Queda una última tarea antes del verdadero desafío de la misión siguiente.\nAl noroeste hay una posición muy defendida. Usa catapultas y mejoras para atravesar sus defensas con facilidad.\n\n - Construir una herrería, un establo, un taller, una taberna y un puesto avanzado\n\n - Crear tres catapultas\n\n - Destruir todas las torres enemigas
+
+# tzartutorial.wcm::maps/tutmap1
+it: Esercitazione di base 1
+es: Entrenamiento básico 1
+
+it: Esercizio per la  costruzione di case e la creazione di coltivazioni, per l’addestramento di contadini e la raccolta di risorse
+es: Practica construir casas y campos, formar campesinos y reunir recursos.
+
+it: In questa missione di preparazione dovrai familiarizzare con le sfide fondamentali che i tuoi contadini dovranno affrontare. Inoltre dovrai dimostrare le tue doti di leader portando a termine alcuni piccoli compiti.\n\nInizierai da un modesto accampamento con alcuni contadini disposti a lavorare per te. Devi costruire delle case, procurarti del cibo e della legna e addestrare altri contadini. Potresti anche dover creare delle coltivazioni aggiuntive per accelerare il processo di raccolta del cibo. Approfittane anche per esplorare la zona con le unità che in questo momento risultano libere.\n\nQuesti sono i tuoi obiettivi:\n\n- Raccogli 100 unità di cibo e 100 di legna\n\n- Costruisci 2 case\n\n- Addestra 10 contadini
+es: En esta misión de entrenamiento te familiarizarás con las tareas básicas de tus campesinos. Además, tendrás que demostrar que sirves para gobernar cumpliendo unos objetivos sencillos.\nEmpiezas al mando de un pequeño campamento con unos cuantos campesinos deseosos de trabajar. Tienes que construir casas, reunir comida y madera y formar más campesinos. Quizá te convenga construir más campos para acelerar la cosecha. Explora la zona con las unidades que no necesites.\nEstos son tus objetivos:\n\n - Reunir 100 puntos de comida y 100 puntos de madera\n\n - Construir dos casas\n\n - Formar diez campesinos
+
+it: Raccogli 100 unità di cibo e 100 di legna, addestra 10 contadini e costruisci 2 case
+es: Reúne 100 puntos de comida y 100 puntos de madera, forma diez campesinos, construye dos casas
+
+# tzartutorial.wcm::maps/tutmap2
+it: Esercitazione di base 2
+es: Entrenamiento básico 2
+
+it: Esercizi di costruzione delle strutture economiche fondamentali e di raccolta di ogni tipo di risorse
+es: Practica construir los edificios básicos de la economía y reunir toda clase de recursos.
+
+it: Costruisci una segheria\nCostruisci un magazzino e raccogli 200 unità d'oro e 200 di pietra\nCostruisci una fattoria, scopri la tecnologia “Allevamento” e alleva 2 mucche
+es: Construye un aserradero y un almacén, reúne 200 de oro y 200 de piedra, construye una granja, investiga la tecnología Domesticación y produce dos vacas.
+
+it: Hai fatto un buon lavoro nella raccolta di risorse.\n\nIn questa missione continuerai a guidare i tuoi contadini aiutandoli a stabilire un buon equilibrio economico: per ottenerlo dovrai costruire alcuni edifici d’appoggio che permetteranno di migliorare la raccolta di risorse. Questo è ciò che dovrai fare: in primo luogo costruisci una segheria vicino al bosco in modo da accelerare l’opera di isboscamento. \n\nSuccessivamente crea un deposito vicino alle miniere d’oro e alle cave di pietra e comincia a sfruttarle, infine costruisci una fattoria, inserisci in essa la tecnologia dell’allevamento e alleva alcune mucche. Alla fine di quanto sopra sarai a tuo agio con i compiti fondamentali per il mantenimento di un’economia efficiente e potrai passare a missioni più "stimolanti".\n\n- Costruisci una segheria vicino al bosco che si trova a sud\n\n- Costruisci un deposito vicino ai giacimenti di pietre e oro che si trovano a est\n\n- Raccogli 200 unità d'oro e pietra\n\n- Costruisci una fattoria e scopri la tecnologia dell’allevamento\n\n- Alleva 2 mucche
+es: Buen trabajo reuniendo los recursos necesarios.\nEn esta misión seguirás dirigiendo a tus campesinos y les ayudarás a levantar una economía poderosa. Tendrás que construir algunos edificios de apoyo, que harán más eficaz la recogida de recursos. Esto es lo que tendrás que hacer: primero construye un aserradero cerca del bosque para que la tala sea más rápida. Luego construye un almacén cerca de las minas de oro y de piedra y empieza a recoger esos recursos. Construye una granja, investiga en ella la tecnología Domesticación y produce un par de vacas. Hecho esto, conocerás las tareas básicas de una economía eficaz y estarás listo para misiones más emocionantes.\n\n - Construir un aserradero cerca del bosque, al sur\n - Construir un almacén junto a los yacimientos de piedra y oro, al este\n - Reunir 200 puntos de oro y 200 puntos de piedra\n - Construir una granja e investigar la tecnología Domesticación\n - Producir dos vacas
+
+# tzartutorial.wcm::maps/tutmap6
+it: Esercitazione di base 6
+es: Entrenamiento básico 6
+
+it: Esercizio di costruzione e miglioramento delle torri e, volendo, di combattimento contro il nemico controllato dal computer
+es: Practica construir y mejorar torres y, si quieres, luchar contra un enemigo controlado por el ordenador.
+
+it: Costruisci 6 torri di pietra
+es: Construye seis torres del homenaje.
+
+it: Sbaraglia il nemico (regno rosso)
+es: Derrota al reino enemigo rojo.
+
+it: Ora sei quasi pronto per assumerti la responsabilità di governare il regno.\n\nTuttavia c’è ancora qualcosa che devi imparare prima di impegnarti in una vera battaglia: come erigere fortificazioni.\n\nNella tua prossima missione dovrai costruire alcune torri in pietra. Per farlo crea delle torrette d’osservazione per poi migliorarle fino ad ottenere delle torri di guardia e poi delle torri in pietra. Ma prima devi scoprire la tecnologia "Architettura".\nQuando avrai finito di fortificare la tua città, ti si presenterà la possibilità di scontrarti con il nemico. \n\nQuesto è ciò che dovrai fare:\n\n- Costruire 6 torri in pietra\n\n- Distruggere il regno rosso nemico (se hai deciso di combattere)
+es: Ya casi estás listo para llevar la responsabilidad de gobernar un reino.\nPero te queda algo por aprender antes de entrar en una batalla de verdad: construir fortificaciones.\nEn tu próxima misión tendrás que construir varias torres del homenaje. Para ello, construye primero atalayas, mejóralas a torres de guardia y luego a torres del homenaje. Para lograrlo tendrás que investigar la tecnología Arquitectura.\nCuando hayas fortificado tu ciudad, podrás elegir luchar contra un enemigo de verdad.\nEsto es lo que tendrás que hacer:\n\n - Construir seis torres del homenaje\n- Destruir el reino enemigo rojo (si decides luchar)
+
+it: Congratulazioni! Hai portato a compimento tutte le missioni di preparazione e sei pronto per governare il tuo regno.\nVuoi uscire ora o preferisci mettere alla prova le tue nuove capacità in una vera battaglia?
+es: ¡Enhorabuena! Has completado todas las tareas de entrenamiento y estás listo para gobernar tu propio reino.\n¿Quieres dejar de jugar ahora o prefieres probar tus nuevas habilidades en una batalla de verdad?
+
+it: Voglio uscire ora.
+es: Quiero dejarlo ahora.
+
+it: Voglio combattere! Vediamo come sono questi temibili eserciti!
+es: ¡Quiero luchar! ¡Venid con todo lo que tengáis!
+
+it: Congratulazioni! Hai portato a compimento tutte le missioni di preparazione e sei pronto per governare il tuo regno.\nOra sei nel pieno di uno scontro cruciale all’ultimo sangue con un nemico potente. Vuoi uscire ora o preferisci mettere alla prova le tue nuove capacità in una vera battaglia?
+es: ¡Enhorabuena! Has completado todas las tareas de entrenamiento y estás listo para gobernar tu propio reino.\nAhora estás en una lucha a vida o muerte contra un enemigo poderoso. ¿Quieres dejarlo ahora o prefieres probar tus nuevas habilidades en esta batalla?

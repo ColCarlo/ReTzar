@@ -1,0 +1,2027 @@
+; I testi delle schermate di aiuto in portoghese europeo (HELP/ITEMS.TXT), tradotti da questa versione
+; e posati sulle voci dell'edizione italiana; collegamenti e icone restano.
+
+[U_E_PEASANT]
+rollover = Mais informações sobre a unidade - Camponês
+brief = Camponês
+detail = Custo-50 comida, Visão-5, Vida-50p, Ataque-5p, Defesa-0 ~ Podem mover-se, construir, capturar, atacar, reparar, colher, explorar, transportar ouro, pedra, leite, carne e madeira, cuidar do gado e subornar unidades.
+
+[U_E_FOOTMAN]
+rollover = Mais informações sobre a unidade - Infante
+brief = Infante
+detail = Custo-50 comida, Visão-5, Vida-65p, Ataque-6p, Defesa-3 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_E_ARCHER]
+rollover = Mais informações sobre a unidade - Arqueiro
+brief = Arqueiro
+detail = Custo-40 comida/20 madeira, Visão-10, Alcance-6, Vida-50p, Ataque-5p, Defesa-0 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_E_MACEMAN]
+rollover = Mais informações sobre a unidade - Maceiro
+brief = Maceiro
+detail = Custo-120 comida, Visão-5, Vida-120p, Ataque-8p, Defesa-0 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_E_PIKEMAN]
+rollover = Mais informações sobre a unidade - Piqueiro
+brief = Piqueiro
+detail = Custo-90 comida/40 ouro, Visão-5, Vida-75p, Ataque-8p, Defesa-4 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_E_LONGBOWMAN]
+rollover = Mais informações sobre a unidade - Arqueiro de arco longo
+brief = Arqueiro de arco longo
+detail = Custo-90 comida/70 ouro, Visão-16, Vida-50p, Alcance-12p, Ataque-5p, Defesa-2 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_E_KNIGHT]
+rollover = Mais informações sobre a unidade - Cavaleiro
+brief = Cavaleiro
+detail = Custo-120 comida/90 ouro, Visão-5, Vida-120p, Ataque-12p, Defesa-6 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_E_CRUSADER]
+rollover = Mais informações sobre a unidade - Cruzado
+brief = Cruzado
+detail = Visão-5, Vida-180p, Ataque-14p, Defesa-8 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_E_PRIEST]
+rollover = Mais informações sobre a unidade - Sacerdote
+brief = Sacerdote
+detail = Custo-150 ouro, Visão-20, Vida-60p, Alcance-18p, Ataque-20p, Defesa-0 ~ Podem mover-se, explorar, curar unidades e abençoar.
+
+[U_E_SPY]
+rollover = Mais informações sobre a unidade - Espião
+brief = Espião
+detail = Custo-150 ouro, Visão-12, Vida-50p, Ataque-20p, Defesa-0 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar, explorar, disfarçar-se e desmascarar.
+
+[U_E_MAGE]
+rollover = Mais informações sobre a unidade - Mago
+brief = Mago
+detail = Custo-150 ouro, Visão-14, Vida-60p, Alcance-10p, Ataque-5p, Defesa-0 ~ Podem mover-se, atacar, lançar raios, invocar morcegos, congelar, invocar golems de pedra e tornar invisíveis as unidades.
+
+[U_E_CARAVAN]
+rollover = Mais informações sobre a unidade - Caravana
+brief = Caravana
+detail = Custo-400 comida/200 madeira, Visão-7, Vida-350p, Ataque-0p, Defesa-0 ~ Podem mover-se, comerciar, carregar unidades e mercadorias, descarregar e explorar.
+
+[U_A_PEASANT]
+rollover = Mais informações sobre a unidade - Camponês
+brief = Camponês
+detail = Custo-40 comida, Visão-5, Vida-50p, Ataque-5p, Defesa-0 ~ Podem mover-se, construir, capturar, atacar, reparar, colher, comerciar, explorar, transportar ouro, pedra, leite, carne e madeira, e cuidar do gado.
+
+[U_A_RHONIN]
+rollover = Mais informações sobre a unidade - Ronin
+brief = Ronin
+detail = Custo-40 comida, Visão-5, Vida-50p, Ataque-7p, Defesa-0 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_A_ARCHER]
+rollover = Mais informações sobre a unidade - Arqueiro
+brief = Arqueiro
+detail = Custo-40 comida/20 madeira, Visão-10, Alcance-6, Vida-50p, Ataque-5p, Defesa-0 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_A_SAMURAI]
+rollover = Mais informações sobre a unidade - Samurai
+brief = Samurai
+detail = Custo-90 comida/40 ouro, Visão-6, Vida-120p, Ataque-10p, Defesa-4 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_A_HORSE_ARCHER]
+rollover = Mais informações sobre a unidade - Arqueiro a cavalo
+brief = Arqueiro a cavalo
+detail = Custo-120 comida/40 ouro, Visão-12, Alcance-7p, Vida-75p, Ataque-7p, Defesa-0 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_A_HORSE_SAMURAI]
+rollover = Mais informações sobre a unidade - Samurai a cavalo
+brief = Samurai a cavalo
+detail = Custo-100 comida/60 ouro, Visão-5, Vida-160p, Ataque-14p, Defesa-4 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_A_CHARIOT]
+rollover = Mais informações sobre a unidade - Carro blindado
+brief = Carro blindado
+detail = Custo-150 comida/150 madeira, Visão-5, Vida-180p, Ataque-3p, Defesa-5 ~ Podem mover-se, atacar, patrulhar, vigiar e explorar.
+
+[U_A_NINJA]
+rollover = Mais informações sobre a unidade - Ninja
+brief = Ninja
+detail = Custo-80 ouro, Visão-10, Vida-90p, Ataque-12p, Defesa-5 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar, explorar, esconder-se e assassinar.
+
+[U_A_PRIEST]
+rollover = Mais informações sobre a unidade - Sacerdote
+brief = Sacerdote
+detail = Custo-150 ouro, Visão-14, Vida-120p, Ataque-10p, Defesa-10 ~ Podem mover-se, explorar, curar unidades e abençoar.
+
+[U_A_MONK]
+rollover = Mais informações sobre a unidade - Monge
+brief = Monge
+detail = Custo-250 comida, Visão-5, Vida-120p, Ataque-6p, Defesa-6 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_A_MAGE]
+rollover = Mais informações sobre a unidade - Mago
+brief = Mago
+detail = Custo-150 ouro, Visão-14, Vida-60p, Alcance-10p, Ataque-8p, Defesa-0 ~ Podem mover-se, atacar, petrificar unidades, criar remoinhos e labaredas, invocar dragões e converter o maná em experiência.
+
+[U_R_PEASANT]
+rollover = Mais informações sobre a unidade - Camponês
+brief = Camponês
+detail = Custo-50 comida, Visão-5, Vida-50p, Ataque-5p, Defesa-0 ~ Podem mover-se, construir, capturar, atacar, reparar, colher, explorar, transportar ouro, pedra, leite, carne e madeira, cuidar do gado e subornar unidades. Podem tornar-se guerreiros da jihad.
+
+[U_R_FOOTMAN]
+rollover = Mais informações sobre a unidade - Infante
+brief = Infante
+detail = Custo-50 comida, Visão-5, Vida-50p, Ataque-6p, Defesa-1 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_R_ARCHER]
+rollover = Mais informações sobre a unidade - Arqueiro
+brief = Arqueiro
+detail = Custo-40 comida/20 madeira, Visão-10, Alcance-6, Vida-50p, Ataque-5p, Defesa-0 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_R_SPEARMAN]
+rollover = Mais informações sobre a unidade - Lanceiro
+brief = Lanceiro
+detail = Custo-60 comida/50 ouro, Visão-5, Vida-75p, Ataque-6p, Defesa-2 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_R_SATRAP]
+rollover = Mais informações sobre a unidade - Sátrapa
+brief = Sátrapa
+detail = Custo-120 comida, Visão-5, Vida-120p, Ataque-8p, Defesa-0 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_R_CAVALRY]
+rollover = Mais informações sobre a unidade - Cavalaria
+brief = Cavalaria
+detail = Custo-100 comida/60 ouro, Visão-5, Vida-90p, Ataque-10p, Defesa-2 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_R_HORSE_ARCHER]
+rollover = Mais informações sobre a unidade - Arqueiro a cavalo
+brief = Arqueiro a cavalo
+detail = Custo-100 comida/50 ouro, Visão-12, Alcance-7p, Vida-75p, Ataque-6p, Defesa-2 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_R_JIHAD_WARRIOR]
+rollover = Mais informações sobre a unidade - Guerreiro da jihad
+brief = Guerreiro da jihad
+detail = Custo-100 comida, Visão-5, Vida-10p, Ataque-18p, Defesa-2 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar. São criados a partir de camponeses depois de investigada a tecnologia Jihad.
+
+[U_R_PRIEST]
+rollover = Mais informações sobre a unidade - Sacerdote
+brief = Sacerdote
+detail = Custo-150 ouro, Visão-20, Alcance-18p, Vida-60p, Ataque-20p, Defesa-0 ~ Podem mover-se, explorar, curar unidades, abençoar e praticar exorcismos.
+
+[U_R_SPY]
+rollover = Mais informações sobre a unidade - Espião
+brief = Espião
+detail = Custo-150 ouro, Visão-12, Vida-50p, Ataque-20p, Defesa-0 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar, explorar, disfarçar-se e desmascarar.
+
+[U_R_MAGE]
+rollover = Mais informações sobre a unidade - Mago
+brief = Mago
+detail = Custo-150 ouro, Visão-14, Vida-60p, Alcance-10p, Ataque-8p, Defesa-0 ~ Podem mover-se, atacar, invocar tapetes voadores, erguer os mortos, invocar génios, criar a Visão mágica e a Chuva de fogo.
+
+[U_R_CARAVAN]
+rollover = Mais informações sobre a unidade - Caravana
+brief = Caravana
+detail = Custo-500 comida, Visão-5, Vida-150p, Ataque-0p, Defesa-0 ~ Podem mover-se, comerciar, carregar unidades e mercadorias, descarregar e explorar.
+
+[U_R_JANISSARY]
+rollover = Mais informações sobre a unidade - Janízaro
+brief = Janízaro
+detail = Custo-120 comida/80 ouro, Visão-5, Vida-130p, Ataque-18p, Defesa-4 ~ Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar.
+
+[U_C_CATAPULT]
+rollover = Mais informações sobre a unidade - Catapulta
+brief = Catapulta
+detail = Custo-600 madeira, Visão-16, Alcance-14p, Vida-110p, Ataque-10p, Defesa-0 ~ Podem mover-se, atacar, patrulhar, vigiar e explorar.
+
+[U_C_HEAVY_CATAPULT]
+rollover = Mais informações sobre a unidade - Catapulta pesada
+brief = Catapulta pesada
+detail = Custo-1200 madeira, Visão-24, Alcance-22p, Vida-250p, Ataque-25p, Defesa-0 ~ Podem mover-se, atacar, patrulhar, vigiar e explorar.
+
+[U_C_BALLISTA]
+rollover = Mais informações sobre a unidade - Balista
+brief = Balista
+detail = Custo-800 madeira, Visão-14, Alcance-12p, Vida-75p, Ataque-25p, Defesa-0 ~ Podem mover-se, atacar, patrulhar, vigiar e explorar.
+
+[U_C_GALLEON]
+rollover = Mais informações sobre a unidade - Galeão
+brief = Galeão
+detail = Custo-800 comida/1200 madeira, Visão-14, Alcance-12p, Vida-1200p, Ataque-35p, Defesa-0 ~ Podem mover-se, atacar, carregar, descarregar, comerciar e melhorar os seus canhões. Os galeões só estão disponíveis para europeus e árabes.
+
+[U_C_HULK]
+rollover = Mais informações sobre a unidade - Urca
+brief = Urca
+detail = Custo-300 comida/500 madeira, Visão-12, Alcance-10p, Vida-700p, Ataque-18p, Defesa-0 ~ Podem mover-se, atacar, carregar, descarregar, comerciar e melhorar os seus canhões.
+
+[U_C_XEBEC]
+rollover = Mais informações sobre a unidade - Xaveco
+brief = Xaveco
+detail = Custo-200 comida/300 madeira, Visão-10, Alcance-8p, Vida-300p, Ataque-10p, Defesa-0 ~ Podem mover-se, atacar, carregar, descarregar, comerciar e melhorar os seus canhões.
+
+[U_C_FISHING_BOAT]
+rollover = Mais informações sobre a unidade - Barco de pesca
+brief = Barco de pesca
+detail = Custo-100 comida/200 madeira, Visão-10, Alcance-8p, Vida-50p, Ataque-1p, Defesa-0 ~ Podem mover-se, pescar e parar.
+
+[U_C_COW]
+rollover = Mais informações sobre o gado
+brief = Gado
+detail = Custo-300 comida, Visão-3, Vida-80p ~ As vacas só estão disponíveis para europeus e árabes. O gado fornece recursos. Os camponeses cuidam dele e acrescentam o leite obtido à comida do tesouro. As vacas podem ser abatidas e a sua carne é recolhida pelos camponeses ou por outras unidades. O leite e a carne são armazenados na quinta ou no castelo.
+
+[U_C_BEAR]
+rollover = Mais informações sobre os ursos
+brief = Ursos
+detail = Visão-3, Vida-70p ~ Os ursos são criaturas da natureza. Atacam todas as unidades ao seu alcance. Os ursos podem receber o feitiço Visão mágica e servem então para explorar o mapa.
+
+[U_C_BAT]
+rollover = Mais informações sobre os morcegos
+brief = Morcegos
+detail = Custo-25 maná, Visão-10, Vida-20p, Ataque-3p, Defesa-0 ~ Os morcegos são invocados pelos magos europeus. Podem mover-se, atacar, patrulhar, vigiar e explorar. Os morcegos contam para o limite de população.
+
+[U_C_STONE_GOLEM]
+rollover = Mais informações sobre a unidade - Golem de pedra
+brief = Golem de pedra
+detail = Custo-120 ouro/600 maná, Visão-10, Vida-400p, Ataque-25p, Defesa-0 ~ Os golems de pedra são invocados pelos magos. Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar. Os golems de pedra contam para o limite de população.
+
+[U_C_ORK]
+rollover = Mais informações sobre a unidade - Orc
+brief = Orc
+detail = Custo-60 ouro, Visão-5, Vida-50p, Ataque-18p, Defesa-2 ~ Os orcs são criados nos portais mágicos. Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar. Os orcs contam para o limite de população.
+
+[U_C_DWARF]
+rollover = Mais informações sobre a unidade - Anão
+brief = Anão
+detail = Custo-80 ouro, Visão-3, Vida-120p, Ataque-7p, Defesa-7 ~ Os anões são criados nos portais mágicos. Podem mover-se, atacar, recolher objetos, patrulhar, vigiar e explorar. Os anões contam para o limite de população.
+
+[U_C_DRAGON]
+rollover = Mais informações sobre a unidade - Dragão
+brief = Dragão
+detail = Custo-80 ouro/800 maná, Visão-12, Alcance-3p, Vida-300p, Ataque-25p, Defesa-0 ~ Os dragões são invocados pelos magos asiáticos. Podem mover-se, atacar, patrulhar, vigiar e explorar. Os dragões contam para o limite de população.
+
+[U_C_JINN]
+rollover = Mais informações sobre a unidade - Génio
+brief = Génio
+detail = Custo-50 ouro/300 maná, Visão-8, Vida-300p, Ataque-20p, Defesa-5 ~ Os génios são invocados pelos magos árabes. Podem mover-se, atacar, patrulhar, vigiar e explorar. Os génios contam para o limite de população.
+
+[U_C_CARPET]
+rollover = Mais informações sobre a unidade - Tapete voador
+brief = Tapete voador
+detail = Custo-80 ouro/500 maná, Visão-8, Vida-90p ~ Os tapetes voadores são invocados pelos magos árabes. Podem mover-se, atacar, carregar, descarregar e explorar. Os tapetes voadores contam para o limite de população. Servem para transportar unidades sobre a água e sobre a terra.
+
+[U_C_SKELETON]
+rollover = Mais informações sobre a unidade - Esqueleto
+brief = Esqueleto
+detail = Custo-30 comida, Visão-5, Vida-40p, Ataque-4p, Defesa-0 ~ Os esqueletos podem ser chamados dos portais mágicos, ou os magos árabes podem erguê-los das unidades mortas se tiver sido investigado o feitiço de Necromancia. Podem mover-se, atacar, patrulhar, vigiar e explorar. Os esqueletos contam para o limite de população.
+
+[U_C_GHOST]
+rollover = Mais informações sobre a unidade - Fantasma
+brief = Fantasma
+detail = Custo-40 ouro, Visão-5, Vida-60p, Ataque-8p, Defesa-0 ~ Os fantasmas são criados nos portais mágicos. Podem mover-se, atacar, recolher objetos, amaldiçoar as pessoas, patrulhar, vigiar e explorar. Os fantasmas contam para o limite de população.
+
+[U_C_MESSIAH]
+rollover = Mais informações sobre o Messias
+brief = Messias
+detail = Custo-2000 ouro, Visão-20, Alcance-18p, Vida-1000p, Ataque-50p, Defesa-10 ~ O Messias aparece nas campanhas. É a unidade mais poderosa de todas. O Messias pode usar todos os feitiços do jogo.
+
+[B_E_CASTLE]
+rollover = Mais informações sobre o edifício - Castelo
+brief = Castelo
+detail = Custo-1500 pedra/1500 madeira, Visão-12, Resistência-1000p, Vida-8000p, Resistência emitida/aos teus edifícios/-+400,Resistência emitida/a outros edifícios/--200 ~ O castelo é o edifício principal de um reino. É o único local onde se podem criar camponeses e espiões. Nele podem ser armazenados todos os recursos.
+
+[B_E_HOUSE]
+rollover = Mais informações sobre o edifício - Casa
+brief = Casa
+detail = Custo-75 madeira, Visão-4, Resistência-50p, Vida-500p, ~ As casas aumentam o limite de população de um reino. Cada casa permite criar mais 10 unidades.
+
+[B_E_LUMBER_MILL]
+rollover = Mais informações sobre o edifício - Serração
+brief = Serração
+detail = Custo-100 madeira, Visão-4, Resistência-80p, Vida-800p, ~ A serração serve para armazenar madeira. Quanto mais perto estiver das árvores, mais eficazes serão os lenhadores.
+
+[B_E_STORAGE]
+rollover = Mais informações sobre o edifício - Armazém
+brief = Armazém
+detail = Custo-200 madeira, Visão-5, Resistência-80p, Vida-800p, ~ O armazém serve para guardar pedra e ouro. Quanto mais perto estiver da mina, mais eficazes serão os mineiros.
+
+[B_E_FARM]
+rollover = Mais informações sobre o edifício - Quinta
+brief = Quinta
+detail = Custo-200 madeira, Visão-5, Resistência-80p, Vida-800p, ~ A quinta serve para armazenar comida. Quanto mais perto estiver dos campos, mais eficazes serão os agricultores.
+
+[B_E_HARBOR]
+rollover = Mais informações sobre o edifício - Porto
+brief = Porto
+detail = Custo-200 comida/200 madeira, Visão-8, Resistência-200p, Vida-1400p, Resistência emitida/aos teus edifícios/-+100,Resistência emitida/a outros edifícios/--50 ~ O porto serve para armazenar peixe, construir barcos e comerciar.
+
+[B_E_BLACKSMITH]
+rollover = Mais informações sobre o edifício - Ferraria
+brief = Ferraria
+detail = Custo-150 comida/150 madeira, Visão-8, Resistência-80p, Vida-800p, ~ Na ferraria investigam-se as tecnologias que melhoram as características das unidades militares.
+
+[B_E_WORKSHOP]
+rollover = Mais informações sobre o edifício - Oficina
+brief = Oficina
+detail = Custo-150 comida/150 madeira, Visão-8, Resistência-80p, Vida-800p, ~ Na ferraria investigam-se as tecnologias que melhoram as características das unidades militares.
+
+[B_E_CHURCH]
+rollover = Mais informações sobre o edifício - Igreja
+brief = Igreja
+detail = Custo-200 comida/200 pedra, Visão-6, Resistência-200p, Vida-1000p, Resistência emitida/aos teus edifícios/-+50,Resistência emitida/a outros edifícios/--100 ~ Os sacerdotes são criados na igreja.
+
+[B_E_TAVERN]
+rollover = Mais informações sobre o edifício - Taberna
+brief = Taberna
+detail = Custo-200 comida/200 madeira, Visão-5, Resistência-150p, Vida-1000p, Resistência emitida/aos teus edifícios/--50,Resistência emitida/a outros edifícios/--50 ~ Na taberna convertem-se recursos, obtêm-se empréstimos, contratam-se unidades militares e joga-se. Para aceder a todas as opções é preciso ter investigado as tecnologias correspondentes.
+
+[B_E_MARKET]
+rollover = Mais informações sobre o edifício - Mercado
+brief = Mercado
+detail = Custo-200 comida/200 madeira, Visão-8, Resistência-200p, Vida-1400p ~ No mercado comercia-se com recursos. O comércio é feito pelas caravanas. É preciso ter investigado a tecnologia Rotas comerciais para poder produzir caravanas e comerciar.
+
+[B_E_BARRACKS]
+rollover = Mais informações sobre o edifício - Quartel
+brief = Quartel
+detail = Custo-200 comida/200 madeira, Visão-6, Resistência-500p, Vida-1400p ~ O quartel é o edifício onde são produzidas todas as unidades militares. Nem todas as unidades estarão disponíveis até serem investigadas as tecnologias necessárias.
+
+[B_E_STABLE]
+rollover = Mais informações sobre o edifício - Estábulo
+brief = Estábulo
+detail = Custo-200 comida/200 madeira, Visão-5, Resistência-80p, Vida-500p ~ Para produzir unidades montadas é preciso um estábulo. Se o estábulo for destruído, não se podem produzir unidades montadas até construir um novo.
+
+[B_E_OUTPOST]
+rollover = Mais informações sobre o edifício - Posto avançado
+brief = Posto avançado
+detail = Custo-200 madeira/400 pedra, Visão-8, Resistência-500p, Vida-5000p, Resistência emitida/aos teus edifícios/-+200,Resistência emitida/a outros edifícios/--200 ~ O posto avançado é o local onde os exércitos se podem abrigar e curar. Convém construir postos avançados durante uma invasão, à medida que as tropas avançam.
+
+[B_E_CATHEDRAL]
+rollover = Mais informações sobre o edifício - Catedral
+brief = Catedral
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção da catedral permite ao jogador seguir o Caminho da Religião. As tecnologias disponíveis na catedral dar-lhe-ão meios eficazes para construir um império.
+
+[B_E_MAGE_TOWER]
+rollover = Mais informações sobre o edifício - Torre dos magos
+brief = Torre dos magos
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção da Torre dos magos permite ao jogador seguir o Caminho da Magia. Nela podem investigar-se feitiços poderosos e criar magos.
+
+[B_E_MERCHANTS_GUILD]
+rollover = Mais informações sobre o edifício - Guilda dos Mercadores
+brief = Guilda dos Mercadores
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção da Guilda dos Mercadores permite ao jogador seguir o Caminho do Comércio e do Artesanato. Pode construir-se uma economia muito forte, aproveitar todas as vantagens do comércio e não depender dos recursos limitados do mapa.
+
+[B_E_WARRIORS_GUILD]
+rollover = Mais informações sobre o edifício - Guilda dos Guerreiros
+brief = Guilda dos Guerreiros
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção da Guilda dos Guerreiros permite ao jogador seguir o Caminho da Glória. Pode formar-se um exército muito poderoso. Há muitas tecnologias que permitem às unidades ganhar experiência, aumentar o seu ataque e tornar-se quase invencíveis.
+
+[B_A_CASTLE]
+rollover = Mais informações sobre o edifício - Castelo
+brief = Castelo
+detail = Custo-1500 pedra/1500 madeira, Visão-12, Resistência-1000p, Vida-8000p, Resistência emitida/aos teus edifícios/-+500,Resistência emitida/a outros edifícios/--300 ~ O castelo é o edifício principal de um reino. É o único local onde se podem criar camponeses. Nele podem ser armazenados todos os recursos.
+
+[B_A_HOUSE]
+rollover = Mais informações sobre o edifício - Casa
+brief = Casa
+detail = Custo-75 madeira, Visão-4, Resistência-50p, Vida-500p, ~ As casas aumentam o limite de população de um reino. Cada casa permite criar mais 10 unidades.
+
+[B_A_LUMBER_MILL]
+rollover = Mais informações sobre o edifício - Serração
+brief = Serração
+detail = Custo-100 madeira, Visão-4, Resistência-80p, Vida-800p, ~ A serração serve para armazenar madeira. Quanto mais perto estiver das árvores, mais eficazes serão os lenhadores.
+
+[B_A_STORAGE]
+rollover = Mais informações sobre o edifício - Armazém
+brief = Armazém
+detail = Custo-200 madeira, Visão-5, Resistência-80p, Vida-800p, ~ O armazém serve para guardar pedra e ouro. Quanto mais perto estiver da mina, mais eficazes serão os mineiros.
+
+[B_A_FARM]
+rollover = Mais informações sobre o edifício - Quinta
+brief = Quinta
+detail = Custo-200 madeira, Visão-5, Resistência-80p, Vida-800p, ~ A quinta serve para armazenar comida. Quanto mais perto estiver dos campos, mais eficazes serão os agricultores.
+
+[B_A_HARBOR]
+rollover = Mais informações sobre o edifício - Porto
+brief = Porto
+detail = Custo-200 comida/200 madeira, Visão-8, Resistência-200p, Vida-1400p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--100 ~ O porto serve para armazenar peixe, construir barcos e comerciar.
+
+[B_A_BLACKSMITH]
+rollover = Mais informações sobre o edifício - Ferraria
+brief = Ferraria
+detail = Custo-150 comida/150 madeira, Visão-8, Resistência-80p, Vida-800p, ~ Na ferraria investigam-se as tecnologias que melhoram as características das unidades militares.
+
+[B_A_WORKSHOP]
+rollover = Mais informações sobre o edifício - Oficina
+brief = Oficina
+detail = Custo-150 comida/150 madeira, Visão-8, Resistência-80p, Vida-800p, ~ Na oficina investigam-se as tecnologias que melhoram as características das unidades militares.
+
+[B_A_MONASTERY]
+rollover = Mais informações sobre o edifício - Mosteiro
+brief = Mosteiro
+detail = Custo-200 comida/200 pedra, Visão-6, Resistência-200p, Vida-1000p, Resistência emitida/aos teus edifícios/-+100,Resistência emitida/a outros edifícios/--200 ~ Os sacerdotes são criados no mosteiro.
+
+[B_A_TAVERN]
+rollover = Mais informações sobre o edifício - Taberna
+brief = Taberna
+detail = Custo-200 comida/200 madeira, Visão-5, Resistência-150p, Vida-1000p, Resistência emitida/aos teus edifícios/--200,Resistência emitida/a outros edifícios/--200 ~ Na taberna convertem-se recursos, obtêm-se empréstimos, contratam-se unidades militares e joga-se. Para aceder a todas as opções é preciso ter investigado as tecnologias correspondentes.
+
+[B_A_MARKET]
+rollover = Mais informações sobre o edifício - Mercado
+brief = Mercado
+detail = Custo-200 comida/200 madeira, Visão-8, Resistência-200p, Vida-1400p ~ No mercado comercia-se com objetos. Primeiro é preciso investigar a tecnologia Joalharia.
+
+[B_A_BARRACKS]
+rollover = Mais informações sobre o edifício - Quartel
+brief = Quartel
+detail = Custo-200 comida/200 madeira, Visão-6, Resistência-500p, Vida-1400p ~ O quartel é o edifício onde são produzidas todas as unidades militares. Nem todas as unidades estarão disponíveis até serem investigadas as tecnologias necessárias.
+
+[B_A_STABLE]
+rollover = Mais informações sobre o edifício - Estábulo
+brief = Estábulo
+detail = Custo-200 comida/200 madeira, Visão-5, Resistência-80p, Vida-500p ~ Para produzir unidades montadas é preciso um estábulo. Se o estábulo for destruído, não se podem produzir unidades montadas até construir um novo.
+
+[B_A_OUTPOST]
+rollover = Mais informações sobre o edifício - Posto avançado
+brief = Posto avançado
+detail = Custo-200 madeira/400 pedra, Visão-8, Resistência-500p, Vida-2000p, Resistência emitida/aos teus edifícios/-+400,Resistência emitida/a outros edifícios/--400 ~ O posto avançado é o local onde os exércitos se podem abrigar e curar. Convém construir postos avançados durante uma invasão, à medida que as tropas avançam.
+
+[B_A_SHAO_LINN]
+rollover = Mais informações sobre o edifício - Shao Linn
+brief = Shao Linn
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção do Shao Linn permite ao jogador seguir o Caminho da Religião. As tecnologias que nele ficam disponíveis dar-lhe-ão meios eficazes para construir um império.
+
+[B_A_MAGE_TOWER]
+rollover = Mais informações sobre o edifício - Torre dos magos
+brief = Torre dos magos
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção da Torre dos magos permite ao jogador seguir o Caminho da Magia. Nela podem investigar-se feitiços poderosos e criar magos.
+
+[B_A_MERCHANTS_GUILD]
+rollover = Mais informações sobre o edifício - Guilda dos Mercadores
+brief = Guilda dos Mercadores
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção da Guilda dos Mercadores permite ao jogador seguir o Caminho do Comércio e do Artesanato. Pode construir-se uma economia muito forte, aproveitar todas as vantagens do comércio e não depender dos recursos limitados do mapa.
+
+[B_A_WARRIORS_GUILD]
+rollover = Mais informações sobre o edifício - Guilda dos Guerreiros
+brief = Guilda dos Guerreiros
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção da Guilda dos Guerreiros permite ao jogador seguir o Caminho da Glória. Pode formar-se um exército muito poderoso. Há muitas tecnologias que permitem às unidades ganhar experiência, aumentar o seu ataque e tornar-se quase invencíveis.
+
+[B_R_CASTLE]
+rollover = Mais informações sobre o edifício - Castelo
+brief = Castelo
+detail = Custo-1500 pedra/1500 madeira, Visão-12, Resistência-1000p, Vida-8000p, Resistência emitida/aos teus edifícios/-+500,Resistência emitida/a outros edifícios/--300 ~ O castelo é o edifício principal de um reino. É o único local onde se podem criar camponeses e espiões. Nele podem ser armazenados todos os recursos.
+
+[B_R_HOUSE]
+rollover = Mais informações sobre o edifício - Casa
+brief = Casa
+detail = Custo-75 madeira, Visão-4, Resistência-50p, Vida-500p, ~ As casas aumentam o limite de população de um reino. Cada casa permite criar mais 10 unidades.
+
+[B_R_LUMBER_MILL]
+rollover = Mais informações sobre o edifício - Serração
+brief = Serração
+detail = Custo-100 madeira, Visão-4, Resistência-80p, Vida-800p, ~ A serração serve para armazenar madeira. Quanto mais perto estiver das árvores, mais eficazes serão os lenhadores.
+
+[B_R_STORAGE]
+rollover = Mais informações sobre o edifício - Armazém
+brief = Armazém
+detail = Custo-200 madeira, Visão-5, Resistência-80p, Vida-800p, ~ O armazém serve para guardar pedra e ouro. Quanto mais perto estiver da mina, mais eficazes serão os mineiros.
+
+[B_R_FARM]
+rollover = Mais informações sobre o edifício - Quinta
+brief = Quinta
+detail = Custo-200 madeira, Visão-5, Resistência-80p, Vida-800p, ~ A quinta serve para armazenar comida. Quanto mais perto estiver dos campos, mais eficazes serão os agricultores.
+
+[B_R_HARBOR]
+rollover = Mais informações sobre o edifício - Porto
+brief = Porto
+detail = Custo-200 comida/200 madeira, Visão-8, Resistência-200p, Vida-1400p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--100 ~ O porto serve para armazenar peixe, construir barcos e comerciar.
+
+[B_R_BLACKSMITH]
+rollover = Mais informações sobre o edifício - Ferraria
+brief = Ferraria
+detail = Custo-150 comida/150 madeira, Visão-8, Resistência-80p, Vida-800p, ~ Na ferraria investigam-se as tecnologias que melhoram as características das unidades militares.
+
+[B_R_WORKSHOP]
+rollover = Mais informações sobre o edifício - Oficina
+brief = Oficina
+detail = Custo-150 comida/150 madeira, Visão-8, Resistência-80p, Vida-800p, ~ Na oficina investigam-se as tecnologias que melhoram as características das unidades militares.
+
+[B_R_CHURCH]
+rollover = Mais informações sobre o edifício - Igreja
+brief = Igreja
+detail = Custo-200 comida/200 pedra, Visão-6, Resistência-200p, Vida-1000p, Resistência emitida/aos teus edifícios/-+100,Resistência emitida/a outros edifícios/--200 ~ Os sacerdotes são criados na igreja.
+
+[B_R_TAVERN]
+rollover = Mais informações sobre o edifício - Taberna
+brief = Taberna
+detail = Custo-200 comida/200 madeira, Visão-5, Resistência-150p, Vida-1000p, Resistência emitida/aos teus edifícios/--200,Resistência emitida/a outros edifícios/--200 ~ Na taberna convertem-se recursos, obtêm-se empréstimos, contratam-se unidades militares e joga-se. Para aceder a todas as opções é preciso ter investigado as tecnologias correspondentes.
+
+[B_R_MARKET]
+rollover = Mais informações sobre o edifício - Mercado
+brief = Mercado
+detail = Custo-200 comida/200 madeira, Visão-8, Resistência-200p, Vida-1400p ~ No mercado comercia-se com recursos. O comércio é feito pelas caravanas. É preciso ter investigado a tecnologia Rotas comerciais para poder produzir caravanas e comerciar.
+
+[B_R_BARRACKS]
+rollover = Mais informações sobre o edifício - Quartel
+brief = Quartel
+detail = Custo-200 comida/200 madeira, Visão-6, Resistência-500p, Vida-1400p ~ O quartel é o edifício onde são produzidas todas as unidades militares. Nem todas as unidades estarão disponíveis até serem investigadas as tecnologias necessárias.
+
+[B_R_STABLE]
+rollover = Mais informações sobre o edifício - Estábulo
+brief = Estábulo
+detail = Custo-200 comida/200 madeira, Visão-5, Resistência-80p, Vida-500p ~ Para produzir unidades montadas é preciso um estábulo. Se o estábulo for destruído, não se podem produzir unidades montadas até construir um novo.
+
+[B_R_OUTPOST]
+rollover = Mais informações sobre o edifício - Posto avançado
+brief = Posto avançado
+detail = Custo-200 madeira/400 pedra, Visão-8, Resistência-500p, Vida-2000p, Resistência emitida/aos teus edifícios/-+400,Resistência emitida/a outros edifícios/--400 ~ O posto avançado é o local onde os exércitos se podem abrigar e curar. Convém construir postos avançados durante uma invasão, à medida que as tropas avançam.
+
+[B_R_MOSQUE]
+rollover = Mais informações sobre o edifício - Mesquita
+brief = Mesquita
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção da mesquita permite ao jogador seguir o Caminho da Religião. As tecnologias disponíveis na mesquita dar-lhe-ão meios eficazes para construir um império.
+
+[B_R_MAGE_TOWER]
+rollover = Mais informações sobre o edifício - Torre dos magos
+brief = Torre dos magos
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção da Torre dos magos permite ao jogador seguir o Caminho da Magia. Nela podem investigar-se feitiços poderosos e criar magos.
+
+[B_R_MERCHANTS_GUILD]
+rollover = Mais informações sobre o edifício - Guilda dos Mercadores
+brief = Guilda dos Mercadores
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção da Guilda dos Mercadores permite ao jogador seguir o Caminho do Comércio e do Artesanato. Pode construir-se uma economia muito forte, aproveitar todas as vantagens do comércio e não depender dos recursos limitados do mapa.
+
+[B_R_WARRIORS_GUILD]
+rollover = Mais informações sobre o edifício - Guilda dos Guerreiros
+brief = Guilda dos Guerreiros
+detail = Custo-2000 pedra/2000 ouro, Visão-8, Resistência-700p, Vida-5000p, Resistência emitida/aos teus edifícios/-+300,Resistência emitida/a outros edifícios/--500 ~ A construção da Guilda dos Guerreiros permite ao jogador seguir o Caminho da Glória. Pode formar-se um exército muito poderoso. Há muitas tecnologias que permitem às unidades ganhar experiência, aumentar o seu ataque e tornar-se quase invencíveis.
+
+[B_R_MAGIC_WORKSHOP]
+rollover = Mais informações sobre o edifício - Oficina de magia
+brief = Oficina de magia
+detail = Custo-300 pedra, Visão-5, Resistência-200p, Vida-1200p ~ A oficina de magia é o local onde se fabricam os objetos mágicos.
+
+[B_C_FIELD]
+rollover = Mais informações sobre os campos
+brief = Campo
+detail = Custo-200 madeira, Visão-1, Vida-100p ~ Os campos produzem o recurso comida e precisam de cuidados constantes. Se forem descurados, desaparecem. Convém situá-los perto de uma quinta ou do castelo, para que os agricultores armazenem a comida com mais eficácia.
+
+[B_C_WOOD_WALL]
+rollover = Mais informações sobre a paliçada
+brief = Paliçada
+detail = Custo-20 madeira, Visão-1, Vida-2000p ~ As muralhas são um bom meio para fortificar um reino. Não são caras e protegem bem dos ataques inimigos. Mas não são suficientemente fortes para resistir às armas de cerco. Convém sempre pôr torres para as vigiar.
+
+[B_C_STONE_WALL]
+rollover = Mais informações sobre a muralha de pedra
+brief = Muralha de pedra
+detail = Custo-20 pedra, Visão-2, Vida-4000p ~ As muralhas de pedra são um meio muito bom para fortificar um reino. Só se obtêm melhorando as paliçadas. Não são caras e protegem bem dos ataques inimigos. Convém sempre pôr torres para as vigiar.
+
+[B_C_WOOD_GATE]
+rollover = Mais informações sobre a porta de madeira
+brief = Porta de madeira
+detail = Custo-200 madeira, Visão-8, Vida-1500p ~ As portas de madeira são imprescindíveis num reino fortificado. O seu dono pode controlá-las ele próprio ou deixá-las à sua IA. Se a IA das portas estiver ativada, abrem-se para as unidades do reino e fecham-se perante as inimigas. Convém sempre pôr torres para as vigiar.
+
+[B_C_STONE_GATE]
+rollover = Mais informações sobre a porta de pedra
+brief = Porta de pedra
+detail = Custo-200 pedra, Visão-12, Vida-3000p ~ As portas de pedra obtêm-se das de madeira e resistem melhor aos ataques. O seu dono pode controlá-las ele próprio ou deixá-las à sua IA. Se a IA das portas estiver ativada, abrem-se para as unidades do reino e fecham-se perante as inimigas. Convém sempre pôr torres para as vigiar.
+
+[B_C_BRIDGE]
+rollover = Mais informações sobre a ponte
+brief = Ponte
+detail = Custo-300 pedra, Visão-1, Vida-10000p ~ As portas de pedra obtêm-se das de madeira e resistem melhor aos ataques. O seu dono pode controlá-las ele próprio ou deixá-las à sua IA. Se a IA das portas estiver ativada, abrem-se para as unidades do reino e fecham-se perante as inimigas. Convém sempre pôr torres para as vigiar.
+
+[B_C_WATCH_TOWER]
+rollover = Mais informações sobre a atalaia
+brief = Atalaia
+detail = Custo-300 madeira, Visão-15, Ataque-7, Alcance-8, Resistência-100p, Vida-400p ~ As atalaias são um bom meio para fortificar um reino. Atacam as unidades inimigas assim que entram no seu alcance. Convém construí-las de modo que os seus alcances se sobreponham, sem deixar terreno a descoberto para as unidades inimigas.
+
+[B_C_GUARD_TOWER]
+rollover = Mais informações sobre a torre de guarda
+brief = Torre de guarda
+detail = Visão-15, Ataque-12, Alcance-12, Resistência-150p, Vida-1000p ~ As torres de guarda obtêm-se melhorando as atalaias. São o meio mais eficaz para fortificar um reino. Atacam as unidades inimigas assim que entram no seu alcance. Convém construí-las de modo que os seus alcances se sobreponham, sem deixar terreno a descoberto para as unidades inimigas.
+
+[B_C_STONE_TOWER]
+rollover = Mais informações sobre a torre de pedra
+brief = Torre de pedra
+detail = Visão-15, Ataque-16, Alcance-16, Resistência-300p, Vida-2000p ~ As torres de pedra obtêm-se melhorando as torres de guarda. São o meio mais eficaz para fortificar um reino. Atacam as unidades inimigas assim que entram no seu alcance, maior do que o das torres de guarda. Convém construí-las de modo que os seus alcances se sobreponham, sem deixar terreno a descoberto para as unidades inimigas.
+
+[B_C_CANNON_TOWER]
+rollover = Mais informações sobre a torre de canhões
+brief = Torre de canhões
+detail = Visão-15, Ataque-40, Alcance-10, Resistência-300p, Vida-2500p ~ As torres de canhões obtêm-se melhorando as torres de guarda. São o meio mais poderoso para defender um reino europeu ou árabe. Atacam as unidades inimigas assim que entram no seu alcance, maior do que o das torres de pedra. Convém construí-las de modo que os seus alcances se sobreponham, sem deixar terreno a descoberto para as unidades inimigas.
+
+[B_C_ROCKET_TOWER]
+rollover = Mais informações sobre a torre de foguetes
+brief = Torre de foguetes
+detail = Custo-1000 madeira/400 pedra, Visão-25, Ataque-30, Alcance-20, Resistência-300p, Vida-1400p ~ As torres de foguetes podem ser construídas depois de investigar a tecnologia necessária na Guilda dos Mercadores. São o meio mais poderoso para defender um reino asiático. Atacam as unidades inimigas assim que entram no seu alcance, maior do que o de qualquer outra torre. Convém construir as torres de modo que os seus alcances se sobreponham, sem deixar terreno a descoberto para as unidades inimigas.
+
+[B_C_DUMMY]
+rollover = Mais informações sobre o boneco
+brief = Boneco
+detail = Custo-300 madeira, Vida-5000p ~ Os bonecos permitem ao jogador treinar o seu exército e ter assim unidades com mais experiência antes de as mandar combater. Quanto mais tecnologias de experiência tiverem sido investigadas na Guilda dos Guerreiros, maior será o nível que as unidades alcançam.
+
+[B_C_MAGIC_GATEWAY]
+rollover = Mais informações sobre o portal mágico
+brief = Portal mágico
+detail = Visão-10, Vida-2000p ~ Os portais mágicos encontram-se no mapa. É preciso capturar um portal mágico para o poder usar. Só as unidades militares os podem capturar. As unidades produzidas nos portais mágicos pertencem ao reino do jogador que os capturou, e este tem pleno controlo sobre elas.
+
+[B_C_EVIL_CASTLE]
+rollover = Mais informações sobre o Castelo do Mal
+brief = Castelo do Mal
+detail = Visão-10, Vida-20000p ~ O Castelo do Mal é o local onde reina o Messias. Só aparece nas campanhas.
+
+[T_E_FEUDALISM]
+rollover = Mais informações sobre a tecnologia - Feudalismo
+brief = Feudalismo
+detail = Custo-300 ouro ~ O feudalismo torna 20 % mais barata a produção de camponeses. Convém investigar esta tecnologia no início da partida, quando são precisos muitos camponeses para pôr a economia de pé.
+
+[T_E_ARCHITECTURE]
+rollover = Mais informações sobre a tecnologia - Arquitetura
+brief = Arquitetura
+detail = Custo-300 ouro ~ A arquitetura torna 20 % mais rápida a construção de qualquer edifício.
+
+[T_E_LEARNING]
+rollover = Mais informações sobre a tecnologia - Aprendizagem
+brief = Aprendizagem
+detail = Custo-400 ouro ~ A aprendizagem permite às unidades ganhar até 4 níveis de experiência.
+
+[T_E_ROTATING_FIELDS]
+rollover = Mais informações sobre a tecnologia - Rotação de culturas
+brief = Rotação de culturas
+detail = Custo-400 ouro ~ A tecnologia Rotação de culturas permite aos camponeses colher o dobro da comida depois da sementeira.
+
+[T_E_DOMESTICATION]
+rollover = Mais informações sobre a tecnologia - Domesticação
+brief = Domesticação
+detail = Custo-300 ouro ~ A tecnologia Domesticação permite criar gado nas quintas.
+
+[T_E_TEMPER_IRON]
+rollover = Mais informações sobre a tecnologia - Têmpera do ferro
+brief = Têmpera do ferro
+detail = Custo-300 ouro ~ A tecnologia Têmpera do ferro aumenta em 1 ponto o ataque com espada das unidades militares.
+
+[T_E_PLATE_ARMOR]
+rollover = Mais informações sobre a tecnologia - Armadura de placas
+brief = Armadura de placas
+detail = Custo-1400 ouro ~ A tecnologia Armadura de placas permite produzir cavaleiros.
+
+[T_E_SCALE_ARMOR]
+rollover = Mais informações sobre a tecnologia - Armadura de escamas
+brief = Armadura de escamas
+detail = Custo-400 ouro ~ A tecnologia Armadura de escamas aumenta em 1 ponto a defesa de todas as unidades de infantaria.
+
+[T_E_CHAIN_MAIL]
+rollover = Mais informações sobre a tecnologia - Cota de malha
+brief = Cota de malha
+detail = Custo-400 ouro ~ A tecnologia Cota de malha aumenta em 2 pontos a defesa de todas as unidades de infantaria.
+
+[T_E_HALBERD]
+rollover = Mais informações sobre a tecnologia - Alabarda
+brief = Alabarda
+detail = Custo-600 ouro ~ A tecnologia Alabarda permite criar unidades com lança.
+
+[T_E_SAW]
+rollover = Mais informações sobre a tecnologia - Serra
+brief = Serra
+detail = Custo-400 ouro ~ A tecnologia Serra permite aos lenhadores levar mais 2 pontos de madeira às serrações.
+
+[T_E_CROSSBOW]
+rollover = Mais informações sobre a tecnologia - Besta
+brief = Besta
+detail = Custo-400 ouro ~ A tecnologia Besta aumenta em 1 ponto o ataque de cada flecha.
+
+[T_E_LONGBOW]
+rollover = Mais informações sobre a tecnologia - Arco longo
+brief = Arco longo
+detail = Custo-700 ouro ~ A tecnologia Arco longo põe à disposição os arqueiros de arco longo.
+
+[T_E_GOLD_MINING]
+rollover = Mais informações sobre a tecnologia - Mineração de ouro
+brief = Mineração de ouro
+detail = Custo-400 ouro ~ A tecnologia Mineração de ouro permite aos mineiros tirar 12 de ouro das minas.
+
+[T_E_STONE_MINING]
+rollover = Mais informações sobre a tecnologia - Cantaria
+brief = Cantaria
+detail = Custo-400 ouro ~ A tecnologia Cantaria permite aos mineiros tirar 12 de pedra das pedreiras.
+
+[T_E_ENGINEERING]
+rollover = Mais informações sobre a tecnologia - Engenharia
+brief = Engenharia
+detail = Custo-400 ouro ~ A tecnologia Engenharia aumenta em 5 pontos o ataque das catapultas e das catapultas pesadas.
+
+[T_E_CANNON_TOWER]
+rollover = Mais informações sobre a tecnologia - Torres de canhões
+brief = Torres de canhões
+detail = Custo-400 ouro ~ A tecnologia Torre de canhões permite melhorar as torres de pedra para torres de canhões.
+
+[T_E_HEROISM]
+rollover = Mais informações sobre a tecnologia - Heroísmo
+brief = Heroísmo
+detail = Custo-500 ouro ~ A tecnologia Heroísmo permite às unidades ganhar experiência ilimitada, de modo que o jogador pode transformar algumas delas em heróis.
+
+[T_E_LEADERSHIP]
+rollover = Mais informações sobre a tecnologia - Liderança
+brief = Liderança
+detail = Custo-500 ouro ~ A tecnologia Liderança permite às unidades próximas de um herói ganhar experiência.
+
+[T_E_HONOR]
+rollover = Mais informações sobre a tecnologia - Honra
+brief = Honra
+detail = Custo-500 ouro ~ A tecnologia Honra aumenta 50% o ataque dos heróis quando lutam contra outros heróis.
+
+[T_E_WARFARE]
+rollover = Mais informações sobre a tecnologia - Arte da guerra
+brief = Arte da guerra
+detail = Custo-400 ouro ~ A tecnologia Arte da guerra acelera a aprendizagem de todas as unidades.
+
+[T_E_MERCENARIES]
+rollover = Mais informações sobre a tecnologia - Mercenários
+brief = Mercenários
+detail = Custo-600 ouro ~ A tecnologia Mercenários permite recrutar mercenários nas tabernas.
+
+[T_E_HEROES_QUEST]
+rollover = Mais informações sobre a tecnologia - Demanda de heróis
+brief = Demanda de heróis
+detail = Custo-800 ouro ~ A tecnologia Demanda de heróis permite recrutar heróis nas tabernas.
+
+[T_E_FAME]
+rollover = Mais informações sobre a tecnologia - Fama
+brief = Fama
+detail = Custo-500 ouro ~ A tecnologia Fama permite recrutar nas tabernas mercenários melhores, mais baratos e mais experientes.
+
+[T_E_TACTICS]
+rollover = Mais informações sobre a tecnologia - Tática
+brief = Tática
+detail = Custo-800 ouro ~ A tecnologia Tática acelera a aprendizagem das unidades.
+
+[T_E_SIEGE_TACTICS]
+rollover = Mais informações sobre a tecnologia - Tática de cerco
+brief = Tática de cerco
+detail = Custo-1200 ouro ~ A tecnologia Tática de cerco permite produzir catapultas pesadas nas oficinas.
+
+[T_E_BODY_BUILDING]
+rollover = Mais informações sobre a tecnologia - Culturismo
+brief = Culturismo
+detail = Custo-1200 ouro ~ A tecnologia Culturismo aumenta em 5 os pontos de vida das unidades em cada novo nível.
+
+[T_E_LANDING_TACTICS]
+rollover = Mais informações sobre a tecnologia - Tática de desembarque
+brief = Tática de desembarque
+detail = Custo-300 ouro ~ A tecnologia Tática de desembarque permite aos barcos transportar mais 50% de unidades.
+
+[T_E_FANATICISM]
+rollover = Mais informações sobre a tecnologia - Fanatismo
+brief = Fanatismo
+detail = Custo-400 ouro ~ A tecnologia Fanatismo aumenta 50% a resistência dos edifícios.
+
+[T_E_CRUSADE]
+rollover = Mais informações sobre a tecnologia - Cruzada
+brief = Cruzada
+detail = Custo-1400 ouro ~ A tecnologia Cruzada permite lançar uma cruzada. 20 cruzados aparecem um a um no local escolhido e formam um exército temível.
+
+[T_E_ESPIONAGE]
+rollover = Mais informações sobre a tecnologia - Espionagem
+brief = Espionagem
+detail = Custo-400 ouro ~ A tecnologia Espionagem permite produzir espiões no castelo.
+
+[T_E_BLESS]
+rollover = Mais informações sobre a tecnologia - Bênção
+brief = Bênção
+detail = Custo-400 ouro ~ A tecnologia Bênção aumenta em 8 pontos o ataque das unidades. Permite aos sacerdotes abençoar as unidades.
+
+[T_E_HEALING]
+rollover = Mais informações sobre a tecnologia - Cura
+brief = Cura
+detail = Custo-400 ouro ~ A tecnologia Cura põe à disposição o feitiço de cura e permite aos sacerdotes curar as unidades.
+
+[T_E_MEDICINE]
+rollover = Mais informações sobre a tecnologia - Medicina
+brief = Medicina
+detail = Custo-500 ouro ~ A tecnologia Medicina permite aos sacerdotes curar de mais longe.
+
+[T_E_INQUISITION]
+rollover = Mais informações sobre a tecnologia - Inquisição
+brief = Inquisição
+detail = Custo-400 ouro ~ A tecnologia Inquisição aumenta em 5 pontos o efeito do feitiço Exorcismo.
+
+[T_E_TRADE_ROUTES]
+rollover = Mais informações sobre a tecnologia - Rotas comerciais
+brief = Rotas comerciais
+detail = Custo-400 ouro ~ A tecnologia Rotas comerciais permite comerciar com caravanas e barcos.
+
+[T_E_MAP_MAKING]
+rollover = Mais informações sobre a tecnologia - Cartografia
+brief = Cartografia
+detail = Custo-800 ouro ~ A tecnologia Cartografia permite construir galeões.
+
+[T_E_USURY]
+rollover = Mais informações sobre a tecnologia - Usura
+brief = Usura
+detail = Custo-300 ouro ~ A tecnologia Usura permite ao jogador obter empréstimos nas tabernas.
+
+[T_E_GAMBLING]
+rollover = Mais informações sobre a tecnologia - Jogos de azar
+brief = Jogos de azar
+detail = Custo-500 ouro ~ A tecnologia Jogos de azar permite ao jogador apostar nas tabernas.
+
+[T_E_SUPPLY_STORAGE]
+rollover = Mais informações sobre a tecnologia - Reservas de víveres
+brief = Reservas de víveres
+detail = Custo-500 ouro ~ A tecnologia Reservas de víveres aumenta 50% o limite de população.
+
+[T_E_BRIBERY]
+rollover = Mais informações sobre a tecnologia - Suborno
+brief = Suborno
+detail = Custo-300 ouro ~ A tecnologia Suborno permite aos camponeses subornar unidades inimigas.
+
+[T_E_TRADE_TAXES]
+rollover = Mais informações sobre a tecnologia - Impostos comerciais
+brief = Impostos comerciais
+detail = Custo-500 ouro ~ A tecnologia Impostos comerciais aumenta 5% os lucros do comércio.
+
+[T_E_BAT]
+rollover = Mais informações sobre a tecnologia - Morcegos
+brief = Morcegos
+detail = Custo-400 ouro ~ A tecnologia Morcego permite aos magos invocar morcegos.
+
+[T_E_STONE_GOLEM]
+rollover = Mais informações sobre a tecnologia - Golem de pedra
+brief = Golem de pedra
+detail = Custo-800 ouro ~ A tecnologia Golem de pedra permite aos magos invocar golems de pedra.
+
+[T_E_INVISIBILITY]
+rollover = Mais informações sobre a tecnologia - Invisibilidade
+brief = Invisibilidade
+detail = Custo-500 ouro ~ A tecnologia Invisibilidade permite aos magos tornar as unidades invisíveis durante um tempo limitado.
+
+[T_E_LIGHTNING]
+rollover = Mais informações sobre a tecnologia - Raio
+brief = Raio
+detail = Custo-400 ouro ~ A tecnologia Raio permite aos magos usar o feitiço Raio.
+
+[T_E_FREEZE]
+rollover = Mais informações sobre a tecnologia - Congelação
+brief = Congelação
+detail = Custo-800 ouro ~ A tecnologia Congelação permite aos magos usar o feitiço Congelar.
+
+[T_A_FEUDALISM]
+rollover = Mais informações sobre a tecnologia - Feudalismo
+brief = Feudalismo
+detail = Custo-300 ouro ~ O feudalismo torna 20 % mais barata a produção de camponeses. Convém investigar esta tecnologia no início da partida, quando são precisos muitos camponeses para pôr a economia de pé.
+
+[T_A_ARCHITECTURE]
+rollover = Mais informações sobre a tecnologia - Arquitetura
+brief = Arquitetura
+detail = Custo-300 ouro ~ A arquitetura torna 20 % mais rápida a construção de qualquer edifício.
+
+[T_A_LEARNING]
+rollover = Mais informações sobre a tecnologia - Aprendizagem
+brief = Aprendizagem
+detail = Custo-400 ouro ~ A aprendizagem permite às unidades ganhar até 4 níveis de experiência.
+
+[T_A_GREAT_WALL]
+rollover = Mais informações sobre a tecnologia - Grande Muralha
+brief = Grande Muralha
+detail = Custo-600 ouro ~ Aumenta 30% os pontos de vida das muralhas e das torres de pedra.
+
+[T_A_BUDHISM]
+rollover = Mais informações sobre a tecnologia - Budismo
+brief = Budismo
+detail = Custo-500 ouro ~ Aumenta 50% a resistência dos edifícios.
+
+[T_A_ROTATING_FIELDS]
+rollover = Mais informações sobre a tecnologia - Rotação de culturas
+brief = Rotação de culturas
+detail = Custo-400 ouro ~ A tecnologia Rotação de culturas permite aos camponeses colher o dobro da comida depois da sementeira.
+
+[T_A_IRRIGATION]
+rollover = Mais informações sobre a tecnologia - Regadio
+brief = Regadio
+detail = Custo-400 ouro ~ A tecnologia Regadio permite aos camponeses colher 16 de comida em vez de 12 ao trabalhar os campos.
+
+[T_A_ART_OF_RIDING]
+rollover = Mais informações sobre a tecnologia - Arte de montar
+brief = Arte de montar
+detail = Custo-400 ouro ~ A tecnologia Arte de montar permite produzir arqueiros a cavalo no quartel.
+
+[T_A_TEMPER_IRON]
+rollover = Mais informações sobre a tecnologia - Têmpera do ferro
+brief = Têmpera do ferro
+detail = Custo-400 ouro ~ A tecnologia Têmpera do ferro aumenta em 1 ponto o ataque com espada das unidades militares.
+
+[T_A_SCALE_ARMOR]
+rollover = Mais informações sobre a tecnologia - Armadura de escamas
+brief = Armadura de escamas
+detail = Custo-400 ouro ~ A tecnologia Armadura de escamas aumenta em 1 ponto a defesa de todas as unidades de infantaria.
+
+[T_A_CHAIN_MAIL]
+rollover = Mais informações sobre a tecnologia - Cota de malha
+brief = Cota de malha
+detail = Custo-400 ouro ~ A tecnologia Cota de malha aumenta em 2 pontos a defesa de todas as unidades de infantaria.
+
+[T_A_CHARIOT]
+rollover = Mais informações sobre a tecnologia - Carro blindado
+brief = Carro blindado
+detail = Custo-300 ouro ~ A tecnologia Carro blindado põe à disposição os carros blindados no quartel.
+
+[T_A_SAW]
+rollover = Mais informações sobre a tecnologia - Serra
+brief = Serra
+detail = Custo-400 ouro ~ A tecnologia Serra permite aos lenhadores levar mais 2 pontos de madeira às serrações.
+
+[T_A_CROSSBOW]
+rollover = Mais informações sobre a tecnologia - Besta
+brief = Besta
+detail = Custo-400 ouro ~ A tecnologia Besta aumenta em 1 ponto qualquer ataque com flecha.
+
+[T_A_GOLD_MINING]
+rollover = Mais informações sobre a tecnologia - Mineração de ouro
+brief = Mineração de ouro
+detail = Custo-400 ouro ~ A tecnologia Mineração de ouro permite aos mineiros tirar 12 de ouro das minas.
+
+[T_A_STONE_MINING]
+rollover = Mais informações sobre a tecnologia - Cantaria
+brief = Cantaria
+detail = Custo-400 ouro ~ A tecnologia Cantaria permite aos mineiros tirar 12 de pedra das pedreiras.
+
+[T_A_ENGINEERING]
+rollover = Mais informações sobre a tecnologia - Engenharia
+brief = Engenharia
+detail = Custo-400 ouro ~ A tecnologia Engenharia aumenta em 5 pontos o ataque das catapultas.
+
+[T_A_CANNON_TOWER]
+rollover = Mais informações sobre a tecnologia - Torres de canhões
+brief = Torres de canhões
+detail = Custo-400 ouro ~ A tecnologia Torre de canhões permite melhorar as torres de pedra para torres de canhões.
+
+[T_A_HEROISM]
+rollover = Mais informações sobre a tecnologia - Heroísmo
+brief = Heroísmo
+detail = Custo-500 ouro ~ A tecnologia Heroísmo permite às unidades ganhar experiência ilimitada, de modo que o jogador pode transformar algumas delas em heróis.
+
+[T_A_LEADERSHIP]
+rollover = Mais informações sobre a tecnologia - Liderança
+brief = Liderança
+detail = Custo-500 ouro ~ A tecnologia Liderança permite às unidades próximas de um herói ganhar experiência.
+
+[T_A_HONOR]
+rollover = Mais informações sobre a tecnologia - Honra
+brief = Honra
+detail = Custo-500 ouro ~ A tecnologia Honra aumenta 50% o ataque dos heróis quando lutam contra outros heróis.
+
+[T_A_SUN_TZU_BOOK]
+rollover = Mais informações sobre a tecnologia - O livro de Sun Tzu
+brief = O livro de Sun Tzu
+detail = Custo-600 ouro ~ A tecnologia O livro de Sun Tzu acelera a aprendizagem das unidades.
+
+[T_A_WARFARE]
+rollover = Mais informações sobre a tecnologia - Arte da guerra
+brief = Arte da guerra
+detail = Custo-400 ouro ~ A tecnologia Arte da guerra acelera a aprendizagem de todas as unidades.
+
+[T_A_TACTICS]
+rollover = Mais informações sobre a tecnologia - Tática
+brief = Tática
+detail = Custo-800 ouro ~ A tecnologia Tática acelera a aprendizagem das unidades.
+
+[T_A_MERCENARIES]
+rollover = Mais informações sobre a tecnologia - Mercenários
+brief = Mercenários
+detail = Custo-600 ouro ~ A tecnologia Mercenários permite recrutar mercenários nas tabernas.
+
+[T_A_HEROES_QUEST]
+rollover = Mais informações sobre a tecnologia - Demanda de heróis
+brief = Demanda de heróis
+detail = Custo-800 ouro ~ A tecnologia Demanda de heróis permite recrutar heróis nas tabernas.
+
+[T_A_BUSHIDO]
+rollover = Mais informações sobre a tecnologia - Bushido
+brief = Bushido
+detail = Custo-500 ouro ~ A tecnologia Bushido permite produzir samurais a cavalo no quartel.
+
+[T_A_MEDITATION]
+rollover = Mais informações sobre a tecnologia - Meditação
+brief = Meditação
+detail = Custo-300 ouro ~ A tecnologia Meditação torna 25% mais barata a produção de monges.
+
+[T_A_PHILOSOPHY]
+rollover = Mais informações sobre a tecnologia - Filosofia
+brief = Filosofia
+detail = Custo-400 ouro ~ A tecnologia Filosofia faz com que os monges atinjam o nível 2 ao serem criados.
+
+[T_A_KUNG_FU]
+rollover = Mais informações sobre a tecnologia - Kung-fu
+brief = Kung-fu
+detail = Custo-400 ouro ~ A tecnologia Kung-fu aumenta em 1 ponto o ataque de todas as unidades de kung-fu /camponeses, monges e sacerdotes/.
+
+[T_A_NINJAS]
+rollover = Mais informações sobre a tecnologia - Ninjas
+brief = Ninjas
+detail = Custo-500 ouro ~ A tecnologia Ninja permite criar ninjas no castelo.
+
+[T_A_MASTERY]
+rollover = Mais informações sobre a tecnologia - Mestria
+brief = Mestria
+detail = Custo-500 ouro ~ A tecnologia Mestria permite aos sacerdotes formar unidades até ao seu próprio nível.
+
+[T_A_TOURNAMENTS]
+rollover = Mais informações sobre a tecnologia - Torneios
+brief = Torneios
+detail = Custo-800 ouro ~ A tecnologia Torneios permite às unidades de kung-fu /camponeses, monges e sacerdotes/ partilhar experiência.
+
+[T_A_HEALING]
+rollover = Mais informações sobre a tecnologia - Cura
+brief = Cura
+detail = Custo-400 ouro ~ A tecnologia Cura põe à disposição o feitiço de cura e permite aos sacerdotes curar as unidades.
+
+[T_A_MEDICINE]
+rollover = Mais informações sobre a tecnologia - Medicina
+brief = Medicina
+detail = Custo-500 ouro ~ A tecnologia Medicina permite aos sacerdotes curar de mais longe.
+
+[T_A_TRADE_ROUTES]
+rollover = Mais informações sobre a tecnologia - Rotas comerciais
+brief = Rotas comerciais
+detail = Custo-400 ouro ~ A tecnologia Rotas comerciais permite comerciar com camponeses.
+
+[T_A_USURY]
+rollover = Mais informações sobre a tecnologia - Usura
+brief = Usura
+detail = Custo-300 ouro ~ A tecnologia Usura permite ao jogador obter empréstimos nas tabernas.
+
+[T_A_BANKING]
+rollover = Mais informações sobre a tecnologia - Banca
+brief = Banca
+detail = Custo-600 ouro ~ A tecnologia Banca aumenta 5% os lucros do comércio.
+
+[T_A_SUPPLY_STORAGE]
+rollover = Mais informações sobre a tecnologia - Reservas de víveres
+brief = Reservas de víveres
+detail = Custo-500 ouro ~ A tecnologia Reservas de víveres aumenta 50% o limite de população.
+
+[T_A_SEAFOOD]
+rollover = Mais informações sobre a tecnologia - Marisco
+brief = Marisco
+detail = Custo-500 ouro ~ A tecnologia Marisco aumenta 25% o limite de população.
+
+[T_A_JEWELRY]
+rollover = Mais informações sobre a tecnologia - Joalharia
+brief = Joalharia
+detail = Custo-400 ouro ~ A tecnologia Joalharia permite comerciar com objetos mágicos nos mercados.
+
+[T_A_CHEMISTRY]
+rollover = Mais informações sobre a tecnologia - Química
+brief = Química
+detail = Custo-500 ouro ~ A tecnologia Química aumenta em 2 pontos o ataque das flechas incendiárias.
+
+[T_A_GUNPOWDER]
+rollover = Mais informações sobre a tecnologia - Pólvora
+brief = Pólvora
+detail = Custo-500 ouro ~ A tecnologia Pólvora aumenta 10% o ataque das torres de canhões.
+
+[T_A_ROCKET_ARROW]
+rollover = Mais informações sobre a tecnologia - Flecha-foguete
+brief = Flecha-foguete
+detail = Custo-800 ouro ~ A tecnologia Flecha-foguete põe à disposição as torres de foguetes.
+
+[T_A_CONCENTRATION]
+rollover = Mais informações sobre a tecnologia Concentração
+brief = Concentração
+detail = Custo-400 ouro ~ A tecnologia Concentração acelera a recuperação do maná de todas as unidades com maná.
+
+[T_A_CONFUSION]
+rollover = Mais informações sobre a tecnologia Confusão
+brief = Confusão
+detail = Custo-400 ouro ~ A tecnologia Confusão permite aos magos usar o feitiço Confusão.
+
+[T_A_WHIRLPOOL]
+rollover = Mais informações sobre a tecnologia Remoinho
+brief = Remoinho
+detail = Custo-300 ouro ~ A tecnologia Remoinho permite aos magos usar o feitiço Remoinho.
+
+[T_A_FLAMEBOLT]
+rollover = Mais informações sobre a tecnologia Labareda
+brief = Labareda
+detail = Custo-400 ouro ~ A tecnologia Labareda permite aos magos usar o feitiço Labareda.
+
+[T_A_DRAGON]
+rollover = Mais informações sobre a tecnologia Dragão
+brief = Dragão
+detail = Custo-800 ouro ~ A tecnologia Dragão permite aos magos invocar dragões.
+
+[T_A_TURN_TO_STONE]
+rollover = Mais informações sobre a tecnologia Petrificação
+brief = Petrificação
+detail = Custo-300 ouro ~ A tecnologia Petrificação permite aos magos usar o feitiço Petrificar.
+
+[T_R_FEUDALISM]
+rollover = Mais informações sobre a tecnologia - Feudalismo
+brief = Feudalismo
+detail = Custo-300 ouro ~ O feudalismo torna 20 % mais barata a produção de camponeses. Convém investigar esta tecnologia no início da partida, quando são precisos muitos camponeses para pôr a economia de pé.
+
+[T_R_SLAVERY]
+rollover = Mais informações sobre a tecnologia - Escravatura
+brief = Escravatura
+detail = Custo-200 ouro ~ A escravatura torna 20% mais barata a produção de camponeses. Convém investigar esta tecnologia no início da partida, quando são precisos muitos camponeses para pôr a economia de pé.
+
+[T_R_ARCHITECTURE]
+rollover = Mais informações sobre a tecnologia - Arquitetura
+brief = Arquitetura
+detail = Custo-300 ouro ~ A arquitetura torna 20 % mais rápida a construção de qualquer edifício.
+
+[T_R_LEARNING]
+rollover = Mais informações sobre a tecnologia - Aprendizagem
+brief = Aprendizagem
+detail = Custo-400 ouro ~ A aprendizagem permite às unidades ganhar até 4 níveis de experiência.
+
+[T_R_ROTATING_FIELDS]
+rollover = Mais informações sobre a tecnologia - Rotação de culturas
+brief = Rotação de culturas
+detail = Custo-400 ouro ~ A tecnologia Rotação de culturas permite aos camponeses colher o dobro da comida depois da sementeira.
+
+[T_R_DOMESTICATION]
+rollover = Mais informações sobre a tecnologia - Domesticação
+brief = Domesticação
+detail = Custo-300 ouro ~ A tecnologia Domesticação permite criar gado nas quintas.
+
+[T_R_COW_POACHING]
+rollover = Mais informações sobre a tecnologia - Roubo de gado
+brief = Roubo de gado
+detail = Custo-200 ouro ~ A tecnologia Roubo de gado permite aos camponeses roubar vacas.
+
+[T_R_ART_OF_RIDING]
+rollover = Mais informações sobre a tecnologia Arte de montar
+brief = Arte de montar
+detail = Custo-400 ouro ~ A tecnologia Arte de montar põe à disposição os arqueiros a cavalo no quartel.
+
+[T_R_HORSEMANSHIP]
+rollover = Mais informações sobre a tecnologia Equitação
+brief = Equitação
+detail = Custo-400 ouro ~ A tecnologia Equitação torna mais baratas todas as unidades montadas.
+
+[T_R_TEMPER_IRON]
+rollover = Mais informações sobre a tecnologia - Têmpera do ferro
+brief = Têmpera do ferro
+detail = Custo-400 ouro ~ A tecnologia Têmpera do ferro aumenta em 1 ponto o ataque com espada das unidades militares.
+
+[T_R_HALBERD]
+rollover = Mais informações sobre a tecnologia - Alabarda
+brief = Alabarda
+detail = Custo-600 ouro ~ A tecnologia Alabarda permite produzir unidades com lança.
+
+[T_R_SCALE_ARMOR]
+rollover = Mais informações sobre a tecnologia - Armadura de escamas
+brief = Armadura de escamas
+detail = Custo-400 ouro ~ A tecnologia Armadura de escamas aumenta em 1 ponto a defesa de todas as unidades de infantaria.
+
+[T_R_CHAIN_MAIL]
+rollover = Mais informações sobre a tecnologia - Cota de malha
+brief = Cota de malha
+detail = Custo-400 ouro ~ A tecnologia Cota de malha aumenta em 2 pontos a defesa de todas as unidades de infantaria.
+
+[T_R_SCIMITAR]
+rollover = Mais informações sobre a tecnologia Cimitarra
+brief = Cimitarra
+detail = Custo-400 ouro ~ A tecnologia Cimitarra aumenta em 1 ponto o ataque com espada de todas as unidades e permite produzir sátrapas no quartel.
+
+[T_R_SAW]
+rollover = Mais informações sobre a tecnologia - Serra
+brief = Serra
+detail = Custo-400 ouro ~ A tecnologia Serra permite aos lenhadores levar mais 2 pontos de madeira às serrações.
+
+[T_R_CROSSBOW]
+rollover = Mais informações sobre a tecnologia - Besta
+brief = Besta
+detail = Custo-400 ouro ~ A tecnologia Besta aumenta em 1 ponto o ataque de qualquer flecha.
+
+[T_R_GOLD_MINING]
+rollover = Mais informações sobre a tecnologia - Mineração de ouro
+brief = Mineração de ouro
+detail = Custo-400 ouro ~ A tecnologia Mineração de ouro permite aos mineiros tirar 12 de ouro das minas.
+
+[T_R_STONE_MINING]
+rollover = Mais informações sobre a tecnologia - Cantaria
+brief = Cantaria
+detail = Custo-400 ouro ~ A tecnologia Cantaria permite aos mineiros tirar 12 de pedra das pedreiras.
+
+[T_R_ENGINEERING]
+rollover = Mais informações sobre a tecnologia - Engenharia
+brief = Engenharia
+detail = Custo-400 ouro ~ A tecnologia Engenharia aumenta em 5 pontos o ataque das armas de cerco.
+
+[T_R_CANNON_TOWER]
+rollover = Mais informações sobre a tecnologia - Torres de canhões
+brief = Torres de canhões
+detail = Custo-400 ouro ~ A tecnologia Torre de canhões permite melhorar as torres de pedra para torres de canhões.
+
+[T_R_HEROISM]
+rollover = Mais informações sobre a tecnologia - Heroísmo
+brief = Heroísmo
+detail = Custo-500 ouro ~ A tecnologia Heroísmo permite às unidades ganhar experiência ilimitada, de modo que o jogador pode transformar algumas delas em heróis.
+
+[T_R_LEADERSHIP]
+rollover = Mais informações sobre a tecnologia - Liderança
+brief = Liderança
+detail = Custo-500 ouro ~ A tecnologia Liderança permite às unidades próximas de um herói ganhar experiência.
+
+[T_R_HONOR]
+rollover = Mais informações sobre a tecnologia - Honra
+brief = Honra
+detail = Custo-500 ouro ~ A tecnologia Honra aumenta 50% o ataque dos heróis nos combates contra outros heróis.
+
+[T_R_WARFARE]
+rollover = Mais informações sobre a tecnologia - Arte da guerra
+brief = Arte da guerra
+detail = Custo-400 ouro ~ A tecnologia Arte da guerra acelera a aprendizagem de todas as unidades.
+
+[T_R_MERCENARIES]
+rollover = Mais informações sobre a tecnologia - Mercenários
+brief = Mercenários
+detail = Custo-600 ouro ~ A tecnologia Mercenários permite recrutar mercenários nas tabernas.
+
+[T_R_HEROES_QUEST]
+rollover = Mais informações sobre a tecnologia - Demanda de heróis
+brief = Demanda de heróis
+detail = Custo-800 ouro ~ A tecnologia Demanda de heróis permite recrutar heróis nas tabernas.
+
+[T_R_FAME]
+rollover = Mais informações sobre a tecnologia - Fama
+brief = Fama
+detail = Custo-500 ouro ~ A tecnologia Fama permite recrutar nas tabernas mercenários melhores, mais baratos e mais experientes.
+
+[T_R_BODY_BUILDING]
+rollover = Mais informações sobre a tecnologia - Culturismo
+brief = Culturismo
+detail = Custo-1200 ouro ~ A tecnologia Culturismo aumenta em 5 os pontos de vida das unidades em cada novo nível.
+
+[T_R_RIDING_HORDES]
+rollover = Mais informações sobre a tecnologia Hordas a cavalo
+brief = Hordas a cavalo
+detail = Custo-500 ouro ~ A tecnologia Hordas a cavalo aumenta em 2 pontos o ataque das unidades montadas e em 1 ponto a sua defesa.
+
+[T_R_JANISSARY]
+rollover = Mais informações sobre a tecnologia Janízaro
+brief = Janízaro
+detail = Custo-1200 ouro ~ A tecnologia Janízaro põe à disposição os janízaros no quartel.
+
+[T_R_LANDING_TACTICS]
+rollover = Mais informações sobre a tecnologia - Tática de desembarque
+brief = Tática de desembarque
+detail = Custo-300 ouro ~ A tecnologia Tática de desembarque permite aos barcos transportar mais 50% de unidades.
+
+[T_R_FANATICISM]
+rollover = Mais informações sobre a tecnologia - Fanatismo
+brief = Fanatismo
+detail = Custo-400 ouro ~ A tecnologia Fanatismo aumenta 50% a resistência dos edifícios.
+
+[T_R_JIHAD]
+rollover = Mais informações sobre a tecnologia Jihad
+brief = Jihad
+detail = Custo-1200 ouro ~ A tecnologia Jihad permite transformar os camponeses em guerreiros da jihad e criar guerreiros da jihad no quartel.
+
+[T_R_ESPIONAGE]
+rollover = Mais informações sobre a tecnologia - Espionagem
+brief = Espionagem
+detail = Custo-400 ouro ~ A tecnologia Espionagem permite produzir espiões no castelo.
+
+[T_R_BLESS]
+rollover = Mais informações sobre a tecnologia - Bênção
+brief = Bênção
+detail = Custo-400 ouro ~ A tecnologia Bênção aumenta em 8 pontos o ataque das unidades. Permite aos sacerdotes abençoar as unidades.
+
+[T_R_HEALING]
+rollover = Mais informações sobre a tecnologia - Cura
+brief = Cura
+detail = Custo-400 ouro ~ A tecnologia Cura põe à disposição o feitiço de cura e permite aos sacerdotes curar as unidades.
+
+[T_R_TRADE_ROUTES]
+rollover = Mais informações sobre a tecnologia - Rotas comerciais
+brief = Rotas comerciais
+detail = Custo-400 ouro ~ A tecnologia Rotas comerciais permite comerciar com caravanas e barcos.
+
+[T_R_USURY]
+rollover = Mais informações sobre a tecnologia - Usura
+brief = Usura
+detail = Custo-300 ouro ~ A tecnologia Usura permite ao jogador obter empréstimos nas tabernas.
+
+[T_R_GAMBLING]
+rollover = Mais informações sobre a tecnologia - Jogos de azar
+brief = Jogos de azar
+detail = Custo-500 ouro ~ A tecnologia Jogos de azar permite ao jogador apostar nas tabernas.
+
+[T_R_SUPPLY_STORAGE]
+rollover = Mais informações sobre a tecnologia - Reservas de víveres
+brief = Reservas de víveres
+detail = Custo-500 ouro ~ A tecnologia Reservas de víveres aumenta 50% o limite de população.
+
+[T_R_BRIBERY]
+rollover = Mais informações sobre a tecnologia - Suborno
+brief = Suborno
+detail = Custo-300 ouro ~ A tecnologia Suborno permite aos camponeses subornar unidades inimigas.
+
+[T_R_ORE_FLOTATION]
+rollover = Mais informações sobre a tecnologia - Flutuação de minérios
+brief = Flutuação de minérios
+detail = Custo-300 ouro ~ A tecnologia Flutuação de minérios aumenta 100% o rendimento das minas de ouro.
+
+[T_R_MAGIC_CARPET]
+rollover = Mais informações sobre a tecnologia Tapete voador
+brief = Tapete voador
+detail = Custo-300 ouro ~ A tecnologia Tapete voador permite aos magos invocar tapetes voadores.
+
+[T_R_JINN]
+rollover = Mais informações sobre a tecnologia Génio
+brief = Génio
+detail = Custo-600 ouro ~ A tecnologia Génio permite aos magos invocar génios.
+
+[T_R_NECROMANCY]
+rollover = Mais informações sobre a tecnologia Necromancia
+brief = Necromancia
+detail = Custo-400 ouro ~ A tecnologia Necromancia permite aos magos usar o feitiço Necromancia e erguer as unidades mortas.
+
+[T_R_MAGIC_VISION]
+rollover = Mais informações sobre a tecnologia Visão mágica
+brief = Visão mágica
+detail = Custo-400 ouro ~ A tecnologia Visão mágica permite aos magos usar o feitiço Visão mágica e explorar o mapa mais depressa.
+
+[T_R_RAIN_OF_FIRE]
+rollover = Mais informações sobre a tecnologia Chuva de fogo
+brief = Chuva de fogo
+detail = Custo-800 ouro ~ A tecnologia Chuva de fogo permite aos magos usar o feitiço Chuva de fogo.
+
+[T_R_WITCHCRAFTS]
+rollover = Mais informações sobre a tecnologia Bruxaria
+brief = Bruxaria
+detail = Custo-800 ouro ~ A tecnologia Bruxaria permite construir oficinas de magia e produzir objetos mágicos.
+
+[I_WEAPON]
+rollover = Mais informações sobre as armas
+brief = Arma
+detail = As armas aumentam o ataque de quem as leva. Algumas unidades têm um valor de ataque. Quando uma unidade leva uma arma no seu inventário, o seu ataque é a soma dos pontos de ataque da unidade e dos do objeto. Se largar o objeto, os pontos de ataque da unidade voltam ao valor anterior.
+
+[I_ARMOR]
+rollover = Mais informações sobre as armaduras
+brief = Armadura
+detail = As armaduras aumentam a defesa de quem as leva. Todas as unidades têm um valor de defesa. Quando uma unidade leva uma armadura no seu inventário, a sua defesa é a soma dos pontos de defesa da unidade e dos do objeto. Se largar o objeto, os pontos de defesa da unidade voltam ao valor anterior.
+
+[I_SPELLBOOK]
+rollover = Mais informações sobre os livros de feitiços
+brief = Livro de feitiços
+detail = Os livros de feitiços dão a quem os leva a capacidade de lançar feitiços.
+
+[I_SCROLL]
+rollover = Mais informações sobre os pergaminhos
+brief = Pergaminho
+detail = Os pergaminhos contêm textos que são usados nas histórias. A sua mensagem lê-se recolhendo o pergaminho e selecionando-o no inventário da unidade.
+
+[I_POTION]
+rollover = Mais informações sobre as poções
+brief = Poção
+detail = As poções aumentam a vida de quem as leva. Todas as unidades têm um valor de vida. Quando uma unidade usa uma poção, a sua vida aumenta na quantidade que o objeto contém.
+
+[I_RESOURCE]
+rollover = Mais informações sobre os recursos soltos
+brief = Recurso solto
+detail = Os recursos soltos são pequenas quantidades de recursos espalhadas pelo mapa. As unidades podem recolhê-los e guardá-los no tesouro. A quantidade vê-se na vista de seleção, depois de selecionado o objeto.
+
+[C_MOVE]
+rollover = Aprende a usar a ordem Mover
+brief = Mover
+detail = Para mover uma unidade, seleciona-a e clica no botão Mover, ou simplesmente clica com o botão direito no destino pretendido. ~ Para seguir um caminho concreto, mantém Shift premido e indica os destinos com o botão direito do rato. ~ Avanço ofensivo: para avançar à procura de inimigos, mantém Ctrl premido enquanto clicas com o botão direito no destino. ~ Avanço furtivo: se queres que as tuas unidades só respondam quando forem atacadas, mantém Alt premido enquanto indicas o local.
+
+[C_REPAIR]
+rollover = Aprende a reparar um edifício
+brief = Reparar
+detail = Seleciona um camponês, clica no botão Reparar da barra de ordens e depois clica com o botão direito no edifício a reparar.
+
+[C_HARVEST]
+rollover = Aprende a usar a ordem Colher
+brief = Colher
+detail = Seleciona um camponês, clica no botão de ordem Colher e indica o recurso a recolher.
+
+[C_EXPLORE]
+rollover = Aprende a explorar uma zona
+brief = Explorar
+detail = Seleciona uma unidade, clica no botão de ordem Explorar e indica a zona que queres explorar.
+
+[C_ATTACK]
+rollover = Aprende a atacar as unidades inimigas
+brief = Atacar
+detail = Seleciona uma unidade, clica no botão de ordem Atacar ou simplesmente indica uma unidade ou um objeto inimigo com um clique direito. ~ Podes selecionar vários objetos diferentes mantendo Shift premido enquanto clicas com o botão direito num após o outro. ~ Se mantiveres Alt premido ao escolher um objeto a atacar, serão selecionados e atacados todos os objetos do mesmo tipo.
+
+[C_STOP]
+rollover = Aprende a parar as tuas unidades
+brief = Parar
+detail = Seleciona uma unidade e clica no botão de ordem Parar da barra de ordens.
+
+[C_PICKITEM]
+rollover = Aprende a recolher um objeto
+brief = Recolher objeto
+detail = Seleciona uma unidade, clica no botão de ordem Recolher objeto ou simplesmente passa o cursor sobre um objeto e escolhe o que queres recolher com o botão direito do rato.
+
+[C_USEITEM]
+rollover = Aprende a usar um objeto
+brief = Usar objeto
+detail = Seleciona uma unidade que leve objetos. Abre o seu inventário, escolhe o objeto que queres usar e indica o destino.
+
+[C_DROPITEM]
+rollover = Aprende a largar um objeto
+brief = Largar objeto
+detail = Seleciona uma unidade que leve objetos. Abre o seu inventário e escolhe o objeto que queres largar mantendo Alt premido. Clica no botão de ordem Usar objeto e indica o local pretendido.
+
+[C_CAPTURE]
+rollover = Aprende a capturar um edifício inimigo
+brief = Capturar
+detail = Seleciona um camponês, clica no botão de ordem Capturar ou simplesmente clica com o botão direito num edifício inimigo.
+
+[C_BUILD]
+rollover = Aprende a construir
+brief = Construir
+detail = Seleciona um camponês, clica no botão de ordem Construir e escolhe o edifício que queres erguer com o botão correspondente. Depois indica o local pretendido. A imagem do edifício fica verde quando o local é válido.
+
+[C_PATROL]
+rollover = Aprende a pôr as tuas unidades a patrulhar
+brief = Patrulhar
+detail = Seleciona uma unidade, clica no botão de ordem Patrulhar e clica com o botão direito no destino. A unidade patrulha entre a sua posição anterior e os destinos indicados. ~ Para fixar um caminho de patrulha concreto, mantém Shift premido enquanto colocas os pontos de destino.
+
+[C_GUARD]
+rollover = Aprende a vigiar um objeto
+brief = Vigiar
+detail = Seleciona uma unidade, clica no botão de ordem Vigiar e escolhe o objeto a vigiar. ~ Podes escolher vários objetos a vigiar mantendo Shift premido enquanto clicas com o botão direito num após o outro. ~ Se mantiveres Alt premido ao escolher um objeto a vigiar, serão selecionados e vigiados todos os objetos do mesmo tipo.
+
+[C_LOAD]
+rollover = Aprende a carregar unidades
+brief = Carregar
+detail = Seleciona as unidades que queres carregar e clica com o botão direito na unidade que as deve levar.
+
+[C_UNLOAD]
+rollover = Aprende a descarregar unidades
+brief = Descarregar
+detail = Seleciona uma unidade carregada e indica o local onde queres descarregar os objetos. A cor do cursor indica se o local é válido.
+
+[C_EMERGE]
+rollover = Mais informações sobre o edifício - Castelo
+brief = Fazer sair
+detail = Seleciona um edifício com unidades lá dentro. Abre o seu conteúdo e escolhe a unidade que deve sair. Para fazer sair todas as unidades, seleciona o edifício e clica no botão de ordem Fazer sair.
+
+[C_LIGHTNING]
+rollover = Aprende a usar o feitiço Raio
+brief = Feitiço Raio
+detail = Só os magos europeus podem lançar o feitiço Raio. Escolhe o botão de ordem Raio e depois indica a unidade que queres atacar.
+
+[C_SPAWNBAT]
+rollover = Aprende a invocar morcegos
+brief = Invocar morcego
+detail = Só os magos europeus podem invocar morcegos. Escolhe o botão de ordem Morcego e depois indica o local onde devem aparecer.
+
+[C_FREEZE]
+rollover = Aprende a usar o feitiço Congelar
+brief = Feitiço Congelar
+detail = Só os magos europeus podem lançar o feitiço Congelar. Escolhe o botão de ordem Congelar e depois indica a unidade que queres atacar.
+
+[C_SPAWNSTONEGOLEM]
+rollover = Aprende a invocar um golem de pedra
+brief = Invocar golems de pedra
+detail = Só os magos europeus podem invocar golems de pedra. Escolhe o botão de ordem Golem de pedra e depois indica o local onde devem aparecer.
+
+[C_INVISIBILITY]
+rollover = Aprende a usar o feitiço Invisibilidade
+brief = Invisibilidade
+detail = Só os magos europeus podem usar o feitiço Invisibilidade. Escolhe o botão de ordem Invisibilidade e depois indica a unidade que queres tornar invisível.
+
+[C_TRADE]
+rollover = Aprende a comerciar
+brief = Comércio
+detail = O comércio permite trocar comida, madeira, ouro, ferro e pedra com outros reinos, ou entre os teus próprios mercados. O comércio é feito pelos mercadores e pelos barcos. Seleciona um mercador ou um barco. Clica no botão de ordem Comerciar da barra de ordens. Clica na indicação de local do menu de comércio: o cursor muda. Escolhe o mercado ou o porto onde queres começar. Escolhe o tipo de recursos que queres levar de lá. Escolhe o destino e o tipo de recursos que queres trazer de volta. Escolhe a quantidade que queres comerciar. Clica em Começar para iniciar o comércio e em Cancelar para desistir.
+
+[C_HEAL]
+rollover = Aprende a usar a ordem Curar
+brief = Curar unidades
+detail = Escolhe o botão de ordem Curar e depois indica as unidades a curar. A ordem Curar devolve a vida à unidade.
+
+[C_BLESS]
+rollover = Aprende a usar a ordem Abençoar
+brief = Abençoar unidades
+detail = Escolhe o botão de ordem Abençoar e depois indica as unidades a abençoar. Esta ordem aumenta o ataque das unidades.
+
+[C_IMPERSONATE]
+rollover = Aprende a usar a ordem Disfarçar-se
+brief = Disfarçar-se
+detail = Seleciona um espião e clica no botão de ordem Disfarçar-se; depois escolhe a unidade que ele deve imitar.
+
+[C_REVEAL]
+rollover = Aprende a usar a ordem Desmascarar
+brief = Desmascarar
+detail = Seleciona uma unidade disfarçada e clica no botão de ordem Desmascarar.
+
+[C_BRIBE]
+rollover = Aprende a subornar unidades
+brief = Subornar
+detail = Seleciona um camponês. Clica no botão de ordem Subornar e depois indica a unidade inimiga que queres subornar. Assim essa unidade passa a ser tua.
+
+[C_ATTACKGROUND]
+rollover = Aprende a usar a ordem Atacar o solo
+brief = Atacar o solo
+detail = Seleciona uma unidade, clica no botão de ordem Atacar o solo e indica o local que queres atacar. A unidade continuará a atacar esse local mesmo que não haja nenhum objeto, até a parares.
+
+[C_STANDGROUND]
+rollover = Aprende a usar a ordem Não se mexer
+brief = Não se mexer
+detail = Seleciona uma unidade, clica no botão de ordem Não se mexer e indica o local onde a queres pôr. Ficará lá até decidires outra coisa.
+
+[C_HOLDSTEADY]
+rollover = Aprende a usar a ordem Manter a posição
+brief = Manter a posição
+detail = Seleciona uma unidade e clica no botão de ordem Não se mexer: as suas atividades param de imediato.
+
+[C_FISHING]
+rollover = Aprende a usar a ordem Começar a pescar
+brief = Começar a pescar
+detail = Seleciona um barco de pesca, clica no botão de ordem Começar a pescar e escolhe um cardume.
+
+[C_LOANRETURN]
+rollover = Aprende a devolver um empréstimo
+brief = Devolver um empréstimo
+detail = Para devolver um empréstimo, clica no botão Devolver o empréstimo da barra de ordens da taberna.
+
+[C_LOAN]
+rollover = Aprende a obter empréstimos
+brief = Obter empréstimos
+detail = Seleciona uma taberna e clica no botão de ordem Pedir um empréstimo. Escolhe o tipo de recurso que queres pedir emprestado: ouro, pedra, comida ou madeira. ~ A quantidade que podes receber do recurso escolhido aparece no canto inferior esquerdo da vista.
+
+[C_JIHAD]
+rollover = Aprende a usar a ordem Jihad
+brief = Jihad
+detail = Serve para transformar camponeses em guerreiros da jihad. Seleciona um camponês e clica no botão de ordem Jihad.
+
+[C_CLOAK]
+rollover = Aprende a esconder os ninjas
+brief = Esconder-se
+detail = Seleciona o ninja e clica no botão de ordem Esconder-se. A unidade ficará invisível durante algum tempo.
+
+[C_UNCLOAK]
+rollover = Aprende a tornar visíveis os ninjas
+brief = Mostrar-se
+detail = Seleciona um ninja escondido e clica no botão de ordem Mostrar-se para o tornar visível.
+
+[C_MURDER]
+rollover = Aprende a assassinar uma unidade inimiga
+brief = Assassinar
+detail = Seleciona um ninja, clica no botão de ordem Assassinar e escolhe a unidade que queres assassinar.
+
+[C_GATEOPEN]
+rollover = Aprende a abrir uma porta
+brief = Abrir a porta
+detail = Seleciona a porta e clica no botão de ordem Abrir a porta.
+
+[C_GATECLOSE]
+rollover = Aprende a fechar uma porta
+brief = Fechar a porta
+detail = Seleciona a porta e clica no botão de ordem Fechar a porta.
+
+[C_GATESUBAION]
+rollover = Aprende a ativar a abertura e o fecho automáticos da porta
+brief = IA da porta ativada
+detail = Seleciona a porta e clica no botão de ordem IA da porta ativada. A IA abre e fecha a porta sozinha quando há unidades à frente.
+
+[C_GATESUBAIOFF]
+rollover = Aprende a desativar a abertura e o fecho automáticos da porta
+brief = IA da porta desativada
+detail = Seleciona a porta e clica no botão de ordem IA da porta desativada para retirar a ajuda da IA.
+
+[C_COMMON]
+rollover = Aprende a construir edifícios comuns
+brief = Edifícios comuns
+detail = Seleciona um camponês, clica no botão de ordem Construir e depois no botão Edifícios comuns.
+
+[C_RARE]
+rollover = Aprende a construir edifícios raros
+brief = Edifícios raros
+detail = Seleciona um camponês, clica no botão de ordem Construir e depois no botão Edifícios raros.
+
+[C_SPECIAL]
+rollover = Aprende a construir edifícios especiais
+brief = Edifícios especiais
+detail = Seleciona um camponês, clica no botão de ordem Construir e depois no botão Edifícios especiais.
+
+[C_SETAI]
+rollover = Aprende a deixar as tuas unidades à IA
+brief = IA
+detail = Não seleciones nenhuma unidade. Clica no botão de ordem IA. Aparecem quatro tipos de ajuda da IA: IA completa, sem IA, IA de guerra, IA de economia. Escolhe a que queres usar.
+
+[C_SETAINONE]
+rollover = Aprende a retirar à IA o controlo das tuas unidades
+brief = Sem IA
+detail = Clica no botão de ordem Sem IA.
+
+[C_SETAIFULL]
+rollover = Aprende a deixar todo o controlo das tuas unidades à IA
+brief = IA completa
+detail = Clica no botão de ordem IA completa.
+
+[C_SETAIWAR]
+rollover = Aprende a deixar as tuas unidades à IA de guerra
+brief = IA de guerra
+detail = Clica no botão de ordem IA de guerra.
+
+[C_SETAIECO]
+rollover = Aprende a deixar as tuas unidades à IA de economia
+brief = IA de economia
+detail = Clica no botão de ordem IA de economia.
+
+[C_VIEWHEROES]
+rollover = Aprende a ver os heróis no mapa
+brief = Ver os heróis
+detail = O botão de ordem Ver os heróis só está disponível se algum dos teus heróis estiver no mapa. Não seleciones nenhuma unidade. Clica em Ver os heróis se estiver iluminado e verás os ícones de todos os teus heróis. Poderás então escolher qual selecionar.
+
+[C_VIEWSPYS]
+rollover = Aprende a ver os espiões no mapa
+brief = Ver os espiões
+detail = O botão de ordem Ver os espiões só está disponível se algum dos teus espiões estiver no mapa. Não seleciones nenhuma unidade. Clica em Ver os espiões se estiver iluminado e verás os ícones de todos os teus espiões. Poderás então escolher qual selecionar.
+
+[C_VIEWITEMS]
+rollover = Aprende a ver os objetos no mapa
+brief = Ver os objetos
+detail = O botão de ordem Ver os objetos só está disponível se algum dos teus objetos estiver no mapa. Não seleciones nenhuma unidade. Clica em Ver os objetos se estiver iluminado e verás os ícones de todos os teus objetos. Poderás então escolher qual selecionar.
+
+[C_TOWERUP1]
+rollover = Aprende a melhorar uma atalaia para torre de guarda
+brief = Melhorar para torre de guarda
+detail = Seleciona uma atalaia e clica no botão de ordem Melhorar para torre de guarda.
+
+[C_TOWERUP2]
+rollover = Aprende a melhorar uma torre de guarda para torre de pedra
+brief = Melhorar para torre de pedra
+detail = Seleciona uma torre de guarda e clica no botão de ordem Melhorar para torre de pedra.
+
+[C_TOWERUP3]
+rollover = Aprende a melhorar uma torre de guarda ou de pedra para torre de canhões
+brief = Melhorar para torre de canhões
+detail = Seleciona uma torre de guarda ou de pedra e clica no botão de ordem Melhorar para torre de canhões.
+
+[C_TOSWALL]
+rollover = Aprende a melhorar uma paliçada para muralha de pedra
+brief = Melhorar para muralha de pedra
+detail = Seleciona uma paliçada e clica no botão de ordem Melhorar para muralha de pedra. ~ Esta ordem só está disponível se tiver sido investigada a tecnologia Arquitetura.
+
+[C_TOSGATE]
+rollover = Aprende a melhorar uma porta de madeira para porta de pedra
+brief = Melhorar para porta de pedra
+detail = Seleciona uma porta de madeira e clica no botão de ordem Melhorar para porta de pedra. ~ Esta ordem só está disponível se tiver sido investigada a tecnologia Arquitetura.
+
+[C_RISEDEAD]
+rollover = Aprende a usar o feitiço Erguer os mortos
+brief = Feitiço Erguer os mortos
+detail = Seleciona um mago árabe e clica no botão de ordem Erguer os mortos. Se houver unidades mortas por perto, transformar-se-ão em esqueletos.
+
+[C_SPAWNDRAGON]
+rollover = Aprende a invocar dragões
+brief = Invocar dragões
+detail = Só os magos asiáticos podem invocar dragões. Escolhe o botão de ordem Invocar um dragão e depois indica o local onde os dragões devem aparecer.
+
+[C_FLAMEBOLT]
+rollover = Aprende a usar o feitiço Labareda
+brief = Feitiço Labareda
+detail = Só os magos asiáticos podem usar o feitiço Labareda. Clica no botão de ordem Labareda e escolhe a unidade que queres atacar.
+
+[C_WHIRLPOOL]
+rollover = Aprende a usar o feitiço Remoinho
+brief = Feitiço Remoinho
+detail = Só os magos asiáticos podem usar o feitiço Remoinho. Clica no botão de ordem Remoinho e escolhe um local na água onde o lançar.
+
+[C_TURNTOSTONE]
+rollover = Aprende a usar o feitiço Petrificar
+brief = Feitiço Petrificar
+detail = Só os magos asiáticos podem usar o feitiço Petrificar. Clica no botão de ordem Petrificar e escolhe a unidade sobre a qual o lançar.
+
+[C_FIRERAIN]
+rollover = Aprende a usar o feitiço Chuva de fogo
+brief = Feitiço Chuva de fogo
+detail = Só os magos árabes podem usar o feitiço Chuva de fogo. Clica no botão de ordem Chuva de fogo e escolhe um local onde o lançar.
+
+[C_SPAWNJINN]
+rollover = Aprende a invocar génios
+brief = Invocar génios
+detail = Só os magos árabes podem invocar génios. Clica no botão de ordem Génio e depois indica o local onde os génios devem aparecer.
+
+[C_MAGICVISION]
+rollover = Aprende a usar o feitiço Visão mágica
+brief = Feitiço Visão mágica
+detail = Só os magos árabes podem usar o feitiço Visão mágica. Clica no botão de ordem Visão mágica e escolhe um local ou uma unidade sobre a qual o lançar. Se escolheres uma unidade, ela afastará para ti a névoa durante algum tempo.
+
+[C_CONFUSION]
+rollover = Aprende a usar o feitiço Confusão
+brief = Feitiço Confusão
+detail = Só os magos asiáticos podem usar o feitiço Confusão. Clica no botão de ordem Confusão e escolhe a unidade sobre a qual o lançar. ~ As unidades atingidas por este feitiço tornam-se hostis a todas as outras durante algum tempo.
+
+[C_BUILDITEM]
+rollover = Aprende a fabricar um objeto
+brief = Fabricar um objeto
+detail = A oficina de magia é o local onde se fabricam os objetos. Clica no botão de ordem Fabricar um objeto mágico. Aparece o menu de fabrico. Escolhe o tipo de objeto que queres fabricar. Escolhe a quantidade de ouro que estás disposto a gastar. Clica em Começar para fabricar o objeto e em Cancelar para desistir.
+
+[C_CONVERT]
+rollover = Aprende a converter recursos nas tabernas
+brief = Converter recursos
+detail = Seleciona uma taberna. Clica na ordem Comerciar da barra de ordens. Escolhe o tipo de recursos que queres entregar. Escolhe a quantidade que estás disposto a dar. Escolhe o tipo de recursos que queres receber. A proporção é 1/10: dás dez vezes mais do que recebes. Clica em Começar para iniciar a troca e em Cancelar para desistir.
+
+[C_PREACHCRUSADE]
+rollover = Aprende a pregar uma cruzada
+brief = Pregar uma cruzada
+detail = Só se pode lançar uma cruzada numa catedral europeia. Escolhe o botão de ordem Pregar uma cruzada e depois indica o ponto de reunião pretendido. Esse local não deve ficar longe da catedral. Só pode haver uma cruzada de cada vez.
+
+[C_SHIPLEVEL2]
+rollover = Aprende a melhorar os canhões dos barcos
+brief = Melhorar os canhões dos barcos
+detail = Seleciona o galeão e clica no botão de ordem Melhorar os canhões. Os canhões podem ser melhorados até ao nível seis.
+
+[C_HOLDFIRE]
+rollover = Aprende a deixar de disparar
+brief = Cessar fogo
+detail = Seleciona o canhão ou a torre de foguetes e clica no botão de ordem Cessar fogo. A torre deixa de disparar. Aparece o botão de ordem Fogo à vontade.
+
+[C_FIREATWILL]
+rollover = Aprende a disparar à vontade
+brief = Fogo à vontade
+detail = Seleciona o canhão ou a torre de foguetes e clica no botão de ordem Fogo à vontade. A torre só disparará quando lho ordenares. Aparece o botão de ordem Cessar fogo.
+
+[C_HIREMERCENARIES]
+rollover = Aprende a contratar mercenários
+brief = Contratar mercenários
+detail = Os mercenários só podem ser contratados nas tabernas. Clica no botão de ordem Contratar mercenários e aparecerá uma lista de unidades militares. Escolhe as que quiseres.
+
+[C_HIREHEROES]
+rollover = Aprende a contratar heróis
+brief = Contratar heróis
+detail = Os heróis só podem ser contratados nas tabernas. Clica no botão de ordem Contratar heróis e aparecerá uma lista de unidades militares. Escolhe as que quiseres.
+
+[C_BUYITEMS]
+rollover = Aprende a comprar objetos
+brief = Comprar objetos
+detail = Só os mercados asiáticos podem comerciar com objetos. Clica no botão de ordem Comprar objetos e aparecerá uma lista de objetos. O preço do objeto vê-se na linha de texto em baixo. Escolhe o objeto que queres comprar.
+
+[C_SELLITEMS]
+rollover = Mais informações sobre o edifício - Castelo
+brief = Mover
+detail = Só os mercados asiáticos podem comerciar com objetos. Clica no botão de ordem Vender objetos e aparecerá a lista dos objetos que as tuas unidades têm. O que obterás ao vender um objeto vê-se na linha de texto em baixo. Escolhe o que queres vender.
+
+[C_GAMBLE]
+rollover = Aprende a apostar
+brief = Jogos de azar
+detail = As apostas fazem-se nas tabernas. Seleciona uma taberna e clica no botão Apostar da barra de ordens. Escolhe o tipo e a quantidade de recurso que queres apostar. Escolhe a proporção. Clica em Apostar para começar e em Cancelar para desistir.
+
+[C_VIEWQUEST]
+rollover = Aprende a ver a tarefa
+brief = Ver a tarefa
+detail = O botão de ordem Ver a tarefa só está disponível se jogares uma partida com tarefa. Não seleciones nenhuma unidade. Clica em Ver a tarefa se estiver iluminado e verás a tarefa.
+
+[HT_COLLECTRES]
+rollover = Mais informações sobre como recolher recursos
+brief = Como recolher recursos
+detail = Os recursos servem para produzir camponeses, unidades militares, armas de cerco e barcos. Com eles treinam-se e melhoram-se as unidades, erguem-se edifícios e defesas, e forjam-se novas tecnologias. Os camponeses aumentam os teus recursos cortando madeira, extraindo ouro e pedra, pescando e cuidando do gado. Algumas tecnologias aumentam a produtividade dos camponeses que recolhem recursos. O comércio é outra forma de enriquecer um reino.
+
+[HT_PRODUCE_ARMY]
+rollover = Aprende a formar um exército
+brief = Como formar um exército
+detail = Todo o jogador deve formar um exército para ter um reino poderoso e poder lutar contra os seus inimigos. O edifício principal onde se criam as unidades militares é o quartel. Muitas unidades não requerem nenhuma tecnologia especial para serem produzidas. Quanto maior for o exército, mais poderoso será. Podem equilibrar-se as vantagens dos diferentes tipos de unidades (infantaria, cavalaria ou armas de cerco) para tornar as tropas mais fortes. Algumas criaturas que se podem chamar nos portais mágicos são de grande ajuda para qualquer exército. Para as poder chamar, o jogador deve primeiro capturar a oficina de magia.
+
+[HT_TRAIN_UNITS]
+rollover = Aprende a treinar unidades
+brief = Como treinar unidades
+detail = Cada unidade tem os seus próprios valores de ataque, defesa e vida. As unidades ganham experiência em combate. Por exemplo, um veterano pode vencer vários «novatos» da sua mesma classe. As unidades militares podem ser treinadas construindo bonecos, depois de investigada a tecnologia Tática. Assim aumenta a sua experiência.
+
+[HT_HEAL_UNITS]
+rollover = Aprende a curar unidades
+brief = Como curar unidades
+detail = Os sacerdotes podem curar as unidades para que recuperem a vida perdida em combate. É precisa a tecnologia Cura. Se um sacerdote curar as tropas enquanto atacam, estas podem atingir níveis mais altos ao ganhar mais experiência. Outra forma de curar as unidades é fazê-las entrar num posto avançado.
+
+[HT_GARRISON_UNITS]
+rollover = Aprende a aquartelar unidades e a fazê-las sair
+brief = Como aquartelar unidades e fazê-las sair
+detail = Podes fazer com que as tuas unidades entrem no castelo ou no posto avançado. Aí curam-se. A ordem Fazer sair tira-as de lá.
+
+[HT_USE_SHIPS]
+rollover = Aprende a transportar unidades de barco
+brief = Como transportar unidades de barco
+detail = Os barcos podem transportar unidades pela água. Admitem o seguinte número de unidades: 8 o xaveco, 16 a urca e 24 o galeão. A tecnologia Tática de desembarque, investigada no porto, permite aos barcos transportar mais 50% de unidades.
+
+[HT_USE_MAGIC_CARPETS]
+rollover = Aprende a transportar unidades em tapete voador
+brief = Como transportar unidades em tapete voador
+detail = Os tapetes voadores são invocados pelos magos árabes. Podem transportar unidades sobre a água e sobre a terra. Cada tapete voador pode levar até 8 unidades. Os tapetes voadores também são úteis para explorar o mapa.
+
+[HT_UPGRADE_TOWERS]
+rollover = Aprende a melhorar as torres
+brief = Como melhorar as torres
+detail = Em Tzar há vários tipos de torres. No entanto, só se podem construir atalaias. Todas as outras torres, exceto a torre de foguetes, obtêm-se melhorando atalaias. Para melhorar as atalaias são precisas as tecnologias Arquitetura e Torres de canhões. Depois de cada melhoria aparece o botão de ordem da seguinte possível.
+
+[HT_CREATE_ITEMS]
+rollover = Mais informações sobre como fabricar objetos
+brief = Como fabricar objetos
+detail = Os objetos só podem ser fabricados na oficina de magia árabe, depois de investigada a tecnologia Bruxaria. Seleciona uma oficina de magia e clica no botão de ordem Fabricar um objeto mágico. Aparece o menu de fabrico. Escolhe o tipo de objeto que queres fabricar. Escolhe a quantidade de ouro que queres gastar. Escolhe Começar para fabricar o objeto e Cancelar para desistir.
+
+[HT_USE_ITEMS]
+rollover = Mais informações sobre como usar objetos
+brief = Como usar objetos
+detail = Os objetos recolhem-se com a ordem Recolher, ou simplesmente com um clique direito sobre eles. Os objetos do inventário de uma unidade usam-se selecionando-os e clicando com o botão esquerdo no local pretendido. Os objetos largam-se mantendo Alt premido enquanto são selecionados no inventário e indicando o local onde os queres deixar.
+
+[HT_BUY_ITEMS]
+rollover = Mais informações sobre como comprar objetos
+brief = Como comprar objetos
+detail = Os objetos só podem ser comprados e vendidos no mercado asiático, depois de investigada a tecnologia Joalharia. Seleciona um mercado e clica no botão de ordem Comprar objeto. O objeto aparece no chão, junto ao mercado. Para vender um objeto, seleciona um mercado. Todos os objetos que as tuas unidades têm aparecem no seu inventário. Passa o cursor sobre o objeto que queres vender. A quantidade de ouro que receberás aparece na linha de ajuda. Escolhe o objeto que queres vender. O ouro é acrescentado ao teu tesouro.
+
+[HT_VIEW_QUESTS]
+rollover = Aprende a ver as tarefas atuais
+brief = Como ver as tarefas atuais
+detail = As tarefas aparecem nas campanhas. Dão ao jogador as indicações que deve seguir para cumprir uma missão. Todas as tarefas disponíveis podem ser consultadas com o botão Ver as tarefas atuais da barra de ordens.
+
+[HT_BUILD]
+rollover = Mais informações sobre como erguer edifícios
+brief = Como erguer edifícios
+detail = Só o camponês pode erguer edifícios. Seleciona um camponês e clica no botão Construir da barra de ordens, ou prime «B». Escolhe na barra de ordens o tipo de edifício que queres erguer. Indica o seu local no mapa. Se o edifício puder ser erguido no local escolhido, a imagem ficará verde. Alguns edifícios exigem que certas tecnologias tenham sido investigadas para poderem ser erguidos.
+
+[HT_CAPTURE_BUILDINGS]
+rollover = Mais informações sobre como capturar edifícios
+brief = Como capturar edifícios
+detail = Só os camponeses podem capturar edifícios. O jogador pode dar a ordem «Capturar» a partir da barra de ordens ou simplesmente clicar com o botão direito num edifício inimigo. Quanto mais perto estiver um edifício do castelo, mais difícil será capturá-lo.
+
+[HT_COMMANDS]
+rollover = Aprende a dar ordens às unidades
+brief = O que é uma ordem
+detail = As ordens dão-se com os botões da barra de ordens, ou com uma combinação de cliques direito e esquerdo para as mais habituais. Muitas ordens podem ser dadas a partir do teclado com as teclas rápidas.
+
+[HT_TRADE_SHIPS]
+rollover = Aprende a comerciar com barcos
+brief = Como comerciar com barcos
+detail = Para poderes comerciar tens de investigar a tecnologia Rotas comerciais e ter pelo menos dois portos e um barco. Exemplo: um barco leva madeira do porto A e descarrega-a no porto B. No porto B carrega pedra, que depois descarrega no porto A. O lucro depende da distância entre os dois portos e da quantidade de recursos. Quanto maior for a distância, maior será o lucro. Podes escolher o tipo de lucro que obténs: ouro, pedra, madeira ou comida.
+
+[HT_TRADE_CARAVANS]
+rollover = Aprende a comerciar com caravanas
+brief = Como comerciar com caravanas
+detail = Para poderes comerciar tens de investigar a tecnologia Rotas comerciais e ter pelo menos dois mercados e uma caravana ou um camponês asiático. Exemplo: uma caravana ou um camponês leva madeira do mercado A e descarrega-a no mercado B. No mercado B carrega pedra, que depois descarrega no mercado A. O lucro depende da distância entre os dois mercados e da quantidade de recursos. Quanto maior for a distância, maior será o lucro. Podes escolher o tipo de lucro que obténs: ouro, pedra, madeira ou comida.
+
+[HT_BRIBE]
+rollover = Aprende a subornar unidades
+brief = Como subornar unidades
+detail = Os camponeses árabes e europeus podem subornar unidades inimigas, mas primeiro tens de investigar a tecnologia Suborno na Guilda dos Mercadores.
+
+[HT_GAMBLE]
+rollover = Aprende a apostar nas tabernas
+brief = Como apostar nas tabernas
+detail = As apostas fazem-se nas tabernas, mas primeiro tens de investigar a tecnologia Jogos de azar. Seleciona uma taberna e clica no botão Apostar da barra de ordens. Escolhe o tipo e a quantidade de recurso que queres apostar. Escolhe a proporção. Clica em Apostar para começar e em Cancelar para desistir.
+
+[HT_REMOVE]
+rollover = Aprende a eliminar tropas e edifícios
+brief = Como eliminar tropas e edifícios
+detail = As unidades e os edifícios eliminam-se selecionando-os e premindo a tecla Delete do teclado. Se isso for feito no início da construção de um edifício, os recursos que custou voltam ao tesouro. As unidades ou os edifícios inimigos não podem ser eliminados assim.
+
+[HT_GATHER_FOOD]
+rollover = Aprende a recolher comida
+brief = Como recolher comida
+detail = A comida obtém-se colhendo campos, pescando e cuidando do gado. Os camponeses cultivam os campos e colhem-nos. Levam a comida para a quinta ou para o castelo. Se o jogador tiver investigado a tecnologia Domesticação, pode criar gado e ordenhá-lo para obter comida. Os barcos de pesca são produzidos nos portos. Recolhem comida dos cardumes do mar, e a comida é armazenada nos portos.
+
+[HT_TEND_COWS]
+rollover = Aprende a cuidar do gado
+brief = Como cuidar do gado
+detail = Se o jogador tiver investigado a tecnologia Domesticação, pode criar gado e ordenhá-lo para obter comida. Um camponês pode cuidar de mais de uma vaca, ordenhá-la e levar o leite para a quinta ou para o castelo. As vacas podem ser abatidas e a sua carne é recolhida pelos camponeses ou por outras unidades.
+
+[HT_TEND_FIELDS]
+rollover = Aprende a colher os campos
+brief = Como colher os campos
+detail = Os campos produzem o recurso comida e precisam de cuidados constantes. Se forem descurados, desaparecem. Convém situá-los perto de uma quinta ou do castelo, para que os agricultores armazenem a comida com mais eficácia. As tecnologias Rotação de culturas e Regadio aumentam a quantidade de comida que os camponeses levam. Cada campo só pode ser cultivado por um camponês.
+
+[HT_CHOP_WOOD]
+rollover = Aprende a cortar madeira
+brief = Como cortar madeira
+detail = A madeira obtém-se cortando árvores. Só os camponeses podem cortar árvores. A madeira é armazenada na serração. Quanto mais perto estiver a serração das árvores, mais eficazes serão os lenhadores. A tecnologia Serra aumenta a quantidade de madeira que os camponeses levam.
+
+[HT_MINE]
+rollover = Aprende a extrair ouro e pedra
+brief = Como extrair ouro e pedra
+detail = O ouro e a pedra encontram-se como rochas no mapa. São extraídos pelos camponeses. Cada jazida contém uma quantidade determinada de recurso. Seleciona uma jazida para ver quanto contém: aparece como um número na vista de seleção. O ouro e a pedra são guardados no armazém ou no castelo. As tecnologias Mineração de ouro e Cantaria aumentam a quantidade que os camponeses levam.
+
+[HT_BUILD_WALLS_GATES]
+rollover = Aprende a construir muralhas e portas
+brief = Como construir muralhas e portas
+detail = Os camponeses constroem muralhas e portas. Escolhe o botão de ordem Construir muralha, indica o ponto de partida e mantém premido o botão esquerdo do rato enquanto arrastas até ao ponto final. A muralha aparece a verde onde pode ser erguida. As portas podem ser colocadas sobre muralhas já erguidas ou em qualquer outro local adequado. Ao colocar uma porta podes mudar a sua orientação mantendo Alt ou Ctrl premido. Só se podem construir paliçadas e portas de madeira. Se tiver sido investigada a tecnologia Arquitetura, podes melhorá-las para pedra.
+
+[HT_BUILD_BRIDGES]
+rollover = Aprende a construir pontes
+brief = Como construir pontes
+detail = As pontes podem ser construídas depois de investigada a tecnologia Arquitetura no castelo. Ao colocar uma ponte podes mudar a sua orientação mantendo Alt premido.
+
+[HT_UPGRADE_SHIPS]
+rollover = Aprende a melhorar os barcos
+brief = Como melhorar os barcos
+detail = Os canhões dos barcos podem ser melhorados para dispararem com mais frequência. Podes melhorar os canhões até ao nível seis.
+
+[HT_REQRUIT]
+rollover = Aprende a recrutar mercenários e heróis
+brief = Como recrutar mercenários e heróis
+detail = Podes contratar mercenários e heróis nas tabernas, mas primeiro tens de investigar as tecnologias Mercenários e Demanda de heróis na Guilda dos Guerreiros. Podes contratar diferentes tipos de unidades de todas as raças. Os mercenários e os heróis reúnem-se nas tabernas com o tempo.
+
+[WI_RESOURCES]
+rollover = Aprende o que são os recursos
+brief = O que são os recursos
+detail = Os recursos servem para produzir camponeses, unidades militares, armas de cerco e barcos. Com eles treinam-se e melhoram-se as unidades, erguem-se edifícios e defesas, e forjam-se novas tecnologias. Os camponeses aumentam os teus recursos cortando madeira, extraindo ouro e pedra, pescando e cuidando do gado. Algumas tecnologias aumentam a produtividade dos camponeses que recolhem recursos. O comércio é outra forma de enriquecer um reino.
+
+[WI_TRADE]
+rollover = Aprende o que é o comércio
+brief = O que é o comércio
+detail = O comércio é outra forma de reunir recursos. Permite trocar comida, madeira, ouro e pedra com outros reinos, ou entre os teus próprios mercados. O comércio é feito pelos mercadores e pelos barcos. Para comerciar é preciso investigar a tecnologia Rotas comerciais na Guilda dos Mercadores. Permite criar mercadores nos mercados e comerciar com barcos. A unidade comercial vai e vem entre dois mercados (ou portos) levando mercadorias nos dois sentidos.
+
+[WI_ITEMS]
+rollover = Mais informações sobre o que é um objeto
+brief = O que é um objeto
+detail = Os objetos são pequenas coisas que há no mapa. As unidades podem recolhê-los e usá-los. Os objetos são fabricados em certos edifícios. Só os magos árabes podem fabricar objetos nas oficinas de magia, e só depois de descobrirem a tecnologia necessária: a Bruxaria. Há várias categorias de objetos: armas, armaduras, livros de feitiços, pergaminhos, poções e recursos soltos. Nenhum objeto é impossível de fabricar, mas os melhores custam mais e demoram mais a fazer. Os mercados asiáticos podem comerciar com objetos depois de investigada a tecnologia Joalharia.
+
+[WI_SPELLS]
+rollover = Aprende o que são os feitiços
+brief = O que é um feitiço
+detail = Um feitiço é um acontecimento mágico. Para lançar um feitiço é preciso ter investigado uma tecnologia concreta. Só os magos podem lançar feitiços. Alguns feitiços invocam unidades, outros causam dano ou curam unidades. Cada feitiço requer uma certa quantidade de maná. Também há feitiços nos livros de feitiços. Qualquer unidade pode lançar um feitiço de um livro de feitiços enquanto o tiver.
+
+[WI_BUILDING]
+rollover = Aprende o que é um edifício
+brief = O que é um edifício
+detail = Os edifícios são o local onde se criam unidades e se investigam tecnologias. São próprios de cada raça. Cada raça tem três grupos de edifícios: guildas, comuns e raros.
+
+[WI_RACE]
+rollover = Aprende o que é uma raça
+brief = O que é uma raça
+detail = Em Tzar há três raças: europeia, árabe e asiática. Cada uma tem os seus próprios edifícios, unidades e tecnologias. Estão cuidadosamente equilibradas, para que cada raça tire todo o partido dos seus traços distintivos e do seu domínio tecnológico.
+
+[WI_TECHNOLOGY]
+rollover = Aprende o que é a tecnologia
+brief = O que é a tecnologia
+detail = Ao erguer diferentes edifícios, o jogador obtém várias vias de desenvolvimento entre as quais escolher. As diferentes tecnologias formam uma estrutura complexa chamada árvore tecnológica.
+
+[WI_UNIT]
+rollover = Aprende o que é uma unidade
+brief = O que é uma unidade
+detail = A unidade é o principal instrumento de jogo. A maioria das unidades pode ser produzida nos edifícios. Para produzir uma unidade é preciso dispor dos recursos e das tecnologias adequados. Cada unidade requer recursos diferentes. Algumas unidades têm de ser invocadas pelos magos. Outras podem ser chamadas nos portais mágicos.
+
+[WI_COMMANDS]
+rollover = Aprende o que é uma ordem
+brief = O que é uma ordem
+detail = As ordens são a forma de dirigir as unidades. Quando uma unidade está selecionada, podem ser-lhe ordenadas diferentes ações. As ordens disponíveis aparecem como botões de ordem na interface. Nem todas as ordens estão disponíveis para todas as unidades: dependem do tipo de unidade e do nível das tecnologias investigadas.
+
+[WI_POP_LIMIT]
+rollover = Aprende o que é o limite de população
+brief = O que é o limite de população
+detail = O limite de população é o número máximo de unidades que um jogador pode ter numa partida. É definido na configuração da partida. Não se podem criar mais unidades do que o limite permite. As casas são essenciais para o número de unidades que um jogador pode produzir num dado momento. Cada casa aumenta em 10 o número de unidades possíveis. No entanto, esse número não pode ultrapassar o limite de população definido para a partida.
+
+[WI_STRATEGIES]
+rollover = Aprende que estratégias há em Tzar
+brief = Que estratégia seguir
+detail = Depois de desenvolvido o seu reino, o jogador pode escolher entre quatro estratégias: o Caminho da Glória, o Caminho da Religião, o Caminho da Magia e o Caminho do Comércio e do Artesanato. Cada estratégia é representada por um edifício: a Guilda dos Guerreiros, o templo Catedral/Mesquita/Shao Linn, a Torre dos magos e a Guilda dos Mercadores. O caminho escolhido determina as tecnologias com que inventar unidades e edifícios únicos.
+
+[WI_SIEGE_WEAPON]
+rollover = Aprende o que são as armas de cerco
+brief = O que é uma arma de cerco
+detail = As catapultas, as catapultas pesadas e as balistas são armas de cerco. São produzidas nas oficinas. Só custam madeira, mas a catapulta pesada exige primeiro a tecnologia Tática de cerco. As armas de cerco são temíveis contra os reinos inimigos fortificados. Causam dano a todas as unidades, não só às inimigas. Os camponeses podem reparar as armas danificadas se tiveres madeira suficiente. Seleciona um camponês, clica no botão Reparar da barra de ordens e depois indica a arma de cerco danificada, ou simplesmente clica com o botão direito na que deve ser reparada.
+
+[WI_HOTKEYS]
+rollover = Aprende o que são as teclas rápidas
+brief = O que são as teclas rápidas
+detail = As teclas rápidas são a forma mais rápida de jogar Tzar. Podes fazer muitas ações sem usar a interface, apenas premindo certas teclas do teclado.
+
+[WI_HERO]
+rollover = Aprende o que é um herói
+brief = O que é um herói
+detail = Um herói é uma unidade poderosa com uma vida, um ataque ou uma defesa extraordinários e um determinado nível de experiência. Qualquer unidade pode tornar-se herói e receber o nome que quiseres assim que atingir o nível de experiência 12.
+
+[WI_QUEST]
+rollover = Aprende o que é uma tarefa
+brief = O que é uma tarefa
+detail = Uma tarefa é um objetivo de missão que o jogador deve cumprir para continuar a partida.
+
+[WI_RESISTANCE]
+rollover = Aprende o que é a resistência
+brief = O que é a resistência
+detail = A resistência reduz o dano que um edifício sofre quando é atacado. Quanto mais perto estiver um edifício do castelo, maior será a sua resistência. Alguns edifícios emitem resistência: positiva para os do mesmo reino e negativa para os edifícios inimigos.
+
+[WI_TECHTREE]
+rollover = Aprende o que é a árvore tecnológica
+brief = O que é a árvore tecnológica
+detail = As diferentes tecnologias formam uma estrutura complexa chamada árvore tecnológica. Mostra as vias tecnológicas que podes seguir em Tzar e a ordem em que deves investigar as tecnologias para que as seguintes fiquem disponíveis.
+
+[WI_GUILD]
+rollover = Aprende o que é uma guilda
+brief = O que é uma guilda
+detail = Cada estratégia do jogo (o Caminho da Glória, o Caminho da Religião, o Caminho da Magia e o Caminho do Comércio e do Artesanato) é representada por um edifício: a Guilda dos Guerreiros, o templo Catedral/Mesquita/Shao Linn, a Torre dos magos e a Guilda dos Mercadores.
+
+[WI_TRANSPORT]
+rollover = Aprende como se faz o transporte
+brief = Quais são os meios de transporte
+detail = Há várias formas de transportar unidades e mercadorias. Os barcos, os tapetes voadores e os mercadores podem carregar unidades. Só os barcos e os tapetes voadores podem transportar unidades pela água.
+
+[WI_DIPLOMACY]
+rollover = Aprende o que é a diplomacia
+brief = O que é a diplomacia
+detail = Cada jogador pode escolher a sua postura diplomática em relação aos outros jogadores. As três posturas são Aliado, Inimigo e Neutro. Aliado: as unidades militares não atacam os edifícios nem as unidades do outro jogador. Inimigo: as unidades militares atacam todos os edifícios e unidades que veem. Neutro: as unidades militares só atacam as unidades militares que veem. Dois jogadores podem ter posturas diferentes um em relação ao outro.
+
+[WI_ALLIED_VICTORY]
+rollover = Aprende o que é a vitória partilhada
+brief = O que é a vitória partilhada
+detail = Com a vitória partilhada, os jogadores podem escolher ganhar (ou perder) em equipa. O jogador que cumpre a condição ou as condições de vitória ganha a partida para todos os seus aliados.
+
+[WI_UNIT_STATISTICS]
+rollover = Aprende o que são as estatísticas das unidades
+brief = O que são as estatísticas das unidades
+detail = As estatísticas das unidades dão uma informação valiosa sobre as características das unidades ou dos edifícios. A imagem de um objeto selecionado e as suas estatísticas aparecem na vista de seleção. Nome, reino, vida (o dano que uma unidade pode sofrer), ataque (o dano que uma unidade pode causar), maná (a capacidade mágica atual de uma unidade), poder (a capacidade atual de uma unidade para fazer ações especiais), alcance (a distância a que uma unidade causa dano), resistência (reduz o dano que um edifício atacado sofre), conteúdo (o número de objetos que a unidade leva), defesa (reduz o dano que uma unidade atacada sofre), tempo (o prazo para terminar uma tarefa) e nível (mede a experiência da unidade). Quando há várias unidades selecionadas, só é mostrada a sua VIDA.
+
+[WI_MANNA]
+rollover = Aprende o que é o maná
+brief = O que é o maná
+detail = O maná é a capacidade mágica atual de uma unidade. Os magos precisam de maná para invocar criaturas mágicas, e depois de algum tempo para o recuperar.

@@ -1,0 +1,2027 @@
+; I testi delle schermate di aiuto in polacco (HELP/ITEMS.TXT), tradotti da questa versione
+; e posati sulle voci dell'edizione italiana; collegamenti e icone restano.
+
+[U_E_PEASANT]
+rollover = Dowiedz się więcej o jednostce - Chłop
+brief = Chłop
+detail = Koszt-50 żywności, Wzrok-5, Zdrowie-50p, Atak-5p, Obrona-0 ~ Mogą się poruszać, budować, przejmować, atakować, naprawiać, zbierać plony, badać teren, nosić złoto, kamień, mleko, mięso i drewno, pilnować bydła i przekupywać jednostki.
+
+[U_E_FOOTMAN]
+rollover = Dowiedz się więcej o jednostce - Piechur
+brief = Piechur
+detail = Koszt-50 żywności, Wzrok-5, Zdrowie-65p, Atak-6p, Obrona-3 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_E_ARCHER]
+rollover = Dowiedz się więcej o jednostce - Łucznik
+brief = Łucznik
+detail = Koszt-40 żywności/20 drewna, Wzrok-10, Zasięg-6, Zdrowie-50p, Atak-5p, Obrona-0 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_E_MACEMAN]
+rollover = Dowiedz się więcej o jednostce - Maczugnik
+brief = Maczugnik
+detail = Koszt-120 żywności, Wzrok-5, Zdrowie-120p, Atak-8p, Obrona-0 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_E_PIKEMAN]
+rollover = Dowiedz się więcej o jednostce - Pikinier
+brief = Pikinier
+detail = Koszt-90 żywności/40 złota, Wzrok-5, Zdrowie-75p, Atak-8p, Obrona-4 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_E_LONGBOWMAN]
+rollover = Dowiedz się więcej o jednostce - Łucznik z długim łukiem
+brief = Łucznik z długim łukiem
+detail = Koszt-90 żywności/70 złota, Wzrok-16, Zdrowie-50p, Zasięg-12p, Atak-5p, Obrona-2 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_E_KNIGHT]
+rollover = Dowiedz się więcej o jednostce - Rycerz
+brief = Rycerz
+detail = Koszt-120 żywności/90 złota, Wzrok-5, Zdrowie-120p, Atak-12p, Obrona-6 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_E_CRUSADER]
+rollover = Dowiedz się więcej o jednostce - Krzyżowiec
+brief = Krzyżowiec
+detail = Wzrok-5, Zdrowie-180p, Atak-14p, Obrona-8 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_E_PRIEST]
+rollover = Dowiedz się więcej o jednostce - Kapłan
+brief = Kapłan
+detail = Koszt-150 złota, Wzrok-20, Zdrowie-60p, Zasięg-18p, Atak-20p, Obrona-0 ~ Mogą się poruszać, badać teren, leczyć jednostki i błogosławić.
+
+[U_E_SPY]
+rollover = Dowiedz się więcej o jednostce - Szpieg
+brief = Szpieg
+detail = Koszt-150 złota, Wzrok-12, Zdrowie-50p, Atak-20p, Obrona-0 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować, badać teren, podszywać się i demaskować.
+
+[U_E_MAGE]
+rollover = Dowiedz się więcej o jednostce - Czarodziej
+brief = Czarodziej
+detail = Koszt-150 złota, Wzrok-14, Zdrowie-60p, Zasięg-10p, Atak-5p, Obrona-0 ~ Mogą się poruszać, atakować, ciskać błyskawice, przywoływać nietoperze, zamrażać, przywoływać kamienne golemy i czynić jednostki niewidzialnymi.
+
+[U_E_CARAVAN]
+rollover = Dowiedz się więcej o jednostce - Karawana
+brief = Karawana
+detail = Koszt-400 żywności/200 drewna, Wzrok-7, Zdrowie-350p, Atak-0p, Obrona-0 ~ Mogą się poruszać, handlować, ładować jednostki i towary, wyładowywać i badać teren.
+
+[U_A_PEASANT]
+rollover = Dowiedz się więcej o jednostce - Chłop
+brief = Chłop
+detail = Koszt-40 żywności, Wzrok-5, Zdrowie-50p, Atak-5p, Obrona-0 ~ Mogą się poruszać, budować, przejmować, atakować, naprawiać, zbierać plony, handlować, badać teren, nosić złoto, kamień, mleko, mięso i drewno oraz pilnować bydła.
+
+[U_A_RHONIN]
+rollover = Dowiedz się więcej o jednostce - Ronin
+brief = Ronin
+detail = Koszt-40 żywności, Wzrok-5, Zdrowie-50p, Atak-7p, Obrona-0 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_A_ARCHER]
+rollover = Dowiedz się więcej o jednostce - Łucznik
+brief = Łucznik
+detail = Koszt-40 żywności/20 drewna, Wzrok-10, Zasięg-6, Zdrowie-50p, Atak-5p, Obrona-0 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_A_SAMURAI]
+rollover = Dowiedz się więcej o jednostce - Samuraj
+brief = Samuraj
+detail = Koszt-90 żywności/40 złota, Wzrok-6, Zdrowie-120p, Atak-10p, Obrona-4 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_A_HORSE_ARCHER]
+rollover = Dowiedz się więcej o jednostce - Łucznik konny
+brief = Łucznik konny
+detail = Koszt-120 żywności/40 złota, Wzrok-12, Zasięg-7p, Zdrowie-75p, Atak-7p, Obrona-0 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_A_HORSE_SAMURAI]
+rollover = Dowiedz się więcej o jednostce - Konny samuraj
+brief = Konny samuraj
+detail = Koszt-100 żywności/60 złota, Wzrok-5, Zdrowie-160p, Atak-14p, Obrona-4 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_A_CHARIOT]
+rollover = Dowiedz się więcej o jednostce - Opancerzony rydwan
+brief = Opancerzony rydwan
+detail = Koszt-150 żywności/150 drewna, Wzrok-5, Zdrowie-180p, Atak-3p, Obrona-5 ~ Mogą się poruszać, atakować, patrolować, pilnować i badać teren.
+
+[U_A_NINJA]
+rollover = Dowiedz się więcej o jednostce - Ninja
+brief = Ninja
+detail = Koszt-80 złota, Wzrok-10, Zdrowie-90p, Atak-12p, Obrona-5 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować, badać teren, ukrywać się i mordować.
+
+[U_A_PRIEST]
+rollover = Dowiedz się więcej o jednostce - Kapłan
+brief = Kapłan
+detail = Koszt-150 złota, Wzrok-14, Zdrowie-120p, Atak-10p, Obrona-10 ~ Mogą się poruszać, badać teren, leczyć jednostki i błogosławić.
+
+[U_A_MONK]
+rollover = Dowiedz się więcej o jednostce - Mnich
+brief = Mnich
+detail = Koszt-250 żywności, Wzrok-5, Zdrowie-120p, Atak-6p, Obrona-6 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_A_MAGE]
+rollover = Dowiedz się więcej o jednostce - Czarodziej
+brief = Czarodziej
+detail = Koszt-150 złota, Wzrok-14, Zdrowie-60p, Zasięg-10p, Atak-8p, Obrona-0 ~ Mogą się poruszać, atakować, zamieniać jednostki w kamień, tworzyć wiry i płomienne pociski, przywoływać smoki i zamieniać manę w doświadczenie.
+
+[U_R_PEASANT]
+rollover = Dowiedz się więcej o jednostce - Chłop
+brief = Chłop
+detail = Koszt-50 żywności, Wzrok-5, Zdrowie-50p, Atak-5p, Obrona-0 ~ Mogą się poruszać, budować, przejmować, atakować, naprawiać, zbierać plony, badać teren, nosić złoto, kamień, mleko, mięso i drewno, pilnować bydła i przekupywać jednostki. Mogą zostać wojownikami dżihadu.
+
+[U_R_FOOTMAN]
+rollover = Dowiedz się więcej o jednostce - Piechur
+brief = Piechur
+detail = Koszt-50 żywności, Wzrok-5, Zdrowie-50p, Atak-6p, Obrona-1 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_R_ARCHER]
+rollover = Dowiedz się więcej o jednostce - Łucznik
+brief = Łucznik
+detail = Koszt-40 żywności/20 drewna, Wzrok-10, Zasięg-6, Zdrowie-50p, Atak-5p, Obrona-0 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_R_SPEARMAN]
+rollover = Dowiedz się więcej o jednostce - Włócznik
+brief = Włócznik
+detail = Koszt-60 żywności/50 złota, Wzrok-5, Zdrowie-75p, Atak-6p, Obrona-2 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_R_SATRAP]
+rollover = Dowiedz się więcej o jednostce - Satrapa
+brief = Satrapa
+detail = Koszt-120 żywności, Wzrok-5, Zdrowie-120p, Atak-8p, Obrona-0 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_R_CAVALRY]
+rollover = Dowiedz się więcej o jednostce - Jazda
+brief = Jazda
+detail = Koszt-100 żywności/60 złota, Wzrok-5, Zdrowie-90p, Atak-10p, Obrona-2 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_R_HORSE_ARCHER]
+rollover = Dowiedz się więcej o jednostce - Łucznik konny
+brief = Łucznik konny
+detail = Koszt-100 żywności/50 złota, Wzrok-12, Zasięg-7p, Zdrowie-75p, Atak-6p, Obrona-2 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_R_JIHAD_WARRIOR]
+rollover = Dowiedz się więcej o jednostce - Wojownik dżihadu
+brief = Wojownik dżihadu
+detail = Koszt-100 żywności, Wzrok-5, Zdrowie-10p, Atak-18p, Obrona-2 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren. Powstają z chłopów po zbadaniu technologii Dżihad.
+
+[U_R_PRIEST]
+rollover = Dowiedz się więcej o jednostce - Kapłan
+brief = Kapłan
+detail = Koszt-150 złota, Wzrok-20, Zasięg-18p, Zdrowie-60p, Atak-20p, Obrona-0 ~ Mogą się poruszać, badać teren, leczyć jednostki, błogosławić i odprawiać egzorcyzmy.
+
+[U_R_SPY]
+rollover = Dowiedz się więcej o jednostce - Szpieg
+brief = Szpieg
+detail = Koszt-150 złota, Wzrok-12, Zdrowie-50p, Atak-20p, Obrona-0 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować, badać teren, podszywać się i demaskować.
+
+[U_R_MAGE]
+rollover = Dowiedz się więcej o jednostce - Czarodziej
+brief = Czarodziej
+detail = Koszt-150 złota, Wzrok-14, Zdrowie-60p, Zasięg-10p, Atak-8p, Obrona-0 ~ Mogą się poruszać, atakować, przywoływać latające dywany, wskrzeszać zmarłych, przywoływać dżiny, tworzyć Magiczne widzenie i Deszcz ognia.
+
+[U_R_CARAVAN]
+rollover = Dowiedz się więcej o jednostce - Karawana
+brief = Karawana
+detail = Koszt-500 żywności, Wzrok-5, Zdrowie-150p, Atak-0p, Obrona-0 ~ Mogą się poruszać, handlować, ładować jednostki i towary, wyładowywać i badać teren.
+
+[U_R_JANISSARY]
+rollover = Dowiedz się więcej o jednostce - Janczar
+brief = Janczar
+detail = Koszt-120 żywności/80 złota, Wzrok-5, Zdrowie-130p, Atak-18p, Obrona-4 ~ Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren.
+
+[U_C_CATAPULT]
+rollover = Dowiedz się więcej o jednostce - Katapulta
+brief = Katapulta
+detail = Koszt-600 drewna, Wzrok-16, Zasięg-14p, Zdrowie-110p, Atak-10p, Obrona-0 ~ Mogą się poruszać, atakować, patrolować, pilnować i badać teren.
+
+[U_C_HEAVY_CATAPULT]
+rollover = Dowiedz się więcej o jednostce - Ciężka katapulta
+brief = Ciężka katapulta
+detail = Koszt-1200 drewna, Wzrok-24, Zasięg-22p, Zdrowie-250p, Atak-25p, Obrona-0 ~ Mogą się poruszać, atakować, patrolować, pilnować i badać teren.
+
+[U_C_BALLISTA]
+rollover = Dowiedz się więcej o jednostce - Balista
+brief = Balista
+detail = Koszt-800 drewna, Wzrok-14, Zasięg-12p, Zdrowie-75p, Atak-25p, Obrona-0 ~ Mogą się poruszać, atakować, patrolować, pilnować i badać teren.
+
+[U_C_GALLEON]
+rollover = Dowiedz się więcej o jednostce - Galeon
+brief = Galeon
+detail = Koszt-800 żywności/1200 drewna, Wzrok-14, Zasięg-12p, Zdrowie-1200p, Atak-35p, Obrona-0 ~ Mogą się poruszać, atakować, ładować, wyładowywać, handlować i ulepszać działa. Galeony są dostępne tylko dla Europejczyków i Arabów.
+
+[U_C_HULK]
+rollover = Dowiedz się więcej o jednostce - Holk
+brief = Holk
+detail = Koszt-300 żywności/500 drewna, Wzrok-12, Zasięg-10p, Zdrowie-700p, Atak-18p, Obrona-0 ~ Mogą się poruszać, atakować, ładować, wyładowywać, handlować i ulepszać działa.
+
+[U_C_XEBEC]
+rollover = Dowiedz się więcej o jednostce - Szebeka
+brief = Szebeka
+detail = Koszt-200 żywności/300 drewna, Wzrok-10, Zasięg-8p, Zdrowie-300p, Atak-10p, Obrona-0 ~ Mogą się poruszać, atakować, ładować, wyładowywać, handlować i ulepszać działa.
+
+[U_C_FISHING_BOAT]
+rollover = Dowiedz się więcej o jednostce - Łódź rybacka
+brief = Łódź rybacka
+detail = Koszt-100 żywności/200 drewna, Wzrok-10, Zasięg-8p, Zdrowie-50p, Atak-1p, Obrona-0 ~ Mogą się poruszać, łowić ryby i zatrzymywać się.
+
+[U_C_COW]
+rollover = Dowiedz się więcej o bydle
+brief = Bydło
+detail = Koszt-300 żywności, Wzrok-3, Zdrowie-80p ~ Krowy są dostępne tylko dla Europejczyków i Arabów. Bydło dostarcza surowców. Chłopi go pilnują i dodają uzyskane mleko do żywności w skarbcu. Krowy można zarżnąć, a ich mięso zbierają chłopi lub inne jednostki. Mleko i mięso składuje się w gospodarstwie lub w zamku.
+
+[U_C_BEAR]
+rollover = Dowiedz się więcej o niedźwiedziach
+brief = Niedźwiedzie
+detail = Wzrok-3, Zdrowie-70p ~ Niedźwiedzie to stworzenia natury. Atakują wszystkie jednostki w swoim zasięgu. Na niedźwiedzie można rzucić czar Magiczne widzenie, by służyły do badania mapy.
+
+[U_C_BAT]
+rollover = Dowiedz się więcej o nietoperzach
+brief = Nietoperze
+detail = Koszt-25 many, Wzrok-10, Zdrowie-20p, Atak-3p, Obrona-0 ~ Nietoperze przywołują europejscy czarodzieje. Mogą się poruszać, atakować, patrolować, pilnować i badać teren. Nietoperze wliczają się do limitu ludności.
+
+[U_C_STONE_GOLEM]
+rollover = Dowiedz się więcej o jednostce - Kamienny golem
+brief = Kamienny golem
+detail = Koszt-120 złota/600 many, Wzrok-10, Zdrowie-400p, Atak-25p, Obrona-0 ~ Kamienne golemy przywołują czarodzieje. Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren. Kamienne golemy wliczają się do limitu ludności.
+
+[U_C_ORK]
+rollover = Dowiedz się więcej o jednostce - Ork
+brief = Ork
+detail = Koszt-60 złota, Wzrok-5, Zdrowie-50p, Atak-18p, Obrona-2 ~ Orki powstają w magicznych portalach. Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren. Orki wliczają się do limitu ludności.
+
+[U_C_DWARF]
+rollover = Dowiedz się więcej o jednostce - Krasnolud
+brief = Krasnolud
+detail = Koszt-80 złota, Wzrok-3, Zdrowie-120p, Atak-7p, Obrona-7 ~ Krasnoludy powstają w magicznych portalach. Mogą się poruszać, atakować, podnosić przedmioty, patrolować, pilnować i badać teren. Krasnoludy wliczają się do limitu ludności.
+
+[U_C_DRAGON]
+rollover = Dowiedz się więcej o jednostce - Smok
+brief = Smok
+detail = Koszt-80 złota/800 many, Wzrok-12, Zasięg-3p, Zdrowie-300p, Atak-25p, Obrona-0 ~ Smoki przywołują azjatyccy czarodzieje. Mogą się poruszać, atakować, patrolować, pilnować i badać teren. Smoki wliczają się do limitu ludności.
+
+[U_C_JINN]
+rollover = Dowiedz się więcej o jednostce - Dżin
+brief = Dżin
+detail = Koszt-50 złota/300 many, Wzrok-8, Zdrowie-300p, Atak-20p, Obrona-5 ~ Dżiny przywołują arabscy czarodzieje. Mogą się poruszać, atakować, patrolować, pilnować i badać teren. Dżiny wliczają się do limitu ludności.
+
+[U_C_CARPET]
+rollover = Dowiedz się więcej o jednostce - Latający dywan
+brief = Latający dywan
+detail = Koszt-80 złota/500 many, Wzrok-8, Zdrowie-90p ~ Latające dywany przywołują arabscy czarodzieje. Mogą się poruszać, atakować, ładować, wyładowywać i badać teren. Latające dywany wliczają się do limitu ludności. Służą do przewożenia jednostek nad wodą i nad lądem.
+
+[U_C_SKELETON]
+rollover = Dowiedz się więcej o jednostce - Szkielet
+brief = Szkielet
+detail = Koszt-30 żywności, Wzrok-5, Zdrowie-40p, Atak-4p, Obrona-0 ~ Szkielety można przywołać z magicznych portali, a arabscy czarodzieje mogą wskrzesić je z martwych jednostek, jeśli zbadano czar Nekromancja. Mogą się poruszać, atakować, patrolować, pilnować i badać teren. Szkielety wliczają się do limitu ludności.
+
+[U_C_GHOST]
+rollover = Dowiedz się więcej o jednostce - Duch
+brief = Duch
+detail = Koszt-40 złota, Wzrok-5, Zdrowie-60p, Atak-8p, Obrona-0 ~ Duchy powstają w magicznych portalach. Mogą się poruszać, atakować, podnosić przedmioty, rzucać klątwy, patrolować, pilnować i badać teren. Duchy wliczają się do limitu ludności.
+
+[U_C_MESSIAH]
+rollover = Dowiedz się więcej o Mesjaszu
+brief = Mesjasz
+detail = Koszt-2000 złota, Wzrok-20, Zasięg-18p, Zdrowie-1000p, Atak-50p, Obrona-10 ~ Mesjasz pojawia się w kampaniach. To najpotężniejsza ze wszystkich jednostek. Mesjasz może używać wszystkich czarów w grze.
+
+[B_E_CASTLE]
+rollover = Dowiedz się więcej o budynku - Zamek
+brief = Zamek
+detail = Koszt-1500 kamienia/1500 drewna, Wzrok-12, Wytrzymałość-1000p, Zdrowie-8000p, Emitowana wytrzymałość/na własne budynki/-+400,Emitowana wytrzymałość/na inne budynki/--200 ~ Zamek to główny budynek królestwa. Tylko w nim można tworzyć chłopów i szpiegów. Można w nim składować wszystkie surowce.
+
+[B_E_HOUSE]
+rollover = Dowiedz się więcej o budynku - Dom
+brief = Dom
+detail = Koszt-75 drewna, Wzrok-4, Wytrzymałość-50p, Zdrowie-500p, ~ Domy zwiększają limit ludności królestwa. Każdy dom pozwala stworzyć 10 jednostek więcej.
+
+[B_E_LUMBER_MILL]
+rollover = Dowiedz się więcej o budynku - Tartak
+brief = Tartak
+detail = Koszt-100 drewna, Wzrok-4, Wytrzymałość-80p, Zdrowie-800p, ~ W tartaku składuje się drewno. Im bliżej drzew stoi tartak, tym wydajniejsi są drwale.
+
+[B_E_STORAGE]
+rollover = Dowiedz się więcej o budynku - Magazyn
+brief = Magazyn
+detail = Koszt-200 drewna, Wzrok-5, Wytrzymałość-80p, Zdrowie-800p, ~ W magazynie składuje się kamień i złoto. Im bliżej kopalni stoi magazyn, tym wydajniejsi są górnicy.
+
+[B_E_FARM]
+rollover = Dowiedz się więcej o budynku - Gospodarstwo
+brief = Gospodarstwo
+detail = Koszt-200 drewna, Wzrok-5, Wytrzymałość-80p, Zdrowie-800p, ~ W gospodarstwie składuje się żywność. Im bliżej pól stoi gospodarstwo, tym wydajniejsi są żniwiarze.
+
+[B_E_HARBOR]
+rollover = Dowiedz się więcej o budynku - Port
+brief = Port
+detail = Koszt-200 żywności/200 drewna, Wzrok-8, Wytrzymałość-200p, Zdrowie-1400p, Emitowana wytrzymałość/na własne budynki/-+100,Emitowana wytrzymałość/na inne budynki/--50 ~ W porcie składuje się ryby, buduje statki i prowadzi handel.
+
+[B_E_BLACKSMITH]
+rollover = Dowiedz się więcej o budynku - Kuźnia
+brief = Kuźnia
+detail = Koszt-150 żywności/150 drewna, Wzrok-8, Wytrzymałość-80p, Zdrowie-800p, ~ W kuźni bada się technologie, które poprawiają cechy jednostek wojskowych.
+
+[B_E_WORKSHOP]
+rollover = Dowiedz się więcej o budynku - Warsztat
+brief = Warsztat
+detail = Koszt-150 żywności/150 drewna, Wzrok-8, Wytrzymałość-80p, Zdrowie-800p, ~ W kuźni bada się technologie, które poprawiają cechy jednostek wojskowych.
+
+[B_E_CHURCH]
+rollover = Dowiedz się więcej o budynku - Kościół
+brief = Kościół
+detail = Koszt-200 żywności/200 kamienia, Wzrok-6, Wytrzymałość-200p, Zdrowie-1000p, Emitowana wytrzymałość/na własne budynki/-+50,Emitowana wytrzymałość/na inne budynki/--100 ~ Kapłanów tworzy się w kościele.
+
+[B_E_TAVERN]
+rollover = Dowiedz się więcej o budynku - Karczma
+brief = Karczma
+detail = Koszt-200 żywności/200 drewna, Wzrok-5, Wytrzymałość-150p, Zdrowie-1000p, Emitowana wytrzymałość/na własne budynki/--50,Emitowana wytrzymałość/na inne budynki/--50 ~ W karczmie zamienia się surowce, bierze pożyczki, najmuje jednostki wojskowe i uprawia hazard. Aby mieć dostęp do wszystkich możliwości, trzeba zbadać odpowiednie technologie.
+
+[B_E_MARKET]
+rollover = Dowiedz się więcej o budynku - Targ
+brief = Targ
+detail = Koszt-200 żywności/200 drewna, Wzrok-8, Wytrzymałość-200p, Zdrowie-1400p ~ Na targu handluje się surowcami. Handel prowadzą karawany. Aby budować karawany i handlować, trzeba zbadać technologię Szlaki handlowe.
+
+[B_E_BARRACKS]
+rollover = Dowiedz się więcej o budynku - Koszary
+brief = Koszary
+detail = Koszt-200 żywności/200 drewna, Wzrok-6, Wytrzymałość-500p, Zdrowie-1400p ~ Koszary to budynek, w którym szkoli się wszystkie jednostki wojskowe. Nie wszystkie jednostki będą dostępne przed zbadaniem potrzebnych technologii.
+
+[B_E_STABLE]
+rollover = Dowiedz się więcej o budynku - Stajnia
+brief = Stajnia
+detail = Koszt-200 żywności/200 drewna, Wzrok-5, Wytrzymałość-80p, Zdrowie-500p ~ Do szkolenia jednostek konnych potrzebna jest stajnia. Jeśli stajnia zostanie zniszczona, jednostek konnych nie można szkolić, dopóki nie stanie nowa stajnia.
+
+[B_E_OUTPOST]
+rollover = Dowiedz się więcej o budynku - Placówka
+brief = Placówka
+detail = Koszt-200 drewna/400 kamienia, Wzrok-8, Wytrzymałość-500p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+200,Emitowana wytrzymałość/na inne budynki/--200 ~ Placówka to miejsce, w którym armie mogą się schronić i odzyskać zdrowie. Warto budować placówki podczas najazdu, w miarę jak wojska posuwają się naprzód.
+
+[B_E_CATHEDRAL]
+rollover = Dowiedz się więcej o budynku - Katedra
+brief = Katedra
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa katedry pozwala graczowi podążać Drogą Religii. Technologie dostępne w katedrze dadzą graczowi skuteczne sposoby budowania imperium.
+
+[B_E_MAGE_TOWER]
+rollover = Dowiedz się więcej o budynku - Wieża magów
+brief = Wieża magów
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa Wieży magów pozwala graczowi podążać Drogą Magii. Można w niej badać potężne czary i tworzyć czarodziejów.
+
+[B_E_MERCHANTS_GUILD]
+rollover = Dowiedz się więcej o budynku - Gildia kupców
+brief = Gildia kupców
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa Gildii kupców pozwala graczowi podążać Drogą Handlu i Rzemiosła. Można zbudować bardzo silną gospodarkę, korzystać ze wszystkich zalet handlu i nie polegać na ograniczonych surowcach mapy.
+
+[B_E_WARRIORS_GUILD]
+rollover = Dowiedz się więcej o budynku - Gildia wojowników
+brief = Gildia wojowników
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa Gildii wojowników pozwala graczowi podążać Drogą Chwały. Można zbudować bardzo potężną armię. Wiele technologii pozwala jednostkom zdobywać doświadczenie, zwiększać siłę ataku i stawać się niemal niezwyciężonymi.
+
+[B_A_CASTLE]
+rollover = Dowiedz się więcej o budynku - Zamek
+brief = Zamek
+detail = Koszt-1500 kamienia/1500 drewna, Wzrok-12, Wytrzymałość-1000p, Zdrowie-8000p, Emitowana wytrzymałość/na własne budynki/-+500,Emitowana wytrzymałość/na inne budynki/--300 ~ Zamek to główny budynek królestwa. Tylko w nim można tworzyć chłopów. Można w nim składować wszystkie surowce.
+
+[B_A_HOUSE]
+rollover = Dowiedz się więcej o budynku - Dom
+brief = Dom
+detail = Koszt-75 drewna, Wzrok-4, Wytrzymałość-50p, Zdrowie-500p, ~ Domy zwiększają limit ludności królestwa. Każdy dom pozwala stworzyć 10 jednostek więcej.
+
+[B_A_LUMBER_MILL]
+rollover = Dowiedz się więcej o budynku - Tartak
+brief = Tartak
+detail = Koszt-100 drewna, Wzrok-4, Wytrzymałość-80p, Zdrowie-800p, ~ W tartaku składuje się drewno. Im bliżej drzew stoi tartak, tym wydajniejsi są drwale.
+
+[B_A_STORAGE]
+rollover = Dowiedz się więcej o budynku - Magazyn
+brief = Magazyn
+detail = Koszt-200 drewna, Wzrok-5, Wytrzymałość-80p, Zdrowie-800p, ~ W magazynie składuje się kamień i złoto. Im bliżej kopalni stoi magazyn, tym wydajniejsi są górnicy.
+
+[B_A_FARM]
+rollover = Dowiedz się więcej o budynku - Gospodarstwo
+brief = Gospodarstwo
+detail = Koszt-200 drewna, Wzrok-5, Wytrzymałość-80p, Zdrowie-800p, ~ W gospodarstwie składuje się żywność. Im bliżej pól stoi gospodarstwo, tym wydajniejsi są żniwiarze.
+
+[B_A_HARBOR]
+rollover = Dowiedz się więcej o budynku - Port
+brief = Port
+detail = Koszt-200 żywności/200 drewna, Wzrok-8, Wytrzymałość-200p, Zdrowie-1400p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--100 ~ W porcie składuje się ryby, buduje statki i prowadzi handel.
+
+[B_A_BLACKSMITH]
+rollover = Dowiedz się więcej o budynku - Kuźnia
+brief = Kuźnia
+detail = Koszt-150 żywności/150 drewna, Wzrok-8, Wytrzymałość-80p, Zdrowie-800p, ~ W kuźni bada się technologie, które poprawiają cechy jednostek wojskowych.
+
+[B_A_WORKSHOP]
+rollover = Dowiedz się więcej o budynku - Warsztat
+brief = Warsztat
+detail = Koszt-150 żywności/150 drewna, Wzrok-8, Wytrzymałość-80p, Zdrowie-800p, ~ W warsztacie bada się technologie, które poprawiają cechy jednostek wojskowych.
+
+[B_A_MONASTERY]
+rollover = Dowiedz się więcej o budynku - Klasztor
+brief = Klasztor
+detail = Koszt-200 żywności/200 kamienia, Wzrok-6, Wytrzymałość-200p, Zdrowie-1000p, Emitowana wytrzymałość/na własne budynki/-+100,Emitowana wytrzymałość/na inne budynki/--200 ~ Kapłanów tworzy się w klasztorze.
+
+[B_A_TAVERN]
+rollover = Dowiedz się więcej o budynku - Karczma
+brief = Karczma
+detail = Koszt-200 żywności/200 drewna, Wzrok-5, Wytrzymałość-150p, Zdrowie-1000p, Emitowana wytrzymałość/na własne budynki/--200,Emitowana wytrzymałość/na inne budynki/--200 ~ W karczmie zamienia się surowce, bierze pożyczki, najmuje jednostki wojskowe i uprawia hazard. Aby mieć dostęp do wszystkich możliwości, trzeba zbadać odpowiednie technologie.
+
+[B_A_MARKET]
+rollover = Dowiedz się więcej o budynku - Targ
+brief = Targ
+detail = Koszt-200 żywności/200 drewna, Wzrok-8, Wytrzymałość-200p, Zdrowie-1400p ~ Na targu handluje się przedmiotami. Najpierw trzeba zbadać technologię Jubilerstwo.
+
+[B_A_BARRACKS]
+rollover = Dowiedz się więcej o budynku - Koszary
+brief = Koszary
+detail = Koszt-200 żywności/200 drewna, Wzrok-6, Wytrzymałość-500p, Zdrowie-1400p ~ Koszary to budynek, w którym szkoli się wszystkie jednostki wojskowe. Nie wszystkie jednostki będą dostępne przed zbadaniem potrzebnych technologii.
+
+[B_A_STABLE]
+rollover = Dowiedz się więcej o budynku - Stajnia
+brief = Stajnia
+detail = Koszt-200 żywności/200 drewna, Wzrok-5, Wytrzymałość-80p, Zdrowie-500p ~ Do szkolenia jednostek konnych potrzebna jest stajnia. Jeśli stajnia zostanie zniszczona, jednostek konnych nie można szkolić, dopóki nie stanie nowa stajnia.
+
+[B_A_OUTPOST]
+rollover = Dowiedz się więcej o budynku - Placówka
+brief = Placówka
+detail = Koszt-200 drewna/400 kamienia, Wzrok-8, Wytrzymałość-500p, Zdrowie-2000p, Emitowana wytrzymałość/na własne budynki/-+400,Emitowana wytrzymałość/na inne budynki/--400 ~ Placówka to miejsce, w którym armie mogą się schronić i odzyskać zdrowie. Warto budować placówki podczas najazdu, w miarę jak wojska posuwają się naprzód.
+
+[B_A_SHAO_LINN]
+rollover = Dowiedz się więcej o budynku - Shao Linn
+brief = Shao Linn
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa Shao Linn pozwala graczowi podążać Drogą Religii. Technologie, które stają się w nim dostępne, dadzą graczowi skuteczne sposoby budowania imperium.
+
+[B_A_MAGE_TOWER]
+rollover = Dowiedz się więcej o budynku - Wieża magów
+brief = Wieża magów
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa Wieży magów pozwala graczowi podążać Drogą Magii. Można w niej badać potężne czary i tworzyć czarodziejów.
+
+[B_A_MERCHANTS_GUILD]
+rollover = Dowiedz się więcej o budynku - Gildia kupców
+brief = Gildia kupców
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa Gildii kupców pozwala graczowi podążać Drogą Handlu i Rzemiosła. Można zbudować bardzo silną gospodarkę, korzystać ze wszystkich zalet handlu i nie polegać na ograniczonych surowcach mapy.
+
+[B_A_WARRIORS_GUILD]
+rollover = Dowiedz się więcej o budynku - Gildia wojowników
+brief = Gildia wojowników
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa Gildii wojowników pozwala graczowi podążać Drogą Chwały. Można zbudować bardzo potężną armię. Wiele technologii pozwala jednostkom zdobywać doświadczenie, zwiększać siłę ataku i stawać się niemal niezwyciężonymi.
+
+[B_R_CASTLE]
+rollover = Dowiedz się więcej o budynku - Zamek
+brief = Zamek
+detail = Koszt-1500 kamienia/1500 drewna, Wzrok-12, Wytrzymałość-1000p, Zdrowie-8000p, Emitowana wytrzymałość/na własne budynki/-+500,Emitowana wytrzymałość/na inne budynki/--300 ~ Zamek to główny budynek królestwa. Tylko w nim można tworzyć chłopów i szpiegów. Można w nim składować wszystkie surowce.
+
+[B_R_HOUSE]
+rollover = Dowiedz się więcej o budynku - Dom
+brief = Dom
+detail = Koszt-75 drewna, Wzrok-4, Wytrzymałość-50p, Zdrowie-500p, ~ Domy zwiększają limit ludności królestwa. Każdy dom pozwala stworzyć 10 jednostek więcej.
+
+[B_R_LUMBER_MILL]
+rollover = Dowiedz się więcej o budynku - Tartak
+brief = Tartak
+detail = Koszt-100 drewna, Wzrok-4, Wytrzymałość-80p, Zdrowie-800p, ~ W tartaku składuje się drewno. Im bliżej drzew stoi tartak, tym wydajniejsi są drwale.
+
+[B_R_STORAGE]
+rollover = Dowiedz się więcej o budynku - Magazyn
+brief = Magazyn
+detail = Koszt-200 drewna, Wzrok-5, Wytrzymałość-80p, Zdrowie-800p, ~ W magazynie składuje się kamień i złoto. Im bliżej kopalni stoi magazyn, tym wydajniejsi są górnicy.
+
+[B_R_FARM]
+rollover = Dowiedz się więcej o budynku - Gospodarstwo
+brief = Gospodarstwo
+detail = Koszt-200 drewna, Wzrok-5, Wytrzymałość-80p, Zdrowie-800p, ~ W gospodarstwie składuje się żywność. Im bliżej pól stoi gospodarstwo, tym wydajniejsi są żniwiarze.
+
+[B_R_HARBOR]
+rollover = Dowiedz się więcej o budynku - Port
+brief = Port
+detail = Koszt-200 żywności/200 drewna, Wzrok-8, Wytrzymałość-200p, Zdrowie-1400p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--100 ~ W porcie składuje się ryby, buduje statki i prowadzi handel.
+
+[B_R_BLACKSMITH]
+rollover = Dowiedz się więcej o budynku - Kuźnia
+brief = Kuźnia
+detail = Koszt-150 żywności/150 drewna, Wzrok-8, Wytrzymałość-80p, Zdrowie-800p, ~ W kuźni bada się technologie, które poprawiają cechy jednostek wojskowych.
+
+[B_R_WORKSHOP]
+rollover = Dowiedz się więcej o budynku - Warsztat
+brief = Warsztat
+detail = Koszt-150 żywności/150 drewna, Wzrok-8, Wytrzymałość-80p, Zdrowie-800p, ~ W warsztacie bada się technologie, które poprawiają cechy jednostek wojskowych.
+
+[B_R_CHURCH]
+rollover = Dowiedz się więcej o budynku - Kościół
+brief = Kościół
+detail = Koszt-200 żywności/200 kamienia, Wzrok-6, Wytrzymałość-200p, Zdrowie-1000p, Emitowana wytrzymałość/na własne budynki/-+100,Emitowana wytrzymałość/na inne budynki/--200 ~ Kapłanów tworzy się w kościele.
+
+[B_R_TAVERN]
+rollover = Dowiedz się więcej o budynku - Karczma
+brief = Karczma
+detail = Koszt-200 żywności/200 drewna, Wzrok-5, Wytrzymałość-150p, Zdrowie-1000p, Emitowana wytrzymałość/na własne budynki/--200,Emitowana wytrzymałość/na inne budynki/--200 ~ W karczmie zamienia się surowce, bierze pożyczki, najmuje jednostki wojskowe i uprawia hazard. Aby mieć dostęp do wszystkich możliwości, trzeba zbadać odpowiednie technologie.
+
+[B_R_MARKET]
+rollover = Dowiedz się więcej o budynku - Targ
+brief = Targ
+detail = Koszt-200 żywności/200 drewna, Wzrok-8, Wytrzymałość-200p, Zdrowie-1400p ~ Na targu handluje się surowcami. Handel prowadzą karawany. Aby budować karawany i handlować, trzeba zbadać technologię Szlaki handlowe.
+
+[B_R_BARRACKS]
+rollover = Dowiedz się więcej o budynku - Koszary
+brief = Koszary
+detail = Koszt-200 żywności/200 drewna, Wzrok-6, Wytrzymałość-500p, Zdrowie-1400p ~ Koszary to budynek, w którym szkoli się wszystkie jednostki wojskowe. Nie wszystkie jednostki będą dostępne przed zbadaniem potrzebnych technologii.
+
+[B_R_STABLE]
+rollover = Dowiedz się więcej o budynku - Stajnia
+brief = Stajnia
+detail = Koszt-200 żywności/200 drewna, Wzrok-5, Wytrzymałość-80p, Zdrowie-500p ~ Do szkolenia jednostek konnych potrzebna jest stajnia. Jeśli stajnia zostanie zniszczona, jednostek konnych nie można szkolić, dopóki nie stanie nowa stajnia.
+
+[B_R_OUTPOST]
+rollover = Dowiedz się więcej o budynku - Placówka
+brief = Placówka
+detail = Koszt-200 drewna/400 kamienia, Wzrok-8, Wytrzymałość-500p, Zdrowie-2000p, Emitowana wytrzymałość/na własne budynki/-+400,Emitowana wytrzymałość/na inne budynki/--400 ~ Placówka to miejsce, w którym armie mogą się schronić i odzyskać zdrowie. Warto budować placówki podczas najazdu, w miarę jak wojska posuwają się naprzód.
+
+[B_R_MOSQUE]
+rollover = Dowiedz się więcej o budynku - Meczet
+brief = Meczet
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa meczetu pozwala graczowi podążać Drogą Religii. Technologie dostępne w meczecie dadzą graczowi skuteczne sposoby budowania imperium.
+
+[B_R_MAGE_TOWER]
+rollover = Dowiedz się więcej o budynku - Wieża magów
+brief = Wieża magów
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa Wieży magów pozwala graczowi podążać Drogą Magii. Można w niej badać potężne czary i tworzyć czarodziejów.
+
+[B_R_MERCHANTS_GUILD]
+rollover = Dowiedz się więcej o budynku - Gildia kupców
+brief = Gildia kupców
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa Gildii kupców pozwala graczowi podążać Drogą Handlu i Rzemiosła. Można zbudować bardzo silną gospodarkę, korzystać ze wszystkich zalet handlu i nie polegać na ograniczonych surowcach mapy.
+
+[B_R_WARRIORS_GUILD]
+rollover = Dowiedz się więcej o budynku - Gildia wojowników
+brief = Gildia wojowników
+detail = Koszt-2000 kamienia/2000 złota, Wzrok-8, Wytrzymałość-700p, Zdrowie-5000p, Emitowana wytrzymałość/na własne budynki/-+300,Emitowana wytrzymałość/na inne budynki/--500 ~ Budowa Gildii wojowników pozwala graczowi podążać Drogą Chwały. Można zbudować bardzo potężną armię. Wiele technologii pozwala jednostkom zdobywać doświadczenie, zwiększać siłę ataku i stawać się niemal niezwyciężonymi.
+
+[B_R_MAGIC_WORKSHOP]
+rollover = Dowiedz się więcej o budynku - Warsztat magiczny
+brief = Warsztat magiczny
+detail = Koszt-300 kamienia, Wzrok-5, Wytrzymałość-200p, Zdrowie-1200p ~ Warsztat magiczny to miejsce, w którym wytwarza się magiczne przedmioty.
+
+[B_C_FIELD]
+rollover = Dowiedz się więcej o polach
+brief = Pole
+detail = Koszt-200 drewna, Wzrok-1, Zdrowie-100p ~ Pola dają surowiec żywność i wymagają stałej opieki. Zaniedbane znikają. Warto zakładać je w pobliżu gospodarstwa lub zamku, by żniwiarze sprawniej składowali żywność.
+
+[B_C_WOOD_WALL]
+rollover = Dowiedz się więcej o palisadzie
+brief = Palisada
+detail = Koszt-20 drewna, Wzrok-1, Zdrowie-2000p ~ Mury to dobry sposób na umocnienie królestwa. Nie są drogie i dobrze chronią przed atakami wroga. Nie są jednak dość mocne, by wytrzymać atak machin oblężniczych. Zawsze warto postawić wieże, które będą ich strzec.
+
+[B_C_STONE_WALL]
+rollover = Dowiedz się więcej o kamiennym murze
+brief = Kamienny mur
+detail = Koszt-20 kamienia, Wzrok-2, Zdrowie-4000p ~ Kamienne mury to bardzo dobry sposób na umocnienie królestwa. Powstają tylko przez ulepszenie palisad. Nie są drogie i dobrze chronią przed atakami wroga. Zawsze warto postawić wieże, które będą ich strzec.
+
+[B_C_WOOD_GATE]
+rollover = Dowiedz się więcej o drewnianej bramie
+brief = Drewniana brama
+detail = Koszt-200 drewna, Wzrok-8, Zdrowie-1500p ~ Drewniane bramy są niezbędne w umocnionym królestwie. Właściciel może nimi kierować sam albo zostawić je ich SI. Jeśli SI bram jest włączona, otwierają się przed jednostkami królestwa i zamykają przed wrogimi. Zawsze warto postawić wieże, które będą ich strzec.
+
+[B_C_STONE_GATE]
+rollover = Dowiedz się więcej o kamiennej bramie
+brief = Kamienna brama
+detail = Koszt-200 kamienia, Wzrok-12, Zdrowie-3000p ~ Kamienne bramy powstają z drewnianych i lepiej wytrzymują ataki. Właściciel może nimi kierować sam albo zostawić je ich SI. Jeśli SI bram jest włączona, otwierają się przed jednostkami królestwa i zamykają przed wrogimi. Zawsze warto postawić wieże, które będą ich strzec.
+
+[B_C_BRIDGE]
+rollover = Dowiedz się więcej o moście
+brief = Most
+detail = Koszt-300 kamienia, Wzrok-1, Zdrowie-10000p ~ Kamienne bramy powstają z drewnianych i lepiej wytrzymują ataki. Właściciel może nimi kierować sam albo zostawić je ich SI. Jeśli SI bram jest włączona, otwierają się przed jednostkami królestwa i zamykają przed wrogimi. Zawsze warto postawić wieże, które będą ich strzec.
+
+[B_C_WATCH_TOWER]
+rollover = Dowiedz się więcej o strażnicy
+brief = Strażnica
+detail = Koszt-300 drewna, Wzrok-15, Atak-7, Zasięg-8, Wytrzymałość-100p, Zdrowie-400p ~ Strażnice to dobry sposób na umocnienie królestwa. Atakują wrogie jednostki, gdy tylko te wejdą w ich zasięg. Warto budować je tak, by ich zasięgi się nakładały, nie zostawiając wrogom odkrytego terenu.
+
+[B_C_GUARD_TOWER]
+rollover = Dowiedz się więcej o wieży strażniczej
+brief = Wieża strażnicza
+detail = Wzrok-15, Atak-12, Zasięg-12, Wytrzymałość-150p, Zdrowie-1000p ~ Wieże strażnicze powstają przez ulepszenie strażnic. To najskuteczniejszy sposób na umocnienie królestwa. Atakują wrogie jednostki, gdy tylko te wejdą w ich zasięg. Warto budować je tak, by ich zasięgi się nakładały, nie zostawiając wrogom odkrytego terenu.
+
+[B_C_STONE_TOWER]
+rollover = Dowiedz się więcej o kamiennej wieży
+brief = Kamienna wieża
+detail = Wzrok-15, Atak-16, Zasięg-16, Wytrzymałość-300p, Zdrowie-2000p ~ Kamienne wieże powstają przez ulepszenie wież strażniczych. To najskuteczniejszy sposób na umocnienie królestwa. Atakują wrogie jednostki, gdy tylko te wejdą w ich zasięg, większy niż zasięg wież strażniczych. Warto budować je tak, by ich zasięgi się nakładały, nie zostawiając wrogom odkrytego terenu.
+
+[B_C_CANNON_TOWER]
+rollover = Dowiedz się więcej o wieży armatniej
+brief = Wieża armatnia
+detail = Wzrok-15, Atak-40, Zasięg-10, Wytrzymałość-300p, Zdrowie-2500p ~ Wieże armatnie powstają przez ulepszenie wież strażniczych. To najpotężniejszy sposób obrony królestwa europejskiego lub arabskiego. Atakują wrogie jednostki, gdy tylko te wejdą w ich zasięg, większy niż zasięg kamiennych wież. Warto budować je tak, by ich zasięgi się nakładały, nie zostawiając wrogom odkrytego terenu.
+
+[B_C_ROCKET_TOWER]
+rollover = Dowiedz się więcej o wieży rakietowej
+brief = Wieża rakietowa
+detail = Koszt-1000 drewna/400 kamienia, Wzrok-25, Atak-30, Zasięg-20, Wytrzymałość-300p, Zdrowie-1400p ~ Wieże rakietowe można budować po zbadaniu potrzebnej technologii w Gildii kupców. To najpotężniejszy sposób obrony królestwa azjatyckiego. Atakują wrogie jednostki, gdy tylko te wejdą w ich zasięg, większy niż zasięg każdej innej wieży. Warto budować wieże tak, by ich zasięgi się nakładały, nie zostawiając wrogom odkrytego terenu.
+
+[B_C_DUMMY]
+rollover = Dowiedz się więcej o kukle
+brief = Kukła
+detail = Koszt-300 drewna, Zdrowie-5000p ~ Kukły pozwalają graczowi szkolić armię i mieć jednostki o wyższym poziomie doświadczenia, zanim wyśle je do walki. Im więcej technologii doświadczenia zbadano w Gildii wojowników, tym wyższy poziom osiągną jednostki.
+
+[B_C_MAGIC_GATEWAY]
+rollover = Dowiedz się więcej o magicznym portalu
+brief = Magiczny portal
+detail = Wzrok-10, Zdrowie-2000p ~ Magiczne portale znajdują się na mapie. Aby użyć magicznego portalu, trzeba go przejąć. Przejmować je mogą tylko jednostki wojskowe. Jednostki powstałe w magicznych portalach należą do królestwa gracza, który je przejął, i ma on nad nimi pełną kontrolę.
+
+[B_C_EVIL_CASTLE]
+rollover = Dowiedz się więcej o Zamku Zła
+brief = Zamek Zła
+detail = Wzrok-10, Zdrowie-20000p ~ Zamek Zła to miejsce, w którym panuje Mesjasz. Pojawia się tylko w kampaniach.
+
+[T_E_FEUDALISM]
+rollover = Dowiedz się więcej o technologii - Feudalizm
+brief = Feudalizm
+detail = Koszt-300 złota ~ Feudalizm obniża o 20% koszt szkolenia chłopów. Warto zbadać tę technologię na początku gry, gdy do budowy gospodarki potrzeba wielu chłopów.
+
+[T_E_ARCHITECTURE]
+rollover = Dowiedz się więcej o technologii - Architektura
+brief = Architektura
+detail = Koszt-300 złota ~ Architektura przyspiesza o 20% budowę każdego budynku.
+
+[T_E_LEARNING]
+rollover = Dowiedz się więcej o technologii - Nauka
+brief = Nauka
+detail = Koszt-400 złota ~ Nauka pozwala jednostkom zdobyć do 4 poziomów doświadczenia.
+
+[T_E_ROTATING_FIELDS]
+rollover = Dowiedz się więcej o technologii - Płodozmian
+brief = Płodozmian
+detail = Koszt-400 złota ~ Technologia Płodozmian pozwala chłopom zbierać po zasiewie dwa razy więcej żywności.
+
+[T_E_DOMESTICATION]
+rollover = Dowiedz się więcej o technologii - Hodowla
+brief = Hodowla
+detail = Koszt-300 złota ~ Technologia Hodowla pozwala hodować bydło w gospodarstwach.
+
+[T_E_TEMPER_IRON]
+rollover = Dowiedz się więcej o technologii - Hartowanie żelaza
+brief = Hartowanie żelaza
+detail = Koszt-300 złota ~ Technologia Hartowanie żelaza zwiększa o 1 punkt atak mieczem jednostek wojskowych.
+
+[T_E_PLATE_ARMOR]
+rollover = Dowiedz się więcej o technologii - Zbroja płytowa
+brief = Zbroja płytowa
+detail = Koszt-1400 złota ~ Technologia Zbroja płytowa pozwala szkolić rycerzy.
+
+[T_E_SCALE_ARMOR]
+rollover = Dowiedz się więcej o technologii - Zbroja łuskowa
+brief = Zbroja łuskowa
+detail = Koszt-400 złota ~ Technologia Zbroja łuskowa zwiększa o 1 punkt obronę wszystkich jednostek piechoty.
+
+[T_E_CHAIN_MAIL]
+rollover = Dowiedz się więcej o technologii - Kolczuga
+brief = Kolczuga
+detail = Koszt-400 złota ~ Technologia Kolczuga zwiększa o 2 punkty obronę wszystkich jednostek piechoty.
+
+[T_E_HALBERD]
+rollover = Dowiedz się więcej o technologii - Halabarda
+brief = Halabarda
+detail = Koszt-600 złota ~ Technologia Halabarda pozwala tworzyć jednostki z włócznią.
+
+[T_E_SAW]
+rollover = Dowiedz się więcej o technologii - Piła
+brief = Piła
+detail = Koszt-400 złota ~ Technologia Piła pozwala drwalom nosić do tartaków o 2 punkty drewna więcej.
+
+[T_E_CROSSBOW]
+rollover = Dowiedz się więcej o technologii - Kusza
+brief = Kusza
+detail = Koszt-400 złota ~ Technologia Kusza zwiększa o 1 punkt atak każdej strzały.
+
+[T_E_LONGBOW]
+rollover = Dowiedz się więcej o technologii - Długi łuk
+brief = Długi łuk
+detail = Koszt-700 złota ~ Technologia Długi łuk udostępnia łuczników z długim łukiem.
+
+[T_E_GOLD_MINING]
+rollover = Dowiedz się więcej o technologii - Wydobycie złota
+brief = Wydobycie złota
+detail = Koszt-400 złota ~ Technologia Wydobycie złota pozwala górnikom wynosić z kopalń po 12 złota.
+
+[T_E_STONE_MINING]
+rollover = Dowiedz się więcej o technologii - Wydobycie kamienia
+brief = Wydobycie kamienia
+detail = Koszt-400 złota ~ Technologia Wydobycie kamienia pozwala górnikom wynosić z kamieniołomów po 12 kamienia.
+
+[T_E_ENGINEERING]
+rollover = Dowiedz się więcej o technologii - Inżynieria
+brief = Inżynieria
+detail = Koszt-400 złota ~ Technologia Inżynieria zwiększa o 5 punktów atak katapult i ciężkich katapult.
+
+[T_E_CANNON_TOWER]
+rollover = Dowiedz się więcej o technologii - Wieże armatnie
+brief = Wieże armatnie
+detail = Koszt-400 złota ~ Technologia Wieża armatnia pozwala ulepszać kamienne wieże do wież armatnich.
+
+[T_E_HEROISM]
+rollover = Dowiedz się więcej o technologii - Bohaterstwo
+brief = Bohaterstwo
+detail = Koszt-500 złota ~ Technologia Bohaterstwo pozwala jednostkom zdobywać nieograniczone doświadczenie, dzięki czemu gracz może uczynić niektóre z nich bohaterami.
+
+[T_E_LEADERSHIP]
+rollover = Dowiedz się więcej o technologii - Przywództwo
+brief = Przywództwo
+detail = Koszt-500 złota ~ Technologia Przywództwo pozwala jednostkom wokół bohatera zdobywać doświadczenie.
+
+[T_E_HONOR]
+rollover = Dowiedz się więcej o technologii - Honor
+brief = Honor
+detail = Koszt-500 złota ~ Technologia Honor zwiększa o 50% atak bohaterów walczących z innymi bohaterami.
+
+[T_E_WARFARE]
+rollover = Dowiedz się więcej o technologii - Sztuka wojenna
+brief = Sztuka wojenna
+detail = Koszt-400 złota ~ Technologia Sztuka wojenna przyspiesza naukę wszystkich jednostek.
+
+[T_E_MERCENARIES]
+rollover = Dowiedz się więcej o technologii - Najemnicy
+brief = Najemnicy
+detail = Koszt-600 złota ~ Technologia Najemnicy pozwala werbować najemników w karczmach.
+
+[T_E_HEROES_QUEST]
+rollover = Dowiedz się więcej o technologii - Wyprawa bohaterów
+brief = Wyprawa bohaterów
+detail = Koszt-800 złota ~ Technologia Wyprawa bohaterów pozwala werbować bohaterów w karczmach.
+
+[T_E_FAME]
+rollover = Dowiedz się więcej o technologii - Sława
+brief = Sława
+detail = Koszt-500 złota ~ Technologia Sława pozwala werbować w karczmach lepszych, tańszych i bardziej doświadczonych najemników.
+
+[T_E_TACTICS]
+rollover = Dowiedz się więcej o technologii - Taktyka
+brief = Taktyka
+detail = Koszt-800 złota ~ Technologia Taktyka przyspiesza naukę jednostek.
+
+[T_E_SIEGE_TACTICS]
+rollover = Dowiedz się więcej o technologii - Taktyka oblężnicza
+brief = Taktyka oblężnicza
+detail = Koszt-1200 złota ~ Technologia Taktyka oblężnicza pozwala budować ciężkie katapulty w warsztatach.
+
+[T_E_BODY_BUILDING]
+rollover = Dowiedz się więcej o technologii - Kulturystyka
+brief = Kulturystyka
+detail = Koszt-1200 złota ~ Technologia Kulturystyka zwiększa o 5 punkty życia jednostek na każdym nowym poziomie.
+
+[T_E_LANDING_TACTICS]
+rollover = Dowiedz się więcej o technologii - Taktyka desantu
+brief = Taktyka desantu
+detail = Koszt-300 złota ~ Technologia Taktyka desantu pozwala statkom przewozić o 50% więcej jednostek.
+
+[T_E_FANATICISM]
+rollover = Dowiedz się więcej o technologii - Fanatyzm
+brief = Fanatyzm
+detail = Koszt-400 złota ~ Technologia Fanatyzm zwiększa o 50% wytrzymałość budynków.
+
+[T_E_CRUSADE]
+rollover = Dowiedz się więcej o technologii - Krucjata
+brief = Krucjata
+detail = Koszt-1400 złota ~ Technologia Krucjata pozwala ogłosić krucjatę. W wybranym miejscu pojawia się kolejno 20 krzyżowców, którzy tworzą groźną armię.
+
+[T_E_ESPIONAGE]
+rollover = Dowiedz się więcej o technologii - Szpiegostwo
+brief = Szpiegostwo
+detail = Koszt-400 złota ~ Technologia Szpiegostwo pozwala szkolić szpiegów w zamku.
+
+[T_E_BLESS]
+rollover = Dowiedz się więcej o technologii - Błogosławieństwo
+brief = Błogosławieństwo
+detail = Koszt-400 złota ~ Technologia Błogosławieństwo zwiększa o 8 punktów atak jednostek. Pozwala kapłanom błogosławić jednostki.
+
+[T_E_HEALING]
+rollover = Dowiedz się więcej o technologii - Uzdrawianie
+brief = Uzdrawianie
+detail = Koszt-400 złota ~ Technologia Uzdrawianie udostępnia czar leczenia i pozwala kapłanom leczyć jednostki.
+
+[T_E_MEDICINE]
+rollover = Dowiedz się więcej o technologii - Medycyna
+brief = Medycyna
+detail = Koszt-500 złota ~ Technologia Medycyna pozwala kapłanom leczyć z większej odległości.
+
+[T_E_INQUISITION]
+rollover = Dowiedz się więcej o technologii - Inkwizycja
+brief = Inkwizycja
+detail = Koszt-400 złota ~ Technologia Inkwizycja zwiększa o 5 punktów działanie czaru Egzorcyzm.
+
+[T_E_TRADE_ROUTES]
+rollover = Dowiedz się więcej o technologii - Szlaki handlowe
+brief = Szlaki handlowe
+detail = Koszt-400 złota ~ Technologia Szlaki handlowe pozwala handlować karawanami i statkami.
+
+[T_E_MAP_MAKING]
+rollover = Dowiedz się więcej o technologii - Kartografia
+brief = Kartografia
+detail = Koszt-800 złota ~ Technologia Kartografia pozwala budować galeony.
+
+[T_E_USURY]
+rollover = Dowiedz się więcej o technologii - Lichwa
+brief = Lichwa
+detail = Koszt-300 złota ~ Technologia Lichwa pozwala graczowi brać pożyczki w karczmach.
+
+[T_E_GAMBLING]
+rollover = Dowiedz się więcej o technologii - Hazard
+brief = Hazard
+detail = Koszt-500 złota ~ Technologia Hazard pozwala graczowi grać o stawkę w karczmach.
+
+[T_E_SUPPLY_STORAGE]
+rollover = Dowiedz się więcej o technologii - Zapasy zaopatrzenia
+brief = Zapasy zaopatrzenia
+detail = Koszt-500 złota ~ Technologia Zapasy zaopatrzenia zwiększa o 50% limit ludności.
+
+[T_E_BRIBERY]
+rollover = Dowiedz się więcej o technologii - Przekupstwo
+brief = Przekupstwo
+detail = Koszt-300 złota ~ Technologia Przekupstwo pozwala chłopom przekupywać wrogie jednostki.
+
+[T_E_TRADE_TAXES]
+rollover = Dowiedz się więcej o technologii - Podatki handlowe
+brief = Podatki handlowe
+detail = Koszt-500 złota ~ Technologia Podatki handlowe zwiększa o 5% zyski z handlu.
+
+[T_E_BAT]
+rollover = Dowiedz się więcej o technologii - Nietoperze
+brief = Nietoperze
+detail = Koszt-400 złota ~ Technologia Nietoperz pozwala czarodziejom przywoływać nietoperze.
+
+[T_E_STONE_GOLEM]
+rollover = Dowiedz się więcej o technologii - Kamienny golem
+brief = Kamienny golem
+detail = Koszt-800 złota ~ Technologia Kamienny golem pozwala czarodziejom przywoływać kamienne golemy.
+
+[T_E_INVISIBILITY]
+rollover = Dowiedz się więcej o technologii - Niewidzialność
+brief = Niewidzialność
+detail = Koszt-500 złota ~ Technologia Niewidzialność pozwala czarodziejom czynić jednostki niewidzialnymi na ograniczony czas.
+
+[T_E_LIGHTNING]
+rollover = Dowiedz się więcej o technologii - Błyskawica
+brief = Błyskawica
+detail = Koszt-400 złota ~ Technologia Błyskawica pozwala czarodziejom używać czaru Błyskawica.
+
+[T_E_FREEZE]
+rollover = Dowiedz się więcej o technologii - Zamrożenie
+brief = Zamrożenie
+detail = Koszt-800 złota ~ Technologia Zamrożenie pozwala czarodziejom używać czaru Zamrożenie.
+
+[T_A_FEUDALISM]
+rollover = Dowiedz się więcej o technologii - Feudalizm
+brief = Feudalizm
+detail = Koszt-300 złota ~ Feudalizm obniża o 20% koszt szkolenia chłopów. Warto zbadać tę technologię na początku gry, gdy do budowy gospodarki potrzeba wielu chłopów.
+
+[T_A_ARCHITECTURE]
+rollover = Dowiedz się więcej o technologii - Architektura
+brief = Architektura
+detail = Koszt-300 złota ~ Architektura przyspiesza o 20% budowę każdego budynku.
+
+[T_A_LEARNING]
+rollover = Dowiedz się więcej o technologii - Nauka
+brief = Nauka
+detail = Koszt-400 złota ~ Nauka pozwala jednostkom zdobyć do 4 poziomów doświadczenia.
+
+[T_A_GREAT_WALL]
+rollover = Dowiedz się więcej o technologii - Wielki Mur
+brief = Wielki Mur
+detail = Koszt-600 złota ~ Zwiększa o 30% punkty życia kamiennych murów i wież.
+
+[T_A_BUDHISM]
+rollover = Dowiedz się więcej o technologii - Buddyzm
+brief = Buddyzm
+detail = Koszt-500 złota ~ Zwiększa o 50% wytrzymałość budynków.
+
+[T_A_ROTATING_FIELDS]
+rollover = Dowiedz się więcej o technologii - Płodozmian
+brief = Płodozmian
+detail = Koszt-400 złota ~ Technologia Płodozmian pozwala chłopom zbierać po zasiewie dwa razy więcej żywności.
+
+[T_A_IRRIGATION]
+rollover = Dowiedz się więcej o technologii - Nawadnianie
+brief = Nawadnianie
+detail = Koszt-400 złota ~ Technologia Nawadnianie pozwala chłopom zbierać z pól 16 żywności zamiast 12.
+
+[T_A_ART_OF_RIDING]
+rollover = Dowiedz się więcej o technologii - Sztuka jazdy konnej
+brief = Sztuka jazdy konnej
+detail = Koszt-400 złota ~ Technologia Sztuka jazdy konnej pozwala szkolić łuczników konnych w koszarach.
+
+[T_A_TEMPER_IRON]
+rollover = Dowiedz się więcej o technologii - Hartowanie żelaza
+brief = Hartowanie żelaza
+detail = Koszt-400 złota ~ Technologia Hartowanie żelaza zwiększa o 1 punkt atak mieczem jednostek wojskowych.
+
+[T_A_SCALE_ARMOR]
+rollover = Dowiedz się więcej o technologii - Zbroja łuskowa
+brief = Zbroja łuskowa
+detail = Koszt-400 złota ~ Technologia Zbroja łuskowa zwiększa o 1 punkt obronę wszystkich jednostek piechoty.
+
+[T_A_CHAIN_MAIL]
+rollover = Dowiedz się więcej o technologii - Kolczuga
+brief = Kolczuga
+detail = Koszt-400 złota ~ Technologia Kolczuga zwiększa o 2 punkty obronę wszystkich jednostek piechoty.
+
+[T_A_CHARIOT]
+rollover = Dowiedz się więcej o technologii - Opancerzony rydwan
+brief = Opancerzony rydwan
+detail = Koszt-300 złota ~ Technologia Opancerzony rydwan udostępnia opancerzone rydwany w koszarach.
+
+[T_A_SAW]
+rollover = Dowiedz się więcej o technologii - Piła
+brief = Piła
+detail = Koszt-400 złota ~ Technologia Piła pozwala drwalom nosić do tartaków o 2 punkty drewna więcej.
+
+[T_A_CROSSBOW]
+rollover = Dowiedz się więcej o technologii - Kusza
+brief = Kusza
+detail = Koszt-400 złota ~ Technologia Kusza zwiększa o 1 punkt każdy atak strzałą.
+
+[T_A_GOLD_MINING]
+rollover = Dowiedz się więcej o technologii - Wydobycie złota
+brief = Wydobycie złota
+detail = Koszt-400 złota ~ Technologia Wydobycie złota pozwala górnikom wynosić z kopalń po 12 złota.
+
+[T_A_STONE_MINING]
+rollover = Dowiedz się więcej o technologii - Wydobycie kamienia
+brief = Wydobycie kamienia
+detail = Koszt-400 złota ~ Technologia Wydobycie kamienia pozwala górnikom wynosić z kamieniołomów po 12 kamienia.
+
+[T_A_ENGINEERING]
+rollover = Dowiedz się więcej o technologii - Inżynieria
+brief = Inżynieria
+detail = Koszt-400 złota ~ Technologia Inżynieria zwiększa o 5 punktów atak katapult.
+
+[T_A_CANNON_TOWER]
+rollover = Dowiedz się więcej o technologii - Wieże armatnie
+brief = Wieże armatnie
+detail = Koszt-400 złota ~ Technologia Wieża armatnia pozwala ulepszać kamienne wieże do wież armatnich.
+
+[T_A_HEROISM]
+rollover = Dowiedz się więcej o technologii - Bohaterstwo
+brief = Bohaterstwo
+detail = Koszt-500 złota ~ Technologia Bohaterstwo pozwala jednostkom zdobywać nieograniczone doświadczenie, dzięki czemu gracz może uczynić niektóre z nich bohaterami.
+
+[T_A_LEADERSHIP]
+rollover = Dowiedz się więcej o technologii - Przywództwo
+brief = Przywództwo
+detail = Koszt-500 old ~ Technologia Przywództwo pozwala jednostkom wokół bohatera zdobywać doświadczenie.
+
+[T_A_HONOR]
+rollover = Dowiedz się więcej o technologii - Honor
+brief = Honor
+detail = Koszt-500 złota ~ Technologia Honor zwiększa o 50% atak bohaterów walczących z innymi bohaterami.
+
+[T_A_SUN_TZU_BOOK]
+rollover = Dowiedz się więcej o technologii - Księga Sun Tzu
+brief = Księga Sun Tzu
+detail = Koszt-600 złota ~ Technologia Księga Sun Tzu przyspiesza naukę jednostek.
+
+[T_A_WARFARE]
+rollover = Dowiedz się więcej o technologii - Sztuka wojenna
+brief = Sztuka wojenna
+detail = Koszt-400 złota ~ Technologia Sztuka wojenna przyspiesza naukę wszystkich jednostek.
+
+[T_A_TACTICS]
+rollover = Dowiedz się więcej o technologii - Taktyka
+brief = Taktyka
+detail = Koszt-800 złota ~ Technologia Taktyka przyspiesza naukę jednostek.
+
+[T_A_MERCENARIES]
+rollover = Dowiedz się więcej o technologii - Najemnicy
+brief = Najemnicy
+detail = Koszt-600 złota ~ Technologia Najemnicy pozwala werbować najemników w karczmach.
+
+[T_A_HEROES_QUEST]
+rollover = Dowiedz się więcej o technologii - Wyprawa bohaterów
+brief = Wyprawa bohaterów
+detail = Koszt-800 złota ~ Technologia Wyprawa bohaterów pozwala werbować bohaterów w karczmach.
+
+[T_A_BUSHIDO]
+rollover = Dowiedz się więcej o technologii - Bushido
+brief = Bushido
+detail = Koszt-500 złota ~ Technologia Bushido pozwala szkolić konnych samurajów w koszarach.
+
+[T_A_MEDITATION]
+rollover = Dowiedz się więcej o technologii - Medytacja
+brief = Medytacja
+detail = Koszt-300 złota ~ Technologia Medytacja obniża o 25% koszt szkolenia mnichów.
+
+[T_A_PHILOSOPHY]
+rollover = Dowiedz się więcej o technologii - Filozofia
+brief = Filozofia
+detail = Koszt-400 złota ~ Technologia Filozofia sprawia, że mnisi już przy stworzeniu osiągają poziom 2.
+
+[T_A_KUNG_FU]
+rollover = Dowiedz się więcej o technologii - Kung-fu
+brief = Kung-fu
+detail = Koszt-400 złota ~ Technologia Kung-fu zwiększa o 1 punkt atak wszystkich jednostek kung-fu /chłopów, mnichów i kapłanów/.
+
+[T_A_NINJAS]
+rollover = Dowiedz się więcej o technologii - Ninja
+brief = Ninja
+detail = Koszt-500 złota ~ Technologia Ninja pozwala tworzyć ninja w zamku.
+
+[T_A_MASTERY]
+rollover = Dowiedz się więcej o technologii - Mistrzostwo
+brief = Mistrzostwo
+detail = Koszt-500 złota ~ Technologia Mistrzostwo pozwala kapłanom szkolić jednostki do własnego poziomu.
+
+[T_A_TOURNAMENTS]
+rollover = Dowiedz się więcej o technologii - Turnieje
+brief = Turnieje
+detail = Koszt-800 złota ~ Technologia Turnieje pozwala jednostkom kung-fu /chłopom, mnichom i kapłanom/ dzielić się doświadczeniem.
+
+[T_A_HEALING]
+rollover = Dowiedz się więcej o technologii - Uzdrawianie
+brief = Uzdrawianie
+detail = Koszt-400 złota ~ Technologia Uzdrawianie udostępnia czar leczenia i pozwala kapłanom leczyć jednostki.
+
+[T_A_MEDICINE]
+rollover = Dowiedz się więcej o technologii - Medycyna
+brief = Medycyna
+detail = Koszt-500 złota ~ Technologia Medycyna pozwala kapłanom leczyć z większej odległości.
+
+[T_A_TRADE_ROUTES]
+rollover = Dowiedz się więcej o technologii - Szlaki handlowe
+brief = Szlaki handlowe
+detail = Koszt-400 złota ~ Technologia Szlaki handlowe pozwala handlować z chłopami.
+
+[T_A_USURY]
+rollover = Dowiedz się więcej o technologii - Lichwa
+brief = Lichwa
+detail = Koszt-300 złota ~ Technologia Lichwa pozwala graczowi brać pożyczki w karczmach.
+
+[T_A_BANKING]
+rollover = Dowiedz się więcej o technologii - Bankowość
+brief = Bankowość
+detail = Koszt-600 złota ~ Technologia Bankowość zwiększa o 5% zyski z handlu.
+
+[T_A_SUPPLY_STORAGE]
+rollover = Dowiedz się więcej o technologii - Zapasy zaopatrzenia
+brief = Zapasy zaopatrzenia
+detail = Koszt-500 złota ~ Technologia Zapasy zaopatrzenia zwiększa o 50% limit ludności.
+
+[T_A_SEAFOOD]
+rollover = Dowiedz się więcej o technologii - Owoce morza
+brief = Owoce morza
+detail = Koszt-500 złota ~ Technologia Owoce morza zwiększa o 25% limit ludności.
+
+[T_A_JEWELRY]
+rollover = Dowiedz się więcej o technologii - Jubilerstwo
+brief = Jubilerstwo
+detail = Koszt-400 złota ~ Technologia Jubilerstwo pozwala handlować magicznymi przedmiotami na targach.
+
+[T_A_CHEMISTRY]
+rollover = Dowiedz się więcej o technologii - Chemia
+brief = Chemia
+detail = Koszt-500 złota ~ Technologia Chemia zwiększa o 2 punkty atak płonących strzał.
+
+[T_A_GUNPOWDER]
+rollover = Dowiedz się więcej o technologii - Proch strzelniczy
+brief = Proch strzelniczy
+detail = Koszt-500 złota ~ Technologia Proch strzelniczy zwiększa o 10% atak wież armatnich.
+
+[T_A_ROCKET_ARROW]
+rollover = Dowiedz się więcej o technologii - Strzała rakietowa
+brief = Strzała rakietowa
+detail = Koszt-800 złota ~ Technologia Strzała rakietowa udostępnia wieże rakietowe.
+
+[T_A_CONCENTRATION]
+rollover = Dowiedz się więcej o technologii Koncentracja
+brief = Koncentracja
+detail = Koszt-400 złota ~ Technologia Koncentracja przyspiesza odnawianie many wszystkich jednostek używających many.
+
+[T_A_CONFUSION]
+rollover = Dowiedz się więcej o technologii Zamęt
+brief = Zamęt
+detail = Koszt-400 złota ~ Technologia Zamęt pozwala czarodziejom używać czaru Zamęt.
+
+[T_A_WHIRLPOOL]
+rollover = Dowiedz się więcej o technologii Wir
+brief = Wir
+detail = Koszt-300 złota ~ Technologia Wir pozwala czarodziejom używać czaru Wir.
+
+[T_A_FLAMEBOLT]
+rollover = Dowiedz się więcej o technologii Płomienny pocisk
+brief = Płomienny pocisk
+detail = Koszt-400 złota ~ Technologia Płomienny pocisk pozwala czarodziejom używać czaru Płomienny pocisk.
+
+[T_A_DRAGON]
+rollover = Dowiedz się więcej o technologii Smok
+brief = Smok
+detail = Koszt-800 złota ~ Technologia Smok pozwala czarodziejom przywoływać smoki.
+
+[T_A_TURN_TO_STONE]
+rollover = Dowiedz się więcej o technologii Zamiana w kamień
+brief = Zamiana w kamień
+detail = Koszt-300 złota ~ Technologia Zamiana w kamień pozwala czarodziejom używać czaru Zamiana w kamień.
+
+[T_R_FEUDALISM]
+rollover = Dowiedz się więcej o technologii - Feudalizm
+brief = Feudalizm
+detail = Koszt-300 złota ~ Feudalizm obniża o 20% koszt szkolenia chłopów. Warto zbadać tę technologię na początku gry, gdy do budowy gospodarki potrzeba wielu chłopów.
+
+[T_R_SLAVERY]
+rollover = Dowiedz się więcej o technologii - Niewolnictwo
+brief = Niewolnictwo
+detail = Koszt-200 złota ~ Niewolnictwo obniża o 20% koszt szkolenia chłopów. Warto zbadać tę technologię na początku gry, gdy do budowy gospodarki potrzeba wielu chłopów.
+
+[T_R_ARCHITECTURE]
+rollover = Dowiedz się więcej o technologii - Architektura
+brief = Architektura
+detail = Koszt-300 złota ~ Architektura przyspiesza o 20% budowę każdego budynku.
+
+[T_R_LEARNING]
+rollover = Dowiedz się więcej o technologii - Nauka
+brief = Nauka
+detail = Koszt-400 złota ~ Nauka pozwala jednostkom zdobyć do 4 poziomów doświadczenia.
+
+[T_R_ROTATING_FIELDS]
+rollover = Dowiedz się więcej o technologii - Płodozmian
+brief = Płodozmian
+detail = Koszt-400 złota ~ Technologia Płodozmian pozwala chłopom zbierać po zasiewie dwa razy więcej żywności.
+
+[T_R_DOMESTICATION]
+rollover = Dowiedz się więcej o technologii - Hodowla
+brief = Hodowla
+detail = Koszt-300 złota ~ Technologia Hodowla pozwala hodować bydło w gospodarstwach.
+
+[T_R_COW_POACHING]
+rollover = Dowiedz się więcej o technologii - Kradzież bydła
+brief = Kradzież bydła
+detail = Koszt-200 złota ~ Technologia Kradzież bydła pozwala chłopom kraść krowy.
+
+[T_R_ART_OF_RIDING]
+rollover = Dowiedz się więcej o technologii Sztuka jazdy konnej
+brief = Sztuka jazdy konnej
+detail = Koszt-400 złota ~ Technologia Sztuka jazdy konnej udostępnia łuczników konnych w koszarach.
+
+[T_R_HORSEMANSHIP]
+rollover = Dowiedz się więcej o technologii Jeździectwo
+brief = Jeździectwo
+detail = Koszt-400 złota ~ Technologia Jeździectwo obniża koszt wszystkich jednostek konnych.
+
+[T_R_TEMPER_IRON]
+rollover = Dowiedz się więcej o technologii - Hartowanie żelaza
+brief = Hartowanie żelaza
+detail = Koszt-400 złota ~ Technologia Hartowanie żelaza zwiększa o 1 punkt siłę ataku mieczem jednostek wojskowych.
+
+[T_R_HALBERD]
+rollover = Dowiedz się więcej o technologii - Halabarda
+brief = Halabarda
+detail = Koszt-600 złota ~ Technologia Halabarda pozwala szkolić jednostki z włócznią.
+
+[T_R_SCALE_ARMOR]
+rollover = Dowiedz się więcej o technologii - Zbroja łuskowa
+brief = Zbroja łuskowa
+detail = Koszt-400 złota ~ Technologia Zbroja łuskowa zwiększa o 1 punkt obronę wszystkich jednostek piechoty.
+
+[T_R_CHAIN_MAIL]
+rollover = Dowiedz się więcej o technologii - Kolczuga
+brief = Kolczuga
+detail = Koszt-400 złota ~ Technologia Kolczuga zwiększa o 2 punkty obronę wszystkich jednostek piechoty.
+
+[T_R_SCIMITAR]
+rollover = Dowiedz się więcej o technologii Bułat
+brief = Bułat
+detail = Koszt-400 złota ~ Technologia Bułat zwiększa o 1 punkt siłę ataku mieczem wszystkich jednostek i pozwala szkolić satrapów w koszarach.
+
+[T_R_SAW]
+rollover = Dowiedz się więcej o technologii - Piła
+brief = Piła
+detail = Koszt-400 złota ~ Technologia Piła pozwala drwalom nosić do tartaków o 2 punkty drewna więcej.
+
+[T_R_CROSSBOW]
+rollover = Dowiedz się więcej o technologii - Kusza
+brief = Kusza
+detail = Koszt-400 złota ~ Technologia Kusza zwiększa o 1 punkt siłę ataku każdej strzały.
+
+[T_R_GOLD_MINING]
+rollover = Dowiedz się więcej o technologii - Wydobycie złota
+brief = Wydobycie złota
+detail = Koszt-400 złota ~ Technologia Wydobycie złota pozwala górnikom wynosić z kopalń po 12 złota.
+
+[T_R_STONE_MINING]
+rollover = Dowiedz się więcej o technologii - Wydobycie kamienia
+brief = Wydobycie kamienia
+detail = Koszt-400 złota ~ Technologia Wydobycie kamienia pozwala górnikom wynosić z kamieniołomów po 12 kamienia.
+
+[T_R_ENGINEERING]
+rollover = Dowiedz się więcej o technologii - Inżynieria
+brief = Inżynieria
+detail = Koszt-400 złota ~ Technologia Inżynieria zwiększa o 5 punktów siłę ataku machin oblężniczych.
+
+[T_R_CANNON_TOWER]
+rollover = Dowiedz się więcej o technologii - Wieże armatnie
+brief = Wieże armatnie
+detail = Koszt-400 złota ~ Technologia Wieża armatnia pozwala ulepszać kamienne wieże do wież armatnich.
+
+[T_R_HEROISM]
+rollover = Dowiedz się więcej o technologii - Bohaterstwo
+brief = Bohaterstwo
+detail = Koszt-500 złota ~ Technologia Bohaterstwo pozwala jednostkom zdobywać nieograniczone doświadczenie, dzięki czemu gracz może uczynić niektóre z nich bohaterami.
+
+[T_R_LEADERSHIP]
+rollover = Dowiedz się więcej o technologii - Przywództwo
+brief = Przywództwo
+detail = Koszt-500 złota ~ Technologia Przywództwo pozwala jednostkom wokół bohatera zdobywać doświadczenie.
+
+[T_R_HONOR]
+rollover = Dowiedz się więcej o technologii - Honor
+brief = Honor
+detail = Koszt-500 złota ~ Technologia Honor zwiększa o 50% siłę ataku bohaterów w walce z innymi bohaterami.
+
+[T_R_WARFARE]
+rollover = Dowiedz się więcej o technologii - Sztuka wojenna
+brief = Sztuka wojenna
+detail = Koszt-400 złota ~ Technologia Sztuka wojenna przyspiesza naukę wszystkich jednostek.
+
+[T_R_MERCENARIES]
+rollover = Dowiedz się więcej o technologii - Najemnicy
+brief = Najemnicy
+detail = Koszt-600 złota ~ Technologia Najemnicy pozwala werbować najemników w karczmach.
+
+[T_R_HEROES_QUEST]
+rollover = Dowiedz się więcej o technologii - Wyprawa bohaterów
+brief = Wyprawa bohaterów
+detail = Koszt-800 złota ~ Technologia Wyprawa bohaterów pozwala werbować bohaterów w karczmach.
+
+[T_R_FAME]
+rollover = Dowiedz się więcej o technologii - Sława
+brief = Sława
+detail = Koszt-500 złota ~ Technologia Sława pozwala werbować w karczmach lepszych, tańszych i bardziej doświadczonych najemników.
+
+[T_R_BODY_BUILDING]
+rollover = Dowiedz się więcej o technologii - Kulturystyka
+brief = Kulturystyka
+detail = Koszt-1200 złota ~ Technologia Kulturystyka zwiększa o 5 punkty życia jednostek na każdym nowym poziomie.
+
+[T_R_RIDING_HORDES]
+rollover = Dowiedz się więcej o technologii Konne hordy
+brief = Konne hordy
+detail = Koszt-500 złota ~ Technologia Konne hordy zwiększa o 2 punkty atak jednostek konnych i o 1 punkt ich obronę.
+
+[T_R_JANISSARY]
+rollover = Dowiedz się więcej o technologii Janczar
+brief = Janczar
+detail = Koszt-1200 złota ~ Technologia Janczar udostępnia janczarów w koszarach.
+
+[T_R_LANDING_TACTICS]
+rollover = Dowiedz się więcej o technologii - Taktyka desantu
+brief = Taktyka desantu
+detail = Koszt-300 złota ~ Technologia Taktyka desantu pozwala statkom przewozić o 50% więcej jednostek.
+
+[T_R_FANATICISM]
+rollover = Dowiedz się więcej o technologii - Fanatyzm
+brief = Fanatyzm
+detail = Koszt-400 złota ~ Technologia Fanatyzm zwiększa o 50% wytrzymałość budynków.
+
+[T_R_JIHAD]
+rollover = Dowiedz się więcej o technologii Dżihad
+brief = Dżihad
+detail = Koszt-1200 złota ~ Technologia Dżihad pozwala zamieniać chłopów w wojowników dżihadu i szkolić wojowników dżihadu w koszarach.
+
+[T_R_ESPIONAGE]
+rollover = Dowiedz się więcej o technologii - Szpiegostwo
+brief = Szpiegostwo
+detail = Koszt-400 złota ~ Technologia Szpiegostwo pozwala szkolić szpiegów w zamku.
+
+[T_R_BLESS]
+rollover = Dowiedz się więcej o technologii - Błogosławieństwo
+brief = Błogosławieństwo
+detail = Koszt-400 złota ~ Technologia Błogosławieństwo zwiększa o 8 punktów atak jednostek. Pozwala kapłanom błogosławić jednostki.
+
+[T_R_HEALING]
+rollover = Dowiedz się więcej o technologii - Uzdrawianie
+brief = Uzdrawianie
+detail = Koszt-400 złota ~ Technologia Uzdrawianie udostępnia czar leczenia i pozwala kapłanom leczyć jednostki.
+
+[T_R_TRADE_ROUTES]
+rollover = Dowiedz się więcej o technologii - Szlaki handlowe
+brief = Szlaki handlowe
+detail = Koszt-400 złota ~ Technologia Szlaki handlowe pozwala handlować karawanami i statkami.
+
+[T_R_USURY]
+rollover = Dowiedz się więcej o technologii - Lichwa
+brief = Lichwa
+detail = Koszt-300 złota ~ Technologia Lichwa pozwala graczowi brać pożyczki w karczmach.
+
+[T_R_GAMBLING]
+rollover = Dowiedz się więcej o technologii - Hazard
+brief = Hazard
+detail = Koszt-500 złota ~ Technologia Hazard pozwala graczowi grać o stawkę w karczmach.
+
+[T_R_SUPPLY_STORAGE]
+rollover = Dowiedz się więcej o technologii - Zapasy zaopatrzenia
+brief = Zapasy zaopatrzenia
+detail = Koszt-500 złota ~ Technologia Zapasy zaopatrzenia zwiększa o 50% limit ludności.
+
+[T_R_BRIBERY]
+rollover = Dowiedz się więcej o technologii - Przekupstwo
+brief = Przekupstwo
+detail = Koszt-300 złota ~ Technologia Przekupstwo pozwala chłopom przekupywać wrogie jednostki.
+
+[T_R_ORE_FLOTATION]
+rollover = Dowiedz się więcej o technologii - Flotacja rudy
+brief = Flotacja rudy
+detail = Koszt-300 złota ~ Technologia Flotacja rudy zwiększa o 100% wydajność kopalń złota.
+
+[T_R_MAGIC_CARPET]
+rollover = Dowiedz się więcej o technologii Latający dywan
+brief = Latający dywan
+detail = Koszt-300 złota ~ Technologia Latający dywan pozwala czarodziejom przywoływać latające dywany.
+
+[T_R_JINN]
+rollover = Dowiedz się więcej o technologii Dżin
+brief = Dżin
+detail = Koszt-600 złota ~ Technologia Dżin pozwala czarodziejom przywoływać dżiny.
+
+[T_R_NECROMANCY]
+rollover = Dowiedz się więcej o technologii Nekromancja
+brief = Nekromancja
+detail = Koszt-400 złota ~ Technologia Nekromancja pozwala czarodziejom używać czaru Nekromancja i wskrzeszać martwe jednostki.
+
+[T_R_MAGIC_VISION]
+rollover = Dowiedz się więcej o technologii Magiczne widzenie
+brief = Magiczne widzenie
+detail = Koszt-400 złota ~ Technologia Magiczne widzenie pozwala czarodziejom używać czaru Magiczne widzenie i szybciej badać mapę.
+
+[T_R_RAIN_OF_FIRE]
+rollover = Dowiedz się więcej o technologii Deszcz ognia
+brief = Deszcz ognia
+detail = Koszt-800 złota ~ Technologia Deszcz ognia pozwala czarodziejom używać czaru Deszcz ognia.
+
+[T_R_WITCHCRAFTS]
+rollover = Dowiedz się więcej o technologii Czarnoksięstwo
+brief = Czarnoksięstwo
+detail = Koszt-800 złota ~ Technologia Czarnoksięstwo pozwala budować warsztaty magiczne i wytwarzać magiczne przedmioty.
+
+[I_WEAPON]
+rollover = Dowiedz się więcej o broni
+brief = Broń
+detail = Broń zwiększa atak swojego posiadacza. Niektóre jednostki mają wartość ataku. Gdy jednostka ma broń w ekwipunku, jej atak jest sumą punktów ataku jednostki i przedmiotu. Po upuszczeniu przedmiotu punkty ataku jednostki wracają do poprzedniej wartości.
+
+[I_ARMOR]
+rollover = Dowiedz się więcej o zbrojach
+brief = Zbroja
+detail = Zbroje zwiększają obronę swojego posiadacza. Wszystkie jednostki mają wartość obrony. Gdy jednostka ma zbroję w ekwipunku, jej obrona jest sumą punktów obrony jednostki i przedmiotu. Po upuszczeniu przedmiotu punkty obrony jednostki wracają do poprzedniej wartości.
+
+[I_SPELLBOOK]
+rollover = Dowiedz się więcej o księgach czarów
+brief = Księga czarów
+detail = Księgi czarów dają swojemu posiadaczowi zdolność rzucania czarów.
+
+[I_SCROLL]
+rollover = Dowiedz się więcej o zwojach
+brief = Zwój
+detail = Zwoje zawierają teksty używane w opowieściach. Ich treść można przeczytać, podnosząc zwój i wybierając go w ekwipunku jednostki.
+
+[I_POTION]
+rollover = Dowiedz się więcej o miksturach
+brief = Mikstura
+detail = Mikstury zwiększają zdrowie swojego posiadacza. Wszystkie jednostki mają wartość zdrowia. Gdy jednostka użyje mikstury, jej zdrowie rośnie o tyle, ile zawiera przedmiot.
+
+[I_RESOURCE]
+rollover = Dowiedz się więcej o surowcach do zebrania
+brief = Surowiec do zebrania
+detail = Surowce do zebrania to niewielkie ilości surowców rozrzucone po mapie. Jednostki mogą je podnosić i składować w skarbcu. Ilość widać w widoku zaznaczenia, gdy przedmiot zostanie zaznaczony.
+
+[C_MOVE]
+rollover = Dowiedz się, jak używać polecenia Ruch
+brief = Ruch
+detail = Aby przesunąć jednostkę, zaznacz ją i kliknij przycisk Ruch albo po prostu kliknij prawym przyciskiem wybrane miejsce. ~ Aby iść wyznaczoną trasą, przytrzymaj Shift i wskaż kolejne cele prawym przyciskiem myszy. ~ Natarcie: aby iść naprzód, szukając wrogów, przytrzymaj Ctrl, klikając prawym przyciskiem cel. ~ Skradanie: jeśli chcesz, by jednostki odpowiadały tylko na atak, przytrzymaj Alt, wskazując miejsce.
+
+[C_REPAIR]
+rollover = Dowiedz się, jak naprawić budynek
+brief = Naprawa
+detail = Zaznacz chłopa, kliknij przycisk Napraw na pasku rozkazów, a potem kliknij prawym przyciskiem budynek do naprawy.
+
+[C_HARVEST]
+rollover = Dowiedz się, jak używać polecenia Zbieraj
+brief = Zbieraj
+detail = Zaznacz chłopa, kliknij przycisk rozkazu Zbieraj i wskaż surowiec do zebrania.
+
+[C_EXPLORE]
+rollover = Dowiedz się, jak badać teren
+brief = Badaj teren
+detail = Zaznacz jednostkę, kliknij przycisk rozkazu Badaj teren i wskaż obszar do zbadania.
+
+[C_ATTACK]
+rollover = Dowiedz się, jak atakować wrogie jednostki
+brief = Atak
+detail = Zaznacz jednostkę, kliknij przycisk rozkazu Atakuj albo po prostu wskaż wrogą jednostkę lub obiekt prawym przyciskiem. ~ Możesz zaznaczyć kilka różnych obiektów, przytrzymując Shift i klikając je kolejno prawym przyciskiem. ~ Jeśli przytrzymasz Alt, wybierając cel ataku, zostaną zaznaczone i zaatakowane wszystkie obiekty tego samego rodzaju.
+
+[C_STOP]
+rollover = Dowiedz się, jak zatrzymać jednostki
+brief = Stój
+detail = Zaznacz jednostkę i kliknij przycisk rozkazu Stój na pasku rozkazów.
+
+[C_PICKITEM]
+rollover = Dowiedz się, jak podnieść przedmiot
+brief = Podnieś przedmiot
+detail = Zaznacz jednostkę, kliknij przycisk rozkazu Podnieś przedmiot albo po prostu najedź kursorem na przedmiot i wybierz go prawym przyciskiem myszy.
+
+[C_USEITEM]
+rollover = Dowiedz się, jak użyć przedmiotu
+brief = Użyj przedmiotu
+detail = Zaznacz jednostkę z przedmiotami. Otwórz jej ekwipunek, wybierz przedmiot i wskaż cel.
+
+[C_DROPITEM]
+rollover = Dowiedz się, jak upuścić przedmiot
+brief = Upuść przedmiot
+detail = Zaznacz jednostkę z przedmiotami. Otwórz jej ekwipunek i wybierz przedmiot do upuszczenia, przytrzymując Alt. Kliknij przycisk rozkazu Użyj przedmiotu i wskaż wybrane miejsce.
+
+[C_CAPTURE]
+rollover = Dowiedz się, jak przejąć wrogi budynek
+brief = Przejmij
+detail = Zaznacz chłopa, kliknij przycisk rozkazu Przejmij albo po prostu kliknij prawym przyciskiem wrogi budynek.
+
+[C_BUILD]
+rollover = Dowiedz się, jak budować
+brief = Buduj
+detail = Zaznacz chłopa, kliknij przycisk rozkazu Buduj i wybierz budynek odpowiednim przyciskiem. Potem wskaż wybrane miejsce. Obraz budynku jest zielony, gdy miejsce się nadaje.
+
+[C_PATROL]
+rollover = Dowiedz się, jak kazać jednostkom patrolować teren
+brief = Patroluj
+detail = Zaznacz jednostkę, kliknij przycisk rozkazu Patroluj i kliknij prawym przyciskiem cel. Jednostka patroluje między poprzednią pozycją a wskazanymi celami. ~ Aby wyznaczyć trasę patrolu, przytrzymaj Shift, ustawiając punkty docelowe.
+
+[C_GUARD]
+rollover = Dowiedz się, jak pilnować obiektu
+brief = Pilnuj
+detail = Zaznacz jednostkę, kliknij przycisk rozkazu Pilnuj i wybierz obiekt do pilnowania. ~ Możesz wybrać kilka obiektów do pilnowania, przytrzymując Shift i klikając je kolejno prawym przyciskiem. ~ Jeśli przytrzymasz Alt, wybierając obiekt do pilnowania, zostaną zaznaczone i będą pilnowane wszystkie obiekty tego samego rodzaju.
+
+[C_LOAD]
+rollover = Dowiedz się, jak ładować jednostki
+brief = Ładuj
+detail = Zaznacz jednostki do załadowania i kliknij prawym przyciskiem jednostkę, która ma je zabrać.
+
+[C_UNLOAD]
+rollover = Dowiedz się, jak wyładować jednostki
+brief = Wyładuj
+detail = Zaznacz załadowaną jednostkę i wskaż miejsce, w którym chcesz wyładować obiekty. Kolor kursora pokazuje, czy miejsce się nadaje.
+
+[C_EMERGE]
+rollover = Dowiedz się więcej o budynku - Zamek
+brief = Wypuść
+detail = Zaznacz budynek z jednostkami w środku. Otwórz jego zawartość i wybierz jednostkę, która ma wyjść. Aby wypuścić wszystkie jednostki, zaznacz budynek i kliknij przycisk rozkazu Wypuść.
+
+[C_LIGHTNING]
+rollover = Dowiedz się, jak używać czaru Błyskawica
+brief = Czar Błyskawica
+detail = Tylko europejscy czarodzieje mogą rzucać czar Błyskawica. Wybierz przycisk rozkazu Błyskawica, a potem wskaż jednostkę, którą chcesz zaatakować.
+
+[C_SPAWNBAT]
+rollover = Dowiedz się, jak przywoływać nietoperze
+brief = Przywołaj nietoperza
+detail = Tylko europejscy czarodzieje mogą przywoływać nietoperze. Wybierz przycisk rozkazu Nietoperz, a potem wskaż miejsce, w którym mają się pojawić.
+
+[C_FREEZE]
+rollover = Dowiedz się, jak używać czaru Zamrożenie
+brief = Czar Zamrożenie
+detail = Tylko europejscy czarodzieje mogą rzucać czar Zamrożenie. Wybierz przycisk rozkazu Zamrożenie, a potem wskaż jednostkę, którą chcesz zaatakować.
+
+[C_SPAWNSTONEGOLEM]
+rollover = Dowiedz się, jak przywołać kamiennego golema
+brief = Przywołaj kamienne golemy
+detail = Tylko europejscy czarodzieje mogą przywoływać kamienne golemy. Wybierz przycisk rozkazu Kamienny golem, a potem wskaż miejsce, w którym mają się pojawić.
+
+[C_INVISIBILITY]
+rollover = Dowiedz się, jak używać czaru Niewidzialność
+brief = Niewidzialność
+detail = Tylko europejscy czarodzieje mogą używać czaru Niewidzialność. Wybierz przycisk rozkazu Niewidzialność, a potem wskaż jednostkę, która ma stać się niewidzialna.
+
+[C_TRADE]
+rollover = Dowiedz się, jak handlować
+brief = Handel
+detail = Handel pozwala wymieniać żywność, drewno, złoto, żelazo i kamień z innymi królestwami albo między własnymi targami. Handel prowadzą kupcy i statki. Zaznacz kupca lub statek. Kliknij przycisk rozkazu Handluj na pasku rozkazów. Kliknij wskazanie miejsca w menu handlu – kursor się zmieni. Wybierz targ lub port, z którego chcesz wyruszyć. Wybierz rodzaj surowców, które chcesz stamtąd zabrać. Wybierz cel i rodzaj surowców, które chcesz przywieźć z powrotem. Wybierz ilość, którą chcesz wymienić. Kliknij Rozpocznij, by zacząć handel, i Anuluj, by z niego zrezygnować.
+
+[C_HEAL]
+rollover = Dowiedz się, jak używać polecenia Lecz
+brief = Lecz jednostki
+detail = Wybierz przycisk rozkazu Lecz, a potem wskaż jednostki do wyleczenia. Polecenie Lecz przywraca jednostce zdrowie.
+
+[C_BLESS]
+rollover = Dowiedz się, jak używać polecenia Błogosław
+brief = Błogosław jednostki
+detail = Wybierz przycisk rozkazu Błogosław, a potem wskaż jednostki do pobłogosławienia. To polecenie zwiększa siłę ataku jednostek.
+
+[C_IMPERSONATE]
+rollover = Dowiedz się, jak używać polecenia Podszyj się
+brief = Podszyj się
+detail = Zaznacz szpiega i kliknij przycisk rozkazu Podszyj się, a potem wybierz jednostkę, pod którą ma się podszyć.
+
+[C_REVEAL]
+rollover = Dowiedz się, jak używać polecenia Ujawnij
+brief = Ujawnij
+detail = Zaznacz przebraną jednostkę i kliknij przycisk rozkazu Ujawnij.
+
+[C_BRIBE]
+rollover = Dowiedz się, jak przekupywać jednostki
+brief = Przekup
+detail = Zaznacz chłopa. Kliknij przycisk rozkazu Przekup, a potem wskaż wrogą jednostkę, którą chcesz przekupić. Ta jednostka stanie się twoja.
+
+[C_ATTACKGROUND]
+rollover = Dowiedz się, jak używać polecenia Atakuj teren
+brief = Atakuj teren
+detail = Zaznacz jednostkę, kliknij przycisk rozkazu Atakuj teren i wskaż miejsce, które chcesz atakować. Jednostka będzie atakować to miejsce, nawet jeśli nie ma tam żadnego obiektu, dopóki jej nie zatrzymasz.
+
+[C_STANDGROUND]
+rollover = Dowiedz się, jak używać polecenia Nie ruszaj się
+brief = Nie ruszaj się
+detail = Zaznacz jednostkę, kliknij przycisk rozkazu Nie ruszaj się i wskaż miejsce, w którym ma stanąć. Pozostanie tam, dopóki nie zdecydujesz inaczej.
+
+[C_HOLDSTEADY]
+rollover = Dowiedz się, jak używać polecenia Trzymaj pozycję
+brief = Trzymaj pozycję
+detail = Zaznacz jednostkę i kliknij przycisk rozkazu Nie ruszaj się – jej działania natychmiast ustaną.
+
+[C_FISHING]
+rollover = Dowiedz się, jak używać polecenia Zacznij łowić ryby
+brief = Zacznij łowić ryby
+detail = Zaznacz łódź rybacką, kliknij przycisk rozkazu Zacznij łowić ryby i wybierz łowisko.
+
+[C_LOANRETURN]
+rollover = Dowiedz się, jak spłacić pożyczkę
+brief = Spłać pożyczkę
+detail = Aby spłacić pożyczkę, kliknij przycisk Spłać pożyczkę na pasku rozkazów karczmy.
+
+[C_LOAN]
+rollover = Dowiedz się, jak brać pożyczki
+brief = Weź pożyczkę
+detail = Zaznacz karczmę, a potem kliknij przycisk rozkazu Weź pożyczkę. Wybierz rodzaj surowca, który chcesz pożyczyć – złoto, kamień, żywność lub drewno. ~ Ilość, którą możesz otrzymać z wybranego surowca, widać w lewym dolnym rogu widoku.
+
+[C_JIHAD]
+rollover = Dowiedz się, jak używać polecenia Dżihad
+brief = Dżihad
+detail = Służy do zamiany chłopów w wojowników dżihadu. Zaznacz chłopa, a potem kliknij przycisk rozkazu Dżihad.
+
+[C_CLOAK]
+rollover = Dowiedz się, jak ukryć ninja
+brief = Ukryj się
+detail = Zaznacz ninja, a potem kliknij przycisk rozkazu Ukryj się. Jednostka będzie niewidzialna przez pewien czas.
+
+[C_UNCLOAK]
+rollover = Dowiedz się, jak odkryć ninja
+brief = Odkryj się
+detail = Zaznacz ukrytego ninja, a potem kliknij przycisk rozkazu Odkryj się, by go ujawnić.
+
+[C_MURDER]
+rollover = Dowiedz się, jak zamordować wrogą jednostkę
+brief = Zamorduj
+detail = Zaznacz ninja, a potem kliknij przycisk rozkazu Zamorduj i wybierz jednostkę do zamordowania.
+
+[C_GATEOPEN]
+rollover = Dowiedz się, jak otworzyć bramę
+brief = Otwórz bramę
+detail = Zaznacz bramę i kliknij przycisk rozkazu Otwórz bramę.
+
+[C_GATECLOSE]
+rollover = Dowiedz się, jak zamknąć bramę
+brief = Zamknij bramę
+detail = Zaznacz bramę i kliknij przycisk rozkazu Zamknij bramę.
+
+[C_GATESUBAION]
+rollover = Dowiedz się, jak włączyć samoczynne otwieranie i zamykanie bramy
+brief = SI bramy włączona
+detail = Zaznacz bramę i kliknij przycisk rozkazu SI bramy włączona. SI sama otwiera i zamyka bramę, gdy stoją przed nią jednostki.
+
+[C_GATESUBAIOFF]
+rollover = Dowiedz się, jak wyłączyć samoczynne otwieranie i zamykanie bramy
+brief = SI bramy wyłączona
+detail = Zaznacz bramę i kliknij przycisk rozkazu SI bramy wyłączona, by wyłączyć pomoc SI.
+
+[C_COMMON]
+rollover = Dowiedz się, jak budować zwykłe budynki
+brief = Zwykłe budynki
+detail = Zaznacz chłopa, kliknij przycisk rozkazu Buduj, a potem przycisk Zwykłe budynki.
+
+[C_RARE]
+rollover = Dowiedz się, jak budować rzadkie budynki
+brief = Rzadkie budynki
+detail = Zaznacz chłopa, kliknij przycisk rozkazu Buduj, a potem przycisk Rzadkie budynki.
+
+[C_SPECIAL]
+rollover = Dowiedz się, jak budować specjalne budynki
+brief = Specjalne budynki
+detail = Zaznacz chłopa, kliknij przycisk rozkazu Buduj, a potem przycisk Specjalne budynki.
+
+[C_SETAI]
+rollover = Dowiedz się, jak oddać jednostki pod kontrolę SI
+brief = SI
+detail = Nie zaznaczaj żadnej jednostki. Kliknij przycisk rozkazu SI. Pojawią się cztery rodzaje pomocy SI – pełna SI, bez SI, SI wojenna, SI gospodarcza. Wybierz tę, której chcesz używać.
+
+[C_SETAINONE]
+rollover = Dowiedz się, jak odebrać jednostki spod kontroli SI
+brief = Bez SI
+detail = Kliknij przycisk rozkazu Bez SI.
+
+[C_SETAIFULL]
+rollover = Dowiedz się, jak oddać jednostki pod pełną kontrolę SI
+brief = Pełna SI
+detail = Kliknij przycisk rozkazu Pełna SI.
+
+[C_SETAIWAR]
+rollover = Dowiedz się, jak włączyć wojenną SI
+brief = SI wojenna
+detail = Kliknij przycisk rozkazu SI wojenna.
+
+[C_SETAIECO]
+rollover = Dowiedz się, jak włączyć gospodarczą SI
+brief = SI gospodarcza
+detail = Kliknij przycisk rozkazu SI gospodarcza.
+
+[C_VIEWHEROES]
+rollover = Dowiedz się, jak pokazać bohaterów na mapie
+brief = Pokaż bohaterów
+detail = Przycisk rozkazu Pokaż bohaterów jest dostępny tylko wtedy, gdy któryś z twoich bohaterów jest na mapie. Nie zaznaczaj żadnej jednostki. Kliknij przycisk Pokaż bohaterów, jeśli jest podświetlony – zobaczysz ikony wszystkich swoich bohaterów. Teraz możesz wybrać, którego zaznaczyć.
+
+[C_VIEWSPYS]
+rollover = Dowiedz się, jak pokazać szpiegów na mapie
+brief = Pokaż szpiegów
+detail = Przycisk rozkazu Pokaż szpiegów jest dostępny tylko wtedy, gdy któryś z twoich szpiegów jest na mapie. Nie zaznaczaj żadnej jednostki. Kliknij przycisk Pokaż szpiegów, jeśli jest podświetlony – zobaczysz ikony wszystkich swoich szpiegów. Teraz możesz wybrać, którego zaznaczyć.
+
+[C_VIEWITEMS]
+rollover = Dowiedz się, jak pokazać przedmioty na mapie
+brief = Pokaż przedmioty
+detail = Przycisk rozkazu Pokaż przedmioty jest dostępny tylko wtedy, gdy któryś z twoich przedmiotów jest na mapie. Nie zaznaczaj żadnej jednostki. Kliknij przycisk Pokaż przedmioty, jeśli jest podświetlony – zobaczysz ikony wszystkich swoich przedmiotów. Teraz możesz wybrać, który zaznaczyć.
+
+[C_TOWERUP1]
+rollover = Dowiedz się, jak ulepszyć strażnicę do wieży strażniczej
+brief = Ulepsz do wieży strażniczej
+detail = Zaznacz strażnicę, a potem kliknij przycisk rozkazu Ulepsz do wieży strażniczej.
+
+[C_TOWERUP2]
+rollover = Dowiedz się, jak ulepszyć wieżę strażniczą do kamiennej wieży
+brief = Ulepsz do kamiennej wieży
+detail = Zaznacz wieżę strażniczą, a potem kliknij przycisk rozkazu Ulepsz do kamiennej wieży.
+
+[C_TOWERUP3]
+rollover = Dowiedz się, jak ulepszyć wieżę strażniczą lub kamienną do wieży armatniej
+brief = Ulepsz do wieży armatniej
+detail = Zaznacz wieżę strażniczą lub kamienną, a potem kliknij przycisk rozkazu Ulepsz do wieży armatniej.
+
+[C_TOSWALL]
+rollover = Dowiedz się, jak ulepszyć palisadę do kamiennego muru
+brief = Ulepsz do kamiennego muru
+detail = Zaznacz palisadę, a potem kliknij przycisk rozkazu Ulepsz do kamiennego muru. ~ To polecenie jest dostępne tylko po zbadaniu technologii Architektura.
+
+[C_TOSGATE]
+rollover = Dowiedz się, jak ulepszyć drewnianą bramę do kamiennej
+brief = Ulepsz do kamiennej bramy
+detail = Zaznacz drewnianą bramę, a potem kliknij przycisk rozkazu Ulepsz do kamiennej bramy. ~ To polecenie jest dostępne tylko po zbadaniu technologii Architektura.
+
+[C_RISEDEAD]
+rollover = Dowiedz się, jak używać czaru Wskrzeszenie zmarłych
+brief = Czar Wskrzeszenie zmarłych
+detail = Zaznacz arabskiego czarodzieja, a potem kliknij przycisk rozkazu Wskrzeszenie zmarłych. Jeśli w pobliżu leżą martwe jednostki, zamienią się w szkielety.
+
+[C_SPAWNDRAGON]
+rollover = Dowiedz się, jak przywoływać smoki
+brief = Przywołaj smoki
+detail = Tylko azjatyccy czarodzieje mogą przywoływać smoki. Wybierz przycisk rozkazu Przywołaj smoka, a potem wskaż miejsce, w którym mają się pojawić smoki.
+
+[C_FLAMEBOLT]
+rollover = Dowiedz się, jak używać czaru Płomienny pocisk
+brief = Czar Płomienny pocisk
+detail = Tylko azjatyccy czarodzieje mogą używać czaru Płomienny pocisk. Kliknij przycisk rozkazu Płomienny pocisk i wybierz jednostkę do zaatakowania.
+
+[C_WHIRLPOOL]
+rollover = Dowiedz się, jak używać czaru Wir
+brief = Czar Wir
+detail = Tylko azjatyccy czarodzieje mogą używać czaru Wir. Kliknij przycisk rozkazu Wir i wybierz miejsce na wodzie, gdzie rzucić czar.
+
+[C_TURNTOSTONE]
+rollover = Dowiedz się, jak używać czaru Zamiana w kamień
+brief = Czar Zamiana w kamień
+detail = Tylko azjatyccy czarodzieje mogą używać czaru Zamiana w kamień. Kliknij przycisk rozkazu Zamiana w kamień i wybierz jednostkę, na którą rzucić czar.
+
+[C_FIRERAIN]
+rollover = Dowiedz się, jak używać czaru Deszcz ognia
+brief = Czar Deszcz ognia
+detail = Tylko arabscy czarodzieje mogą używać czaru Deszcz ognia. Kliknij przycisk rozkazu Deszcz ognia i wybierz miejsce, gdzie rzucić czar.
+
+[C_SPAWNJINN]
+rollover = Dowiedz się, jak przywoływać dżiny
+brief = Przywołaj dżiny
+detail = Tylko arabscy czarodzieje mogą przywoływać dżiny. Kliknij przycisk rozkazu Dżin, a potem wskaż miejsce, w którym mają się pojawić dżiny.
+
+[C_MAGICVISION]
+rollover = Dowiedz się, jak używać czaru Magiczne widzenie
+brief = Czar Magiczne widzenie
+detail = Tylko arabscy czarodzieje mogą używać czaru Magiczne widzenie. Kliknij przycisk rozkazu Magiczne widzenie i wybierz miejsce lub jednostkę, na którą rzucić czar. Jeśli wybierzesz jednostkę, przez pewien czas będzie rozpraszać dla ciebie mgłę.
+
+[C_CONFUSION]
+rollover = Dowiedz się, jak używać czaru Zamęt
+brief = Czar Zamęt
+detail = Tylko azjatyccy czarodzieje mogą używać czaru Zamęt. Kliknij przycisk rozkazu Zamęt i wybierz jednostkę, na którą rzucić czar. ~ Jednostki dotknięte tym czarem stają się przez pewien czas wrogie wszystkim innym jednostkom.
+
+[C_BUILDITEM]
+rollover = Dowiedz się, jak wytworzyć przedmiot
+brief = Wytwórz przedmiot
+detail = Warsztat magiczny to miejsce, w którym wytwarza się przedmioty. Kliknij przycisk rozkazu Wytwórz magiczny przedmiot. Pojawi się menu wytwarzania. Wybierz rodzaj przedmiotu. Wybierz ilość złota, jaką chcesz wydać. Kliknij Rozpocznij, by wytworzyć przedmiot, i Anuluj, by zrezygnować.
+
+[C_CONVERT]
+rollover = Dowiedz się, jak zamieniać surowce w karczmach
+brief = Zamień surowce
+detail = Zaznacz karczmę. Kliknij rozkaz Handluj na pasku rozkazów. Wybierz rodzaj surowców, które chcesz oddać. Wybierz ilość, jaką chcesz dać. Wybierz rodzaj surowców, które chcesz otrzymać. Proporcja wynosi 1/10 – dajesz dziesięć razy więcej, niż dostajesz. Kliknij Rozpocznij, by zacząć wymianę, i Anuluj, by zrezygnować.
+
+[C_PREACHCRUSADE]
+rollover = Dowiedz się, jak głosić krucjatę
+brief = Głoś krucjatę
+detail = Krucjatę można ogłosić tylko w europejskiej katedrze. Wybierz przycisk rozkazu Głoś krucjatę, a potem wskaż wybrany punkt zbiórki. To miejsce nie może być daleko od katedry. Naraz może trwać tylko jedna krucjata.
+
+[C_SHIPLEVEL2]
+rollover = Dowiedz się, jak ulepszać działa statków
+brief = Ulepsz działa statków
+detail = Zaznacz galeon, a potem kliknij przycisk rozkazu Ulepsz działa. Działa można ulepszać do szóstego poziomu.
+
+[C_HOLDFIRE]
+rollover = Dowiedz się, jak wstrzymać ogień
+brief = Wstrzymaj ogień
+detail = Zaznacz działo lub wieżę rakietową i kliknij przycisk rozkazu Wstrzymaj ogień. Wieża przestanie strzelać. Pojawi się przycisk rozkazu Ognia według uznania.
+
+[C_FIREATWILL]
+rollover = Dowiedz się, jak strzelać według uznania
+brief = Ognia według uznania
+detail = Zaznacz działo lub wieżę rakietową i kliknij przycisk rozkazu Ognia według uznania. Wieża zacznie strzelać dopiero na twój rozkaz. Pojawi się przycisk rozkazu Wstrzymaj ogień.
+
+[C_HIREMERCENARIES]
+rollover = Dowiedz się, jak najmować najemników
+brief = Najmij najemników
+detail = Najemników można najmować tylko w karczmach. Kliknij przycisk rozkazu Najmij najemników, a pojawi się lista jednostek wojskowych. Wybierz te, które chcesz.
+
+[C_HIREHEROES]
+rollover = Dowiedz się, jak najmować bohaterów
+brief = Najmij bohaterów
+detail = Bohaterów można najmować tylko w karczmach. Kliknij przycisk rozkazu Najmij bohaterów, a pojawi się lista jednostek wojskowych. Wybierz te, które chcesz.
+
+[C_BUYITEMS]
+rollover = Dowiedz się, jak kupować przedmioty
+brief = Kup przedmioty
+detail = Tylko azjatyckie targi mogą handlować przedmiotami. Kliknij przycisk rozkazu Kup przedmioty, a pojawi się lista przedmiotów. Cenę przedmiotu widać w wierszu tekstu poniżej. Wybierz przedmiot, który chcesz kupić.
+
+[C_SELLITEMS]
+rollover = Dowiedz się więcej o budynku - Zamek
+brief = Ruch
+detail = Tylko azjatyckie targi mogą handlować przedmiotami. Kliknij przycisk rozkazu Sprzedaj przedmioty, a pojawi się lista przedmiotów posiadanych przez twoje jednostki. Kwotę, jaką dostaniesz za przedmiot, widać w wierszu tekstu poniżej. Wybierz ten, który chcesz sprzedać.
+
+[C_GAMBLE]
+rollover = Dowiedz się, jak grać o stawkę
+brief = Hazard
+detail = O stawkę gra się w karczmach. Zaznacz karczmę i kliknij przycisk Graj na pasku rozkazów. Wybierz rodzaj i ilość surowca, którą chcesz postawić. Wybierz proporcję. Kliknij Graj, by zacząć, i Anuluj, by zrezygnować.
+
+[C_VIEWQUEST]
+rollover = Dowiedz się, jak obejrzeć zadanie
+brief = Pokaż zadanie
+detail = Przycisk rozkazu Pokaż zadanie jest dostępny tylko wtedy, gdy grasz w grę z zadaniem. Nie zaznaczaj żadnej jednostki. Kliknij przycisk Pokaż zadanie, jeśli jest podświetlony, a zobaczysz zadanie.
+
+[HT_COLLECTRES]
+rollover = Dowiedz się więcej o zbieraniu surowców
+brief = Jak zbierać surowce
+detail = Surowce są potrzebne do tworzenia chłopów, jednostek wojskowych, machin oblężniczych i statków. Służą do szkolenia i ulepszania jednostek, wznoszenia budynków i umocnień oraz do opracowywania nowych technologii. Chłopi pomnażają twoje surowce, rąbiąc drewno, wydobywając złoto i kamień, łowiąc ryby i pilnując bydła. Niektóre technologie zwiększają wydajność chłopów zbierających surowce. Handel to kolejny sposób na wzbogacenie królestwa.
+
+[HT_PRODUCE_ARMY]
+rollover = Dowiedz się, jak stworzyć armię
+brief = Jak stworzyć armię
+detail = Każdy gracz musi stworzyć armię, by mieć potężne królestwo i móc walczyć z wrogami. Głównym budynkiem, w którym tworzy się jednostki wojskowe, są koszary. Wiele jednostek nie wymaga zbadania żadnych szczególnych technologii. Im większa armia, tym jest potężniejsza. Można równoważyć zalety różnych rodzajów jednostek – piechoty, jazdy czy machin oblężniczych – by wzmocnić wojska. Niektóre stworzenia, które można przywołać w magicznych portalach, są wielką pomocą dla każdej armii. Aby móc je przywoływać, gracz musi najpierw przejąć warsztat magiczny.
+
+[HT_TRAIN_UNITS]
+rollover = Dowiedz się, jak szkolić jednostki
+brief = Jak szkolić jednostki
+detail = Każda jednostka ma własne wartości ataku, obrony i zdrowia. Jednostki zdobywają doświadczenie w walce. Na przykład jeden weteran może pokonać kilku „nowicjuszy” tego samego rodzaju. Jednostki wojskowe można szkolić, budując kukły, po zbadaniu technologii Taktyka. W ten sposób rośnie ich doświadczenie.
+
+[HT_HEAL_UNITS]
+rollover = Dowiedz się, jak leczyć jednostki
+brief = Jak leczyć jednostki
+detail = Kapłani mogą leczyć jednostki, by odzyskały zdrowie utracone w walce. Potrzebna jest technologia Uzdrawianie. Gdy kapłan leczy wojska podczas ataku, mogą one osiągać wyższe poziomy, zdobywając więcej doświadczenia. Jednostki można też leczyć, wprowadzając je do placówki.
+
+[HT_GARRISON_UNITS]
+rollover = Dowiedz się, jak wprowadzać jednostki do budynków i je wypuszczać
+brief = Jak wprowadzać jednostki do budynków i je wypuszczać
+detail = Możesz wprowadzać jednostki do zamku lub placówki. Są tam leczone. Polecenie Wypuść wyprowadza je na zewnątrz.
+
+[HT_USE_SHIPS]
+rollover = Dowiedz się, jak przewozić jednostki statkami
+brief = Jak przewozić jednostki statkami
+detail = Statki mogą przewozić jednostki po wodzie. Mieszczą następującą liczbę jednostek: szebeka 8, holk 16, a galeon 24. Technologia Taktyka desantu, badana w porcie, pozwala statkom przewozić o 50% więcej jednostek.
+
+[HT_USE_MAGIC_CARPETS]
+rollover = Dowiedz się, jak przewozić jednostki latającymi dywanami
+brief = Jak przewozić jednostki latającymi dywanami
+detail = Latające dywany przywołują arabscy czarodzieje. Mogą przewozić jednostki nad wodą i nad lądem. Każdy latający dywan może unieść do 8 jednostek. Latające dywany przydają się też do badania mapy.
+
+[HT_UPGRADE_TOWERS]
+rollover = Dowiedz się, jak ulepszać wieże
+brief = Jak ulepszać wieże
+detail = W Tzarze jest kilka rodzajów wież. Budować można jednak tylko strażnice. Wszystkie pozostałe wieże, z wyjątkiem rakietowej, powstają przez ulepszenie strażnic. Do ulepszania strażnic potrzebne są technologie Architektura i Wieże armatnie. Po każdym ulepszeniu pojawia się przycisk rozkazu następnego możliwego.
+
+[HT_CREATE_ITEMS]
+rollover = Dowiedz się więcej o wytwarzaniu przedmiotów
+brief = Jak wytwarzać przedmioty
+detail = Przedmioty można wytwarzać tylko w arabskim warsztacie magicznym, po zbadaniu technologii Czarnoksięstwo. Zaznacz warsztat magiczny i kliknij przycisk rozkazu Wytwórz magiczny przedmiot. Pojawi się menu wytwarzania. Wybierz rodzaj przedmiotu. Wybierz ilość złota, jaką chcesz wydać. Wybierz Rozpocznij, by wytworzyć przedmiot, i Anuluj, by zrezygnować.
+
+[HT_USE_ITEMS]
+rollover = Dowiedz się więcej o używaniu przedmiotów
+brief = Jak używać przedmiotów
+detail = Przedmioty podnosi się rozkazem Podnieś albo po prostu, klikając je prawym przyciskiem. Przedmiotów z ekwipunku jednostki używa się, zaznaczając je i klikając lewym przyciskiem wybrane miejsce. Przedmioty upuszcza się, przytrzymując Alt podczas wybierania ich w ekwipunku i wskazując miejsce, w którym mają leżeć.
+
+[HT_BUY_ITEMS]
+rollover = Dowiedz się więcej o kupowaniu przedmiotów
+brief = Jak kupować przedmioty
+detail = Przedmioty można kupować i sprzedawać tylko na azjatyckim targu, po zbadaniu technologii Jubilerstwo. Zaznacz targ i kliknij przycisk rozkazu Kup przedmiot. Przedmiot pojawi się na ziemi obok targu. Aby sprzedać przedmiot, zaznacz targ. W jego ekwipunku pojawią się wszystkie przedmioty twoich jednostek. Najedź kursorem na przedmiot, który chcesz sprzedać. Ilość złota, jaką otrzymasz, widać w wierszu pomocy. Wybierz przedmiot do sprzedania. Złoto trafi do twojego skarbca.
+
+[HT_VIEW_QUESTS]
+rollover = Dowiedz się, jak obejrzeć bieżące zadania
+brief = Jak obejrzeć bieżące zadania
+detail = Zadania pojawiają się w kampaniach. Dają graczowi wskazówki, których musi się trzymać, by wykonać misję. Wszystkie dostępne zadania można obejrzeć przyciskiem Pokaż bieżące zadania na pasku rozkazów.
+
+[HT_BUILD]
+rollover = Dowiedz się więcej o wznoszeniu budynków
+brief = Jak wznosić budynki
+detail = Budynki może wznosić tylko chłop. Zaznacz chłopa i kliknij przycisk Buduj na pasku rozkazów albo naciśnij „B”. Wybierz na pasku rozkazów rodzaj budynku. Wskaż jego miejsce na mapie. Jeśli budynek można postawić w wybranym miejscu, obraz będzie zielony. Niektóre budynki wymagają zbadania określonych technologii.
+
+[HT_CAPTURE_BUILDINGS]
+rollover = Dowiedz się więcej o przejmowaniu budynków
+brief = Jak przejmować budynki
+detail = Budynki mogą przejmować tylko chłopi. Gracz może wydać rozkaz „Przejmij” z paska rozkazów albo po prostu kliknąć prawym przyciskiem wrogi budynek. Im bliżej zamku stoi budynek, tym trudniej go przejąć.
+
+[HT_COMMANDS]
+rollover = Dowiedz się, jak dowodzić jednostkami
+brief = Czym jest polecenie
+detail = Polecenia wydaje się przyciskami na pasku rozkazów albo, w przypadku najczęstszych, kombinacją kliknięć prawym i lewym przyciskiem. Wiele poleceń można wydać z klawiatury za pomocą skrótów klawiszowych.
+
+[HT_TRADE_SHIPS]
+rollover = Dowiedz się, jak handlować statkami
+brief = Jak handlować statkami
+detail = Aby handlować, musisz zbadać technologię Szlaki handlowe i mieć co najmniej dwa porty i statek. Przykład: statek zabiera drewno z portu A i wyładowuje je w porcie B. W porcie B ładuje kamień, który potem wyładowuje w porcie A. Zysk zależy od odległości między portami i od ilości surowców. Im większa odległość, tym większy zysk. Możesz wybrać, w jakiej postaci otrzymasz zysk – złota, kamienia, drewna lub żywności.
+
+[HT_TRADE_CARAVANS]
+rollover = Dowiedz się, jak handlować karawanami
+brief = Jak handlować karawanami
+detail = Aby handlować, musisz zbadać technologię Szlaki handlowe i mieć co najmniej dwa targi oraz karawanę lub azjatyckiego chłopa. Przykład: karawana lub chłop zabiera drewno z targu A i wyładowuje je na targu B. Na targu B ładuje kamień, który potem wyładowuje na targu A. Zysk zależy od odległości między targami i od ilości surowców. Im większa odległość, tym większy zysk. Możesz wybrać, w jakiej postaci otrzymasz zysk – złota, kamienia, drewna lub żywności.
+
+[HT_BRIBE]
+rollover = Dowiedz się, jak przekupywać jednostki
+brief = Jak przekupywać jednostki
+detail = Arabscy i europejscy chłopi mogą przekupywać wrogie jednostki, ale najpierw musisz zbadać technologię Przekupstwo w Gildii kupców.
+
+[HT_GAMBLE]
+rollover = Dowiedz się, jak grać o stawkę w karczmach
+brief = Jak grać o stawkę w karczmach
+detail = O stawkę gra się w karczmach, ale najpierw musisz zbadać technologię Hazard. Zaznacz karczmę i kliknij przycisk Graj na pasku rozkazów. Wybierz rodzaj i ilość surowca, którą chcesz postawić. Wybierz proporcję. Kliknij Graj, by zacząć, i Anuluj, by zrezygnować.
+
+[HT_REMOVE]
+rollover = Dowiedz się, jak usuwać wojska i budynki
+brief = Jak usuwać wojska i budynki
+detail = Jednostki i budynki usuwa się, zaznaczając je i naciskając klawisz Delete. Jeśli zrobisz to na początku budowy, koszt budynku wróci do skarbca. Wrogich jednostek ani budynków nie można usunąć w ten sposób.
+
+[HT_GATHER_FOOD]
+rollover = Dowiedz się, jak zbierać żywność
+brief = Jak zbierać żywność
+detail = Żywność zdobywa się, zbierając plony z pól, łowiąc ryby i pilnując bydła. Chłopi uprawiają pola i zbierają z nich plony. Noszą żywność do gospodarstwa lub zamku. Jeśli gracz zbadał technologię Hodowla, może hodować bydło i doić je, by mieć żywność. Łodzie rybackie buduje się w portach. Zbierają żywność z łowisk na morzu, a żywność składuje się w portach.
+
+[HT_TEND_COWS]
+rollover = Dowiedz się, jak pilnować bydła
+brief = Jak pilnować bydła
+detail = Jeśli gracz zbadał technologię Hodowla, może hodować bydło i doić je, by mieć żywność. Chłop może pilnować więcej niż jednej krowy, doić ją i nosić mleko do gospodarstwa lub zamku. Krowy można zarżnąć, a ich mięso zbierają chłopi lub inne jednostki.
+
+[HT_TEND_FIELDS]
+rollover = Dowiedz się, jak zbierać plony z pól
+brief = Jak zbierać plony z pól
+detail = Pola dają surowiec żywność i wymagają stałej opieki. Zaniedbane znikają. Warto zakładać je w pobliżu gospodarstwa lub zamku, by żniwiarze sprawniej składowali żywność. Technologie Płodozmian i Nawadnianie zwiększają ilość żywności noszonej przez chłopów. Każde pole może uprawiać tylko jeden chłop.
+
+[HT_CHOP_WOOD]
+rollover = Dowiedz się, jak rąbać drewno
+brief = Jak rąbać drewno
+detail = Drewno zdobywa się, ścinając drzewa. Drzewa mogą ścinać tylko chłopi. Drewno składuje się w tartaku. Im bliżej drzew stoi tartak, tym wydajniejsi są drwale. Technologia Piła zwiększa ilość drewna noszonego przez chłopów.
+
+[HT_MINE]
+rollover = Dowiedz się, jak wydobywać złoto i kamień
+brief = Jak wydobywać złoto i kamień
+detail = Złoto i kamień leżą na mapie w postaci skał. Wydobywają je chłopi. Każde złoże zawiera określoną ilość surowca. Zaznacz złoże, by zobaczyć, ile zawiera – widać to jako liczbę w widoku zaznaczenia. Złoto i kamień składuje się w magazynie lub w zamku. Technologie Wydobycie złota i Wydobycie kamienia zwiększają ilość noszoną przez chłopów.
+
+[HT_BUILD_WALLS_GATES]
+rollover = Dowiedz się, jak budować mury i bramy
+brief = Jak budować mury i bramy
+detail = Mury i bramy budują chłopi. Wybierz przycisk rozkazu Zbuduj mur, wskaż punkt początkowy i przytrzymaj lewy przycisk myszy, przeciągając do punktu końcowego. Mur jest zielony tam, gdzie można go postawić. Bramy można stawiać na wzniesionych już murach albo w każdym innym odpowiednim miejscu. Ustawiając bramę, możesz zmienić jej kierunek, przytrzymując Alt lub Ctrl. Budować można tylko palisady i drewniane bramy. Jeśli zbadano technologię Architektura, można je ulepszyć do kamiennych.
+
+[HT_BUILD_BRIDGES]
+rollover = Dowiedz się, jak budować mosty
+brief = Jak budować mosty
+detail = Mosty można budować po zbadaniu technologii Architektura w zamku. Ustawiając most, możesz zmienić jego kierunek, przytrzymując Alt.
+
+[HT_UPGRADE_SHIPS]
+rollover = Dowiedz się, jak ulepszać statki
+brief = Jak ulepszać statki
+detail = Działa statków można ulepszać, by strzelały częściej. Możesz ulepszać działa do szóstego poziomu.
+
+[HT_REQRUIT]
+rollover = Dowiedz się, jak werbować najemników i bohaterów
+brief = Jak werbować najemników i bohaterów
+detail = Najemników i bohaterów najmujesz w karczmach, ale najpierw musisz zbadać technologie Najemnicy i Wyprawa bohaterów w Gildii wojowników. Możesz najmować różne rodzaje jednostek wszystkich ras. Najemnicy i bohaterowie z czasem gromadzą się w karczmach.
+
+[WI_RESOURCES]
+rollover = Dowiedz się, czym są surowce
+brief = Czym są surowce
+detail = Surowce są potrzebne do tworzenia chłopów, jednostek wojskowych, machin oblężniczych i statków. Służą do szkolenia i ulepszania jednostek, wznoszenia budynków i umocnień oraz do opracowywania nowych technologii. Chłopi pomnażają twoje surowce, rąbiąc drewno, wydobywając złoto i kamień, łowiąc ryby i pilnując bydła. Niektóre technologie zwiększają wydajność chłopów zbierających surowce. Handel to kolejny sposób na wzbogacenie królestwa.
+
+[WI_TRADE]
+rollover = Dowiedz się, czym jest handel
+brief = Czym jest handel
+detail = Handel to inny sposób zdobywania surowców. Pozwala wymieniać żywność, drewno, złoto i kamień z innymi królestwami albo między własnymi targami. Handel prowadzą kupcy i statki. Aby handlować, trzeba zbadać technologię Szlaki handlowe w Gildii kupców. Pozwala ona tworzyć kupców na targach i handlować statkami. Jednostka handlowa kursuje między dwoma targami (lub portami), przewożąc towary w obie strony.
+
+[WI_ITEMS]
+rollover = Dowiedz się więcej o tym, czym jest przedmiot
+brief = Czym jest przedmiot
+detail = Przedmioty to niewielkie rzeczy leżące na mapie. Jednostki mogą je podnosić i ich używać. Przedmioty wytwarza się w niektórych budynkach. Tylko arabscy czarodzieje mogą wytwarzać przedmioty w warsztatach magicznych i dopiero po odkryciu potrzebnej technologii – Czarnoksięstwa. Istnieje kilka rodzajów przedmiotów: broń, zbroje, księgi czarów, zwoje, mikstury i surowce do zebrania. Żaden przedmiot nie jest niemożliwy do wytworzenia, ale lepsze kosztują więcej i wymagają więcej czasu. Azjatyckie targi mogą handlować przedmiotami po zbadaniu technologii Jubilerstwo.
+
+[WI_SPELLS]
+rollover = Dowiedz się, czym są czary
+brief = Czym jest czar
+detail = Czar to magiczne zdarzenie. Aby rzucić czar, trzeba zbadać określoną technologię. Czary mogą rzucać tylko czarodzieje. Niektóre czary przywołują jednostki, inne zadają obrażenia lub leczą jednostki. Każdy czar wymaga określonej ilości many. Czary znajdują się też w księgach czarów. Każda jednostka może rzucić czar z księgi czarów, dopóki ją posiada.
+
+[WI_BUILDING]
+rollover = Dowiedz się, czym jest budynek
+brief = Czym jest budynek
+detail = W budynkach tworzy się jednostki i bada technologie. Każda rasa ma własne budynki. Każda rasa ma trzy grupy budynków: gildie, zwykłe i rzadkie.
+
+[WI_RACE]
+rollover = Dowiedz się, czym jest rasa
+brief = Czym jest rasa
+detail = W Tzarze są trzy rasy – europejska, arabska i azjatycka. Każda ma własne budynki, jednostki i technologie. Są starannie wyważone, by każda rasa w pełni wykorzystywała swoje cechy i poziom opanowania technologii.
+
+[WI_TECHNOLOGY]
+rollover = Dowiedz się, czym jest technologia
+brief = Czym jest technologia
+detail = Wznosząc różne budowle, gracz zyskuje kilka dróg rozwoju do wyboru. Różne technologie tworzą złożoną strukturę zwaną drzewem technologii.
+
+[WI_UNIT]
+rollover = Dowiedz się, czym jest jednostka
+brief = Czym jest jednostka
+detail = Jednostka to główne narzędzie gry. Większość jednostek można tworzyć w budynkach. Aby stworzyć jednostkę, trzeba mieć odpowiednie surowce i technologie. Różne jednostki wymagają różnych surowców. Niektóre jednostki muszą przywoływać czarodzieje. Inne można przywołać w magicznych portalach.
+
+[WI_COMMANDS]
+rollover = Dowiedz się, czym jest polecenie
+brief = Czym jest polecenie
+detail = Polecenia to sposób kierowania jednostkami. Gdy jednostka jest zaznaczona, można jej rozkazać różne działania. Dostępne polecenia pojawiają się w interfejsie jako przyciski rozkazów. Nie wszystkie rozkazy są dostępne dla wszystkich jednostek – zależą od rodzaju jednostki i poziomu zbadanych technologii.
+
+[WI_POP_LIMIT]
+rollover = Dowiedz się, czym jest limit ludności
+brief = Czym jest limit ludności
+detail = Limit ludności to największa liczba jednostek, jaką gracz może mieć w grze. Ustala się go w ustawieniach gry. Nie można stworzyć więcej jednostek, niż pozwala limit. Domy są kluczowe dla liczby jednostek, jaką gracz może mieć w danej chwili. Każdy dom zwiększa liczbę możliwych jednostek o 10. Ta liczba nie może jednak przekroczyć limitu ludności ustalonego dla gry.
+
+[WI_STRATEGIES]
+rollover = Dowiedz się, jakie strategie są w Tzarze
+brief = Jaką strategię wybrać
+detail = Gdy gracz rozwinie królestwo, może wybrać jedną z czterech strategii: Drogę Chwały, Drogę Religii, Drogę Magii lub Drogę Handlu i Rzemiosła. Każdą strategię reprezentuje określony budynek – Gildia wojowników, świątynia Katedra/Meczet/Shao Linn, Wieża magów i Gildia kupców. Wybrana droga określa technologie, dzięki którym można wynaleźć wyjątkowe jednostki i budynki.
+
+[WI_SIEGE_WEAPON]
+rollover = Dowiedz się, czym są machiny oblężnicze
+brief = Czym jest machina oblężnicza
+detail = Katapulty, ciężkie katapulty i balisty to machiny oblężnicze. Buduje się je w warsztatach. Kosztują tylko drewno, ale ciężka katapulta wymaga najpierw technologii Taktyka oblężnicza. Machiny oblężnicze to potężna broń przeciw umocnionym wrogim królestwom. Ranią wszystkie jednostki, nie tylko wrogie. Chłopi mogą naprawiać uszkodzone machiny, jeśli masz dość drewna. Zaznacz chłopa, kliknij przycisk Napraw na pasku rozkazów, a potem wskaż uszkodzoną machinę albo po prostu kliknij prawym przyciskiem tę, którą trzeba naprawić.
+
+[WI_HOTKEYS]
+rollover = Dowiedz się, czym są skróty klawiszowe
+brief = Czym są skróty klawiszowe
+detail = Skróty klawiszowe to najszybszy sposób gry w Tzara. Możesz wykonywać wiele działań bez użycia interfejsu, naciskając tylko odpowiednie klawisze.
+
+[WI_HERO]
+rollover = Dowiedz się, kim jest bohater
+brief = Kim jest bohater
+detail = Bohater to potężna jednostka o niezwykłym zdrowiu, ataku lub obronie i określonym poziomie doświadczenia. Każda jednostka może zostać bohaterem i otrzymać wybrane przez ciebie imię, gdy tylko osiągnie 12. poziom doświadczenia.
+
+[WI_QUEST]
+rollover = Dowiedz się, czym jest zadanie
+brief = Czym jest zadanie
+detail = Zadanie to cel misji, który gracz musi wypełnić, by kontynuować grę.
+
+[WI_RESISTANCE]
+rollover = Dowiedz się, czym jest wytrzymałość
+brief = Czym jest wytrzymałość
+detail = Wytrzymałość zmniejsza obrażenia, jakie odnosi atakowany budynek. Im bliżej zamku stoi budynek, tym większą ma wytrzymałość. Niektóre budynki emitują wytrzymałość – dodatnią dla budynków własnego królestwa i ujemną dla wrogich.
+
+[WI_TECHTREE]
+rollover = Dowiedz się, czym jest drzewo technologii
+brief = Czym jest drzewo technologii
+detail = Różne technologie tworzą złożoną strukturę zwaną drzewem technologii. Pokazuje ono ścieżki technologiczne, którymi możesz podążać w Tzarze, i kolejność, w jakiej trzeba badać technologie, by udostępnić następne.
+
+[WI_GUILD]
+rollover = Dowiedz się, czym jest gildia
+brief = Czym jest gildia
+detail = Każdą strategię gry – Drogę Chwały, Drogę Religii, Drogę Magii i Drogę Handlu i Rzemiosła – reprezentuje określony budynek: Gildia wojowników, świątynia Katedra/Meczet/Shao Linn, Wieża magów i Gildia kupców.
+
+[WI_TRANSPORT]
+rollover = Dowiedz się, jak odbywa się transport
+brief = Jakie są sposoby transportu
+detail = Jednostki i towary można przewozić na kilka sposobów. Statki, latające dywany i kupcy mogą ładować jednostki. Tylko statki i latające dywany mogą przewozić jednostki po wodzie.
+
+[WI_DIPLOMACY]
+rollover = Dowiedz się, czym jest dyplomacja
+brief = Czym jest dyplomacja
+detail = Każdy gracz może wybrać swoje stanowisko dyplomatyczne wobec innych graczy. Trzy stanowiska to Sojusznik, Wróg i Neutralny. Sojusznik – jednostki wojskowe nie atakują budynków ani jednostek drugiego gracza. Wróg – jednostki wojskowe atakują wszystkie budynki i jednostki, które widzą. Neutralny – jednostki wojskowe atakują tylko jednostki wojskowe, które widzą. Dwaj gracze mogą mieć wobec siebie różne stanowiska.
+
+[WI_ALLIED_VICTORY]
+rollover = Dowiedz się, czym jest wspólne zwycięstwo
+brief = Czym jest wspólne zwycięstwo
+detail = Przy wspólnym zwycięstwie gracze mogą wybrać, że wygrywają (lub przegrywają) drużynowo. Gracz, który spełni warunek (lub warunki) zwycięstwa, wygrywa grę dla wszystkich sojuszników.
+
+[WI_UNIT_STATISTICS]
+rollover = Dowiedz się, czym są statystyki jednostek
+brief = Czym są statystyki jednostek
+detail = Statystyki jednostek dają cenne informacje o cechach jednostek lub budynków. Obraz zaznaczonego obiektu i jego statystyki widać w widoku zaznaczenia. Nazwa, królestwo, zdrowie – obrażenia, jakie jednostka może znieść, atak – obrażenia, jakie jednostka może zadać, mana – bieżąca moc magiczna jednostki, moc – bieżąca zdolność jednostki do działań specjalnych, zasięg – odległość, na jaką jednostka zadaje obrażenia, wytrzymałość – zmniejsza obrażenia atakowanego budynku, zawartość – liczba obiektów niesionych przez jednostkę, obrona – zmniejsza obrażenia atakowanej jednostki, czas – okres potrzebny do wykonania zadania, i poziom – mierzy doświadczenie jednostki. Gdy zaznaczono kilka jednostek, wyświetla się tylko ich ZDROWIE.
+
+[WI_MANNA]
+rollover = Dowiedz się, czym jest mana
+brief = Czym jest mana
+detail = Mana to bieżąca moc magiczna jednostki. Czarodzieje potrzebują many, by przywoływać magiczne stworzenia, a potem trochę czasu, by ją odnowić.

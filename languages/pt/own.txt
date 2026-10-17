@@ -1,0 +1,1054 @@
+# I testi propri di ReTzar in portoghese europeo: l'italiano, come scritto nel codice, e la traduzione di questa versione.
+
+it: Gioco
+pt: Jogo
+
+it: Schermo
+pt: Ecrã
+
+it: Grafica
+pt: Gráficos
+
+it: Tasti
+pt: Teclas
+
+it: PARTITA
+pt: PARTIDA
+
+it: MAPPA
+pt: MAPA
+
+it: GIOCATORE
+pt: JOGADOR
+
+it: FINESTRA
+pt: JANELA
+
+it: INTERFACCIA
+pt: INTERFACE
+
+it: IMMAGINE
+pt: IMAGEM
+
+it: VISUALE
+pt: VISTA
+
+it: EVENTI E MAPPA
+pt: EVENTOS E MAPA
+
+it: FINESTRE
+pt: JANELAS
+
+it: Effetti sonori
+pt: Efeitos sonoros
+
+it: Musica
+pt: Música
+
+it: Voci delle unità
+pt: Vozes das unidades
+
+it: Suoni degli edifici
+pt: Sons dos edifícios
+
+it: Suoni della natura
+pt: Sons da natureza
+
+it: Velocità del gioco
+pt: Velocidade do jogo
+
+it: Clima
+pt: Clima
+
+it: Giorno e notte
+pt: Dia e noite
+
+it: Velocità di scorrimento
+pt: Velocidade de deslocamento
+
+it: Scorrimento ai bordi
+pt: Deslocamento nos limites
+
+it: Nome sulle proprie unità
+pt: Nome sobre as tuas unidades
+
+it: Lingua
+pt: Idioma
+
+it: Ricorda le missioni raggiunte
+pt: Recordar as missões alcançadas
+
+it: Schermo intero
+pt: Ecrã inteiro
+
+it: Dimensioni della finestra
+pt: Tamanho da janela
+
+it: Fotogrammi al secondo
+pt: Imagens por segundo
+
+it: Scala
+pt: Escala
+
+it: Pannello dei comandi
+pt: Painel de comando
+
+it: Puntatore
+pt: Ponteiro
+
+it: Testi sulla mappa
+pt: Textos no mapa
+
+it: Griglia di piazzamento
+pt: Grelha de colocação
+
+it: Colori a 24 bit
+pt: Cores de 24 bits
+
+it: Pixel della mappa
+pt: Píxeis do mapa
+
+it: Effetto monitor CRT
+pt: Efeito de monitor CRT
+
+it: Testi in alta definizione
+pt: Textos em alta definição
+
+it: Luci notturne
+pt: Luzes noturnas
+
+it: Bagliore di fuochi e magie
+pt: Brilho do fogo e da magia
+
+it: Nebbia morbida
+pt: Névoa suave
+
+it: Ambiente vivo
+pt: Mundo vivo
+
+it: Zoom fluido
+pt: Zoom suave
+
+it: Pixel nitidi
+pt: Píxeis nítidos
+
+it: Adatta allo schermo
+pt: Ajustar ao ecrã
+
+it: A destra
+pt: À direita
+
+it: A sinistra
+pt: À esquerda
+
+it: Del gioco
+pt: Do jogo
+
+it: Di Windows
+pt: Do Windows
+
+it: Originali
+pt: Originais
+
+it: Contorno
+pt: Contorno
+
+it: Fondo scuro
+pt: Faixa escura
+
+it: Leggera
+pt: Suave
+
+it: Media
+pt: Média
+
+it: Marcata
+pt: Forte
+
+it: Regolari
+pt: Regulares
+
+it: Levigati
+pt: Suavizados
+
+it: Sincronizzazione verticale
+pt: Sincronização vertical
+
+it: nessuno
+pt: nenhum
+
+it: Sì
+pt: Sim
+
+it: Predefiniti
+pt: Predefinições
+
+it: Annulla
+pt: Cancelar
+
+it: Scrivi il numero e premi Invio; 0 toglie il limite, Esc annulla.
+pt: Escreve o número e prime Enter; 0 retira o limite, Esc cancela.
+
+it: Premi un tasto…
+pt: Prime uma tecla…
+
+it: Premi il nuovo tasto; Esc annulla.
+pt: Prime a nova tecla; Esc cancela.
+
+it: Aggiunta di questa versione, assente nell'originale.
+pt: Acréscimo desta versão, ausente no original.
+
+it: Volumi, voci e suoni del gioco.
+pt: Volumes, vozes e sons do jogo.
+
+it: La partita, lo scorrimento della mappa, il tuo nome e la lingua.
+pt: A partida, o deslocamento do mapa, o teu nome e o idioma.
+
+it: La finestra del gioco e l'aspetto dell'interfaccia.
+pt: A janela do jogo e o aspeto da interface.
+
+it: Gli effetti grafici moderni, tutti facoltativi e spenti all'inizio.
+pt: Os efeitos gráficos modernos, todos opcionais e desligados de início.
+
+it: I tasti dei comandi sulla mappa.
+pt: As teclas das ordens no mapa.
+
+it: Effetti, voci e rumori della mappa: l'interruttore li spegne, il cursore ne regola il volume.
+pt: Efeitos, vozes e ruídos do mapa: o interruptor desliga-os, o cursor regula o volume.
+
+it: La musica di menu e missioni: l'interruttore la spegne, il cursore ne regola il volume.
+pt: A música dos menus e das missões: o interruptor desliga-a, o cursor regula o volume.
+
+it: Le risposte delle unità quando le selezioni e dai loro ordini.
+pt: As respostas das unidades quando as selecionas e lhes dás ordens.
+
+it: Il suono degli edifici quando li selezioni.
+pt: O som dos edifícios quando os selecionas.
+
+it: Animali, vento e pioggia intorno alla parte di mappa che guardi.
+pt: Animais, vento e chuva à volta da parte do mapa que estás a ver.
+
+it: Quanto scorre veloce la partita aperta; si regola solo durante una partita.
+pt: A rapidez da partida aberta; só se ajusta durante uma partida.
+
+it: Pioggia e neve sulla mappa, con il loro effetto sulle unità.
+pt: Chuva e neve no mapa, com o seu efeito sobre as unidades.
+
+it: Il passare del giorno e della notte, che cambia luce e visibilità.
+pt: A passagem do dia e da noite, que muda a luz e a visão.
+
+it: Il pannello dei trucchi di questa partita (tasto F7).
+pt: O painel de batotas desta partida (tecla F7).
+
+it: Quanto velocemente si sposta la mappa con frecce e bordi dello schermo.
+pt: A rapidez com que o mapa se desloca com as setas e os limites do ecrã.
+
+it: La mappa si sposta quando porti il puntatore ai bordi dello schermo.
+pt: O mapa desloca-se quando levas o ponteiro aos limites do ecrã.
+
+it: Il nome mostrato sulle tue unità.
+pt: O nome que aparece sobre as tuas unidades.
+
+it: Apri l'elenco e scegli la lingua di testi e voci.
+pt: Abre a lista e escolhe o idioma dos textos e das vozes.
+
+it: Le missioni delle campagne già raggiunte restano da scegliere; l'originale mostra solo la prima.
+pt: As missões de campanha já alcançadas continuam disponíveis; o original só oferece a primeira.
+
+it: Il gioco occupa tutto lo schermo, senza bordi; altrimenti è in una finestra (anche Alt+Invio).
+pt: O jogo ocupa o ecrã inteiro, sem margens; caso contrário, fica numa janela (também Alt+Enter).
+
+it: Trascina i bordi della finestra per cambiarne le dimensioni, che restano per la prossima volta; qui ne scegli una pronta.
+pt: Arrasta as margens da janela para mudar o seu tamanho, que fica guardado para a próxima vez; aqui escolhes um já pronto.
+
+it: I fotogrammi seguono la frequenza dello schermo, senza strappi nell'immagine; il limite dei fotogrammi allora non serve e si spegne.
+pt: As imagens seguem a frequência do ecrã, sem cortes na imagem; o limite de imagens deixa então de servir e desliga-se.
+
+it: I fotogrammi al secondo massimi: trascina la barra o scrivi il numero; in fondo alla barra nessun limite. Spento con la sincronizzazione verticale.
+pt: O máximo de imagens por segundo: arrasta a barra ou escreve o número; no fim da barra não há limite. Desligado com a sincronização vertical.
+
+it: Pixel nitidi: l'interfaccia ingrandita di un numero intero di volte. Adatta: riempie lo schermo.
+pt: Píxeis nítidos: a interface ampliada um número inteiro de vezes. Ajustar: preenche o ecrã.
+
+it: Da che parte dello schermo sta il pannello dei comandi durante la partita.
+pt: Em que lado do ecrã fica o painel de comando durante uma partida.
+
+it: Il puntatore disegnato dal gioco o quello di Windows, con lo stesso disegno.
+pt: O ponteiro desenhado pelo jogo ou o do Windows, com o mesmo desenho.
+
+it: Come si leggono messaggi e consigli sulla mappa: con l'ombra originale, un contorno nero o un fondo scuro.
+pt: Como se leem as mensagens e as dicas no mapa: com a sombra original, um contorno preto ou uma faixa escura.
+
+it: Una griglia con le caselle libere e occupate mentre piazzi un edificio, e quanto si vede.
+pt: Uma grelha das casas livres e ocupadas enquanto colocas um edifício, e a sua intensidade.
+
+it: Sfumature lisce di notte, nelle ombre e nella nebbia, senza i 5 bit per colore dell'originale.
+pt: Degradês suaves de noite, nas sombras e na névoa, sem os 5 bits por cor do original.
+
+it: Pixel originali, regolari a ogni zoom o levigati, con i bordi smussati.
+pt: Píxeis originais, regulares em cada zoom, ou suavizados com as margens esbatidas.
+
+it: Righe e curvatura di un vecchio monitor.
+pt: Linhas de varrimento e curvatura de um monitor antigo.
+
+it: Testi dell'interfaccia nitidi alla risoluzione dello schermo.
+pt: Textos da interface nítidos à resolução do ecrã.
+
+it: Di notte fuochi, edifici e magie fanno luce intorno.
+pt: De noite, fogueiras, edifícios e magia iluminam à sua volta.
+
+it: Un alone luminoso intorno a fuochi, magie e fulmini.
+pt: Um halo luminoso à volta do fogo, da magia e dos raios.
+
+it: Bordi sfumati della nebbia invece dei riquadri.
+pt: Margens da névoa suaves em vez de quadrados.
+
+it: Alberi che ondeggiano al vento e acqua che luccica.
+pt: Árvores que ondulam ao vento e água que cintila.
+
+it: La rotella ingrandisce scorrendo, con più passi.
+pt: A roda aproxima e afasta com suavidade, em mais passos.
+
+it: Fai clic e premi il nuovo tasto del comando; Esc annulla.
+pt: Clica e depois prime a nova tecla da ordem; Esc cancela.
+
+it: Rimette le impostazioni di questa scheda come all'inizio; nome, lingua e dimensioni della finestra restano.
+pt: Repõe as definições deste separador como no início; o nome, o idioma e o tamanho da janela mantêm-se.
+
+it: Chiude rimettendo tutto com'era all'apertura delle opzioni (anche Esc).
+pt: Fecha deixando tudo como estava ao abrir as opções (também Esc).
+
+it: Scorrimento
+pt: Deslocamento
+
+it: Resa dell'IA
+pt: Rendição da IA
+
+it: RESA DELL'IA: con la BANDIERA bianca i regni del computer si arrendono quando perdono, con le SPADE combattono fino alla fine
+pt: RENDIÇÃO DA IA: com a BANDEIRA branca, os reinos do computador rendem-se quando estão a perder; com as ESPADAS, lutam até ao fim
+
+it: Scorri a sinistra
+pt: Deslocar para a esquerda
+
+it: Scorri a destra
+pt: Deslocar para a direita
+
+it: Scorri in alto
+pt: Deslocar para cima
+
+it: Scorri in basso
+pt: Deslocar para baixo
+
+it: Centra la selezione
+pt: Centrar a seleção
+
+it: Unità successiva del gruppo
+pt: Unidade seguinte do grupo
+
+it: Ultimo evento
+pt: Último evento
+
+it: Evento precedente
+pt: Evento anterior
+
+it: Evento successivo
+pt: Evento seguinte
+
+it: Destinazione o raduno
+pt: Destino ou ponto de reunião
+
+it: Barre della salute
+pt: Barras de vida
+
+it: Alberi trasparenti
+pt: Árvores transparentes
+
+it: Elimina la selezione
+pt: Eliminar a seleção
+
+it: Aumenta la velocità
+pt: Aumentar a velocidade
+
+it: Riduci la velocità
+pt: Reduzir a velocidade
+
+it: Salvataggio rapido
+pt: Gravação rápida
+
+it: Caricamento rapido
+pt: Carregamento rápido
+
+it: Punteggio e tempo
+pt: Pontuação e tempo
+
+it: Pagina precedente dell'inventario
+pt: Página anterior do inventário
+
+it: Pagina seguente dell'inventario
+pt: Página seguinte do inventário
+
+it: Aiuto
+pt: Ajuda
+
+it: Diplomazia
+pt: Diplomacia
+
+it: Obiettivi
+pt: Objetivos
+
+it: Opzioni
+pt: Opções
+
+it: Menu della partita
+pt: Menu da partida
+
+it: Conversazione
+pt: Conversa
+
+it: Tributi
+pt: Tributo
+
+it: Pannello dei trucchi
+pt: Painel de batotas
+
+it: Spazio
+pt: Espaço
+
+it: Freccia sinistra
+pt: Seta esquerda
+
+it: Freccia destra
+pt: Seta direita
+
+it: Freccia su
+pt: Seta para cima
+
+it: Freccia giù
+pt: Seta para baixo
+
+it: Invio
+pt: Enter
+
+it: Canc
+pt: Delete
+
+it: Ins
+pt: Insert
+
+it: Fine
+pt: End
+
+it: Pag su
+pt: Page Up
+
+it: Pag giù
+pt: Page Down
+
+it: + (tastierino)
+pt: + (teclado num.)
+
+it: - (tastierino)
+pt: - (teclado num.)
+
+it: * (tastierino)
+pt: * (teclado num.)
+
+it: / (tastierino)
+pt: / (teclado num.)
+
+it: Invio (tastierino)
+pt: Enter (teclado num.)
+
+it: {} (tastierino)
+pt: {} (teclado num.)
+
+it: Inizializzazione dell'audio…
+pt: A iniciar o som…
+
+it: Audio non disponibile
+pt: Som indisponível
+
+it: Impostazioni non leggibili ({}): ripristinati i valori predefiniti.
+pt: Não foi possível ler as definições ({}): foram repostos os valores predefinidos.
+
+it: La modalità multigiocatore non è disponibile in questa versione.
+pt: O modo multijogador não está disponível nesta versão.
+
+it: Eroe
+pt: Herói
+
+it: Nessuna missione selezionata
+pt: Nenhuma missão selecionada
+
+it: (missione non installata)
+pt: (missão não instalada)
+
+it: La missione del salvataggio non è presente
+pt: A missão da partida gravada não está instalada
+
+it: Missione non trovata
+pt: Missão não encontrada
+
+it: Mappa casuale {}
+pt: Mapa aleatório {}
+
+it: {} · {}×{} · seme {}
+pt: {} · {}×{} · semente {}
+
+it: Caricamento di «{}»…
+pt: A carregar «{}»…
+
+it: Ripristino di «{}»…
+pt: A restaurar «{}»…
+
+it: Un salvataggio è già in corso
+pt: Já está a ser gravada uma partida
+
+it: Attendi il completamento del salvataggio
+pt: Espera que a gravação termine
+
+it: Nessuna mappa aperta
+pt: Não há nenhum mapa aberto
+
+it: Simulazione non inizializzata
+pt: A partida ainda não começou
+
+it: Salvataggio interrotto
+pt: Gravação interrompida
+
+it: Salvataggio non riuscito: {}
+pt: Erro ao gravar: {}
+
+it: Impossibile riprodurre intro: {}
+pt: Não é possível reproduzir a introdução: {}
+
+it: Casuale
+pt: Aleatório
+
+it: Arcipelaghi
+pt: Arquipélagos
+
+it: Isole
+pt: Ilhas
+
+it: Continente
+pt: Continente
+
+it: Laghi
+pt: Lagos
+
+it: Terra
+pt: Terra firme
+
+it: Annulla e restituisci il costo
+pt: Cancelar e devolver o custo
+
+it: Indietro
+pt: Voltar
+
+it: Trucchi\nApre la finestra dei trucchi di questa partita
+pt: Batotas\nAbre a janela de batotas desta partida
+
+it: Trucchi
+pt: Batotas
+
+it: Apre la finestra dei trucchi di questa partita
+pt: Abre a janela de batotas desta partida
+
+it: Usato un trucco, la partita resta segnata come partita con trucchi
+pt: Foi usada uma batota: a partida fica marcada como partida com batotas
+
+it: Chiude la finestra dei trucchi
+pt: Fecha a janela de batotas
+
+it: TRUCCHI
+pt: BATOTAS
+
+it: CHIUDI
+pt: FECHAR
+
+it: Partita
+pt: Partida
+
+it: Risorse, popolazione, costruzione, nebbia, mappa, ora del giorno, tecnologie e missione
+pt: Recursos, população, construção, névoa, mapa, hora do dia, tecnologias e missão
+
+it: Oggetti
+pt: Objetos
+
+it: Trucchi da applicare a un'unità o a un edificio cliccandolo sulla mappa
+pt: Batotas a aplicar a uma unidade ou a um edifício clicando nele no mapa
+
+it: Unità
+pt: Unidades
+
+it: Crea un'unità di qualunque regno nel punto della mappa che scegli
+pt: Cria uma unidade de qualquer reino no ponto do mapa que escolheres
+
+it: Edifici
+pt: Edifícios
+
+it: Crea un edificio già costruito di qualunque regno nel punto della mappa che scegli
+pt: Cria um edifício já construído de qualquer reino no ponto do mapa que escolheres
+
+it: Cambia a piacere i rapporti fra due regni
+pt: Muda à vontade as relações entre dois reinos
+
+it: Nessun regno
+pt: Nenhum reino
+
+it: Regno {}
+pt: Reino {}
+
+it: Regno
+pt: Reino
+
+it: Europea
+pt: Europeia
+
+it: Araba
+pt: Árabe
+
+it: Asiatica
+pt: Asiática
+
+it: europea
+pt: europeia
+
+it: araba
+pt: árabe
+
+it: asiatica
+pt: asiática
+
+it: Alleato
+pt: Aliado
+
+it: {a} considera {b} un alleato: non lo attacca
+pt: {a} considera {b} um aliado: não o ataca
+
+it: Neutrale
+pt: Neutro
+
+it: {a} considera {b} neutrale: non lo attacca
+pt: {a} considera {b} neutro: não o ataca
+
+it: Nemico
+pt: Inimigo
+
+it: {a} considera {b} un nemico e lo attacca
+pt: {a} considera {b} um inimigo e ataca-o
+
+it: Condivide la vista
+pt: Partilha a visão
+
+it: {b} vede ciò che vedono le unità di {a}
+pt: {b} vê o que veem as unidades de {a}
+
+it: Condivide le risorse
+pt: Partilha os recursos
+
+it: {b} può spendere le risorse di {a}
+pt: {b} pode gastar os recursos de {a}
+
+it: Condivide le unità
+pt: Partilha as unidades
+
+it: {b} può comandare le unità di {a}
+pt: {b} pode comandar as unidades de {a}
+
+it: Vittoria condivisa
+pt: Vitória partilhada
+
+it: {a} vince insieme a {b}
+pt: {a} vence juntamente com {b}
+
+it: Vuole la guerra
+pt: Quer a guerra
+
+it: {a} vuole la guerra con {b}: basta che uno dei due la voglia e diventano nemici
+pt: {a} quer a guerra com {b}: basta que um dos dois a queira para se tornarem inimigos
+
+it: Vuole la pace
+pt: Quer a paz
+
+it: {a} vuole la pace con {b}: quando la vogliono tutti e due diventano neutrali
+pt: {a} quer a paz com {b}: quando ambos a querem, tornam-se neutros
+
+it: Vuole l'alleanza
+pt: Quer uma aliança
+
+it: {a} vuole l'alleanza con {b}: quando la vogliono tutti e due diventano alleati
+pt: {a} quer uma aliança com {b}: quando ambos a querem, tornam-se aliados
+
+it: Costo
+pt: Custo
+
+it:  (In questa partita le risorse sono illimitate.)
+pt:  (Nesta partida os recursos são ilimitados.)
+
+it: Risorse
+pt: Recursos
+
+it: Aggiunge oro, pietra, cibo e legna al tuo regno
+pt: Acrescenta ouro, pedra, comida e madeira ao teu reino
+
+it: Aggiunge 10 000 di oro, pietra, cibo e legna al tuo regno.
+pt: Acrescenta 10 000 de ouro, pedra, comida e madeira ao teu reino.
+
+it: Aggiunge 50 000 di oro, pietra, cibo e legna al tuo regno.
+pt: Acrescenta 50 000 de ouro, pedra, comida e madeira ao teu reino.
+
+it: Popolazione massima
+pt: Limite de população
+
+it: Il limite della popolazione del tuo regno
+pt: O limite de população do teu reino
+
+it: Porta a 1000
+pt: Subir para 1000
+
+it: Già a 1000
+pt: Já em 1000
+
+it: Porta a 1000 il limite della popolazione del tuo regno, senza bisogno di case
+pt: Sobe o limite de população do teu reino para 1000, sem precisar de casas
+
+it: Costruzione immediata
+pt: Construção imediata
+
+it: Cantieri, unità e ricerche si completano subito
+pt: Obras, unidades e investigações terminam de imediato
+
+it: Quando è attiva, ogni cantiere si completa al primo colpo di un contadino e le unità e le ricerche escono subito, per tutti i regni. Clicca per attivarla o spegnerla
+pt: Quando ativa, cada obra termina ao primeiro golpe de um camponês e as unidades e as investigações saem de imediato, para todos os reinos. Clica para a ativar ou desativar
+
+it: Nessun requisito
+pt: Sem requisitos
+
+it: Costruire, creare e ricercare senza i requisiti
+pt: Construir, criar e investigar sem os requisitos
+
+it: Quando è attivo, si possono costruire edifici, creare unità e fare ricerche senza gli edifici e le tecnologie che servirebbero, per tutti i regni. Clicca per attivarlo o spegnerlo
+pt: Quando ativo, podem construir-se edifícios, criar unidades e investigar sem os edifícios e as tecnologias necessários, para todos os reinos. Clica para o ativar ou desativar
+
+it: Nebbia di guerra
+pt: Névoa de guerra
+
+it: La nebbia che nasconde ciò che le tue unità non vedono
+pt: A névoa que esconde o que as tuas unidades não veem
+
+it: Togli
+pt: Retirar
+
+it: Già tolta
+pt: Já retirada
+
+it: Toglie la nebbia di guerra per il resto della partita: vedi tutto ciò che si muove sulla mappa
+pt: Retira a névoa de guerra durante o resto da partida: vês tudo o que se move no mapa
+
+it: Mappa
+pt: Mapa
+
+it: Le zone della mappa non ancora esplorate
+pt: As zonas do mapa ainda por explorar
+
+it: Rivela tutta
+pt: Revelar tudo
+
+it: Già esplorata
+pt: Já explorado
+
+it: Rende esplorata tutta la mappa: vedi il terreno e gli edifici, ma le unità solo dove arriva la vista delle tue
+pt: Explora o mapa inteiro: vês o terreno e os edifícios, mas as unidades só onde as tuas unidades veem
+
+it: Ora del giorno
+pt: Hora do dia
+
+it: L'ora dell'orologio della partita, che decide la luce del giorno e della notte
+pt: A hora do relógio da partida, que define a luz do dia e da noite
+
+it: Un'ora indietro (con Maiusc dieci)
+pt: Uma hora para trás (dez com Shift)
+
+it: Un'ora avanti (con Maiusc dieci)
+pt: Uma hora para a frente (dez com Shift)
+
+it: Cambia l'ora del giorno con le frecce
+pt: Muda a hora do dia com as setas
+
+it: Tecnologia
+pt: Tecnologia
+
+it: Una ricerca del tuo regno, completata senza aspettare né pagare
+pt: Uma investigação do teu reino, concluída sem esperar nem pagar
+
+it: nessuna da scoprire
+pt: já não há nada por descobrir
+
+it: La tecnologia precedente
+pt: A tecnologia anterior
+
+it: La tecnologia seguente
+pt: A tecnologia seguinte
+
+it: Scopri
+pt: Descobrir
+
+it: Completa subito per il tuo regno: {}
+pt: Conclui-a de imediato para o teu reino: {}
+
+it: Animali e mostri
+pt: Animais e monstros
+
+it: Le unità della Natura: animali selvatici e mostri
+pt: As unidades da Natureza: animais selvagens e monstros
+
+it: Togli dalla mappa
+pt: Retirar do mapa
+
+it: Nessuno sulla mappa
+pt: Nenhum no mapa
+
+it: Fa sparire dalla mappa tutte le unità della Natura: animali selvatici e mostri
+pt: Retira do mapa todas as unidades da Natureza: animais selvagens e monstros
+
+it: Missione
+pt: Missão
+
+it: La missione di questa campagna
+pt: A missão desta campanha
+
+it: Passa alla successiva
+pt: Saltar para a seguinte
+
+it: Nessuna successiva
+pt: Não há missão seguinte
+
+it: Solo nelle campagne
+pt: Só nas campanhas
+
+it: Lascia questa missione e apre subito la mappa successiva della campagna
+pt: Abandona esta missão e abre de imediato o mapa seguinte da campanha
+
+it: Scegli un trucco: la finestra si chiude e clicchi sulla mappa l'unità o l'edificio a cui applicarlo. Tieni premuto Maiusc per cliccarne altri, tasto destro per finire.
+pt: Escolhe uma batota: a janela fecha-se e clicas no mapa na unidade ou no edifício a que a aplicar. Mantém Shift premido para clicar em mais, botão direito para terminar.
+
+it: Invulnerabile
+pt: Invulnerável
+
+it: Non subisce più danni. Un altro clic lo rende di nuovo vulnerabile.
+pt: Já não sofre dano. Outro clique torna-o de novo vulnerável.
+
+it: Rende invulnerabile l'oggetto che clicchi: non subisce più danni. Cliccarlo di nuovo lo rende di nuovo vulnerabile
+pt: Torna invulnerável o objeto em que clicas: já não sofre dano. Outro clique torna-o vulnerável
+
+it: Prendi il comando
+pt: Tomar o comando
+
+it: Gli dai ordini anche se è di un altro regno. Un altro clic lo restituisce.
+pt: Dás-lhe ordens mesmo que pertença a outro reino. Outro clique devolve-o.
+
+it: Puoi dare ordini all'oggetto che clicchi anche se è di un altro regno. Cliccarlo di nuovo lo restituisce
+pt: Podes dar ordens ao objeto em que clicas mesmo que pertença a outro reino. Outro clique devolve-o
+
+it: Guarda con i suoi occhi
+pt: Ver através dos seus olhos
+
+it: Vedi ciò che vede, anche se è di un altro regno. Un altro clic smette.
+pt: Vês o que ele vê, mesmo que pertença a outro reino. Outro clique para.
+
+it: Vedi ciò che vede l'oggetto che clicchi, anche se è di un altro regno. Cliccarlo di nuovo smette
+pt: Vês o que vê o objeto em que clicas, mesmo que pertença a outro reino. Outro clique para
+
+it: Dai al regno
+pt: Dar a um reino
+
+it: L'oggetto che clicchi passa al regno scelto: {}
+pt: O objeto em que clicas passa para o reino escolhido: {}
+
+it: Il regno precedente
+pt: O reino anterior
+
+it: Il regno seguente
+pt: O reino seguinte
+
+it: Il regno a cui passa l'oggetto che clicchi
+pt: O reino para o qual passa o objeto em que clicas
+
+it: Crea le unità e gli edifici della civiltà {}
+pt: Cria as unidades e os edifícios da civilização {}
+
+it: Il regno a cui va quello che crei
+pt: O reino para o qual vai o que crias
+
+it: Il regno di cui cambi i rapporti
+pt: O reino cujas relações mudas
+
+it: Il regno verso cui cambiano
+pt: O reino em relação ao qual mudam
+
+it: Come {} considera {}: clicca una casella per accenderla o spegnerla.
+pt: Como {} considera {}: clica numa casa para a ativar ou desativar.
+
+it: Scegli due regni diversi.
+pt: Escolhe dois reinos diferentes.
+
+it: {}. Ora: {}
+pt: {}. Agora: {}
+
+it: sì
+pt: sim
+
+it: un'unità
+pt: uma unidade
+
+it: un edificio, che arriva già costruito
+pt: um edifício, que chega já construído
+
+it: Clicca {}, poi il punto della mappa dove metterlo. Tieni premuto Maiusc per metterne altri, tasto destro per finire.
+pt: Clica em {} e depois no ponto do mapa onde o pôr. Mantém Shift premido para pôr mais, botão direito para terminar.
+
+it: Partita con trucchi: {}
+pt: Partida com batotas: {}
+
+it: Maiusc per continuare, tasto destro per finire.
+pt: Shift para continuar, botão direito para terminar.
+
+it: Clicca sulla mappa dove mettere: {}. {}
+pt: Clica no mapa onde pôr: {}. {}
+
+it: Clicca l'oggetto da rendere invulnerabile (o di nuovo vulnerabile).
+pt: Clica no objeto que queres tornar invulnerável (ou de novo vulnerável).
+
+it: Clicca l'oggetto di cui prendere il comando (o da restituire).
+pt: Clica no objeto de que queres tomar o comando (ou devolver).
+
+it: Clicca l'oggetto con cui guardare (o con cui smettere).
+pt: Clica no objeto através do qual queres ver (ou deixar de ver).
+
+it: Clicca l'oggetto da dare al regno scelto.
+pt: Clica no objeto que queres dar ao reino escolhido.
+
+it: Versione della sessione non supportata
+pt: Versão de sessão não suportada
+
+it: Archivio della mappa non valido
+pt: Ficheiro de mapa inválido
+
+it: Dimensioni o stato della sessione non validi
+pt: Tamanho ou estado de sessão inválido
+
+it: Riferimenti dell'inventario non validi
+pt: Referências de inventário inválidas
+
+it: Contenuto dell'inventario non valido
+pt: Conteúdo de inventário inválido
+
+it: Collegamento dell'inventario non valido
+pt: Ligação de inventário inválida
+
+it: Ciclo nell'inventario
+pt: Ciclo num inventário
+
+it: Riferimenti della mappa o dell'interfaccia non validi
+pt: Referências de mapa ou de interface inválidas
+
+it: Ritratto salvato non valido
+pt: Retrato gravado inválido
+
+it: Salvataggio non valido
+pt: Partida gravada inválida
+
+it: Salvataggio non riconosciuto
+pt: Partida gravada não reconhecida
+
+it: Versione del salvataggio non supportata
+pt: Versão de partida gravada não suportada
+
+it: Salvataggio troppo grande o danneggiato
+pt: Partida gravada demasiado grande ou danificada
+
+it: Metadati del salvataggio non validi
+pt: Dados de partida gravada inválidos
+
+it: Salvataggio troncato
+pt: Partida gravada incompleta
+
+it: Lunghezza del salvataggio non valida
+pt: Comprimento de partida gravada inválido
+
+it: Controllo d'integrità del salvataggio fallito
+pt: A partida gravada não passou no controlo de integridade
+
+it: Sessione compressa danneggiata
+pt: Sessão comprimida danificada
+
+it: Salvataggio di una versione precedente di ReTzar: non si può più riprendere
+pt: Gravada por uma versão anterior do ReTzar: já não pode ser retomada
+
+it: Salvataggio troppo grande
+pt: Partida gravada demasiado grande
+
+it: Percorso del salvataggio non valido
+pt: Caminho de partida gravada inválido
+
+it: Dato della mappa non riconosciuto
+pt: Dados de mapa não reconhecidos
+
+it: Dato della mappa troppo grande
+pt: Dados de mapa demasiado grandes
+
+it: Dato della mappa danneggiato
+pt: Dados de mapa danificados
+
+it: Archivio della mappa troppo grande
+pt: Ficheiro de mapa demasiado grande
+
+it: Salvataggio con dati della mappa non risolti
+pt: Partida gravada com dados de mapa por resolver
+
+it: Regno {}: nessuna posizione iniziale nella mappa
+pt: Reino {}: nenhuma posição inicial no mapa
+
+it: Regno {}: spazio insufficiente per il castello
+pt: Reino {}: não há espaço suficiente para o castelo
+
+it: Regno {}: spazio insufficiente per i contadini
+pt: Reino {}: não há espaço suficiente para os camponeses
+
+it: Identificatori degli oggetti esauriti
+pt: Esgotaram-se os identificadores de objeto
+
+it: Nessun archivio del gioco trovato
+pt: Não foi encontrado nenhum arquivo do jogo
+
+it: Installazione di Tzar non trovata vicino a {}. Usa --source CARTELLA.
+pt: Não foi encontrada a instalação de Tzar perto de {}. Usa --source PASTA.
+
+it: ReTzar non può continuare:\n\n{}
+pt: O ReTzar não pode continuar:\n\n{}
+
+it: ReTzar si è chiuso per un errore interno.\n\n{}\n\nDettagli in crash.log.
+pt: O ReTzar fechou-se devido a um erro interno.\n\n{}\n\nDetalhes em crash.log.
+
+it: Tasto Indietro
+pt: Backspace
+
+it: Recuperata la precedente copia valida del salvataggio.
+pt: Foi recuperada a cópia válida anterior do jogo guardado.
+
+it: Salvataggio precedente: ripristinata la vista iniziale, senza stato della simulazione.
+pt: Jogo guardado antigo: foi reposta a vista inicial, sem o estado da simulação.
+
+it: Nessuna scheda video Vulkan trovata. ReTzar disegna solo con Vulkan: aggiorna i driver della scheda video.
+pt: Nenhuma placa gráfica Vulkan encontrada. O ReTzar só desenha com Vulkan: atualiza os controladores da placa gráfica.
+
+it: Scegli la cartella in cui è installato Tzar
+pt: Escolhe a pasta onde o Tzar está instalado
+
+it: Per giocare con ReTzar serve una copia originale di Tzar (dal CD, da GOG o da Steam): alla prossima partenza scegli la cartella in cui è installata.
+pt: Para jogar ReTzar precisas de uma cópia original do Tzar (do CD, do GOG ou do Steam): no próximo arranque, escolhe a pasta onde está instalada.
+
+it: In {} non c'è una copia originale di Tzar.\n\nScegli la cartella in cui è installato il gioco.
+pt: Em {} não há uma cópia original do Tzar.\n\nEscolhe a pasta onde o jogo está instalado.

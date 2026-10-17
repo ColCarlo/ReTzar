@@ -1,0 +1,2027 @@
+; I testi delle schermate di aiuto in tedesco (HELP/ITEMS.TXT), tradotti da questa versione
+; e posati sulle voci dell'edizione italiana; collegamenti e icone restano.
+
+[U_E_PEASANT]
+rollover = Mehr über die Einheit erfahren - Bauer
+brief = Bauer
+detail = Kosten-50 Nahrung, Sicht-5, Gesundheit-50p, Angriff-5p, Verteidigung-0 ~ Sie können sich bewegen, bauen, erobern, angreifen, reparieren, ernten, erkunden, Gold, Stein, Milch, Fleisch und Holz tragen, Vieh hüten und Einheiten bestechen.
+
+[U_E_FOOTMAN]
+rollover = Mehr über die Einheit erfahren - Fußsoldat
+brief = Fußsoldat
+detail = Kosten-50 Nahrung, Sicht-5, Gesundheit-65p, Angriff-6p, Verteidigung-3 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_E_ARCHER]
+rollover = Mehr über die Einheit erfahren - Bogenschütze
+brief = Bogenschütze
+detail = Kosten-40 Nahrung/20 Holz, Sicht-10, Reichweite-6, Gesundheit-50p, Angriff-5p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_E_MACEMAN]
+rollover = Mehr über die Einheit erfahren - Streitkolbenkämpfer
+brief = Streitkolbenkämpfer
+detail = Kosten-120 Nahrung, Sicht-5, Gesundheit-120p, Angriff-8p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_E_PIKEMAN]
+rollover = Mehr über die Einheit erfahren - Pikenier
+brief = Pikenier
+detail = Kosten-90 Nahrung/40 Gold, Sicht-5, Gesundheit-75p, Angriff-8p, Verteidigung-4 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_E_LONGBOWMAN]
+rollover = Mehr über die Einheit erfahren - Langbogenschütze
+brief = Langbogenschütze
+detail = Kosten-90 Nahrung/70 Gold, Sicht-16, Gesundheit-50p, Reichweite-12p, Angriff-5p, Verteidigung-2 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_E_KNIGHT]
+rollover = Mehr über die Einheit erfahren - Ritter
+brief = Ritter
+detail = Kosten-120 Nahrung/90 Gold, Sicht-5, Gesundheit-120p, Angriff-12p, Verteidigung-6 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_E_CRUSADER]
+rollover = Mehr über die Einheit erfahren - Kreuzritter
+brief = Kreuzritter
+detail = Sicht-5, Gesundheit-180p, Angriff-14p, Verteidigung-8 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_E_PRIEST]
+rollover = Mehr über die Einheit erfahren - Priester
+brief = Priester
+detail = Kosten-150 Gold, Sicht-20, Gesundheit-60p, Reichweite-18p, Angriff-20p, Verteidigung-0 ~ Sie können sich bewegen, erkunden, Einheiten heilen und segnen.
+
+[U_E_SPY]
+rollover = Mehr über die Einheit erfahren - Spion
+brief = Spion
+detail = Kosten-150 Gold, Sicht-12, Gesundheit-50p, Angriff-20p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen, erkunden, sich verkleiden und enttarnen.
+
+[U_E_MAGE]
+rollover = Mehr über die Einheit erfahren - Zauberer
+brief = Zauberer
+detail = Kosten-150 Gold, Sicht-14, Gesundheit-60p, Reichweite-10p, Angriff-5p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Blitze schleudern, Fledermäuse beschwören, einfrieren, Steingolems beschwören und Einheiten unsichtbar machen.
+
+[U_E_CARAVAN]
+rollover = Mehr über die Einheit erfahren - Karawane
+brief = Karawane
+detail = Kosten-400 Nahrung/200 Holz, Sicht-7, Gesundheit-350p, Angriff-0p, Verteidigung-0 ~ Sie können sich bewegen, Handel treiben, Einheiten und Waren laden, ausladen und erkunden.
+
+[U_A_PEASANT]
+rollover = Mehr über die Einheit erfahren - Bauer
+brief = Bauer
+detail = Kosten-40 Nahrung, Sicht-5, Gesundheit-50p, Angriff-5p, Verteidigung-0 ~ Sie können sich bewegen, bauen, erobern, angreifen, reparieren, ernten, handeln, erkunden, Gold, Stein, Milch, Fleisch und Holz tragen und Vieh hüten.
+
+[U_A_RHONIN]
+rollover = Mehr über die Einheit erfahren - Ronin
+brief = Ronin
+detail = Kosten-40 Nahrung, Sicht-5, Gesundheit-50p, Angriff-7p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_A_ARCHER]
+rollover = Mehr über die Einheit erfahren - Bogenschütze
+brief = Bogenschütze
+detail = Kosten-40 Nahrung/20 Holz, Sicht-10, Reichweite-6, Gesundheit-50p, Angriff-5p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_A_SAMURAI]
+rollover = Mehr über die Einheit erfahren - Samurai
+brief = Samurai
+detail = Kosten-90 Nahrung/40 Gold, Sicht-6, Gesundheit-120p, Angriff-10p, Verteidigung-4 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_A_HORSE_ARCHER]
+rollover = Mehr über die Einheit erfahren - Berittener Bogenschütze
+brief = Berittener Bogenschütze
+detail = Kosten-120 Nahrung/40 Gold, Sicht-12, Reichweite-7p, Gesundheit-75p, Angriff-7p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_A_HORSE_SAMURAI]
+rollover = Mehr über die Einheit erfahren - Berittener Samurai
+brief = Berittener Samurai
+detail = Kosten-100 Nahrung/60 Gold, Sicht-5, Gesundheit-160p, Angriff-14p, Verteidigung-4 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_A_CHARIOT]
+rollover = Mehr über die Einheit erfahren - Gepanzerter Streitwagen
+brief = Gepanzerter Streitwagen
+detail = Kosten-150 Nahrung/150 Holz, Sicht-5, Gesundheit-180p, Angriff-3p, Verteidigung-5 ~ Sie können sich bewegen, angreifen, patrouillieren, bewachen und erkunden.
+
+[U_A_NINJA]
+rollover = Mehr über die Einheit erfahren - Ninja
+brief = Ninja
+detail = Kosten-80 Gold, Sicht-10, Gesundheit-90p, Angriff-12p, Verteidigung-5 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen, erkunden, sich tarnen und meucheln.
+
+[U_A_PRIEST]
+rollover = Mehr über die Einheit erfahren - Priester
+brief = Priester
+detail = Kosten-150 Gold, Sicht-14, Gesundheit-120p, Angriff-10p, Verteidigung-10 ~ Sie können sich bewegen, erkunden, Einheiten heilen und segnen.
+
+[U_A_MONK]
+rollover = Mehr über die Einheit erfahren - Mönch
+brief = Mönch
+detail = Kosten-250 Nahrung, Sicht-5, Gesundheit-120p, Angriff-6p, Verteidigung-6 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_A_MAGE]
+rollover = Mehr über die Einheit erfahren - Zauberer
+brief = Zauberer
+detail = Kosten-150 Gold, Sicht-14, Gesundheit-60p, Reichweite-10p, Angriff-8p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Einheiten versteinern, Strudel und Flammenstöße erzeugen, Drachen beschwören und Mana in Erfahrung umwandeln.
+
+[U_R_PEASANT]
+rollover = Mehr über die Einheit erfahren - Bauer
+brief = Bauer
+detail = Kosten-50 Nahrung, Sicht-5, Gesundheit-50p, Angriff-5p, Verteidigung-0 ~ Sie können sich bewegen, bauen, erobern, angreifen, reparieren, ernten, erkunden, Gold, Stein, Milch, Fleisch und Holz tragen, Vieh hüten und Einheiten bestechen. Sie können zu Dschihad-Kriegern werden.
+
+[U_R_FOOTMAN]
+rollover = Mehr über die Einheit erfahren - Fußsoldat
+brief = Fußsoldat
+detail = Kosten-50 Nahrung, Sicht-5, Gesundheit-50p, Angriff-6p, Verteidigung-1 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_R_ARCHER]
+rollover = Mehr über die Einheit erfahren - Bogenschütze
+brief = Bogenschütze
+detail = Kosten-40 Nahrung/20 Holz, Sicht-10, Reichweite-6, Gesundheit-50p, Angriff-5p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_R_SPEARMAN]
+rollover = Mehr über die Einheit erfahren - Speerträger
+brief = Speerträger
+detail = Kosten-60 Nahrung/50 Gold, Sicht-5, Gesundheit-75p, Angriff-6p, Verteidigung-2 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_R_SATRAP]
+rollover = Mehr über die Einheit erfahren - Satrap
+brief = Satrap
+detail = Kosten-120 Nahrung, Sicht-5, Gesundheit-120p, Angriff-8p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_R_CAVALRY]
+rollover = Mehr über die Einheit erfahren - Reiterei
+brief = Reiterei
+detail = Kosten-100 Nahrung/60 Gold, Sicht-5, Gesundheit-90p, Angriff-10p, Verteidigung-2 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_R_HORSE_ARCHER]
+rollover = Mehr über die Einheit erfahren - Berittener Bogenschütze
+brief = Berittener Bogenschütze
+detail = Kosten-100 Nahrung/50 Gold, Sicht-12, Reichweite-7p, Gesundheit-75p, Angriff-6p, Verteidigung-2 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_R_JIHAD_WARRIOR]
+rollover = Mehr über die Einheit erfahren - Dschihad-Krieger
+brief = Dschihad-Krieger
+detail = Kosten-100 Nahrung, Sicht-5, Gesundheit-10p, Angriff-18p, Verteidigung-2 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden. Sie entstehen aus Bauern, wenn die Technologie Dschihad erforscht ist.
+
+[U_R_PRIEST]
+rollover = Mehr über die Einheit erfahren - Priester
+brief = Priester
+detail = Kosten-150 Gold, Sicht-20, Reichweite-18p, Gesundheit-60p, Angriff-20p, Verteidigung-0 ~ Sie können sich bewegen, erkunden, Einheiten heilen, segnen und Exorzismen vornehmen.
+
+[U_R_SPY]
+rollover = Mehr über die Einheit erfahren - Spion
+brief = Spion
+detail = Kosten-150 Gold, Sicht-12, Gesundheit-50p, Angriff-20p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen, erkunden, sich verkleiden und enttarnen.
+
+[U_R_MAGE]
+rollover = Mehr über die Einheit erfahren - Zauberer
+brief = Zauberer
+detail = Kosten-150 Gold, Sicht-14, Gesundheit-60p, Reichweite-10p, Angriff-8p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, Fliegende Teppiche beschwören, Tote erwecken, Dschinns beschwören, Magische Sicht und Feuerregen erzeugen.
+
+[U_R_CARAVAN]
+rollover = Mehr über die Einheit erfahren - Karawane
+brief = Karawane
+detail = Kosten-500 Nahrung, Sicht-5, Gesundheit-150p, Angriff-0p, Verteidigung-0 ~ Sie können sich bewegen, Handel treiben, Einheiten und Waren laden, ausladen und erkunden.
+
+[U_R_JANISSARY]
+rollover = Mehr über die Einheit erfahren - Janitschar
+brief = Janitschar
+detail = Kosten-120 Nahrung/80 Gold, Sicht-5, Gesundheit-130p, Angriff-18p, Verteidigung-4 ~ Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden.
+
+[U_C_CATAPULT]
+rollover = Mehr über die Einheit erfahren - Katapult
+brief = Katapult
+detail = Kosten-600 Holz, Sicht-16, Reichweite-14p, Gesundheit-110p, Angriff-10p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, patrouillieren, bewachen und erkunden.
+
+[U_C_HEAVY_CATAPULT]
+rollover = Mehr über die Einheit erfahren - Schweres Katapult
+brief = Schweres Katapult
+detail = Kosten-1200 Holz, Sicht-24, Reichweite-22p, Gesundheit-250p, Angriff-25p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, patrouillieren, bewachen und erkunden.
+
+[U_C_BALLISTA]
+rollover = Mehr über die Einheit erfahren - Balliste
+brief = Balliste
+detail = Kosten-800 Holz, Sicht-14, Reichweite-12p, Gesundheit-75p, Angriff-25p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, patrouillieren, bewachen und erkunden.
+
+[U_C_GALLEON]
+rollover = Mehr über die Einheit erfahren - Galeone
+brief = Galeone
+detail = Kosten-800 Nahrung/1200 Holz, Sicht-14, Reichweite-12p, Gesundheit-1200p, Angriff-35p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, laden, ausladen, Handel treiben und Kanonen verbessern. Galeonen gibt es nur bei Europäern und Arabern.
+
+[U_C_HULK]
+rollover = Mehr über die Einheit erfahren - Holk
+brief = Holk
+detail = Kosten-300 Nahrung/500 Holz, Sicht-12, Reichweite-10p, Gesundheit-700p, Angriff-18p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, laden, ausladen, Handel treiben und Kanonen verbessern.
+
+[U_C_XEBEC]
+rollover = Mehr über die Einheit erfahren - Schebecke
+brief = Schebecke
+detail = Kosten-200 Nahrung/300 Holz, Sicht-10, Reichweite-8p, Gesundheit-300p, Angriff-10p, Verteidigung-0 ~ Sie können sich bewegen, angreifen, laden, ausladen, Handel treiben und Kanonen verbessern.
+
+[U_C_FISHING_BOAT]
+rollover = Mehr über die Einheit erfahren - Fischerboot
+brief = Fischerboot
+detail = Kosten-100 Nahrung/200 Holz, Sicht-10, Reichweite-8p, Gesundheit-50p, Angriff-1p, Verteidigung-0 ~ Sie können sich bewegen, fischen und anhalten.
+
+[U_C_COW]
+rollover = Mehr über das Vieh erfahren
+brief = Vieh
+detail = Kosten-300 Nahrung, Sicht-3, Gesundheit-80p ~ Kühe gibt es nur bei Europäern und Arabern. Vieh liefert Rohstoffe. Bauern hüten es und fügen die gewonnene Milch der Nahrung in der Schatzkammer hinzu. Kühe können geschlachtet und ihr Fleisch von Bauern oder anderen Einheiten eingesammelt werden. Milch und Fleisch werden auf dem Bauernhof oder in der Burg gelagert.
+
+[U_C_BEAR]
+rollover = Mehr über Bären erfahren
+brief = Bären
+detail = Sicht-3, Gesundheit-70p ~ Bären sind Geschöpfe der Natur. Sie greifen alle Einheiten in ihrer Reichweite an. Bären können mit dem Zauber Magische Sicht belegt werden und dienen dann der Erkundung der Karte.
+
+[U_C_BAT]
+rollover = Mehr über Fledermäuse erfahren
+brief = Fledermäuse
+detail = Kosten-25 Mana, Sicht-10, Gesundheit-20p, Angriff-3p, Verteidigung-0 ~ Fledermäuse werden von europäischen Zauberern beschworen. Sie können sich bewegen, angreifen, patrouillieren, bewachen und erkunden. Fledermäuse zählen zur Bevölkerungsgrenze.
+
+[U_C_STONE_GOLEM]
+rollover = Mehr über die Einheit erfahren - Steingolem
+brief = Steingolem
+detail = Kosten-120 Gold/600 Mana, Sicht-10, Gesundheit-400p, Angriff-25p, Verteidigung-0 ~ Steingolems werden von Zauberern beschworen. Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden. Steingolems zählen zur Bevölkerungsgrenze.
+
+[U_C_ORK]
+rollover = Mehr über die Einheit erfahren - Ork
+brief = Ork
+detail = Kosten-60 Gold, Sicht-5, Gesundheit-50p, Angriff-18p, Verteidigung-2 ~ Orks entstehen in den Magischen Portalen. Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden. Orks zählen zur Bevölkerungsgrenze.
+
+[U_C_DWARF]
+rollover = Mehr über die Einheit erfahren - Zwerg
+brief = Zwerg
+detail = Kosten-80 Gold, Sicht-3, Gesundheit-120p, Angriff-7p, Verteidigung-7 ~ Zwerge entstehen in den Magischen Portalen. Sie können sich bewegen, angreifen, Gegenstände aufheben, patrouillieren, bewachen und erkunden. Zwerge zählen zur Bevölkerungsgrenze.
+
+[U_C_DRAGON]
+rollover = Mehr über die Einheit erfahren - Drache
+brief = Drache
+detail = Kosten-80 Gold/800 Mana, Sicht-12, Reichweite-3p, Gesundheit-300p, Angriff-25p, Verteidigung-0 ~ Drachen werden von asiatischen Zauberern beschworen. Sie können sich bewegen, angreifen, patrouillieren, bewachen und erkunden. Drachen zählen zur Bevölkerungsgrenze.
+
+[U_C_JINN]
+rollover = Mehr über die Einheit erfahren - Dschinn
+brief = Dschinn
+detail = Kosten-50 Gold/300 Mana, Sicht-8, Gesundheit-300p, Angriff-20p, Verteidigung-5 ~ Dschinns werden von arabischen Zauberern beschworen. Sie können sich bewegen, angreifen, patrouillieren, bewachen und erkunden. Dschinns zählen zur Bevölkerungsgrenze.
+
+[U_C_CARPET]
+rollover = Mehr über die Einheit erfahren - Fliegender Teppich
+brief = Fliegender Teppich
+detail = Kosten-80 Gold/500 Mana, Sicht-8, Gesundheit-90p ~ Fliegende Teppiche werden von arabischen Zauberern beschworen. Sie können sich bewegen, angreifen, laden, ausladen und erkunden. Fliegende Teppiche zählen zur Bevölkerungsgrenze. Mit ihnen lassen sich Einheiten über Wasser wie über Land befördern.
+
+[U_C_SKELETON]
+rollover = Mehr über die Einheit erfahren - Skelett
+brief = Skelett
+detail = Kosten-30 Nahrung, Sicht-5, Gesundheit-40p, Angriff-4p, Verteidigung-0 ~ Skelette können aus den Magischen Portalen gerufen oder von arabischen Zauberern aus toten Einheiten erweckt werden, wenn der Zauber Totenbeschwörung erforscht ist. Sie können sich bewegen, angreifen, patrouillieren, bewachen und erkunden. Skelette zählen zur Bevölkerungsgrenze.
+
+[U_C_GHOST]
+rollover = Mehr über die Einheit erfahren - Geist
+brief = Geist
+detail = Kosten-40 Gold, Sicht-5, Gesundheit-60p, Angriff-8p, Verteidigung-0 ~ Geister entstehen in den Magischen Portalen. Sie können sich bewegen, angreifen, Gegenstände aufheben, Menschen verfluchen, patrouillieren, bewachen und erkunden. Geister zählen zur Bevölkerungsgrenze.
+
+[U_C_MESSIAH]
+rollover = Mehr über den Messias erfahren
+brief = Messias
+detail = Kosten-2000 Gold, Sicht-20, Reichweite-18p, Gesundheit-1000p, Angriff-50p, Verteidigung-10 ~ Der Messias erscheint in den Kampagnen. Er ist die mächtigste aller Einheiten. Der Messias kann alle Zauber des Spiels wirken.
+
+[B_E_CASTLE]
+rollover = Mehr über das Gebäude erfahren - Burg
+brief = Burg
+detail = Kosten-1500 Stein/1500 Holz, Sicht-12, Widerstand-1000p, Gesundheit-8000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+400,Ausgestrahlter Widerstand/auf andere Gebäude/--200 ~ Die Burg ist das Hauptgebäude eines Reiches. Nur hier können Bauern und Spione erschaffen werden. Alle Rohstoffe können hier gelagert werden.
+
+[B_E_HOUSE]
+rollover = Mehr über das Gebäude erfahren - Haus
+brief = Haus
+detail = Kosten-75 Holz, Sicht-4, Widerstand-50p, Gesundheit-500p, ~ Häuser erhöhen die Bevölkerungsgrenze eines Reiches. Jedes Haus erlaubt 10 weitere Einheiten.
+
+[B_E_LUMBER_MILL]
+rollover = Mehr über das Gebäude erfahren - Sägewerk
+brief = Sägewerk
+detail = Kosten-100 Holz, Sicht-4, Widerstand-80p, Gesundheit-800p, ~ Im Sägewerk wird Holz gelagert. Je näher das Sägewerk an den Bäumen steht, desto leistungsfähiger sind die Holzfäller.
+
+[B_E_STORAGE]
+rollover = Mehr über das Gebäude erfahren - Lager
+brief = Lager
+detail = Kosten-200 Holz, Sicht-5, Widerstand-80p, Gesundheit-800p, ~ Im Lager werden Stein und Gold gelagert. Je näher das Lager an der Mine steht, desto leistungsfähiger sind die Bergleute.
+
+[B_E_FARM]
+rollover = Mehr über das Gebäude erfahren - Bauernhof
+brief = Bauernhof
+detail = Kosten-200 Holz, Sicht-5, Widerstand-80p, Gesundheit-800p, ~ Auf dem Bauernhof wird Nahrung gelagert. Je näher der Bauernhof an den Feldern steht, desto leistungsfähiger sind die Erntearbeiter.
+
+[B_E_HARBOR]
+rollover = Mehr über das Gebäude erfahren - Hafen
+brief = Hafen
+detail = Kosten-200 Nahrung/200 Holz, Sicht-8, Widerstand-200p, Gesundheit-1400p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+100,Ausgestrahlter Widerstand/auf andere Gebäude/--50 ~ Im Hafen werden Fische gelagert, Schiffe gebaut und Handel getrieben.
+
+[B_E_BLACKSMITH]
+rollover = Mehr über das Gebäude erfahren - Schmiede
+brief = Schmiede
+detail = Kosten-150 Nahrung/150 Holz, Sicht-8, Widerstand-80p, Gesundheit-800p, ~ In der Schmiede werden Technologien erforscht, die die Eigenschaften der Militäreinheiten verbessern.
+
+[B_E_WORKSHOP]
+rollover = Mehr über das Gebäude erfahren - Werkstatt
+brief = Werkstatt
+detail = Kosten-150 Nahrung/150 Holz, Sicht-8, Widerstand-80p, Gesundheit-800p, ~ In der Schmiede werden Technologien erforscht, die die Eigenschaften der Militäreinheiten verbessern.
+
+[B_E_CHURCH]
+rollover = Mehr über das Gebäude erfahren - Kirche
+brief = Kirche
+detail = Kosten-200 Nahrung/200 Stein, Sicht-6, Widerstand-200p, Gesundheit-1000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+50,Ausgestrahlter Widerstand/auf andere Gebäude/--100 ~ Priester werden in der Kirche erschaffen.
+
+[B_E_TAVERN]
+rollover = Mehr über das Gebäude erfahren - Taverne
+brief = Taverne
+detail = Kosten-200 Nahrung/200 Holz, Sicht-5, Widerstand-150p, Gesundheit-1000p, Ausgestrahlter Widerstand/auf eigene Gebäude/--50,Ausgestrahlter Widerstand/auf andere Gebäude/--50 ~ In der Taverne werden Rohstoffe umgewandelt, Darlehen aufgenommen, Militäreinheiten angeheuert und Glücksspiele gespielt. Für alle Möglichkeiten müssen die nötigen Technologien erforscht sein.
+
+[B_E_MARKET]
+rollover = Mehr über das Gebäude erfahren - Markt
+brief = Markt
+detail = Kosten-200 Nahrung/200 Holz, Sicht-8, Widerstand-200p, Gesundheit-1400p ~ Auf dem Markt werden Rohstoffe gehandelt. Den Handel führen Karawanen. Um Karawanen zu bauen und Handel zu treiben, muss die Technologie Handelswege erforscht sein.
+
+[B_E_BARRACKS]
+rollover = Mehr über das Gebäude erfahren - Kaserne
+brief = Kaserne
+detail = Kosten-200 Nahrung/200 Holz, Sicht-6, Widerstand-500p, Gesundheit-1400p ~ In der Kaserne werden alle Militäreinheiten ausgebildet. Nicht alle Einheiten sind verfügbar, bevor die nötigen Technologien erforscht sind.
+
+[B_E_STABLE]
+rollover = Mehr über das Gebäude erfahren - Stall
+brief = Stall
+detail = Kosten-200 Nahrung/200 Holz, Sicht-5, Widerstand-80p, Gesundheit-500p ~ Für berittene Einheiten wird ein Stall gebraucht. Wird der Stall zerstört, können erst wieder berittene Einheiten ausgebildet werden, wenn ein neuer Stall gebaut ist.
+
+[B_E_OUTPOST]
+rollover = Mehr über das Gebäude erfahren - Außenposten
+brief = Außenposten
+detail = Kosten-200 Holz/400 Stein, Sicht-8, Widerstand-500p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+200,Ausgestrahlter Widerstand/auf andere Gebäude/--200 ~ Im Außenposten können Armeen Schutz suchen und geheilt werden. Es empfiehlt sich, während einer Invasion Außenposten zu bauen, während die Truppen vorrücken.
+
+[B_E_CATHEDRAL]
+rollover = Mehr über das Gebäude erfahren - Kathedrale
+brief = Kathedrale
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau der Kathedrale folgt der Spieler dem Weg der Religion. Die Technologien der Kathedrale eröffnen ihm wirksame Wege, ein Reich aufzubauen.
+
+[B_E_MAGE_TOWER]
+rollover = Mehr über das Gebäude erfahren - Magierturm
+brief = Magierturm
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau des Magierturms folgt der Spieler dem Weg der Magie. Hier lassen sich mächtige Zauber erforschen und Zauberer erschaffen.
+
+[B_E_MERCHANTS_GUILD]
+rollover = Mehr über das Gebäude erfahren - Händlergilde
+brief = Händlergilde
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau der Händlergilde folgt der Spieler dem Weg des Handels und Handwerks. Er kann eine sehr starke Wirtschaft aufbauen, alle Vorteile des Handels nutzen und muss sich nicht auf die begrenzten Rohstoffe der Karte verlassen.
+
+[B_E_WARRIORS_GUILD]
+rollover = Mehr über das Gebäude erfahren - Kriegergilde
+brief = Kriegergilde
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau der Kriegergilde folgt der Spieler dem Weg des Ruhms. Er kann eine sehr mächtige Armee aufbauen. Viele Technologien lassen die Einheiten Erfahrung sammeln, ihre Angriffskraft steigern und fast unbesiegbar werden.
+
+[B_A_CASTLE]
+rollover = Mehr über das Gebäude erfahren - Burg
+brief = Burg
+detail = Kosten-1500 Stein/1500 Holz, Sicht-12, Widerstand-1000p, Gesundheit-8000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+500,Ausgestrahlter Widerstand/auf andere Gebäude/--300 ~ Die Burg ist das Hauptgebäude eines Reiches. Nur hier können Bauern erschaffen werden. Alle Rohstoffe können hier gelagert werden.
+
+[B_A_HOUSE]
+rollover = Mehr über das Gebäude erfahren - Haus
+brief = Haus
+detail = Kosten-75 Holz, Sicht-4, Widerstand-50p, Gesundheit-500p, ~ Häuser erhöhen die Bevölkerungsgrenze eines Reiches. Jedes Haus erlaubt 10 weitere Einheiten.
+
+[B_A_LUMBER_MILL]
+rollover = Mehr über das Gebäude erfahren - Sägewerk
+brief = Sägewerk
+detail = Kosten-100 Holz, Sicht-4, Widerstand-80p, Gesundheit-800p, ~ Im Sägewerk wird Holz gelagert. Je näher das Sägewerk an den Bäumen steht, desto leistungsfähiger sind die Holzfäller.
+
+[B_A_STORAGE]
+rollover = Mehr über das Gebäude erfahren - Lager
+brief = Lager
+detail = Kosten-200 Holz, Sicht-5, Widerstand-80p, Gesundheit-800p, ~ Im Lager werden Stein und Gold gelagert. Je näher das Lager an der Mine steht, desto leistungsfähiger sind die Bergleute.
+
+[B_A_FARM]
+rollover = Mehr über das Gebäude erfahren - Bauernhof
+brief = Bauernhof
+detail = Kosten-200 Holz, Sicht-5, Widerstand-80p, Gesundheit-800p, ~ Auf dem Bauernhof wird Nahrung gelagert. Je näher der Bauernhof an den Feldern steht, desto leistungsfähiger sind die Erntearbeiter.
+
+[B_A_HARBOR]
+rollover = Mehr über das Gebäude erfahren - Hafen
+brief = Hafen
+detail = Kosten-200 Nahrung/200 Holz, Sicht-8, Widerstand-200p, Gesundheit-1400p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--100 ~ Im Hafen werden Fische gelagert, Schiffe gebaut und Handel getrieben.
+
+[B_A_BLACKSMITH]
+rollover = Mehr über das Gebäude erfahren - Schmiede
+brief = Schmiede
+detail = Kosten-150 Nahrung/150 Holz, Sicht-8, Widerstand-80p, Gesundheit-800p, ~ In der Schmiede werden Technologien erforscht, die die Eigenschaften der Militäreinheiten verbessern.
+
+[B_A_WORKSHOP]
+rollover = Mehr über das Gebäude erfahren - Werkstatt
+brief = Werkstatt
+detail = Kosten-150 Nahrung/150 Holz, Sicht-8, Widerstand-80p, Gesundheit-800p, ~ In der Werkstatt werden Technologien erforscht, die die Eigenschaften der Militäreinheiten verbessern.
+
+[B_A_MONASTERY]
+rollover = Mehr über das Gebäude erfahren - Kloster
+brief = Kloster
+detail = Kosten-200 Nahrung/200 Stein, Sicht-6, Widerstand-200p, Gesundheit-1000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+100,Ausgestrahlter Widerstand/auf andere Gebäude/--200 ~ Priester werden im Kloster erschaffen.
+
+[B_A_TAVERN]
+rollover = Mehr über das Gebäude erfahren - Taverne
+brief = Taverne
+detail = Kosten-200 Nahrung/200 Holz, Sicht-5, Widerstand-150p, Gesundheit-1000p, Ausgestrahlter Widerstand/auf eigene Gebäude/--200,Ausgestrahlter Widerstand/auf andere Gebäude/--200 ~ In der Taverne werden Rohstoffe umgewandelt, Darlehen aufgenommen, Militäreinheiten angeheuert und Glücksspiele gespielt. Für alle Möglichkeiten müssen die nötigen Technologien erforscht sein.
+
+[B_A_MARKET]
+rollover = Mehr über das Gebäude erfahren - Markt
+brief = Markt
+detail = Kosten-200 Nahrung/200 Holz, Sicht-8, Widerstand-200p, Gesundheit-1400p ~ Auf dem Markt werden Gegenstände gehandelt. Zuerst muss die Technologie Juwelierkunst erforscht werden.
+
+[B_A_BARRACKS]
+rollover = Mehr über das Gebäude erfahren - Kaserne
+brief = Kaserne
+detail = Kosten-200 Nahrung/200 Holz, Sicht-6, Widerstand-500p, Gesundheit-1400p ~ In der Kaserne werden alle Militäreinheiten ausgebildet. Nicht alle Einheiten sind verfügbar, bevor die nötigen Technologien erforscht sind.
+
+[B_A_STABLE]
+rollover = Mehr über das Gebäude erfahren - Stall
+brief = Stall
+detail = Kosten-200 Nahrung/200 Holz, Sicht-5, Widerstand-80p, Gesundheit-500p ~ Für berittene Einheiten wird ein Stall gebraucht. Wird der Stall zerstört, können erst wieder berittene Einheiten ausgebildet werden, wenn ein neuer Stall gebaut ist.
+
+[B_A_OUTPOST]
+rollover = Mehr über das Gebäude erfahren - Außenposten
+brief = Außenposten
+detail = Kosten-200 Holz/400 Stein, Sicht-8, Widerstand-500p, Gesundheit-2000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+400,Ausgestrahlter Widerstand/auf andere Gebäude/--400 ~ Im Außenposten können Armeen Schutz suchen und geheilt werden. Es empfiehlt sich, während einer Invasion Außenposten zu bauen, während die Truppen vorrücken.
+
+[B_A_SHAO_LINN]
+rollover = Mehr über das Gebäude erfahren - Shao Linn
+brief = Shao Linn
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau des Shao Linn folgt der Spieler dem Weg der Religion. Die Technologien, die dort verfügbar werden, eröffnen ihm wirksame Wege, ein Reich aufzubauen.
+
+[B_A_MAGE_TOWER]
+rollover = Mehr über das Gebäude erfahren - Magierturm
+brief = Magierturm
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau des Magierturms folgt der Spieler dem Weg der Magie. Hier lassen sich mächtige Zauber erforschen und Zauberer erschaffen.
+
+[B_A_MERCHANTS_GUILD]
+rollover = Mehr über das Gebäude erfahren - Händlergilde
+brief = Händlergilde
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau der Händlergilde folgt der Spieler dem Weg des Handels und Handwerks. Er kann eine sehr starke Wirtschaft aufbauen, alle Vorteile des Handels nutzen und muss sich nicht auf die begrenzten Rohstoffe der Karte verlassen.
+
+[B_A_WARRIORS_GUILD]
+rollover = Mehr über das Gebäude erfahren - Kriegergilde
+brief = Kriegergilde
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau der Kriegergilde folgt der Spieler dem Weg des Ruhms. Er kann eine sehr mächtige Armee aufbauen. Viele Technologien lassen die Einheiten Erfahrung sammeln, ihre Angriffskraft steigern und fast unbesiegbar werden.
+
+[B_R_CASTLE]
+rollover = Mehr über das Gebäude erfahren - Burg
+brief = Burg
+detail = Kosten-1500 Stein/1500 Holz, Sicht-12, Widerstand-1000p, Gesundheit-8000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+500,Ausgestrahlter Widerstand/auf andere Gebäude/--300 ~ Die Burg ist das Hauptgebäude eines Reiches. Nur hier können Bauern und Spione erschaffen werden. Alle Rohstoffe können hier gelagert werden.
+
+[B_R_HOUSE]
+rollover = Mehr über das Gebäude erfahren - Haus
+brief = Haus
+detail = Kosten-75 Holz, Sicht-4, Widerstand-50p, Gesundheit-500p, ~ Häuser erhöhen die Bevölkerungsgrenze eines Reiches. Jedes Haus erlaubt 10 weitere Einheiten.
+
+[B_R_LUMBER_MILL]
+rollover = Mehr über das Gebäude erfahren - Sägewerk
+brief = Sägewerk
+detail = Kosten-100 Holz, Sicht-4, Widerstand-80p, Gesundheit-800p, ~ Im Sägewerk wird Holz gelagert. Je näher das Sägewerk an den Bäumen steht, desto leistungsfähiger sind die Holzfäller.
+
+[B_R_STORAGE]
+rollover = Mehr über das Gebäude erfahren - Lager
+brief = Lager
+detail = Kosten-200 Holz, Sicht-5, Widerstand-80p, Gesundheit-800p, ~ Im Lager werden Stein und Gold gelagert. Je näher das Lager an der Mine steht, desto leistungsfähiger sind die Bergleute.
+
+[B_R_FARM]
+rollover = Mehr über das Gebäude erfahren - Bauernhof
+brief = Bauernhof
+detail = Kosten-200 Holz, Sicht-5, Widerstand-80p, Gesundheit-800p, ~ Auf dem Bauernhof wird Nahrung gelagert. Je näher der Bauernhof an den Feldern steht, desto leistungsfähiger sind die Erntearbeiter.
+
+[B_R_HARBOR]
+rollover = Mehr über das Gebäude erfahren - Hafen
+brief = Hafen
+detail = Kosten-200 Nahrung/200 Holz, Sicht-8, Widerstand-200p, Gesundheit-1400p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--100 ~ Im Hafen werden Fische gelagert, Schiffe gebaut und Handel getrieben.
+
+[B_R_BLACKSMITH]
+rollover = Mehr über das Gebäude erfahren - Schmiede
+brief = Schmiede
+detail = Kosten-150 Nahrung/150 Holz, Sicht-8, Widerstand-80p, Gesundheit-800p, ~ In der Schmiede werden Technologien erforscht, die die Eigenschaften der Militäreinheiten verbessern.
+
+[B_R_WORKSHOP]
+rollover = Mehr über das Gebäude erfahren - Werkstatt
+brief = Werkstatt
+detail = Kosten-150 Nahrung/150 Holz, Sicht-8, Widerstand-80p, Gesundheit-800p, ~ In der Werkstatt werden Technologien erforscht, die die Eigenschaften der Militäreinheiten verbessern.
+
+[B_R_CHURCH]
+rollover = Mehr über das Gebäude erfahren - Kirche
+brief = Kirche
+detail = Kosten-200 Nahrung/200 Stein, Sicht-6, Widerstand-200p, Gesundheit-1000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+100,Ausgestrahlter Widerstand/auf andere Gebäude/--200 ~ Priester werden in der Kirche erschaffen.
+
+[B_R_TAVERN]
+rollover = Mehr über das Gebäude erfahren - Taverne
+brief = Taverne
+detail = Kosten-200 Nahrung/200 Holz, Sicht-5, Widerstand-150p, Gesundheit-1000p, Ausgestrahlter Widerstand/auf eigene Gebäude/--200,Ausgestrahlter Widerstand/auf andere Gebäude/--200 ~ In der Taverne werden Rohstoffe umgewandelt, Darlehen aufgenommen, Militäreinheiten angeheuert und Glücksspiele gespielt. Für alle Möglichkeiten müssen die nötigen Technologien erforscht sein.
+
+[B_R_MARKET]
+rollover = Mehr über das Gebäude erfahren - Markt
+brief = Markt
+detail = Kosten-200 Nahrung/200 Holz, Sicht-8, Widerstand-200p, Gesundheit-1400p ~ Auf dem Markt werden Rohstoffe gehandelt. Den Handel führen Karawanen. Um Karawanen zu bauen und Handel zu treiben, muss die Technologie Handelswege erforscht sein.
+
+[B_R_BARRACKS]
+rollover = Mehr über das Gebäude erfahren - Kaserne
+brief = Kaserne
+detail = Kosten-200 Nahrung/200 Holz, Sicht-6, Widerstand-500p, Gesundheit-1400p ~ In der Kaserne werden alle Militäreinheiten ausgebildet. Nicht alle Einheiten sind verfügbar, bevor die nötigen Technologien erforscht sind.
+
+[B_R_STABLE]
+rollover = Mehr über das Gebäude erfahren - Stall
+brief = Stall
+detail = Kosten-200 Nahrung/200 Holz, Sicht-5, Widerstand-80p, Gesundheit-500p ~ Für berittene Einheiten wird ein Stall gebraucht. Wird der Stall zerstört, können erst wieder berittene Einheiten ausgebildet werden, wenn ein neuer Stall gebaut ist.
+
+[B_R_OUTPOST]
+rollover = Mehr über das Gebäude erfahren - Außenposten
+brief = Außenposten
+detail = Kosten-200 Holz/400 Stein, Sicht-8, Widerstand-500p, Gesundheit-2000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+400,Ausgestrahlter Widerstand/auf andere Gebäude/--400 ~ Im Außenposten können Armeen Schutz suchen und geheilt werden. Es empfiehlt sich, während einer Invasion Außenposten zu bauen, während die Truppen vorrücken.
+
+[B_R_MOSQUE]
+rollover = Mehr über das Gebäude erfahren - Moschee
+brief = Moschee
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau der Moschee folgt der Spieler dem Weg der Religion. Die Technologien der Moschee eröffnen ihm wirksame Wege, ein Reich aufzubauen.
+
+[B_R_MAGE_TOWER]
+rollover = Mehr über das Gebäude erfahren - Magierturm
+brief = Magierturm
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau des Magierturms folgt der Spieler dem Weg der Magie. Hier lassen sich mächtige Zauber erforschen und Zauberer erschaffen.
+
+[B_R_MERCHANTS_GUILD]
+rollover = Mehr über das Gebäude erfahren - Händlergilde
+brief = Händlergilde
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau der Händlergilde folgt der Spieler dem Weg des Handels und Handwerks. Er kann eine sehr starke Wirtschaft aufbauen, alle Vorteile des Handels nutzen und muss sich nicht auf die begrenzten Rohstoffe der Karte verlassen.
+
+[B_R_WARRIORS_GUILD]
+rollover = Mehr über das Gebäude erfahren - Kriegergilde
+brief = Kriegergilde
+detail = Kosten-2000 Stein/2000 Gold, Sicht-8, Widerstand-700p, Gesundheit-5000p, Ausgestrahlter Widerstand/auf eigene Gebäude/-+300,Ausgestrahlter Widerstand/auf andere Gebäude/--500 ~ Mit dem Bau der Kriegergilde folgt der Spieler dem Weg des Ruhms. Er kann eine sehr mächtige Armee aufbauen. Viele Technologien lassen die Einheiten Erfahrung sammeln, ihre Angriffskraft steigern und fast unbesiegbar werden.
+
+[B_R_MAGIC_WORKSHOP]
+rollover = Mehr über das Gebäude erfahren - Zauberwerkstatt
+brief = Zauberwerkstatt
+detail = Kosten-300 Stein, Sicht-5, Widerstand-200p, Gesundheit-1200p ~ In der Zauberwerkstatt werden magische Gegenstände hergestellt.
+
+[B_C_FIELD]
+rollover = Mehr über die Felder erfahren
+brief = Feld
+detail = Kosten-200 Holz, Sicht-1, Gesundheit-100p ~ Felder liefern den Rohstoff Nahrung und brauchen ständige Pflege. Werden sie vernachlässigt, verschwinden sie. Am besten legt man sie in der Nähe eines Bauernhofs oder der Burg an, damit die Erntearbeiter die Nahrung schneller einlagern.
+
+[B_C_WOOD_WALL]
+rollover = Mehr über die Palisade erfahren
+brief = Palisade
+detail = Kosten-20 Holz, Sicht-1, Gesundheit-2000p ~ Mauern sind ein gutes Mittel, ein Reich zu befestigen. Sie sind billig und schützen gut vor feindlichen Angriffen. Gegen Belagerungswaffen sind sie aber nicht stark genug. Es empfiehlt sich immer, Türme zu ihrer Bewachung aufzustellen.
+
+[B_C_STONE_WALL]
+rollover = Mehr über die Steinmauer erfahren
+brief = Steinmauer
+detail = Kosten-20 Stein, Sicht-2, Gesundheit-4000p ~ Steinmauern sind ein sehr gutes Mittel, ein Reich zu befestigen. Sie entstehen nur durch den Ausbau von Palisaden. Sie sind billig und schützen gut vor feindlichen Angriffen. Es empfiehlt sich immer, Türme zu ihrer Bewachung aufzustellen.
+
+[B_C_WOOD_GATE]
+rollover = Mehr über das Holztor erfahren
+brief = Holztor
+detail = Kosten-200 Holz, Sicht-8, Gesundheit-1500p ~ Holztore sind für ein befestigtes Reich unverzichtbar. Der Besitzer kann sie selbst steuern oder ihrer KI überlassen. Ist die KI der Tore eingeschaltet, öffnen sie sich für die Einheiten des Reiches und schließen sich vor feindlichen Einheiten. Es empfiehlt sich immer, Türme zu ihrer Bewachung aufzustellen.
+
+[B_C_STONE_GATE]
+rollover = Mehr über das Steintor erfahren
+brief = Steintor
+detail = Kosten-200 Stein, Sicht-12, Gesundheit-3000p ~ Steintore entstehen aus Holztoren und widerstehen Angriffen besser. Der Besitzer kann sie selbst steuern oder ihrer KI überlassen. Ist die KI der Tore eingeschaltet, öffnen sie sich für die Einheiten des Reiches und schließen sich vor feindlichen Einheiten. Es empfiehlt sich immer, Türme zu ihrer Bewachung aufzustellen.
+
+[B_C_BRIDGE]
+rollover = Mehr über die Brücke erfahren
+brief = Brücke
+detail = Kosten-300 Stein, Sicht-1, Gesundheit-10000p ~ Steintore entstehen aus Holztoren und widerstehen Angriffen besser. Der Besitzer kann sie selbst steuern oder ihrer KI überlassen. Ist die KI der Tore eingeschaltet, öffnen sie sich für die Einheiten des Reiches und schließen sich vor feindlichen Einheiten. Es empfiehlt sich immer, Türme zu ihrer Bewachung aufzustellen.
+
+[B_C_WATCH_TOWER]
+rollover = Mehr über den Wachturm erfahren
+brief = Wachturm
+detail = Kosten-300 Holz, Sicht-15, Angriff-7, Reichweite-8, Widerstand-100p, Gesundheit-400p ~ Wachtürme sind ein gutes Mittel, ein Reich zu befestigen. Sie greifen feindliche Einheiten an, sobald diese in ihre Reichweite kommen. Am besten baut man sie so, dass sich ihre Reichweiten überschneiden und feindlichen Einheiten kein ungedecktes Gelände bleibt.
+
+[B_C_GUARD_TOWER]
+rollover = Mehr über den Wehrturm erfahren
+brief = Wehrturm
+detail = Sicht-15, Angriff-12, Reichweite-12, Widerstand-150p, Gesundheit-1000p ~ Wehrtürme entstehen durch den Ausbau von Wachtürmen. Sie sind das wirksamste Mittel, ein Reich zu befestigen. Sie greifen feindliche Einheiten an, sobald diese in ihre Reichweite kommen. Am besten baut man sie so, dass sich ihre Reichweiten überschneiden und feindlichen Einheiten kein ungedecktes Gelände bleibt.
+
+[B_C_STONE_TOWER]
+rollover = Mehr über den Steinturm erfahren
+brief = Steinturm
+detail = Sicht-15, Angriff-16, Reichweite-16, Widerstand-300p, Gesundheit-2000p ~ Steintürme entstehen durch den Ausbau von Wehrtürmen. Sie sind das wirksamste Mittel, ein Reich zu befestigen. Sie greifen feindliche Einheiten an, sobald diese in ihre Reichweite kommen, die größer ist als die der Wehrtürme. Am besten baut man sie so, dass sich ihre Reichweiten überschneiden und feindlichen Einheiten kein ungedecktes Gelände bleibt.
+
+[B_C_CANNON_TOWER]
+rollover = Mehr über den Kanonenturm erfahren
+brief = Kanonenturm
+detail = Sicht-15, Angriff-40, Reichweite-10, Widerstand-300p, Gesundheit-2500p ~ Kanonentürme entstehen durch den Ausbau von Wehrtürmen. Sie sind das stärkste Mittel, ein europäisches oder arabisches Reich zu schützen. Sie greifen feindliche Einheiten an, sobald diese in ihre Reichweite kommen, die größer ist als die der Steintürme. Am besten baut man sie so, dass sich ihre Reichweiten überschneiden und feindlichen Einheiten kein ungedecktes Gelände bleibt.
+
+[B_C_ROCKET_TOWER]
+rollover = Mehr über den Raketenturm erfahren
+brief = Raketenturm
+detail = Kosten-1000 Holz/400 Stein, Sicht-25, Angriff-30, Reichweite-20, Widerstand-300p, Gesundheit-1400p ~ Raketentürme können gebaut werden, sobald die nötige Technologie in der Händlergilde erforscht ist. Sie sind das stärkste Mittel, ein asiatisches Reich zu schützen. Sie greifen feindliche Einheiten an, sobald diese in ihre Reichweite kommen, die größer ist als die jedes anderen Turms. Am besten baut man Türme so, dass sich ihre Reichweiten überschneiden und feindlichen Einheiten kein ungedecktes Gelände bleibt.
+
+[B_C_DUMMY]
+rollover = Mehr über die Übungspuppe erfahren
+brief = Übungspuppe
+detail = Kosten-300 Holz, Gesundheit-5000p ~ Mit Übungspuppen kann der Spieler seine Armee ausbilden und so erfahrenere Einheiten haben, bevor er sie in den Kampf schickt. Je mehr Erfahrungstechnologien in der Kriegergilde erforscht sind, desto höher ist die Stufe, die die Einheiten erreichen.
+
+[B_C_MAGIC_GATEWAY]
+rollover = Mehr über das Magische Portal erfahren
+brief = Magisches Portal
+detail = Sicht-10, Gesundheit-2000p ~ Magische Portale finden sich auf der Karte. Man muss ein Magisches Portal erobern, um es nutzen zu können. Nur Militäreinheiten können sie erobern. Die in den Magischen Portalen erzeugten Einheiten gehören dem Reich des Spielers, der sie erobert hat, und er hat volle Kontrolle über sie.
+
+[B_C_EVIL_CASTLE]
+rollover = Mehr über die Burg des Bösen erfahren
+brief = Burg des Bösen
+detail = Sicht-10, Gesundheit-20000p ~ In der Burg des Bösen herrscht der Messias. Sie erscheint nur in den Kampagnen.
+
+[T_E_FEUDALISM]
+rollover = Mehr über die Technologie erfahren - Lehnswesen
+brief = Lehnswesen
+detail = Kosten-300 Gold ~ Das Lehnswesen macht die Ausbildung von Bauern 20 % billiger. Es empfiehlt sich, diese Technologie zu Beginn einer Partie zu erforschen, wenn viele Bauern für den Aufbau der Wirtschaft gebraucht werden.
+
+[T_E_ARCHITECTURE]
+rollover = Mehr über die Technologie erfahren - Baukunst
+brief = Baukunst
+detail = Kosten-300 Gold ~ Die Baukunst macht den Bau jedes Gebäudes 20 % schneller.
+
+[T_E_LEARNING]
+rollover = Mehr über die Technologie erfahren - Lernen
+brief = Lernen
+detail = Kosten-400 Gold ~ Lernen erlaubt den Einheiten, bis zu 4 Erfahrungsstufen zu erreichen.
+
+[T_E_ROTATING_FIELDS]
+rollover = Mehr über die Technologie erfahren - Fruchtwechsel
+brief = Fruchtwechsel
+detail = Kosten-400 Gold ~ Die Technologie Fruchtwechsel lässt die Bauern nach der Aussaat doppelt so viel Nahrung ernten.
+
+[T_E_DOMESTICATION]
+rollover = Mehr über die Technologie erfahren - Viehzucht
+brief = Viehzucht
+detail = Kosten-300 Gold ~ Die Technologie Viehzucht erlaubt die Zucht von Vieh auf den Bauernhöfen.
+
+[T_E_TEMPER_IRON]
+rollover = Mehr über die Technologie erfahren - Eisenhärtung
+brief = Eisenhärtung
+detail = Kosten-300 Gold ~ Die Technologie Eisenhärtung steigert den Schwertangriff der Militäreinheiten um 1 Punkt.
+
+[T_E_PLATE_ARMOR]
+rollover = Mehr über die Technologie erfahren - Plattenpanzer
+brief = Plattenpanzer
+detail = Kosten-1400 Gold ~ Die Technologie Plattenpanzer erlaubt die Ausbildung von Rittern.
+
+[T_E_SCALE_ARMOR]
+rollover = Mehr über die Technologie erfahren - Schuppenpanzer
+brief = Schuppenpanzer
+detail = Kosten-400 Gold ~ Die Technologie Schuppenpanzer steigert die Verteidigung aller Fußtruppen um 1 Punkt.
+
+[T_E_CHAIN_MAIL]
+rollover = Mehr über die Technologie erfahren - Kettenhemd
+brief = Kettenhemd
+detail = Kosten-400 Gold ~ Die Technologie Kettenhemd steigert die Verteidigung aller Fußtruppen um 2 Punkte.
+
+[T_E_HALBERD]
+rollover = Mehr über die Technologie erfahren - Hellebarde
+brief = Hellebarde
+detail = Kosten-600 Gold ~ Die Technologie Hellebarde ermöglicht die Ausbildung von Speereinheiten.
+
+[T_E_SAW]
+rollover = Mehr über die Technologie erfahren - Säge
+brief = Säge
+detail = Kosten-400 Gold ~ Die Technologie Säge lässt die Holzfäller 2 Punkte mehr Holz zu den Sägewerken tragen.
+
+[T_E_CROSSBOW]
+rollover = Mehr über die Technologie erfahren - Armbrust
+brief = Armbrust
+detail = Kosten-400 Gold ~ Die Technologie Armbrust steigert den Angriff jedes Pfeils um 1 Punkt.
+
+[T_E_LONGBOW]
+rollover = Mehr über die Technologie erfahren - Langbogen
+brief = Langbogen
+detail = Kosten-700 Gold ~ Die Technologie Langbogen macht Langbogenschützen verfügbar.
+
+[T_E_GOLD_MINING]
+rollover = Mehr über die Technologie erfahren - Goldabbau
+brief = Goldabbau
+detail = Kosten-400 Gold ~ Die Technologie Goldabbau lässt die Bergleute 12 Gold aus den Minen tragen.
+
+[T_E_STONE_MINING]
+rollover = Mehr über die Technologie erfahren - Steinabbau
+brief = Steinabbau
+detail = Kosten-400 Gold ~ Die Technologie Steinabbau lässt die Bergleute 12 Stein aus den Steinbrüchen tragen.
+
+[T_E_ENGINEERING]
+rollover = Mehr über die Technologie erfahren - Ingenieurskunst
+brief = Ingenieurskunst
+detail = Kosten-400 Gold ~ Die Technologie Ingenieurskunst steigert den Angriff der Katapulte und schweren Katapulte um 5 Punkte.
+
+[T_E_CANNON_TOWER]
+rollover = Mehr über die Technologie erfahren - Kanonentürme
+brief = Kanonentürme
+detail = Kosten-400 Gold ~ Die Technologie Kanonenturm ermöglicht den Ausbau von Steintürmen zu Kanonentürmen.
+
+[T_E_HEROISM]
+rollover = Mehr über die Technologie erfahren - Heldentum
+brief = Heldentum
+detail = Kosten-500 Gold ~ Die Technologie Heldentum erlaubt den Einheiten unbegrenzte Erfahrung, sodass der Spieler einige von ihnen zu Helden machen kann.
+
+[T_E_LEADERSHIP]
+rollover = Mehr über die Technologie erfahren - Führung
+brief = Führung
+detail = Kosten-500 Gold ~ Die Technologie Führung lässt die Einheiten in der Nähe eines Helden Erfahrung sammeln.
+
+[T_E_HONOR]
+rollover = Mehr über die Technologie erfahren - Ehre
+brief = Ehre
+detail = Kosten-500 Gold ~ Die Technologie Ehre steigert den Angriff der Helden um 50%, wenn sie gegen andere Helden kämpfen.
+
+[T_E_WARFARE]
+rollover = Mehr über die Technologie erfahren - Kriegskunst
+brief = Kriegskunst
+detail = Kosten-400 Gold ~ Die Technologie Kriegskunst beschleunigt das Lernen aller Einheiten.
+
+[T_E_MERCENARIES]
+rollover = Mehr über die Technologie erfahren - Söldner
+brief = Söldner
+detail = Kosten-600 Gold ~ Die Technologie Söldner erlaubt das Anwerben von Söldnern in den Tavernen.
+
+[T_E_HEROES_QUEST]
+rollover = Mehr über die Technologie erfahren - Heldensuche
+brief = Heldensuche
+detail = Kosten-800 Gold ~ Die Technologie Heldensuche erlaubt das Anwerben von Helden in den Tavernen.
+
+[T_E_FAME]
+rollover = Mehr über die Technologie erfahren - Ruhm
+brief = Ruhm
+detail = Kosten-500 Gold ~ Die Technologie Ruhm erlaubt das Anwerben besserer, billigerer und erfahrenerer Söldner in den Tavernen.
+
+[T_E_TACTICS]
+rollover = Mehr über die Technologie erfahren - Taktik
+brief = Taktik
+detail = Kosten-800 Gold ~ Die Technologie Taktik beschleunigt das Lernen der Einheiten.
+
+[T_E_SIEGE_TACTICS]
+rollover = Mehr über die Technologie erfahren - Belagerungstaktik
+brief = Belagerungstaktik
+detail = Kosten-1200 Gold ~ Die Technologie Belagerungstaktik erlaubt den Bau schwerer Katapulte in den Werkstätten.
+
+[T_E_BODY_BUILDING]
+rollover = Mehr über die Technologie erfahren - Körperertüchtigung
+brief = Körperertüchtigung
+detail = Kosten-1200 Gold ~ Die Technologie Körperertüchtigung erhöht die Lebenspunkte der Einheiten mit jeder neuen Stufe um 5.
+
+[T_E_LANDING_TACTICS]
+rollover = Mehr über die Technologie erfahren - Landungstaktik
+brief = Landungstaktik
+detail = Kosten-300 Gold ~ Die Technologie Landungstaktik lässt Schiffe 50% mehr Einheiten befördern.
+
+[T_E_FANATICISM]
+rollover = Mehr über die Technologie erfahren - Fanatismus
+brief = Fanatismus
+detail = Kosten-400 Gold ~ Die Technologie Fanatismus erhöht die Widerstandskraft der Gebäude um 50%.
+
+[T_E_CRUSADE]
+rollover = Mehr über die Technologie erfahren - Kreuzzug
+brief = Kreuzzug
+detail = Kosten-1400 Gold ~ Die Technologie Kreuzzug ermöglicht es, einen Kreuzzug auszurufen. 20 Kreuzritter erscheinen nacheinander am gewählten Ort und bilden ein gefürchtetes Heer.
+
+[T_E_ESPIONAGE]
+rollover = Mehr über die Technologie erfahren - Spionage
+brief = Spionage
+detail = Kosten-400 Gold ~ Die Technologie Spionage erlaubt die Ausbildung von Spionen in der Burg.
+
+[T_E_BLESS]
+rollover = Mehr über die Technologie erfahren - Segen
+brief = Segen
+detail = Kosten-400 Gold ~ Die Technologie Segen steigert den Angriff der Einheiten um 8 Punkte. Sie erlaubt den Priestern, Einheiten zu segnen.
+
+[T_E_HEALING]
+rollover = Mehr über die Technologie erfahren - Heilkunde
+brief = Heilkunde
+detail = Kosten-400 Gold ~ Die Technologie Heilkunde macht den Heilzauber verfügbar und erlaubt den Priestern, Einheiten zu heilen.
+
+[T_E_MEDICINE]
+rollover = Mehr über die Technologie erfahren - Medizin
+brief = Medizin
+detail = Kosten-500 Gold ~ Die Technologie Medizin lässt die Priester aus größerer Entfernung heilen.
+
+[T_E_INQUISITION]
+rollover = Mehr über die Technologie erfahren - Inquisition
+brief = Inquisition
+detail = Kosten-400 Gold ~ Die Technologie Inquisition verstärkt die Wirkung des Zaubers Exorzismus um 5 Punkte.
+
+[T_E_TRADE_ROUTES]
+rollover = Mehr über die Technologie erfahren - Handelswege
+brief = Handelswege
+detail = Kosten-400 Gold ~ Die Technologie Handelswege erlaubt den Handel mit Karawanen und Schiffen.
+
+[T_E_MAP_MAKING]
+rollover = Mehr über die Technologie erfahren - Kartografie
+brief = Kartografie
+detail = Kosten-800 Gold ~ Die Technologie Kartografie ermöglicht den Bau von Galeonen.
+
+[T_E_USURY]
+rollover = Mehr über die Technologie erfahren - Wucher
+brief = Wucher
+detail = Kosten-300 Gold ~ Die Technologie Wucher erlaubt dem Spieler, in den Tavernen Darlehen aufzunehmen.
+
+[T_E_GAMBLING]
+rollover = Mehr über die Technologie erfahren - Glücksspiel
+brief = Glücksspiel
+detail = Kosten-500 Gold ~ Die Technologie Glücksspiel erlaubt dem Spieler, in den Tavernen zu spielen.
+
+[T_E_SUPPLY_STORAGE]
+rollover = Mehr über die Technologie erfahren - Vorratshaltung
+brief = Vorratshaltung
+detail = Kosten-500 Gold ~ Die Technologie Vorratshaltung erhöht die Bevölkerungsgrenze um 50%.
+
+[T_E_BRIBERY]
+rollover = Mehr über die Technologie erfahren - Bestechung
+brief = Bestechung
+detail = Kosten-300 Gold ~ Die Technologie Bestechung erlaubt den Bauern, feindliche Einheiten zu bestechen.
+
+[T_E_TRADE_TAXES]
+rollover = Mehr über die Technologie erfahren - Handelssteuern
+brief = Handelssteuern
+detail = Kosten-500 Gold ~ Die Technologie Handelssteuern steigert den Handelsgewinn um 5%.
+
+[T_E_BAT]
+rollover = Mehr über die Technologie erfahren - Fledermäuse
+brief = Fledermäuse
+detail = Kosten-400 Gold ~ Die Technologie Fledermaus lässt die Zauberer Fledermäuse beschwören.
+
+[T_E_STONE_GOLEM]
+rollover = Mehr über die Technologie erfahren - Steingolem
+brief = Steingolem
+detail = Kosten-800 Gold ~ Die Technologie Steingolem lässt die Zauberer Steingolems beschwören.
+
+[T_E_INVISIBILITY]
+rollover = Mehr über die Technologie erfahren - Unsichtbarkeit
+brief = Unsichtbarkeit
+detail = Kosten-500 Gold ~ Die Technologie Unsichtbarkeit lässt die Zauberer Einheiten für eine begrenzte Zeit unsichtbar machen.
+
+[T_E_LIGHTNING]
+rollover = Mehr über die Technologie erfahren - Blitz
+brief = Blitz
+detail = Kosten-400 Gold ~ Die Technologie Blitz lässt die Zauberer den Zauber Blitz wirken.
+
+[T_E_FREEZE]
+rollover = Mehr über die Technologie erfahren - Einfrieren
+brief = Einfrieren
+detail = Kosten-800 Gold ~ Die Technologie Einfrieren lässt die Zauberer den Zauber Einfrieren wirken.
+
+[T_A_FEUDALISM]
+rollover = Mehr über die Technologie erfahren - Lehnswesen
+brief = Lehnswesen
+detail = Kosten-300 Gold ~ Das Lehnswesen macht die Ausbildung von Bauern 20 % billiger. Es empfiehlt sich, diese Technologie zu Beginn einer Partie zu erforschen, wenn viele Bauern für den Aufbau der Wirtschaft gebraucht werden.
+
+[T_A_ARCHITECTURE]
+rollover = Mehr über die Technologie erfahren - Baukunst
+brief = Baukunst
+detail = Kosten-300 Gold ~ Die Baukunst macht den Bau jedes Gebäudes 20 % schneller.
+
+[T_A_LEARNING]
+rollover = Mehr über die Technologie erfahren - Lernen
+brief = Lernen
+detail = Kosten-400 Gold ~ Lernen erlaubt den Einheiten, bis zu 4 Erfahrungsstufen zu erreichen.
+
+[T_A_GREAT_WALL]
+rollover = Mehr über die Technologie erfahren - Große Mauer
+brief = Große Mauer
+detail = Kosten-600 Gold ~ Erhöht die Lebenspunkte der Steinmauern und -türme um 30%.
+
+[T_A_BUDHISM]
+rollover = Mehr über die Technologie erfahren - Buddhismus
+brief = Buddhismus
+detail = Kosten-500 Gold ~ Erhöht die Widerstandskraft der Gebäude um 50%.
+
+[T_A_ROTATING_FIELDS]
+rollover = Mehr über die Technologie erfahren - Fruchtwechsel
+brief = Fruchtwechsel
+detail = Kosten-400 Gold ~ Die Technologie Fruchtwechsel lässt die Bauern nach der Aussaat doppelt so viel Nahrung ernten.
+
+[T_A_IRRIGATION]
+rollover = Mehr über die Technologie erfahren - Bewässerung
+brief = Bewässerung
+detail = Kosten-400 Gold ~ Die Technologie Bewässerung lässt die Bauern bei der Feldarbeit 16 statt 12 Nahrung ernten.
+
+[T_A_ART_OF_RIDING]
+rollover = Mehr über die Technologie erfahren - Reitkunst
+brief = Reitkunst
+detail = Kosten-400 Gold ~ Die Technologie Reitkunst erlaubt die Ausbildung berittener Bogenschützen in der Kaserne.
+
+[T_A_TEMPER_IRON]
+rollover = Mehr über die Technologie erfahren - Eisenhärtung
+brief = Eisenhärtung
+detail = Kosten-400 Gold ~ Die Technologie Eisenhärtung steigert den Schwertangriff der Militäreinheiten um 1 Punkt.
+
+[T_A_SCALE_ARMOR]
+rollover = Mehr über die Technologie erfahren - Schuppenpanzer
+brief = Schuppenpanzer
+detail = Kosten-400 Gold ~ Die Technologie Schuppenpanzer steigert die Verteidigung aller Fußtruppen um 1 Punkt.
+
+[T_A_CHAIN_MAIL]
+rollover = Mehr über die Technologie erfahren - Kettenhemd
+brief = Kettenhemd
+detail = Kosten-400 Gold ~ Die Technologie Kettenhemd steigert die Verteidigung aller Fußtruppen um 2 Punkte.
+
+[T_A_CHARIOT]
+rollover = Mehr über die Technologie erfahren - Gepanzerter Streitwagen
+brief = Gepanzerter Streitwagen
+detail = Kosten-300 Gold ~ Die Technologie Gepanzerter Streitwagen macht gepanzerte Streitwagen in der Kaserne verfügbar.
+
+[T_A_SAW]
+rollover = Mehr über die Technologie erfahren - Säge
+brief = Säge
+detail = Kosten-400 Gold ~ Die Technologie Säge lässt die Holzfäller 2 Punkte mehr Holz zu den Sägewerken tragen.
+
+[T_A_CROSSBOW]
+rollover = Mehr über die Technologie erfahren - Armbrust
+brief = Armbrust
+detail = Kosten-400 Gold ~ Die Technologie Armbrust steigert jeden Pfeilangriff um 1 Punkt.
+
+[T_A_GOLD_MINING]
+rollover = Mehr über die Technologie erfahren - Goldabbau
+brief = Goldabbau
+detail = Kosten-400 Gold ~ Die Technologie Goldabbau lässt die Bergleute 12 Gold aus den Minen tragen.
+
+[T_A_STONE_MINING]
+rollover = Mehr über die Technologie erfahren - Steinabbau
+brief = Steinabbau
+detail = Kosten-400 Gold ~ Die Technologie Steinabbau lässt die Bergleute 12 Stein aus den Steinbrüchen tragen.
+
+[T_A_ENGINEERING]
+rollover = Mehr über die Technologie erfahren - Ingenieurskunst
+brief = Ingenieurskunst
+detail = Kosten-400 Gold ~ Die Technologie Ingenieurskunst steigert den Angriff der Katapulte um 5 Punkte.
+
+[T_A_CANNON_TOWER]
+rollover = Mehr über die Technologie erfahren - Kanonentürme
+brief = Kanonentürme
+detail = Kosten-400 Gold ~ Die Technologie Kanonenturm ermöglicht den Ausbau von Steintürmen zu Kanonentürmen.
+
+[T_A_HEROISM]
+rollover = Mehr über die Technologie erfahren - Heldentum
+brief = Heldentum
+detail = Kosten-500 Gold ~ Die Technologie Heldentum erlaubt den Einheiten unbegrenzte Erfahrung, sodass der Spieler einige von ihnen zu Helden machen kann.
+
+[T_A_LEADERSHIP]
+rollover = Mehr über die Technologie erfahren - Führung
+brief = Führung
+detail = Kosten-500 old ~ Die Technologie Führung lässt die Einheiten in der Nähe eines Helden Erfahrung sammeln.
+
+[T_A_HONOR]
+rollover = Mehr über die Technologie erfahren - Ehre
+brief = Ehre
+detail = Kosten-500 Gold ~ Die Technologie Ehre steigert den Angriff der Helden um 50%, wenn sie gegen andere Helden kämpfen.
+
+[T_A_SUN_TZU_BOOK]
+rollover = Mehr über die Technologie erfahren - Das Buch des Sunzi
+brief = Das Buch des Sunzi
+detail = Kosten-600 Gold ~ Die Technologie Das Buch des Sunzi beschleunigt das Lernen der Einheiten.
+
+[T_A_WARFARE]
+rollover = Mehr über die Technologie erfahren - Kriegskunst
+brief = Kriegskunst
+detail = Kosten-400 Gold ~ Die Technologie Kriegskunst beschleunigt das Lernen aller Einheiten.
+
+[T_A_TACTICS]
+rollover = Mehr über die Technologie erfahren - Taktik
+brief = Taktik
+detail = Kosten-800 Gold ~ Die Technologie Taktik beschleunigt das Lernen der Einheiten.
+
+[T_A_MERCENARIES]
+rollover = Mehr über die Technologie erfahren - Söldner
+brief = Söldner
+detail = Kosten-600 Gold ~ Die Technologie Söldner erlaubt das Anwerben von Söldnern in den Tavernen.
+
+[T_A_HEROES_QUEST]
+rollover = Mehr über die Technologie erfahren - Heldensuche
+brief = Heldensuche
+detail = Kosten-800 Gold ~ Die Technologie Heldensuche erlaubt das Anwerben von Helden in den Tavernen.
+
+[T_A_BUSHIDO]
+rollover = Mehr über die Technologie erfahren - Bushido
+brief = Bushido
+detail = Kosten-500 Gold ~ Die Technologie Bushido erlaubt die Ausbildung berittener Samurai in der Kaserne.
+
+[T_A_MEDITATION]
+rollover = Mehr über die Technologie erfahren - Meditation
+brief = Meditation
+detail = Kosten-300 Gold ~ Die Technologie Meditation macht die Ausbildung von Mönchen 25% billiger.
+
+[T_A_PHILOSOPHY]
+rollover = Mehr über die Technologie erfahren - Philosophie
+brief = Philosophie
+detail = Kosten-400 Gold ~ Die Technologie Philosophie lässt die Mönche schon bei ihrer Erschaffung Stufe 2 erreichen.
+
+[T_A_KUNG_FU]
+rollover = Mehr über die Technologie erfahren - Kung-Fu
+brief = Kung-Fu
+detail = Kosten-400 Gold ~ Die Technologie Kung-Fu steigert den Angriff aller Kung-Fu-Einheiten /Bauern, Mönche und Priester/ um 1 Punkt.
+
+[T_A_NINJAS]
+rollover = Mehr über die Technologie erfahren - Ninjas
+brief = Ninjas
+detail = Kosten-500 Gold ~ Die Technologie Ninja erlaubt die Ausbildung von Ninjas in der Burg.
+
+[T_A_MASTERY]
+rollover = Mehr über die Technologie erfahren - Meisterschaft
+brief = Meisterschaft
+detail = Kosten-500 Gold ~ Die Technologie Meisterschaft erlaubt den Priestern, Einheiten bis zu ihrer eigenen Stufe auszubilden.
+
+[T_A_TOURNAMENTS]
+rollover = Mehr über die Technologie erfahren - Turniere
+brief = Turniere
+detail = Kosten-800 Gold ~ Die Technologie Turniere erlaubt Kung-Fu-Einheiten /Bauern, Mönchen und Priestern/, Erfahrung zu teilen.
+
+[T_A_HEALING]
+rollover = Mehr über die Technologie erfahren - Heilkunde
+brief = Heilkunde
+detail = Kosten-400 Gold ~ Die Technologie Heilkunde macht den Heilzauber verfügbar und erlaubt den Priestern, Einheiten zu heilen.
+
+[T_A_MEDICINE]
+rollover = Mehr über die Technologie erfahren - Medizin
+brief = Medizin
+detail = Kosten-500 Gold ~ Die Technologie Medizin lässt die Priester aus größerer Entfernung heilen.
+
+[T_A_TRADE_ROUTES]
+rollover = Mehr über die Technologie erfahren - Handelswege
+brief = Handelswege
+detail = Kosten-400 Gold ~ Die Technologie Handelswege erlaubt den Handel mit Bauern.
+
+[T_A_USURY]
+rollover = Mehr über die Technologie erfahren - Wucher
+brief = Wucher
+detail = Kosten-300 Gold ~ Die Technologie Wucher erlaubt dem Spieler, in den Tavernen Darlehen aufzunehmen.
+
+[T_A_BANKING]
+rollover = Mehr über die Technologie erfahren - Bankwesen
+brief = Bankwesen
+detail = Kosten-600 Gold ~ Die Technologie Bankwesen steigert den Handelsgewinn um 5%.
+
+[T_A_SUPPLY_STORAGE]
+rollover = Mehr über die Technologie erfahren - Vorratshaltung
+brief = Vorratshaltung
+detail = Kosten-500 Gold ~ Die Technologie Vorratshaltung erhöht die Bevölkerungsgrenze um 50%.
+
+[T_A_SEAFOOD]
+rollover = Mehr über die Technologie erfahren - Meeresfrüchte
+brief = Meeresfrüchte
+detail = Kosten-500 Gold ~ Die Technologie Meeresfrüchte erhöht die Bevölkerungsgrenze um 25%.
+
+[T_A_JEWELRY]
+rollover = Mehr über die Technologie erfahren - Juwelierkunst
+brief = Juwelierkunst
+detail = Kosten-400 Gold ~ Die Technologie Juwelierkunst erlaubt den Handel mit magischen Gegenständen auf den Märkten.
+
+[T_A_CHEMISTRY]
+rollover = Mehr über die Technologie erfahren - Chemie
+brief = Chemie
+detail = Kosten-500 Gold ~ Die Technologie Chemie steigert den Angriff der Brandpfeile um 2 Punkte.
+
+[T_A_GUNPOWDER]
+rollover = Mehr über die Technologie erfahren - Schießpulver
+brief = Schießpulver
+detail = Kosten-500 Gold ~ Die Technologie Schießpulver steigert den Angriff der Kanonentürme um 10%.
+
+[T_A_ROCKET_ARROW]
+rollover = Mehr über die Technologie erfahren - Raketenpfeil
+brief = Raketenpfeil
+detail = Kosten-800 Gold ~ Die Technologie Raketenpfeil macht Raketentürme verfügbar.
+
+[T_A_CONCENTRATION]
+rollover = Mehr über die Technologie Konzentration erfahren
+brief = Konzentration
+detail = Kosten-400 Gold ~ Die Technologie Konzentration beschleunigt die Erneuerung des Manas aller Mana-Einheiten.
+
+[T_A_CONFUSION]
+rollover = Mehr über die Technologie Verwirrung erfahren
+brief = Verwirrung
+detail = Kosten-400 Gold ~ Die Technologie Verwirrung lässt die Zauberer den Zauber Verwirrung wirken.
+
+[T_A_WHIRLPOOL]
+rollover = Mehr über die Technologie Strudel erfahren
+brief = Strudel
+detail = Kosten-300 Gold ~ Die Technologie Strudel lässt die Zauberer den Zauber Strudel wirken.
+
+[T_A_FLAMEBOLT]
+rollover = Mehr über die Technologie Flammenstoß erfahren
+brief = Flammenstoß
+detail = Kosten-400 Gold ~ Die Technologie Flammenstoß lässt die Zauberer den Zauber Flammenstoß wirken.
+
+[T_A_DRAGON]
+rollover = Mehr über die Technologie Drache erfahren
+brief = Drache
+detail = Kosten-800 Gold ~ Die Technologie Drache lässt die Zauberer Drachen beschwören.
+
+[T_A_TURN_TO_STONE]
+rollover = Mehr über die Technologie Versteinerung erfahren
+brief = Versteinerung
+detail = Kosten-300 Gold ~ Die Technologie Versteinerung lässt die Zauberer den Zauber Versteinern wirken.
+
+[T_R_FEUDALISM]
+rollover = Mehr über die Technologie erfahren - Lehnswesen
+brief = Lehnswesen
+detail = Kosten-300 Gold ~ Das Lehnswesen macht die Ausbildung von Bauern 20 % billiger. Es empfiehlt sich, diese Technologie zu Beginn einer Partie zu erforschen, wenn viele Bauern für den Aufbau der Wirtschaft gebraucht werden.
+
+[T_R_SLAVERY]
+rollover = Mehr über die Technologie erfahren - Sklaverei
+brief = Sklaverei
+detail = Kosten-200 Gold ~ Die Sklaverei macht die Ausbildung von Bauern 20% billiger. Es empfiehlt sich, diese Technologie zu Beginn einer Partie zu erforschen, wenn viele Bauern für den Aufbau der Wirtschaft gebraucht werden.
+
+[T_R_ARCHITECTURE]
+rollover = Mehr über die Technologie erfahren - Baukunst
+brief = Baukunst
+detail = Kosten-300 Gold ~ Die Baukunst macht den Bau jedes Gebäudes 20 % schneller.
+
+[T_R_LEARNING]
+rollover = Mehr über die Technologie erfahren - Lernen
+brief = Lernen
+detail = Kosten-400 Gold ~ Lernen erlaubt den Einheiten, bis zu 4 Erfahrungsstufen zu erreichen.
+
+[T_R_ROTATING_FIELDS]
+rollover = Mehr über die Technologie erfahren - Fruchtwechsel
+brief = Fruchtwechsel
+detail = Kosten-400 Gold ~ Die Technologie Fruchtwechsel lässt die Bauern nach der Aussaat doppelt so viel Nahrung ernten.
+
+[T_R_DOMESTICATION]
+rollover = Mehr über die Technologie erfahren - Viehzucht
+brief = Viehzucht
+detail = Kosten-300 Gold ~ Die Technologie Viehzucht erlaubt die Zucht von Vieh auf den Bauernhöfen.
+
+[T_R_COW_POACHING]
+rollover = Mehr über die Technologie erfahren - Viehdiebstahl
+brief = Viehdiebstahl
+detail = Kosten-200 Gold ~ Die Technologie Viehdiebstahl erlaubt den Bauern, Kühe zu stehlen.
+
+[T_R_ART_OF_RIDING]
+rollover = Mehr über die Technologie Reitkunst erfahren
+brief = Reitkunst
+detail = Kosten-400 Gold ~ Die Technologie Reitkunst macht berittene Bogenschützen in der Kaserne verfügbar.
+
+[T_R_HORSEMANSHIP]
+rollover = Mehr über die Technologie Pferdekunde erfahren
+brief = Pferdekunde
+detail = Kosten-400 Gold ~ Die Technologie Pferdekunde macht alle berittenen Einheiten billiger.
+
+[T_R_TEMPER_IRON]
+rollover = Mehr über die Technologie erfahren - Eisenhärtung
+brief = Eisenhärtung
+detail = Kosten-400 Gold ~ Die Technologie Eisenhärtung steigert die Schwertkraft der Militäreinheiten um 1 Punkt.
+
+[T_R_HALBERD]
+rollover = Mehr über die Technologie erfahren - Hellebarde
+brief = Hellebarde
+detail = Kosten-600 Gold ~ Die Technologie Hellebarde erlaubt die Ausbildung von Speereinheiten.
+
+[T_R_SCALE_ARMOR]
+rollover = Mehr über die Technologie erfahren - Schuppenpanzer
+brief = Schuppenpanzer
+detail = Kosten-400 Gold ~ Die Technologie Schuppenpanzer erhöht die Verteidigung aller Fußtruppen um 1 Punkt.
+
+[T_R_CHAIN_MAIL]
+rollover = Mehr über die Technologie erfahren - Kettenhemd
+brief = Kettenhemd
+detail = Kosten-400 Gold ~ Die Technologie Kettenhemd steigert die Verteidigung aller Fußtruppen um 2 Punkte.
+
+[T_R_SCIMITAR]
+rollover = Mehr über die Technologie Krummsäbel erfahren
+brief = Krummsäbel
+detail = Kosten-400 Gold ~ Die Technologie Krummsäbel steigert die Schwertkraft aller Einheiten um 1 Punkt und erlaubt die Ausbildung von Satrapen in der Kaserne.
+
+[T_R_SAW]
+rollover = Mehr über die Technologie erfahren - Säge
+brief = Säge
+detail = Kosten-400 Gold ~ Die Technologie Säge lässt die Holzfäller 2 Punkte mehr Holz zu den Sägewerken tragen.
+
+[T_R_CROSSBOW]
+rollover = Mehr über die Technologie erfahren - Armbrust
+brief = Armbrust
+detail = Kosten-400 Gold ~ Die Technologie Armbrust steigert die Angriffskraft jedes Pfeils um 1 Punkt.
+
+[T_R_GOLD_MINING]
+rollover = Mehr über die Technologie erfahren - Goldabbau
+brief = Goldabbau
+detail = Kosten-400 Gold ~ Die Technologie Goldabbau lässt die Bergleute 12 Gold aus den Minen tragen.
+
+[T_R_STONE_MINING]
+rollover = Mehr über die Technologie erfahren - Steinabbau
+brief = Steinabbau
+detail = Kosten-400 Gold ~ Die Technologie Steinabbau lässt die Bergleute 12 Stein aus den Steinbrüchen tragen.
+
+[T_R_ENGINEERING]
+rollover = Mehr über die Technologie erfahren - Ingenieurskunst
+brief = Ingenieurskunst
+detail = Kosten-400 Gold ~ Die Technologie Ingenieurskunst steigert die Angriffskraft der Belagerungswaffen um 5 Punkte.
+
+[T_R_CANNON_TOWER]
+rollover = Mehr über die Technologie erfahren - Kanonentürme
+brief = Kanonentürme
+detail = Kosten-400 Gold ~ Die Technologie Kanonenturm ermöglicht den Ausbau von Steintürmen zu Kanonentürmen.
+
+[T_R_HEROISM]
+rollover = Mehr über die Technologie erfahren - Heldentum
+brief = Heldentum
+detail = Kosten-500 Gold ~ Die Technologie Heldentum erlaubt den Einheiten unbegrenzte Erfahrung, sodass der Spieler einige von ihnen zu Helden machen kann.
+
+[T_R_LEADERSHIP]
+rollover = Mehr über die Technologie erfahren - Führung
+brief = Führung
+detail = Kosten-500 Gold ~ Die Technologie Führung lässt die Einheiten in der Nähe eines Helden Erfahrung sammeln.
+
+[T_R_HONOR]
+rollover = Mehr über die Technologie erfahren - Ehre
+brief = Ehre
+detail = Kosten-500 Gold ~ Die Technologie Ehre steigert die Angriffskraft der Helden im Kampf gegen andere Helden um 50%.
+
+[T_R_WARFARE]
+rollover = Mehr über die Technologie erfahren - Kriegskunst
+brief = Kriegskunst
+detail = Kosten-400 Gold ~ Die Technologie Kriegskunst beschleunigt das Lernen aller Einheiten.
+
+[T_R_MERCENARIES]
+rollover = Mehr über die Technologie erfahren - Söldner
+brief = Söldner
+detail = Kosten-600 Gold ~ Die Technologie Söldner erlaubt das Anwerben von Söldnern in den Tavernen.
+
+[T_R_HEROES_QUEST]
+rollover = Mehr über die Technologie erfahren - Heldensuche
+brief = Heldensuche
+detail = Kosten-800 Gold ~ Die Technologie Heldensuche erlaubt das Anwerben von Helden in den Tavernen.
+
+[T_R_FAME]
+rollover = Mehr über die Technologie erfahren - Ruhm
+brief = Ruhm
+detail = Kosten-500 Gold ~ Die Technologie Ruhm erlaubt das Anwerben besserer, billigerer und erfahrenerer Söldner in den Tavernen.
+
+[T_R_BODY_BUILDING]
+rollover = Mehr über die Technologie erfahren - Körperertüchtigung
+brief = Körperertüchtigung
+detail = Kosten-1200 Gold ~ Die Technologie Körperertüchtigung erhöht die Lebenspunkte der Einheiten mit jeder neuen Stufe um 5.
+
+[T_R_RIDING_HORDES]
+rollover = Mehr über die Technologie Reiterhorden erfahren
+brief = Reiterhorden
+detail = Kosten-500 Gold ~ Die Technologie Reiterhorden steigert den Angriff der berittenen Einheiten um 2 Punkte und ihre Verteidigung um 1 Punkt.
+
+[T_R_JANISSARY]
+rollover = Mehr über die Technologie Janitschar erfahren
+brief = Janitschar
+detail = Kosten-1200 Gold ~ Die Technologie Janitschar macht Janitscharen in der Kaserne verfügbar.
+
+[T_R_LANDING_TACTICS]
+rollover = Mehr über die Technologie erfahren - Landungstaktik
+brief = Landungstaktik
+detail = Kosten-300 Gold ~ Die Technologie Landungstaktik lässt Schiffe 50% mehr Einheiten befördern.
+
+[T_R_FANATICISM]
+rollover = Mehr über die Technologie erfahren - Fanatismus
+brief = Fanatismus
+detail = Kosten-400 Gold ~ Die Technologie Fanatismus erhöht die Widerstandskraft der Gebäude um 50%.
+
+[T_R_JIHAD]
+rollover = Mehr über die Technologie Dschihad erfahren
+brief = Dschihad
+detail = Kosten-1200 Gold ~ Die Technologie Dschihad erlaubt es, Bauern in Dschihad-Krieger zu verwandeln und Dschihad-Krieger in der Kaserne auszubilden.
+
+[T_R_ESPIONAGE]
+rollover = Mehr über die Technologie erfahren - Spionage
+brief = Spionage
+detail = Kosten-400 Gold ~ Die Technologie Spionage erlaubt die Ausbildung von Spionen in der Burg.
+
+[T_R_BLESS]
+rollover = Mehr über die Technologie erfahren - Segen
+brief = Segen
+detail = Kosten-400 Gold ~ Die Technologie Segen steigert den Angriff der Einheiten um 8 Punkte. Sie erlaubt den Priestern, Einheiten zu segnen.
+
+[T_R_HEALING]
+rollover = Mehr über die Technologie erfahren - Heilkunde
+brief = Heilkunde
+detail = Kosten-400 Gold ~ Die Technologie Heilkunde macht den Heilzauber verfügbar und erlaubt den Priestern, Einheiten zu heilen.
+
+[T_R_TRADE_ROUTES]
+rollover = Mehr über die Technologie erfahren - Handelswege
+brief = Handelswege
+detail = Kosten-400 Gold ~ Die Technologie Handelswege erlaubt den Handel mit Karawanen und Schiffen.
+
+[T_R_USURY]
+rollover = Mehr über die Technologie erfahren - Wucher
+brief = Wucher
+detail = Kosten-300 Gold ~ Die Technologie Wucher erlaubt dem Spieler, in den Tavernen Darlehen aufzunehmen.
+
+[T_R_GAMBLING]
+rollover = Mehr über die Technologie erfahren - Glücksspiel
+brief = Glücksspiel
+detail = Kosten-500 Gold ~ Die Technologie Glücksspiel erlaubt dem Spieler, in den Tavernen zu spielen.
+
+[T_R_SUPPLY_STORAGE]
+rollover = Mehr über die Technologie erfahren - Vorratshaltung
+brief = Vorratshaltung
+detail = Kosten-500 Gold ~ Die Technologie Vorratshaltung erhöht die Bevölkerungsgrenze um 50%.
+
+[T_R_BRIBERY]
+rollover = Mehr über die Technologie erfahren - Bestechung
+brief = Bestechung
+detail = Kosten-300 Gold ~ Die Technologie Bestechung erlaubt den Bauern, feindliche Einheiten zu bestechen.
+
+[T_R_ORE_FLOTATION]
+rollover = Mehr über die Technologie erfahren - Erzflotation
+brief = Erzflotation
+detail = Kosten-300 Gold ~ Die Technologie Erzflotation steigert den Ertrag der Goldminen um 100%.
+
+[T_R_MAGIC_CARPET]
+rollover = Mehr über die Technologie Fliegender Teppich erfahren
+brief = Fliegender Teppich
+detail = Kosten-300 Gold ~ Die Technologie Fliegender Teppich lässt die Zauberer Fliegende Teppiche beschwören.
+
+[T_R_JINN]
+rollover = Mehr über die Technologie Dschinn erfahren
+brief = Dschinn
+detail = Kosten-600 Gold ~ Die Technologie Dschinn lässt die Zauberer Dschinns beschwören.
+
+[T_R_NECROMANCY]
+rollover = Mehr über die Technologie Totenbeschwörung erfahren
+brief = Totenbeschwörung
+detail = Kosten-400 Gold ~ Die Technologie Totenbeschwörung lässt die Zauberer den Zauber Totenbeschwörung wirken und tote Einheiten erwecken.
+
+[T_R_MAGIC_VISION]
+rollover = Mehr über die Technologie Magische Sicht erfahren
+brief = Magische Sicht
+detail = Kosten-400 Gold ~ Die Technologie Magische Sicht lässt die Zauberer den Zauber Magische Sicht wirken und die Karte schneller erkunden.
+
+[T_R_RAIN_OF_FIRE]
+rollover = Mehr über die Technologie Feuerregen erfahren
+brief = Feuerregen
+detail = Kosten-800 Gold ~ Die Technologie Feuerregen lässt die Zauberer den Zauber Feuerregen wirken.
+
+[T_R_WITCHCRAFTS]
+rollover = Mehr über die Technologie Hexerei erfahren
+brief = Hexerei
+detail = Kosten-800 Gold ~ Die Technologie Hexerei erlaubt den Bau von Zauberwerkstätten und die Herstellung magischer Gegenstände.
+
+[I_WEAPON]
+rollover = Mehr über Waffen erfahren
+brief = Waffe
+detail = Waffen steigern den Angriffswert ihres Trägers. Manche Einheiten haben einen Angriffswert. Trägt eine Einheit eine Waffe im Inventar, ist ihr Angriffswert die Summe der Angriffspunkte der Einheit und der Waffe. Wird der Gegenstand abgelegt, kehren die Angriffspunkte der Einheit zu ihrem früheren Wert zurück.
+
+[I_ARMOR]
+rollover = Mehr über Rüstungen erfahren
+brief = Rüstung
+detail = Rüstungen steigern den Verteidigungswert ihres Trägers. Alle Einheiten haben einen Verteidigungswert. Trägt eine Einheit eine Rüstung im Inventar, ist ihr Verteidigungswert die Summe der Verteidigungspunkte der Einheit und der Rüstung. Wird der Gegenstand abgelegt, kehren die Verteidigungspunkte der Einheit zu ihrem früheren Wert zurück.
+
+[I_SPELLBOOK]
+rollover = Mehr über Zauberbücher erfahren
+brief = Zauberbuch
+detail = Zauberbücher geben ihrem Träger die Fähigkeit, Zauber zu wirken.
+
+[I_SCROLL]
+rollover = Mehr über Schriftrollen erfahren
+brief = Schriftrolle
+detail = Schriftrollen enthalten Texte, die in den Geschichten vorkommen. Ihre Botschaft liest man, indem man die Schriftrolle aufhebt und im Inventar der Einheit auswählt.
+
+[I_POTION]
+rollover = Mehr über Tränke erfahren
+brief = Trank
+detail = Tränke steigern die Gesundheit ihres Trägers. Alle Einheiten haben einen Gesundheitswert. Benutzt eine Einheit einen Trank, steigt ihre Gesundheit um die Menge, die der Trank enthält.
+
+[I_RESOURCE]
+rollover = Mehr über Rohstoffgegenstände erfahren
+brief = Rohstoffgegenstand
+detail = Rohstoffgegenstände sind kleine Rohstoffmengen auf der Karte. Einheiten können sie aufheben und in der Schatzkammer einlagern. Die Menge ist in der Auswahlansicht zu sehen, sobald der Gegenstand ausgewählt ist.
+
+[C_MOVE]
+rollover = Den Befehl Bewegen kennenlernen
+brief = Bewegen
+detail = Um eine Einheit zu bewegen, wählen Sie sie aus und klicken auf die Schaltfläche Bewegen, oder Sie klicken einfach mit der rechten Maustaste auf das gewünschte Ziel. ~ Um einem festen Weg zu folgen, halten Sie die Umschalttaste und zeigen mit der rechten Maustaste auf die gewünschten Ziele. ~ Angriffsmarsch: Um auf der Suche nach Feinden vorzurücken, halten Sie Strg, während Sie mit der rechten Maustaste auf das Ziel klicken. ~ Schleichmarsch: Sollen Ihre Einheiten nur antworten, wenn sie angegriffen werden, halten Sie Alt, während Sie auf den Ort zeigen.
+
+[C_REPAIR]
+rollover = Lernen, wie man ein Gebäude repariert
+brief = Reparieren
+detail = Wählen Sie einen Bauern aus, klicken Sie in der Befehlsleiste auf die Schaltfläche Reparieren und dann mit der rechten Maustaste auf das Gebäude, das repariert werden soll.
+
+[C_HARVEST]
+rollover = Den Befehl Ernten kennenlernen
+brief = Ernten
+detail = Wählen Sie einen Bauern aus, klicken Sie auf die Befehlsschaltfläche Ernten und zeigen Sie auf den Rohstoff, der gesammelt werden soll.
+
+[C_EXPLORE]
+rollover = Lernen, wie man ein Gebiet erkundet
+brief = Erkunden
+detail = Wählen Sie eine Einheit aus, klicken Sie auf die Befehlsschaltfläche Erkunden und zeigen Sie auf das Gebiet, das erkundet werden soll.
+
+[C_ATTACK]
+rollover = Lernen, wie man feindliche Einheiten angreift
+brief = Angreifen
+detail = Wählen Sie eine Einheit aus, klicken Sie auf die Befehlsschaltfläche Angreifen oder zeigen Sie einfach mit einem Rechtsklick auf eine feindliche Einheit oder ein feindliches Objekt. ~ Mehrere Objekte wählen Sie aus, indem Sie die Umschalttaste halten und sie nacheinander mit der rechten Maustaste anklicken. ~ Halten Sie Alt, während Sie ein Ziel wählen, werden alle Objekte derselben Art ausgewählt und angegriffen.
+
+[C_STOP]
+rollover = Lernen, wie man Einheiten anhält
+brief = Anhalten
+detail = Wählen Sie eine Einheit aus und klicken Sie in der Befehlsleiste auf die Befehlsschaltfläche Anhalten.
+
+[C_PICKITEM]
+rollover = Lernen, wie man einen Gegenstand aufhebt
+brief = Gegenstand aufheben
+detail = Wählen Sie eine Einheit aus, klicken Sie auf die Befehlsschaltfläche Gegenstand aufheben oder führen Sie den Zeiger einfach über einen Gegenstand und wählen Sie ihn mit der rechten Maustaste.
+
+[C_USEITEM]
+rollover = Lernen, wie man einen Gegenstand benutzt
+brief = Gegenstand benutzen
+detail = Wählen Sie eine Einheit mit Gegenständen aus. Öffnen Sie ihr Inventar, wählen Sie den Gegenstand und zeigen Sie auf das Ziel.
+
+[C_DROPITEM]
+rollover = Lernen, wie man einen Gegenstand ablegt
+brief = Gegenstand ablegen
+detail = Wählen Sie eine Einheit mit Gegenständen aus. Öffnen Sie ihr Inventar und wählen Sie den abzulegenden Gegenstand bei gehaltener Alt-Taste. Klicken Sie auf die Befehlsschaltfläche Gegenstand benutzen und zeigen Sie auf den gewünschten Ort.
+
+[C_CAPTURE]
+rollover = Lernen, wie man ein feindliches Gebäude erobert
+brief = Erobern
+detail = Wählen Sie einen Bauern aus, klicken Sie auf die Befehlsschaltfläche Erobern oder klicken Sie einfach mit der rechten Maustaste auf ein feindliches Gebäude.
+
+[C_BUILD]
+rollover = Lernen, wie man baut
+brief = Bauen
+detail = Wählen Sie einen Bauern aus, klicken Sie auf die Befehlsschaltfläche Bauen und wählen Sie mit der passenden Schaltfläche das Gebäude, das errichtet werden soll. Zeigen Sie dann auf den gewünschten Ort. Das Bild des Gebäudes ist grün, wenn der Ort geeignet ist.
+
+[C_PATROL]
+rollover = Lernen, wie man Einheiten patrouillieren lässt
+brief = Patrouillieren
+detail = Wählen Sie eine Einheit aus, klicken Sie auf die Befehlsschaltfläche Patrouillieren und klicken Sie mit der rechten Maustaste auf das Ziel. Die Einheit patrouilliert zwischen ihrer vorherigen Position und den angegebenen Zielen. ~ Um einen festen Patrouillenweg anzulegen, halten Sie die Umschalttaste, während Sie die Zielpunkte setzen.
+
+[C_GUARD]
+rollover = Lernen, wie man ein Objekt bewacht
+brief = Bewachen
+detail = Wählen Sie eine Einheit aus, klicken Sie auf die Befehlsschaltfläche Bewachen und wählen Sie das Objekt, das bewacht werden soll. ~ Mehrere Objekte wählen Sie aus, indem Sie die Umschalttaste halten und sie nacheinander mit der rechten Maustaste anklicken. ~ Halten Sie Alt, während Sie ein Objekt wählen, werden alle Objekte derselben Art ausgewählt und bewacht.
+
+[C_LOAD]
+rollover = Lernen, wie man Einheiten einlädt
+brief = Einladen
+detail = Wählen Sie die Einheiten aus, die eingeladen werden sollen, und klicken Sie mit der rechten Maustaste auf die Einheit, die sie aufnehmen soll.
+
+[C_UNLOAD]
+rollover = Lernen, wie man Einheiten auslädt
+brief = Ausladen
+detail = Wählen Sie eine beladene Einheit aus und zeigen Sie auf den Ort, an dem die Objekte ausgeladen werden sollen. Die Farbe des Zeigers zeigt, ob der Ort geeignet ist.
+
+[C_EMERGE]
+rollover = Mehr über das Gebäude erfahren - Burg
+brief = Herauslassen
+detail = Wählen Sie ein Gebäude mit Einheiten darin aus. Öffnen Sie seinen Inhalt und wählen Sie eine Einheit, die herauskommen soll. Um alle Einheiten herauszulassen, wählen Sie das Gebäude aus und klicken auf die Befehlsschaltfläche Herauslassen.
+
+[C_LIGHTNING]
+rollover = Den Zauber Blitz kennenlernen
+brief = Zauber Blitz
+detail = Nur europäische Zauberer können den Zauber Blitz wirken. Wählen Sie die Befehlsschaltfläche Blitz und zeigen Sie dann auf die Einheit, die Sie angreifen wollen.
+
+[C_SPAWNBAT]
+rollover = Lernen, wie man Fledermäuse beschwört
+brief = Fledermaus beschwören
+detail = Nur europäische Zauberer können Fledermäuse beschwören. Wählen Sie die Befehlsschaltfläche Fledermaus und zeigen Sie dann auf den Ort, an dem die Fledermäuse erscheinen sollen.
+
+[C_FREEZE]
+rollover = Den Zauber Einfrieren kennenlernen
+brief = Zauber Einfrieren
+detail = Nur europäische Zauberer können den Zauber Einfrieren wirken. Wählen Sie die Befehlsschaltfläche Einfrieren und zeigen Sie dann auf die Einheit, die Sie angreifen wollen.
+
+[C_SPAWNSTONEGOLEM]
+rollover = Lernen, wie man einen Steingolem beschwört
+brief = Steingolems beschwören
+detail = Nur europäische Zauberer können Steingolems beschwören. Wählen Sie die Befehlsschaltfläche Steingolem und zeigen Sie dann auf den Ort, an dem die Steingolems erscheinen sollen.
+
+[C_INVISIBILITY]
+rollover = Den Zauber Unsichtbarkeit kennenlernen
+brief = Unsichtbarkeit
+detail = Nur europäische Zauberer können den Zauber Unsichtbarkeit wirken. Wählen Sie die Befehlsschaltfläche Unsichtbarkeit und zeigen Sie dann auf die Einheit, die unsichtbar werden soll.
+
+[C_TRADE]
+rollover = Lernen, wie man Handel treibt
+brief = Handel
+detail = Durch Handel tauschen Sie Nahrung, Holz, Gold, Eisen und Stein mit anderen Reichen oder zwischen Ihren eigenen Märkten. Händler und Schiffe treiben den Handel. Wählen Sie einen Händler oder ein Schiff aus. Klicken Sie in der Befehlsleiste auf die Befehlsschaltfläche Handeln. Klicken Sie im Handelsmenü auf die Ortsangabe – der Zeiger ändert sich. Wählen Sie den Markt oder Hafen, an dem Sie beginnen wollen. Wählen Sie die Art der Rohstoffe, die Sie von dort mitnehmen wollen. Wählen Sie das Ziel und die Art der Rohstoffe, die Sie zurückbringen wollen. Wählen Sie die Menge, die Sie handeln wollen. Klicken Sie auf Beginnen, um den Handel zu starten, und auf Abbrechen, um aufzuhören.
+
+[C_HEAL]
+rollover = Den Befehl Heilen kennenlernen
+brief = Einheiten heilen
+detail = Wählen Sie die Befehlsschaltfläche Heilen und zeigen Sie dann auf die Einheiten, die geheilt werden sollen. Der Befehl Heilen stellt die Gesundheit der Einheit wieder her.
+
+[C_BLESS]
+rollover = Den Befehl Segnen kennenlernen
+brief = Einheiten segnen
+detail = Wählen Sie die Befehlsschaltfläche Segnen und zeigen Sie dann auf die Einheiten, die gesegnet werden sollen. Dieser Befehl steigert die Angriffskraft der Einheiten.
+
+[C_IMPERSONATE]
+rollover = Den Befehl Verkleiden kennenlernen
+brief = Verkleiden
+detail = Wählen Sie einen Spion aus und klicken Sie auf die Befehlsschaltfläche Verkleiden, dann wählen Sie die Einheit, deren Gestalt er annehmen soll.
+
+[C_REVEAL]
+rollover = Den Befehl Enttarnen kennenlernen
+brief = Enttarnen
+detail = Wählen Sie eine verkleidete Einheit aus und klicken Sie auf die Befehlsschaltfläche Enttarnen.
+
+[C_BRIBE]
+rollover = Lernen, wie man Einheiten besticht
+brief = Bestechen
+detail = Wählen Sie einen Bauern aus. Klicken Sie auf die Befehlsschaltfläche Bestechen und zeigen Sie dann auf die feindliche Einheit, die Sie bestechen wollen. So wird diese Einheit Ihre.
+
+[C_ATTACKGROUND]
+rollover = Den Befehl Boden angreifen kennenlernen
+brief = Boden angreifen
+detail = Wählen Sie eine Einheit aus, klicken Sie auf die Befehlsschaltfläche Boden angreifen und zeigen Sie auf den Ort, den Sie angreifen wollen. Die Einheit greift diesen Ort an, auch wenn dort kein Objekt ist, bis Sie sie anhalten.
+
+[C_STANDGROUND]
+rollover = Den Befehl Nicht von der Stelle rühren kennenlernen
+brief = Nicht von der Stelle rühren
+detail = Wählen Sie eine Einheit aus, klicken Sie auf die Befehlsschaltfläche Nicht von der Stelle rühren und zeigen Sie auf den Ort, an dem die Einheit stehen soll. Sie bleibt dort, bis Sie etwas anderes beschließen.
+
+[C_HOLDSTEADY]
+rollover = Den Befehl Stellung halten kennenlernen
+brief = Stellung halten
+detail = Wählen Sie eine Einheit aus und klicken Sie auf die Befehlsschaltfläche Nicht von der Stelle rühren; ihre Tätigkeiten enden sofort.
+
+[C_FISHING]
+rollover = Den Befehl Mit dem Fischen beginnen kennenlernen
+brief = Mit dem Fischen beginnen
+detail = Wählen Sie ein Fischerboot aus, klicken Sie auf die Befehlsschaltfläche Mit dem Fischen beginnen und wählen Sie einen Fischgrund.
+
+[C_LOANRETURN]
+rollover = Lernen, wie man ein Darlehen zurückzahlt
+brief = Darlehen zurückzahlen
+detail = Um ein Darlehen zurückzuzahlen, klicken Sie in der Befehlsleiste der Taverne auf die Schaltfläche Darlehen zurückzahlen.
+
+[C_LOAN]
+rollover = Lernen, wie man Darlehen aufnimmt
+brief = Darlehen aufnehmen
+detail = Wählen Sie eine Taverne aus und klicken Sie dann auf die Befehlsschaltfläche Darlehen aufnehmen. Wählen Sie den Rohstoff, den Sie leihen wollen – Gold, Stein, Nahrung oder Holz. ~ Die Menge, die Sie vom gewählten Rohstoff erhalten können, steht in der linken unteren Ecke der Ansicht.
+
+[C_JIHAD]
+rollover = Den Befehl Dschihad kennenlernen
+brief = Dschihad
+detail = Damit verwandeln Sie Bauern in Dschihad-Krieger. Wählen Sie einen Bauern aus und klicken Sie dann auf die Befehlsschaltfläche Dschihad.
+
+[C_CLOAK]
+rollover = Lernen, wie man Ninjas tarnt
+brief = Tarnen
+detail = Wählen Sie den Ninja aus und klicken Sie dann auf die Befehlsschaltfläche Tarnen. Die Einheit ist für eine gewisse Zeit unsichtbar.
+
+[C_UNCLOAK]
+rollover = Lernen, wie man Ninjas enttarnt
+brief = Enttarnen
+detail = Wählen Sie einen getarnten Ninja aus und klicken Sie dann auf die Befehlsschaltfläche Enttarnen, um ihn sichtbar zu machen.
+
+[C_MURDER]
+rollover = Lernen, wie man eine feindliche Einheit meuchelt
+brief = Meucheln
+detail = Wählen Sie einen Ninja aus, klicken Sie dann auf die Befehlsschaltfläche Meucheln und wählen Sie die Einheit, die gemeuchelt werden soll.
+
+[C_GATEOPEN]
+rollover = Lernen, wie man ein Tor öffnet
+brief = Tor öffnen
+detail = Wählen Sie das Tor aus und klicken Sie auf die Befehlsschaltfläche Tor öffnen.
+
+[C_GATECLOSE]
+rollover = Lernen, wie man ein Tor schließt
+brief = Tor schließen
+detail = Wählen Sie das Tor aus und klicken Sie auf die Befehlsschaltfläche Tor schließen.
+
+[C_GATESUBAION]
+rollover = Lernen, wie man das selbsttätige Öffnen und Schließen des Tors einschaltet
+brief = Tor-KI ein
+detail = Wählen Sie das Tor aus und klicken Sie auf die Befehlsschaltfläche Tor-KI ein. Die KI öffnet und schließt das Tor selbsttätig, sobald Einheiten davorstehen.
+
+[C_GATESUBAIOFF]
+rollover = Lernen, wie man das selbsttätige Öffnen und Schließen des Tors ausschaltet
+brief = Tor-KI aus
+detail = Wählen Sie das Tor aus und klicken Sie auf die Befehlsschaltfläche Tor-KI aus, um die Hilfe der KI abzuschalten.
+
+[C_COMMON]
+rollover = Lernen, wie man gewöhnliche Gebäude errichtet
+brief = Gewöhnliche Gebäude
+detail = Wählen Sie einen Bauern aus, klicken Sie auf die Befehlsschaltfläche Bauen und dann auf die Schaltfläche Gewöhnliche Gebäude.
+
+[C_RARE]
+rollover = Lernen, wie man seltene Gebäude errichtet
+brief = Seltene Gebäude
+detail = Wählen Sie einen Bauern aus, klicken Sie auf die Befehlsschaltfläche Bauen und dann auf die Schaltfläche Seltene Gebäude.
+
+[C_SPECIAL]
+rollover = Lernen, wie man besondere Gebäude errichtet
+brief = Besondere Gebäude
+detail = Wählen Sie einen Bauern aus, klicken Sie auf die Befehlsschaltfläche Bauen und dann auf die Schaltfläche Besondere Gebäude.
+
+[C_SETAI]
+rollover = Lernen, wie man seine Einheiten der KI überlässt
+brief = KI
+detail = Wählen Sie keine Einheit aus. Klicken Sie auf die Befehlsschaltfläche KI. Es erscheinen vier Arten von KI-Hilfe – Volle KI, Keine KI, Kriegs-KI, Wirtschafts-KI. Wählen Sie die gewünschte.
+
+[C_SETAINONE]
+rollover = Lernen, wie man die KI-Steuerung der Einheiten abschaltet
+brief = Keine KI
+detail = Klicken Sie auf die Befehlsschaltfläche Keine KI.
+
+[C_SETAIFULL]
+rollover = Lernen, wie man die volle KI-Steuerung der Einheiten einschaltet
+brief = Volle KI
+detail = Klicken Sie auf die Befehlsschaltfläche Volle KI.
+
+[C_SETAIWAR]
+rollover = Lernen, wie man die Kriegs-KI einschaltet
+brief = Kriegs-KI
+detail = Klicken Sie auf die Befehlsschaltfläche Kriegs-KI.
+
+[C_SETAIECO]
+rollover = Lernen, wie man die Wirtschafts-KI einschaltet
+brief = Wirtschafts-KI
+detail = Klicken Sie auf die Befehlsschaltfläche Wirtschafts-KI.
+
+[C_VIEWHEROES]
+rollover = Lernen, wie man Helden auf der Karte anzeigt
+brief = Helden ansehen
+detail = Die Befehlsschaltfläche Helden ansehen ist nur verfügbar, wenn einige Ihrer Helden auf der Karte sind. Wählen Sie keine Einheit aus. Klicken Sie auf Helden ansehen, wenn die Schaltfläche leuchtet; dann sehen Sie die Symbole all Ihrer Helden. Nun können Sie wählen, welchen Sie auswählen.
+
+[C_VIEWSPYS]
+rollover = Lernen, wie man Spione auf der Karte anzeigt
+brief = Spione ansehen
+detail = Die Befehlsschaltfläche Spione ansehen ist nur verfügbar, wenn einige Ihrer Spione auf der Karte sind. Wählen Sie keine Einheit aus. Klicken Sie auf Spione ansehen, wenn die Schaltfläche leuchtet; dann sehen Sie die Symbole all Ihrer Spione. Nun können Sie wählen, welchen Sie auswählen.
+
+[C_VIEWITEMS]
+rollover = Lernen, wie man Gegenstände auf der Karte anzeigt
+brief = Gegenstände ansehen
+detail = Die Befehlsschaltfläche Gegenstände ansehen ist nur verfügbar, wenn einige Ihrer Gegenstände auf der Karte sind. Wählen Sie keine Einheit aus. Klicken Sie auf Gegenstände ansehen, wenn die Schaltfläche leuchtet; dann sehen Sie die Symbole all Ihrer Gegenstände. Nun können Sie wählen, welchen Sie auswählen.
+
+[C_TOWERUP1]
+rollover = Lernen, wie man einen Wachturm zum Wehrturm ausbaut
+brief = Zum Wehrturm ausbauen
+detail = Wählen Sie einen Wachturm aus und klicken Sie dann auf die Befehlsschaltfläche Zum Wehrturm ausbauen.
+
+[C_TOWERUP2]
+rollover = Lernen, wie man einen Wehrturm zum Steinturm ausbaut
+brief = Zum Steinturm ausbauen
+detail = Wählen Sie einen Wehrturm aus und klicken Sie dann auf die Befehlsschaltfläche Zum Steinturm ausbauen.
+
+[C_TOWERUP3]
+rollover = Lernen, wie man einen Wehr- oder Steinturm zum Kanonenturm ausbaut
+brief = Zum Kanonenturm ausbauen
+detail = Wählen Sie einen Wehrturm oder Steinturm aus und klicken Sie dann auf die Befehlsschaltfläche Zum Kanonenturm ausbauen.
+
+[C_TOSWALL]
+rollover = Lernen, wie man eine Palisade zur Steinmauer ausbaut
+brief = Zur Steinmauer ausbauen
+detail = Wählen Sie eine Palisade aus und klicken Sie dann auf die Befehlsschaltfläche Zur Steinmauer ausbauen. ~ Dieser Befehl ist nur verfügbar, wenn die Technologie Baukunst erforscht ist.
+
+[C_TOSGATE]
+rollover = Lernen, wie man ein Holztor zum Steintor ausbaut
+brief = Zum Steintor ausbauen
+detail = Wählen Sie ein Holztor aus und klicken Sie dann auf die Befehlsschaltfläche Zum Steintor ausbauen. ~ Dieser Befehl ist nur verfügbar, wenn die Technologie Baukunst erforscht ist.
+
+[C_RISEDEAD]
+rollover = Den Zauber Tote erwecken kennenlernen
+brief = Zauber Tote erwecken
+detail = Wählen Sie einen arabischen Zauberer aus und klicken Sie dann auf die Befehlsschaltfläche Tote erwecken. Liegen tote Einheiten in der Nähe, werden sie zu Skeletten.
+
+[C_SPAWNDRAGON]
+rollover = Lernen, wie man Drachen beschwört
+brief = Drachen beschwören
+detail = Nur asiatische Zauberer können Drachen beschwören. Wählen Sie die Befehlsschaltfläche Drachen beschwören und zeigen Sie dann auf den Ort, an dem die Drachen erscheinen sollen.
+
+[C_FLAMEBOLT]
+rollover = Den Zauber Flammenstoß kennenlernen
+brief = Zauber Flammenstoß
+detail = Nur asiatische Zauberer können den Zauber Flammenstoß wirken. Klicken Sie auf die Befehlsschaltfläche Flammenstoß und wählen Sie die Einheit, die angegriffen werden soll.
+
+[C_WHIRLPOOL]
+rollover = Den Zauber Strudel kennenlernen
+brief = Zauber Strudel
+detail = Nur asiatische Zauberer können den Zauber Strudel wirken. Klicken Sie auf die Befehlsschaltfläche Strudel und wählen Sie einen Ort auf dem Wasser für den Zauber.
+
+[C_TURNTOSTONE]
+rollover = Den Zauber Versteinern kennenlernen
+brief = Zauber Versteinern
+detail = Nur asiatische Zauberer können den Zauber Versteinern wirken. Klicken Sie auf die Befehlsschaltfläche Versteinern und wählen Sie die Einheit, auf die er wirken soll.
+
+[C_FIRERAIN]
+rollover = Den Zauber Feuerregen kennenlernen
+brief = Zauber Feuerregen
+detail = Nur arabische Zauberer können den Zauber Feuerregen wirken. Klicken Sie auf die Befehlsschaltfläche Feuerregen und wählen Sie einen Ort für den Zauber.
+
+[C_SPAWNJINN]
+rollover = Lernen, wie man Dschinns beschwört
+brief = Dschinns beschwören
+detail = Nur arabische Zauberer können Dschinns beschwören. Klicken Sie auf die Befehlsschaltfläche Dschinn und zeigen Sie dann auf den Ort, an dem die Dschinns erscheinen sollen.
+
+[C_MAGICVISION]
+rollover = Den Zauber Magische Sicht kennenlernen
+brief = Zauber Magische Sicht
+detail = Nur arabische Zauberer können den Zauber Magische Sicht wirken. Klicken Sie auf die Befehlsschaltfläche Magische Sicht und wählen Sie einen Ort oder eine Einheit für den Zauber. Wählen Sie eine Einheit, lichtet sie für eine gewisse Zeit den Nebel für Sie.
+
+[C_CONFUSION]
+rollover = Den Zauber Verwirrung kennenlernen
+brief = Zauber Verwirrung
+detail = Nur asiatische Zauberer können den Zauber Verwirrung wirken. Klicken Sie auf die Befehlsschaltfläche Verwirrung und wählen Sie die Einheit, auf die er wirken soll. ~ Von diesem Zauber getroffene Einheiten werden für eine gewisse Zeit allen anderen Einheiten feindlich.
+
+[C_BUILDITEM]
+rollover = Lernen, wie man einen Gegenstand herstellt
+brief = Gegenstand herstellen
+detail = In der Zauberwerkstatt stellt man Gegenstände her. Klicken Sie auf die Befehlsschaltfläche Magischen Gegenstand herstellen. Das Herstellungsmenü erscheint. Wählen Sie die Art des Gegenstands. Wählen Sie die Menge Gold, die Sie ausgeben wollen. Klicken Sie auf Beginnen, um den Gegenstand herzustellen, und auf Abbrechen, um aufzuhören.
+
+[C_CONVERT]
+rollover = Lernen, wie man in den Tavernen Rohstoffe umwandelt
+brief = Rohstoffe umwandeln
+detail = Wählen Sie eine Taverne aus. Klicken Sie in der Befehlsleiste auf den Befehl Handeln. Wählen Sie die Art der Rohstoffe, die Sie abgeben wollen. Wählen Sie die Menge, die Sie geben wollen. Wählen Sie die Art der Rohstoffe, die Sie erhalten wollen. Das Verhältnis ist 1/10 – Sie geben zehnmal so viel, wie Sie erhalten. Klicken Sie auf Beginnen, um den Tausch zu starten, und auf Abbrechen, um aufzuhören.
+
+[C_PREACHCRUSADE]
+rollover = Lernen, wie man einen Kreuzzug predigt
+brief = Kreuzzug predigen
+detail = Einen Kreuzzug kann man nur in einer europäischen Kathedrale ausrufen. Wählen Sie die Befehlsschaltfläche Kreuzzug predigen und zeigen Sie dann auf den gewünschten Sammelpunkt. Dieser Ort darf nicht weit von der Kathedrale entfernt sein. Es kann immer nur einen Kreuzzug geben.
+
+[C_SHIPLEVEL2]
+rollover = Lernen, wie man die Kanonen der Schiffe verbessert
+brief = Schiffskanonen verbessern
+detail = Wählen Sie die Galeone aus und klicken Sie dann auf die Befehlsschaltfläche Kanonen verbessern. Die Kanonen lassen sich bis zur sechsten Stufe verbessern.
+
+[C_HOLDFIRE]
+rollover = Lernen, wie man das Feuer einstellt
+brief = Feuer einstellen
+detail = Wählen Sie die Kanone oder den Raketenturm aus und klicken Sie auf die Befehlsschaltfläche Feuer einstellen. Der Turm hört auf zu feuern. Die Befehlsschaltfläche Feuer frei erscheint.
+
+[C_FIREATWILL]
+rollover = Lernen, wie man das Feuer freigibt
+brief = Feuer frei
+detail = Wählen Sie die Kanone oder den Raketenturm aus und klicken Sie auf die Befehlsschaltfläche Feuer frei. Der Turm feuert erst auf Ihren Befehl. Die Befehlsschaltfläche Feuer einstellen erscheint.
+
+[C_HIREMERCENARIES]
+rollover = Lernen, wie man Söldner anheuert
+brief = Söldner anheuern
+detail = Söldner kann man nur in Tavernen anheuern. Klicken Sie auf die Befehlsschaltfläche Söldner anheuern; eine Liste von Militäreinheiten erscheint. Wählen Sie die gewünschten aus.
+
+[C_HIREHEROES]
+rollover = Lernen, wie man Helden anheuert
+brief = Helden anheuern
+detail = Helden kann man nur in Tavernen anheuern. Klicken Sie auf die Befehlsschaltfläche Helden anheuern; eine Liste von Militäreinheiten erscheint. Wählen Sie die gewünschten aus.
+
+[C_BUYITEMS]
+rollover = Lernen, wie man Gegenstände kauft
+brief = Gegenstände kaufen
+detail = Nur asiatische Märkte handeln mit Gegenständen. Klicken Sie auf die Befehlsschaltfläche Gegenstände kaufen; eine Liste verschiedener Gegenstände erscheint. Den Preis des Gegenstands sehen Sie in der Textzeile darunter. Wählen Sie den Gegenstand, den Sie kaufen wollen.
+
+[C_SELLITEMS]
+rollover = Mehr über das Gebäude erfahren - Burg
+brief = Bewegen
+detail = Nur asiatische Märkte handeln mit Gegenständen. Klicken Sie auf die Befehlsschaltfläche Gegenstände verkaufen; eine Liste der Gegenstände Ihrer Einheiten erscheint. Den Betrag, den Sie für einen Gegenstand erhalten, sehen Sie in der Textzeile darunter. Wählen Sie den Gegenstand, den Sie verkaufen wollen.
+
+[C_GAMBLE]
+rollover = Lernen, wie man spielt
+brief = Glücksspiel
+detail = Gespielt wird in den Tavernen. Wählen Sie eine Taverne aus und klicken Sie in der Befehlsleiste auf die Schaltfläche Spielen. Wählen Sie Art und Menge des Rohstoffs, den Sie setzen wollen. Wählen Sie das Verhältnis. Klicken Sie auf Spielen, um zu beginnen, und auf Abbrechen, um aufzuhören.
+
+[C_VIEWQUEST]
+rollover = Lernen, wie man die Aufgabe ansieht
+brief = Aufgabe ansehen
+detail = Die Befehlsschaltfläche Aufgabe ansehen ist nur verfügbar, wenn Sie eine Partie mit Aufgabe spielen. Wählen Sie keine Einheit aus. Klicken Sie auf Aufgabe ansehen, wenn die Schaltfläche leuchtet; dann sehen Sie die Aufgabe.
+
+[HT_COLLECTRES]
+rollover = Mehr über das Sammeln von Rohstoffen erfahren
+brief = Wie man Rohstoffe sammelt
+detail = Rohstoffe braucht man für Bauern, Militäreinheiten, Belagerungswaffen und Schiffe. Mit ihnen bildet man Einheiten aus und verbessert sie, errichtet Gebäude und Verteidigungsanlagen und schmiedet neue Technologien. Bauern mehren Ihre Rohstoffe, indem sie Holz fällen, Gold und Stein abbauen, fischen und Vieh hüten. Bestimmte Technologien steigern die Leistung der sammelnden Bauern. Der Handel ist ein weiterer Weg, ein Reich reich zu machen.
+
+[HT_PRODUCE_ARMY]
+rollover = Lernen, wie man ein Heer aufstellt
+brief = Wie man ein Heer aufstellt
+detail = Jeder Spieler muss ein Heer aufstellen, um ein mächtiges Reich zu haben und gegen Feinde kämpfen zu können. Das wichtigste Gebäude für Militäreinheiten ist die Kaserne. Viele Einheiten brauchen keine besonderen Technologien. Je größer das Heer, desto mächtiger ist es. Man kann die Vorteile der verschiedenen Einheitenarten – Fußtruppen, Reiterei oder Belagerungswaffen – ausgleichen, um die Truppen stärker zu machen. Manche Geschöpfe, die man in den Magischen Portalen rufen kann, sind jedem Heer eine große Hilfe. Um sie rufen zu können, muss der Spieler zuerst die Zauberwerkstatt erobern.
+
+[HT_TRAIN_UNITS]
+rollover = Lernen, wie man Einheiten ausbildet
+brief = Wie man Einheiten ausbildet
+detail = Jede Einheit hat eigene Werte für Angriff, Verteidigung und Gesundheit. Im Kampf sammeln die Einheiten Erfahrung. So kann ein Veteran mehrere »Neulinge« derselben Art schlagen. Militäreinheiten lassen sich an Übungspuppen ausbilden, sobald die Technologie Taktik erforscht ist. So steigt ihre Erfahrung.
+
+[HT_HEAL_UNITS]
+rollover = Lernen, wie man Einheiten heilt
+brief = Wie man Einheiten heilt
+detail = Priester können Einheiten heilen, damit sie die im Kampf verlorene Gesundheit zurückgewinnen. Dazu braucht man die Technologie Heilkunde. Heilt ein Priester die Truppen während ihres Angriffs, können sie durch mehr Erfahrung höhere Stufen erreichen. Einheiten lassen sich auch heilen, indem man sie in einen Außenposten schickt.
+
+[HT_GARRISON_UNITS]
+rollover = Lernen, wie man Einheiten in Gebäude schickt und herausholt
+brief = Wie man Einheiten in Gebäude schickt und herausholt
+detail = Sie können Ihre Einheiten in die Burg oder den Außenposten schicken. Dort werden sie geheilt. Mit dem Befehl Herauslassen kommen sie wieder heraus.
+
+[HT_USE_SHIPS]
+rollover = Lernen, wie man Einheiten mit Schiffen befördert
+brief = Wie man Einheiten mit Schiffen befördert
+detail = Schiffe können Einheiten über das Wasser befördern. Sie fassen folgende Anzahl Einheiten: 8 die Schebecke, 16 der Holk und 24 die Galeone. Die im Hafen erforschte Technologie Landungstaktik lässt die Schiffe 50% mehr Einheiten befördern.
+
+[HT_USE_MAGIC_CARPETS]
+rollover = Lernen, wie man Einheiten mit Fliegenden Teppichen befördert
+brief = Wie man Einheiten mit Fliegenden Teppichen befördert
+detail = Fliegende Teppiche werden von arabischen Zauberern beschworen. Sie befördern Einheiten über Wasser wie über Land. Jeder Fliegende Teppich trägt bis zu 8 Einheiten. Fliegende Teppiche sind auch nützlich, um die Karte zu erkunden.
+
+[HT_UPGRADE_TOWERS]
+rollover = Lernen, wie man Türme ausbaut
+brief = Wie man Türme ausbaut
+detail = In Tzar gibt es mehrere Arten von Türmen. Bauen lassen sich jedoch nur Wachtürme. Alle anderen Türme außer dem Raketenturm entstehen durch den Ausbau von Wachtürmen. Dazu braucht man die Technologien Baukunst und Kanonentürme. Nach jedem Ausbau erscheint die Befehlsschaltfläche für den nächsten möglichen.
+
+[HT_CREATE_ITEMS]
+rollover = Mehr über das Herstellen von Gegenständen erfahren
+brief = Wie man Gegenstände herstellt
+detail = Gegenstände lassen sich nur in der arabischen Zauberwerkstatt herstellen, sobald die Technologie Hexerei erforscht ist. Wählen Sie eine Zauberwerkstatt aus und klicken Sie auf die Befehlsschaltfläche Magischen Gegenstand herstellen. Das Herstellungsmenü erscheint. Wählen Sie die Art des Gegenstands. Wählen Sie die Menge Gold, die Sie ausgeben wollen. Wählen Sie Beginnen, um den Gegenstand herzustellen, und Abbrechen, um aufzuhören.
+
+[HT_USE_ITEMS]
+rollover = Mehr über das Benutzen von Gegenständen erfahren
+brief = Wie man Gegenstände benutzt
+detail = Gegenstände hebt man mit dem Befehl Aufheben auf oder einfach mit einem Rechtsklick darauf. Gegenstände im Inventar einer Einheit benutzt man, indem man sie auswählt und mit der linken Maustaste auf den gewünschten Ort klickt. Gegenstände legt man ab, indem man Alt hält, während man sie im Inventar auswählt, und auf den Ort zeigt, an den sie sollen.
+
+[HT_BUY_ITEMS]
+rollover = Mehr über den Kauf von Gegenständen erfahren
+brief = Wie man Gegenstände kauft
+detail = Gegenstände kann man nur auf dem asiatischen Markt kaufen und verkaufen, sobald die Technologie Juwelierkunst erforscht ist. Wählen Sie einen Markt aus und klicken Sie auf die Befehlsschaltfläche Gegenstand kaufen. Der Gegenstand erscheint auf dem Boden neben dem Markt. Um einen Gegenstand zu verkaufen, wählen Sie einen Markt aus. Alle Gegenstände Ihrer Einheiten erscheinen in seinem Inventar. Führen Sie den Zeiger über den Gegenstand, den Sie verkaufen wollen. Die Menge Gold, die Sie erhalten, steht in der Hilfezeile. Wählen Sie den Gegenstand, den Sie verkaufen wollen. Das Gold kommt in Ihre Schatzkammer.
+
+[HT_VIEW_QUESTS]
+rollover = Lernen, wie man die aktuellen Aufgaben ansieht
+brief = Wie man die aktuellen Aufgaben ansieht
+detail = Aufgaben gibt es in den Kampagnen. Sie geben dem Spieler die Anweisungen, denen er folgen muss, um eine Mission zu erfüllen. Alle verfügbaren Aufgaben lassen sich mit der Schaltfläche Aktuelle Aufgaben ansehen in der Befehlsleiste einsehen.
+
+[HT_BUILD]
+rollover = Mehr über das Errichten von Gebäuden erfahren
+brief = Wie man Gebäude errichtet
+detail = Nur Bauern können Gebäude errichten. Wählen Sie einen Bauern aus und klicken Sie in der Befehlsleiste auf die Schaltfläche Bauen oder drücken Sie »B«. Wählen Sie in der Befehlsleiste die Art des Gebäudes. Zeigen Sie auf den Bauplatz auf der Karte. Kann das Gebäude am gewählten Ort errichtet werden, ist das Bild grün. Manche Gebäude erfordern bestimmte erforschte Technologien.
+
+[HT_CAPTURE_BUILDINGS]
+rollover = Mehr über das Erobern von Gebäuden erfahren
+brief = Wie man Gebäude erobert
+detail = Gebäude können nur von Bauern erobert werden. Der Spieler kann den Befehl »Erobern« in der Befehlsleiste geben oder einfach mit der rechten Maustaste auf ein feindliches Gebäude klicken. Je näher ein Gebäude an der Burg steht, desto schwerer ist es zu erobern.
+
+[HT_COMMANDS]
+rollover = Lernen, wie man Einheiten befehligt
+brief = Was ist ein Befehl
+detail = Befehle gibt man mit den Schaltflächen der Befehlsleiste oder, für die häufigsten, mit einer Kombination aus Rechts- und Linksklicks. Viele Befehle lassen sich mit den Tastenkürzeln über die Tastatur geben.
+
+[HT_TRADE_SHIPS]
+rollover = Lernen, wie man mit Schiffen handelt
+brief = Wie man mit Schiffen handelt
+detail = Um handeln zu können, müssen Sie die Technologie Handelswege erforschen und mindestens zwei Häfen und ein Schiff haben. Beispiel: Ein Schiff holt Holz aus Hafen A und lädt es in Hafen B aus. In Hafen B lädt es Stein, den es später in Hafen A auslädt. Der Gewinn hängt von der Entfernung zwischen den beiden Häfen und der Rohstoffmenge ab. Je größer die Entfernung, desto größer der Gewinn. Sie können wählen, in welcher Form Sie den Gewinn erhalten – Gold, Stein, Holz oder Nahrung.
+
+[HT_TRADE_CARAVANS]
+rollover = Lernen, wie man mit Karawanen handelt
+brief = Wie man mit Karawanen handelt
+detail = Um handeln zu können, müssen Sie die Technologie Handelswege erforschen und mindestens zwei Märkte und eine Karawane oder einen asiatischen Bauern haben. Beispiel: Eine Karawane oder ein Bauer holt Holz von Markt A und lädt es auf Markt B aus. Auf Markt B lädt sie Stein, den sie später auf Markt A auslädt. Der Gewinn hängt von der Entfernung zwischen den beiden Märkten und der Rohstoffmenge ab. Je größer die Entfernung, desto größer der Gewinn. Sie können wählen, in welcher Form Sie den Gewinn erhalten – Gold, Stein, Holz oder Nahrung.
+
+[HT_BRIBE]
+rollover = Lernen, wie man Einheiten besticht
+brief = Wie man Einheiten besticht
+detail = Arabische und europäische Bauern können feindliche Einheiten bestechen, doch zuerst müssen Sie die Technologie Bestechung in der Händlergilde erforschen.
+
+[HT_GAMBLE]
+rollover = Lernen, wie man in den Tavernen spielt
+brief = Wie man in den Tavernen spielt
+detail = Gespielt wird in den Tavernen, doch zuerst müssen Sie die Technologie Glücksspiel erforschen. Wählen Sie eine Taverne aus und klicken Sie in der Befehlsleiste auf die Schaltfläche Spielen. Wählen Sie Art und Menge des Rohstoffs, den Sie setzen wollen. Wählen Sie das Verhältnis. Klicken Sie auf Spielen, um zu beginnen, und auf Abbrechen, um aufzuhören.
+
+[HT_REMOVE]
+rollover = Lernen, wie man Truppen und Gebäude entfernt
+brief = Wie man Truppen und Gebäude entfernt
+detail = Einheiten und Gebäude entfernt man, indem man sie auswählt und die Entf-Taste drückt. Geschieht das zu Beginn eines Baus, kommen die verbrauchten Rohstoffe in die Schatzkammer zurück. Feindliche Einheiten oder Gebäude lassen sich so nicht entfernen.
+
+[HT_GATHER_FOOD]
+rollover = Lernen, wie man Nahrung sammelt
+brief = Wie man Nahrung sammelt
+detail = Nahrung gewinnt man durch die Ernte der Felder, durch Fischen und durch das Hüten von Vieh. Bauern bestellen die Felder und ernten sie ab. Sie bringen die Nahrung zum Bauernhof oder zur Burg. Hat der Spieler die Technologie Viehzucht erforscht, kann er Vieh züchten und es melken. Fischerboote werden in den Häfen gebaut. Sie holen Nahrung aus den Fischgründen im Meer, und die Nahrung wird in den Häfen gelagert.
+
+[HT_TEND_COWS]
+rollover = Lernen, wie man Vieh hütet
+brief = Wie man Vieh hütet
+detail = Hat der Spieler die Technologie Viehzucht erforscht, kann er Vieh züchten und es melken. Ein Bauer kann mehr als eine Kuh hüten, sie melken und die Milch zum Bauernhof oder zur Burg bringen. Kühe können geschlachtet und ihr Fleisch von Bauern oder anderen Einheiten eingesammelt werden.
+
+[HT_TEND_FIELDS]
+rollover = Lernen, wie man Felder aberntet
+brief = Wie man Felder aberntet
+detail = Felder liefern den Rohstoff Nahrung und brauchen ständige Pflege. Werden sie vernachlässigt, verschwinden sie. Am besten legt man sie in der Nähe eines Bauernhofs oder der Burg an, damit die Erntearbeiter die Nahrung schneller einlagern. Die Technologien Fruchtwechsel und Bewässerung erhöhen die Nahrungsmenge, die die Bauern tragen. Jedes Feld kann nur ein Bauer bestellen.
+
+[HT_CHOP_WOOD]
+rollover = Lernen, wie man Holz fällt
+brief = Wie man Holz fällt
+detail = Holz gewinnt man durch das Fällen von Bäumen. Nur Bauern können Bäume fällen. Holz wird im Sägewerk gelagert. Je näher das Sägewerk an den Bäumen steht, desto leistungsfähiger sind die Holzfäller. Die Technologie Säge erhöht die Holzmenge, die die Bauern tragen.
+
+[HT_MINE]
+rollover = Lernen, wie man Gold und Stein abbaut
+brief = Wie man Gold und Stein abbaut
+detail = Gold und Stein liegen als Felsen auf der Karte. Bauern bauen sie ab. Jede Fundstelle enthält eine bestimmte Rohstoffmenge. Wählen Sie eine Fundstelle aus, um die Menge zu sehen: Sie erscheint als Zahl in der Auswahlansicht. Gold und Stein werden im Lager oder in der Burg gesammelt. Die Technologien Goldabbau und Steinabbau erhöhen die Menge, die die Bauern tragen.
+
+[HT_BUILD_WALLS_GATES]
+rollover = Lernen, wie man Mauern und Tore baut
+brief = Wie man Mauern und Tore baut
+detail = Bauern bauen Mauern und Tore. Wählen Sie die Befehlsschaltfläche Mauer bauen, zeigen Sie auf den Anfangspunkt und halten Sie die linke Maustaste, während Sie zum Endpunkt ziehen. Die Mauer erscheint grün, wo sie errichtet werden kann. Tore lassen sich auf bereits errichtete Mauern oder an jeden anderen geeigneten Ort setzen. Beim Setzen eines Tors ändern Sie seine Richtung, indem Sie Alt oder Strg halten. Bauen lassen sich nur Palisaden und Holztore. Ist die Technologie Baukunst erforscht, können Sie sie zu Stein ausbauen.
+
+[HT_BUILD_BRIDGES]
+rollover = Lernen, wie man Brücken baut
+brief = Wie man Brücken baut
+detail = Brücken kann man bauen, sobald die Technologie Baukunst in der Burg erforscht ist. Beim Setzen einer Brücke ändern Sie ihre Richtung, indem Sie Alt halten.
+
+[HT_UPGRADE_SHIPS]
+rollover = Lernen, wie man Schiffe verbessert
+brief = Wie man Schiffe verbessert
+detail = Die Kanonen der Schiffe lassen sich verbessern, damit sie öfter feuern. Sie können die Kanonen bis zur sechsten Stufe verbessern.
+
+[HT_REQRUIT]
+rollover = Lernen, wie man Söldner und Helden anwirbt
+brief = Wie man Söldner und Helden anwirbt
+detail = Söldner und Helden heuern Sie in den Tavernen an, doch zuerst müssen Sie die Technologien Söldner und Heldensuche in der Kriegergilde erforschen. Sie können Einheiten aller Art und aller Völker anheuern. Söldner und Helden sammeln sich mit der Zeit in den Tavernen.
+
+[WI_RESOURCES]
+rollover = Lernen, was Rohstoffe sind
+brief = Was sind Rohstoffe
+detail = Rohstoffe braucht man für Bauern, Militäreinheiten, Belagerungswaffen und Schiffe. Mit ihnen bildet man Einheiten aus und verbessert sie, errichtet Gebäude und Verteidigungsanlagen und schmiedet neue Technologien. Bauern mehren Ihre Rohstoffe, indem sie Holz fällen, Gold und Stein abbauen, fischen und Vieh hüten. Bestimmte Technologien steigern die Leistung der sammelnden Bauern. Der Handel ist ein weiterer Weg, ein Reich reich zu machen.
+
+[WI_TRADE]
+rollover = Lernen, was Handel ist
+brief = Was ist Handel
+detail = Handel ist ein anderer Weg, Rohstoffe zu gewinnen. Mit ihm tauschen Sie Nahrung, Holz, Gold und Stein mit anderen Reichen oder zwischen Ihren eigenen Märkten. Händler und Schiffe treiben den Handel. Um handeln zu können, müssen Sie die Technologie Handelswege in der Händlergilde erforschen. Sie erlaubt, auf den Märkten Händler zu erschaffen und mit Schiffen zu handeln. Die Handelseinheit pendelt zwischen zwei Märkten (oder Häfen) und befördert Waren in beide Richtungen.
+
+[WI_ITEMS]
+rollover = Mehr darüber erfahren, was ein Gegenstand ist
+brief = Was ist ein Gegenstand
+detail = Gegenstände sind kleine Dinge auf der Karte. Einheiten können sie aufheben und benutzen. Gegenstände werden in bestimmten Gebäuden hergestellt. Nur arabische Zauberer können in den Zauberwerkstätten Gegenstände herstellen, und erst, nachdem sie die nötige Technologie entdeckt haben – die Hexerei. Es gibt mehrere Arten von Gegenständen: Waffen, Rüstungen, Zauberbücher, Schriftrollen, Tränke und Rohstoffgegenstände. Kein Gegenstand ist unmöglich herzustellen, doch bessere kosten mehr und brauchen länger. Asiatische Märkte können mit Gegenständen handeln, sobald die Technologie Juwelierkunst erforscht ist.
+
+[WI_SPELLS]
+rollover = Lernen, was Zauber sind
+brief = Was ist ein Zauber
+detail = Ein Zauber ist ein magisches Ereignis. Um einen Zauber zu wirken, muss eine bestimmte Technologie erforscht sein. Nur Zauberer können Zauber wirken. Manche Zauber beschwören Einheiten, andere fügen Schaden zu oder heilen Einheiten. Jeder Zauber braucht eine bestimmte Menge Mana. Zauber finden sich auch in Zauberbüchern. Jede Einheit kann einen Zauber aus einem Zauberbuch wirken, solange sie es besitzt.
+
+[WI_BUILDING]
+rollover = Lernen, was ein Gebäude ist
+brief = Was ist ein Gebäude
+detail = In Gebäuden werden Einheiten erschaffen und Technologien erforscht. Sie sind für jedes Volk eigen. Jedes Volk hat drei Gruppen von Gebäuden: Gilden, gewöhnliche und seltene.
+
+[WI_RACE]
+rollover = Lernen, was ein Volk ist
+brief = Was ist ein Volk
+detail = In Tzar gibt es drei Völker – Europäer, Araber und Asiaten. Jedes Volk hat eigene Gebäude, Einheiten und Technologien. Sie sind sorgfältig ausgewogen, sodass jedes Volk seine besonderen Merkmale und seine technischen Stärken voll ausspielen kann.
+
+[WI_TECHNOLOGY]
+rollover = Lernen, was Technologie ist
+brief = Was ist Technologie
+detail = Durch den Bau verschiedener Gebäude erhält der Spieler mehrere Entwicklungswege zur Wahl. Die verschiedenen Technologien bilden ein verzweigtes Gefüge, den Technologiebaum.
+
+[WI_UNIT]
+rollover = Lernen, was eine Einheit ist
+brief = Was ist eine Einheit
+detail = Die Einheit ist das wichtigste Spielmittel. Die meisten Einheiten lassen sich in den Gebäuden ausbilden. Um eine Einheit auszubilden, braucht man die nötigen Rohstoffe und Technologien. Verschiedene Einheiten verlangen verschiedene Rohstoffe. Manche Einheiten müssen von Zauberern beschworen werden. Andere lassen sich in den Magischen Portalen rufen.
+
+[WI_COMMANDS]
+rollover = Lernen, was ein Befehl ist
+brief = Was ist ein Befehl
+detail = Mit Befehlen lenkt man die Einheiten. Ist eine Einheit ausgewählt, kann man ihr verschiedene Handlungen befehlen. Die verfügbaren Befehle erscheinen als Befehlsschaltflächen in der Oberfläche. Nicht alle Befehle stehen allen Einheiten offen: Sie hängen von der Art der Einheit und vom Stand der erforschten Technologien ab.
+
+[WI_POP_LIMIT]
+rollover = Lernen, was die Bevölkerungsgrenze ist
+brief = Was ist die Bevölkerungsgrenze
+detail = Die Bevölkerungsgrenze ist die höchste Zahl an Einheiten, die ein Spieler in einer Partie haben kann. Sie wird in den Einstellungen der Partie festgelegt. Mehr Einheiten, als die Grenze erlaubt, lassen sich nicht erschaffen. Häuser sind entscheidend für die Zahl der Einheiten, die ein Spieler zu einem Zeitpunkt ausbilden kann. Jedes Haus erhöht die mögliche Zahl um 10. Diese Zahl kann aber die für die Partie festgelegte Bevölkerungsgrenze nicht überschreiten.
+
+[WI_STRATEGIES]
+rollover = Lernen, welche Strategien es in Tzar gibt
+brief = Welcher Strategie man folgt
+detail = Hat der Spieler sein Reich entwickelt, kann er zwischen vier Strategien wählen: dem Weg des Ruhms, dem Weg der Religion, dem Weg der Magie und dem Weg des Handels und Handwerks. Jede Strategie steht für ein bestimmtes Gebäude – die Kriegergilde, den Tempel Kathedrale/Moschee/Shao Linn, den Magierturm und die Händlergilde. Der gewählte Weg bestimmt die Technologien, mit denen sich einzigartige Einheiten und Gebäude erfinden lassen.
+
+[WI_SIEGE_WEAPON]
+rollover = Lernen, was Belagerungswaffen sind
+brief = Was ist eine Belagerungswaffe
+detail = Katapulte, schwere Katapulte und Ballisten sind Belagerungswaffen. Sie werden in den Werkstätten gebaut. Sie kosten nur Holz, doch das schwere Katapult erfordert zuerst die Technologie Belagerungstaktik. Belagerungswaffen sind mächtige Waffen gegen befestigte feindliche Reiche. Sie schaden allen Einheiten, nicht nur den feindlichen. Bauern können beschädigte Waffen reparieren, wenn Sie genug Holz haben. Wählen Sie einen Bauern aus, klicken Sie in der Befehlsleiste auf die Schaltfläche Reparieren und zeigen Sie dann auf die beschädigte Belagerungswaffe, oder klicken Sie einfach mit der rechten Maustaste auf die zu reparierende.
+
+[WI_HOTKEYS]
+rollover = Lernen, was Tastenkürzel sind
+brief = Was sind Tastenkürzel
+detail = Tastenkürzel sind der schnellste Weg, Tzar zu spielen. Sie können viele Handlungen ohne die Oberfläche ausführen, indem Sie einfach bestimmte Tasten drücken.
+
+[WI_HERO]
+rollover = Lernen, was ein Held ist
+brief = Was ist ein Held
+detail = Ein Held ist eine mächtige Einheit mit außergewöhnlicher Gesundheit, Angriffs- oder Verteidigungskraft und einer bestimmten Erfahrungsstufe. Jede Einheit kann ein Held werden und einen Namen Ihrer Wahl erhalten, sobald sie die Erfahrungsstufe 12 erreicht.
+
+[WI_QUEST]
+rollover = Lernen, was eine Aufgabe ist
+brief = Was ist eine Aufgabe
+detail = Eine Aufgabe ist ein Missionsziel, das ein Spieler erfüllen muss, um das Spiel fortzusetzen.
+
+[WI_RESISTANCE]
+rollover = Lernen, was Widerstand ist
+brief = Was ist Widerstand
+detail = Der Widerstand verringert den Schaden, den ein angegriffenes Gebäude erleidet. Je näher ein Gebäude an der Burg steht, desto größer ist sein Widerstand. Manche Gebäude strahlen Widerstand aus – positiven für die Gebäude des eigenen Reiches und negativen für feindliche Gebäude.
+
+[WI_TECHTREE]
+rollover = Lernen, was der Technologiebaum ist
+brief = Was ist der Technologiebaum
+detail = Die verschiedenen Technologien bilden ein verzweigtes Gefüge, den Technologiebaum. Er zeigt die technischen Wege, die Sie in Tzar einschlagen können, und die Reihenfolge, in der Sie die Technologien erforschen müssen, um die nächsten verfügbar zu machen.
+
+[WI_GUILD]
+rollover = Lernen, was eine Gilde ist
+brief = Was ist eine Gilde
+detail = Jede Strategie des Spiels – der Weg des Ruhms, der Weg der Religion, der Weg der Magie und der Weg des Handels und Handwerks – steht für ein bestimmtes Gebäude: die Kriegergilde, den Tempel Kathedrale/Moschee/Shao Linn, den Magierturm und die Händlergilde.
+
+[WI_TRANSPORT]
+rollover = Lernen, wie Beförderung funktioniert
+brief = Welche Beförderungswege gibt es
+detail = Es gibt mehrere Wege, Einheiten und Waren zu befördern. Schiffe, Fliegende Teppiche und Händler können Einheiten laden. Nur Schiffe und Fliegende Teppiche können Einheiten über das Wasser befördern.
+
+[WI_DIPLOMACY]
+rollover = Lernen, was Diplomatie ist
+brief = Was ist Diplomatie
+detail = Jeder Spieler kann seine diplomatische Haltung gegenüber den anderen Spielern wählen. Die drei Haltungen sind Verbündet, Feind und Neutral. Verbündet – die Militäreinheiten greifen die Gebäude und Einheiten des anderen Spielers nicht an. Feind – die Militäreinheiten greifen alle Gebäude und Einheiten in Sichtweite an. Neutral – die Militäreinheiten greifen nur Militäreinheiten in Sichtweite an. Zwei Spieler können einander gegenüber verschiedene Haltungen einnehmen.
+
+[WI_ALLIED_VICTORY]
+rollover = Lernen, was ein gemeinsamer Sieg ist
+brief = Was ist ein gemeinsamer Sieg
+detail = Beim gemeinsamen Sieg können die Spieler wählen, als Team zu siegen (oder zu verlieren). Der Spieler, der die Siegbedingung(en) erfüllt, gewinnt das Spiel für alle Verbündeten.
+
+[WI_UNIT_STATISTICS]
+rollover = Lernen, was die Werte der Einheiten sind
+brief = Was sind die Werte der Einheiten
+detail = Die Werte der Einheiten geben wertvolle Auskunft über die Eigenschaften von Einheiten oder Gebäuden. Das Bild eines ausgewählten Objekts und seine Werte sehen Sie in der Auswahlansicht. Name, Reich, Gesundheit – der Schaden, den eine Einheit erleiden kann, Angriff – der Schaden, den eine Einheit zufügen kann, Mana – die aktuelle magische Kraft einer Einheit, Macht – die aktuelle Fähigkeit einer Einheit zu besonderen Handlungen, Reichweite – die Entfernung, auf die eine Einheit Schaden zufügt, Widerstand – verringert den Schaden, den ein angegriffenes Gebäude erleidet, Inhalt – die Zahl der Objekte, die die Einheit trägt, Verteidigung – verringert den Schaden, den eine angegriffene Einheit erleidet, Zeit – die Dauer bis zum Abschluss einer Aufgabe, und Stufe – misst die Erfahrung der Einheit. Sind mehrere Einheiten ausgewählt, wird nur ihre GESUNDHEIT angezeigt.
+
+[WI_MANNA]
+rollover = Lernen, was Mana ist
+brief = Was ist Mana
+detail = Mana ist die aktuelle magische Kraft einer Einheit. Zauberer brauchen Mana, um magische Geschöpfe zu beschwören, und danach etwas Zeit, um es wieder aufzufüllen.

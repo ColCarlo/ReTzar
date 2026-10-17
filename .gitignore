@@ -1,0 +1,11 @@
+/target/
+/reports/
+/settings.json
+/settings.json.*
+/setup-options.json
+/random-options.json
+/saves/
+/crash.log
+/campaign-progress.json
+/campaign-progress.rtzp
+/release/

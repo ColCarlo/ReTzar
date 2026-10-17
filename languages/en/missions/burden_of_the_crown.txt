@@ -1,0 +1,982 @@
+# TZAR: The Burden Of The Crown (Campaign\Tzar.wcm del CD americano):
+# l'inglese è l'originale, l'italiano è tradotto per ReTzar.
+
+# campagna
+it: TZAR: Il peso della corona\nDopo centinaia di anni di guerra Keana è stata infine conquistata dal Male. Il vecchio re Roan è morto e suo figlio Sartor deve combattere per riportare la pace e la giustizia nel mondo.
+en: TZAR: The Burden Of The Crown\nAfter hundreds of years of war Keana finally has been conquered by the Evil. The old King Roan is dead and his son Sartor has to fight to restore peace and justice to the world.
+
+# tzar.wcm::maps/vsaa
+it: Ancora una volta
+en: Again
+it: Viaggio alle isole di Allita, salvataggio di Rea di Allita e assedio di Ses di Allita.
+en: Trip to Allita's Islands, saving Allita's Rea and siege of Allita's Ses.
+it: Forze di Borgh
+en: Borgh's forces
+it: Ammiraglia di Mun Li
+en: Mun Li's flagship
+it: Ghiron deve sopravvivere.\n\nCostruisci almeno una Camera commercio sulle isole.
+en: Ghiron must survive.\n\nAt least one Merchants' Guild must be built on the islands.
+it: Vardal e Ghiron devono sopravvivere.\n\nNon lasciare che il nemico riconquisti le isole.\nCostruisci almeno una Camera commercio sulle isole.
+en: Vardal and Ghiron must survive. \n\nDo not let the enemy retake the islands.\nAt least one Merchants' Guild must be built on the islands.
+it: Sartor, Vardal e Ghiron devono sopravvivere.\n\nVardal E Ghiron devono raggiungere Sartor.\nCostruisci almeno una Camera commercio sulle isole.
+en: Sartor, Vardal and Ghiron must survive.\n\nVardal AND Ghiron must meet Sartor.\nAt least one Merchants' Guild must be built on the islands.
+it: Sartor, Vardal e Ghiron devono sopravvivere.\n\nI tre eroi devono salpare verso ovest.\nCostruisci almeno una Camera commercio sulle isole e lascia almeno cinquanta soldati a difenderle.
+en: Sartor, Vardal and Ghiron must survive.\n\nThe three heroes must sail westwards.\nAt least one Merchants' Guild must be built on the islands, and leave at least fifty troops to protect them.
+it: La ricostruzione delle isole di Allita procedeva lenta. Per la gente era difficile dimenticare Borgh e ciò che le aveva fatto. I pirati saccheggiavano le coste e Ghiron doveva vegliare senza sosta su quella fragile pace. Un giorno, all'improvviso, ebbe una visione.
+en: The process of rebuilding Allita's Islands was slow. It was hard for the people to forget Borgh and what he had done to them. Pirates plundered the shores, and Ghiron had to constantly hold together the fragile peace. One day, a vision suddenly came to him.
+it: Che piacere rivedervi, amici miei! Ma... dov'è Woolin?
+en: It is nice to see you again, my friends! But.. where is Woolin?
+it: È stato catturato!
+en: He was captured!
+it: E voi lo avete abbandonato?!
+en: And you left him?!
+it: Non potevo fare nulla...
+en: There was nothing I could do...
+it: Basta! Sartor, Vardal ha detto che non poteva aiutarlo e io gli credo! Libereremo Woolin al più presto. Ora dimmi, hai portato notizie della Sfera?
+en: Enough! Sartor, Vardal said he could not help and I believe him! We will free Woolin as soon as possible. Now tell me, have you brought any news of the Sphere?
+it: Sì, mi è capitata tra le mani una lettera che parla di una mappa custodita in una torre dei maghi nel continente di Kalt'ha. La mappa indica dove si trova la Sfera.
+en: Yes, I came by a letter that tells of a map, located in a mage tower on the continent of Kalt'ha. The map shows the location of the Sphere.
+it: Prima di essere catturato anche Woolin aveva parlato di quella torre dei maghi.
+en: Before his capture Woolin said something about that mage tower too.
+it: La mappa deve essere di certo laggiù. Andiamo a prenderla subito.
+en: The map must surely be there. Let us go for it immediately.
+it: Sì, e lì c'è anche Woolin. Dobbiamo aiutarlo.\nPossiamo portare con noi qualche ninja: si sono dimostrati molto utili.
+en: Yes, Woolin is there too. We need to help him. \nWe can take some Ninja Warriors with us; they have proved very useful.
+it: Sono passato da una sventura all'altra. Almeno siamo arrivati in tempo per aiutare il nostro amico. Alla carica!
+en: I have come from one disaster to another. At least we arrived in time to help our friend. Charge!
+it: Salve, viaggiatori! Mi chiamo Ghiron e cerco alleati su quest'isola.
+en: Hello, travelers! My name is Ghiron and I seek allies on this island.
+it: Tutti qui conoscono il vostro nome. Saremmo onorati di aiutare un nobile mago come voi.\nMa ditemi, non siete voi e i vostri amici quelli che hanno conquistato questo luogo non molto tempo fa? Non avete ucciso tutti sull'isola?
+en: Everyone here knows thy name. We would be honored to help a noble wizard like you.\nBut tell me, aren't you and your friends the ones that conquered this place not long ago? Didn't you kill everyone on the island?
+it: No, abbiamo risparmiato i pacifici abitanti dei villaggi, ma temo che si uniranno a chiunque possa offrire loro protezione. Ed è proprio ciò che intendo fare. Il mio scopo è restituire a questa terra la sua bellezza e la sua prosperità.
+en: No, we left the peaceful villagers unharmed, but I am afraid they will join anyone who can offer them protection. And that is exactly what I am going to do. My goal is to restore the beauty and prosperity of this land.
+it: E l'altra isola?
+en: But what about the other island?
+it: Ho ricostruito tutto ciò che potevo, ma gran parte delle sue risorse era già esaurita prima che cominciassi.\nMi servono le ricchezze di quest'isola per continuare l'opera.
+en: I have restored as much as I can, but most of its resources were already wasted before I began. \nI need the riches of this island to continue the process.
+it: Ma perché tanta fretta? Nessuno ve le porterà via!
+en: But why are you in such a hurry? No-one will take them!
+it: Questo è ciò che pensi, ma la verità è che la notte scorsa, mentre pregavo all'altare, ho avuto visioni terribili.\nHo visto una flotta nemica avvicinarsi a queste isole, al comando di Mun Li, il miglior generale di Borgh, e Sartor che la inseguiva molto più indietro.\nE a ovest è successo qualcosa di terribile. Alcuni miei amici potrebbero avere bisogno di aiuto, perciò devo fare del mio meglio per rafforzare in fretta questa regione.\nMi serve l'aiuto della gente del posto.
+en: That is what you think, but the truth is that I had some terrible visions when I prayed at the altar last night. \nI saw an enemy fleet approaching these islands with Mun Li - Borgh's best general - in command and Sartor chasing far behind. \nAlso, something terrible has happened in the west. Some of my friends may need help, so I must do my best to strengthen this region quickly. \nI need the help of the locals.
+it: Non sono sicuro che abbiate visto le cose giuste! C'è stata una tempesta per tutta la notte, per questo siamo rimasti alla taverna. Nessuna nave potrebbe navigare indenne con un tempo simile.
+en: I am not sure you have seen the right things! There was a storm all night. That is why we stayed in the tavern. No ship could sail undamaged in such a weather.
+it: Hai ragione, la tempesta ci ha dato davvero un vantaggio. Ma ha soltanto disperso la flotta di Mun Li e danneggiato la sua ammiraglia. Le riparazioni sono in corso su un'isola vicina. Quando saranno terminate, la flotta si radunerà e attaccherà subito. Ma prima possiamo di certo aspettarci qualche nave civetta. Andiamo quindi a cercare gli abitanti dei villaggi.
+en: You are right, it really gave us an advantage. But it only scattered Mun Li's fleet and damaged its flagship. Repairs are underway on a nearby island. When they are complete, the fleet will amass and attack immediately. But we can surely expect some decoy ships before then. So let us go find the villagers.
+
+# tzar.wcm::maps/benas
+it: Guarnigione di Benas
+en: Benas garrison
+it: Guardie della foresta
+en: Forest guards
+it: Mappa della Sfera
+en: Map of the Sphere
+it: Distruggi l'accampamento nemico che sorveglia la salita all'altopiano con la foresta. Hai un giorno (30 minuti) prima che l'esercito di Benas si accorga della nostra presenza.
+en: Destroy the enemy camp that guards the ascent to the plateau with the forest. You have one day (30 minutes) before the army in Benas is aware of our presence here.
+it: Distruggi il castello rosso sulla costa orientale. Porta a Ghiron la pergamena con la mappa che indica dove si trova la Sfera.
+en: Destroy the red castle on the sea coast to the east. Bring the map scroll with the location of the Sphere to Ghiron.
+it: Ghiron, Sartor, Woolin e Vardal devono sopravvivere.
+en: Ghiron, Sartor, Woolin and Vardal must survive.
+it: Woolin era stato salvato, ma la mappa era andata perduta. Restava un solo luogo dove potesse trovarsi: la città di Benas. L'esercito di Sartor avanzava lento nel deserto, costretto a combattere una battaglia dopo l'altra. Eppure sembrava che nulla potesse fermare la sua marcia su Benas.
+en: Woolin had been saved, but the map had been lost. There was just one place left where it could be, and that was the city of Benas. Sartor's army moved slowly through the desert, having to fight one battle after another. Still, it seemed nothing could halt its advance on Benas.
+it: I signori della guerra della città di Benas sanno che siamo qui. Ora dobbiamo rivolgerci contro di loro. Distruggete il castello laggiù e portatemi la mappa che indica dove si trova la Sfera.
+en: The warlords in the city of Benas know that we are here. We have to turn to them now. Destroy the castle there, and bring me the map of the whereabouts of the Sphere.
+it: Ho parlato con l'antico emiro di questa provincia. Ha accettato di aiutarci a liberare questa terra dalle forze di Borgh. Ci ha dato il benvenuto nelle sue terre e nel suo castello e ha ordinato a tutti i suoi sudditi di obbedirci.\nPare che la fama delle tue imprese sia giunta fin quaggiù, Sartor.
+en: I have spoken to this province's former emir. He has agreed to help us rid this land of Borgh's forces. He bade us welcome to his lands and his castle, and ordered all of his subjects to obey us.\nApparently, the rumors of your exploits have reached even this distant land, Sartor.
+it: Allora abbiamo un punto d'appoggio per il nostro assalto a Benas. Non ho mai smesso di stupirmi della tua abilità nel convincere la gente, Ghiron.
+en: So, we have a foothold for our assault on Benas. I have never ceased to marvel at your skill for persuading people, Ghiron.
+it: Anche se fosse, stavolta non ce n'è stato bisogno.\nL'emiro mi ha descritto la conformazione di questa terra. Nel deserto ci sono molti luoghi dove estrarre oro o pietra, ma quasi tutti gli alberi sono stati abbattuti dai servi di Borgh per fortificare Benas. L'unica fonte di legname di una certa importanza che ci resta, e a cui possiamo arrivare, è su un basso altopiano lontano a nord, un po' a est di questo castello. Lassù è di stanza una grossa guarnigione, che sorveglia l'unica salita alla foresta.
+en: Even if it is so, this time there was no need for me to use it.\nThe emir told me about the lay of the land here. There are many places to dig for gold or stone in the desert, however almost all the trees have been destroyed by Borgh's servants in their efforts to fortify Benas. The only sizable source of timber left here, and accessible to us, is located on a low plateau far to the north and a little east of this castle. There is a large garrison stationed there, guarding the only ascent to the forest.
+it: Allora dobbiamo distruggerla in fretta, prima che l'esercito di Benas si accorga della nostra presenza. Da quel che so di questa città, ci serviranno molte macchine d'assedio per arrivare al castello.
+en: Then we must destroy it quickly, before the army in Benas is aware of our presence here. From what I know of this city, we will need a lot of siege machines in order to get to the castle there.
+it: Sì, dobbiamo sbrigarci. Dobbiamo raggiungere il castello di Benas e prendere la mappa che indica dove si trova la Sfera, anche a costo di raderlo al suolo.\nL'emiro mi ha parlato anche di un luogo incantato, una porta verso un mondo al di là. Chi possiede la porta ha il potere di evocare da essa creature magiche. Dobbiamo impadronircene il prima possibile, perché non possiamo lasciare che il nemico la usi contro di noi.
+en: Yes, we must hurry. We have to get to the castle in Benas and take the map with the location of the Sphere, even if it means we have to tear the place apart.\nThe emir also told me of an enchanted place, a gateway to a world beyond. Whoever owns the gateway has the power to conjure magic creatures from it. We have to take control of it as quickly as we can, for we cannot let the enemy use it against us.
+
+# tzar.wcm::maps/bigisland
+it: La grande isola
+en: The Big Island
+it: Inserire la descrizione !!!!!!!
+en: Enter description !!!!!!!
+it: Pirati
+en: Pirates
+it: Villaggio di pescatori
+en: Fishermen village
+it: Resurrezione
+en: Raise dead
+it: Woolin e Vardal devono parlare con Azim e Falla nei due villaggi sulle isole a sud-est.\nAiutali, poi torna a parlare con Marsim.
+en: Woolin and Vardal must speak with Azim and Falla in the two villages on the islands to the south-east.\nHelp them, then come back to speak to Marsim.
+it: Porta Azim all'oro sull'isola del Teschio. Lascia che lo prenda, poi riportalo al magazzino del villaggio. Difendilo dai guardiani non morti, poi parla con Razma.
+en: Take Azim to the gold on Skull Island. Let him take it, then return him to the village's storage. Defend him against the undead guardians, then speak with Razma.
+it: Va' sull'isola a sud-est del villaggio di Azim e recupera il libro degli incantesimi, poi portalo a Razma. Ti ricompenserà.
+en: Go to the island to the south-east of Azim's village and retrieve the spell book, then bring it to Razma. He will reward you.
+it: Distruggi l'accampamento dei pirati sull'isola a nord del villaggio di Falla. Riporta a Falla il sacerdote che vi è tenuto prigioniero.
+en: Destroy the pirates' camp on the island to the north of Falla's village. Bring the priest who is being held prisoner there back to Falla.
+it: Woolin e Vardal devono parlare con Kaffar sulla costa sud-occidentale dell'isola di Sahra.
+en: Woolin and Vardal must speak with Kaffar on the south-western shore of the island of Sahra.
+it: Porta Vardal e i resti delle tue truppe alla capanna di Marsim, dove è ancorata la nave, poi salpa verso il bordo orientale della mappa.
+en: Get Vardal and the remnants of your troops to Marsim's hut, where the ship is anchored, then sail away to the eastern edge of the map.
+it: Woolin, Vardal e il tuo galeone devono sopravvivere.
+en: Woolin, Vardal and your galleon must survive.
+it: Poco dopo la vittoria Ghiron, Woolin, Sartor e Vardal si riunirono per decidere la prossima mossa. Parlarono per tutta la notte e al mattino ognuno prese la propria strada. Ghiron rimase sulle isole per aiutarne la ricostruzione, Sartor partì alla testa di un gruppo scelto di cavalieri verso la lontana terra di Hong, e Woolin e Vardal si diressero al continente di Kalt'ha per trovare la torre dei maghi che, a detta di Ghiron, custodiva la chiave del potere di Borgh.
+en: Soon after their victory Ghiron, Woolin, Sartor and Vardal gathered to plan their next move. They talked throughout the night, and in the morning all were on their separate ways. Ghiron remained on the islands to help in their rebuilding, Sartor set off at the head of a selected group of knights to the distant land of Hong, and Woolin and Vardal made for the continent of Kalt'ha to find the wizards' tower which, so Ghiron had said, held the key to Borgh's power.
+it: Alla nave! Raggiungiamo la nave e salpiamo! Presto!
+en: To the ship! Let's get to the ship and sail away! Hurry!
+it: Woolin ha bisogno del nostro aiuto, uomini!\nAll'attacco!
+en: Woolin needs our help, men!\nAttack!
+it: No! Non avvicinatevi, sciocchi! Non potete salvarmi.\nCorrete! Fuggite alle isole di Allita e dite a Ghiron che deve trovare il modo di portare un esercito in cima alle scogliere di Rajba! Deve saperlo!\nPresto, fuggite!
+en: No! Do not come any closer, fools! You cannot save me.\nRun! Flee to Allita's Islands, and tell Ghiron he must devise a way to get an army up on the cliffs of Rajba! He must learn of this!\nHurry, flee!
+it: Così vieni da solo, Woolin? Dove sono i tuoi soldati?\nPerché non sono vicino a te... nel caso ti servissero?
+en: So, you come alone, Woolin? Where are your soldiers?\nWhy aren't they near you... in case you need them?
+it: È sempre saggio esplorare la zona prima di mandare avanti il grosso delle forze. E se hai davvero informazioni preziose, sono pronto ad ascoltarle. Non c'è bisogno che altri siano presenti per parlarne, giusto?
+en: It is always wise to scout the area before the main force is sent forth. And if you really have valuable information, I am ready to hear it. There is no need for others to be around for you to speak about this, is there?
+it: Prudente e coraggioso come sempre... Vedo che non sei cambiato, Woolin, guardia del corpo di re Roan. Tu forse non ti ricordi di me, ma io mi ricordo bene di te, e ho un conto in sospeso con te.\nSei venuto a rubare il segreto della Pioggia di fuoco, ma i tuoi sforzi sono vani e non ti rendi conto della tua follia. La torre dei maghi è lontana, nel deserto a est, in cima alle scogliere rocciose di Rajba. È sorvegliata, ma anche se riuscissi a eludere le guardie non potresti scalare le ripide scogliere, a meno di saper volare.\nOra sei in mio potere! Ti pentirai di essere venuto qui!
+en: Cautious and courageous as ever... I see you have not changed, Woolin, King Roan's bodyguard. You may not remember me, but I remember you well, and I have a score to settle with you.\nYou have come to steal the secret of the Fire Rain, but your effort is futile, and you are oblivious to your folly. The tower of the mages is far into the desert to the east, high atop the rocky cliffs of Rajba. It is guarded, but even if you could sneak past the guards you would not be able to climb the steep cliffs unless you could fly.\nNow I have you in my power! You will regret coming here!
+it: Non mi piace. Marsim ci aveva messi in guardia da questo Kaffar, e ora vedo che il luogo dove possiamo trovarlo è ideale per un'imboscata. Ogni via d'accesso è ben visibile... E perché mai un ribelle sceglierebbe di incontrarci nel punto dell'isola più vicino alla città nemica?\nRestate qui. Andrò a dare un'occhiata... Se è tutto a posto, vi farò segno di venire.
+en: I do not like this. Marsim warned us of this Kaffar, and now I see the place where we can find him is ideal for an ambush. All approaches are clearly visible... And why would a rebel choose to meet us on the point of the island closest to the enemy's city?\nStay here. I will go and look around... If all is well, I will signal you to come.
+it: Vengo con te. Non posso lasciarti affrontare il pericolo da solo.
+en: I will come with you. I cannot let you go and face danger alone.
+it: No, Vardal. Se è un'imboscata, almeno uno di noi deve restare con i nostri uomini per guidarli. Sarebbe stolto farci catturare o uccidere entrambi.\nAndrò io e tu resterai. Se mi dovesse accadere qualcosa, porterai a termine la nostra missione. Aspettami laggiù, vicino alla piramide di sabbia.
+en: No, Vardal. If this is an ambush, then one of us at least must stay with our men and lead them on. It would be foolish if we are both captured or killed.\nI will go, and you shall stay. If anything should happen to me, you shall finish our mission. Wait for me over there, by the sand pyramid.
+it: La fama delle vostre buone azioni corre veloce. Tutti sulle isole sanno che avete aiutato chi era nel bisogno. La gente forse non è ancora pronta a combattere per voi, ma c'è chi vi aiuterebbe.
+en: Word of your good deeds spreads fast. Everyone on the islands knows you helped those in need. The people may not be ready to fight for you yet, but there are those who would help you.
+it: E in che modo ci aiuterebbero?\nForse conoscete qualcuno che può guidarci alla torre dei maghi che stiamo cercando?
+en: How will they help, then?\nPerhaps you know someone who can guide us to the mage tower we are looking for?
+it: Dovreste andare a parlare con Kaffar.\nÈ venuto da me tempo fa e ha fatto domande su di voi. Sembrava sapere molte cose sul vostro conto e ha lasciato intendere di avere informazioni che trovereste preziose.\nMa state in guardia: Kaffar è noto come uomo coraggioso, ma anche astuto. Spesso fa ciò che pensa gli porterà più profitto... a volte a spese degli altri.
+en: You should go and speak with Kaffar.\nHe came to me a while ago, and asked questions about you. He seemed to know a lot about you, and he hinted he had information you would find valuable.\nBe wary, though, because Kaffar is known to be a man of courage, and cunning as well. He often does what he thinks will profit him most... sometimes at the expense of others.
+it: Andremo a parlare con questo Kaffar. Che la nave resti ancorata qui fino al nostro ritorno. Grazie del consiglio, vecchio.
+en: We'll go and speak with this Kaffar. Let the ship remain anchored here until we return. Thank you for the advice, old man.
+it: Abbiamo già saputo della battaglia sull'isola dei pirati. E vedo che avete liberato il nostro guaritore. La vostra bella nave avrà certo bisogno di riparazioni. Il minimo che possiamo fare per ripagare la vostra gentilezza è aiutarvi in questo. Uno dei nostri abitanti verrà con voi, così potrete riparare la nave ogni volta che servirà. Credo che vi servirà in perfette condizioni nelle vostre prossime battaglie.\nAndate con la benedizione della brava gente di qui.
+en: We already heard of the battle on the pirates' island. And I see you have rescued our healer. Your fine ship probably needs repairs. The least we can do to repay you for your kindness is to help you with this. One of our villagers will come with you so that you can repair the vessel whenever you have to. I think you will need it to be in prime condition in your future battles.\nGo with the blessings of the good people here.
+it: È un accampamento militare o un villaggio?\nVedo case e contadini al lavoro, ma anche molti soldati e un avamposto militare.
+en: Is this a military camp, or a village?\nI can see there are houses, and peasants working, but there are also many soldiers, and a military outpost here.
+it: Questo è il villaggio di Sal'Bahra e io sono Falla, il capo delle guardie.\nVoi dovete essere Woolin e Vardal dei Protettori? Ho sentito che Marsim ha parlato con degli stranieri che si facevano chiamare con quei nomi.\nAvete un occhio esperto per le cose militari... Forse siete davvero Woolin, la guardia del corpo di re Roan. Siamo stati costretti a schierare qui delle truppe per proteggere gli abitanti dai pirati che solcano queste acque.
+en: This is the village of Sal'Bahra, and I am Falla - the leader of the guards.\nYou must be Woolin and Vardal of the Protectors? I heard Marsim had spoken with outlanders who called themselves by those names.\nYou have a skilled sight for military matters... Perhaps you truly are Woolin - King Roan's bodyguard. We were forced to deploy troops here to protect the villagers from the pirates sailing these waters.
+it: Perché restate qui ad aspettare che i pirati vengano ad attaccarvi, invece di andare a cercare la loro base e distruggerli una volta per tutte?
+en: Why do you stay here and wait for the pirates to come and attack you, and not go out to find their base and destroy them once and for all?
+it: Siamo quasi certi che agiscano da una base su un'isoletta a nord, ma non possiamo attaccarli. Siamo troppo pochi: a pochi è concesso portare armi... tranne che ai soldati di Borgh, si capisce, ma a loro non importa combattere i pirati. Credo perfino che ricevano una parte del bottino dei pirati e in cambio li lascino in pace.\nE non abbiamo navi da guerra per combattere le navi dei pirati. Non possiamo attaccarli con le barche da pesca.
+en: We are pretty sure they operate from a base on a small island to the north, but we cannot attack them. There are too few of us - not many are allowed to carry arms... except for Borgh's soldiers, of course, but they do not care to fight the pirates. I even think that they get a share of the pirates' booty, and leave them alone in exchange.\nAnd we have no war ships to fight the pirates' ships. We cannot attack them on fishing boats.
+it: Possiamo aiutarvi noi. Abbiamo una nave con i cannoni e credo che siamo abbastanza per assaltare l'accampamento dei pirati.\nDiteci solo dove andare.
+en: We can help here. We have a ship with cannons, and I think there are enough of us to take on the pirates' camp.\nJust tell us where to go.
+it: Ve lo mostrerò tra un momento.\nAvete una nave potente, ma credo che si possa migliorare... Vi daremo un po' di legname, così potrete modificarla perché infligga più danni in battaglia.\nIl guaritore di questo villaggio è stato fatto prigioniero dai pirati. Se il vostro attacco ai pirati avrà successo, vi prego, trovatelo e riportatelo qui. Ne abbiamo un gran bisogno.
+en: I will show it to you in a moment.\nYou have a powerful ship, but I think it can be upgraded... We will give you some wood so that you can modify it to do more damage in battle.\nThis village's healer was taken prisoner by the pirates. If you succeed in your attack on the pirates, please find him and bring him back here. He is sorely needed.
+it: Ahh... il libro! Ce l'avete!\nÈ un incantesimo potente: anima i corpi di chi cade in battaglia e ve ne dà il comando, così ogni battaglia porterà nuovi soldati nelle vostre file.\nVi avevo promesso una ricompensa se mi aveste portato il libro. Non ho nulla da darvi... se non il mio aiuto. So lanciare incantesimi di benedizione e di guarigione. Posso anche imparare l'incantesimo di questo libro, e di altri, se ne troverete. Vi seguirò, miei signori. Le vostre imprese hanno dimostrato chiaramente che ne siete degni.
+en: Ahh... the book! You have it!\nIt is a powerful spell - it will animate the dead bodies of the fallen in battle, and give you control over them, so each battle will bring new soldiers to your ranks.\nI promised to repay you for bringing the book to me. I have nothing to give you... except my help. I can cast spells of blessing and healing. I can also learn the spell of this book, and of others, if you find any. I will follow you, my lords. Your deeds showed clearly that you are worthy.
+it: Oggi avete compiuto una buona azione, signori.\nOra è tempo di compierne un'altra: per voi stessi e contro Borgh... O dovrei dire: per il bene del giovane Sartor?\nLeggo sui vostri volti che volete chiedermi come faccio a sapere tante cose. E ancora una volta non vi risponderò, perciò non chiedetelo.\nSu un'altra delle isole qui vicino c'è un libro degli incantesimi. I soldati di Borgh lo hanno scoperto poco tempo fa, ma non osano toccarlo e hanno mandato a chiamare uno dei maghi perché venga a prenderlo. Questo libro non deve cadere nelle mani di Borgh. Uccidete i soldati, poi portatemi il libro. Vi ricompenserò.\nAndate!
+en: You did a good deed today, Lords.\nNow it is time to do one more - for yourselves, and against Borgh... Or should I say - for the sake of young Sartor?\nI can tell from your faces you want to ask how I know so much. And once again I will not answer you, so do not bother to ask.\nThere is a spell book on another of the islands nearby. Borgh's soldiers discovered it a short while ago, but they dare not touch it, and they sent for one of the mages to come and take it. This book must not fall into Borgh's hands. Kill the soldiers, then bring the book to me. I will repay you for this.\nGo!
+it: Salute, nobili signori.\nCredo di sapere perché siete qui. Volete sapere dell'isola del Teschio.
+en: Greetings, noble lords.\nI think I know what you are here for. You want to know about Skull Island.
+it: Come sapete perché siamo qui?
+en: How do you know why we are here?
+it: So molte cose, signore.\nE ora ve ne svelerò un poco.\nSull'isola del Teschio c'è un tesoro. Ma i pescatori fanno bene a tenersi lontani dalle sue coste. Ci sono bestie pericolose, ma non è di questo che dovete avere paura.\nL'isola è maledetta. Vi dimorano i fantasmi di coloro che lì furono massacrati dai pirati molto tempo fa. Morirono per il tesoro che ora si trova laggiù, e lo custodiranno da chiunque tenti di prenderlo.\nAndate laggiù e distruggete i fantasmi. Azim verrà con voi a prendere l'oro. Quando avrete finito, tornate a parlare con me.
+en: I know a lot, Sir.\nAnd I will share a little with you now.\nThere is treasure on Skull Island. But the fishermen are wise to steer clear of this island's shores. There are dangerous beasts there, but that is not what you should be afraid of.\nThe island is cursed. There dwell the ghosts of those who were slaughtered there by pirates long ago. They died for the treasure that is now there, and they will guard it from anyone who tries to take it.\nGo there and destroy the ghosts. Azim will come with you to take the gold. Once you have done this, return and speak to me.
+it: Salve, buon uomo.\nMi chiamo Woolin e lui è Vardal, cavaliere dell'Ordine dei Protettori. Ci ha mandati qui un eremita di nome Marsim. Ha detto che avreste avuto bisogno di aiuto e noi ve lo daremo volentieri.
+en: Hello, good man.\nMy name is Woolin, and this is Vardal, knight of the Order of the Protectors. A hermit by the name of Marsim sent us here. He said you would need help with something, and we would gladly oblige.
+it: Salve, nobili cavalieri. Siamo in grande difficoltà e Marsim ha fatto bene a parlarvi di noi.\nIl pesce lungo queste coste non è più abbondante come qualche anno fa, ed è l'unica cosa di cui possiamo vivere su quest'isola spoglia. Una settimana fa sono venuti qui gli esattori di Borgh e ci hanno costretti a versare mille monete d'oro al tesoro. Mille monete d'oro! Su questo nostro scoglio di isola non ce n'è mai stato tanto. Se non paghiamo entro una settimana, ci porteranno a lavorare nelle miniere di Borgh! Siamo semplici pescatori, non robusti nani, e là moriremmo di certo. Solo un miracolo può salvarci...
+en: Hello, noble knights. We are in dire need, and Marsim did a good thing in talking with you about us.\nThe fish around these shores are not as abundant as they were a few years ago, and they are the only thing we can make a living from on this bare island. A week ago the tax collectors of Borgh came here, and made us submit a thousand gold to the treasury. A thousand gold! There has never been that much gold on this small rock of an island of ours. If we do not pay them in a week's time, we will be taken to work on Borgh's mines! We are simple fishermen, not hardy dwarves, and we will surely perish there. Only a miracle can save us...
+it: Allora vi serve davvero un miracolo, perché non abbiamo con noi tanto oro, e non siamo certo abbastanza forti per difendere quest'isola da tutto l'esercito di Borgh in Kalt'ha, se vi rifiutaste di pagare.
+en: Then you need a miracle indeed, because we do not have that much gold with us, and we are hardly strong enough to hold this island against all of Borgh's army in Kalt'ha if you refuse to pay.
+it: Dio ci aiuti, se ci rifiutassimo! No, non intendevo nulla del genere. C'è un modo in cui potete aiutare noi poveri pescatori, gentili signori.\nA nord c'è un'isola, l'isola del Teschio. Si dice che vi sia un tesoro, sparso per terra alla portata di chiunque. Ma l'isola è pericolosa: vi dimorano bestie feroci. Se intendete ancora aiutarci, parlate con il sacerdote Razma, poco più a ovest di qui. Lui ne sa di più.
+en: God help us if we refuse! No, I did not mean anything like that. There is a way for you to help us poor fisherfolk, kind sirs.\nThere is an island to the north - Skull Island. They say there is treasure there, lying on the ground for anyone to find. But the island is dangerous - wild beasts dwell there. If you still mean to help us, speak to Razma the priest, a little way west of here. He knows more about this.
+it: Salute, viaggiatori.\nSono Marsim, un umile eremita.\nChe cosa vi porta nella terra di Kalt'ha?\nVorrei potervi dire che siete i benvenuti, ma temo che molto presto scoprirete da soli come vanno le cose da queste parti.
+en: Greetings, travelers.\nI am Marsim, a humble hermit.\nWhat brings you to the land of Kalt'ha?\nI wish I could say you were welcome here, but I am afraid that very soon you will find out for yourselves how things are going here.
+it: Perché la gente di qui non dovrebbe essere lieta di incontrare degli stranieri? Abbiamo sentito racconti sulle ricchezze e la prosperità di questa terra, e sulla sua ospitalità.
+en: Why would the people here be unhappy to meet outlanders? We have heard tales of the riches and prosperity of this land, and of its hospitality.
+it: La terra è ancora ricca, e tra noi c'è chi prospera. Ma sotto il dominio di Borgh solo gli spietati e gli indifferenti possono arrivare ad avere più dello stretto necessario per sopravvivere. Proprio su quest'isola sorgeva la capitale di tutta la terra di Kalt'ha, la grande città di Sahra. Ora non ne resta che un paese di pescatori. Borgh ha spostato la sede del suo potere nella città di Benas, proprio di fronte a Sahra, sulla terraferma. Non è altro che un gigantesco accampamento di soldati, con caserme, fucine di armi e laboratori d'assedio.
+en: The land is still rich, and there are those among us that prosper. But under Borgh's rule, only the ruthless and uncaring can rise to have anything more than what is barely enough to stay alive. On this very island used to be the capital of all the land of Kalt'ha - the great city of Sahra. All that remains of it now is a fishermen's town. Borgh moved his seat of power to the city of Benas - right opposite to Sahra on the mainland. It is nothing more than a giant soldiers' camp - with barracks, weaponsmiths and siege workshops.
+it: Va così male? Avevo sentito dire che il popolo di Kalt'ha non avrebbe accettato il giogo di nessuno...\nSiamo emissari di Sartor, il figlio di re Roan.\nCorrevano voci di maghi arabi che, in una torre da qualche parte su quest'isola, cercano per conto di Borgh il segreto di un potente incantesimo che gli permetterebbe di far piovere fuoco sui suoi nemici. Siamo venuti a impedire che diano un simile potere al nostro nemico. Sapete dove si trova questa torre?
+en: Is it so bad? I have heard that Kalt'ha's people would not accept anyone's yoke...\nWe are emissaries of Sartor, the son of King Roan.\nThere were rumors of Arabian mages in a tower somewhere on this island, searching for the secret of a powerful spell for Borgh, which would allow him to rain fire down upon his enemies. We have come to prevent them from bestowing such power on our enemy. Do you know where this tower is located?
+it: Qui non troverete nessuna torre dei maghi. Forse ce n'è stata una molto tempo fa, ma su quest'isola non ne rimane traccia. Anch'io ho sentito dei maghi di Borgh che lavorano a un incantesimo di Pioggia di fuoco, ma per quel che ne so la loro torre si trova da qualche parte sulla terraferma. E se volete assaltarla, vi servirà l'aiuto del popolo di Kalt'ha.\nIl problema è che non si fideranno di nessuno che non sappiano capace e nobile... Non dopo essersi fidati, non molto tempo fa, degli ambasciatori di Borgh: ora ne paghiamo tutti un prezzo alto.
+en: You will not find a mage tower here. Perhaps there has been one here long ago, but there is no trace of it remaining on this island. I have also heard of Borgh's mages working on a Fire Rain spell, but as far as I know their tower is located somewhere on the mainland. And if you want to raid it, you will need the help of the people of Kalt'ha.\nThe problem is, they will not trust anyone whom they do not know to be capable and noble... Not after they trusted Borgh's ambassadors not so long ago, and now we all pay a heavy price.
+it: Non avete mai sentito parlare di Woolin, il capitano di re Roan? E io sono un cavaliere dell'Ordine dei Protettori. Di certo conoscete questi nomi? Sono leggendari, e non solo nelle terre del sud.
+en: Have you not heard of Woolin, King Roan's captain? And I am a knight of the Order of the Protectors. Surely you know these names? They are a matter of legend, not only in the lands of the south.
+it: Quei nomi li abbiamo sentiti... così come sapevamo che i nomi e i titoli degli ambasciatori di Borgh erano degni e nobili.\nParole e nomi da soli non vi faranno guadagnare l'amicizia della gente di qui. Se provate ad andare a Sahra e a gridare chi siete, molto probabilmente sarete accolti soltanto dalle spade.\nNo, dovrete dimostrare il vostro valore aiutando chi è nel bisogno tra il popolo di Kalt'ha.\nSulle isole qui vicino ci sono due piccoli villaggi. Parlate con la gente che ci abita e fate ciò che vi chiede. Quando avrete fatto del vostro meglio per aiutarli, tornate da me. Spargerò la voce del vostro arrivo, e quando tutti vedranno che ci volete davvero bene, saranno pronti ad aiutarvi.
+en: We have heard those names... just as we knew the names and titles of Borgh's ambassadors to be worthy and noble.\nWords and names alone will not help you win the friendship of the people here. If you try going to Sahra and shouting who you are there, most likely you will only be greeted by sword-blades.\nNo, you will need to show your worth in helping those in need among the Kalt'ha.\nThere are two small villages on the islands nearby. Speak to the people there, and do as they ask. When you have done your best in trying to help them, come back to me. I will spread the word of your arrival, and when everyone can see you mean us well indeed, they will be ready to help you.
+
+# tzar.wcm::maps/rajba
+it: Campo di prigionia
+en: Prison Camp
+it: Prigionieri
+en: Prisoners
+it: Guardie della torre
+en: Tower Guards
+it: Maghi di Rajba
+en: Rajba Mages
+it: Morte ardente
+en: Burning Death
+it: Sartor deve liberare Woolin, tenuto prigioniero in un campo a ovest del castello di Bahra.
+en: Sartor must rescue Woolin who is detained in a camp to the west of the castle of Bahra.
+it: Sartor, Ghiron, Woolin e Vardal devono sopravvivere.
+en: Sartor, Ghiron, Woolin and Vardal must survive.
+it: Uccidi i maghi sulle scogliere nell'angolo nord-ovest della mappa e prendi il Libro della Morte ardente e la mappa che indica dove si trova la Sfera. Non distruggere la torre.
+en: Kill the mages on the cliffs in the north-west corner of the map and get the Book of Burning Death and the map with the location of the Sphere. Do not destroy the tower.
+it: Porta a Ghiron il Libro della Morte ardente.
+en: Bring the Book of Burning Death to Ghiron.
+it: Dopo tanto tempo, Sartor poteva finalmente vedere avvicinarsi la fine delle guerre. Dopo molti anni avevano qualche notizia della Sfera. La lettera ricevuta dagli Antichi monaci accennava all'esistenza della mappa di un'isola dove si poteva trovare la Sfera. E la mappa si trovava nel continente di Kalt'ha. Da qualche parte in quella vasta terra era tenuto prigioniero anche Woolin.
+en: After such a long time, Sartor could at last see the end of the Wars coming. After many years they had some information about the Sphere. The letter he had received from the Ancient Monks hinted at the existence of a map of an island where the Sphere could be found. And the map was to be found on the continent of Kalt'ha. Somewhere in that vast land the captured Woolin was being held too.
+it: Godetevi la vostra misera vittoria finché potete, sciocchi! Avrete pure conquistato la torre, ma la mappa non l'avrete mai! La porterò al mio signore a Benas, dove nessun esercito potrà prenderla!\nPresto sarete morti!
+en: Rejoice at your petty victory while you can, fools! You may have won the tower, but you will never get the map! I will bring it to my master in Benas, where no army can take it!\nSoon you will be dead!
+it: Che piacere vederti qui, Sartor. Cominciavo a temere che non saresti riuscito a sfondare le difese.
+en: It is good to see you here, Sartor. I was beginning to worry you would not be able to break through the defenses.
+it: Sono felice di vederti illeso e di buon umore, Woolin. Ci sei mancato molto.\nPresto attaccheremo la torre dei maghi sulle scogliere. Verrai con noi, immagino?
+en: I am glad to see you unhurt and in good spirits, Woolin. We missed you badly.\nWe will soon attack the wizards' tower on the cliffs. I believe you will come with us?
+it: Certo che parteciperò all'attacco. Ma devi sapere che non sarà facile arrivare alla torre. Dovremo aprirci la strada attraverso una base nemica prima ancora di arrivare ai piedi delle scogliere. Poi dovremo trovare il modo di scalare le pareti di roccia per raggiungere la torre. Ho sentito dire che il luogo è ben fortificato. E i maghi non saranno facili da uccidere, perché padroneggiano già l'incantesimo della Pioggia di fuoco. È scritto in un libro, il Libro della Morte ardente. Non dobbiamo permettere che questo libro arrivi a Birsha.
+en: Of course I will participate in the attack. But you should know it will not be easy to get to the tower. We will have to fight our way through an enemy base before we even get to the base of the cliffs. Then we will have to find a way to scale the rock walls in order to get to the tower itself. I have heard the place is well fortified. And the mages will not be easy to kill, because they have already mastered the Rain of Fire spell. It is written down in a book - the Book of Burning Death. We must not let this book get to Birsha.
+it: Non dovremo arrampicarci noi sulle pareti di roccia. Nelle terre dell'est ho incontrato una casta di abili guerrieri, i ninja. Sanno andare e venire senza farsi notare, e scogliere e mura non sono un ostacolo per loro. Ora sono pronti ad aiutarci.\nMa il segreto dell'incantesimo della Pioggia di fuoco non è più il nostro scopo principale. Cerchiamo una mappa per trovare la mistica Sfera. Nelle terre dell'est abbiamo trovato prove che era custodita in questa torre.
+en: We will not have to climb atop the rock walls ourselves. In the eastern lands I met a caste of skilled warriors - the Ninja. They can come and go unnoticed, and the cliffs and walls are no obstacles for them. They are willing to help us now.\nBut the secret of the Rain of Fire spell is no longer our main goal. We are searching for a map to find the mystical Sphere. In the lands of the east we found evidence it was being held in this tower.
+it: Sì, ho sentito parlare di una mappa importante. Credo che volessero portarla in un luogo più sicuro, a Benas. Ma non ho idea di come o quando intendessero spostarla.\nFaremo meglio a sbrigarci...
+en: Yes, I overheard some talk about an important map. I think they were going to transport it to a safer place in Benas. But I have no idea how or when they intended to move it.\nWe'd better hurry...
+it: Siamo venuti a combattere i maghi di Rajba.\nHo sciolto la maledizione che vi teneva... per un po'. Non può essere spezzata finché ci sono maghi nella torre sulle scogliere.\nOra avete una scelta: combattere con noi contro i maghi che vi hanno maledetti all'oblio, o tornare al vostro oblio. Scegliete in fretta!
+en: We have come to fight the wizards of Rajba.\nI lifted the curse from you... for a time. It cannot be broken, not while there are mages in the tower on the cliffs.\nNow you have a choice - to fight with us against the wizards who cursed you to oblivion, or you can return to your forgetfulness. Choose quickly!
+it: Perché siete venuti a Bahra?\nChi osa camminare sulla terra maledetta?
+en: Why have you come to Bahra?\nWho dares to walk the cursed land?
+it: Scegliamo di combattere. Anche se non ci fosse alcuna maledizione su di noi, faremmo comunque guerra ai maghi. Sono un male che affligge questa terra da troppo tempo, e vanno eliminati.\nComandateci!
+en: We choose to fight. Even if there were no curse upon us, we would still wage war on the wizards. They are an evil that has plagued this land far too long, and they must be removed.\nCommand us!
+it: Bene. Il nostro primo compito sarà liberare il nostro amico Woolin. È tenuto prigioniero in una roccaforte a ovest di qui.\nNon possiamo lasciarlo in mano al nemico, e di certo saprà di più sulla torre dei maghi.
+en: Good. Our first task will be to rescue our friend Woolin. He is being held prisoner in a stronghold to the west of here.\nWe cannot leave him in the hands of the enemy, and he will surely know more about the wizards' tower.
+it: Della sua liberazione mi occuperò io. Chiunque osi mettersi tra noi se ne pentirà!
+en: I will take care of his rescue. Anyone who dares to stand between us will be sorry!
+it: Soffino i venti del deserto e si increspi la terra!\nSi muovano le dune e si scavino le valli!\nSi ritiri la sabbia dalle mura di Bahra!\nVedano i maledetti la luce del giorno!
+en: Let the desert winds blow and the ground ripple!\nLet the dunes shift and valleys deepen!\nLet the sand withdraw from the walls of Bahra!\nLet the cursed ones see the light of day!
+it: Bene, eccoci qui, Ghiron.\nCome ci avevi chiesto, abbiamo viaggiato leggeri e non abbiamo portato nessuno che potesse aiutarci a costruire un accampamento qui.\nE ora che facciamo? Presto ci troveranno, e non possiamo certo tirare fuori un esercito dalla sabbia, no?
+en: Well, here we are Ghiron.\nJust as you bid us - we traveled light, and we did not take anyone who might have helped us build a camp here.\nWhat are we to do now? We will soon be found, and we cannot make an army out of the sand here, can we?
+it: Un esercito dalla sabbia? Vedremo...\nMa sappiate questo, amici: siamo osservati. Il nemico sapeva del nostro arrivo molto prima che toccassimo la riva. I maghi del deserto sono una forza da non sottovalutare.\nCi resta poco tempo prima che i nostri nemici radunino le truppe e vengano a prenderci.\nTanto tempo fa qui sorgeva uno splendido castello. Le sue torri dorate scintillavano alla luce del sole nascente...\nOra non ne resta che un cumulo di sabbia sulle mura in rovina. Su questa terra fu gettata una maledizione, un incantesimo d'oblio, e quando calò, il castello e la sua gente furono sepolti sotto il deserto. È giunto il momento che rivedano la luce del giorno.\nVenite!
+en: An army out of the sand? We shall see...\nBut know this, friends - we are being watched. The enemy knew of our arrival here long before we touched the shore. The wizards of the desert are a force to be reckoned with.\nWe have little time left before our foes rally their troops and come for us.\nLong ago there was a splendid castle here. Its golden towers glittered brightly in the light of the rising sun...\nAll that remains of it now is a sand mound over the ruined walls. A curse was laid upon this land, a spell of oblivion, and when it fell the castle and the people here were buried below the desert. The time has come for them to see the light of day once more.\nCome!
+
+# tzar.wcm::maps/saa10
+it: Mappa7
+en: Map7
+it: Villaggio
+en: Village
+it: Pioggia di fuoco
+en: Rain of Fire
+it: Pozione dell'eroe
+en: Hero potion
+it: Uccidi Birsha.\n\nWoolin, Sartor e Ghiron devono sopravvivere.
+en: Kill Birsha\n\nWoolin, Sartor and Ghiron must survive.
+it: Distruggi tutti i fantasmi alla fine del sentiero di croci.
+en: Destroy all the ghosts at the end of the trail of crosses.
+it: Prendi la pozione rossa.
+en: Take the red potion.
+it: Dopo la fortunata campagna di Jaddua, Ghiron e Sartor decisero che era il momento giusto per attaccare di sorpresa Birsha nel suo accampamento. Quando tra il loro esercito e le truppe di Birsha non restava che l'ultimo passo di montagna, si fermarono a studiare l'attacco.
+en: After the successful campaign in Jaddua, Ghiron and Sartor decided it was as good a time as any to make a surprise attack on Birsha in his camp. When all that stood between their army and Birsha's troops was the last mountain pass, they stopped and considered their attack.
+it: Grandi ricompense attendono chi segue i sentieri dei caduti e dà alle loro anime l'ultimo riposo.
+en: Great rewards await those who follow the trails of the fallen and put their souls to final rest.
+it: Sorgete, miei fedeli alleati! Finalmente sono invincibile!
+en: Arise my loyal allies! I am invincible at last!
+it: Siamo all'ultima fase.
+en: The final stage is upon us.
+it: La seconda fase è compiuta. Possiamo procedere.
+en: The second stage is accomplished. We may proceed.
+it: La prima fase è completata.
+en: The first stage is completed.
+it: Possiamo cominciare il rito.
+en: We may begin the ritual.
+it: Forza, uomini, uscite allo scoperto e schiacciamoli!
+en: Come on men - come out and let's crush 'em!
+it: Sono arrivato quasi all'accampamento di Birsha. Alla fine del passo ci sono solo poche guardie. Il suo esercito si è accampato e le truppe si addestrano. Non ci scopriranno in tempo.\nMa tra loro ho visto alcuni sacerdoti. Chi sono?
+en: I nearly reached Birsha's camp. There are only a few guards at the end of the pass. His army has made a camp. The troops are in training. They will not spot us in time.\nBut I saw some priests amongst them. Who are they?
+it: Ahimè, le voci erano vere. Devono essere i Servi dell'Avidità di cui ho sentito parlare tempo fa. A quanto pare Birsha si è alleato con loro. Anche i loro maghi devono essere qui... Sì, li sento vicino al vulcano, dall'altra parte della montagna. Si preparano a evocare i loro terribili troll! Abbiamo al massimo due giorni. Dobbiamo sbrigarci!
+en: Alas, the rumors have come true. They must be the Servants of Greed I heard of some time ago. Obviously Birsha has allied with them. Their wizards must be here too... Yes, I can sense them near the volcano on the other side of the mountain. They are preparing to summon their terrible trolls! We have two days at the most. We must hurry!
+it: Aspettate, potrebbero cercare di ingannarci. Birsha non è uno sciocco. Deve aver lasciato andare di proposito i nostri esploratori e Sartor. Nel passo potrebbe esserci un'imboscata. Propongo di radunare un esercito più grande.
+en: Wait, they may be trying to cheat us. Birsha is not a fool. He must have let our scouts and Sartor go. There may be an ambush in the pass. I suggest we gather a greater army.
+it: E i troll?
+en: But what about the trolls?
+it: Una volta ho combattuto con un troll, e indovina chi ha vinto. Si possono distruggere. E poi possiamo comunque attaccare in meno di due giorni con un esercito più grande. Anche il libro magico potrebbe aiutarci.
+en: I fought a troll once and guess who won. It is possible to destroy them. Also, we can still attack in less than two days with a larger army. The magic book may help us too.
+it: Gli restano solo poche cariche.
+en: It has only a few charges left.
+it: Se decidiamo di attaccare subito, dovremmo usare l'altro passo. Si trova a ovest di qui. È più largo e meno adatto alle imboscate. Almeno potremo ritirarci senza pericolo.
+en: If we choose to attack now we should use the other pass. It is located west of here. It is larger and less suitable for ambushes. At least we can retreat safely.
+
+# tzar.wcm::maps/saa11
+it: Mappa 8
+en: Map 8
+it: I sacerdoti
+en: The Priests
+it: Avamposto
+en: Outpost
+it: Druido delle acque
+en: Water druid
+it: Pozione del mago
+en: Wizard's Potion
+it: Congelamento
+en: Freeze
+it: Distruggi tutti i nemici della zona.\n\nWoolin, Sartor e Ghiron devono sopravvivere.
+en: Destroy all enemies in the area.\n\nWoolin, Sartor and Ghiron must survive.
+it: Accompagna Ghiron dal suo amico.
+en: Lead Ghiron to his friend.
+it: Sconfitto Birsha, la strada per la capitale di Borgh, Wark Aven, era aperta. Prima dell'attacco Woolin insistette perché Sartor si occupasse prima dei posti di difesa esterni della città. L'entusiasmo spingeva Sartor ad agire con decisione, ma alla fine anche lui convenne che sarebbe stato sciocco lasciare in piedi gli avamposti di Borgh e restare intrappolati tra due forze nemiche quando l'esercito avesse marciato sulla città.
+en: Once Birsha had been defeated, the road to Borgh's capital city, Wark Aven, lay open. Before they attacked, Woolin insisted that Sartor should first take care of the city's outer defense posts. Sartor's enthusiasm urged him to act decisively, but in the end he came to agree that it would be foolish to leave Borgh's outposts standing and become entrapped between two enemy forces once their army advanced on the city itself.
+it: Mi aspettavo che saresti passato, vecchio amico. Le voci sulle nobili imprese tue e dei tuoi amici sono arrivate perfino a me. Che cosa posso fare per te?
+en: I expected you to come by, old friend. Rumors of the noble deeds of you and your friends reached even me. What can I do for you?
+it: Ci conosciamo da molto tempo e non ti ho mai chiesto nulla, ma è giunto il momento di farlo. I miei poteri possono essere molto utili in battaglia, ma sono impotente quando i miei compagni hanno bisogno di cure. Odio vederli indebolirsi e morire.\nCi aspetta una battaglia feroce, una battaglia che deciderà le sorti di questa terra per secoli. Dobbiamo essere nelle migliori condizioni per affrontare ciò che verrà. Accetti di unirti alla nostra causa?
+en: We have known each other for a long time and I have never asked you for anything, but the time has come to do it. My powers may be very useful in battle but I am helpless when my comrades need healing. I hate to watch them weaken and die.\nA fierce battle is at hand. One that will decide the fate of this land for centuries. We need to be in excellent condition to face the coming events. Will you agree to join our cause?
+it: Be', credo di aver passato abbastanza tempo a pregare su questo scoglio. Tanto gli dei non mi hanno ascoltato. Da questo momento io e il mio apprendista siamo al tuo servizio. Vicino alla mia casa ci sono alcuni oggetti che potrebbero esservi utili.
+en: Well, I guess I've spent enough time on this rock praying. The gods did not listen anyway. My apprentice and I are at your disposal from now on. There are some items near my house that you may find useful.
+it: Finalmente ci separa solo il fiume dalle mura di difesa esterne di Wark Aven. È ora di porre fine a questo terribile conflitto.
+en: At last, only the river separates us now from the outer defensive wall of Wark Aven. It is time to end this terrible conflict.
+it: Non è ancora finita. I nostri esploratori riferiscono che una grossa forza occupa l'isola nel fiume. Di certo la sostiene il villaggio sull'altra riva. L'unico modo per attraversare è passare sui ponti, ma sono collegati a quell'isola. E sono sicuro che presto arriveranno altri rinforzi da Wark Aven.
+en: It is not over yet. Our scouts report that a large force occupies the island in the river. They are surely supported by the village on the other side of the water. The only way to cross it is over the bridges, but they are connected to this island. Also, I am sure that more reinforcements will soon be sent from Wark Aven.
+it: Un mio vecchio amico vive su uno scoglio nel lago a est. Potrebbe aiutarci nella nostra impresa. Purtroppo l'unico punto adatto per un porto è vicino all'isola. Forse dovremmo costruirne uno dopo aver ripulito la zona.
+en: An old friend of mine lives on a rock in the lake to the east. He may aid us in our quest. Unfortunately the only suitable place for a harbor is near the island. Maybe we should build one after we clear a perimeter there.
+
+# tzar.wcm::maps/saa12
+it: Mappa 9
+en: Map 9
+it: Profughi
+en: Refugees
+it: Castello di Borgh
+en: Borgh's castle
+it: Distruggi il castello di Borgh.\n\nWoolin, Sartor e Ghiron devono sopravvivere.
+en: Destroy Borgh's castle.\n\nWoolin, Sartor and Ghiron must survive.
+it: Dopo qualche breve scaramuccia, si trovarono davanti alle alte mura di Wark Aven. Sullo sfondo incombevano le torri scure del Castello del Male. Borgh aveva trasformato la città in un accampamento di guerra. Sartor e Woolin avevano deciso di attaccare di sorpresa da tre lati contemporaneamente. Contavano sull'appoggio della gente di Keana, che da molti giorni accorreva sotto le loro bandiere. Solo Ghiron continuava a ricordare che dovevano agire in fretta, prima che Borgh potesse rafforzare la sua posizione e prima che la gente perdesse la fiducia nella vittoria.
+en: After a few brief skirmishes, they stood before the tall walls of Wark Aven. In the background, the dark towers of the Castle of Evil loomed. Borgh had turned the city into a war camp. Sartor and Woolin had decided to make a surprise attack from three sides simultaneously. They counted on the support of the people of Keana who had been flocking to their banners for many days already. Ghiron alone kept reminding them they had to act swiftly, before Borgh had the opportunity to strengthen his position, and before the people lost faith in their victory.
+it: Credo che sia fuggito nel suo castello. Dobbiamo distruggerlo in fretta!
+en: I think he fled into his castle. We must destroy it quickly!
+it: Vedo una grande nave lasciare la città. A bordo c'è un grande male: una presenza che mi spaventa.
+en: I see a large ship leaving the town. There is a great evil on board - a presence that frightens me.
+it: Borgh ha raccolto tutta la sua potenza. Ora dobbiamo combattere per la vita.
+en: Borgh has gathered his full power. We must fight for our lives now.
+it: Sono arrivati i primi rinforzi, ma perdiamo uomini troppo in fretta.
+en: The first reinforcements have arrived, but we are losing men too fast.
+it: Vi prego, nobili soldati, aiutateci! Siamo pacifici mercanti venuti da lontano. Quando avete sfondato le difese esterne, le truppe di Borgh hanno cominciato a massacrare per le strade di Wark Aven ogni straniero «sospetto». Siamo riusciti a fuggire, ma le guardie alla porta ci hanno visti. Stanno radunando una squadra per inseguirci. In cambio possiamo aiutarvi nella vostra offensiva costruendo alcuni edifici comuni. Possiamo conquistare ciò che non sappiamo costruire.
+en: Please, noble soldiers, help us! We are peaceful merchants from far away. When you breached through the outer defenses, Borgh's troops began slaughtering any 'suspicious' strangers on the streets of Wark Aven. We managed to escape, but the guards at the gate saw us. They are forming a pursuit force now. In return, we can help you in your offensive by constructing some common buildings. We can capture what we cannot build.
+it: Certo che vi salveremo, ma prima parlateci della città!
+en: Of course we shall save you, but first tell us about the town!
+it: C'è poco da dire: la città interna sembra un accampamento di guerra. È fortificata pesantemente e molte truppe si addestrano vicino al castello di Borgh. I maghi evocano golem di pietra. Borgh prepara un massiccio contrattacco per domattina.
+en: There is not much to tell - the inner city looks like a war camp. It is heavily fortified and many troops are training near Borgh's castle. The mages are summoning stone golems. Borgh is preparing a massive counter-attack for tomorrow morning.
+it: Ottimo, allora dobbiamo piantare qui il nostro accampamento e aspettare che venga!
+en: Excellent, then we must establish our camp here and wait for him to come!
+it: Attento, entro domattina non possiamo costruire un accampamento abbastanza forte da resistere ai suoi golem. Ci sottovaluta. Propongo di attaccare prima che raduni tutte le sue forze. Il suo potere è grande.
+en: Beware, we cannot build a camp strong enough to withstand his golems by tomorrow morning. He underestimates us. I suggest we attack before he gathers all his forces. His power is great.
+it: Forza, l'attacco alla porta orientale è appena cominciato. Non dobbiamo lasciare soli i nostri compagni. Propongo di conquistare quel castello a nord. Sembra quasi indifeso. Che scegliamo di attaccare o di difenderci, ci sarà utile.
+en: Come on, the attack of the eastern gate has just begun. We must not let our comrades fight alone. I suggest we capture that castle to the north. It seems almost undefended. Whether we choose to attack or to defend, it should be useful.
+it: Facciamolo, allora!
+en: Let's do it then!
+
+# tzar.wcm::maps/saa3
+it: Mappa 1
+en: Map 1
+it: Pattuglia
+en: Patrol
+it: Esploratore
+en: Scout
+it: Trova l'accampamento dei ribelli vicino alla vecchia strada e parla con Woolin.\nSartor e Ghiron devono sopravvivere.
+en: Find the rebels' camp near the old road and talk to Woolin.\nSartor and Ghiron must survive.
+it: Segui Woolin e tendi un'imboscata ai soldati nemici.\nWoolin, Sartor e Ghiron devono sopravvivere.
+en: Follow Woolin and ambush the enemy soldiers.\nWoolin, Sartor and Ghiron must survive.
+it: All'alba Sartor credeva a Ghiron e sapeva tutto delle guerre, di suo padre, re Roan, e della Sfera perduta. Era difficile per lui accettare che le persone che amava come genitori non fossero il suo vero padre e la sua vera madre, e che il destino del mondo dipendesse da lui. Si sentiva male ogni volta che ricordava ciò che i soldati di Borgh avevano fatto al suo villaggio. Ma Sartor sentiva che non poteva più tornare indietro.
+en: At dawn, Sartor believed Ghiron and knew everything about the wars, his father - King Roan, and the lost Sphere. It was hard for him to accept that the people he loved as his parents were not his true mother and father, and that the fate of the world depended on him. It made him sick every time he remembered what Borgh's soldiers had done to his village. But Sartor felt there was no turning back.
+it: Jaddua - est.
+en: Jaddua - east.
+it: Aspettate! Qui c'è qualcosa che non va... Sembra che i nostri compagni siano caduti in un'imboscata. Dobbiamo mandare un esploratore ad avvertire il capitano.
+en: Wait! There is something wrong here... Looks like our comrades have been ambushed. We must send a scout to inform the captain.
+it: Benvenuto nel mio accampamento, mio signore. Mi chiamo Woolin. Ero amico e consigliere di vostro padre.
+en: Welcome to my camp, my Lord. My name is Woolin. I was your father's friend and adviser.
+it: Spero che anche noi diventeremo amici, ora che combatteremo insieme. Che cosa avevate in mente di fare?
+en: I hope we will be friends too now that we are to fight together. What were you planning to do?
+it: Preparavamo un'imboscata alle truppe nemiche di pattuglia. Si muovono in piccoli gruppi lungo il passaggio nella foresta.
+en: We were planning an ambush on patrolling enemy troops. They move in small groups along the passage in the forest.
+it: Allora andiamo.
+en: So let's go then.
+it: D'accordo, dobbiamo tornare alla fossa che avete superato e proseguire verso est lungo la vecchia strada, così da intercettare le pattuglie nemiche e coglierle di sorpresa. Il punto più adatto è dove la strada è sbarrata, il più vicino al sentiero. Vi farò strada.
+en: Alright, we need to return to the pit you passed by and proceed eastwards along the old road, so that we can intercept the patrolling enemies and take them by surprise. The most suitable place is where the road is blocked, nearest the path. I will lead you.
+it: Perciò devi sconfiggere il malvagio Borgh e riunire di nuovo Keana.
+en: So you must defeat the evil Borgh and once again unite Keana.
+it: Ma come faccio? Ho sangue reale, ma chi mi seguirà?
+en: But how do I do that? I have royal blood, but who is going to follow me?
+it: La gente è sfinita, Sartor. Alla morte di tuo padre seguirono guerre e sciagure. Il suo regno di pace è un ricordo prezioso. La gente seguirà chiunque prometta un futuro felice. Soprattutto se è il figlio di Roan.
+en: People are exhausted, Sartor. Wars and disasters followed the death of your father. His peaceful rule is a cherished memory. People will follow anyone who promises them a happy future. Particularly if it is the son of Roan.
+it: Giusto, ma da dove cominciamo?
+en: That's right, but where should we begin?
+it: Non è un caso che stanotte siamo qui. Ti ho portato in questa foresta perché qui sono di stanza i resti della guardia d'onore di tuo padre. Per tutti questi anni hanno combattuto contro la tirannia di Borgh. Li guida Woolin. Un tempo era il consigliere più fidato di tuo padre. Ci sta aspettando.
+en: Our being here tonight is not by mere chance. I brought you into this forest because the remains of your father's honor guard is stationed here. All these years they fought against the tyranny of Borgh. They are led by Woolin. He was once the most trusted adviser of your father. He is expecting us.
+it: Come possiamo trovarlo?
+en: How can we find him?
+it: Proseguiremo lungo questo sentiero finché non troveremo una fossa profonda. Fa parte della campagna con cui vent'anni fa Borgh distrusse le strade che collegavano Keana e Jaddua. Da lì dovremo proseguire verso ovest lungo la vecchia strada e trovare uno degli avamposti abbandonati. Ora li usano i ribelli.
+en: We shall continue along this path until we find a deep pit. It is part of Borgh's campaign to destroy the roads that connected Keana and Jaddua twenty years ago. From there, we must continue westwards along the old road and find one of the abandoned outposts. They are now used by the rebels.
+it: Allora sei il figlio di re Roan! Prosegui fino al fuoco del bivacco e parla con Woolin.
+en: So, you are the son of King Roan! You should proceed to the campfire and talk with Woolin.
+
+# tzar.wcm::maps/saa4
+it: Mappa 2
+en: Map 2
+it: Spiriti maligni
+en: Evil spirits
+it: Carri delle tasse
+en: Tax Wagons
+it: Carro 2
+en: Wagon 2
+it: Carro 1
+en: Wagon 1
+it: Gli eroi devono parlare con l'anziano.
+en: The heroes must speak to the Elder.
+it: Distruggi i non morti nel cimitero.
+en: Destroy the undead at the cemetery.
+it: Riporta i tuoi eroi dall'anziano.
+en: Return your heroes to the Elder
+it: Distruggi la scorta dei carri delle tasse.
+en: Destroy the tax wagons' escort.
+it: Woolin, Ghiron e Sartor devono sopravvivere.
+en: Woolin, Ghiron and Sartor must survive.
+it: Proteggi gli abitanti del villaggio.
+en: Protect the villagers.
+it: Erano passate diverse settimane dal fortunato attacco alla pattuglia di Borgh. Woolin aveva recuperato la vecchia armatura di re Roan, chissà da dove, e Sartor faceva fatica ad abituarcisi. Ghiron aveva un piano e continuava a spronarli ad andare avanti. Viaggiavano tutto il giorno, e la sera Woolin e Ghiron raccontavano a Sartor la storia del mondo, di città meravigliose e di tempi in cui le guerre erano solo leggenda. A volte Woolin insegnava a Sartor a combattere con la spada e ad andare a cavallo. Altre volte Ghiron gli insegnava la pazienza e le buone maniere. Un giorno arrivarono in un piccolo villaggio, e dal sorriso di Ghiron Sartor capì che erano giunti a destinazione.
+en: Several weeks had passed since the successful attack on Borgh's patrol. Woolin had gotten the old armor of King Roan from only he knew where, and Sartor had a hard time getting used to it. Ghiron had a plan, and kept urging them forward. Throughout the day they traveled, and in the evening, Woolin and Ghiron told Sartor of the history of the world, of wonderful cities and of times when wars were just a thing of legend. Sometimes Woolin taught Sartor to fight with a sword and to ride. At other times, Ghiron taught Sartor patience and manners. One day, they arrived in a little village, and by Ghiron's smile Sartor knew they had reached their destination.
+it: Ultima dimora - sud-est.
+en: Last resting place - southeast.
+it: Bene, uomini, voglio che ogni singola moneta di questo villaggio finisca nel mio carro! Che cosa aspetti, vecchio sciocco? Portami il bestiame!
+en: Alright, men, I want every last coin in this village to be placed into my wagon! What are you waiting for, old fool? Bring me the cattle!
+it: Perché invece non te ne vai dal mio villaggio e lasci qui i carri?
+en: Why don't you get out of my village and leave the wagons here instead.
+it: COSA!!! Guardie, diamo una lezione a questo cane. Uccidetelo!
+en: WHAT!!! Guards, let's teach this cur a lesson. Kill him!
+it: Vediamo chi uscirà vivo di qui. Venite fuori, dobbiamo ucciderli.
+en: Let us see who will get out of here alive. Come out, we have to kill them.
+it: Grazie della tua bontà, Woolin! Come posso ripagare il mio debito con te o con i tuoi amici? Oh, perdonate questo vecchio sciocco, non mi hai presentato il giovane signore.
+en: Thank you for your kindness, Woolin! How can I repay my debt to you or your friends? Oh, excuse the old fool, you haven't introduced me to the young lord.
+it: Sono Sartor, figlio di Roan. Io e i miei amici siamo qui per prendere l'oro dei carri delle tasse. Ci serve per liberare questa terra dal malvagio Borgh e restaurare il regno di mio padre. Abbiamo bisogno del vostro aiuto, buon uomo. Voi e alcuni dei vostri abitanti ci aiuterete?
+en: I am Sartor, the son of Roan. My friends and I are here to capture the gold from the tax wagons. We need it to help us release this land from the evil Borgh and restore my father's kingdom. We need your help, kind sir. Will you and some of your villagers assist us?
+it: Sarebbe magnifico se il nostro villaggio si liberasse di quegli sfrontati esattori. Ad ogni modo, non lo faremo solo per il nostro bene, ma anche perché il saggio regno del defunto re brilla ancora nella nostra memoria. C'è però un problema: i loro cavalieri sono troppo forti. Spero che con il vostro aiuto potremo sconfiggerli. Ora nascondete i vostri uomini e aspettate il mio segnale.
+en: It would be excellent if our village could be rid of the impudent taxmen. Anyway, we shall not only do it for our benefit, but also because the wise rule of the late king shines bright in our memory. There is one problem though - their knights are too strong. I hope with your help we can vanquish them. Hide your men now and wait for my signal.
+it: Non preoccuparti dei cavalieri, vecchio, non possono nulla contro la mia picca. Ora dobbiamo andare.
+en: Don't worry about the knights, old man, they are no match for my pike. We must go now.
+it: Oh, Woolin, che piacere vedere un amico in tempi così difficili!
+en: Oh, Woolin, it is nice to see a friend in these troubled times!
+it: Hai ragione come sempre, vecchio, ma dimmi: come mai sembri così triste?
+en: You are right as usual, old man, but tell me why is it that you look so sad?
+it: Ahimè, come dicevo, i tempi sono duri. Non solo i carri delle tasse sono fermi poco lontano dal villaggio e arriveranno da un momento all'altro a prendersi il nostro ultimo oro e il bestiame, ma qualche giorno fa è anche accaduta una disgrazia.
+en: Alas, as I said times are hard. Not only are the tax wagons stationed not far from the village and will be here at any hour to take our last gold and cattle, but also a disaster happened a few days ago.
+it: Dimmi che cosa è successo, vecchio amico!
+en: Tell me what happened, old friend!
+it: Sei giorni fa un gruppo di soldati di Borgh è uscito dalla foresta parlando di «una brutta imboscata» e di «vendicare i compagni». Quando mi hanno visto sembravano spaventati, ma uno di loro ha detto agli altri: «Questo contadino non ha l'aria di uno che guida truppe». Poi si sono infuriati e hanno impiccato al vecchio cimitero i primi due abitanti che hanno visto. Dopo quel fatto ho mandato vecchie armi a tutte le fattorie lontane e ho organizzato una guardia al ponte.
+en: Six days ago, a group of Borgh's soldiers came out of the forest, talking about 'a nasty ambush' and 'revenge for their comrades'. They looked scared when they saw me, but one of them told the others: 'This peasant doesn't look to lead troops'. After that they became angry and hanged the first two villagers they saw at the old graveyard. After the incident I sent old weapons to every distant farm and organized a guard at the bridge.
+it: Mi dispiace sentirlo. Se posso fare qualcosa per aiutarti...
+en: I am sorry to hear that. If there is something I can do to help...
+it: Non è tutto. Ora gli spiriti dei due abitanti infestano il cimitero. Stanno per risvegliare tutti i morti. Ti prego, Woolin, se distruggerai gli spiriti la maledizione sarà spezzata e io sarò in debito con te.
+en: That is not all. The spirits of the two villagers now haunt the graveyard. They are about to raise all the dead. Please, Woolin, if you destroy the spirits the curse will be lifted and I will be in your debt.
+it: Allora lo farò.
+en: I will do it then.
+it: Allora devi andare verso sud lungo la strada. Dopo aver passato il ponte vedrai un cartello che indica il cimitero. Va' nella direzione che indica.
+en: Then you must go southwards along the road. After you pass the bridge you will see a sign pointing to the graveyard. Go in the direction it points.
+it: L'armatura di vostro padre vi sta proprio bene, Sire.
+en: Your father's armor fits you pretty well, Sire.
+it: Grazie, Woolin, ma ho ancora bisogno di allenarmi. Questa armatura è molto pesante...
+en: Thank you, Woolin, but I still need more training. This armor is very heavy...
+it: Ehi, voi due, concentriamoci sul compito che abbiamo davanti. Dobbiamo catturare i carri delle tasse di Borgh. Non possiamo restaurare il castello di Keanor senza oro, giusto?
+en: Hey, you two, let's concentrate on the task in hand. We have to capture Borgh's tax wagons. We can't restore Castle Keanor without gold, right?
+it: Pensi che ci sarà abbastanza oro su quei carri per aiutarci a restaurare il vecchio castello di Keanor?
+en: Do you think there will be enough gold loaded on them to help us restore the old Castle Keanor?
+it: Sentite, conosco l'anziano del villaggio qui vicino, a sud-est. Lì possiede la locanda. Mi ha detto che le tasse sono altissime. Credo che sia così dappertutto, perciò non preoccupatevi per l'oro.
+en: Look, I know the elder of the nearby village, located southeast of here. He owns the inn there. He told me that the taxes are extremely high. I think that it is like this everywhere, so don't worry about the gold.
+it: Allora dobbiamo andare da lui a chiedere dei carri delle tasse.
+en: We need to see him then, to ask about the tax wagons.
+it: Andiamo, allora!
+en: Come on then!
+
+# tzar.wcm::maps/saa5
+it: Mappa 3
+en: Map 3
+it: Esercito di Borgh
+en: Borgh's army
+it: Woolin, Sartor e Ghiron devono sopravvivere.
+en: Woolin, Sartor and Ghiron must survive.
+it: Distruggi le forze nemiche che attaccano la città.
+en: Destroy the enemy force attacking the town.
+it: Completa il castello e costruisci gli edifici più importanti.\n\nRicostruisci quante più difese puoi e raduna qualche truppa.
+en: Complete the castle and build the most important buildings.\n\nRebuild as many of the defenses as you can and gather some troops.
+it: Distruggi la forza minacciosa e tutte le truppe ostili rimaste nella zona.
+en: Destroy the threatening force and all remaining hostile troops in the area.
+it: Il piano di Ghiron riuscì e i ribelli ottennero l'oro così importante per la loro causa. Felici e soddisfatti, partirono per Keanor. Nessuno si lamentava e la stanchezza sembrava svanita. Un mattino arrivarono in vista di Keanor e la loro gioia svanì di colpo. Davanti alle mura cadenti infuriava una battaglia. Pochi coraggiosi difensori cercavano di respingere l'attacco e di salvare quel poco che restava della città.
+en: Ghiron's plan succeeded and the rebels got the gold that was so important to their cause. Happy and contented, they set off to Keanor. Nobody complained, and the weariness seemed to disappear. One morning, they reached sight of Keanor, and their joy faded at once. There was a battle before the crumbling walls. A few brave defenders tried to fend off the attack and save what little was left of the city.
+it: Dobbiamo mandare qualche esploratore ad avvertirci quando le forze nemiche si avvicinano.
+en: We must send some scouts to warn us when the enemy force approaches.
+it: La loro cavalleria si avvicina! Salvateci!
+en: Their cavalry is approaching! Save us!
+it: Abbiamo vinto! Ora possiamo ricostruire il castello e la città.
+en: We won! Now we can rebuild the castle and the town.
+it: Sì, e dobbiamo farlo in fretta. Ho visto il nemico distruggere le mura. Credo che lo facesse per far passare la cavalleria. Se è così, attaccheranno di certo presto.
+en: Yes, and we must do it fast. I saw the enemy destroying the wall. I think they were doing this for the cavalry to pass. If this is true, they will certainly attack soon.
+it: Vedo che le mura sono danneggiate e che la città interna è in fiamme. Dobbiamo sbrigarci!
+en: I can see that the wall has been damaged and the inner city is on fire. We must hurry!
+it: Ma che cosa è successo al fossato?
+en: But what happened to the moat?
+it: Nessuno poteva sprecarvi risorse. Ora è solo terra. Dentro si combatte ancora: dobbiamo cercare di salvare almeno un po' di contadini e di edifici, così da poter restaurare la città.
+en: No-one could spare resources for it. It is only dirt now. They are still fighting inside, we must try to save at least some of the peasants and buildings so that we can restore the city.
+
+# tzar.wcm::maps/saa6
+it: Mappa 4
+en: Map 4
+it: Nani
+en: Dwarves
+it: Orchi
+en: Orcs
+it: Castello Valor
+en: Castle Valor
+it: Castello Dread
+en: Castle Dread
+it: Capo dei nani
+en: Dwarf Leader
+it: Protettore
+en: Protector
+it: Woolin e Valor devono sopravvivere.\n\nDistruggi tutte le forze e gli edifici di Dread.
+en: Woolin and Valor must survive.\n\nDestroy all Dread's forces and buildings.
+it: Distruggi tutti gli orchi nelle paludi.
+en: Destroy all orcs in the swamps.
+it: Torna dal capo dei nani.
+en: Return to the Dwarf Leader.
+it: Restaurata Keanor, Ghiron propose a Sartor di mandare Woolin nella regione dei Campi della Luna a spargere la voce del ritorno del figlio di re Roan e del restauro dell'antica capitale. Sartor sapeva che senza l'appoggio della gente di Keana la sua causa era perduta. Così un mattino Woolin prese con sé alcuni uomini e partì. Poco dopo si trovò davanti a Lord Valor.
+en: Once Keanor was restored, Ghiron proposed that Sartor send Woolin to the region of the Moon Fields to spread word of the return of King Roan's son and the restoration of the old capital. Sartor knew that without the support of the people of Keana his cause was lost. So one morning Woolin took a few men and left. Shortly, he stood before Lord Valor.
+it: Tutti gli orchi sono morti. Devo parlare di nuovo con il capo dei nani.
+en: All the orcs are dead. I must talk to the leader of the dwarves again.
+it: Finalmente, ora che gli orchi sono stati uccisi, possiamo estrarre l'oro delle paludi. Ecco la vostra ricompensa: un oggetto magico di grande potere.
+en: At last, now that the orcs have been killed, we can mine the gold in the swamps. Here is your reward - a magical item of great power.
+it: Grazie, e buona fortuna con le nuove miniere.
+en: Thank you, and good luck in the new mines.
+it: Tieni il tuo dono e aiutami con i tuoi nani nella battaglia contro Lord Dread.
+en: Keep your gift and help me with your dwarves in the battle against Lord Dread.
+it: Tu e i tuoi amici vi siete dimostrati onorevoli, perciò ci uniremo alla vostra causa. Guidaci in battaglia!
+en: You and your friends proved to be honorable, so we will join your cause. Lead us in battle!
+it: Che tu possa vincere la tua onorevole battaglia.
+en: May you succeed in your honorable battle.
+it: Ti aiuterò, Lord Valor, ma prima devi farmi un favore. Le nostre miniere d'oro sono esaurite. Volevamo estrarre l'oro nelle paludi, ma sono arrivati gli orchi e vi hanno costruito il loro altare. Distruggili e ti ricompenserò generosamente. Alcuni di noi verranno con te. Torna qui quando avrai finito.
+en: I will help you, Lord Valor, but first you must do me a favor. Our gold mines are depleted. We planned to mine the gold in the swamps, but the orcs came and built their altar there. Destroy them and I shall reward you greatly. Some of us will accompany you. Return here after the job is done.
+it: Sono venuto a chiederti aiuto contro il malvagio Lord Dread, capo dei nani.
+en: I came to ask you for help against the evil Lord Dread, Dwarf Leader.
+it: Salve! Che cosa porta un gruppo così numeroso di guerrieri in queste terre?
+en: Hello! What brings such a large group of warriors to these lands?
+it: Mi chiamo Woolin, capitano della guardia d'onore di re Sartor, e questi soldati fanno parte del suo esercito. Siamo qui per chiedere a Lord Valor di unirsi al nuovo re e per offrirgli protezione.
+en: My name is Woolin - captain of King Sartor's honor guard, and these soldiers are part of his army. We are here to ask Lord Valor to join the new king and offer him protection.
+it: Allora ho trovato gli uomini giusti. Sono Lord Valor e stavo proprio andando a Keanor a chiedere aiuto al nuovo re. Che uomo è?
+en: Then I have come to the right men. I am Lord Valor and I was just heading for Keanor to ask the new king for help. What kind of man is he?
+it: È un uomo d'onore, come suo padre, re Roan. Sta ricostruendo l'antica capitale e la prepara ad affrontare l'esercito di Borgh. Ma ha bisogno di alleati di cui potersi fidare. Quasi tutti i signori con cui ho già parlato si sono uniti alla sua causa, e credo che il castello Valor non farà eccezione. Di che aiuto avete bisogno?
+en: He is a man of honor, like his father, King Roan. He is rebuilding the old capital, preparing it to oppose Borgh's army. But he needs allies he can trust. Most of the lords I have already spoken to have joined his cause, and I believe Castle Valor will be no exception. What kind of help do you need?
+it: Il mio vicino, Lord Dread, è appoggiato da Borgh. È diventato ricco e forte. È malvagio come tutti quelli che si uniscono a Borgh, e così ha cominciato a radunare un esercito per divorare i suoi vicini. Non posso difendere da solo la mia terra, perciò voglio chiedere al re di aiutarmi con il suo esercito. Ma sappiate questo: che mi aiuti o no, continuerò a essere il suo fedele alleato, e sono certo che quasi tutta la gente delle mie terre farà lo stesso. Abbiamo conosciuto il padre e possiamo fidarci del figlio!
+en: My neighbor - Lord Dread - is supported by Borgh. He became rich and strong. He is evil like everyone who joins Borgh, so he started gathering an army to consume his neighbors. I cannot defend my land alone so I want to ask the king to help me with his army. But know this - whether he helps me or not, I will continue to be his loyal ally and I am sure that most of the people in my lands will do the same. We knew the father and we can trust the son!
+it: Riferirò le vostre parole al re. Intanto vi offro il mio aiuto personale e quello delle truppe che guido. Che cosa dobbiamo fare?
+en: I will convey your words to the king. Now, I offer you my personal assistance and the help of the troops I lead. What must we do?
+it: Prima dovete annunciare alla gente la mia decisione. Troverete cartelli che indicano le fattorie e i villaggi. Quando si saranno uniti a voi, le vostre truppe dovranno difendere il mio castello finché non avrò radunato un esercito. Nel frattempo cercherò di parlare con i nani. Sono accampati sulle montagne a sud. Forse potrebbero darci una mano.
+en: First you must tell the people of my decision. You will find signs pointing to the farms and villages. After they join you, your troops must defend my castle until I gather an army. Meanwhile, I will try to talk to the dwarves. They are encamped in the mountains to the south. Maybe they could offer us some assistance.
+
+# tzar.wcm::maps/saa7
+it: Mappa 5
+en: Map 5
+it: Accampamento
+en: Camp
+it: Woolin e Ghiron devono sopravvivere.
+en: Woolin and Ghiron must survive.
+it: Costruisci un porto e una flotta per trasportare le tue truppe.\n\nTrasporta a Keanor quante più truppe puoi per rafforzarne le difese.
+en: Build a shipyard and a fleet to transport your troops.\n\nTransport as many troops as you can to Keanor to strengthen its defenses.
+it: Distruggi le forze attaccanti.
+en: Destroy the attacking forces.
+it: Distruggi l'accampamento nemico sulla riva occidentale del fiume.
+en: Destroy the enemy camp on the western bank of the river.
+it: Cerca di impedire che Sartor venga catturato.
+en: Try to prevent Sartor being captured.
+it: Passarono i giorni. Keanor riacquistava lentamente lo splendore di un tempo, sbiadito negli ultimi anni. Woolin era ancora in missione nei Campi della Luna quando una notte Ghiron ebbe una visione. Borgh aveva deciso di sbarazzarsi di Sartor a ogni costo. Aveva mandato il suo miglior generale, Birsha, a soffocare la ribellione. Il suo esercito era il più grande che avesse mai calpestato queste terre. Ghiron andò a richiamare Woolin, lasciando Sartor a preparare le difese di Keanor. Sia Sartor sia Ghiron sapevano che senza l'aiuto di Woolin la sorte della città era segnata.
+en: Days passed. Keanor slowly regained the splendor of the ages, which had faded in recent years. Woolin was still on his mission in the Moon Fields when one night Ghiron had a vision. Borgh had decided to do away with Sartor at all costs. He had sent his best general - Birsha - to quell the rebellion. His army was the greatest to have ever trodden these lands. Ghiron went to bring back Woolin, leaving Sartor to prepare the defenses of Keanor. Both Sartor and Ghiron knew that without Woolin's aid, the city's fate was sealed.
+it: Spero che Keanor possa resistere all'attacco imminente.
+en: I hope Keanor can withstand the impending attack.
+it: Sento la sete di sangue dell'esercito di Birsha. Stanno facendo gli ultimi preparativi. Non abbiamo molto tempo.
+en: I can feel the blood lust of Birsha's army. They are making their final preparations. We do not have much time.
+it: Aspetta! Sento che la flotta di Borgh si sta radunando nel fiume. L'attacco dev'essere previsto per domani.
+en: Wait! I feel Borgh's fleet is massing in the river. The strike must be planned for tomorrow.
+it: Sento un grande esercito che circonda Keanor. Dobbiamo sbrigarci.
+en: I sense a large army surrounding Keanor. We must hurry.
+it: Sartor è stato catturato. Dobbiamo aiutarlo.
+en: Sartor has been captured. We must help him.
+it: Non resterò qui ad aspettare la morte come un codardo. Cavalieri, avanti!
+en: I shall not wait here for death like a coward. Knights onward!
+it: Finalmente ti ho trovato, Woolin. Abbiamo bisogno di te e delle tue truppe nella capitale. Borgh le ha mandato contro il suo miglior generale, Birsha. Un esercito immenso attaccherà la città tra circa due giorni. Sartor non ha voluto andarsene. La capitale cadrà di certo se non intervieni. Nemmeno il fossato di difesa sarà finito.\nMa dove sono le tue truppe?
+en: At last I have found you, Woolin. We need you and your troops in the capital. Borgh has sent his best general, Birsha, against it. A vast army will attack the town in about two days' time. Sartor did not want to leave. The capital is sure to fall if you do not intervene. Even the defensive ditch will not be completed.\nBut where are your troops?
+it: Le ho lasciate nella provincia a proteggere i villaggi e i signori più deboli, finché non diventeranno più forti e non raduneranno truppe proprie. Ma non preoccuparti. Posso radunare un esercito più forte entro due giorni. Il vero problema è che possiamo trasportarlo in città solo lungo il fiume. Dobbiamo costruire un porto. Dobbiamo anche decidere se occuparci o no dell'avamposto di Borgh su questa riva del fiume. Distruggerlo potrebbe rallentarci troppo.
+en: I left them in the province to protect the weak villages and lords until they become stronger and mobilize their own troops. But don't worry. I can gather a stronger army within two days. Our real problem is that we can only transport it to the city by river. We need to build a shipyard. We also have to decide whether to take care of Borgh's outpost on this side of the river or not. Destroying it may slow us down too much.
+
+# tzar.wcm::maps/saa8
+it: Mappa 5.1
+en: Map 5.1
+it: Comandante dei soldati con mazza
+en: Maceman commander
+it: Comandante dei fanti
+en: Footman commander
+it: Comandante dei lancieri
+en: Pikeman commander
+it: Comandante degli arcieri
+en: Archer commander
+it: Comandante degli arcieri con arco lungo
+en: Longbowman commander
+it: Woolin e Ghiron devono sopravvivere.\n\nGhiron deve raggiungere Sartor.
+en: Woolin and Ghiron must survive.\n\nGhiron must reach Sartor
+it: Woolin, Sartor e Ghiron devono sopravvivere.\n\nI tuoi eroi devono raggiungere il passaggio segreto.
+en: Woolin, Sartor and Ghiron must survive.\n\nYour heroes must reach the secret passage.
+it: Respinto l'attacco di Birsha, a Keanor regnava una grande inquietudine. Il pericolo immediato per la città era scongiurato, ma Sartor era stato catturato. Dai villaggi di montagna vicini continuava ad arrivare gente in città. La sera, nelle taverne, raccontava a tutti storie spaventose su Birsha e sui resti del suo esercito. Si era ritirato sulle montagne ad aspettare rinforzi e le sue truppe terrorizzavano tutta la zona. Woolin non aveva abbastanza soldati per attaccare Birsha, e le montagne ripide e i passi stretti rendevano il suo accampamento una fortezza inespugnabile. Un mattino il sole sorse su una Keanor senza Ghiron e Woolin. Nessuno sapeva dove fossero.
+en: After Birsha's attack had been repelled, there was great anxiety in Keanor. The immediate danger for the city had been removed, but Sartor had been captured. People from the nearby mountain villages kept coming to the city. In the evenings they told everyone in the taverns dreadful stories of Birsha and the remnants of his army. He had withdrawn into the mountains to await reinforcements and his troops were terrorizing everyone in the area. Woolin did not have enough soldiers to attack Birsha, and the steep mountains and narrow passes made his camp an unassailable fortress. One morning the sun rose above a Keanor without Ghiron and Woolin. Nobody knew where they were.
+it: Grazie, amico, sapevo che saresti venuto a liberarmi. Dobbiamo tornare in fretta al passaggio segreto da cui sei venuto: tutto l'accampamento è in allarme.
+en: Thank you, friend, I knew you would come to free me. We must return quickly to the secret passage you came from - the whole camp has been alerted.
+it: Non lasciate che il cavaliere raggiunga l'accampamento!
+en: Do not let the knight reach the camp!
+it: Sartor è nell'angolo nord-ovest dell'accampamento, comandante. Ma se andiamo dritti da lui, metteremo in allarme tutto l'accampamento. Propongo di aggirare l'accampamento da est. Così potremmo incontrare solo pattuglie di arcieri e di cavalieri. Dobbiamo ucciderli in fretta e in silenzio, perché non diano l'allarme all'esercito.
+en: Sartor is in the northwest corner of the camp, commander. But if we go straight for him, we will alert the whole camp. I suggest we go round the camp from the east. If we do so we may encounter only archer and knight patrols. We must kill them swiftly and silently so that they cannot alert the army.
+it: Hai ragione. Non dobbiamo mettere in allarme tutto l'accampamento. Questo passaggio segreto ha nascosto il nostro arrivo, ma non possiamo usarlo di nuovo finché non ci ritiriamo.
+en: You're right. We mustn't alert the whole camp. This secret passage covered our approach, but we cannot use it again until we retreat.
+it: In tal caso dobbiamo uccidere le guardie a nord-est di qui. Poi dobbiamo proseguire verso nord fino all'antico scheletro di un animale gigantesco. Tengono Sartor in un luogo a ovest di lì, dietro il fuoco del comandante. Forse dovremo uccidere anche loro.
+en: In that case, we need to kill the guards northeast of here. Then we must proceed northwards until we reach the ancient skeleton of a giant animal. They are holding Sartor in a place west of there, behind the commander's campfire. We may need to kill them too.
+it: Ricorda, devo liberare Sartor io stesso, perché proteggerlo è mio compito.
+en: Remember, I must free Sartor myself, because it is my responsibility to protect him.
+
+# tzar.wcm::maps/saa9
+it: Mappa 6
+en: Map 6
+it: Villaggio dell'isola
+en: Island Village
+it: Castello Daring
+en: Castle Daring
+it: Zhef deve rubare il libro e riportarlo a Ghiron entro mezza giornata.
+en: Zhef must steal the book and return it to Ghiron within half a day.
+it: Distruggi tutti i nemici della zona.
+en: All enemies in the area must be destroyed.
+it: Birsha non aveva mai conosciuto la sconfitta in vita sua. E non aveva rinunciato al proposito di devastare Keanor. Mentre i resti del suo esercito sbaragliato saccheggiavano le campagne, se ne stava seduto davanti al fuoco, assorto nei suoi piani. Le notizie erano buone. Presto sarebbero arrivati i rinforzi, e allora Sartor non avrebbe avuto scampo. Birsha bramava di avere Sartor prigioniero nel suo accampamento, ma era solo un'illusione.\nIn quello stesso momento uno straniero avvolto in un mantello nero giunse a Keanor. Dalle porte della città si diresse dritto al castello di Keanor e chiese di poter parlare con Ghiron. Poco dopo il loro incontro, Ghiron chiamò Woolin e Sartor e riferì loro ciò che aveva saputo. L'uomo in nero era una spia, una delle migliori mai esistite. Si chiamava Zhef e portava notizie terribili. I rinforzi di Birsha erano già in marcia, ma il peggio si trovava nel porto di Jaddua. Anche un mago malvagio con il suo libro degli incantesimi era in viaggio verso Birsha. Ai ribelli non restava che mandare Zhef ad assassinare il mago e a prendergli il libro degli incantesimi, oppure cercare l'alleanza dei signori delle città vicine.
+en: Birsha had not known defeat in his life. And he had not given up his intention of laying Keanor to waste. While the remnants of his routed army ravaged the countryside, he sat deep in thought in front of the campfire, plotting. The news was good. Soon, reinforcements would arrive, and then Sartor would not stand a chance. Birsha yearned to have Sartor captured in his camp, but this was just a delusion.\nAt the same time, a stranger cloaked in black arrived in Keanor. From the city gates, he headed straight for the Castle of Keanor and demanded to be allowed to speak to Ghiron. Soon after they met, Ghiron called Woolin and Sartor and told them what he had learned. The man in black was a spy, one of the best who had ever lived. His name was Zhef, and he brought terrible news. Birsha's reinforcements were already on their way, but the worst of it was in the port of Jaddua. An evil mage with his spell book was on his way to Birsha too. There was no choice for the rebels but to send Zhef to assassinate the mage and take his spell book, or else to seek an alliance with the lords of the neighboring towns.
+it: È passata mezza giornata! Ormai non possiamo prendere il libro.
+en: Half a day has passed! We cannot take the book now.
+it: Se Zhef fallisce, dobbiamo spostarci sull'isola di Lord Daring. Spero che manterrà la parola.
+en: If Zhef fails we must move to Lord Daring's island. I hope he will be true to his word.
+it: Lord Daring, temo che dobbiamo procedere come previsto. Dobbiamo uccidere ogni singolo nemico in città. Di certo useranno contro di noi quel terribile incantesimo.
+en: Lord Daring, I'm afraid we must proceed as planned. We need to kill every single enemy in the town. They will surely use that terrible spell against us.
+it: Potete usare le risorse della mia isola per costruire una flotta e radunare un esercito. Ho sempre amato Jaddua e non voglio vederla in rovina, ma più ancora vorrei vedere la nostra terra libera dalla tirannia. Attenti all'armata di Borgh. Potrebbe tornare in città da un momento all'altro.
+en: You may use the resources of my island to build a fleet and gather an army. I have always liked Jaddua and do not want to see it ruined, but more than that I would like to see our land free from tyranny. Watch out for Borgh's armada. It may return to the town at any moment.
+it: Come potrei rifiutarmi di compiere un'impresa così nobile per un vecchio amico? Ti porterò il libro degli incantesimi, Ghiron.
+en: How can I refuse to do such a noble deed for an old friend? I will bring the spell book to you, Ghiron.
+it: Mi conosci, il libro non mi serve per me. Mi serve perché, se cadrà nelle mani di Birsha nel suo accampamento di montagna, la nostra causa sarà perduta. Con questo potente incantesimo e i nuovi rinforzi, l'esercito di Borgh potrà schiacciare ogni resistenza.
+en: You know me, I do not need the book for myself. I need it, because if it falls into the hands of Birsha in his mountain camp, our cause will be lost. With this powerful spell and the new reinforcements, Borgh's army will be able to crush all resistance.
+it: Non preoccuparti, vecchio amico, ti porterò il libro.
+en: Don't worry old friend, I will get the book for you.
+it: Devi farlo con estrema prudenza. Per le strade di Jaddua ci sono molte spie al servizio di Borgh. Se una sola di loro ti riconosce sei perduto, ora che i rinforzi sono in città. Non uccidere troppe guardie: la loro assenza verrebbe notata di certo.\nTi consiglio di aspettare qualcuno sulla strada a ovest e di prenderne l'aspetto. Poi entra dalla porta a cui porta quella strada. Lì non ci sono spie.\nIl libro è nella torre dei maghi sull'isola, vicino alla parte nord-ovest della città. Dovrai attraversare il fiume per arrivarci.
+en: You must do it with extreme caution. There are a lot of spies working for Borgh in the streets of Jaddua. You are lost if any one of them recognizes you, now that the reinforcements are in town. Do not kill too many of the guards. Their absence will surely be noticed.\nI suggest you waylay someone on the road in the west and take his appearance. Then enter the gate this road leads to. There are no spies there. \nThe book is in the mage tower on the island, close to the northwest part of the city. You will have to cross the river in order to get there.
+it: E ricorda, molte vite dipendono dalla riuscita della tua missione. Jaddua è una città pacifica, ma se non ci riuscirai saremo costretti a entrarvi con la forza. Morirà molta gente che non sopporta l'esercito di Borgh in città, per non parlare delle nostre truppe. Hai mezza giornata prima che le spie di Borgh prendano il pieno controllo della città. Devi andartene prima di allora. Buona fortuna: contiamo su di te.
+en: And remember, many lives depend on the completion of your mission. Jaddua is a peaceful town, but if you do not succeed, we will be compelled to enter it by force. Many people resentful of Borgh's army being in the city will die, not to mention our own troops. You have half a day before Borgh's spies take full control of the town. You must leave before then. Good luck - we are counting on you.
+
+# tzar.wcm::maps/v_00
+it: L'inizio
+en: The Beginning
+it: Zio Brian
+en: Uncle Brian
+it: Matteo
+en: Matthew
+it: Il Male è sempre esistito. E non si è mai stancato di tentare di impadronirsi del mondo degli uomini. Invisibile e insidioso, ha conquistato il cuore degli uomini, trasformando i più coraggiosi in codardi. E i giusti in tiranni. Durante una delle ultime guerre, durata centinaia di anni, la forza disumana fu sul punto di vincere. Poi, quando tutto sembrava perduto, nacque un grande mago. Con l'aiuto del suo immenso potere l'uomo riuscì a salvare il suo mondo, sacrificando molte vite lungo il cammino.\nMa il Grande Mago era già vecchio e i suoi giorni in questo mondo erano contati. Mise tutto il potere che gli restava nella creazione di una sfera di cristallo. Poi affidò la Sfera ai re di Keanor, perché con il suo aiuto potessero tenere il Male lontano dal mondo degli uomini.\nPassarono migliaia di anni e nacque un altro grande mago. Il suo cuore, però, era marcio. Rubò la Sfera dal castello di Keanor, sperando di servirsene per conquistare il mondo. I maghi fedeli al re non erano abbastanza forti per recuperare la Sfera, ma riuscirono a maledire il mago malvagio: si sarebbe tramutato in pietra nel momento stesso in cui avesse tentato di usare i poteri della Sfera. Né del mago né della Sfera si seppe più nulla.\nCiò significava, però, che non restava più nulla a impedire al Male di entrare nel mondo. Molti morirono cercando la Sfera perduta. Ma non la cercavano solo gli uomini buoni. Lo stesso Signore del Male mandò i suoi messia a trovare la Sfera e a portargliela. Seguirono guerre, una più terribile dell'altra. Non passò molto tempo prima che il mondo fosse conquistato da tiranni e da sovrani senza onore. Il loro cuore e la loro mente erano schiavi del Male, e ne erano i servi più fedeli.\nDopo anni di guerre devastanti, la terra di Keana si sottomise infine agli eserciti di Borgh, il più spietato dei sovrani che avesse mai calcato la terra. In una delle ultime battaglie, la battaglia di Keanor, cadde lo stesso re Roan. Ma il re aveva un figlio, ancora in fasce. L'ultimo mago superstite del re, il vecchio Ghiron, riuscì a fuggire di nascosto dalle rovine di Keanor con l'erede. Dopo un faticoso viaggio di molti giorni, Ghiron giunse in un villaggio isolato. Lasciò il piccolo Sartor sulla soglia della casa di un povero contadino. Poi se ne andò...
+en: Evil has always existed. And it has been tireless in its efforts to seize the rule of the human world. Unseen and insidious, it has conquered the hearts of men, turning the bravest into cowards. And the just into tyrants. During one of the last wars, which lasted for hundreds of years, the inhuman force nearly won. Then, when all seemed lost, a great wizard was born. Aided by his awesome power man managed to save his world, sacrificing many lives along the way.\nBut the Great Wizard was already old, and his days in this world were numbered. He put all the power he had left into the making of a crystal sphere. Then he left the Sphere in the keeping of the Kings of Keanor, so that they, with its aid, could keep evil out of the human world.\nThousands of years passed and another great wizard was born. His heart, however, was rotten. He stole the Sphere from the Castle of Keanor, hoping to use it in his quest to rule the world. The mages who were loyal to the king were not strong enough to recover the Sphere, but they were able to curse the evil wizard. He would turn to stone the moment he tried to make use of the Sphere's powers. Neither the wizard, nor the Sphere, were ever heard of again.\nHowever, this meant there was nothing left to stop evil entering into the world. Many died in search of the lost Sphere. But not only good men looked for it. The Master of Evil himself sent forth messiahs to find the Sphere and bring it to him. Wars ensued, one more terrible than the next. It was not long before the world was conquered by tyrants and rulers without honor. Their hearts and minds were enthralled by evil, and they were its most loyal servants.\nAfter years of devastating wars, the land of Keana finally submitted to the armies of Borgh - the most ruthless of rulers who ever walked the face of the earth. In one of the final battles, the Battle of Keanor, King Roan himself fell. But the king had a son - still an infant. The king's last surviving wizard - old Ghiron - managed to sneak out of the ruins of Keanor with the heir. After a trying journey of many days, Ghiron came to a secluded village. He left young Sartor on the doorstep of a poor farmer's house. Then he left...
+it: Porta Sartor alla fattoria di suo zio Brian. Sartor deve sopravvivere.
+en: Bring Sartor to his Uncle Brian's farm. Sartor must survive.
+it: Ma li hai uccisi tu? Chi sei?
+en: But you killed them? Who are you?
+it: Felice di rivederti, Sartor. Sono Ghiron. E sì, li ho uccisi io. Vieni con me.
+en: Nice to meet you again, Sartor. I'm Ghiron. And yes - I killed them. Come with me.
+it: Ghiron? Rivedermi? Non ti ho mai visto prima, Ghiron. Aspetta! Sei forse... un mago?
+en: Ghiron? Again? I have never seen you before, Ghiron. Wait! Are you...a wizard?
+it: Sì, sono un mago. Uno buono. Eh, eh! Ora vieni con me.
+en: Yes, I am a wizard. A good one. He,he! Now come with me.
+it: Per gli dei! I maghi non esistono. Esistono solo nelle fiabe, vero? Dimmi che ho ragione.
+en: Gods! There are no wizards. They only exist in fairy tales, right? Tell me I'm right.
+it: Mi dispiace, Sartor, ma ti sbagli. Ti sembro forse l'eroe di una fiaba? Ho lasciato Keanor appena ho capito che Borgh ti stava cercando. Ma non sono stato abbastanza veloce. Mi dispiace. Ora vieni con me. Ho una storia da raccontarti.
+en: I'm sorry, Sartor, but you are wrong. Do I look like a fairy-tale hero? I left Keanor the moment I realized that Borgh was searching for you. But I was not quick enough. Sorry. Come with me now. I have a story to tell.
+it: Maledizione! Sono arrivato tardi di nuovo. Fatti da parte, ragazzo!
+en: Damn! I was too late again. Step aside, boy!
+it: Bene! Ora portatemi il ragazzo! Muovetevi, maiali!
+en: Good! Now bring me the boy! Move, you pigs!
+it: Zio Brian! Sono preoccupato. Che cosa è successo? Perché la nostra fattoria è in fiamme?
+en: Uncle Brian! I'm worried. What happened? Why is our farm in flames?
+it: Ora ascoltami, ragazzo mio! Devi fuggire. Subito! Lo sapevo! Sapevo che un giorno sarebbero venuti a prenderti. Salvati, Sartor. Scappa!
+en: Now listen to me, my boy! You must flee. Now! I knew it! I knew they would come for you someday. Save yourself, Sartor. Run away!
+it: Ma che cosa è successo? Per gli dei, sei ferito! Lascia che ti aiuti. Corro a chiamare il guaritore del villaggio. Torno subito. Aspetta solo un momento.
+en: But what happened? Gods, you are wounded! Let me help you. I'll run for the Village Healer. I'll be back. Just wait a minute.
+it: Salute, Sartor!
+en: Greetings, Sartor!
+it: Ciao, amico mio. Che cosa succede?
+en: Hello, my friend. What's happening?
+it: Succede? Non lo so. Me ne sto qui seduto a guardare gli alberi. Quest'anno sono proprio belli.
+en: Happening? I don't know. I'm just sitting here looking at the trees. They are really nice this year.
+it: Ciao, Sartor. Lo sai che tutto il villaggio ti sta cercando? Che cosa succede?
+en: Hello, Sartor. Do you know that the entire village is looking for you? What's happening?
+it: Non so che cosa succede, speravo che me lo dicessi tu.
+en: I don't know what's happening, I hoped you could tell me.
+it: Non posso dirti molto. Stamattina ho visto degli uomini strani scendere lungo la strada. Hanno chiesto di tuo zio e io gli ho detto di andare a nord-ovest. Chi erano?
+en: I can't tell you much. I saw some strange men coming down the road this morning. They asked for your uncle and I told them to go northwest. Who were they?
+it: Oh, non ne ho proprio idea. Ci vediamo dopo. Devo andare.
+en: Oh, I really have no idea. See you later. I have to go.
+it: Sartor, ti stanno cercando tutti. Dov'eri finito?
+en: Sartor, everybody is looking for you. Where have you been?
+it: Mio zio Brian mi ha mandato a tagliare un po' di legna. Che cosa succede?
+en: My uncle Brian sent me to cut some wood. What's happening?
+it: Che cosa sta succedendo? Che cosa c'è che non va?
+en: What is going on? What's wrong?
+it: Non lo so, ma credo che faresti meglio a sbrigarti.
+en: I don't know, but I think you had better hurry.
+it: Ciao, Matteo. Che cosa ci fai qui? Credevo che stessi aiutando tuo padre a riparare il tetto della fattoria.
+en: Hello, Matthew. What are you doing here? I thought you were helping your father to fix the farm roof.
+it: Sartor, sbrigati! Mi manda tuo zio Brian. Voleva parlarti. Devi andare.
+en: Sartor, hurry up! Your Uncle Brian sent me here. He wanted to speak with you. You must go.
+it: Cosa? Che cosa succede? Che cosa c'è che non va?
+en: What? What's happening? What's wrong?
+it: Non lo so, Sartor. Mi è sembrato molto turbato. È successo qualcosa. Non so molto. Sbrigati e basta.
+en: I don't know, Sartor. I think he was really upset. Something has happened. I don't know much. Just hurry.
+it: Oh, sono stanco, ragazzi. Non so perché lo zio Brian mi abbia mandato qui. Abbiamo legna a sufficienza per l'inverno.
+en: Oh, I'm tired, boys. I don't know why Uncle Brian sent me here. We have enough wood for the winter.
+it: Anch'io sono stanco. Sartor, tuo zio è un brav'uomo.
+en: I'm tired too. Sartor, your uncle is a good man.
+it: Credo che dovremmo riposarci.
+en: I think we should rest.
+it: No, amici. Lasciatemi finire anche quest'albero. Qualcuno ha portato il pranzo?
+en: No, friends. Let me finish this tree too. Did anyone bring lunch?
+it: Sì, io. Prendete le asce, ragazzi. Non resta molto da fare.
+en: Yes, I did. Grab the axes, boys. There's not much left to do.
+
+# tzar.wcm::maps/v_01
+it: Le isole di Allita
+en: Allita's Islands
+it: Viaggio alle isole di Allita, salvataggio di Rea di Allita e assedio di Ses di Allita.
+en: Trip to Allita's Islands, saving Allita's Rea and Siege of Allita's Ses.
+it: Navi
+en: Ships
+it: Distruggi il castello nella regione settentrionale dell'isola di Ses di Allita. Sartor, Ghiron e Woolin devono sopravvivere.
+en: Destroy the Castle located in the northern region of Allita's Ses Island. Sartor, Ghiron and Woolin must survive.
+it: Sartor deve parlare con il messaggero di Rea di Allita (il cavaliere giallo sulla costa meridionale di Ses di Allita).
+en: Sartor must speak with Allita's Rea messenger (The Yellow Knight located on the south coast of Allita's Ses).
+it: Sartor deve incontrare Vardal. Vardal si trova nella regione sud-occidentale di Rea di Allita.
+en: Sartor must meet with Vardal. Vardal is located in the southwestern region of Allita's Rea.
+it: Il viaggio fu lunghissimo. Avevano perso il conto dei giorni e si erano abituati all'oceano senza fine. A poco a poco il tempo cambiò. Cominciarono a soffiare venti caldi e il sole sembrava bruciare ancora più crudelmente. All'improvviso davanti a loro apparve la terra. Erano le isole di Allita.
+en: The trip was very long. They had lost count of the days and had gotten used to the endless ocean. Gradually, the weather changed. Warm winds started to blow and the sun seemed to burn all the more cruelly. Suddenly, land loomed before them. It was Allita's Islands.
+it: AH! Ci incontriamo di nuovo. Sapevo che saresti venuto. Lo sapevo come so che alla notte segue il giorno. Allora hai capito che ci sono altre terre che dipendono da Keana? Sapevo che eri un ragazzo sveglio, Sartor.
+en: HA! We meet again. I knew you would come. I knew it just as I know that night follows day. So, you have realized there are other lands that depend on Keana? I knew you were a clever boy Sartor.
+it: Che diavolo vuoi, Vardal? Chi sei? Questa è la TUA isola, no? E come puoi stare qui a chiacchierare mentre il malvagio Borgh distrugge la tua città? Perché te ne stai seduto a guardare gli schiavi di Borgh massacrare la tua gente? Sei un mostro o cosa? Se è una trappola, non mi arrenderò! Combatterò fino all'ultima goccia di sangue.
+en: What the hell do you want Vardal? Who are you? This is YOUR island, isn't it? And how you could babble while the evil Borgh is destroying your home town? Why are you sat watching how Borgh's slaves slaughter your people? Are you a monster or what? If this is a trap - I won't give up! I'll fight until my last drop of blood.
+it: Calma, Sartor. Non è una trappola. La cosa più importante era che tu capissi di essere l'unica speranza per miliardi di persone. Questa battaglia posso vincerla da solo, ma non tutta la guerra. Sei TU il prescelto. Sei TU che devi guidare le nazioni contro il Male. Così ho aspettato che ti svegliassi. E così è stato, fratello minore. Allora guidaci! Diamo loro una lezione. Ricorda: il castello di Rea deve sopravvivere!
+en: Easy Sartor. It's not a trap. The most important thing for you was to realize that you are the only hope for billions of people. I can win this battle alone, but not the whole war. YOU are the chosen one. YOU have to lead the nations against Evil. So, I waited for you to wake up. And so you did, my younger brother. So lead us! Let's teach them a lesson. Remember - Rea's Castle must survive!
+it: Ah... fratello? Sei completamente pazzo... Comunque non abbiamo molto tempo. Andiamo.
+en: Ah .. brother? You are completely mad ... Anyway, we don't have much time. Let's go.
+it: Salve, Sartor. Vedo che hai il tuo bel daffare a combattere gli eserciti di Borgh. Vengo con una grande supplica. La nostra isola, Rea di Allita, la perla del Grande Oceano, è sotto l'attacco di Borgh. I suoi cavalieri malvagi stanno distruggendo la nostra città.
+en: Hello Sartor. I see you are having a hard time fighting Borgh's armies. I come with a great supplication. Our own island - Allita's Rea - the pearl of the Great Ocean is under attack from Borgh. His evil knights are destroying our town.
+it: Maledizione! Qui siamo davvero in difficoltà. Dobbiamo distruggere il castello di Ses di Allita, nella parte settentrionale dell'isola, ma temo che non sarà facile come pensavamo. Qui Borgh è davvero forte. Mi dispiace moltissimo sapere che anche Rea è sotto attacco. Ma qui siamo troppo deboli. Ora non posso fare nulla per aiutarvi. Se vuoi il mio parere, ci servono più soldati.
+en: Damn! We really are having a hard time here. We have to destroy Allita's Ses Castle in the northern part of the island, but I'm concerned that it won't be as easy as we thought. Borgh is really strong here. I'm terribly sorry to hear that Rea is under attack too. But we're too weak here. I can't do anything to help you now. We need more soldiers, if you ask me.
+it: Senti, Sartor! Senza offesa, ma non credo che tu abbia qualche possibilità qui. E poi non vedo come farai ad andartene da quest'isola senza una nave. Ma hai ancora la possibilità di salvare Rea. Aiutami ora, e tutta Rea sarà al tuo servizio per sconfiggere Borgh più tardi. Eccomi qui con tutte le mie valorose guardie. Noi e la nostra nave siamo al tuo servizio!
+en: Look Sartor! No offence, but I don't think you have got a chance here. And another thing, I don't see how you are going to escape from this island without a ship. But you still have a chance to save Rea. Help me now, and all of Rea will be at your service to defeat Borgh later. Here I stand with all my stalwart guards. We and our ship are at your service!
+it: È un onore per me avervi nel mio esercito. Ma come possiamo cambiare le cose? Che cosa possiamo fare? Se vi unite a noi, morirete proprio come tutti questi coraggiosi che combattono per la pace e la luce.
+en: It's an honor for me to have you in my army. But how can we change things? What we can do? If you join us, you will die just like all these brave men who are fighting for peace and light.
+it: Una possibilità c'è, Sartor. Gran parte dell'esercito di Rea si trova nella parte sud-occidentale dell'isola di Rea di Allita, guidata dal figlio di re Roan, il possente cavaliere Vardal. Si uniranno a noi, ma lui vuole prima parlare con te. Abbiamo cercato di convincerlo ad attaccare, ma si è rifiutato. Ha detto che non muoverà un solo passo senza aver parlato con te. Non conosco le sue ragioni e non mi piace molto, ma è la nostra unica speranza. Va', Sartor! Va' a parlargli!
+en: There is a chance, Sartor. A larger section of Rea's army is located in the southwestern part of Allita's Rea Island led by King Roan's son - the mighty Knight Vardal. They will join us, but he wants to speak with you first. We tried to persuade him to attack, but he refused. He said that he won't move so much as a single step without talking to you. I don't know his reasons and I don't like him much, but he is our only hope. Go Sartor! Go speak with him!
+it: Mmh, è appena arrivato un messaggero da Rea di Allita. Devo andare a parlargli. Credo che sia importante sbrigarci.
+en: Hmm, a messenger from Allita's Rea has just arrived. I have to go and talk with him. I think it's important we hurry.
+it: Guarda. Credo che Vardal avesse ragione. I miei sogni peggiori si sono avverati. L'isola di Ses di Allita è stata conquistata dagli eserciti di Borgh. Sartor, a nord-est di qui, da qualche parte nei boschi, ci sono un vecchio villaggio e un castello abbandonati. Credo che siano sorvegliati da qualche creatura malvagia, ma sono ancora deboli. Ci serve quel castello per stabilire una base militare. Senza di esso non potremo distruggere il castello di Ses di Allita, che ora dovrebbe essere il nostro obiettivo principale.
+en: Look. I think Vardal was right. My worst dreams have become reality. Allita's Ses Island has been conquered by Borgh's armies. Sartor, there is an old deserted village and castle northeast of here, somewhere in the woods. I think it's guarded by some evil creatures, but they are still weak. We need this castle to establish a military base. Without it, we won't be able to destroy Allita's Ses Castle, which should be our primary target now.
+it: Benvenuti sull'isola di Ses di Allita, valorosi. Non lontano a ovest di qui c'è l'altra grande isola, Rea di Allita. Come ho detto molte volte durante il viaggio, credo che siate pazzi a restare qui anche solo un minuto. Ma immagino che abbiate le vostre ragioni. Forse qualcosa di molto speciale. Io non posso restare qui oltre. Ohoi!
+en: Welcome to Allita's Ses Island, brave men. Not far west of here is the other large island - Allita's Rea. As I said many times during our journey, I think you are crazy to stay here for more than a minute. But I guess you must have some reason. Maybe something very special. I can't stay here any longer. Ahoy!
+it: Addio, capitano! Grazie della vostra pazienza. Che gli dei del mare siano con voi.
+en: Goodbye Captain! Thank you for your patience. May the Sea Gods be with you.
+it: Addio, capitano! Non vi dimenticheremo.
+en: Goodbye Captain! We won't forget you.
+it: Abbiate cura di voi!
+en: Take care!
+it: Agli ordini!
+en: Aye Aye!
+
+# tzar.wcm::maps/v_02
+it: Sartor a Hong
+en: Sartor in Hong
+it: Sartor è a Hong
+en: Sartor is in Hong
+it: Villaggio di pescatori
+en: Fishing Village
+it: Antichi monaci
+en: Ancient Monks
+it: Gran sacerdote
+en: High Priest
+it: Il segreto
+en: The Secret
+it: Lettera
+en: Letter
+it: Trova la lettera segreta che spiega come trovare la Sfera e consegnala a Sartor. Sartor deve sopravvivere.
+en: Find the secret letter containing information on how the Sphere can be found and give it to Sartor. Sartor must survive.
+it: Porta la carovana dall'anziano del villaggio di pescatori (verde). L'anziano e la carovana devono sopravvivere.
+en: Bring the caravan to the Elder of the fishing village (green). The Elder and the caravan must survive.
+it: I maghi che generano draghi vanno fermati. Uccidili tutti e torna dal Gran sacerdote con almeno uno dei ninja. Non lasciare che vengano uccisi tutti, o perderai.
+en: The mages that spawn dragons must be stopped. Kill all of them and return to the High Priest with at least one of the ninjas. Don't let all of them be killed or you will lose.
+it: Proteggi i tuoi amici di Ki Taiko (gialli). Se subiscono troppe perdite, perderai. Perderai anche se Toru Se viene ucciso.
+en: Protect your Ki Taiko friends (yellow). If they suffer too many casualties you will lose. You will also lose if Toru Se is killed.
+it: Conserva la nave che ti ha dato il villaggio di pescatori. È la loro unica nave. Se la nave affonda, perderai.
+en: Keep the ship that the fishing village gave you. It's their only ship. If the ship sinks, you will lose.
+it: Va' all'isola degli Antichi monaci e parla con il Gran sacerdote.
+en: Go to the Island of the Ancient Monks and speak with the High Priest.
+it: Signore Borgh,\n\nil generale Birsha riferisce un aumento delle attività ribelli guidate dal malvagio Sartor. Ritiene che la Torre magica di Kalt'ha non sia più il posto migliore per nascondere la mappa dell'Isola Maledetta. Forse sarebbe meglio che mandaste una brigata di soldati veterani a scortare la mappa. Suggerirei Gen-Sai, il luogo più sicuro che possiamo trovare di questi tempi. So anche che Vardal, il fratello di Sartor, si è unito ai ribelli. È questa la ragione della nostra sconfitta alle isole di Alita. Li contrattaccherò al più presto con tutti i miei eserciti. Come sapete, le isole di Alita sono la chiave dell'Isola Maledetta: dobbiamo riconquistarle.\n\nIn vostro nome. Generale Omi.
+en: Lord Borgh,\n\nGeneral Birsha reported increased rebel activity led by the evil Sartor. He thinks that the Mage Tower at Kalt'ha is not the best place to hide the map of the Cursed Island anymore. Maybe it would be better if you could send a brigade of veteran soldiers to escort the map. I'd suggest the Gen-Sai is the safest place we can find these days. I also know that Vardal, Sartor's brother, has joined forces with the rebels. That's the reason for our defeat at Alita's Islands. I will counter-attack them as soon as possible with all of my armies. As you know, Alita's Islands are the key to the Cursed Island - we must retake them.\n\nIn your name. General Omi.
+it: Sartor deve parlare con l'anziano del villaggio di pescatori (verde).
+en: Sartor must speak with the Elder of the fishing village (green).
+it: Dopo molti giorni di viaggio, Sartor e i suoi fedeli cavalieri misero piede sulle coste di Hong. Si aspettava di vedere il paesaggio familiare di città e villaggi. Ciò che vide invece lo colpì profondamente. Faceva freddo e nevicava. La gente vestiva in modo strano e parlava in maniera singolare. Ma anche qui poteva scorgere le cicatrici del dominio spietato di Borgh. Sembrava che il Male avesse messo radici ancora più profonde in queste terre.
+en: After many days of journeying, Sartor and his loyal knights set foot on the shores of Hong. He expected to see the familiar sight of towns and villages. What he saw instead made a deep impression on him. It was cold and snowing. The people were dressed strangely and spoke in a peculiar manner. But, here too he could discern the scars of Borgh's merciless rule. It seemed as if evil had set its roots even deeper in these lands.
+it: Ehi, soldato blu! Devo parlare con Sartor. Portalo qui.
+en: Hey, blue soldier! I need to speak with Sartor. Bring him here.
+it: Ehi, Sartor, sono lieto che i maghi siano morti. Ma desidero tanto rivedere almeno uno dei miei ninja. Mostrami uno di loro e riceverai la lettera.
+en: Hey Sartor, I'm pleased that the mages are dead. But I so much want to see at least one of my ninjas again. Show me one and you will receive the letter.
+it: Avevi promesso di proteggerci, ma guarda che cosa è successo! Ho perso troppi dei miei contadini. Questo significa GUERRA! Mi riprendo la mia base!
+en: You promised to protect us, but look what happened! I lost too many of my peasants. This means WAR! I'm getting my base back!
+it: Ti avevo detto che la tua presenza nelle mie terre significa GUERRA.
+en: I said your presence in my lands means WAR.
+it: Ottimo lavoro. Hai ucciso i maghi di Akawa! Ecco la lettera. Prendila. Buona fortuna! Figliolo...
+en: Great job. You killed the Akawa mages! Here is the letter. Pick it up. Good luck! My son ...
+it: Benvenuto in pace, figliolo. Come possiamo aiutarti?
+en: Welcome in peace, my son. How may we help you?
+it: Gran sacerdote, cerchiamo la Sfera, o una lettera segreta che spieghi come trovarla. Akawa è così ben difesa che non possiamo superarne le mura senza macchine d'assedio. Ci hanno detto che potreste aiutarci.
+en: High Priest, we are looking for the Sphere, or for some secret letter telling us how the Sphere can be found. Akawa is so well defended, we can't get through the walls without siege machines. They said you could help us.
+it: Lo so, lo so, figliolo. Ti aiuteremo. Ecco i miei soldati ninja. Affinano le loro arti di combattimento fin dalla nascita. Qualcuno direbbe che sono assassini. Ma non è proprio così. È forse un omicidio uccidere Borgh?
+en: I know, I know, my son. We will assist you. Here are my Ninja soldiers. They have been honing their fighting skills since birth. Some might say they are killers. But that's not exactly true. Is it murder if you kill Borgh?
+it: Ehm, credo che sia una specie di omicidio, forse.
+en: Ahm, I think it is a kind of murder, maybe.
+it: No! Borgh è malvagio. Va fermato!
+en: No! Borgh is evil. He must be stopped!
+it: Non posso darti ragione, figliolo. È senza dubbio un omicidio. Ma Borgh è così malvagio che la sua morte è inevitabile e tutti noi l'attendiamo con gloriosa speranza.
+en: I can't agree with you, my son. It is definitely murder. But Borgh is so evil that his death is inevitable and we all await it with glorious expectation.
+it: No, figliolo! Non è un omicidio. È chirurgia. Borgh è malvagio e merita di morire.
+en: No, my son! It is not murder. It is surgery. Borgh is evil and he deserves to die.
+it: Comunque sia! Potremmo discutere tutta la notte, ma immagino che tu non abbia molto tempo. Ti prego, prendi i miei devoti soldati e usali con saggezza. Alcuni di loro moriranno, lo so.
+en: Anyway! We could argue all night long, but I guess you don't have much time. Please take my devoted soldiers and use them wisely. Some of them will die, I know.
+it: Grazie, Gran sacerdote. Quindi devo andare ad Akawa a rubare la lettera? Giusto?
+en: Thank you, High Priest. So, I have to travel to Akawa and steal the letter? Right?
+it: No. Dio benedica la tua impazienza, figliolo. La lettera non è ad Akawa. È già stata rubata. L'ho rubata io qualche settimana fa. E te la darò. Ma se ti chiedi a che cosa servano questi draghi, te lo dirò. Li hanno generati i maghi di Akawa per terrorizzare i pacifici abitanti della bella Hong. Se vuoi la lettera dovrai uccidere i maghi. Quando tornerai, ti prego, porta almeno uno dei miei ninja. Sono tutto ciò che ho. Se li farai uccidere tutti, aspetterò un altro eroe a cui dare la lettera.
+en: No. God bless your impatience my son. The letter is not in Akawa. It has already been stolen. I stole it a few weeks ago. And I'll give it to you. But if you are wondering what these dragons are for, I'll tell you. They were spawned by the Akawa mages to terrorize the peaceful inhabitants of beautiful Hong. If you want the letter you will have to kill the mages. When you return, please bring at least one of my ninjas. They are all I have. If you get them all killed, I'll wait for another hero to give the letter to.
+it: Oh, per gli dei! Sono arrivati i viveri! La nave è tua. Abbine cura e non lasciare che affondi. È la nostra unica nave. Va' all'isola degli Antichi monaci e parla con il Gran sacerdote. Di certo ti aiuterà.
+en: Oh, Gods! The food supply has arrived! The ship is yours. Take good care of it and don't let it be sunk. It's our only ship. Go to the Island of the Ancient Monks and speak with the High Priest. He will surely help you.
+it: Salve. Sono Sart...
+en: Hello. I'm Sart ...
+it: So chi sei! Credo che qui lo sappiano già tutti. Da queste parti le voci corrono come il fuoco. Cerchi un modo per entrare di nascosto ad Akawa? Per impadronirti della lettera che spiega come trovare la Sfera? Sono l'uomo che fa per te, Sartor! Posso aiutarti.
+en: I know who you are! I think everybody here knows already. Rumors spread around here like wildfire. You are looking for a way to sneak into Akawa? To capture the letter which says how the Sphere can be found? I'm your man, Sartor! I can help you.
+it: Davvero? Puoi farlo? Dimmi come. Non abbiamo molto tempo.
+en: Really? You can? Tell me how. We don't have much time.
+it: Certo che te lo dirò. Ma prima ho bisogno del tuo aiuto. Puoi anche uccidermi, ma insisto perché tu ci aiuti.
+en: Of course I'll tell you. But first I need your help. You can kill me, but I insist that you help us.
+it: E va bene. Dimmi di che cosa hai bisogno, ma ti prego, sbrigati. Non abbiamo davvero molto tempo.
+en: Oh well. Tell me what you need, but please hurry up. We really don't have much time.
+it: Aspettiamo l'arrivo di una carovana di viveri. Purtroppo i soldati di Akawa cercano di bloccare le strade e per i mercanti non è più sicuro. Porta qui la carovana e ti darò una nave. Perché una nave? Perché senza non puoi raggiungere l'isola degli Antichi monaci.
+en: We are waiting for a caravan with food supplies to arrive. Unfortunately, the soldiers from Akawa are trying to block the roads and it's not safe for traders anymore. Bring the caravan here and I'll give you a ship. Why a ship? Because you can't reach the Island of the Ancient Monks without one.
+it: Benvenuto, possente Sartor! Le voci sulla tua marcia vittoriosa si stanno spargendo. Sono io a governare da queste parti. Come posso aiutarti nella tua missione?
+en: Welcome mighty Sartor! The rumors about your victorious march are creeping around. I'm the ruler around here. How can I assist you in your mission?
+it: Ci serve questa città per stabilire una base! Arrenditi!
+en: We need this town to establish a base! Surrender!
+it: Ho sentito che a Hong potremmo trovare qualche notizia sulla Sfera. È vero?
+en: I heard we could find some information about the Sphere in Hong. Is that true?
+it: Arrendermi? Vuoi che mi arrenda?! Questa è la terra dei miei antenati. Il mio esercito non è grande come il tuo, ma tutti noi amiamo il nostro paese. Se vuoi la mia città, dovrai combattere per averla! Credevo che il possente Sartor fosse nato per seppellire le vecchie discordie, non per crearne di nuove. Allora, vuoi combatterci e magari uccidere tutti qui, o te ne vai subito dalla città?
+en: Surrender? You want me to surrender?! This is the land of my ancestors. My army isn't as large as yours but we do all love our country. If you want my town, you will have to fight for it! I thought mighty Sartor was born to bury old differences - not to cause new ones. So, do you want to fight us and probably kill everybody here or will you leave town immediately?
+it: Credo che me la caverò da solo, senza sprecare la vita dei miei fedeli soldati. Addio!
+en: I think I'll manage on my own without wasting my loyal soldiers' lives. Farewell!
+it: Sì, seppellisco le vecchie discordie e so bene come procedere. Come ho detto, ci serve questa terra e me la prenderò! Con o senza il tuo consenso!
+en: Yes, I am burying old differences and I do know how to proceed. As I said, we need this land and I'll take it! With or without your consent!
+it: E sia. Vattene in fretta da sud. E ricorda, Sartor: se vedrò di nuovo anche uno solo dei tuoi soldati o se «dimenticherai» di lasciare la città, per me significherà una cosa sola: guerra!
+en: So be it. Leave quickly by the south. And remember Sartor, if I see just one of your soldiers again or if you "forget" to leave the town, this will mean only one thing for me - war!
+it: Ah! Il possente eroe! Il Guardiano della Pace! Avrai ciò che vuoi! ALLA CARICA!
+en: Ha! Mighty hero! The Guardian of the Peace! You will get what you want! CHARGE!
+it: Ah... la Sfera! Quanti coraggiosi eroi hanno lasciato le loro ossa in giro per il mondo cercando la Sfera. Be', dubito che la Sfera sia qui. Ne dubito davvero. Ma posso aiutarti nella tua ricerca. Per quel che so, c'è un solo uomo che abbia visto la Sfera. Ora è morto, ma ha disegnato una mappa che spiega come trovarla. Non so dove sia, ma so come puoi trovarla.
+en: Ah ... the Sphere! How many brave heroes have left their bones all over the world seeking the Sphere. Well, I doubt that the Sphere is here. I really doubt it. But I can help you in your quest. As far as I know, there is only one man who has seen the Sphere. He is dead now, but he did make a map of how the Sphere can be found. I don't know where it is, but I do know how you can find it.
+it: Devi andare nella capitale di Hong, Akawa, che si trova lontano a sud-est di qui. Purtroppo qualche anno fa Borgh e i suoi alleati del possente Impero Gen-Sai hanno conquistato la città. Perché ci abbiano lasciati vivere resta un mistero. Ora alcuni maghi custodiscono una lettera segreta che spiega come trovare la mappa. Questi maghi generano anche draghi che ci attaccano senza pietà. Devi ucciderli e rubare la lettera. Ma sta' attento: Akawa è sorvegliata pesantemente. Borgh intende trasformare la città in un'importante base militare per controllare la zona.
+en: You must go to the capital of Hong - Akawa, which lies far southeast from here. Unfortunately, a few years ago Borgh and his allies from the mighty Gen-Sai Empire captured the town. Why they let us live is still a mystery. Now, there are a few mages guarding a secret letter telling how the map can be found. These mages also produce dragons which attack us mercilessly. You must kill them and steal the letter. But be warned - Akawa is heavily guarded. Borgh is planning to turn the town into an important military base to control the area.
+it: Una città ben sorvegliata? La base di Borgh?! Non siamo in molti. Come possiamo sconfiggere Borgh? Forse dovremmo tornare indietro a chiedere rinforzi.
+en: Well-guarded town? Borgh's base?! There aren't many of us. How can we defeat Borgh? Maybe we should go back to ask for reinforcements.
+it: Aspetta! Ho un'idea. Quando Borgh conquistò la regione, la nostra base militare sopravvisse in parte. Posso dartela insieme a uno dei nostri porti. Ti forniremo le risorse, ma dovrai proteggere me e i miei contadini. La vecchia base si trova lungo la strada, a sud di qui. Credo che sarà una buona mossa per tutti e due. Non sei d'accordo?
+en: Wait! I have an idea. When Borgh conquered the region, our military base partially survived. I can give it to you as well as one of our harbors. We will supply you with resources, but you will have to protect me and my peasants. The old base is located down the road, south of here. I think it will be a good move for both us. Don't you agree?
+it: Sì, certo! Hai la mia parola! Mi occuperò dei tuoi nemici.
+en: Yes, of course! You have my word! I'll take care of your enemies.
+it: Proteggerti?! Abbiamo da fare qui. Comunque grazie delle informazioni.
+en: Protect you?! We have work to do here. Anyway, thank you for the information.
+it: Mi dispiace davvero. Non posso aiutarti in nessun altro modo. Va' a est. C'è un piccolo villaggio di pescatori. È davvero piccolo, ma l'anziano del villaggio è un uomo molto saggio. Forse saprà qualcosa che ti sarà utile. Chi lo sa...
+en: I'm truly sorry. I can't help in any other way. Just go east. There is a small fishing village. It's really small, but the Elder there is a really wise man. Maybe he will know something useful to you. Who knows ...
+it: Perfetto! Va' laggiù e libera la base. Oh, dimenticavo di dirti che è sorvegliata da alcune orribili creature. Ma non credo che saranno un problema per te. A proposito, puoi andare a est. C'è un piccolo villaggio di pescatori. È davvero piccolo, ma l'anziano del villaggio è un uomo molto saggio. Forse troverà il modo di aiutarti, Sartor. Buona fortuna!
+en: Perfect! Go there and rescue the base. Oh, I forgot to say it's guarded by some awful creatures. But I don't think they should be a problem for you. By the way, you can go east. There is a small fishing village. It's really small, but the Elder there is really wise man. Maybe he will find some way of helping you, Sartor. Good luck!
+
+# tzar.wcm::maps/alex1
+it: Mappa 2.1
+en: Map 2.1
+it: Bande erranti
+en: Roving bands
+it: Navi abbandonate
+en: Abandoned ships
+it: Guardiani della foresta
+en: Forest guardians
+it: I Protettori
+en: The Protectors
+it: Proteggi i tuoi eroi. Woolin, Ghiron e Sartor devono sopravvivere.
+en: Protect your heroes. Woolin, Ghiron and Sartor must survive.
+it: Sartor deve scortare Ghiron fino agli antichi idoli nella foresta a sud-est. Ghiron deve toccare gli idoli. Nessun altro può entrare nella foresta.
+en: Sartor must escort Ghiron to the ancient idols in the forest to the south-east. Ghiron must touch the idols. Nobody else is allowed in the forest.
+it: Hai disturbato la foresta! Ora devi distruggere tutti i suoi guardiani prima che Ghiron e Sartor possano portare a termine la loro missione agli idoli.
+en: You have disturbed the forest! Now you must destroy all its guardians before Ghiron and Sartor can complete their quest to the idols.
+it: Requisisci le quattro navi vicino all'isola a nord-est. Riempile con un esercito, fai salire a bordo Woolin, Ghiron e Sartor e schierale vicino al porto di Wark Aven, pronte a partire.
+en: Commandeer the four ships near the island to the north-east. Fill them with an army, load Woolin, Ghiron and Sartor on board and array them near the harbor of Wark Aven, ready for departure.
+it: La ricostruzione di Wark Aven procedeva bene. Gruppi sparsi dell'esercito sbaragliato di Borgh cercavano di ostacolarla, ma il peggio sembrava passato. Woolin pensava che avessero una base da qualche parte nelle campagne intorno a Wark Aven e progettava di far loro visita con alcune delle migliori truppe ai suoi ordini, quando dal mare aperto arrivò una nave con una strana bandiera. Le persone che sbarcarono sembravano spaventate e sfinite. Ghiron andò al porto per sapere che cosa fosse loro accaduto.
+en: The rebuilding of Wark Aven was going well. Scattered groups of the routed army of Borgh tried to interfere, but the worst seemed to have passed. Woolin thought they had a base somewhere in the country around Wark Aven, and was planning to pay them a visit with some of the best troops under his command, when out from the open sea there came a ship with a strange flag. The people who got off onto the shore seemed scared and exhausted. Ghiron went to the harbor to learn what had happened to them.
+it: Perché non ti sei schierato dalla mia parte in questo scontro, mago?\nEro in grave pericolo e tu sei rimasto a guardare come andava a finire?!
+en: Why did you not take my side in this fight, wizard?\nI was in grave danger, and you just beheld what would happen?!
+it: Dovresti conoscere meglio il codice d'onore, Sartor. Nessuno può intromettersi in un duello tra nobili cavalieri, che sia un mago o un contadino. Anche se non si era nell'arena di un torneo, è stato uno scontro leale, e siete entrambi cavalieri.\nE poi, giovane Sartor, non eri in pericolo... fidati di me. Conosco i cavalieri dell'Ordine dei Protettori: tengono il loro onore in gran conto.\nMa basta così. Avevo buone ragioni per agire come ho fatto, e non devo spiegarle a nessuno. Concludiamo il nostro compito in questo luogo sacro.
+en: You should know the code of honor better than this, Sartor. Nobody can interfere in a single combat of noble knights - be it a wizard or a peasant. Although not in the jousting arena, it was a fair fight, and you were both knights.\nAnd besides, young Sartor, you were in no danger... trust me on it. I know of the knights of the Order of the Protectors - they hold their honor in high esteem.\nBut enough of that. I had good reason for what I did, and I need not explain it to anyone. Let us conclude our task in this sacred place.
+it: Forse hai ragione, Ghiron. Sappi che mi fido del tuo giudizio.\nComunque questo luogo non mi piace. Prima saremo lontani da qui, meglio sarà. Presto!
+en: Perhaps you are right, Ghiron. Know that I trust your judgment.\nAnyway, I do not like this place. The sooner we are far from here, the better. Hurry!
+it: Non interrompermi ora, Sartor. Presto sapremo che cosa fare e come farlo nel modo migliore.\n\nHarda enna sagri minustu!\nHarda danni minusti!\nVella ayulo enna!\nDaro! Daro! Daro!\n\nPrestatemi la vostra vista, antichi. Concedetemi la conoscenza di ciò che fu e di ciò che è, perché io possa forgiare ciò che sarà!
+en: Do not interrupt me now, Sartor. Soon we will know what to do and how to achieve it best.\n\nHarda enna sagri minustu!\nHarda danni minusti!\nVella ayulo enna!\nDaro! Daro! Daro!\n\nLend me your sight, ancient ones. Grant me knowledge of that which was, and is, so I can forge that which will be!
+it: Vedo un grande male che si agita a nord. Offusca il mondo da un orizzonte all'altro, e continua ad avanzare strisciando. Colonne di fumo e il pianto delle donne segnano il suo cammino. Ha ricoperto due bellissime isole nell'oceano a nord. Si è esteso al continente a nord-ovest. È al sicuro in grandi fortezze nelle magnifiche terre dell'est. Si prepara a riconquistare il sud. Solo l'unione di tutti i popoli liberi del mondo, dell'est, dell'ovest e del sud, può sfidarlo. Solo... ahhh...
+en: I see a great evil stirring to the north. It clouds the world from horizon to horizon, ever creeping on. Columns of smoke and the weeping of women mark its path. It has covered two beautiful islands in the ocean to the north. It has spread to the continent to the north-west. It is secure in great fortresses in the magnificent lands of the east. It is preparing to retake the south. Only through the union of all free-loving people in the world - from east, west and south, can it be challenged. Only... ahhh...
+it: Stai bene, Ghiron? Che cosa è successo? Sembri debole.
+en: Are you all right, Ghiron? What happened? You look weak.
+it: Mi serve solo un momento di riposo...\nHo cercato di guardare nel cuore di questo male... la fonte delle tenebre. Ma su di essa è stato gettato un incantesimo di protezione che non sono riuscito né a piegare né a spezzare. Per poco non ci rimettevo la vita, o peggio.\nAlmeno ora so che cosa bisogna fare.\nDobbiamo radunare un esercito il più in fretta possibile e partire per le isole di Allita, Ses e Rea. A nord ci sono alcune navi di Borgh abbandonate. Basta andare a prenderle, caricarvi un esercito e partire verso nord.
+en: I just need a moment's rest...\nI tried to look at the heart of this evil... the source of the darkness. But there is a protective spell cast upon it, one that I could not bend or break. I almost got myself killed - or worse.\nAt least now I know what must be done.\nWe have to gather an army as fast as we can, and set off for Allita's Islands - Ses and Rea. Some of Borgh's ships are abandoned to the north. We only have to go and take them, then load an army on them, and set off to the north.
+it: Sei sconfitto, traditore!\nPerderai la vita, a meno che tu non giuri davanti a me di fare ciò che ti ordino.
+en: You are defeated, traitor!\nYou shall forfeit your life unless you make a pledge before me to do as I bid.
+it: Non posso dare la mia parola a qualcuno che non conosco.\nMi hai attaccato e sconfitto in uno scontro leale, ma non ti farò alcun giuramento, non prima che tu mi dica che cosa vuoi. Se questo non ti sta bene, allora uccidimi. Ma io non ho tradito nessuno.
+en: I cannot give my word to someone I do not know.\nYou attacked and defeated me in fair combat, but I will not make a pledge to you - not before you state your bidding. If that is not acceptable to you, then you should kill me. But I have betrayed no one.
+it: D'accordo. Allora ti spiegherò.\nMi chiamo Vardal. Sono un cavaliere dell'Ordine dei Protettori delle isole di Allita.\nForse pensi di aver compiuto una buona azione sconfiggendo Borgh qui, ma in realtà hai solo condannato la gente innocente delle isole di Allita a essere schiava del Distruttore, o peggio. Si dice che tu sia il figlio del nostro antico sovrano. Se è così, ci hai traditi. Hai fatto soffrire il mio popolo, e così sono venuto qui per costringerti a rimediare a questo tradimento, o a pagare. Ora devi decidere.
+en: Fair enough. I will explain then.\nMy name is Vardal. I am a knight of the Order of the Protectors of the islands of Allita.\nYou may think you have done a good deed by defeating Borgh here, but in fact you have only doomed the innocent people of Allita's Islands to be slaves of the Destroyer - or worse. They say you are the son of our ruler of old. If that is so, then you betrayed us. You made my people suffer, and so I came here to make you undo this treachery - or pay. Now you must decide.
+it: Sì, ora capisco. Ti do la mia parola: aiuterò gli isolani appena potrò. Ma ho anche un dovere verso la gente di qui. Proprio mentre parliamo, la città di Wark Aven è sotto l'attacco dei resti delle forze di Borgh. Devo difenderla. Quando avrò radunato un esercito sufficiente a difendere la città e da portare con me, partirò per le tue isole a nord. Ti sembra giusto?
+en: Yes, I understand now. I give you my word - I will provide help to the islanders as soon as I can. But I also have a duty to the people here. The city of Wark Aven is under attack by the remnants of Borgh's forces as we speak. I have to defend it. When I have raised an army sufficient to defend the city, and to take with me, I will set off to your islands to the north. Do you judge this fair?
+it: Vedo che in te c'è dell'onore. Forse nelle tue vene scorre davvero sangue reale.\nNon indugiare qui. Partirò subito per le isole. Spero di riuscire a radunare una forza abbastanza grande da contare qualcosa nella battaglia per Rea e Ses.\nAddio, Sartor. Ci rivedremo, te lo prometto.
+en: I see there is honor in you. Perhaps you truly have royal blood coursing in you.\nDo not tarry here. I will make my way to the islands right away. Hopefully I can muster a force big enough to matter in the battle for Rea and Ses.\nFarewell, Sartor. We shall meet again, I promise you.
+it: Hai perso, aggressore!\nCombatti bene, ma attacchi senza preavviso.\nDimmi il tuo nome e spiegati, perché io possa giudicare le ragioni del tuo attacco... e perché mi hai chiamato traditore. Nessuno mi ha mai accusato di tradimento ed è rimasto in vita.\nParla!
+en: You lost, attacker!\nYou fight well, but you attack without warning.\nTell me your name and explain yourself, so I may judge the reasons for your attack... and for calling me a traitor. No one has accused me of treachery before, and lived.\nSpeak!
+it: Per Rea e Ses!\nMuori, traditore!
+en: For Rea and Ses!\nDie, traitor!
+it: Benvenuti, marinai.\nDa dove venite così di corsa? Sembrate deboli... È per il lungo viaggio, o vi è successo qualcosa?
+en: Welcome, seafarers.\nWhere do you come from in such a hurry? You look weak... Is this because of the long journey, or has something happened to you?
+it: Veniamo dalle isole di Allita. È davvero un viaggio difficile, e ancor più con una nave danneggiata, l'equipaggio ferito e senza provviste.
+en: We have come all the way from Allita's Islands. It is a difficult journey indeed, but all the more with a damaged ship, wounded crew members and without supplies.
+it: Persino questo viaggio è meglio della guerra sulle nostre isole. Sia maledetto in eterno il nome di Borgh il Distruttore!
+en: Even this journey is better than the war on our islands. Curse the name of Borgh the Destroyer for eternity!
+it: Dite che Borgh è arrivato in forze a conquistare le isole di Allita?\nNon è possibile. Sono state le mie mani a porre fine alla sua miserabile vita, quando il suo castello gli è crollato addosso.
+en: You say that Borgh has come in force to conquer Allita's Islands?\nThis cannot be. My own hands ended his miserable life when his castle collapsed on top of him.
+it: È vivo. Non era neppure ferito, ma la sua oscura malvagità è ora ancora più nera... Sulle isole c'erano dei profughi delle vostre terre, e conoscevano Borgh: ci hanno avvertiti appena lo hanno visto. Abbiamo cercato di fuggire il prima possibile...
+en: He is alive. He was not even wounded, but his dark malice is even blacker now... There were fugitives from your lands on the islands, and they knew Borgh and warned us the moment they saw him. We tried to flee as soon as we could...
+it: Ahimè, era troppo tardi...
+en: Alas, it was too late...
+it: Sì, ora capisco... Sentivo che a nord qualcosa non andava, e ora vedo che siamo rimasti inerti troppo a lungo. Vieni con me, Sartor. Ho bisogno che tu mi assista.
+en: Yes, I understand now... I have been feeling something was amiss to the north, and now I see we have been idle for too long. Come with me, Sartor. I need you to assist me.
+it: Fa' strada, mago. Ti aiuterò in ogni modo possibile.
+en: Lead the way, Wizard. I will help you in any way I can.
+it: Devo andare nell'antica foresta a sud-est. Presto la città sarà attaccata, ma ho bisogno che tu mi scorti fino al luogo del potere presso gli antichi idoli. Toccandoli potrò vedere da lontano le isole di Allita. Saprò allora che cosa bisogna fare... E sento che devi venire con me.
+en: I need to go to the old forest to the south-east. The city will be under attack shortly, but I need you to escort me to the place of power at the ancient idols. By touching them I will be able to see from afar the islands of Allita. I will then know what must be done... And I feel you have to come with me.
+it: Basta parole, allora. Andiamo.
+en: No more words then. Let us go.
+it: Devo però avvertirti. La foresta non ama essere disturbata, e sa come trattare gli ospiti sgraditi. Posso proteggere te e me dalla sua collera, ma nessun altro. Dobbiamo andarci da soli.
+en: I must warn you, though. The forest does not like to be disturbed, and it has a way to deal with unwelcome guests. I can protect you and I from its anger, but no one else. We must go there alone.
+
+# tzar.wcm::maps/ultimate
+it: La caduta del Castello del Male
+en: The fall of the Castle of Evil
+it: Castello del Male
+en: Castle of Evil
+it: Distruggi il Castello del Male.
+en: Destroy the Castle of Evil.
+it: Sartor deve sopravvivere.
+en: Sartor must survive.
+it: Dalle rovine fumanti del castello di Benas Ghiron prese la mappa che indicava dove si trovava la Sfera. Le mani gli tremavano mentre la srotolava, ma il suo sguardo si fece duro quando finalmente riuscì a leggerla. L'ultimo sforzo che dovevano compiere li riportò ancora una volta nella terra di Gen-Sai, l'ultima roccaforte rimasta al Male. Con l'aiuto degli alleati di Hong e di Kalt'ha, l'esercito di Sartor riuscì a sbarcare dalle navi e a costruire accampamenti da cui attaccare il nemico fortificato. Le alte torri dell'accampamento si ergevano alle loro spalle mentre guardavano verso nord, verso l'accampamento nemico.
+en: From the burning ruins of the castle in Benas, Ghiron took the map showing the location of the Sphere. His hands trembled as he unrolled it, but his stare hardened when he was at last able to read it. The final effort they had to make led them once again to the land of Gen-Sai - the last remaining stronghold of evil. With the help of their allies from Hong and Kalt'ha, Sartor's army was able to disembark from the ships and build camps from which to attack their fortified foe. The tall towers of the camp stood behind them as they looked out north, towards the enemy camp.
+it: Sono passati molti anni dalla battaglia decisiva al Castello del Male, ma ricordo ancora tutto come se fosse accaduto ieri. Sento le grida dei morenti echeggiarmi nelle orecchie, rivedo i villaggi saccheggiati e i corpi dei miei alleati. Andava fatto, le forze del Male andavano sconfitte, ma il prezzo che abbiamo pagato...\n\nNegli anni che seguirono, una pace dimenticata tornò a poco a poco a regnare sulle terre martoriate. La gente non guardava più inquieta verso l'orizzonte, in cerca di nuvole di fumo che si levassero da villaggi in fiamme. Ancora una volta la guerra divenne soltanto leggenda. Pochi ricordano le migliaia di persone che diedero la vita nell'ultima Guerra contro il Male... una guerra che ora la gente chiama la Battaglia di Sartor.\n\nAhimè, anche se massacrammo i servi del Male a migliaia, sconfiggemmo il suo messaggero e distruggemmo la sua porta verso il nostro mondo, con grande sgomento non trovammo la Sfera. Proprio come durante gli innumerevoli anni prima del regno di mio padre, nessuno ne sa nulla. Forse qualche mago tenterà ancora una volta di usarne il potere per sottomettere il nostro mondo? Forse il Messia del Male l'ha portata nel suo mondo al di là, dove resterà per sempre fuori dalla nostra portata. Ricordo come il vento cantava tra le rovine del castello che avevamo distrutto... Come se ridesse di noi. Il tempo trasformò lentamente la vittoria di quel giorno in una sconfitta...\n\nPerdonami, padre, perché ho fallito. Ho vendicato la tua morte, ho difeso Keana e ho riportato la pace. Ma non ho trovato la Sfera, la nostra unica arma contro il nemico. Ogni giorno che passa sento un male incombente. Non riesco a capire che cosa sia, né a indicarlo, ma so che sta arrivando. Nel profondo sento che i giorni di pace sono contati e che presto dovremo opporre un'ultima resistenza al Male. Vinceremo ancora, o periremo?\n\nNon lo so...
+en: Many years have passed since the crucial battle at the Castle of Evil, but I still remember everything as if it happened yesterday. I can hear the screams of the dying echoing in my ears, I can picture the sacked villages and the bodies of my allies. It had to be done, the forces of Evil had to be defeated, but the price we paid...\n\nIn the years that followed, a forgotten peace gradually came to reign over the tortured lands. People no longer looked uneasily towards the horizon, looking for clouds of smoke rising from burned down villages. Once again, war became only a thing of legend. Few of them remember the thousands who gave their lives in the last War against Evil... a war that people now call the Battle of Sartor.\n\nAlas, even though we slaughtered the servants of Evil by the thousand, we defeated its messenger and destroyed its gateway into our world, we were greatly dismayed not to find the Sphere. Just as during the countless years before my father's rule, no one knows anything about it. Perhaps some wizard will try to use its power once again in an attempt to subdue our world? Perhaps the Messiah of Evil has brought it into his own world beyond, where it will remain out of our reach forever. I remember how the wind sang in the ruins of the castle we destroyed... As if it were laughing at us. Time slowly turned that day's victory into a defeat...\n\nForgive me father, for I have failed. I avenged your death, I defended Keana and restored peace. But I did not find the Sphere - our only weapon against the enemy. With every passing day I feel an impending evil. I cannot determine what it is, nor point to it, but I know it is coming. Deep inside I feel that the days of peace are numbered and that we will soon have to make one last stand against Evil. Will we win through again, or will we perish?\n\nI do not know...
+it: Lo vedi, Sartor?\nIn lontananza, a nord, dietro il fumo dei fuochi degli accampamenti e la nebbia dei laghi, incombe. Scuro e minaccioso, oscura tutto ciò che vedo e mi attira sempre a sé: il Castello del Male.\nÈ una soglia verso un mondo infero, un portale verso un luogo al di là del nostro spazio e del nostro tempo. Tutte le battaglie che abbiamo combattuto insieme, dall'inizio fino a oggi, sono state contro il potere che emana da questo castello. E ora che è stato contrastato, ha evocato il suo servo più potente per difendersi da noi. Un nero abominio del Male, tratto dai suoi non morti per una sola missione: cancellarci dalla faccia della terra. Guardatene, Sartor, perché può distruggere interi eserciti e spazzare via città con un gesto della mano.
+en: Do you see it, Sartor?\nIn the distance to the north, behind the smoke of the campfires and the mist of the lakes it looms. Dark and menacing, it eclipses everything I see, ever drawing me to it - the Castle of Evil.\nIt is a doorway to a netherworld, a portal to a place beyond our space and time. All the battles we have fought together, from the beginning to this very day, have been against the power that emanates from this Castle. And now, when it has been checked, it has summoned its most powerful servant to defend itself against us. A black abomination of evil, brought forth from its undead for a single mission - to remove us from the face of the earth. Beware of it, Sartor, for it can destroy entire armies and wipe out cities with a wave of its hand.
+it: E se lo distruggessimo? Il Male svanirebbe? Di certo un solo servo del Male non può resistere alla nostra forza unita, una volta sfondate le difese?
+en: What if we do destroy it? Will Evil vanish? Surely, a single servant of Evil cannot stand against our united might, once we have broken through the defenses?
+it: Non resisterà da solo ai nostri eserciti. Ma questa... creatura, questo Messia del Male, è solo un servo... un esempio di ciò che attende le nostre terre se lasciamo stare il Male. Dobbiamo eliminare il portale da cui è venuto. Dobbiamo distruggere il castello. Quando lo avremo raso al suolo, il nostro compito qui sarà compiuto... Questa è la nostra ultima battaglia, Sartor, la tua ultima battaglia. Dopo sarai il sovrano di tutta Keana.
+en: It will not stand alone against our armies. But this... creature, this Messiah of Evil, is only a servant... an example for us of what awaits our lands if we let Evil be. We must remove the portal through which it came. We must destroy the castle. Once we have laid waste to it, our task here will be complete... This is our final battle, Sartor - your final battle. After that you will be ruler of all Keana.
+it: Mettiamoci all'opera, allora.\nIl Castello del Male cadrà!\nKeana sarà libera!
+en: Let us get to the task, then.\nThe Castle of Evil shall fall!\nKeana shall be free!
