@@ -4572,12 +4572,15 @@ fn position(o: &mut MapObject, p: [u16; 2]) {
     }
 }
 /// The cells an object stands on (+0x1a, +0x1c): a building's and a mine's
-/// by their picture, a unit's by its class ([`world::unit_cells`]).
+/// by their picture, a unit's by its class ([`world::unit_cells`]), a fish
+/// patch's 2×2 (its constructor 0x450a40, over a picture of one cell).
 fn footprint(lib: &ObjectLibrary, o: &MapObject) -> [usize; 2] {
     if o.building() || matches!(o.class, class::RES_GOLD | class::RES_STONE) {
         lib.cell_footprint(o)
     } else if world::class::is_unit(o.class) {
         world::unit_cells(o.class)
+    } else if o.class == class::FISHPATCH {
+        [2, 2]
     } else {
         [1, 1]
     }
@@ -10155,13 +10158,15 @@ fn work(
                 return;
             }
             if fishing && !alive(&t) {
-                // FindFishPatch (op 0x3e, 0x4e9238): the nearest patch.
+                // FindFishPatch (op 0x3e, 0x4e9238): the nearest patch,
+                // measured to its picture of one cell (0x454d70), not to
+                // its 2×2.
                 let next = m
                     .objects
                     .iter()
                     .enumerate()
                     .filter(|(_, x)| x.class == class::FISHPATCH && alive(x))
-                    .min_by_key(|(_, x)| distance(lib, &o, x))
+                    .min_by_key(|(_, x)| distance_to_area([o.x, o.y], [x.x, x.y], [1, 1]))
                     .map(|(k, _)| k);
                 match next {
                     Some(k) => {
@@ -10221,6 +10226,9 @@ fn work(
                 }
                 return;
             }
+            // A fish patch is reached around its picture of one cell
+            // (vt+0x134), not its 2×2.
+            let size = if fishing { [1, 1] } else { footprint(lib, &t) };
             if field {
                 // Op 0x15 (0x4acff7) fails on a field another peasant
                 // works, or off any field: op 0x25 looks for another.
@@ -10244,7 +10252,7 @@ fn work(
                         return;
                     }
                 }
-            } else if distance(lib, &o, &t) > 1 {
+            } else if distance_to_area([o.x, o.y], [t.x, t.y], size) > 1 {
                 if !approach_object(sim, m, g, lib, i, j, 0) && unreachable(sim, i) {
                     finish(sim, i);
                 }
@@ -13605,7 +13613,7 @@ fn take_resources(
 /// The fish manager (timer 0x4216, 1250 ms): each turn handles the
 /// patches whose place in the list has the turn's number in its low three
 /// bits, so a patch every 10 s. One no boat is fishing grows by 5% up to
-/// 2000 and drifts by −1..1 cells when the new place is water (0x450ba0).
+/// 2000 and drifts by −1..1 cells when the new place is free (0x450ba0).
 fn fish_patches(sim: &mut Simulation, m: &mut MissionWorld, g: &MapGrid, lib: &ObjectLibrary) {
     if sim.ticks % 25 != 0 {
         return;
@@ -13637,16 +13645,23 @@ fn fish_patches(sim: &mut Simulation, m: &mut MissionWorld, g: &MapGrid, lib: &O
         if (dx, dy) == (0, 0) || x < 0 || y < 0 {
             continue;
         }
-        // Water under the whole patch, as a boat would need it.
-        let mut boat = m.objects[j].clone();
-        boat.class = class::FISHING_BOAT;
-        let [w, h] = footprint(lib, &m.objects[j]);
-        let water = (0..h as i32).all(|ty| {
-            (0..w as i32)
-                .all(|tx| terrain_free(g, lib, &boat, [(x + tx) as u16, (y + ty) as u16], false))
+        // The patch leaves its cells (vt+0x74) and tries the new place
+        // (0x450fa0): the cells of its picture free in its layer, as a
+        // ship could step there now (0x505b20 with vt+0x90), and none of
+        // its 2×2 cells marked by something else standing still.
+        let o = &m.objects[j];
+        let to = [x as u16, y as u16];
+        let own = movement::footprint_rect(lib, o);
+        let picture = lib.image_for(o).map_or([1, 1], |s| lib.picture_cells(&s));
+        let layer = lib.layer(o);
+        let cells = movement::cells_now(sim, m, g, lib);
+        let free = movement::block(to, picture).all(|p| cells.free(layer, p));
+        let clear = movement::block(to, footprint(lib, o)).all(|p| {
+            let mine = (own[0]..=own[2]).contains(&p[0]) && (own[1]..=own[3]).contains(&p[1]);
+            mine || !cells.inside(p) || cells.at(p) & pathing::STATIC == 0
         });
-        if water {
-            position(&mut m.objects[j], [x as u16, y as u16]);
+        if free && clear {
+            position(&mut m.objects[j], to);
         }
     }
 }
@@ -15343,6 +15358,45 @@ mod tests {
         // It drifts at most one cell a turn, staying on water.
         let o = &m.objects[other];
         assert!(o.x.abs_diff(40) <= 2 && o.y.abs_diff(50) <= 2);
+    }
+    #[test]
+    #[ignore = "Requires the installed original game archives"]
+    fn player_gameplay_fish_patches_hold_two_by_two_cells_and_drift_apart() {
+        let (c, lib, mut m, mut g, mut sim) = setup(1);
+        // A channel of water one cell wide: a patch stands there with three
+        // of its 2×2 cells on land, since only its picture's cell must be
+        // water.
+        for y in 20..60 {
+            g.cells[y * 64 + 20] = 0;
+        }
+        let a = new_unit(&mut sim, &mut m, &lib, class::FISHPATCH, 0, 0, [20, 40]).unwrap();
+        let b = new_unit(&mut sim, &mut m, &lib, class::FISHPATCH, 0, 0, [20, 42]).unwrap();
+        for k in [a, b] {
+            m.objects[k].data.resize(0x40, 0);
+            m.objects[k].data[0x38..0x3c].copy_from_slice(&100u32.to_le_bytes());
+        }
+        // 0x450a40, 0x450c70: it stands on 2×2 cells and marks them as
+        // standing still; a boat still comes to the 3×3 cells around its
+        // picture of one cell (vt+0x134).
+        assert_eq!(footprint(&lib, &m.objects[a]), [2, 2]);
+        let cells = movement::cells_now(&sim, &m, &g, &lib);
+        for p in [[20, 40], [21, 40], [20, 41], [21, 41]] {
+            assert_ne!(cells.at(p) & pathing::STATIC, 0, "{p:?}");
+        }
+        assert_eq!(cells.at([22, 40]) & pathing::STATIC, 0);
+        assert_eq!(movement::target_rect(&sim, &m, &lib, a), [19, 39, 21, 41]);
+        // 0x450fa0: a patch moves only where its picture's cell is free
+        // water and none of its 2×2 cells is marked by the other.
+        let mut moved = false;
+        for _ in 0..400 {
+            ticks(&mut sim, &mut m, &mut g, &lib, &c, 25);
+            let pa = [m.objects[a].x, m.objects[a].y];
+            let pb = [m.objects[b].x, m.objects[b].y];
+            moved |= pa != [20, 40] || pb != [20, 42];
+            assert!(pa[0] == 20 && pb[0] == 20, "{pa:?} {pb:?}");
+            assert!(pa[1].abs_diff(pb[1]) >= 2, "{pa:?} {pb:?}");
+        }
+        assert!(moved);
     }
     #[test]
     #[ignore = "Requires the installed original game archives"]

@@ -393,7 +393,7 @@ fn movers_and_prints(sim: &Simulation, m: &MissionWorld) -> (Vec<usize>, Vec<u64
     (movers, prints)
 }
 /// The cells `occupy` may write for a standing object: its footprint, the
-/// cells beside a gate's door, an anchor's own cell.
+/// cells beside a gate's door, an anchor's own cell, a fish patch's 2×2.
 fn reach(lib: &ObjectLibrary, o: &MapObject) -> [i32; 4] {
     let [x, y] = [o.x as i32, o.y as i32];
     let [w, h] = lib.cell_footprint(o).map(|n| n as i32);
@@ -409,6 +409,7 @@ fn reach(lib: &ObjectLibrary, o: &MapObject) -> [i32; 4] {
     match o.class {
         class::GATE_WOOD | class::GATE_STONE => grow(gate_beside(o)),
         class::CRUSADEANCHOR => grow([x, y, x, y]),
+        class::FISHPATCH => grow(footprint_rect(lib, o)),
         _ => {}
     }
     r
@@ -621,6 +622,15 @@ fn occupy(cells: &mut Cells, lib: &ObjectLibrary, o: &MapObject, doors: &mut Vec
     match o.class {
         // 0x44c930: a field is walkable.
         class::FIELD => each(cells, &mut |c, p, _| c.set(p, FIELD, true)),
+        // 0x450c70: a fish patch marks its 2×2 cells as standing still and
+        // nothing else; ships go over it.
+        class::FISHPATCH => {
+            for p in block([o.x, o.y], footprint(lib, o)) {
+                if cells.inside(p) {
+                    cells.set(p, STATIC, true);
+                }
+            }
+        }
         // 0x41c010: the terrain under a bridge does not count; an unfinished
         // bridge blocks, a finished one only along its rails.
         class::BRIDGE => {
@@ -890,10 +900,10 @@ pub(super) fn reaches(p: [u16; 2], size: [u16; 2], rect: [i32; 4], range: u32) -
     let d = [q[0] - c[0], q[1] - c[1]];
     d[0] * d[0] + d[1] * d[1] <= 4 * (range as i64) * (range as i64)
 }
-/// The rect an object is approached by (vt+0x134): a unit's picture cells
-/// (its `object` / 32, image record +0x9a) grown by one, the 3×3 cells
-/// around it without a picture (0x501a20); the holder's for a carried unit;
-/// a building's footprint grown by one (0x41fd70).
+/// The rect an object is approached by (vt+0x134): a unit's or a fish
+/// patch's picture cells (its `object` / 32, image record +0x9a) grown by
+/// one, the 3×3 cells around it without a picture (0x501a20); the holder's
+/// for a carried unit; a building's footprint grown by one (0x41fd70).
 pub(super) fn target_rect(
     sim: &Simulation,
     m: &MissionWorld,
@@ -909,7 +919,7 @@ pub(super) fn target_rect(
     }
     let o = &m.objects[j];
     let [x, y] = [o.x as i32, o.y as i32];
-    let [w, h] = if world::class::is_unit(o.class) {
+    let [w, h] = if world::class::is_unit(o.class) || o.class == class::FISHPATCH {
         lib.image_for(o)
             .map_or([1, 1], |section| lib.picture_cells(&section))
     } else {
