@@ -4,7 +4,7 @@ ReTzar is a fan remake of **Tzar: The Burden of the Crown**, rebuilt from scratc
 
 ## What's new in 1.0.1
 
-- **Fog of war in the campaigns**: a campaign mission starts under the fog again, as its map says. Some started with the whole map explored, such as the first mission of The Burden of the Crown.
+- **Fog of war**: campaign missions start under the fog again, with the map unexplored, as in the original. Before, they started with the whole map in view, such as the first mission of The Burden of the Crown. For the maps that come with the game, the setup screen now offers fog and an unexplored map by default too.
 - **Large units take 2×2 cells, as in the original**: the dragon, catapults, ballistas, traders and carts, galleons, hulks and xebecs. They walk, wait and find their way as big as they are, no longer slipping through gaps meant for a single cell. They aim from their centre and face what they strike, so the dragon now attacks right next to a building, and they are hit across their whole size.
 - **Landings**: a ship unloads when any cell around its whole hull is shore, as in the original. Before, large ships could fail to land their troops.
 
