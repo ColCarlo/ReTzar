@@ -1,10 +1,12 @@
-# Builds on Windows at every push and pull request: the game, the tools, the
-# tests and retzar-arena. The tests do not run here: most of them read the
-# original game, which the repository does not contain.
+# Builds on Windows at every push to a branch and pull request: the game, the
+# tools, the tests and retzar-arena. The tests do not run here: most of them
+# read the original game, which the repository does not contain. Version tags
+# are built by release.yml.
 name: Build
 
 on:
   push:
+    branches: ["**"]
   pull_request:
 
 jobs:

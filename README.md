@@ -13,9 +13,9 @@ Bevy and kept as close to the original as possible.
 
 ## Play
 
-1. Download `ReTzar-1.0.0-windows.zip` from
-   [Releases](https://github.com/ColCarlo/ReTzar/releases/latest) and unzip
-   it somewhere of yours, such as the Desktop or Documents.
+1. Download the zip of the
+   [latest release](https://github.com/ColCarlo/ReTzar/releases/latest) and
+   unzip it somewhere of yours, such as the Desktop or Documents.
 2. Run `ReTzar.exe` in the `ReTzar` folder. The first time, it asks for the
    folder where Tzar is installed and makes its game data from it, which
    takes about a minute. After that it starts straight away.

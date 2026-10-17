@@ -1,0 +1,35 @@
+# Publishes a release when a version tag is pushed (git tag v1.0.0, then
+# git push origin v1.0.0): builds ReTzar.exe and attaches
+# ReTzar-<version>-windows.zip, with the notes in .github/release/notes.md.
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      # The toolchain is the one in rust-toolchain.toml, installed by rustup.
+      - name: Toolchain
+        run: rustup show
+      - name: ReTzar.exe
+        run: cargo build --release --locked --bin retzar
+      - name: Zip
+        run: |
+          $version = $env:GITHUB_REF_NAME.TrimStart("v")
+          New-Item -ItemType Directory ReTzar | Out-Null
+          Copy-Item target/release/retzar.exe ReTzar/ReTzar.exe
+          Copy-Item .github/release/README.txt ReTzar/README.txt
+          Copy-Item LICENSE ReTzar/LICENSE.txt
+          Compress-Archive ReTzar "ReTzar-$version-windows.zip"
+          "VERSION=$version" >> $env:GITHUB_ENV
+      - name: Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create $env:GITHUB_REF_NAME "ReTzar-$env:VERSION-windows.zip" --title "ReTzar $env:VERSION" --notes-file .github/release/notes.md
