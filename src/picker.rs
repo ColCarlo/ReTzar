@@ -1,6 +1,7 @@
-//! Windows' own folder picker (`IFileOpenDialog` asked for folders), used
-//! by the portable copy to ask where the original game is installed
-//! ([`crate::original`]). Elsewhere there is none.
+//! Windows' own dialogs for the portable copy: the folder picker
+//! (`IFileOpenDialog` asked for folders) that asks where the original game
+//! is installed ([`crate::original`], [`crate::first_start`]), message boxes
+//! and the progress window. Elsewhere there are none.
 use std::path::{Path, PathBuf};
 
 /// A folder chosen by the player, starting from `start`; none when the
@@ -21,12 +22,51 @@ pub fn folder(title: &str, start: Option<&Path>) -> Option<PathBuf> {
 pub fn confirm(text: &str) -> bool {
     #[cfg(windows)]
     {
-        windows::confirm(text)
+        windows::ask(text, windows::WARNING)
     }
     #[cfg(not(windows))]
     {
         let _ = text;
         false
+    }
+}
+/// [`confirm`] with the information icon instead of the warning.
+pub fn welcome(text: &str) -> bool {
+    #[cfg(windows)]
+    {
+        windows::ask(text, windows::INFORMATION)
+    }
+    #[cfg(not(windows))]
+    {
+        let _ = text;
+        false
+    }
+}
+
+/// Windows' own progress window (`IProgressDialog`), with a moving bar,
+/// shown while something long is done and closed when dropped.
+pub struct Progress {
+    #[cfg(windows)]
+    dialog: Option<windows::Progress>,
+}
+impl Progress {
+    /// The window with `title` and the first line `text`.
+    pub fn start(title: &str, text: &str) -> Self {
+        #[cfg(not(windows))]
+        let _ = (title, text);
+        Self {
+            #[cfg(windows)]
+            dialog: windows::Progress::start(title, text),
+        }
+    }
+    /// The second line: what is being done now.
+    pub fn detail(&self, text: &str) {
+        #[cfg(windows)]
+        if let Some(d) = &self.dialog {
+            d.line(2, text);
+        }
+        #[cfg(not(windows))]
+        let _ = text;
     }
 }
 
@@ -213,10 +253,115 @@ mod windows {
         chosen
     }
 
-    pub(super) fn confirm(text: &str) -> bool {
+    /// MB_OKCANCEL with MB_ICONWARNING or MB_ICONINFORMATION.
+    pub(super) const WARNING: u32 = 0x31;
+    pub(super) const INFORMATION: u32 = 0x41;
+    pub(super) fn ask(text: &str, kind: u32) -> bool {
         let (text, caption) = (wide(text), wide("ReTzar"));
-        // MB_OKCANCEL | MB_ICONWARNING; IDOK.
-        unsafe { MessageBoxW(std::ptr::null_mut(), text.as_ptr(), caption.as_ptr(), 0x31) == 1 }
+        // IDOK.
+        unsafe { MessageBoxW(std::ptr::null_mut(), text.as_ptr(), caption.as_ptr(), kind) == 1 }
+    }
+
+    const CLSID_PROGRESS_DIALOG: Guid = Guid(
+        0xf838_3852,
+        0xfcd3,
+        0x11d1,
+        [0xa6, 0xb9, 0x00, 0x60, 0x97, 0xdf, 0x5b, 0xd4],
+    );
+    const IID_PROGRESS_DIALOG: Guid = Guid(
+        0xebbc_7c04,
+        0x315e,
+        0x11d2,
+        [0xb6, 0x2f, 0x00, 0x60, 0x97, 0xdf, 0x5b, 0xd4],
+    );
+    /// PROGDLG_NOTIME | PROGDLG_NOMINIMIZE | PROGDLG_MARQUEEPROGRESS |
+    /// PROGDLG_NOCANCEL.
+    const PROGRESS_FLAGS: u32 = 0x04 | 0x08 | 0x20 | 0x40;
+
+    /// The shell's progress window, which runs on a thread of its own (the
+    /// slots of ShlObj.h: IUnknown 0–2, StartProgressDialog 3,
+    /// StopProgressDialog 4, SetTitle 5, SetLine 10).
+    pub(super) struct Progress {
+        object: *mut c_void,
+        com: bool,
+    }
+    impl Progress {
+        pub(super) fn start(title: &str, text: &str) -> Option<Self> {
+            let started = unsafe {
+                CoInitializeEx(
+                    std::ptr::null_mut(),
+                    COINIT_APARTMENTTHREADED | COINIT_DISABLE_OLE1DDE,
+                )
+            };
+            let mut object: *mut c_void = std::ptr::null_mut();
+            let made = unsafe {
+                CoCreateInstance(
+                    &CLSID_PROGRESS_DIALOG,
+                    std::ptr::null_mut(),
+                    CLSCTX_INPROC_SERVER,
+                    &IID_PROGRESS_DIALOG,
+                    &mut object,
+                )
+            };
+            if made < 0 || object.is_null() {
+                if started >= 0 {
+                    unsafe { CoUninitialize() };
+                }
+                return None;
+            }
+            let progress = Self {
+                object,
+                com: started >= 0,
+            };
+            let title = wide(title);
+            unsafe {
+                let set_title: unsafe extern "system" fn(*mut c_void, *const u16) -> Hresult =
+                    std::mem::transmute(slot(object, 5));
+                set_title(object, title.as_ptr());
+                let start: unsafe extern "system" fn(
+                    *mut c_void,
+                    *mut c_void,
+                    *mut c_void,
+                    u32,
+                    *const c_void,
+                ) -> Hresult = std::mem::transmute(slot(object, 3));
+                start(
+                    object,
+                    std::ptr::null_mut(),
+                    std::ptr::null_mut(),
+                    PROGRESS_FLAGS,
+                    std::ptr::null(),
+                );
+            }
+            progress.line(1, text);
+            Some(progress)
+        }
+        pub(super) fn line(&self, number: u32, text: &str) {
+            let text = wide(text);
+            unsafe {
+                let set_line: unsafe extern "system" fn(
+                    *mut c_void,
+                    u32,
+                    *const u16,
+                    i32,
+                    *const c_void,
+                ) -> Hresult = std::mem::transmute(slot(self.object, 10));
+                set_line(self.object, number, text.as_ptr(), 0, std::ptr::null());
+            }
+        }
+    }
+    impl Drop for Progress {
+        fn drop(&mut self) {
+            unsafe {
+                let stop: unsafe extern "system" fn(*mut c_void) -> Hresult =
+                    std::mem::transmute(slot(self.object, 4));
+                stop(self.object);
+                release(self.object);
+                if self.com {
+                    CoUninitialize();
+                }
+            }
+        }
     }
 }
 

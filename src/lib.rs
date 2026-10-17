@@ -7,6 +7,7 @@ pub mod bolt;
 pub mod ddv;
 pub mod dialogs;
 pub mod dialogue;
+pub mod first_start;
 pub mod flac;
 pub mod flight;
 pub mod font;

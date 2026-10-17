@@ -3,11 +3,30 @@
 A fan remake of the classic RTS **Tzar**, rebuilt from scratch in Rust and
 Bevy and kept as close to the original as possible.
 
+![A castle, an army and a walled town](screenshots/1-castle-and-army.jpg)
+
 - All three civilizations, the original campaigns and missions, random maps
 - The original AI, mission scripts, day and night, weather, fog of war
 - Runs smoothly on modern Windows, with crisp scaling up to 4K
 - Seven languages: English, Italian, French, German, Spanish, Polish, Portuguese
 - A few optional extras (smooth zoom, night lights, CRT effect…), all off by default
+
+## Play
+
+1. Download `ReTzar-1.0.0-windows.zip` from
+   [Releases](https://github.com/ColCarlo/ReTzar/releases/latest) and unzip
+   it somewhere of yours, such as the Desktop or Documents.
+2. Run `ReTzar.exe` in the `ReTzar` folder. The first time, it asks for the
+   folder where Tzar is installed and makes its game data from it, which
+   takes about a minute. After that it starts straight away.
+
+Windows may say that it protected your PC, since the game isn't signed:
+click **More info**, then **Run anyway**.
+
+| | |
+|---|---|
+| ![Winter river](screenshots/2-winter-river.jpg) | ![Two kingdoms](screenshots/3-two-kingdoms.jpg) |
+| ![Random map](screenshots/4-random-map.jpg) | ![Main menu](screenshots/5-main-menu.png) |
 
 ## What you need
 
@@ -24,12 +43,11 @@ Bevy and kept as close to the original as possible.
   - The Italian edition (*Excalibur e il Re Artù*) adds the Excalibur and
     Genghis Khan campaigns; the American CD, copied into `USA\CD\SETUP\Tzar`
     inside it, adds its own campaign and movies.
-- To build it: a few GB of free disk space for the tools and the compilation
 
-## Build and play
+## Build it yourself
 
 1. Install [Rust](https://rustup.rs) and Visual Studio 2022 Build Tools
-   (C++ desktop workload).
+   (C++ desktop workload), with a few GB of free disk space.
 2. Run `build-release.cmd` with the folder where Tzar is installed, for
    example `build-release.cmd "C:\GOG Games\Tzar"`. If this folder sits
    inside your Tzar installation, `build-release.cmd` alone is enough.

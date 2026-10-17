@@ -190,7 +190,10 @@ mod tests {
         assert!(overlays(en, Language::English, "LOCAL/STRINGS.INI").is_empty());
         assert_eq!(overlays(en, Language::Polish, "LOCAL/STRINGS.INI").len(), 2);
         // Italian over it: this version's, on the English.
-        assert_eq!(overlays(en, Language::Italian, "LOCAL/STRINGS.INI").len(), 2);
+        assert_eq!(
+            overlays(en, Language::Italian, "LOCAL/STRINGS.INI").len(),
+            2
+        );
         // Over an edition in another language even English lies on it.
         assert_eq!(
             overlays(None, Language::English, "LOCAL/STRINGS.INI").len(),

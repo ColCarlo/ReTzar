@@ -814,6 +814,24 @@ pub const ENGLISH: &[(&str, &str)] = &[
         "In {} non c'è una copia originale di Tzar.\n\nScegli la cartella in cui è installato il gioco.",
         "There is no original copy of Tzar in {}.\n\nChoose the folder where the game is installed.",
     ),
+    // The first start of the portable copy (`first_start.rs`).
+    (
+        "Benvenuto in ReTzar! Il gioco usa la tua copia di Tzar (GOG, Steam o CD): scegli la cartella in cui è installato e ReTzar ne ricaverà i suoi dati. Serve solo la prima volta.",
+        "Welcome to ReTzar! The game uses your own copy of Tzar (GOG, Steam or CD): choose the folder where it is installed and ReTzar will make its data from it. This is needed only the first time.",
+    ),
+    (
+        "ReTzar non può scrivere nella sua cartella ({}): spostalo in una cartella tua, per esempio sul Desktop o in Documenti.",
+        "ReTzar cannot write in its folder ({}): move it to a folder of yours, for example on the Desktop or in Documents.",
+    ),
+    (
+        "ReTzar sta creando i dati del gioco dalla tua copia di Tzar…",
+        "ReTzar is making the game's data from your copy of Tzar…",
+    ),
+    ("Controllo dei dati…", "Checking the data…"),
+    (
+        "Non è stato possibile creare i dati del gioco: {}",
+        "The game's data could not be made: {}",
+    ),
 ];
 
 /// The catalog of ReTzar's own texts in a language translated by this

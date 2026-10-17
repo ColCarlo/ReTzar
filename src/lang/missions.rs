@@ -32,8 +32,16 @@ macro_rules! catalogs {
         [
             include_str!(concat!("../../languages/", $code, "/missions/maps.txt")),
             include_str!(concat!("../../languages/", $code, "/missions/tutorial.txt")),
-            include_str!(concat!("../../languages/", $code, "/missions/excalibur.txt")),
-            include_str!(concat!("../../languages/", $code, "/missions/genghis_khan.txt")),
+            include_str!(concat!(
+                "../../languages/",
+                $code,
+                "/missions/excalibur.txt"
+            )),
+            include_str!(concat!(
+                "../../languages/",
+                $code,
+                "/missions/genghis_khan.txt"
+            )),
             include_str!(concat!(
                 "../../languages/",
                 $code,

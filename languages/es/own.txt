@@ -1052,3 +1052,18 @@ es: Para jugar a ReTzar necesitas una copia original de Tzar (del CD, de GOG o d
 
 it: In {} non c'è una copia originale di Tzar.\n\nScegli la cartella in cui è installato il gioco.
 es: En {} no hay una copia original de Tzar.\n\nElige la carpeta donde está instalado el juego.
+
+it: Benvenuto in ReTzar! Il gioco usa la tua copia di Tzar (GOG, Steam o CD): scegli la cartella in cui è installato e ReTzar ne ricaverà i suoi dati. Serve solo la prima volta.
+es: ¡Bienvenido a ReTzar! El juego usa tu propia copia de Tzar (GOG, Steam o CD): elige la carpeta donde está instalado y ReTzar creará sus datos a partir de ella. Solo hace falta la primera vez.
+
+it: ReTzar non può scrivere nella sua cartella ({}): spostalo in una cartella tua, per esempio sul Desktop o in Documenti.
+es: ReTzar no puede escribir en su carpeta ({}): muévelo a una carpeta tuya, por ejemplo al Escritorio o a Documentos.
+
+it: ReTzar sta creando i dati del gioco dalla tua copia di Tzar…
+es: ReTzar está creando los datos del juego a partir de tu copia de Tzar…
+
+it: Controllo dei dati…
+es: Comprobando los datos…
+
+it: Non è stato possibile creare i dati del gioco: {}
+es: No se han podido crear los datos del juego: {}

@@ -29,7 +29,17 @@ fn main() {
         println!("ReTzar {} — {HELP}", env!("CARGO_PKG_VERSION"));
         return;
     }
-    let locations = Locations::resolve(&args);
+    let mut locations = Locations::resolve(&args);
+    // The portable copy as it is downloaded: its data are made at the
+    // first start from the player's own Tzar.
+    if locations.is_err()
+        && let Some(exe_dir) = std::env::current_exe()
+            .ok()
+            .and_then(|p| p.parent().map(PathBuf::from))
+        && retzar::first_start::applies(&args, &exe_dir)
+    {
+        locations = retzar::first_start::prepare(&exe_dir).and_then(|()| Locations::resolve(&args));
+    }
     install_crash_log(locations.as_ref().ok().map(|l| l.root.clone()));
     if let Err(error) = locations.and_then(|l| run(&l, &args)) {
         eprintln!("Errore: {error}");

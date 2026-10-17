@@ -475,6 +475,8 @@ pub struct LoadJob {
     handle: Option<JoinHandle<Result<PreparedScene>>>,
     /// Saved camera to restore once the mission is on screen.
     camera: Option<[f32; 3]>,
+    /// A save of an older version: only its view comes back.
+    old_save: bool,
     title: String,
     started: Instant,
 }
@@ -513,6 +515,15 @@ fn request(world: &mut World, selection: Selection) -> Result<Request> {
 
 /// Start preparing a mission without blocking the window.
 pub fn start_load(world: &mut World, selection: Selection, camera: Option<[f32; 3]>) -> Result<()> {
+    begin_load(world, selection, camera, false)
+}
+
+fn begin_load(
+    world: &mut World,
+    selection: Selection,
+    camera: Option<[f32; 3]>,
+    old_save: bool,
+) -> Result<()> {
     if world.contains_resource::<LoadJob>() {
         return Ok(());
     }
@@ -537,6 +548,7 @@ pub fn start_load(world: &mut World, selection: Selection, camera: Option<[f32; 
     world.insert_resource(LoadJob {
         handle: Some(handle),
         camera,
+        old_save,
         title,
         started: Instant::now(),
     });
@@ -545,7 +557,7 @@ pub fn start_load(world: &mut World, selection: Selection, camera: Option<[f32; 
 
 fn start_restore(world: &mut World, saved: retzar::menu::SavedSession) -> Result<()> {
     if !saved.snapshot {
-        return start_load(world, saved.selection, Some(saved.camera));
+        return begin_load(world, saved.selection, Some(saved.camera), true);
     }
     if world.contains_resource::<LoadJob>() {
         return Ok(());
@@ -565,6 +577,7 @@ fn start_restore(world: &mut World, saved: retzar::menu::SavedSession) -> Result
     world.insert_resource(LoadJob {
         handle: Some(handle),
         camera: Some(saved.camera),
+        old_save: false,
         title: saved.title,
         started: Instant::now(),
     });
@@ -709,6 +722,12 @@ pub fn finish_load(world: &mut World) {
     match result {
         Ok(prepared) => {
             install_prepared(world, prepared, job.camera);
+            if job.old_save {
+                world.resource_mut::<MenuState>().notice = retzar::lang::t(
+                    "Salvataggio precedente: ripristinata la vista iniziale, senza stato della simulazione.",
+                )
+                .into();
+            }
             info!(
                 "Missione «{}» pronta in {:.2} s",
                 job.title,
@@ -808,12 +827,6 @@ pub fn install_prepared(world: &mut World, mut prepared: PreparedScene, camera: 
             scene.mission.simulation = Some(sim);
         }
         world.resource_mut::<Overlay>().show_health(false);
-        if camera.is_some() {
-            restore_notice = retzar::lang::t(
-                "Salvataggio precedente: ripristinata la vista iniziale, senza stato della simulazione.",
-            )
-            .into();
-        }
     }
     world.insert_resource(ui);
     let selection = scene.selection.clone();

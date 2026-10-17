@@ -29,9 +29,9 @@ mod missions;
 mod overlay;
 mod own;
 
-pub use missions::{localize_mission, mission_language, mission_text, translate};
 #[cfg(test)]
 pub(crate) use missions::written_in;
+pub use missions::{localize_mission, mission_language, mission_text, translate};
 pub use overlay::{Mode, merge, names as overlay_names, overlays};
 
 #[derive(
@@ -180,35 +180,64 @@ pub fn detect(text: &str) -> Option<Language> {
     const WORDS: [(Option<Language>, &[&str]); 8] = [
         (
             Some(Language::Italian),
-            &["il", "di", "della", "delle", "che", "per", "non", "gli", "sono", "nel", "alla", "una"],
+            &[
+                "il", "di", "della", "delle", "che", "per", "non", "gli", "sono", "nel", "alla",
+                "una",
+            ],
         ),
         (
             Some(Language::English),
-            &["the", "of", "and", "to", "you", "your", "is", "with", "this", "are", "be", "an"],
+            &[
+                "the", "of", "and", "to", "you", "your", "is", "with", "this", "are", "be", "an",
+            ],
         ),
         (
             Some(Language::French),
-            &["le", "les", "des", "du", "et", "pour", "vous", "une", "est", "pas", "dans", "sur"],
+            &[
+                "le", "les", "des", "du", "et", "pour", "vous", "une", "est", "pas", "dans", "sur",
+            ],
         ),
         (
             Some(Language::German),
-            &["der", "die", "das", "und", "ist", "nicht", "sie", "mit", "den", "ein", "eine", "auf"],
+            &[
+                "der", "die", "das", "und", "ist", "nicht", "sie", "mit", "den", "ein", "eine",
+                "auf",
+            ],
         ),
         (
             Some(Language::Spanish),
-            &["el", "los", "las", "del", "que", "para", "con", "por", "una", "es", "se", "al"],
+            &[
+                "el", "los", "las", "del", "que", "para", "con", "por", "una", "es", "se", "al",
+            ],
         ),
         (
             Some(Language::Polish),
-            &["i", "w", "nie", "na", "się", "z", "do", "jest", "aby", "lub", "oraz", "jednostki"],
+            &[
+                "i",
+                "w",
+                "nie",
+                "na",
+                "się",
+                "z",
+                "do",
+                "jest",
+                "aby",
+                "lub",
+                "oraz",
+                "jednostki",
+            ],
         ),
         (
             Some(Language::Portuguese),
-            &["o", "os", "do", "da", "dos", "das", "não", "um", "uma", "com", "em", "ao", "você"],
+            &[
+                "o", "os", "do", "da", "dos", "das", "não", "um", "uma", "com", "em", "ao", "você",
+            ],
         ),
         (
             None,
-            &["a", "se", "je", "v", "ve", "s", "k", "pro", "jako", "nebo", "není", "jednotky"],
+            &[
+                "a", "se", "je", "v", "ve", "s", "k", "pro", "jako", "nebo", "není", "jednotky",
+            ],
         ),
     ];
     let mut counts: HashMap<String, usize> = HashMap::new();
@@ -220,7 +249,12 @@ pub fn detect(text: &str) -> Option<Language> {
     }
     let (language, score) = WORDS
         .iter()
-        .map(|(l, words)| (*l, words.iter().filter_map(|w| counts.get(*w)).sum::<usize>()))
+        .map(|(l, words)| {
+            (
+                *l,
+                words.iter().filter_map(|w| counts.get(*w)).sum::<usize>(),
+            )
+        })
         .max_by_key(|&(_, score)| score)?;
     language.filter(|_| score >= 20)
 }
@@ -364,11 +398,26 @@ mod tests {
     #[test]
     fn an_installation_s_language_is_told_by_its_texts() {
         for (language, strings) in [
-            (Language::English, include_str!("../languages/en/LOCAL/STRINGS.INI")),
-            (Language::French, include_str!("../languages/fr/LOCAL/STRINGS.INI")),
-            (Language::German, include_str!("../languages/de/LOCAL/STRINGS.INI")),
-            (Language::Spanish, include_str!("../languages/es/LOCAL/STRINGS.INI")),
-            (Language::Polish, include_str!("../languages/pl/LOCAL/STRINGS.INI")),
+            (
+                Language::English,
+                include_str!("../languages/en/LOCAL/STRINGS.INI"),
+            ),
+            (
+                Language::French,
+                include_str!("../languages/fr/LOCAL/STRINGS.INI"),
+            ),
+            (
+                Language::German,
+                include_str!("../languages/de/LOCAL/STRINGS.INI"),
+            ),
+            (
+                Language::Spanish,
+                include_str!("../languages/es/LOCAL/STRINGS.INI"),
+            ),
+            (
+                Language::Polish,
+                include_str!("../languages/pl/LOCAL/STRINGS.INI"),
+            ),
             (
                 Language::Portuguese,
                 include_str!("../languages/pt/LOCAL/STRINGS.INI"),

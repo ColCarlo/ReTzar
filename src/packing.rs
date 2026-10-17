@@ -157,7 +157,10 @@ fn archives(source: &Path) -> Result<Vec<(String, Archive)>> {
             out.push((name, archive));
         }
     }
-    if !out.iter().any(|(n, _)| n.eq_ignore_ascii_case("images.wdt")) {
+    if !out
+        .iter()
+        .any(|(n, _)| n.eq_ignore_ascii_case("images.wdt"))
+    {
         for (name, tops) in LOOSE {
             if out.iter().any(|(n, _)| n.eq_ignore_ascii_case(name)) {
                 continue;
@@ -168,7 +171,10 @@ fn archives(source: &Path) -> Result<Vec<(String, Archive)>> {
             }
         }
     }
-    if !out.iter().any(|(n, _)| n.eq_ignore_ascii_case("images.wdt")) {
+    if !out
+        .iter()
+        .any(|(n, _)| n.eq_ignore_ascii_case("images.wdt"))
+    {
         return Err(invalid(format!(
             "{}: Tzar non trovato (mancano Packs, o DATA e IMAGES)",
             source.display()

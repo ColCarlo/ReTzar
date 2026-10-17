@@ -158,10 +158,25 @@ fn saved(root: &Path) -> Option<PathBuf> {
     settings(root).get(KEY)?.as_str().map(PathBuf::from)
 }
 /// Keeps the chosen folder in `settings.json`, with the rest of it.
-fn save(root: &Path, folder: &Path) -> Result<()> {
+pub fn remember(root: &Path, folder: &Path) -> Result<()> {
     let mut s = settings(root);
     s[KEY] = folder.to_string_lossy().into_owned().into();
     crate::write_atomic(&root.join("settings.json"), &serde_json::to_vec_pretty(&s)?)
+}
+/// The questions in the player's language, before the game has started:
+/// the one of `settings.json`, else the default.
+pub(crate) fn speak(root: &Path) {
+    let language = settings(root)
+        .get("language")
+        .and_then(serde_json::Value::as_u64)
+        .map_or(crate::menu::Settings::default().language, |i| i as usize);
+    lang::set(Language::from_index(language));
+}
+/// Why the game does not start when no folder is chosen.
+pub(crate) fn refused() -> Box<dyn std::error::Error + Send + Sync> {
+    invalid(lang::t(
+        "Per giocare con ReTzar serve una copia originale di Tzar (dal CD, da GOG o da Steam): alla prossima partenza scegli la cartella in cui è installata.",
+    ))
 }
 
 /// Lets the portable copy start only beside an original copy of Tzar: the
@@ -172,17 +187,7 @@ pub fn require(root: &Path) -> Result<()> {
     if before.as_deref().is_some_and(holds) {
         return Ok(());
     }
-    // The questions in the player's language: the game has not started yet.
-    let language = settings(root)
-        .get("language")
-        .and_then(serde_json::Value::as_u64)
-        .map_or(crate::menu::Settings::default().language, |i| i as usize);
-    lang::set(Language::from_index(language));
-    let refused = || {
-        invalid(lang::t(
-            "Per giocare con ReTzar serve una copia originale di Tzar (dal CD, da GOG o da Steam): alla prossima partenza scegli la cartella in cui è installata.",
-        ))
-    };
+    speak(root);
     let mut start = before;
     loop {
         let chosen = crate::picker::folder(
@@ -191,7 +196,7 @@ pub fn require(root: &Path) -> Result<()> {
         )
         .ok_or_else(refused)?;
         if holds(&chosen) {
-            save(root, &chosen)?;
+            remember(root, &chosen)?;
             return Ok(());
         }
         if !crate::picker::confirm(&lang::fill(
