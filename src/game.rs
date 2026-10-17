@@ -40,8 +40,22 @@ pub fn open(
             let grid = MapGrid::read(&c, &m.header)?;
             let mut mission = MissionWorld::read(&c, &grid)?;
             mission.correct_map_errors(&grid.name);
+            let (no_fog, explored) = (mission.game_rules.no_fog, mission.game_rules.explored);
             if let Some(setup) = setup {
                 mission.apply_setup(setup);
+            }
+            // A campaign map keeps the fog and the exploration of its own
+            // header (0x441b93; `LoadMap` puts both back on, 0x424ba4),
+            // whatever the setup carried from earlier maps or saves.
+            if matches!(
+                selection,
+                Selection::Scenario {
+                    campaign: Some(_),
+                    ..
+                }
+            ) {
+                mission.game_rules.no_fog = no_fog;
+                mission.game_rules.explored = explored;
             }
             Ok(Opened {
                 biome: terrain::biome_of(&c.get(&m.header)?)?,

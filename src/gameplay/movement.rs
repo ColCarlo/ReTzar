@@ -218,7 +218,8 @@ fn group_path(
     let Some(cell) = (0..edge).map(|n| edge_cell(grown, end, n)).find(|&c| {
         cells.inside(c)
             && !entry.taken.iter().any(|&(q, _)| q == c)
-            && (cells.free(layer, c) || cells.at(c) & TRANSIT[layer] != 0)
+            && (enters(cells, lib, o, [c[0] as u16, c[1] as u16])
+                || cells.at(c) & TRANSIT[layer] != 0)
     }) else {
         return Some((path, None));
     };
@@ -247,9 +248,20 @@ fn on_map(sim: &Simulation, k: usize, o: &MapObject) -> bool {
         && o.flags & (FLAG_HELD | FLAG_DYING) == 0
         && !sim.objects.get(k).is_some_and(|s| s.holder.is_some())
 }
-/// 0x500b30 / 0x500c60: a moving object's cell in its own layer; without
-/// its occupancy bit when the open gate whose door it stands in comes after
-/// it.
+/// The cells of a unit of `size` standing at `p`, its rect from there, as
+/// 0x4e5190 and 0x4e54d0 walk them (by column, then row).
+pub(super) fn block(p: [u16; 2], size: [usize; 2]) -> impl Iterator<Item = [i32; 2]> {
+    let [x, y] = at(p);
+    let [w, h] = size.map(|n| n as i32);
+    (x..x + w).flat_map(move |cx| (y..y + h).map(move |cy| [cx, cy]))
+}
+/// The cells unit `o` stands on.
+pub(super) fn unit_block(lib: &ObjectLibrary, o: &MapObject) -> impl Iterator<Item = [i32; 2]> {
+    block([o.x, o.y], footprint(lib, o))
+}
+/// 0x500b30 / 0x500c60 for each cell of a moving object (0x4e5190,
+/// 0x4e54d0): its cells in its own layer; a cell keeps no occupancy bit when
+/// the open gate whose door it is comes after the object (`cleared`).
 fn mark_mover(
     cells: &mut Cells,
     sim: &Simulation,
@@ -257,17 +269,19 @@ fn mark_mover(
     k: usize,
     o: &MapObject,
     t: u64,
-    cleared: bool,
+    cleared: &dyn Fn(&Cells, [i32; 2]) -> bool,
 ) {
-    let p = [o.x as i32, o.y as i32];
     let layer = lib.layer(o);
-    if !cleared {
-        cells.set(p, OCCUPIED[layer], true);
-    }
-    if sim.gameplay.actors.get(k).is_some_and(|a| {
+    let transit = sim.gameplay.actors.get(k).is_some_and(|a| {
         a.transit && (a.movement.is_some() || a.walk.as_ref().is_some_and(|w| w.due_ms > t))
-    }) {
-        cells.set(p, TRANSIT[layer], true);
+    });
+    for p in unit_block(lib, o) {
+        if !cleared(cells, p) {
+            cells.set(p, OCCUPIED[layer], true);
+        }
+        if transit {
+            cells.set(p, TRANSIT[layer], true);
+        }
     }
 }
 /// The cells of the map with what stands on them (the occupy routines,
@@ -280,7 +294,7 @@ fn build(sim: &Simulation, m: &MissionWorld, g: &MapGrid, lib: &ObjectLibrary) -
             continue;
         }
         if mobile(o) {
-            mark_mover(&mut cells, sim, lib, k, o, t, false);
+            mark_mover(&mut cells, sim, lib, k, o, t, &|_, _| false);
         } else {
             occupy(&mut cells, lib, o, &mut Vec::new());
         }
@@ -749,16 +763,18 @@ fn with_movers(
     let mut marked = Vec::with_capacity(movers.len());
     for &k in movers {
         let o = &m.objects[k];
-        let p = [o.x as i32, o.y as i32];
-        let inside = cells.inside(p);
-        let cleared = inside
-            && fixed
-                .doors
-                .get(&cells.index(p))
-                .is_some_and(|&gate| gate > k);
-        mark_mover(&mut cells, sim, lib, k, o, t, cleared);
-        if inside {
-            marked.push(cells.index(p));
+        let cleared = |cells: &Cells, p: [i32; 2]| {
+            cells.inside(p)
+                && fixed
+                    .doors
+                    .get(&cells.index(p))
+                    .is_some_and(|&gate| gate > k)
+        };
+        mark_mover(&mut cells, sim, lib, k, o, t, &cleared);
+        for p in unit_block(lib, o) {
+            if cells.inside(p) {
+                marked.push(cells.index(p));
+            }
         }
     }
     marked.sort_unstable();
@@ -874,9 +890,10 @@ pub(super) fn reaches(p: [u16; 2], size: [u16; 2], rect: [i32; 4], range: u32) -
     let d = [q[0] - c[0], q[1] - c[1]];
     d[0] * d[0] + d[1] * d[1] <= 4 * (range as i64) * (range as i64)
 }
-/// The rect an object is approached by (vt+0x134): the 3×3 cells around a
-/// unit (0x501a20), the holder's for a carried unit, a building's
-/// footprint grown by one (0x41fd70).
+/// The rect an object is approached by (vt+0x134): a unit's picture cells
+/// (its `object` / 32, image record +0x9a) grown by one, the 3×3 cells
+/// around it without a picture (0x501a20); the holder's for a carried unit;
+/// a building's footprint grown by one (0x41fd70).
 pub(super) fn target_rect(
     sim: &Simulation,
     m: &MissionWorld,
@@ -892,7 +909,13 @@ pub(super) fn target_rect(
     }
     let o = &m.objects[j];
     let [x, y] = [o.x as i32, o.y as i32];
-    let [w, h] = footprint(lib, o).map(|n| n as i32);
+    let [w, h] = if world::class::is_unit(o.class) {
+        lib.image_for(o)
+            .map_or([1, 1], |section| lib.picture_cells(&section))
+    } else {
+        footprint(lib, o)
+    }
+    .map(|n| n as i32);
     [x - 1, y - 1, x + w, y + h]
 }
 /// The object's own cells.
@@ -995,6 +1018,7 @@ fn query(
         range: if cost == Cost::Land { range as i32 } else { 0 },
         repath,
         cost,
+        size: footprint(lib, o).map(|n| n as i32),
     }
 }
 /// A cell the unit could walk toward: a search finds a first step.
@@ -1023,8 +1047,21 @@ pub(super) fn land_near(
     let cells = &sim.gameplay.pathing.cells;
     (r[0] - 5..r[2] + 5).any(|x| (r[1] - 5..r[3] + 5).any(|y| cells.land([x, y])))
 }
-/// vt+0x90 (0x4e53a0) for a unit of one cell: it may step into the cell now
-/// (0x500bb0).
+/// vt+0x90 (0x4e53a0): the unit may step into the cell now; a unit of one
+/// cell by the cell (0x500bb0), a large one by its layer's large cost
+/// function with the cells it stands on left out.
+fn enters(cells: &Cells, lib: &ObjectLibrary, o: &MapObject, p: [u16; 2]) -> bool {
+    let layer = lib.layer(o);
+    match footprint(lib, o) {
+        [1, 1] => cells.free(layer, at(p)),
+        size => cells.large_step(
+            layer,
+            size.map(|n| n as i32),
+            [o.x as i32, o.y as i32],
+            at(p),
+        ),
+    }
+}
 pub(super) fn can_step(
     sim: &mut Simulation,
     m: &MissionWorld,
@@ -1034,12 +1071,10 @@ pub(super) fn can_step(
     p: [u16; 2],
 ) -> bool {
     ensure(sim, m, g, lib);
-    let layer = lib.layer(&m.objects[i]);
-    sim.gameplay
-        .pathing
-        .cells
-        .free(layer, [p[0] as i32, p[1] as i32])
+    enters(&sim.gameplay.pathing.cells, lib, &m.objects[i], p)
 }
+/// The moving unit of `layer` standing on cell `p` (a large one on any of
+/// its cells, as the lists of the cells hold it, 0x44d5b0).
 fn occupant(
     sim: &Simulation,
     m: &MissionWorld,
@@ -1050,21 +1085,20 @@ fn occupant(
 ) -> Option<usize> {
     m.objects.iter().enumerate().position(|(k, o)| {
         k != except
-            && [o.x, o.y] == p
             && mobile(o)
             && alive(o)
             && sim.objects.get(k).is_some_and(|s| s.holder.is_none())
             && lib.layer(o) == layer
+            && unit_block(lib, o).any(|c| c == at(p))
     })
 }
 fn clear_transit(sim: &mut Simulation, m: &MissionWorld, lib: &ObjectLibrary, i: usize) {
     if std::mem::take(&mut sim.gameplay.actors[i].transit) {
         let o = &m.objects[i];
         let layer = lib.layer(o);
-        sim.gameplay
-            .pathing
-            .cells
-            .set([o.x as i32, o.y as i32], TRANSIT[layer], false);
+        for p in unit_block(lib, o) {
+            sim.gameplay.pathing.cells.set(p, TRANSIT[layer], false);
+        }
     }
 }
 
@@ -1144,20 +1178,23 @@ fn begin(
         mv.waits = 0;
     }
     let cells = &sim.gameplay.pathing.cells;
-    if cells.free(layer, at(next)) {
+    if enters(cells, lib, &m.objects[i], next) {
         return step(sim, m, lib, i, next, t, jump);
     }
-    if cells.inside(at(next)) && cells.at(at(next)) & TRANSIT[layer] != 0 {
-        if let Some(k) = occupant(sim, m, lib, layer, next, i)
-            && sim.gameplay.actors[k].waiting_for != Some(here)
-        {
-            let a = &mut sim.gameplay.actors[i];
-            a.waiting_for = Some(next);
-            if let Some(mv) = a.movement.as_mut() {
-                mv.state = 2;
-            }
-            return Begin::Wait;
+    // 0x4dec92: a unit entering one of the cells (a large unit looks at
+    // each cell of its rect there) is waited for.
+    let entering = block(next, footprint(lib, &m.objects[i]))
+        .filter(|&c| cells.inside(c) && cells.at(c) & TRANSIT[layer] != 0)
+        .find_map(|c| occupant(sim, m, lib, layer, [c[0] as u16, c[1] as u16], i));
+    if let Some(k) = entering
+        && sim.gameplay.actors[k].waiting_for != Some(here)
+    {
+        let a = &mut sim.gameplay.actors[i];
+        a.waiting_for = Some(next);
+        if let Some(mv) = a.movement.as_mut() {
+            mv.state = 2;
         }
+        return Begin::Wait;
     }
     // Head on, or a unit standing there: search again avoiding units on the
     // move too (flag 1).
@@ -1169,7 +1206,7 @@ fn begin(
         return Begin::Failed;
     };
     sim.gameplay.actors[i].path = path;
-    if sim.gameplay.pathing.cells.free(layer, at(next)) {
+    if enters(&sim.gameplay.pathing.cells, lib, &m.objects[i], next) {
         step(sim, m, lib, i, next, t, false)
     } else {
         if let Some(mv) = sim.gameplay.actors[i].movement.as_mut() {
@@ -1194,9 +1231,14 @@ fn step(
 ) -> Begin {
     let here = [m.objects[i].x, m.objects[i].y];
     let layer = lib.layer(&m.objects[i]);
+    let size = footprint(lib, &m.objects[i]);
     let cells = &mut sim.gameplay.pathing.cells;
-    cells.set(at(here), OCCUPIED[layer] | TRANSIT[layer], false);
-    cells.set(at(next), OCCUPIED[layer] | TRANSIT[layer], true);
+    for p in block(here, size) {
+        cells.set(p, OCCUPIED[layer] | TRANSIT[layer], false);
+    }
+    for p in block(next, size) {
+        cells.set(p, OCCUPIED[layer] | TRANSIT[layer], true);
+    }
     let rows = jump
         .then(|| {
             lib.images
@@ -1337,13 +1379,13 @@ fn op(sim: &mut Simulation, m: &mut MissionWorld, lib: &ObjectLibrary, i: usize,
             }
             if let Some(&next) = sim.gameplay.actors[i].path.front() {
                 let cells = &sim.gameplay.pathing.cells;
-                if cells.free(layer, at(next)) {
+                if enters(cells, lib, &m.objects[i], next) {
                     return begun(begin(sim, m, lib, i, t));
                 }
                 // 0x4df043: a gate's cells keep the unit waiting too.
                 if waits < 10
-                    && cells.inside(at(next))
-                    && cells.at(at(next)) & (TRANSIT[layer] | GATEWAY) != 0
+                    && block(next, footprint(lib, &m.objects[i]))
+                        .any(|c| cells.inside(c) && cells.at(c) & (TRANSIT[layer] | GATEWAY) != 0)
                 {
                     return Op::Again(WAIT_MS);
                 }
@@ -1553,6 +1595,7 @@ pub fn air_path(sim: &Simulation, from: [i32; 2], to: [i32; 2]) -> Vec<[i32; 2]>
         range: 0,
         repath: false,
         cost: Cost::Air,
+        size: [1, 1],
     };
     pathing::search(
         &sim.gameplay.pathing.cells,

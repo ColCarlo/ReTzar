@@ -1831,6 +1831,9 @@ fn original_click_reaches_units_trees_and_a_box_empties_the_selection() {
                 v
             })
             .collect();
+        // The whole map in view: the picking is tested here, not the fog.
+        s.mission.game_rules.no_fog = true;
+        s.mission.game_rules.explored = true;
         s.mission.simulation = Some(retzar::simulation::Simulation::new(
             &s.mission, &s.library, s.side, &s.biome,
         ));

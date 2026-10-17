@@ -797,9 +797,13 @@ impl GameRules {
     }
     pub fn from_header(header: &[u8]) -> Self {
         let byte = |at| header.get(at).copied().unwrap_or(1);
+        // 0x4c6fa0, 0x4292ec: the fog is on with byte 0x4e at 0 (0x5877a4)
+        // and the map unexplored with byte 0x4f at 0 (0x5cf6e0), as in every
+        // map of the game.
+        let set = |at| header.get(at).is_some_and(|&b| b != 0);
         Self {
-            no_fog: byte(0x4e) == 0,
-            explored: byte(0x4f) == 0,
+            no_fog: set(0x4e),
+            explored: set(0x4f),
             population: word(header, 0x128).unwrap_or(200) as usize,
             difficulty: if byte(0x50) < 3 {
                 byte(0x50) as usize
@@ -1403,6 +1407,16 @@ pub fn shadow_lift(class: usize) -> [f32; 2] {
         15 | 22 => [20., 35.],
         32 | class::EAGLE => [40., 70.],
         _ => [0., 0.],
+    }
+}
+/// The cells a unit stands on (+0x1a, +0x1c), as its constructor sets them:
+/// 2×2 for the trader (0x4ed490), the catapults and the ballista (their base
+/// 0x4e7480), the galleon, the hulk and the xebec (0x4ea8e0, 0x4eab50,
+/// 0x4ea9b0) and the dragon (0x4ee910); one cell for the others (0x4ffb30).
+pub fn unit_cells(class: usize) -> [usize; 2] {
+    match class {
+        2 | 19 | 20 | 21 | 23 | 24 | 25 | 32 => [2, 2],
+        _ => [1, 1],
     }
 }
 /// The shadow of a dying flier at row `row` of its death (0x4e7ae0): each
@@ -3131,6 +3145,20 @@ pub fn add_cliffs(
 #[cfg(test)]
 mod tests {
     use super::*;
+    #[test]
+    fn a_header_at_zero_keeps_the_fog_and_the_unexplored_map() {
+        // 0x4c6fa0: the setup dialog ticks the fog for byte 0x4e at 0 and
+        // the unexplored map for byte 0x4f at 0.
+        let mut header = vec![0u8; 0x130];
+        let rules = GameRules::from_header(&header);
+        assert!(!rules.no_fog && !rules.explored);
+        header[0x4e] = 1;
+        header[0x4f] = 1;
+        let rules = GameRules::from_header(&header);
+        assert!(rules.no_fog && rules.explored);
+        let rules = GameRules::from_header(&[]);
+        assert!(!rules.no_fog && !rules.explored);
+    }
     /// A record of `<map>.sounds` as the editor writes it.
     pub(crate) fn sound_record(
         sound: &str,

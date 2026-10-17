@@ -1,6 +1,12 @@
-The first release of ReTzar, a fan remake of **Tzar: The Burden of the Crown**, rebuilt from scratch in Rust and Bevy and kept as close to the original as possible.
+ReTzar is a fan remake of **Tzar: The Burden of the Crown**, rebuilt from scratch in Rust and Bevy and kept as close to the original as possible.
 
 ![A castle, an army and a walled town](https://github.com/ColCarlo/ReTzar/raw/main/screenshots/1-castle-and-army.jpg)
+
+## What's new in 1.0.1
+
+- **Fog of war in the campaigns**: a campaign mission starts under the fog again, as its map says. Some started with the whole map explored, such as the first mission of The Burden of the Crown.
+- **Large units take 2×2 cells, as in the original**: the dragon, catapults, ballistas, traders and carts, galleons, hulks and xebecs. They walk, wait and find their way as big as they are, no longer slipping through gaps meant for a single cell. They aim from their centre and face what they strike, so the dragon now attacks right next to a building, and they are hit across their whole size.
+- **Landings**: a ship unloads when any cell around its whole hull is shore, as in the original. Before, large ships could fail to land their troops.
 
 ## How to play
 
@@ -9,6 +15,8 @@ The first release of ReTzar, a fan remake of **Tzar: The Burden of the Crown**, 
 3. The first time, choose the folder where Tzar is installed (GOG, Steam or CD, any language). ReTzar checks it and makes its game data from it in about a minute; after that it starts straight away.
 
 Windows may say that it protected your PC, since the game isn't signed: click **More info**, then **Run anyway**.
+
+Coming from 1.0.0: unzip the new version over the old `ReTzar` folder and let it replace ReTzar.exe. The game data, settings and saves in that folder are kept.
 
 ## What's in it
 

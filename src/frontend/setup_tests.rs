@@ -171,7 +171,9 @@ fn setup_controls_reach_world_and_restore_map_defaults_without_starting_gameplay
         state.activate(Action::Setup).unwrap();
         assert!(state.setup_map_defaults);
         assert_eq!(state.setup_players, 5);
-        assert!(state.setup_options.no_fog && state.setup_options.explored);
+        // 0x4c6fa0: the map's 0 at 0x4e and 0x4f ticks the fog and the
+        // unexplored map.
+        assert!(!state.setup_options.no_fog && !state.setup_options.explored);
         assert_eq!(state.setup_rows[1].race, 3, "Use kingdominfo byte 88");
         // 0x4c4282, 0x4c6b01: every row starts without a team, and with the
         // map's details colour and team cannot change.
@@ -301,7 +303,7 @@ fn setup_controls_reach_world_and_restore_map_defaults_without_starting_gameplay
         assert_eq!(m.player(), 2);
         assert_eq!(m.active_kingdoms().count(), 4);
         assert_eq!(m.game_rules.population, 50);
-        assert!(!m.game_rules.no_fog && !m.game_rules.explored);
+        assert!(m.game_rules.no_fog && m.game_rules.explored);
         assert_eq!(m.player_kingdom().unwrap().resources, [5000; 4]);
         for (owner, _) in m.active_kingdoms() {
             let forces: Vec<_> = m

@@ -4571,9 +4571,13 @@ fn position(o: &mut MapObject, p: [u16; 2]) {
         o.data[10..12].copy_from_slice(&p[1].to_le_bytes());
     }
 }
+/// The cells an object stands on (+0x1a, +0x1c): a building's and a mine's
+/// by their picture, a unit's by its class ([`world::unit_cells`]).
 fn footprint(lib: &ObjectLibrary, o: &MapObject) -> [usize; 2] {
     if o.building() || matches!(o.class, class::RES_GOLD | class::RES_STONE) {
         lib.cell_footprint(o)
+    } else if world::class::is_unit(o.class) {
+        world::unit_cells(o.class)
     } else {
         [1, 1]
     }
@@ -5923,7 +5927,14 @@ fn step_off(
     j: usize,
 ) -> bool {
     let (rect, start) = way_out(sim, m, lib, h, j);
-    let Some(q) = exit_cell(sim, rect, start, 1, 8) else {
+    // 0x504691: a large unit by 0x5077a0, in its own movement type.
+    let size = footprint(lib, &m.objects[j]);
+    let place = if size == [1, 1] {
+        exit_cell(sim, rect, start, 1, 8)
+    } else {
+        large_exit(sim, rect, lib.layer(&m.objects[j]), size)
+    };
+    let Some(q) = place else {
         return false;
     };
     leave(sim, m, h, j, q);
@@ -9089,6 +9100,34 @@ fn exit_cell(
             && sim.gameplay.pathing.cells.spawnable(p, kind)
     })
 }
+/// 0x5077a0, the place of a large unit of `size` leaving a holder: the edge
+/// of `rect` walked clockwise from its top left corner within the map
+/// (0x401be0, 0x401c90), the first corner whose cells all take an object of
+/// movement type `kind` (0x507730 → 0x5072a0), the rect grown by one cell
+/// after each round.
+fn large_exit(sim: &Simulation, rect: [i32; 4], kind: usize, size: [usize; 2]) -> Option<[u16; 2]> {
+    let cells = &sim.gameplay.pathing.cells;
+    let side = cells.side as i32;
+    let [w, h] = size.map(|n| n as i32);
+    let [mut x1, mut y1, mut x2, mut y2] = rect;
+    for _ in 0..side {
+        let mut edge = Vec::new();
+        edge.extend((x1..=x2).map(|x| [x, y1]));
+        edge.extend((y1 + 1..=y2).map(|y| [x2, y]));
+        edge.extend((x1..x2).rev().map(|x| [x, y2]));
+        edge.extend((y1 + 1..y2).rev().map(|y| [x1, y]));
+        for p in edge {
+            if p[0] < 0 || p[1] < 0 || p[0] > side - w - 1 || p[1] > side - h - 1 {
+                continue;
+            }
+            if movement::block([p[0] as u16, p[1] as u16], size).all(|c| cells.spawnable(c, kind)) {
+                return Some([p[0] as u16, p[1] as u16]);
+            }
+        }
+        (x1, y1, x2, y2) = (x1 - 1, y1 - 1, x2 + 1, y2 + 1);
+    }
+    None
+}
 /// Where 0x504550, given no point, lets `j` out of `h`: a holder standing
 /// on the map (its sector +0x1e set) around its own rectangle, from the cell
 /// `j` came in by while the holder has not moved since (+0x12/+0x14); a
@@ -10485,14 +10524,19 @@ fn work(
                 return;
             }
             let ship = naval(&o);
-            let shore = (o.y.saturating_sub(2)..=o.y.saturating_add(2)).any(|y| {
-                (o.x.saturating_sub(2)..=o.x.saturating_add(2)).any(|x| {
-                    (x as usize) < g.side && (y as usize) < g.side && {
-                        let cell = g.cells[y as usize * g.side + x as usize];
-                        cell & 0xfc00 == 0 && (cell >> 4) & 7 != 0 && (cell >> 7) & 7 != 0
-                    }
+            // 0x4e87c0(2): a cell not of water from two cells before the
+            // ship to one past its size (x − 2 to x + w, y − 2 to y + h),
+            // within the map.
+            let shore = {
+                let [w, h] = footprint(lib, &o).map(|n| n as i32);
+                let side = g.side as i32;
+                let span =
+                    |at: u16, size: i32| (at as i32 - 2).max(0)..(at as i32 + size + 1).min(side);
+                let cells = &sim.gameplay.pathing.cells;
+                span(o.y, h).any(|y| {
+                    span(o.x, w).any(|x| cells.at([x, y]) & pathing::KIND != pathing::WATER)
                 })
-            });
+            };
             if shore || !ship {
                 let contents = sim.objects[i].contents.clone();
                 for j in contents {

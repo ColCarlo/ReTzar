@@ -7,7 +7,7 @@ use std::collections::HashMap;
 
 // The first word of a cell (0x5ccaf4): 16 tile bits, then these.
 pub(crate) const STATIC: u32 = 1 << 16;
-const KIND: u32 = 3 << 17;
+pub(crate) const KIND: u32 = 3 << 17;
 pub(crate) const LAND: u32 = 1 << 17;
 pub(crate) const WATER: u32 = 2 << 17;
 pub(crate) const WALL: u32 = 1 << 20;
@@ -135,6 +135,7 @@ impl Cells {
             range: 0,
             repath: false,
             cost,
+            size: [1, 1],
         };
         self.inside(p) && self.cost(&q, None, None, p).is_some()
     }
@@ -147,6 +148,9 @@ impl Cells {
         from: Option<[i32; 2]>,
         to: [i32; 2],
     ) -> Option<u32> {
+        if q.size != [1, 1] && matches!(q.cost, Cost::Land | Cost::Water | Cost::Air) {
+            return self.large_cost(q, from, to);
+        }
         let w = self.at(to);
         let layer = match q.cost {
             // 0x4a99a0: the ninja climbs a wall or a cliff for 800 from the
@@ -190,6 +194,68 @@ impl Cells {
             _ => 16,
         })
     }
+    /// The cost functions of a large unit (land 0x4a9be0, water 0x4a9d80, air
+    /// 0x4a9ed0): every cell of its rect at `to`, but those it stands on at
+    /// the start of the search, lies on the map and is of its terrain (land
+    /// as 0x4a9820 sees it; water of kind 2, whatever stands on its tile),
+    /// with nothing of its layer on it, and moving units only on a re-path,
+    /// as against the cost functions of a single cell.
+    fn large_cost(&self, q: &Query, from: Option<[i32; 2]>, to: [i32; 2]) -> Option<u32> {
+        let [w, h] = q.size;
+        let own = [
+            q.start[0],
+            q.start[1],
+            q.start[0] + w - 1,
+            q.start[1] + h - 1,
+        ];
+        let layer = match q.cost {
+            Cost::Air => 0,
+            Cost::Water => 2,
+            _ => 1,
+        };
+        for x in to[0]..to[0] + w {
+            for y in to[1]..to[1] + h {
+                if within(own, [x, y]) {
+                    continue;
+                }
+                if !self.inside([x, y]) {
+                    return None;
+                }
+                let c = self.at([x, y]);
+                let terrain = match layer {
+                    0 => true,
+                    2 => c & KIND == WATER,
+                    _ => c & BLOCKED == 0 && self.ground(c),
+                };
+                if !terrain || c & OCCUPIED[layer] != 0 || (c & TRANSIT[layer] != 0 && !q.repath) {
+                    return None;
+                }
+            }
+        }
+        Some(match from {
+            Some(f) if f[0] != to[0] && f[1] != to[1] => 22,
+            _ => 16,
+        })
+    }
+    /// A large unit standing at `here` may step to `to` now (vt+0x90 =
+    /// 0x4e53a0): its layer's large cost function, with no flags and no
+    /// step before.
+    pub fn large_step(&self, layer: usize, size: [i32; 2], here: [i32; 2], to: [i32; 2]) -> bool {
+        let cost = match layer {
+            0 => Cost::Air,
+            2 => Cost::Water,
+            _ => Cost::Land,
+        };
+        let q = Query {
+            start: here,
+            rect: [to[0], to[1], to[0], to[1]],
+            range: 0,
+            repath: false,
+            cost,
+            size,
+        };
+        self.large_cost(&q, None, to).is_some()
+    }
     /// The cell is land (its kind, `& 0x60000 == 0x20000`).
     pub fn land(&self, p: [i32; 2]) -> bool {
         self.inside(p) && self.at(p) & KIND == LAND
@@ -210,6 +276,7 @@ impl Cells {
                     range: 0,
                     repath: false,
                     cost,
+                    size: [1, 1],
                 };
                 self.cost(&q, None, None, p).is_some() && w & TRANSIT[layer] == 0
             }
@@ -238,6 +305,9 @@ pub(crate) struct Query {
     /// Flag 1: a re-path after a block also avoids moving units.
     pub repath: bool,
     pub cost: Cost,
+    /// The searcher's cells (+0x4, +0x6 of the context), more than one for
+    /// a large unit (0x4df59d, 0x4e857c, 0x4e79dc).
+    pub size: [i32; 2],
 }
 
 /// trunc(√(dx² + dy²) · 16), 0x4aada0.
@@ -1197,6 +1267,7 @@ mod tests {
             range: 0,
             repath: false,
             cost: Cost::Land,
+            size: [1, 1],
         }
     }
 

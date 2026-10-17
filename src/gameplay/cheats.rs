@@ -189,7 +189,14 @@ pub fn spawn_site(
         return site_test(sim, m, g, lib, o);
     }
     let cells = movement::cells_now(sim, m, g, lib);
-    let [w, h] = super::footprint(lib, o).map(|n| n as i32);
+    // 0x4e4bb4 → 0x4e5220 with no flags: a large unit is tested by vt+0x90
+    // from its own cells, which leaves them all out; this version still
+    // asks the first cell free in its layer, as for any unit.
+    let [w, h] = if crate::world::class::is_unit(o.class) {
+        [1, 1]
+    } else {
+        super::footprint(lib, o).map(|n| n as i32)
+    };
     let layer = lib.layer(o);
     (0..h).all(|dy| (0..w).all(|dx| cells.free(layer, [o.x as i32 + dx, o.y as i32 + dy])))
 }

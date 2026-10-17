@@ -228,6 +228,13 @@ impl Play {
         )
         .is_ok()
     }
+    /// A player's attack under the fog: the attack, or, on a target the
+    /// game refuses because the fog hides it, a walk to where the mission
+    /// says it is; whether an order was taken.
+    fn close_in(&mut self, ids: &[u16], target: u16) -> bool {
+        let at = self.at(target);
+        self.try_order("attack", ids, at, Some(target)) || self.try_order("move", ids, at, None)
+    }
     /// Walks `id` into the area `r` and plays until `done`.
     fn go(&mut self, id: u16, r: [u16; 4], seconds: u64, done: impl Fn(&mut Play) -> bool) {
         self.go_to(id, [(r[0] + r[2]) / 2, (r[1] + r[3]) / 2], seconds, done);
@@ -704,13 +711,13 @@ fn the_rebel_nobles_is_won_by_hunting_the_scouts_and_crushing_the_rebels() {
                     .iter()
                     .find(|o| o.owner == 8 && alive(o) && crate::selection::unit(o))
                     .map(|o| (o.id, [o.x, o.y]));
-            if let Some((id, at)) = scout {
+            if let Some((id, _)) = scout {
                 let free: Vec<u16> = knights
                     .iter()
                     .copied()
                     .filter(|&k| alive(&p.m.objects[p.obj(k)]))
                     .collect();
-                p.order("attack", &free, at, Some(id));
+                p.close_in(&free, id);
             }
         }
         p.fired("capturaexplorer")
@@ -771,13 +778,13 @@ fn the_rebel_nobles_is_won_by_hunting_the_scouts_and_crushing_the_rebels() {
                 };
                 let o = &p.m.objects[p.obj(first)];
                 let from = [o.x as i32, o.y as i32];
-                let (id, at) = *rebels
+                let (id, _) = *rebels
                     .iter()
                     .min_by_key(|(_, a)| {
                         (a[0] as i32 - from[0]).abs() + (a[1] as i32 - from[1]).abs()
                     })
                     .unwrap();
-                p.order("attack", &ours, at, Some(id));
+                p.close_in(&ours, id);
             }
         }
         p.sim.gameplay.script.next_map.is_some()
@@ -1378,32 +1385,76 @@ fn the_holy_grail_is_won_by_raising_a_cathedral_in_sarras_and_bringing_it_back()
     let oat = p.at(outpost);
     p.order("context", &heroes, oat, Some(outpost));
     let held = p.obj(outpost);
-    let arrived = p.until(300, |p| {
+    // Bandits sack Sarras from the start and the defence of the city is
+    // not played: its European peasants, who will lay the cathedral, take
+    // shelter in the outpost too (its `[accept]` takes peasants).
+    let europeans: Vec<u16> =
+        p.m.objects
+            .iter()
+            .filter(|o| o.owner == 1 && alive(o) && o.class == class::PEON && o.civilization == 1)
+            .map(|o| o.id)
+            .collect();
+    p.order("context", &europeans, oat, Some(outpost));
+    // The carts are 2×2 (0x4ed490): they pass the narrow ways one by one and
+    // string out, so the knights strike whoever comes near any cart still on
+    // the road; the escort goes on until each is in.
+    let rules = ["carrom01", "carrom02", "carrop01", "carrop02"];
+    let arrived = p.until(900, |p| {
         if p.sim.ticks % 60 == 0 {
-            let grail = p.at(7);
-            if let Some(&(_, j, at, _)) = p.foes_near(grail, 10, &[2, 4, 5, 7, 8, 9]).first() {
-                let id = p.m.objects[j].id;
+            let on_road: Vec<u16> = carts
+                .iter()
+                .copied()
+                .filter(|&c| {
+                    let i = p.obj(c);
+                    alive(&p.m.objects[i]) && p.m.objects[i].flags & FLAG_INACTIVE == 0
+                })
+                .collect();
+            let threat = on_road.iter().find_map(|&c| {
+                p.foes_near(p.at(c), 10, &[2, 4, 5, 7, 8, 9, 10])
+                    .first()
+                    .map(|&(_, j, at, _)| (p.m.objects[j].id, at))
+            });
+            if let Some((id, at)) = threat {
                 for &k in &knights {
                     if alive(&p.m.objects[p.obj(k)]) && !p.fighting(k) {
                         p.try_order("attack", &[k], at, Some(id));
                     }
                 }
             }
-            for &cart in &carts {
-                let i = p.obj(cart);
-                if alive(&p.m.objects[i])
-                    && p.m.objects[i].flags & FLAG_INACTIVE == 0
-                    && p.sim.gameplay.actors[i].intent.is_none()
-                {
+            for &cart in &on_road {
+                if p.sim.gameplay.actors[p.obj(cart)].intent.is_none() {
                     p.try_order("move", &[cart], sarras, None);
                 }
             }
         }
-        p.fired("carroenlazona")
+        p.fired("carroenlazona") && rules.iter().all(|r| p.fired(r))
     });
-    assert!(arrived, "{}", p.trace_tail());
-    for rule in ["carrom01", "carrom02", "carrop01", "carrop02"] {
-        assert!(p.fired(rule), "{rule}: {}", p.trace_tail());
+    let where_carts = |p: &Play| {
+        carts
+            .iter()
+            .map(|&c| {
+                let i = p.obj(c);
+                (
+                    c,
+                    p.at(c),
+                    p.m.objects[i].health,
+                    p.sim.gameplay.actors[i].intent.clone(),
+                    p.sim.gameplay.actors[i]
+                        .movement
+                        .as_ref()
+                        .map(|m| (m.state, m.failed)),
+                )
+            })
+            .collect::<Vec<_>>()
+    };
+    assert!(arrived, "{:?} {}", where_carts(&p), p.trace_tail());
+    for rule in rules {
+        assert!(
+            p.fired(rule),
+            "{rule}: {:?} {}",
+            where_carts(&p),
+            p.trace_tail()
+        );
     }
     assert_eq!(p.m.kingdoms[0].resources, [0, 3000, 0, 3000]);
     // Some hundred bandits (owner 10) camp round Sarras and followed the
@@ -1424,6 +1475,12 @@ fn the_holy_grail_is_won_by_raising_a_cathedral_in_sarras_and_bringing_it_back()
         "{:?}",
         heroes.map(|h| (p.at(h), p.sim.objects[p.obj(h)].holder))
     );
+    // The peasants are let out one by one from the outpost's inventory
+    // (0x4a1c8c); the knights stay in.
+    for &e in &europeans {
+        assert_eq!(p.sim.objects[p.obj(e)].holder, Some(held), "#{e}");
+        p.order("leave", &[outpost], oat, Some(e));
+    }
     // A cathedral before nightfall: 2000 gold and 2000 stone. Sarras has a
     // gold mine but nowhere to bring the gold: the peasants raise a storage
     // by the mine, dig, and a European one lays the cathedral (the city's
@@ -1842,7 +1899,27 @@ fn the_rise_of_temujin_is_won_by_uniting_the_steppe() {
     for to in [[200u16, 135u16], [326, 252]] {
         let ids = living(&p);
         p.order("move", &ids, to, None);
-        assert!(p.until(300, |p| living(p).iter().all(|&id| gap(p.at(id), to) <= 5)));
+        // A relative whose walk failed in the crowd at the breach is sent
+        // again, as a player clicks once more.
+        assert!(
+            p.until(300, |p| {
+                if p.sim.ticks % 40 == 0 {
+                    let idle: Vec<u16> = living(p)
+                        .into_iter()
+                        .filter(|&id| {
+                            gap(p.at(id), to) > 5
+                                && p.sim.gameplay.actors[p.obj(id)].intent.is_none()
+                        })
+                        .collect();
+                    if !idle.is_empty() {
+                        p.try_order("move", &idle, to, None);
+                    }
+                }
+                living(p).iter().all(|&id| gap(p.at(id), to) <= 5)
+            }),
+            "{}",
+            p.trace_tail()
+        );
     }
     assert!(alive(&p.m.objects[p.obj(240)]), "Temujín");
     // The clan has 100 wood: a lumber mill by the trees, then the wood of
@@ -2760,10 +2837,9 @@ fn the_third_lesson_is_won_by_two_barracks_and_the_hunt_of_the_raiders() {
             if p.sim.ticks % 40 == 0 && !left.is_empty() && !army.is_empty() {
                 let here = p.at(army[0]);
                 let f = *left.iter().min_by_key(|&&f| gap(p.at(f), here)).unwrap();
-                let at = p.at(f);
                 for &u in &army {
                     if !p.fighting(u) {
-                        p.try_order("attack", &[u], at, Some(f));
+                        p.close_in(&[u], f);
                     }
                 }
             }
@@ -2905,18 +2981,82 @@ fn the_fourth_lesson_is_won_by_a_fleet_and_a_landing_on_the_island() {
         foes.is_empty() || ours.is_empty()
     });
     // The hulk crosses and sets the troops down on the island's western
-    // end.
-    p.order("unload", &[hulk], [55, 72], None);
+    // end, from the water by the shore a 2×2 hull reaches (0x4eab50); under
+    // the towers' fire it answers them, and the unloading is given again,
+    // as a player clicks once more.
+    p.order("unload", &[hulk], [52, 69], None);
     assert!(
-        p.until(200, |p| troops
-            .iter()
-            .all(|&u| p.sim.objects[p.obj(u)].holder.is_none())),
+        p.until(200, |p| {
+            let h = p.obj(hulk);
+            if p.sim.ticks % 20 == 0
+                && alive(&p.m.objects[h])
+                && !matches!(p.sim.gameplay.actors[h].intent, Some(Intent::Unload(_)))
+                && !p.sim.objects[h].contents.is_empty()
+            {
+                p.try_order("unload", &[hulk], [52, 69], None);
+            }
+            troops
+                .iter()
+                .all(|&u| p.sim.objects[p.obj(u)].holder.is_none())
+        }),
         "{:?}",
         p.at(hulk)
     );
-    for &u in &troops {
+    // On the island: each one still living reaches the red camp by land
+    // (those the towers' shots killed aboard took their share of the hits
+    // on the hulk, 0x504900).
+    let camp =
+        p.m.objects
+            .iter()
+            .find(|o| o.owner == 2 && alive(o) && o.building())
+            .unwrap();
+    let r = movement::footprint_rect(&p.lib, camp);
+    let cells = &p.sim.gameplay.pathing.cells;
+    let landed: Vec<u16> = troops
+        .iter()
+        .copied()
+        .filter(|&u| alive(&p.m.objects[p.obj(u)]))
+        .collect();
+    assert!(
+        !landed.is_empty(),
+        "{:?} {:?} {:?}",
+        p.at(hulk),
+        p.sim.gameplay.actors[p.obj(hulk)].intent,
+        troops
+            .iter()
+            .map(|&u| {
+                let i = p.obj(u);
+                (p.at(u), p.sim.objects[i].holder, p.m.objects[i].health)
+            })
+            .collect::<Vec<_>>()
+    );
+    for &u in &landed {
         let at = p.at(u);
-        assert!(at[0] >= 53 && at[1] >= 62, "#{u} {at:?}");
+        let mut seen = std::collections::HashSet::from([[at[0] as i32, at[1] as i32]]);
+        let mut queue = std::collections::VecDeque::from([[at[0] as i32, at[1] as i32]]);
+        let mut reached = false;
+        while let Some(c) = queue.pop_front() {
+            if (r[0] - 1..=r[2] + 1).contains(&c[0]) && (r[1] - 1..=r[3] + 1).contains(&c[1]) {
+                reached = true;
+                break;
+            }
+            for d in [
+                [1, 0],
+                [-1, 0],
+                [0, 1],
+                [0, -1],
+                [1, 1],
+                [1, -1],
+                [-1, 1],
+                [-1, -1],
+            ] {
+                let n = [c[0] + d[0], c[1] + d[1]];
+                if cells.land(n) && seen.insert(n) {
+                    queue.push_back(n);
+                }
+            }
+        }
+        assert!(reached, "#{u} {at:?}, the hulk at {:?}", p.at(hulk));
     }
     assert!(!p.fired("Player win"));
     // The fight for the camp is not played: whatever the red kingdom has
@@ -3063,13 +3203,12 @@ fn the_fifth_lesson_is_won_by_catapults_against_the_towers() {
             if p.sim.ticks % 60 == 0 && !towers.is_empty() && !cs.is_empty() {
                 let here = p.at(cs[0]);
                 let tower = *towers.iter().min_by_key(|&&w| gap(p.at(w), here)).unwrap();
-                let at = p.at(tower);
                 let j = p.obj(tower);
                 for &x in &cs {
                     let i = p.obj(x);
                     if !matches!(p.sim.gameplay.actors[i].intent, Some(Intent::Attack(k)) if k == j)
                     {
-                        p.try_order("attack", &[x], at, Some(tower));
+                        p.close_in(&[x], tower);
                     }
                 }
                 let escort: Vec<u16> = army

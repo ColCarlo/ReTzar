@@ -271,6 +271,38 @@ fn map_monks_and_priests_start_at_their_kingdoms_level() {
 
 #[test]
 #[ignore = "Requires installed original archives"]
+fn a_campaign_map_starts_under_the_fog_whatever_the_setup_carries() {
+    let root = std::path::Path::new(env!("CARGO_MANIFEST_DIR"))
+        .parent()
+        .unwrap();
+    let assets = GameAssets::open(root).unwrap();
+    let catalog = crate::scenario::ScenarioCatalog::load(root).unwrap();
+    for id in [
+        "impero di gengis khan.wcm::maps/gengis_khan01",
+        "excalibur e il re artu.wcm::maps/8_a el mito de camelot",
+    ] {
+        let (campaign, mission) = catalog.locate(id).unwrap();
+        let scenario = catalog.campaigns[campaign.unwrap()].missions[mission].clone();
+        let selection = crate::menu::Selection::Scenario { campaign, mission };
+        // The setup of an older save, with the fog off and the map explored.
+        let setup = world::GameSetup {
+            options: Some(world::GameRules {
+                no_fog: true,
+                explored: true,
+                ..Default::default()
+            }),
+            ..Default::default()
+        };
+        let opened = crate::game::open(&assets, &selection, Some(scenario), Some(&setup)).unwrap();
+        // 0x441b93: the maps' headers hold 0 at 0x4e and 0x4f, the fog on
+        // and the map unexplored.
+        let r = &opened.mission.game_rules;
+        assert!(!r.no_fog && !r.explored, "{id}");
+    }
+}
+
+#[test]
+#[ignore = "Requires installed original archives"]
 fn campaign_missions_follow_the_campaign_rules_and_test_the_end_at_events() {
     let root = std::path::Path::new(env!("CARGO_MANIFEST_DIR"))
         .parent()
