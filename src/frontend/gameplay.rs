@@ -627,7 +627,7 @@ pub fn update(world: &mut World) {
     if !world.contains_resource::<Renderer>() {
         world.init_resource::<Renderer>();
     }
-    let focused = {
+    let focused = world.contains_resource::<super::RunInBackground>() || {
         let mut q = world.query_filtered::<&Window, With<PrimaryWindow>>();
         q.iter(world).next().is_some_and(|w| w.focused)
     };

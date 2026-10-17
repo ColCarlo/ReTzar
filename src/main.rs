@@ -17,6 +17,8 @@ Senza argomenti: apre il menu
                          o una scheda delle impostazioni (Audio, Gioco, Schermo,
                          Grafica, Tasti)
   --capture FILE.png     salva uno screenshot dopo l'avvio ed esce
+  --run SECONDI          con --capture: la partita va avanti per SECONDI
+                         anche senza il fuoco, prima dello screenshot
 
   --source CARTELLA      installazione originale (oppure TZAR_DATA_ROOT)
   --root CARTELLA        impostazioni e salvataggi (oppure RETZAR_HOME)";
@@ -101,6 +103,15 @@ fn run(locations: &Locations, args: &[String]) -> Result<()> {
         locations,
         frontend::Launch {
             capture: value(args, "--capture").map(PathBuf::from),
+            run: value(args, "--run")
+                .map(|s| {
+                    s.parse::<f32>()
+                        .ok()
+                        .filter(|v| v.is_finite() && *v >= 0.)
+                        .map(std::time::Duration::from_secs_f32)
+                        .ok_or_else(|| format!("--run: secondi non validi: {s}"))
+                })
+                .transpose()?,
             start,
             camera: value(args, "--at").map(at).transpose()?,
             intro: has("--intro") || (!has("--skip-intro") && !direct),

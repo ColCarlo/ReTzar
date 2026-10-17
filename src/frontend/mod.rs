@@ -215,13 +215,25 @@ struct Capture {
     path: PathBuf,
     frames: u32,
     taken_at: Option<u32>,
+    /// How long the game runs before the picture (`--run`), from when the
+    /// mission is on screen.
+    run: Duration,
+    settled: Option<Instant>,
 }
+
+/// The game goes on in the background (`--run`), so that a capture shows
+/// it a while after the start: the animals grazing and wandering, the
+/// kingdoms at work.
+#[derive(Resource)]
+pub struct RunInBackground;
 
 /// Command-line launch choices.
 #[derive(Default, Clone, Debug)]
 pub struct Launch {
     pub intro: bool,
     pub capture: Option<PathBuf>,
+    /// With `capture`: the game runs this long before the picture.
+    pub run: Option<Duration>,
     pub start: Option<Start>,
     /// Opening camera of `--scenario`: world centre and scale (`--at`).
     pub camera: Option<[f32; 3]>,
@@ -417,7 +429,12 @@ pub fn run(locations: &Locations, launch: Launch) -> Result<()> {
             path,
             frames: 0,
             taken_at: None,
+            run: launch.run.unwrap_or_default(),
+            settled: None,
         });
+        if launch.run.is_some() {
+            app.insert_resource(RunInBackground);
+        }
     }
     let camera = launch.camera;
     match launch.start {
@@ -643,6 +660,7 @@ fn apply_pending(world: &mut World) {
 fn animate(
     time: Res<Time>,
     window: Single<&Window, With<PrimaryWindow>>,
+    background: Option<Res<RunInBackground>>,
     ui: Res<MissionUi>,
     mut loaded: ResMut<Loaded>,
     mut materials: ResMut<Assets<ColorMaterial>>,
@@ -650,7 +668,7 @@ fn animate(
     mut sprites: Query<(&mut Sprite, &mut Transform)>,
 ) {
     // Like the original, the scene stands still while the game is in the background.
-    if !window.focused || ui.hud.panel.is_some() {
+    if (!window.focused && background.is_none()) || ui.hud.panel.is_some() {
         return;
     }
     if let Some(scene) = loaded.scene.as_mut() {
@@ -1294,8 +1312,9 @@ fn capture(
         return;
     }
     capture.frames += 1;
+    let settled = *capture.settled.get_or_insert_with(Instant::now);
     match capture.taken_at {
-        None if capture.frames >= 90 => {
+        None if capture.frames >= 90 && settled.elapsed() >= capture.run => {
             commands
                 .spawn(Screenshot::primary_window())
                 .observe(save_to_disk(capture.path.clone()));
