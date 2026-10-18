@@ -29,6 +29,9 @@ const PACKS: [&str; 8] = [
 /// The localized screens of an edition (FX Interactive's `images2.wdt`:
 /// title, menu, loading screens with their own lines).
 const SCREENS: &str = "images2.wdt";
+/// FX's Spanish screens in the portable copy's pack, shown in Spanish over
+/// an edition in another language.
+pub const SPANISH_SCREENS: &str = "Spanish/Packs/images2.wdt";
 /// The folders of loose files that hold what those archives do: the whole
 /// data of the digital releases (GOG's), which have no `Packs`.
 pub const LOOSE: [&str; 4] = ["DATA", "HELP", "IMAGES", "LOCAL"];
@@ -65,7 +68,8 @@ impl GameAssets {
     }
     /// The installation in a language. In its own language everything is
     /// the installation's; in another the edition's localized screens give
-    /// way to the original ones and the texts come from `languages`, when this
+    /// way to the original ones (in Spanish to FX's Spanish ones, when the
+    /// pack holds them) and the texts come from `languages`, when this
     /// version has them.
     pub fn open_in(source: &Path, language: Language) -> Result<Self> {
         Self::open_with(source, Some(language))
@@ -107,6 +111,11 @@ impl GameAssets {
         let language = language.or(native).unwrap_or(Language::English);
         let index = if native == Some(language) {
             index_of(&packs, None)
+        } else if language == Language::Spanish
+            && let Ok(screens) = Archive::open(&source.join(SPANISH_SCREENS))
+        {
+            packs.push((SPANISH_SCREENS, screens));
+            index_of(&packs, Some(SCREENS))
         } else {
             plain
         };

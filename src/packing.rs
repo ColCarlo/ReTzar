@@ -2,14 +2,15 @@
 //! (`retzar-tools --crea-pacchetto`): its archives (or, for a digital
 //! release that keeps its data loose, archives made of those folders under
 //! the names the engine reads), maps, campaigns and `Tzar.ini`, the
-//! American release's campaign, and the movies turned into MP4: the Italian
-//! intro and the American DDV, decoded with the tables of an installed
-//! `Tzar.exe` that is not encrypted, which stays out of the pack. The pack
-//! is read back whole before it is kept: every file must give back its
-//! bytes.
+//! American release's campaign, what FX's Spanish edition adds ([`SPANISH`])
+//! and the movies turned into MP4: the Italian and Spanish intros and the
+//! American DDV, decoded with the tables of an installed `Tzar.exe` that is
+//! not encrypted, which stays out of the pack. The pack is read back whole
+//! before it is kept: every file must give back its bytes.
 use crate::{
     Result,
     archive::Archive,
+    assets::SPANISH_SCREENS,
     ddv,
     hpfs::Container,
     invalid,
@@ -183,13 +184,77 @@ fn archives(source: &Path) -> Result<Vec<(String, Archive)>> {
     Ok(out)
 }
 
+/// Where the pack keeps what FX's Spanish edition adds: its campaigns that
+/// the pack's own are, voiced in Spanish, its localized screens and its
+/// launcher's intro.
+pub const SPANISH: &str = "Spanish";
+
+fn add_archive(
+    w: &mut PackWriter,
+    name: &str,
+    archive: &Archive,
+    summary: &mut Summary,
+) -> Result<()> {
+    let items: Vec<(String, Vec<u8>)> = archive
+        .entries
+        .iter()
+        .map(|e| Ok((e.name.clone(), archive.read(e)?)))
+        .collect::<Result<_>>()?;
+    summary.resources += items.len();
+    summary.original += items.iter().map(|(_, b)| b.len() as u64).sum::<u64>();
+    let ids = add_all(w, &items)?;
+    let entries = items.into_iter().map(|(n, _)| n).zip(ids).collect();
+    w.file(name, Node::Archive(entries));
+    summary.files += 1;
+    Ok(())
+}
+
+/// The campaigns of FX's Spanish edition `es` that are the pack's own
+/// campaigns (the same maps) with recorded voices, by their name in the
+/// pack.
+fn spanish_campaigns(es: &Path, own: &[(String, PathBuf)]) -> Result<Vec<(String, PathBuf)>> {
+    let wmp = |name: &str| name.to_ascii_lowercase().ends_with(".wmp");
+    let mut maps = std::collections::HashSet::new();
+    for (_, path) in own.iter().filter(|(n, _)| n.starts_with("Campaign/")) {
+        let c = Container::open(path)?;
+        maps.extend(
+            c.entries
+                .iter()
+                .filter(|e| wmp(&e.name))
+                .map(|e| e.name.to_ascii_lowercase()),
+        );
+    }
+    let mut out = Vec::new();
+    for path in files_in(&es.join("Campaign"), "wcm") {
+        let c = Container::open(&path)?;
+        let ours = c
+            .entries
+            .iter()
+            .filter(|e| wmp(&e.name) && maps.contains(&e.name.to_ascii_lowercase()))
+            .collect::<Vec<_>>();
+        let voiced = ours.iter().any(|e| {
+            c.open_nested(&e.name).is_ok_and(|m| {
+                m.entries
+                    .iter()
+                    .any(|x| x.name.to_ascii_lowercase().ends_with(".wav"))
+            })
+        });
+        if voiced {
+            out.push((format!("{SPANISH}/Campaign/{}", name_of(&path)), path));
+        }
+    }
+    Ok(out)
+}
+
 /// Writes the pack at `out` from the installation `source`, of any edition,
 /// and, when given, the American CD's `Tzar` folder `american` (its
-/// campaign and its movies); `work` holds the movies while they are
+/// campaign and its movies) and FX's Spanish edition `spanish` (its voices,
+/// screens and intro, [`SPANISH`]); `work` holds the movies while they are
 /// converted.
 pub fn build(
     source: &Path,
     american: Option<&Path>,
+    spanish: Option<&Path>,
     out: &Path,
     work: &Path,
     log: &mut dyn FnMut(String),
@@ -199,17 +264,15 @@ pub fn build(
     let mut w = PackWriter::create(&partial)?;
     for (name, archive) in archives(source)? {
         log(format!("Archivio {name}"));
-        let items: Vec<(String, Vec<u8>)> = archive
-            .entries
-            .iter()
-            .map(|e| Ok((e.name.clone(), archive.read(e)?)))
-            .collect::<Result<_>>()?;
-        summary.resources += items.len();
-        summary.original += items.iter().map(|(_, b)| b.len() as u64).sum::<u64>();
-        let ids = add_all(&mut w, &items)?;
-        let entries = items.into_iter().map(|(n, _)| n).zip(ids).collect();
-        w.file(&format!("Packs/{name}"), Node::Archive(entries));
-        summary.files += 1;
+        add_archive(&mut w, &format!("Packs/{name}"), &archive, &mut summary)?;
+    }
+    if let Some(es) = spanish {
+        let screens = es.join("Packs/images2.wdt");
+        if screens.is_file() {
+            log("Archivio images2.wdt (spagnolo)".into());
+            let archive = Archive::open(&screens).map_err(|e| format!("images2.wdt: {e}"))?;
+            add_archive(&mut w, SPANISH_SCREENS, &archive, &mut summary)?;
+        }
     }
     let mut containers: Vec<(String, PathBuf)> = Vec::new();
     for path in files_in(&source.join("Maps"), "wmp") {
@@ -227,6 +290,10 @@ pub fn build(
         {
             containers.push(("Campaign/Tzar.wcm".into(), campaign));
         }
+    }
+    if let Some(es) = spanish {
+        let voiced = spanish_campaigns(es, &containers)?;
+        containers.extend(voiced);
     }
     for (name, path) in containers {
         log(format!("Contenitore {name}"));
@@ -248,6 +315,12 @@ pub fn build(
     if let Some(intro) = media::italian_intro(source) {
         movies.push((
             "intro".into(),
+            Source::Media(std::fs::read(intro)?, Kind::Mpeg),
+        ));
+    }
+    if let Some(intro) = spanish.and_then(media::italian_intro) {
+        movies.push((
+            media::SPANISH_INTRO.into(),
             Source::Media(std::fs::read(intro)?, Kind::Mpeg),
         ));
     }
@@ -296,7 +369,7 @@ pub fn build(
     summary.saved = [w.saved[1], w.saved[2], w.saved[3]];
     summary.packed = w.finish()?;
     log("Verifica del pacchetto".into());
-    verify(&partial, source, american)?;
+    verify(&partial, source, american, spanish)?;
     if out.exists() {
         std::fs::remove_file(out)?;
     }
@@ -333,9 +406,17 @@ fn same_folder(pack: &Pack, f: &Folder, c: &Container, name: &str) -> Result<()>
 }
 
 /// Every file of the pack against the original, and every movie decoded.
-pub fn verify(path: &Path, source: &Path, american: Option<&Path>) -> Result<()> {
+pub fn verify(
+    path: &Path,
+    source: &Path,
+    american: Option<&Path>,
+    spanish: Option<&Path>,
+) -> Result<()> {
     let pack = Pack::open(path)?;
     let original = |name: &str| -> PathBuf {
+        if let (Some(es), Some(rest)) = (spanish, name.strip_prefix(&format!("{SPANISH}/"))) {
+            return es.join(rest);
+        }
         let at = source.join(name);
         match american {
             Some(cd) if !at.exists() => cd.join(name),
@@ -343,15 +424,24 @@ pub fn verify(path: &Path, source: &Path, american: Option<&Path>) -> Result<()>
         }
     };
     let archives = archives(source)?;
+    let screens = spanish
+        .map(|es| Archive::open(&es.join("Packs/images2.wdt")))
+        .transpose()
+        .ok()
+        .flatten();
     for (name, node) in pack.files() {
         match node {
             Node::Archive(entries) => {
                 let short = name.rsplit('/').next().unwrap_or(name);
-                let a = archives
-                    .iter()
-                    .find(|(n, _)| n.eq_ignore_ascii_case(short))
-                    .map(|(_, a)| a)
-                    .ok_or_else(|| invalid(format!("{name}: archivio sconosciuto")))?;
+                let a = if name.eq_ignore_ascii_case(SPANISH_SCREENS) {
+                    screens.as_ref()
+                } else {
+                    archives
+                        .iter()
+                        .find(|(n, _)| n.eq_ignore_ascii_case(short))
+                        .map(|(_, a)| a)
+                }
+                .ok_or_else(|| invalid(format!("{name}: archivio sconosciuto")))?;
                 if entries.len() != a.entries.len() {
                     return Err(invalid(format!("{name}: voci diverse")));
                 }
@@ -376,4 +466,43 @@ pub fn verify(path: &Path, source: &Path, american: Option<&Path>) -> Result<()>
         }
     }
     Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    /// Of FX's Spanish edition, only the campaigns that the pack's own are
+    /// and that speak go in: Excalibur and Genghis Khan, not the American
+    /// campaign nor the old tutorial, which have no voices.
+    #[test]
+    #[ignore = "Requires the original installation and the Spanish edition"]
+    fn the_spanish_campaigns_in_the_pack_are_the_voiced_ones() {
+        let tzar = Path::new(env!("CARGO_MANIFEST_DIR")).parent().unwrap();
+        let spanish = tzar.join("Anthology");
+        if !spanish.is_dir() {
+            return;
+        }
+        let mut own: Vec<(String, PathBuf)> = files_in(&tzar.join("Campaign"), "wcm")
+            .into_iter()
+            .map(|p| (format!("Campaign/{}", name_of(&p)), p))
+            .collect();
+        own.push((
+            "Campaign/Tzar.wcm".into(),
+            tzar.join("USA/CD/SETUP/Tzar/Campaign/Tzar.wcm"),
+        ));
+        let mut names: Vec<String> = spanish_campaigns(&spanish, &own)
+            .unwrap()
+            .into_iter()
+            .map(|(n, _)| n)
+            .collect();
+        names.sort();
+        assert_eq!(
+            names,
+            [
+                "Spanish/Campaign/El Imperio de Gengis Khan.wcm",
+                "Spanish/Campaign/Excalibur y el rey Arturo.wcm",
+            ]
+        );
+    }
 }

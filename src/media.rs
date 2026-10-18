@@ -288,6 +288,9 @@ pub fn decode_sound(bytes: &[u8], mime: &str) -> Result<Pcm> {
 
 /// The folder of the movies turned into MP4, in the portable copy's pack.
 pub const MOVIES: &str = "Filmati";
+/// The MP4 name of the launcher's intro of FX's Spanish edition, in the
+/// pack beside the Italian one (`intro`).
+pub const SPANISH_INTRO: &str = "intro_es";
 /// The MP4 name of a movie of the American release's archive
 /// (`MOVIES/TALON.DDV`, a script's `movies\outro.ddv`): `talon`, `outro`.
 pub fn movie_name(name: &str) -> String {

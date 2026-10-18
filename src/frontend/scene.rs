@@ -130,6 +130,11 @@ pub fn prepare(
     setup: Option<GameSetup>,
 ) -> Result<PreparedScene> {
     let scenario_id = scenario.as_ref().map(|s| s.id.clone());
+    // In Spanish, FX's campaigns speak with the Spanish edition's voices.
+    let spanish = match &scenario {
+        Some(s) if retzar::lang::current() == retzar::lang::Language::Spanish => s.spanish_voices(),
+        _ => Vec::new(),
+    };
     let retzar::game::Opened {
         grid,
         mut mission,
@@ -138,7 +143,7 @@ pub fn prepare(
         description,
         container,
     } = retzar::game::open(assets, &selection, scenario, setup.as_ref())?;
-    let (portraits, source_entries) = match &container {
+    let (portraits, mut source_entries): (_, std::collections::BTreeMap<_, _>) = match &container {
         Some(c) => (
             portraits(c, &mission),
             c.entries
@@ -148,6 +153,13 @@ pub fn prepare(
         ),
         None => (HashMap::new(), std::collections::BTreeMap::new()),
     };
+    if !spanish.is_empty() {
+        for (name, data) in spanish {
+            source_entries.retain(|k: &String, _| !k.eq_ignore_ascii_case(&name));
+            source_entries.insert(name, std::sync::Arc::new(data));
+        }
+        mission.written_in = Some(retzar::lang::Language::Spanish);
+    }
     let mut terrain = Terrain::load(assets, &biome)?;
     terrain.prepare(&grid)?;
     let batches = scene::batches(&grid, &terrain)?;

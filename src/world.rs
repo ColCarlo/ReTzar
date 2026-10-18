@@ -524,7 +524,8 @@ pub struct MissionWorld {
     pub cheater: bool,
     /// The language the map's own texts are written in, and its recorded
     /// voices with them (Italian for FX's campaigns, whatever the
-    /// installation); none when its texts are too few to tell (an
+    /// installation; Spanish once the Spanish edition's voices are laid
+    /// over them, in Spanish); none when its texts are too few to tell (an
     /// addition of this version).
     #[serde(default)]
     pub written_in: Option<crate::lang::Language>,

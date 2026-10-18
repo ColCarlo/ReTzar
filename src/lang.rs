@@ -117,14 +117,14 @@ pub fn italian() -> bool {
     current() == Language::Italian
 }
 /// The game's name, on the window: the American release's «Tzar: The Burden
-/// of the Crown», translated, and in Italian the Italian edition's own.
+/// of the Crown», translated, and in Italian and Spanish FX's editions' own.
 pub fn game_title(language: Language) -> &'static str {
     match language {
         Language::English => "Tzar: The Burden of the Crown",
         Language::Italian => "Tzar: Excalibur e il Re Artù",
         Language::French => "Tzar : Le Fardeau de la couronne",
         Language::German => "Tzar: Die Bürde der Krone",
-        Language::Spanish => "Tzar: La carga de la corona",
+        Language::Spanish => "Tzar: El poder de la Corona",
         Language::Polish => "Tzar: Ciężar korony",
         Language::Portuguese => "Tzar: O Fardo da Coroa",
     }

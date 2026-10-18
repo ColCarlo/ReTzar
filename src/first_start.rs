@@ -82,6 +82,7 @@ pub fn prepare(exe_dir: &Path) -> Result<()> {
     let made = packing::build(
         &installation,
         american.as_deref(),
+        None,
         &exe_dir.join(pack::FILE),
         &work,
         &mut |step| {

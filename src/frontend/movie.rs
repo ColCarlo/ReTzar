@@ -16,10 +16,16 @@ pub struct Request(pub Vec<Source>);
 impl Request {
     /// What the game plays at start in the language of the moment. In the
     /// installation's own language its launcher's intro, when it has one
-    /// (the Italian edition's); otherwise the American release's sequence
-    /// (0x476318–0x4764ac), when its movies are found; failing that, the
-    /// other one.
+    /// (the Italian edition's), and in Spanish the Spanish edition's of the
+    /// pack; otherwise the American release's sequence (0x476318–0x4764ac),
+    /// when its movies are found; failing that, the other one.
     pub fn start(source: &Path) -> Option<Self> {
+        if retzar::lang::current() == retzar::lang::Language::Spanish
+            && !retzar::lang::native()
+            && let Some(bytes) = media::converted(source, media::SPANISH_INTRO)
+        {
+            return Some(Self(vec![Source::Media(bytes, Kind::Mp4)]));
+        }
         if retzar::lang::native() {
             Self::intro(source).or_else(|| Self::american(source))
         } else {

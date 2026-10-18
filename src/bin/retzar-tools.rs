@@ -22,10 +22,12 @@ const HELP: &str = "retzar-tools — strumenti di sviluppo per i formati origina
   --check-audio                 WAV e MIDI originali, senza riprodurli (JSON)
   --audit-scripts               copioni di tutte le missioni: azioni, nomi, oggetti, file e mappe
   --script ID                   il copione di uno scenario, una riga per elemento
-  --crea-pacchetto FILE [--americano CARTELLA]   il pacchetto della copia portatile
-                                (ReTzar.dat) dall'installazione e dal CD americano,
+  --crea-pacchetto FILE [--americano CARTELLA] [--spagnolo CARTELLA]   il pacchetto
+                                della copia portatile (ReTzar.dat) dall'installazione,
+                                dal CD americano e dall'edizione spagnola di FX,
                                 controllato file per file
-  --verifica-pacchetto FILE [--americano CARTELLA]   lo stesso controllo da solo
+  --verifica-pacchetto FILE [--americano CARTELLA] [--spagnolo CARTELLA]   lo stesso
+                                controllo da solo
 
   --source CARTELLA  installazione originale (oppure TZAR_DATA_ROOT)";
 
@@ -52,12 +54,14 @@ fn run(source: &Path, args: &[String]) -> Result<()> {
             .map(std::path::PathBuf::from)
             .or_else(|| Some(source.join("USA/CD/SETUP/Tzar")).filter(|p| p.is_dir()))
     };
+    let spanish = || value(args, "--spagnolo").map(Path::new);
     if let Some(out) = value(args, "--crea-pacchetto") {
         let started = std::time::Instant::now();
         let work = std::env::temp_dir().join(format!("retzar-filmati-{}", std::process::id()));
         let s = retzar::packing::build(
             source,
             american().as_deref(),
+            spanish(),
             Path::new(out),
             &work,
             &mut |m| println!("{m}"),
@@ -78,7 +82,7 @@ fn run(source: &Path, args: &[String]) -> Result<()> {
         return Ok(());
     }
     if let Some(file) = value(args, "--verifica-pacchetto") {
-        retzar::packing::verify(Path::new(file), source, american().as_deref())?;
+        retzar::packing::verify(Path::new(file), source, american().as_deref(), spanish())?;
         println!("{file}: ogni file uguale all'originale, filmati leggibili");
         return Ok(());
     }

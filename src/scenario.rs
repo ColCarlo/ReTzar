@@ -172,6 +172,38 @@ impl Scenario {
     pub fn grid(&self) -> Result<MapGrid> {
         MapGrid::read(&self.container()?, &self.header)
     }
+    /// The recorded voices of FX's Spanish edition for this campaign
+    /// mission: the WAV files of the same map in its Spanish campaign, when
+    /// the pack holds it ([`crate::packing::SPANISH`]); none otherwise.
+    pub fn spanish_voices(&self) -> Vec<(String, Vec<u8>)> {
+        let (Some(nested), Some(root)) = (&self.nested, self.file.parent().and_then(Path::parent))
+        else {
+            return Vec::new();
+        };
+        let campaigns = root.join(crate::packing::SPANISH).join("Campaign");
+        for path in crate::vfs::list(&campaigns).unwrap_or_default() {
+            let Ok(c) = Container::open(&path) else {
+                continue;
+            };
+            let Some(e) = c
+                .entries
+                .iter()
+                .find(|e| e.name.eq_ignore_ascii_case(nested))
+            else {
+                continue;
+            };
+            let Ok(map) = c.open_nested(&e.name) else {
+                return Vec::new();
+            };
+            return map
+                .entries
+                .iter()
+                .filter(|x| x.name.to_ascii_lowercase().ends_with(".wav"))
+                .filter_map(|x| Some((x.name.clone(), map.read(x.inode).ok()?)))
+                .collect();
+        }
+        Vec::new()
+    }
 }
 impl ScenarioCatalog {
     /// Find a scenario by its stable id: (campaign index, mission index).

@@ -1,17 +1,16 @@
 @2TZAR
-@1Excalibur y el rey Arturo
 
 
 
-@0DISEÑO DEL JUEGO
+@0DISEÑADOR DEL JUEGO
 @1Vesselin Handjiev
 
 
-@0PROGRAMADOR JEFE
+@0PROGRAMADOR PRINCIPAL
 @1Panayot "Otto" Yanazov
 
 
-@0GRAFISTA JEFE
+@0DISEÑADOR PRINCIPAL
 @1Rossen Manchev
 
 
@@ -23,7 +22,7 @@ Oleg Zlatarski
 Vesselin Handjiev
 
 
-@0PROGRAMACIÓN DE LOS EDITORES DE MAPAS Y CAMPAÑAS
+@0EDICIÓN DE MAPAS Y CAMPAÑAS
 @1Krassimir "Kastchei" Tuevski
 
 
@@ -32,12 +31,12 @@ Vesselin Handjiev
 Ivaylo Todorov
 
 
-@0GRÁFICOS Y ANIMACIONES
+@0ARTE Y ANIMACIONES
 @1Rositsa "Ro" Zagorcheva
 Boriana "Bo" Mladenova
 
 
-EURAPEL A&S TEAM
+EQUIPO DE EURAPEL A&S
 Georgi Nedeltchev - Jefe de equipo
 Rossen Mantchev
 Teodor Simeonov
@@ -46,7 +45,7 @@ Dimitar "Chrom" Zvetanov
 Chavdar Dragiev
 
 
-IMAGE-ET
+IMAGEN-ET
 Alexander Sokerov
 
 
@@ -54,7 +53,7 @@ Alexander Sokerov
 @1Vesselin Handjiev
 
 
-EURAPEL A&S TEAM
+EQUIPO DE EURAPEL A&S 
 Aleksandar Tsvetkov
 Dimitar Sabev
 
@@ -68,7 +67,7 @@ Dimitar Sabev
 @1Svetoslav "SAA" Alexandrov
 
 
-@0VOCES
+@0VOZ EN OFF
 @1Tim Earle
 
 
@@ -78,10 +77,25 @@ Boriana "Bo" Mladenova
 Krassimir "Kastchei" Tuevski
 
 
-@0PRUEBAS
+@0TESTEO
 @1Test House
 Nine Lund
 DCM Testcenter
+
+
+@0DIRECTOR EDITORIAL
+@1Henrik Eklund
+PAN Interactive Publishing
+
+
+@0PRODUCTORA EJECUTIVA
+@1Hanna Larsson
+PAN Interactive Publishing
+
+
+@0AYUDANTE DE PRODUCCIÓN
+@1Sara Hedin
+PAN Interactive Publishing
 
 
 @0JEFE DE PROYECTO
@@ -91,14 +105,14 @@ Haemimont Multimedia
 
 @0GRABACIÓN DE VOCES
 @1Rosenberg & Söderberg
-Studios
+Studios  
 
 
-@0AUDIO Y VÍDEO
+@0EDICIÓN DE AUDIO Y VÍDEO
 @1Virtual Studio - Sofia
 
 
-@2AGRADECIMIENTOS ESPECIALES
+@2AGRADECIMIENTO ESPECIAL A
 
 @1Jay Powell
 Kamen Vitanov
@@ -118,11 +132,11 @@ Josh "Herodotus" Watson
 @1tzar.heavengames.com
 
 
-@0PRUEBAS FINALES
+@0TESTEO FINAL
 @3Shaun "BINGFA" Toomey
 Brian "enforc3r" Tan
 Magnus Lind
-Andy "Lava" Oxfeld
+Andy "Lava" Oxfeld 
 Dave "Stringbags" Stringwell
 Ralph "ALpHsTeR" Nevchas
 Josh "Herodotus" Watson
@@ -144,10 +158,11 @@ Patrick "MasterMerlin" Burnside
 Tony "FORDY" Ford
 Tina "SNEAK" Ford
 
-Grupo de Sistemas Electrónicos adscrito
-a la Universidad Técnica de Sofía
+Colegio de Sistemas Electrónicos 
+afiliado a la 
+Universidad Técnica de Sofía
 
-... y muchos otros
+... y muchos, muchos más
 
 
 @2NUESTRO AGRADECIMIENTO A
@@ -155,21 +170,21 @@ a la Universidad Técnica de Sofía
 @3Todos los bares de Sofía
 Zagorka, Kamenitsa, Astika
 KFC, McDonald's
-Pizzeria "Verdi"
-Todos los grupos de heavy metal
-Todos los grupos que no son de heavy metal
-Nuestras madres y nuestras abuelas
-Nuestros maridos, esposas y todos los que mostraron una paciencia infinita
-Y un agradecimiento especial a todos nuestros amigos
-La película Matrix
-(que mantuvo a Otto de buen humor)
-Quake II
-(que evitó que el equipo se suicidara)
-La revista Gamers' Workshop
+Pizza "Verdi"
+Todos los grupos de heavy-metal 
+Todos los grupos que no son de heavy-metal
+A nuestras madres y abuelas
+A nuestros maridos / mujeres y demás que han demostrado una paciencia infinita
+Y nuestro agradecimiento especial a todos nuestros amigos
+La peli The Matrix 
+(que mantenía a Otto de buen humor)
+Quake II 
+(que impidió que el equipo se autoinmolara)
+A la revista Gamers' Workshop 
 
 
-Y a todos los que creen
-merecerlo...
+Y a todos aquellos
+que crean que las merecen...
 
 
 
@@ -177,23 +192,29 @@ merecerlo...
 
 
 @2HAEMIMONT
-MULTIMEDIA
+GAMES
 @1Sofía, Bulgaria 2002
+
+
+
+@2PAN
+Vision
+@1Estocolmo, Suecia, 2002
 
 
 
 @2EURAPEL Ltd.
-@1Sofía, Bulgaria 2002
+@1Sofia, Bulgaria 2002
 
 
 
 @2IMAGE-ET
-@1Sofía, Bulgaria 2002
+@1Sofia, Bulgaria 2002
 
 
 
 @2DIGITAL DIALECT
-@1Masher
+@1Masher 
 Tecnología de compresión de vídeo
 
 
@@ -206,24 +227,26 @@ Tecnología de compresión de vídeo
 
 
 @2TZAR
-@1Excalibur y el rey Arturo
+@1Tzar Edición de Oro
+
+
+
+
 
 
 @0PRODUCTORES
-@1Antonio Lucena Ferrero
+@1Manuel Moreno García
 Pablo de la Nuez S.C.
 
 
-@0DISEÑO DE LA CAMPAÑA
-Y PROGRAMACIÓN
+@0DISEÑO Y PROGRAMACIÓN
+DE LA CAMPAÑA
 @1Antonio Priego Marco
 
 
-@0GUION DE LA CAMPAÑA
+@0GUIÓN DE LA CAMPAÑA
 @1Antonio Priego Marco
-José Villalba
-Antonio Lucena Ferrero
-Pablo de la Nuez S.C.
+Manuel Moreno García
 
 
 @0DISEÑO GRÁFICO
@@ -235,123 +258,66 @@ GRÁFICOS ADICIONALES
 @1Equipo FX
 
 
-@0DISEÑO DE PERSONAJES
+@0DIBUJO DE PERSONAJES
 @1Begoña Echave
 
 
-@0REPARTO DE LA EDICIÓN ITALIANA
+@0GRABACIÓN DE VOCES
+@1Estudios EXA
 
-@1MARCO BALZAROTTI
+
+@0DIRECTORA DE DOBLAJE
+@1Rosa Sánchez
+
+
+@0ACTORES DE DOBLAJE
+
+@1JOSÉ ÁNGEL JUANES
 Narrador
 
-MASSIMO BITOSSI
-Sir Kay
-Rey Carados
-Rey Cradelmas
-Dragón
-Lancelot
-
-LUCA BOTTALE
-Rey de los Cien Caballeros
-Caballero furioso
+FERNANDO DE LUIS
+Yenisei, Jefe de Clan
 Yamuga
-Joven
 
-MASSIMO DI BENEDETTO
-Arturo joven
-Sir Gawain
-Temujin joven
+FERNANDO CABRERA
+Temujín joven
+Bochurgui
 
-GIANNI GAUDE
-Sir Brastias
-Rey Urien
-Sir Lucan
-Sir Ladinas
-Sir Balin
-Campesino 1
-Campesino 2
-Soldado mongol
+IÑAKI CRESPO
+Temujín adulto-Gengis Khan
 
-RICCARDO LOMBARDO
-Rey de Escocia
-Rey Lot
-Nerón
-Sir Galahad
-Sir Mordred
-Tugril Khan
+FERNA HERNÁNDEZ
+Tugril-Khan
+Emperador Yuan
 
-ANNAMARIA MANTOVANI
-Voces del más allá
-Reina vampira
-
-CINZIA MASSIRONI
-Ginebra
-Morgana
-Elun
-Alana
-Wanli
-La Dama del Lago
-Nyneve
-Borta
-
-GIORGIO MELAZZI
-Rey Nentres
-Sir Ulfius
-Rey Ban
-Sir Perceval
-Sacerdote
-Abdul
-Zhorin
-
-ANTONIO PAIOLA
-Sir Héctor
-Merlín
-Rey Clariance
-Sir Kaynes
-Arquero
-Inquisidor
+MIGUEL ZÚÑIGA
 Anciano
-
-SILVANO PICCARDI
-Arzobispo de Canterbury
-Sir Baudwin
-Sir Phariance
-Sir Lionses
-Caballero 1
+Unojo
 Jagadai
 
-PATRIZIO PRATA
-Rey Brandegoris
-Arturo
-
-RICCARDO ROVATTI
-Haaser
-Caballero
-Rey Bors
-Sir Balan
-Temujin adulto
+JOSÉ ESCOBOSA
+Soldado Mongol
+Zhorin
 Batu
 
-LUCA SANDRI
-Duque Estance
-Rey de Irlanda
-Sir Griflet
-Rey Pellinore
-Sir Uwain
-Caballero 2
-Yenisei
-Bochurgi
-Unojo
+CONCHA LÓPEZ
+Borta 
+Wanlí
+
+ROSA SÁNCHEZ
+Elun
+Alana
 
 
-
-@0JEFE DE PRUEBAS
+@0JEFE DE TESTEO
 @1Eduardo Baez
 
-@0PRUEBAS
-@1Equipo de pruebas de FX
+@0TESTEO
+@1Equipo de testeo de FX
 
-@0LOCALIZACIÓN ITALIANA
-@1Jinglebell Communication S.r.l.
+
+
+
+
 
 @1 Copyright FX Interactive, 2002
