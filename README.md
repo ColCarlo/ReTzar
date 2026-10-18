@@ -18,8 +18,7 @@ Bevy and kept as close to the original as possible.
    [latest release](https://github.com/ColCarlo/ReTzar/releases/latest) and
    unzip it somewhere of yours, such as the Desktop or Documents.
 2. Run `ReTzar.exe` in the `ReTzar` folder. The first time, it asks for the
-   folder where Tzar is installed, to check that you own the game. After
-   that it starts straight away.
+   folder where Tzar is installed.
 
 Windows may say that it protected your PC, since the game isn't signed:
 click **More info**, then **Run anyway**.
@@ -31,28 +30,18 @@ click **More info**, then **Run anyway**.
 
 ## What you need
 
-- Windows 10 or 11 (64-bit), 4 GB of RAM (the game itself uses about half
-  a gigabyte) and about 350 MB of disk space
-- A graphics card with an up-to-date Vulkan driver: roughly NVIDIA GeForce
-  GTX 600, AMD Radeon HD 7000, Intel HD Graphics 500 or newer
-- A copy of Tzar, any edition: CD, GOG or Steam, in any language, modded
-  or not. ReTzar already holds every campaign, voice and language; it only
-  starts beside your copy.
+- Windows 10 or 11 (64-bit), 4 GB of RAM and about 350 MB of disk space
+- A graphics card with an up-to-date Vulkan driver
+- A copy of Tzar, any edition
 
 ## Build it yourself
 
-1. Install [Rust](https://rustup.rs) and Visual Studio 2022 Build Tools
-   (C++ desktop workload), with a few GB of free disk space.
-2. Put the `ReTzar.dat` of the release zip in a `release` folder here and
-   run `build-release.cmd`: you get the whole game in `release`.
-
-Without that file, `build-release.cmd` makes one from the folder where Tzar
-is installed, for example `build-release.cmd "C:\GOG Games\Tzar"`, with
-the content of that edition.
+Install [Rust](https://rustup.rs) and Visual Studio 2022 Build Tools (C++
+desktop workload), put the `ReTzar.dat` of the release zip in a `release`
+folder here and run `build-release.cmd`.
 
 ## License
 
-Code under [GPL-3.0-or-later](LICENSE). The game data belong to Haemimont
-Games, Take-Two Interactive and FX Interactive, and are included with their
-permission as long as ReTzar stays free: see [DATA-LICENSE](DATA-LICENSE.md).
-Thanks to all of them. ReTzar is an unofficial fan project.
+Code under [GPL-3.0-or-later](LICENSE). Tzar and all its game data are
+© and ™ Haemimont Games, Take-Two Interactive and FX Interactive.
+ReTzar is an unofficial fan project.

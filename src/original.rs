@@ -147,21 +147,14 @@ pub(crate) fn refused() -> Box<dyn std::error::Error + Send + Sync> {
 }
 
 /// Lets the game start only beside a copy of Tzar: the folder chosen
-/// before, or one the player chooses now and that is kept; the first time,
-/// a welcome says why. Closing a window ends the game with the reason.
+/// before, or one the player chooses now and that is kept. Closing a
+/// window ends the game with the reason.
 pub fn require(root: &Path) -> Result<()> {
     let before = saved(root);
     if before.as_deref().is_some_and(holds) {
         return Ok(());
     }
     speak(root);
-    if before.is_none()
-        && !crate::picker::welcome(lang::t(
-            "Benvenuto in ReTzar! Il gioco è già completo: per avviarlo serve solo una copia di Tzar, di qualsiasi edizione e lingua. Scegli la cartella in cui è installato e ReTzar la ricorderà.",
-        ))
-    {
-        return Err(refused());
-    }
     let mut start = before;
     loop {
         let chosen = crate::picker::folder(
