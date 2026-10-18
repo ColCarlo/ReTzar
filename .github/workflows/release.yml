@@ -1,17 +1,21 @@
 # Publishes a release when a version tag is pushed (git tag v1.0.0, then
 # git push origin v1.0.0): builds ReTzar.exe and attaches
 # ReTzar-<version>-windows.zip, with the notes in .github/release/notes.md.
+# A change of the notes pushed to main updates the current version's release.
 name: Release
 
 on:
   push:
     tags: ["v*"]
+    branches: [main]
+    paths: [".github/release/notes.md"]
 
 permissions:
   contents: write
 
 jobs:
   windows:
+    if: startsWith(github.ref, 'refs/tags/')
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v4
@@ -33,3 +37,12 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh release create $env:GITHUB_REF_NAME "ReTzar-$env:VERSION-windows.zip" --title "ReTzar $env:VERSION" --notes-file .github/release/notes.md
+  notes:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Notes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release edit "v$(grep -m1 '^version' Cargo.toml | cut -d'"' -f2)" --notes-file .github/release/notes.md
