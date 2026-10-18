@@ -439,10 +439,21 @@ mod tests {
         }
         // The Spanish edition's, when it is there: the same area.
         if !crate::scenario::spanish_campaigns(root).is_empty() {
-            expected.push((
-                "los dominios de la magia.wcm::maps/acorralada".to_owned(),
-                "azione «arreglapuerta»: area attorno all'oggetto 0 assente".to_owned(),
-            ));
+            expected.extend(
+                [
+                    ("los dominios de la magia", "acorralada", "arreglapuerta"),
+                    ("la reconquista", "espaÑa10mision8", "A0016"),
+                    ("la reconquista", "espaÑa10mision8", "A0017"),
+                    ("la reconquista", "valencia", "Almoravide ataca"),
+                    ("la reconquista", "valencia", "Avance almoravide"),
+                ]
+                .map(|(c, m, a)| {
+                    (
+                        format!("{c}.wcm::maps/{m}"),
+                        format!("azione «{a}»: area attorno all'oggetto 0 assente"),
+                    )
+                }),
+            );
         }
         let mut found = found;
         found.sort();

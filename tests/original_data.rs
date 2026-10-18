@@ -417,9 +417,12 @@ fn original_menu_fonts_campaigns_and_terrain_are_readable() {
         }
         count += 1;
     }
-    // The American campaign's nineteen maps and the Spanish one's eight on
-    // the same terrains.
-    assert_eq!(count, 26 + 19 * american as usize + 8 * spanish);
+    // The American campaign's nineteen maps and the Spanish edition's
+    // twenty-six on the same terrains.
+    assert_eq!(
+        count,
+        26 + 19 * american as usize + 26 * (spanish > 0) as usize
+    );
 }
 
 #[test]
@@ -708,7 +711,8 @@ fn the_american_campaign_is_listed_and_reads_in_italian() {
         "tzartutorial.wcm",
     ];
     if !retzar::scenario::spanish_campaigns(&source).is_empty() {
-        expected.insert(2, "los dominios de la magia.wcm");
+        expected.insert(2, "la reconquista.wcm");
+        expected.insert(3, "los dominios de la magia.wcm");
     }
     assert_eq!(files, expected);
     let american = files.iter().position(|f| f == "tzar.wcm").unwrap();

@@ -47,7 +47,7 @@ pub fn american_campaign(source: &Path) -> Option<PathBuf> {
 }
 /// The campaigns of FX's Spanish edition that the Italian one lacks, in
 /// Spanish.
-pub const SPANISH_CAMPAIGNS: [&str; 1] = ["Los Dominios de la Magia.wcm"];
+pub const SPANISH_CAMPAIGNS: [&str; 2] = ["La Reconquista.wcm", "Los Dominios de la Magia.wcm"];
 /// The Spanish edition's own campaigns ([`SPANISH_CAMPAIGNS`]):
 /// the `Campaign` folder of the install, or of the Spanish edition copied
 /// into `Anthology`.

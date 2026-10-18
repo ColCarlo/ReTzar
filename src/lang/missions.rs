@@ -28,8 +28,11 @@ use std::{
 };
 
 /// The catalogs of a language: the campaigns, the maps and the tutorial.
-/// The Spanish edition's campaign comes first, as its Spanish texts are
-/// originals: «Nigromante» is its necromancer, not Genghis Khan's witch.
+/// Where two campaigns write a text alike, the first one's Italian is read:
+/// «Los Dominios de la Magia» comes first, as «Nigromante» is its
+/// necromancer, not Genghis Khan's witch; «La Reconquista» comes before
+/// the American campaign, as its «Reino 2» is a kingdom of its own, but
+/// after FX's Excalibur, whose Spanish «Maleantes» stays.
 macro_rules! catalogs {
     ($code:literal) => {
         [
@@ -53,6 +56,11 @@ macro_rules! catalogs {
             include_str!(concat!(
                 "../../languages/",
                 $code,
+                "/missions/reconquista.txt"
+            )),
+            include_str!(concat!(
+                "../../languages/",
+                $code,
                 "/missions/burden_of_the_crown.txt"
             )),
         ]
@@ -60,7 +68,7 @@ macro_rules! catalogs {
 }
 /// English first: where two languages write a text alike, it reads as the
 /// English one.
-const CATALOGS: [(Language, [&str; 6]); 6] = [
+const CATALOGS: [(Language, [&str; 7]); 6] = [
     (Language::English, catalogs!("en")),
     (Language::French, catalogs!("fr")),
     (Language::German, catalogs!("de")),
@@ -323,26 +331,35 @@ mod tests {
     }
 
     #[test]
-    fn the_spanish_campaign_reads_in_every_language() {
-        let spanish = pairs_in(CATALOGS[3].1[0], "es");
-        assert!(spanish.len() > 300);
-        for (language, catalogs) in CATALOGS {
-            let theirs: HashMap<String, String> = pairs_in(catalogs[0], language.code())
-                .into_iter()
-                .map(|(it, text)| (key(&it), text))
-                .collect();
+    fn the_spanish_campaigns_read_in_every_language() {
+        // Los Dominios de la Magia and La Reconquista.
+        for k in [0, 5] {
+            let spanish = pairs_in(CATALOGS[3].1[k], "es");
+            assert!(spanish.len() > 300);
+            for (language, catalogs) in CATALOGS {
+                let theirs: HashMap<String, String> = pairs_in(catalogs[k], language.code())
+                    .into_iter()
+                    .map(|(it, text)| (key(&it), text))
+                    .collect();
+                for (italian, original) in &spanish {
+                    let shown = translate(original, language).unwrap_or(original);
+                    // In Spanish the original stays, where two read as one
+                    // Italian too.
+                    let wanted = match language {
+                        Language::Spanish => original,
+                        _ => &theirs[&key(italian)],
+                    };
+                    assert_eq!(shown, wanted, "{language:?}: «{original}»");
+                }
+            }
             for (italian, original) in &spanish {
-                let shown = translate(original, language).unwrap_or(original);
-                assert_eq!(shown, theirs[&key(italian)], "{language:?}: «{original}»");
+                // The Italian edition's Excalibur says these itself.
+                if ["Espada", "Tiempo"].contains(&original.as_str()) {
+                    continue;
+                }
+                let shown = translate(original, Language::Italian).unwrap_or(original);
+                assert_eq!(shown, key(italian), "«{original}»");
             }
-        }
-        for (italian, original) in &spanish {
-            // The Italian edition's Excalibur says these itself.
-            if ["Espada", "Tiempo"].contains(&original.as_str()) {
-                continue;
-            }
-            let shown = translate(original, Language::Italian).unwrap_or(original);
-            assert_eq!(shown, key(italian), "«{original}»");
         }
     }
 

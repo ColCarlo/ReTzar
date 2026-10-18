@@ -3314,8 +3314,8 @@ fn the_last_lesson_is_won_by_six_stone_towers_and_leaving_the_field() {
 }
 
 // The campaigns of the other editions, «The Burden of the Crown»
-// (`TZAR.WCM` of the US CD) and «Los Dominios de la Magia» (FX's Spanish
-// edition), are not played through: their maps are opened and their
+// (`TZAR.WCM` of the US CD), «La Reconquista» and «Los Dominios de la
+// Magia» (FX's Spanish edition), are not played through: their maps are opened and their
 // openings run, every rule of every script is made true on a copy and run
 // to its last action, every conversation is walked down each of its
 // choices, every map is reached through the `LoadMap` of the one before
@@ -3344,7 +3344,28 @@ const AMERICAN: [&str; 19] = [
     "ultimate",
 ];
 
-/// The maps of the Spanish edition's campaign, in the order of its story.
+/// The maps of the Spanish edition's campaigns, in the order of their
+/// story: «La Reconquista» tells it on a map of Spain between its battles.
+const RECONQUISTA: [&str; 18] = [
+    "espaÑa10inicio",
+    "espaÑa10mision1",
+    "covadonga",
+    "espaÑa10mision2",
+    "barcelona",
+    "espaÑa10mision3",
+    "santiago",
+    "espaÑa10mision4",
+    "valencia",
+    "espaÑa10mision5",
+    "zaragoza",
+    "espaÑa10mision6",
+    "navas de tolosa",
+    "espaÑa10mision7",
+    "salado",
+    "espaÑa10mision8",
+    "conquista granada",
+    "espaÑa10final",
+];
 const DOMINIOS: [&str; 8] = [
     "huida en la noche",
     "desde las filas de los proscritos",
@@ -3357,8 +3378,9 @@ const DOMINIOS: [&str; 8] = [
 ];
 /// The campaigns of the other editions: their file and their maps, the
 /// first to the last.
-const OTHERS: [(&str, &[&str]); 2] = [
+const OTHERS: [(&str, &[&str]); 3] = [
     ("tzar.wcm", &AMERICAN),
+    ("la reconquista.wcm", &RECONQUISTA),
     ("los dominios de la magia.wcm", &DOMINIOS),
 ];
 
@@ -3532,7 +3554,21 @@ fn every_conversation_of_the_other_editions_campaigns_is_walked_down_each_choice
             continue;
         };
         p.watch(2, true, |_| false);
+        // A conversation no action starts is never said, in the original
+        // too (Valencia's «Reconstruccion»).
+        let started: BTreeSet<String> =
+            p.m.script
+                .actions
+                .iter()
+                .filter_map(|a| match &a.value {
+                    Action::Conversation(name) => Some(name.to_ascii_lowercase()),
+                    _ => None,
+                })
+                .collect();
         for (k, c) in p.m.conversations.clone().iter().enumerate() {
+            if !started.contains(&c.name.to_ascii_lowercase()) {
+                continue;
+            }
             talks += 1;
             // The names its lines test: walked once as they are, and once
             // with each set to 1 (a duel won, a deed done).
@@ -3571,12 +3607,44 @@ fn every_conversation_of_the_other_editions_campaigns_is_walked_down_each_choice
                 .iter()
                 .flat_map(|ph| ph.next.iter().copied().filter(move |&n| n != ph.index))
                 .collect();
+            // A line that tests an event of the map (Santiago's friar at
+            // the captain's side) waits on the world, which a copy does not
+            // stage: it and what only it leads to are left out.
+            let events: BTreeSet<String> =
+                p.m.script
+                    .events
+                    .iter()
+                    .map(|e| e.name.to_ascii_lowercase())
+                    .collect();
+            let on_world = |ph: &crate::dialogue::Phrase| {
+                crate::script::audit::symbols(&ph.condition)
+                    .into_iter()
+                    .any(|s| events.contains(&s.to_ascii_lowercase()))
+            };
+            let mut reach: BTreeSet<u16> = c
+                .phrases
+                .iter()
+                .filter(|ph| ph.start && !on_world(ph))
+                .map(|ph| ph.index)
+                .collect();
+            let mut queue: Vec<u16> = reach.iter().copied().collect();
+            while let Some(n) = queue.pop() {
+                let Some(ph) = c.phrases.iter().find(|ph| ph.index == n) else {
+                    continue;
+                };
+                for &m in &ph.next {
+                    if c.phrases.iter().any(|x| x.index == m && !on_world(x)) && reach.insert(m) {
+                        queue.push(m);
+                    }
+                }
+            }
             let never: Vec<u16> = (0..c.phrases.len())
                 .filter(|i| !said.contains(i))
                 .map(|i| c.phrases[i].index)
                 .filter(|n| {
                     led.contains(n) || c.phrases.iter().any(|ph| ph.index == *n && ph.start)
                 })
+                .filter(|n| reach.contains(n))
                 .collect();
             if !never.is_empty() {
                 unsaid.push(format!("{map}, «{}»: frasi {never:?}", c.name));

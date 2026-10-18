@@ -1,0 +1,1169 @@
+# La Reconquista (campagna dell'edizione spagnola di FX) in portoghese europeo: traduzione di questa versione.
+
+# la reconquista.wcm
+it: TZAR: El Cid e la Reconquista\nLa lotta intrapresa dagli stati cristiani per riconquistare le terre dominate dall'Islam, che durò quasi otto secoli, non fu una guerra continua: fu interrotta da lunghi periodi di pace ed ebbe avanzate e ritirate secondo la forza dei contendenti...
+pt: TZAR: O Cid e a Reconquista\nA luta que os estados cristãos travaram para recuperar as terras dominadas pelo islão, e que durou quase oito séculos, não foi uma guerra constante: foi interrompida por longos períodos de paz e teve avanços e recuos conforme a força dos contendores...
+
+# la reconquista.wcm::maps/espaÑa10final
+it: Spagna - finale
+pt: Espanha - final
+it: Regno 1
+pt: Reino 1
+it: Tzar 1
+pt: Tzar 1
+it: Regno 2
+pt: Reino 2
+it: Tzar 2
+pt: Tzar 2
+it: Regno 3
+pt: Reino 3
+it: Tzar 3
+pt: Tzar 3
+it: Regno 4
+pt: Reino 4
+it: Tzar 4
+pt: Tzar 4
+it: Regno 5
+pt: Reino 5
+it: Tzar 5
+pt: Tzar 5
+it: Regno 6
+pt: Reino 6
+it: Tzar 6
+pt: Tzar 6
+it: Regno 7
+pt: Reino 7
+it: Tzar 7
+pt: Tzar 7
+it: Regno 8
+pt: Reino 8
+it: Tzar 8
+pt: Tzar 8
+it: Il re Boabdil e sua madre Fatima vengono cacciati dalla Spagna...
+pt: O rei Boabdil e a sua mãe Fátima são expulsos de Espanha...
+it: Boabdil non rivide mai più Granada...
+pt: Boabdil nunca mais voltou a ver Granada...
+it: "L'arabo ha un'immaginazione impressionabile e focosa che lo strappa d'un tratto alla malinconia a cui è incline per gettarlo in un'attività instancabile. Sotto la pelle fine e il corpo snello e aggraziato si celano nervi d'acciaio e muscoli di ferro; il suo sguardo tranquillo e profondo si trasforma d'un tratto in un lampo che confonde il nemico. Nella sua vita non ci sono di solito vie di mezzo: o resta quasi immobile sulla porta di casa, o cerca il modo di sfogare il suo ardore sfiancando il cavallo."\n\nStorico sconosciuto.
+pt: "O árabe tem uma imaginação impressionável e fogosa que o arranca de repente à melancolia a que é propenso para o lançar numa atividade incansável. Sob a sua pele fina e o seu corpo esguio e airoso escondem-se nervos de aço e músculos de ferro; o seu olhar tranquilo e profundo transforma-se de repente num raio que confunde o inimigo. Na sua vida não costuma haver meios-termos: ou fica quase imóvel à porta de casa, ou procura esgotar a sua fogosidade rebentando o cavalo."\n\nHistoriador desconhecido.
+it: Snif, snif, snif... (pianti)
+pt: Snif, snif, snif... (choro)
+it: Piangi come una donna ciò che non hai saputo difendere come un uomo.
+pt: Chora como mulher o que não soubeste defender como homem.
+it: Snif, snif, snif... la mia Granada...
+pt: Snif, snif, snif... a minha Granada...
+
+# la reconquista.wcm::maps/espaÑa10inicio
+it: Gli arabi conquistano la Penisola...
+pt: Os árabes conquistam a Península...
+it: Nell'anno 711 comincia l'invasione musulmana della penisola iberica...
+pt: No ano de 711 começa a invasão muçulmana da Península Ibérica...
+it: MAPS\\ESPAÑA10mision1.wmp|
+pt: MAPS\\ESPAÑA10mision1.wmp|
+it: HISPANIA, ANNO 711 DI NOSTRO SIGNORE
+pt: HISPÂNIA, ANO DE NOSSO SENHOR DE 711
+it: L'esercito musulmano guidato da Tariq ibn Ziyad sconfigge il re visigoto Rodrigo.
+pt: O exército muçulmano comandado por Tárique ibne Ziade derrota o rei visigodo Rodrigo.
+it: L'anno seguente le truppe arabe al comando di Musa ibn Nusayr si uniscono a quelle di Tariq e
+pt: No ano seguinte, tropas árabes às ordens de Muça ibne Noçáir juntam-se às de Tárique e
+it: insieme decidono di proseguire la conquista...
+pt: juntos decidem prosseguir a conquista...
+it: In meno di cinque anni gli arabi si impadroniscono del territorio della penisola.
+pt: Em menos de cinco anos, os árabes tornam-se senhores do território peninsular.
+it: Nell'anno 711 comincia l'invasione musulmana della penisola iberica. In poco tempo la sua espansione la porterà fino al sud della Francia, dove la sua avanzata verrà fermata.\n\nTutto cominciò con la rivalità tra due fazioni: i sostenitori di Rodrigo e quelli dei figli di Vitiza. I figli di Vitiza chiesero aiuto ai musulmani per sconfiggere Rodrigo, e nel 710 avvenne un primo sbarco di ricognizione guidato da Tariq ibn Malluk.\n\nNell'anno 711 avviene lo sbarco definitivo a Gibilterra. All'inizio della lotta contro Rodrigo i sostenitori di Vitiza disertano e i musulmani vincono facilmente presso il Guadalete (19-7-711). L'indifferenza della popolazione, la corruzione dei nobili visigoti e l'appoggio degli ebrei completano il successo militare, e i musulmani occupano Écija, Cordova, Astorga e la stessa capitale: Toledo. Pochi anni dopo il Guadalete i musulmani si sono impadroniti di quasi tutta la penisola, tranne alcune enclavi cantabriche, asturiane e pirenaiche.
+pt: No ano de 711 começa a invasão muçulmana da Península Ibérica. Em pouco tempo a sua expansão levá-la-á até ao sul de França, onde o seu avanço será travado.\n\nTudo começou com a rivalidade entre duas fações: os partidários de Rodrigo e os partidários dos filhos de Vitiza. Os filhos de Vitiza pediram ajuda aos muçulmanos para vencer Rodrigo, e em 710 deu-se um primeiro desembarque de reconhecimento dirigido por Tárique ibne Maluque.\n\nNo ano de 711 dá-se o desembarque definitivo em Gibraltar. Ao iniciar-se a luta contra Rodrigo, os partidários de Vitiza desertam, e os muçulmanos vencem facilmente no Guadalete (19-7-711). A indiferença da população, o suborno dos nobres visigodos e o apoio dos judeus completam o êxito militar, e os muçulmanos ocupam Écija, Córdova, Astorga e a própria capital: Toledo. Poucos anos depois do Guadalete, os muçulmanos apoderaram-se de quase toda a península, exceto alguns enclaves cantábricos, asturianos e pirenaicos.
+
+# la reconquista.wcm::maps/espaÑa10mision1
+it: Spagna - missione 1
+pt: Espanha - missão 1
+it: PENDICI DEI PICOS DE EUROPA, 28 MAGGIO DELL'ANNO 722 DI NOSTRO SIGNORE
+pt: CONTRAFORTES DOS PICOS DA EUROPA, 28 DE MAIO DO ANO DE NOSSO SENHOR DE 722
+it: Un pugno di asturiani, al comando di Don Pelayo, mette in fuga una colonna musulmana
+pt: Um punhado de ástures, sob o comando de Dom Pelágio, põe em fuga uma coluna muçulmana
+it: Questo fatto, quasi ignorato dai musulmani, segnerà l'inizio della Reconquista
+pt: Este acontecimento, quase ignorado pelos muçulmanos, marcará o início da Reconquista
+it: nella cosiddetta battaglia di Covadonga.
+pt: na chamada batalha de Covadonga.
+it: I primi focolai della Reconquista si trovarono nelle terre montuose del nord, dai Pirenei alle Asturie. Questa zona interessò poco ai musulmani, data la sua povertà e l'asprezza del territorio. Lì si rifugiarono i cristiani che non vollero sottomettersi e si rifiutarono di pagare il tributo all'emiro. Questi inviò un piccolo contingente militare che fu sconfitto a Covadonga (722). Il risultato di questa battaglia, che militarmente non ebbe grande importanza ma ebbe un enorme valore morale, fu la nascita del regno delle Asturie, che divenne il primo nucleo di resistenza.
+pt: Os primeiros focos da Reconquista situavam-se nas terras montanhosas do norte, dos Pirenéus às Astúrias. Esta zona pouco interessou aos muçulmanos, dada a sua pobreza e a dificuldade do relevo. Ali se refugiaram os cristãos que não quiseram submeter-se e se recusaram a pagar tributo ao emir. Este enviou um pequeno contingente militar que foi derrotado em Covadonga (722). O resultado desta batalha, que militarmente não teve grande importância mas teve um enorme valor moral, foi a criação do reino das Astúrias, que se tornou o primeiro núcleo de resistência.
+
+# la reconquista.wcm::maps/espaÑa10mision2
+it: Spagna - missione 2
+pt: Espanha - missão 2
+it: BARCELLONA, ANNO 877 DI NOSTRO SIGNORE.
+pt: BARCELONA, ANO DE NOSSO SENHOR DE 877.
+it: Goffredo "il Villoso" sconfigge il traditore Bernardo di Gotia e...
+pt: Wifredo, "o Cabeludo", acaba com o traidor Bernardo de Gótia e...
+it: caccia i musulmani sull'altra riva del fiume Llobregat.
+pt: expulsa os muçulmanos para a outra margem do rio Llobregat.
+it: Dopo Covadonga i cristiani riconquistarono tutta la zona montuosa, dalla Cantabria alla Galizia. Tuttavia il loro piccolo numero e le divisioni interne impedirono loro, per più di un secolo, di aspirare ad altro che a difendere le proprie montagne dai potenti eserciti musulmani. A metà dell'VIII secolo, approfittando delle lotte civili dell'emirato, cominciarono a compiere incursioni verso il fiume Duero. Il fiume sarà per molti anni il confine ispano-arabo.\n\nAnche la Catalogna era caduta in mano ai mori. Ma i suoi abitanti chiesero aiuto a Carlo Magno e cominciarono la riconquista. Dopo continue battaglie con i franchi si impadronirono di buona parte della Catalogna, e Carlo Magno la unì al suo impero con il nome di Marca Ispanica nell'anno 797: era formata dall'insieme dei territori confinanti con i domini musulmani annessi all'impero carolingio. Comprendeva le regioni di Tolosa e Settimania e le contee catalane, e fungeva da zona di protezione dell'impero carolingio contro gli arabi.\n\nHisham I, capo catalano, ricacciò i franchi nel loro paese, anche se per poco tempo. Ludovico il Pio, figlio dell'imperatore franco Carlo Magno, tornò con un potente esercito e conquistò Barcellona il 28 dicembre dell'801, dopo averla assediata per quasi un anno.\n\nLa capitolazione obbligò gli abitanti a riconoscere la sovranità dei franchi e a difendere la città e la frontiera.
+pt: Depois de Covadonga, os cristãos recuperaram toda a zona montanhosa, da Cantábria à Galiza. No entanto, o seu pequeno número e as divisões internas impediram-nos, durante mais de um século, de aspirar a algo mais do que defender as suas montanhas contra os poderosos exércitos muçulmanos. Em meados do século VIII, aproveitando as lutas civis do emirado, começaram a fazer incursões até ao rio Douro. O rio será durante muitos anos a fronteira entre cristãos e árabes.\n\nTambém a Catalunha caíra em poder dos mouros. Mas os seus habitantes pediram auxílio a Carlos Magno e começaram a reconquista. Depois de combates contínuos ao lado dos francos, apoderaram-se de boa parte da Catalunha, e Carlos Magno juntou-a ao seu império com o nome de Marca Hispânica no ano de 797: o conjunto dos territórios limítrofes dos domínios muçulmanos anexados ao império carolíngio. Abrangia as regiões de Toulouse e da Septimânia e os condados catalães, e servia de zona de proteção do império carolíngio face aos árabes.\n\nHixame I fez recuar os francos para o seu país, embora por pouco tempo. Luís, o Piedoso, filho do imperador franco Carlos Magno, voltou com um poderoso exército e conquistou Barcelona a 28 de dezembro de 801, depois de a cercar durante quase um ano inteiro.\n\nA capitulação obrigou os seus habitantes a reconhecer a soberania dos francos e a defender a cidade e a fronteira.
+
+# la reconquista.wcm::maps/espaÑa10mision3
+it: Spagna - missione 3
+pt: Espanha - missão 3
+it: SANTIAGO, ESTATE DEL 997 DI NOSTRO SIGNORE.
+pt: SANTIAGO, VERÃO DO ANO DE NOSSO SENHOR DE 997.
+it: Almanzor, "il Vittorioso per grazia di Allah", ha cominciato una razzia.
+pt: Almançor, "o Vitorioso por Alá", começou uma razia.
+it: Sconfigge i cristiani in varie battaglie e distrugge la città di Santiago e la sua cattedrale
+pt: Derrota os cristãos em várias batalhas e destrói a cidade de Santiago e a sua catedral
+it: Il X secolo, di grande splendore per la corte califfale di Cordova, fu particolarmente duro per i piccoli stati cristiani della penisola. Videro la loro espansione fermata dagli eserciti musulmani e dovettero subire di continuo nei loro territori razzie e saccheggi. Nonostante ciò riuscirono, sia con le armi sia pagando tributi, a mantenere l'indipendenza. Il regno di León e la contea di Castiglia concentrarono i loro sforzi nel difendere la frontiera del Duero e sconfissero i musulmani a San Esteban de Gormaz (917), ma non poterono impedire che gli eserciti di Abd al-Rahman III arrivassero a Valdejunquera (920), dove inflissero ai cristiani una grande sconfitta, e a Burgos (934). Nella parte orientale la Catalogna dovette pagare tributi a lungo, senza per questo evitare che Barcellona fosse saccheggiata e distrutta nel 985.
+pt: O século X, de grande esplendor para a corte califal de Córdova, foi especialmente duro para os pequenos estados cristãos peninsulares. Viram a sua expansão travada pelos exércitos muçulmanos e tiveram de sofrer constantemente razias e saques nos seus territórios. Apesar disso, conseguiram, quer pelas armas quer pagando tributos, manter a independência. O reino de Leão e o condado de Castela concentraram os seus esforços na defesa da fronteira do Douro e derrotaram os muçulmanos em San Esteban de Gormaz (917), mas não puderam impedir que os exércitos de Abderramão III chegassem a Valdejunquera (920), onde infligiram aos cristãos uma grande derrota, e a Burgos (934). Na parte oriental, a Catalunha teve de pagar tributo durante muito tempo, sem que isso evitasse que Barcelona fosse saqueada e destruída no ano de 985.
+
+# la reconquista.wcm::maps/espaÑa10mision4
+it: Spagna - missione 4
+pt: Espanha - missão 4
+it: VALENCIA, ANNO 1094 DI NOSTRO SIGNORE
+pt: VALÊNCIA, ANO DE NOSSO SENHOR DE 1094
+it: Rodrigo Díaz de Vivar, il Cid, parte da Saragozza verso Valencia.
+pt: Rodrigo Díaz de Vivar, o Cid, parte de Saragoça rumo a Valência.
+it: E dopo un grande sforzo conquista Valencia.
+pt: E depois de um grande esforço, conquista Valência.
+it: Riesce a conquistare Albarracín...
+pt: Consegue conquistar Albarracín...
+it: La morte di Almanzor e la divisione del califfato in diversi regni di taifa segnarono l'inizio di una nuova fase della Reconquista. I regni cristiani, tuttavia, non possono ancora riconquistare la Penisola e si limitano a intervenire nelle lotte tra i vari regni di taifa, a riscuotere tributi e a preparare il futuro con frequenti scorrerie. Le conquiste più importanti di quest'epoca sono quelle di Braga (1040), Coimbra (1064), Toledo (1085) e l'effimera conquista di Valencia da parte del Cid (1092).\n\nGli stati orientali, dal canto loro, non poterono trarre altrettanto vantaggio dalla frammentazione del califfato, perché nelle ricche zone dell'Ebro e del Segre i musulmani formarono stati potenti. I fatti militari più notevoli sono le conquiste di Barbastro, Graus, Monzón (1089) e Huesca (1096) da parte dell'Aragona, e di Camarasa (1050) e della Bassa Ribagorza (1096), oltre a un'audace spedizione che saccheggiò Cordova, da parte catalana.
+pt: A morte de Almançor e a divisão do califado em vários reinos de taifas marcaram o começo de uma nova etapa da Reconquista. Os reinos cristãos, no entanto, ainda não podem reconquistar a Península e limitam-se a intervir nas lutas entre os vários reinos de taifas, a cobrar-lhes tributo e a preparar o futuro com frequentes algaradas. As conquistas mais importantes desta época são as de Braga (1040), Coimbra (1064), Toledo (1085) e a efémera conquista de Valência pelo Cid (1092).\n\nOs estados orientais, por seu lado, não puderam tirar tanto proveito do fracionamento do califado, pois nas ricas zonas do Ebro e do Segre os muçulmanos formaram estados poderosos. Os feitos militares mais assinaláveis são as conquistas de Barbastro, Graus, Monzón (1089) e Huesca (1096) por Aragão, e de Camarasa (1050) e da Baixa Ribagorça (1096), bem como uma audaz expedição que saqueou Córdova, da parte catalã.
+
+# la reconquista.wcm::maps/espaÑa10mision5
+it: Spagna - missione 5
+pt: Espanha - missão 5
+it: VALLE DELL'EBRO, ANNO 1104 DI NOSTRO SIGNORE.
+pt: VALE DO EBRO, ANO DE NOSSO SENHOR DE 1104.
+it: Alfonso I "il Battagliero" dedica la vita a combattere gli infedeli...
+pt: Afonso I, "o Batalhador", dedica a vida a lutar contra os infiéis...
+it: Dopo un lungo assedio conquista Saragozza.
+pt: Depois de um longo cerco, conquista Saragoça.
+it: La rinascita di al-Andalus nel XII secolo, quando sembrava prossimo a cadere nelle mani di Alfonso VI, si dovette a una nuova invasione dall'Africa: quella degli almoravidi (1086), il cui sultano Yusuf, dopo aver sconfitto Alfonso VI a Sagrajas (1086), conquistò i vari regni di taifa (1091-1094). Padroni di tutto al-Andalus, gli almoravidi attaccarono i regni cristiani. Sconfissero Alfonso VI a Consuegra (1097) e a Uclés (1108) e presero la fortezza di Aledo in Murcia (1102), Valencia (1102) e Saragozza (1110). In seguito, nei territori africani degli almoravidi si ribellarono gli almohadi, e gran parte del loro esercito dovette spostarsi lì.\n\nQuesta debolezza fu sfruttata per prima dall'Aragona, che avviò la controffensiva impadronendosi di Saragozza (1118) e, dopo la battaglia di Cutanda (1120), di Tudela, Borja, Tarazona e Calatayud. Alla conquista di queste terre seguì il ripopolamento con mozarabi venuti da al-Andalus e mudéjares che accettarono una resa vantaggiosa.
+pt: O ressurgimento do al-Andalus no século XII, quando parecia prestes a cair nas mãos de Afonso VI, deveu-se a uma nova invasão vinda de África: a dos almorávidas (1086), cujo sultão Iúçufe, depois de derrotar Afonso VI em Sagrajas (1086), conquistou os vários reinos de taifas (1091-1094). Senhores de todo o al-Andalus, os almorávidas atacaram os reinos cristãos. Derrotaram Afonso VI em Consuegra (1097) e Uclés (1108) e tomaram a fortaleza de Aledo em Múrcia (1102), Valência (1102) e Saragoça (1110). Depois disto, nos territórios africanos dos almorávidas revoltaram-se os almóadas, e grande parte do seu exército teve de deslocar-se para lá.\n\nEsta fraqueza foi aproveitada primeiro por Aragão, que iniciou a contraofensiva apoderando-se de Saragoça (1118) e, depois da batalha de Cutanda (1120), de Tudela, Borja, Tarazona e Calatayud. À conquista destas terras seguiu-se o repovoamento com moçárabes vindos do al-Andalus e mudéjares que aceitaram uma capitulação vantajosa.
+
+# la reconquista.wcm::maps/espaÑa10mision6
+it: Spagna - missione 6
+pt: Espanha - missão 6
+it: NAVAS DE TOLOSA, ANNO 1212 DI NOSTRO SIGNORE.
+pt: NAVAS DE TOLOSA, ANO DE NOSSO SENHOR DE 1212.
+it: Il 16 luglio 1212 gli eserciti aragonese, navarrese e castigliano uniscono le forze per combattere
+pt: A 16 de julho de 1212, os exércitos aragonês, navarro e castelhano unem forças para combater
+it: il terribile esercito almohade comandato da al-Nasir.
+pt: o terrível exército almóada capitaneado por al-Nasir.
+it: Questa vittoria cristiana sarà decisiva per l'avanzata negli anni successivi.
+pt: Esta vitória cristã será decisiva para o avanço nos anos seguintes.
+it: L'esercito cristiano avanzò fino alla Sierra Morena dove, a Las Navas de Tolosa (il 16 luglio 1212), si combatté una battaglia decisiva, dopo la quale gli eserciti dell'Islam, un tempo orgogliosi, cessarono di essere un pericolo per gli stati cristiani. Poco dopo gli arabi furono ridotti a una piccola zona del sud dell'Andalusia, il regno di Granada (1238), che sarebbe stato per due secoli e mezzo l'ultimo baluardo dell'Islam spagnolo.\n\nAnnientati gli almohadi in questa battaglia, i regni cristiani avanzarono rapidamente verso sud.\n\nIn questa congiuntura la conquista dello stretto di Gibilterra interessava moltissimo ai regni cristiani per evitare nuove invasioni dall'Africa. A questo scopo Sancho IV di Castiglia e Giacomo II d'Aragona stipularono il trattato di Monteagudo (nel 1291), che prevedeva la conquista del Maghreb, da spartire tra Castiglia e Aragona lungo la linea del fiume Muluya. Il primo risultato di questa alleanza, di cui in un primo momento fece parte anche il re di Granada, fu la conquista della strategica piazza di Tarifa (1292), che restò in mano castigliana e fu difesa da Guzmán el Bueno. In un patto successivo (il trattato di Alcalá del 1309), Catalogna e Aragona si accordarono per cacciare i musulmani da Granada e spartirsi quel regno. La flotta castigliana assediò Algeciras, mentre quella aragonese assediava Ceuta, sbarcava un esercito ad Almería e aiutava Guzmán el Bueno a impadronirsi di Gibilterra (1302).\n\nIn questa campagna parteciparono come alleati dei regni spagnoli i merinidi, che ambivano a prendere Granada ed erano succeduti agli almohadi nel dominio del Maghreb.
+pt: O exército cristão avançou até à Serra Morena onde, nas Navas de Tolosa (a 16 de julho de 1212), se travou uma batalha decisiva, depois da qual os outrora orgulhosos exércitos do islão deixaram de ser um perigo para os estados cristãos. Pouco depois, os árabes ficaram reduzidos a uma pequena zona do sul da Andaluzia, o reino de Granada (1238), que haveria de ser durante dois séculos e meio o último reduto do islão espanhol.\n\nAniquilados os almóadas nesta batalha, os reinos cristãos avançaram rapidamente para sul.\n\nNesta conjuntura, a conquista do estreito de Gibraltar interessava sumamente aos reinos cristãos para evitar novas invasões vindas de África. Com esse fim, Sancho IV de Castela e Jaime II de Aragão celebraram o tratado de Monteagudo (em 1291), no qual se acordava a conquista do Magrebe, a repartir entre Castela e Aragão pela linha divisória do rio Moulouya. O primeiro resultado desta aliança, da qual num primeiro momento também fez parte o rei de Granada, foi a conquista da estratégica praça de Tarifa (1292), que ficou em mãos castelhanas e foi defendida por Guzmán, o Bom. Num pacto posterior (o tratado de Alcalá de 1309), a Catalunha e Aragão acordaram expulsar os muçulmanos de Granada e repartir esse reino. A esquadra castelhana cercou Algeciras, enquanto a aragonesa cercava Ceuta, desembarcava um exército em Almería e ajudava Guzmán, o Bom, a apoderar-se de Gibraltar (1302).\n\nNesta campanha participaram como aliados dos reinos espanhóis os merínidas, que ambicionavam tomar Granada e tinham sucedido aos almóadas no domínio do Magrebe.
+
+# la reconquista.wcm::maps/espaÑa10mision7
+it: Spagna - missione 7
+pt: Espanha - missão 7
+it: ALGECIRAS, ANNO 1340 DI NOSTRO SIGNORE.
+pt: ALGECIRAS, ANO DE NOSSO SENHOR DE 1340.
+it: Alfonso XI sconfigge la coalizione formata da Yusuf I e dai merinidi nella battaglia del Salado.
+pt: Afonso XI derrota a coligação formada por Iúçufe I e pelos merínidas na batalha do Salado.
+it: Questa vittoria diede ai castigliani il dominio dello stretto di Gibilterra.
+pt: Esta vitória deu aos castelhanos o domínio do estreito de Gibraltar.
+it: Pochi anni dopo, nel 1344, i cristiani conquisteranno Algeciras.
+pt: Poucos anos depois, em 1344, os cristãos conquistarão Algeciras.
+it: I merinidi, dopo aver fatto la pace con il regno di Granada, strapparono Gibilterra ai regni cristiani (1333). Nel 1340 sbarcarono nella Penisola e assediarono Tarifa. La Castiglia riuscì a sconfiggere i merinidi nella battaglia del Río Salado (1340) e, con l'aiuto delle navi catalane, a riprendere Algeciras (1342) e ad assediare Gibilterra.\n\nDopo queste campagne la lotta contro il regno di Granada si interruppe quasi del tutto per 150 anni.
+pt: Os merínidas, depois de fazerem a paz com o reino de Granada, arrebataram Gibraltar aos reinos cristãos (1333). Em 1340 desembarcaram na Península e cercaram Tarifa. Castela pôde derrotar os merínidas na batalha do rio Salado (1340) e, com a ajuda das naus catalãs, recuperar Algeciras (1342) e cercar Gibraltar.\n\nDepois destas campanhas, a luta contra o reino de Granada interrompeu-se quase por completo durante 150 anos.
+
+# la reconquista.wcm::maps/espaÑa10mision8
+it: Spagna - missione 8
+pt: Espanha - missão 8
+it: GRANADA, ANNO 1492 DI NOSTRO SIGNORE.
+pt: GRANADA, ANO DE NOSSO SENHOR DE 1492.
+it: I Re Cattolici, con un'abile politica, riescono a prendere Granada.
+pt: Os Reis Católicos, com uma política hábil, conseguem tomar Granada.
+it: Questo fatto segnerà la fine della Reconquista.
+pt: Este acontecimento marcará o fim da Reconquista.
+it: Pochi anni dopo, nell'anno 1344 di Nostro Signore, i cristiani conquistano Algeciras.
+pt: Poucos anos depois, no ano de Nosso Senhor de 1344, os cristãos conquistam Algeciras.
+it: Unite le corone di Castiglia e d'Aragona, la prima impresa che i Re Cattolici si proposero fu quella di portare a termine la Reconquista. L'unione delle due corone permise ai sovrani di disporre delle risorse finanziarie, navali e militari di Catalogna, Aragona e Valencia. La guerra, che durò undici anni, cominciò con la presa a sorpresa della fortezza di Zahara (1481) e la conquista di Alhama (1482). L'anno seguente le armi spagnole subirono la sconfitta dell'Axarquía, ma il rovescio fu compensato dal trionfo nella battaglia di Lucena (1483), dove fu fatto prigioniero Boabdil, figlio e al tempo stesso rivale del sultano Abu al-Hasan, che Ferdinando liberò per alimentare le lotte civili a Granada. Presi da queste lotte, i granadini videro cadere a poco a poco le principali piazze del regno (Ronda e Marbella nel 1485, Loja nel 1486, Vélez-Málaga e Malaga nel 1487, Baza, Guadix e Almería nel 1489...) finché gli arabi furono ridotti alla sola città di Granada, presa il 2 gennaio 1492 dopo un anno d'assedio.
+pt: Unidas as coroas de Castela e Aragão, a primeira empresa a que os Reis Católicos se propuseram foi terminar a Reconquista. A união das duas coroas permitiu aos reis dispor dos recursos financeiros, navais e militares da Catalunha, de Aragão e de Valência. A guerra, que durou onze anos, começou com a tomada de surpresa da fortaleza de Zahara (1481) e a conquista de Alhama (1482). No ano seguinte, as armas espanholas sofreram a derrota da Axarquía, mas esse revés foi compensado pelo triunfo na batalha de Lucena (1483), onde foi feito prisioneiro Boabdil, filho e ao mesmo tempo rival do sultão Abu al-Hassan, que Fernando libertou para fomentar as lutas civis em Granada. Enredados os granadinos nessas lutas, pouco a pouco foram caindo as principais praças do reino (Ronda e Marbella em 1485, Loja em 1486, Vélez-Málaga e Málaga em 1487, Baza, Guadix e Almería em 1489...) até que os árabes ficaram reduzidos à cidade de Granada, tomada a 2 de janeiro de 1492, depois de um ano de cerco.
+
+# la reconquista.wcm::maps/navas de tolosa
+it: Las Navas de Tolosa
+pt: As Navas de Tolosa
+it: Il 16 luglio 1212 gli eserciti aragonese, navarrese e castigliano unirono le forze per combattere a Las Navas de Tolosa il terribile esercito almohade comandato dal "Miramamolín" al-Nasir. Questa battaglia sarà decisiva per l'avanzata cristiana negli anni successivi.
+pt: A 16 de julho de 1212, os exércitos aragonês, navarro e castelhano uniram as suas forças para combater nas Navas de Tolosa o terrível exército almóada capitaneado pelo "Miramolim" al-Nasir. Esta batalha será decisiva para o avanço cristão nos anos seguintes.
+it: Cristiani
+pt: Cristãos
+it: Almohadi
+pt: Almóadas
+it: Contadini
+pt: Aldeões
+it: Francesi
+pt: Franceses
+it: Sancho VII
+pt: Sancho VII
+it: Re
+pt: Rei
+it: Rodrigo
+pt: Rodrigo
+it: Arcivescovo
+pt: Arcebispo
+it: Arnaldo
+pt: Arnaldo
+it: Alfonso VIII
+pt: Afonso VIII
+it: Pietro II
+pt: Pedro II
+it: Isidro
+pt: Isidro
+it: Pastore
+pt: Pastor
+it: Al-Nasir
+pt: Al-Nasir
+it: Miramamolín
+pt: Miramolim
+it: Miranda
+pt: Miranda
+it: Elena
+pt: Elena
+it: Cartello
+pt: Cartaz
+it: Villaggio di Miranda.
+pt: Aldeia de Miranda.
+it: Villaggio di Santa Elena.
+pt: Aldeia de Santa Elena.
+it: Elimina al-Nasir e sconfiggi il suo esercito.\nAlmeno un capo cristiano deve sopravvivere.
+pt: Acaba com al-Nasir e derrota o seu exército.\nPelo menos um chefe cristão tem de sobreviver.
+it: Il re Sancho VII di Navarra è caduto in battaglia.
+pt: O rei Sancho VII de Navarra caiu em batalha.
+it: Il re Pietro II d'Aragona è caduto in battaglia.
+pt: O rei Pedro II de Aragão caiu em batalha.
+it: Il re Alfonso VIII di Castiglia è caduto in battaglia.
+pt: O rei Afonso VIII de Castela caiu em batalha.
+it: L'arcivescovo Rodrigo è caduto in battaglia.
+pt: O arcebispo Rodrigo caiu em batalha.
+it: L'arcivescovo Arnaldo è caduto in battaglia.
+pt: O arcebispo Arnaldo caiu em batalha.
+it: Al-Nasir è caduto in battaglia.
+pt: Al-Nasir caiu em batalha.
+it: I cavalieri francesi sono arrivati da nord.
+pt: Os cavaleiros franceses chegaram pelo norte.
+it: Dalla metà del XII secolo al-Andalus era sotto il potere degli almohadi, una setta musulmana i cui califfi si facevano chiamare "Miramamolín", che significa "Principe dei credenti".\n\nNel frattempo i regni cristiani si combattevano l'un l'altro in continue lotte per tracciare i loro confini, lotte di cui gli almohadi approfittavano per intensificare i loro attacchi.\n\nDopo una serie di sconfitte cristiane, tra cui spiccano la battaglia di Alarcos nel 1195 e la caduta di Salvatierra nel 1211, Alfonso VIII, re di Castiglia, decise di organizzare la resistenza.\n\nDopo un'assemblea riunita a Toledo nel 1211, Alfonso VIII di Castiglia inviò l'arcivescovo della città, Rodrigo Jiménez de Rada, in Francia e il vescovo di Segovia, Gerardo, a Roma, in cerca dell'aiuto del Papa. Ordinò anche ai suoi sudditi di spendere il loro denaro in armi e non in fortificazioni, giocandosi il tutto per tutto.\n\nPapa Innocenzo III diede all'impresa il carattere di crociata e ordinò agli arcivescovi di Santiago e di Toledo di impedire che Alfonso IX di León, o chiunque altro, si alleasse con i musulmani, pena la scomunica. Obbligò inoltre i re cristiani a rimandare le loro liti a dopo la crociata. A Roma si tennero preghiere speciali per il buon esito della campagna.\n\nQuanto ai francesi, non si poté ottenere alcuna promessa ferma da Filippo II di Francia, ma molti cavalieri francesi si offrirono volontari per partecipare alla crociata, spinti da prediche, arringhe e canzoni.\n\nLa prima domenica dopo la Pentecoste del 1212 le truppe di Alfonso VIII di Castiglia, di Pietro II d'Aragona e alcuni contingenti d'oltralpe si radunarono a Toledo.\n\nDopo aver colto alcune vittorie, come la conquista di Calatrava, le forze straniere, tranne l'arcivescovo francese Arnaldo, abbandonarono l'esercito cristiano strappandosi la croce che portavano sulla spalla, perché Alfonso VIII aveva vietato il saccheggio delle terre conquistate.\n\nGli almohadi, invece, si radunarono a Jaén al comando del loro califfo Muhammad ibn Ya'qub al-Nasir.\n\nI crociati arrivarono il 13 luglio ai piedi della Sierra Morena, dove gli almohadi erano accampati nella piana di Las Navas de Tolosa. Presto i cristiani capirono che non potevano proseguire senza combattere.\n\nIn quel momento Sancho VII, re di Navarra, fino ad allora nemico di Alfonso VIII, andò incontro all'esercito cristiano...
+pt: Desde meados do século XII, o al-Andalus estava sob o poder dos almóadas, uma seita muçulmana cujos califas se chamavam "Miramolim", que significa "Príncipe dos crentes".\n\nEntretanto, os reinos cristãos enfrentavam-se uns aos outros em lutas constantes pela delimitação das suas fronteiras, lutas que os almóadas aproveitavam para intensificar os seus ataques.\n\nDepois de uma série de derrotas cristãs, entre as quais se destacam a da batalha de Alarcos em 1195 e a queda de Salvatierra em 1211, Afonso VIII, rei de Castela, decidiu organizar a resistência.\n\nDepois de uma assembleia reunida em Toledo em 1211, Afonso VIII de Castela enviou o arcebispo da cidade, Rodrigo Jiménez de Rada, a França, e o bispo de Segóvia, Gerardo, a Roma, em busca da ajuda do Papa. Ordenou também aos seus súbditos que gastassem o seu dinheiro em armas e não em fortificações, jogando o tudo por tudo.\n\nO Papa Inocêncio III deu à empresa o caráter de cruzada e ordenou aos arcebispos de Santiago e de Toledo que evitassem que Afonso IX de Leão, ou qualquer outro, se aliasse aos muçulmanos, sob pena de excomunhão. Obrigou além disso os reis cristãos a adiar as suas querelas para depois da cruzada. Em Roma fizeram-se orações especiais pelo bom resultado da campanha.\n\nQuanto aos franceses, não se conseguiu obter nenhuma promessa firme de Filipe II de França, mas muitos cavaleiros franceses apresentaram-se voluntários para participar na cruzada, motivados pelos sermões, arengas e canções.\n\nNo primeiro domingo depois do Pentecostes de 1212, as tropas de Afonso VIII de Castela, de Pedro II de Aragão e alguns contingentes de além-Pirenéus concentraram-se em Toledo.\n\nDepois de colherem algumas vitórias, como a conquista de Calatrava, as forças estrangeiras, exceto o arcebispo francês Arnaldo, abandonaram o exército cristão, arrancando a cruz que traziam ao ombro, perante a recusa de Afonso VIII em permitir o saque das terras conquistadas.\n\nQuanto aos almóadas, concentraram-se em Jaén sob o comando do seu califa Maomé ibne Iacube al-Nasir.\n\nOs cruzados chegaram a 13 de julho ao sopé da Serra Morena, onde os almóadas acampavam na planície das Navas de Tolosa. Depressa os cristãos compreenderam que não podiam seguir em frente sem lutar.\n\nNesse momento, Sancho VII, rei de Navarra, até então inimigo de Afonso VIII, foi ao encontro do exército cristão...
+it: Quel giorno del 1212 i vescovi poterono intonare un Te Deum sul campo di battaglia mentre i fuggiaschi venivano inseguiti per venti chilometri. I cristiani uccisero più almohadi allora che in tutta la battaglia.\n\nAlla fine al-Nasir riuscì a fuggire, cambiò cavallo a Baeza e arrivò quel sabato notte a Jaén; morì in Marocco l'anno seguente.\n\nQuanto al pastore, che non fu più visto, molti credettero che fosse sant'Isidro.\n\nIl Papa usò nelle sue prediche il testo della cronaca della battaglia, narrata dall'arcivescovo Arnaldo, diffondendolo in tutta Europa. I cronisti e i giullari non smisero di ripetere la cifra di settantamila musulmani morti.\n\nIl modo in cui erano incatenate le guardie nere sarà poi usato nello stemma di Navarra. Le catene e la bandiera del Miramamolín furono prese come trofei e oggi sono conservate nella Diputación Foral di Navarra e nel monastero di Las Huelgas a Burgos.\n\nI cristiani sconfissero senza attenuanti gli almohadi, mal pagati. Questo evento bellico segnò il crollo dell'impero almohade e la disgregazione di al-Andalus nei terzi regni di taifa, lasciando gran parte dell'Andalusia alla mercé dei cristiani. La fine della Reconquista era ormai solo questione di tempo.
+pt: Naquele dia do ano de 1212, os bispos puderam cantar um Te Deum no campo de batalha enquanto os fugitivos eram perseguidos ao longo de vinte quilómetros. Os cristãos mataram então mais almóadas do que durante toda a batalha.\n\nPor fim, al-Nasir conseguiu fugir; mudou de cavalo em Baeza e chegou nessa noite de sábado a Jaén. Morreu em Marrocos no ano seguinte.\n\nQuanto ao pastor, que nunca mais foi visto, muitos julgaram que era Santo Isidro Lavrador.\n\nO Papa usou nos seus sermões o texto da crónica da batalha, narrada pelo arcebispo Arnaldo, difundindo-o por toda a Europa. Os cronistas e jograis não pararam de repetir o número de setenta mil muçulmanos mortos.\n\nA forma como os guardas negros estavam acorrentados foi depois usada no brasão de Navarra. As correntes e a bandeira do Miramolim foram tomadas como troféus e estão hoje conservadas na Diputación Foral de Navarra e no mosteiro de Las Huelgas, em Burgos.\n\nOs cristãos derrotaram sem atenuantes os mal pagos almóadas. Este feito bélico significou o afundamento do império almóada e a desintegração do al-Andalus nos terceiros reinos de taifas, ficando grande parte da Andaluzia à mercê dos cristãos. O fim da Reconquista era já só uma questão de tempo.
+it: La tenda di al-Nasir è circondata dalle sue guardie nere!
+pt: A tenda de al-Nasir está rodeada pelos seus guardas negros!
+it: Sono armate fino ai denti e incatenate perché non fuggano!
+pt: Estão armados até aos dentes e acorrentados para não fugirem!
+it: Le guardie nere si sono liberate!
+pt: Os guardas negros soltaram-se!
+it: Al-Nasir è fuggito!
+pt: Al-Nasir fugiu!
+it: Tutti i capi cristiani sono morti, tutto è perduto.
+pt: Morreram todos os chefes cristãos, está tudo perdido.
+it: Abbiamo sconfitto tutti gli infedeli!
+pt: Derrotámos todos os infiéis!
+it: Quei maledetti saraceni hanno sconfitto i cavalieri francesi.
+pt: Estes malditos sarracenos venceram os cavaleiros franceses.
+it: Le nostre truppe cristiane sono state annientate.
+pt: As nossas tropas cristãs foram aniquiladas.
+it: Il re Sancho di Navarra!
+pt: O rei Sancho de Navarra!
+it: Spero di non aver tardato troppo.
+pt: Espero não me ter demorado demasiado.
+it: Ho saputo che quei codardi dei francesi hanno disertato...
+pt: Soube que esses cobardes franceses desertaram...
+it: Non smettevano di lamentarsi del caldo di queste terre. Inoltre abbiamo proibito loro di saccheggiare i villaggi che strappavamo agli infedeli.
+pt: Não paravam de se queixar do calor destas terras. Além disso, proibimo-los de saquear as povoações que arrebatávamos aos infiéis.
+it: Credo che abbiamo sbagliato a impedirglielo, siamo ancora in tempo per rimediare.
+pt: Creio que fizemos mal em impedi-los; ainda estamos a tempo de corrigir.
+it: Queste terre patiscono già troppe atrocità.
+pt: Estas terras já padecem demasiadas atrocidades.
+it: Ne sono certo, manderò subito un messaggero perché i cavalieri francesi tornino. Ci metteranno un po' ad arrivare...
+pt: Tenho a certeza disso; vou já mandar um mensageiro para que os cavaleiros franceses voltem. Vão demorar um pouco a chegar...
+it: Quanta ragione avete! Tante sventure non sono gradite al Signore.
+pt: Que razão tendes! Tantas desgraças não agradam ao Senhor.
+it: Sono d'accordo.\n\nBenvenuto, re Sancho. Non vi aspettavo.
+pt: Estou de acordo.\n\nBem-vindo, rei Sancho. Não vos esperava.
+it: Credo che davanti a questa crociata dobbiamo mettere da parte le nostre piccole liti... come prova della mia buona fede porto con me il fior fiore dei cavalieri navarresi, che si sono schierati sull'ala sinistra del vostro benedetto esercito.
+pt: Creio que perante esta cruzada devemos pôr de parte as nossas pequenas querelas... como prova da minha boa-fé, trago comigo a fina flor dos cavaleiros navarros, que se colocaram na ala esquerda do vosso abençoado exército.
+it: Stavamo discutendo su come attaccare quei maledetti saraceni. Sono accampati sull'altra riva di questo fiume. Senza dubbio ci staranno aspettando.
+pt: Estávamos a discutir como atacar esses malditos sarracenos. Estão acampados na outra margem deste rio. Sem dúvida estarão à nossa espera.
+it: Arcivescovo Rodrigo, preparateci a morire. Confortateci con le vostre sante parole.
+pt: Arcebispo Rodrigo, preparai-nos para morrer. Consolai-nos com as vossas santas palavras.
+it: Neanche per sogno! Non morirete. Sconfiggerete il nemico.\n\nQuesto pastore che ho fatto venire ha qualcosa di molto importante da comunicarvi.
+pt: Nem pensar! Não ides morrer. Ides derrotar o inimigo.\n\nEste pastor que mandei trazer tem algo muito importante para vos comunicar.
+it: Sono solo un semplice pastore di nome Isidro, ma vivo in queste terre del Signore. Credo che i saraceni aspettino che attraversiamo questo ponte, dove di sicuro ci attende una trappola. C'è un ponte a est che ci permetterà di attraversare il fiume e accerchiare il nemico.
+pt: Sou só um simples pastor chamado Isidro, mas vivo nestas terras do Senhor. Creio que os sarracenos esperam que atravessemos esta ponte, onde sem dúvida nos espera uma armadilha. Há uma ponte a leste que nos permitirá atravessar o rio e envolver o inimigo.
+it: Grazie per il tuo aiuto.\n\nHo anche sentito storie da vecchie e giullari su reliquie nascoste in queste terre che potrebbero aiutarci in battaglia. Anche se dubito che siano vere.
+pt: Obrigado pela tua ajuda.\n\nTambém ouvi histórias da boca de velhas e jograis sobre relíquias escondidas nestas terras que nos poderiam ajudar na batalha. Embora duvide de que sejam verdadeiras.
+it: Pronti a vincere o morire!
+pt: Prontos para vencer ou morrer!
+it: Che Dio ci aiuti!
+pt: Que Deus nos ajude!
+
+# la reconquista.wcm::maps/barcelona
+it: Goffredo "il Villoso"
+pt: Wifredo, "o Cabeludo"
+it: Corre l'anno 877 di Nostro Signore... Goffredo "il Villoso" si prepara a farla finita con il traditore Bernardo di Gotia, asserragliato a Barcellona, e a cacciare i musulmani sull'altra riva del fiume Llobregat.
+pt: Corre o ano de Nosso Senhor de 877... Wifredo, "o Cabeludo", prepara-se para acabar com o traidor Bernardo de Gótia, entrincheirado em Barcelona, e para expulsar os muçulmanos para a outra margem do rio Llobregat.
+it: Fedeli
+pt: Leais
+it: Ribelli
+pt: Rebeldes
+it: Infedeli
+pt: Infiéis
+it: Barcellona
+pt: Barcelona
+it: Ripoll
+pt: Ripoll
+it: Goffredo
+pt: Wifredo
+it: "il Villoso"
+pt: "o Cabeludo"
+it: Vic
+pt: Vic
+it: Mirone
+pt: Miró
+it: fratello di Goffredo
+pt: irmão de Wifredo
+it: Montserrat
+pt: Montserrat
+it: Bernardo
+pt: Bernardo
+it: di Gotia
+pt: de Gótia
+it: envicm
+pt: envicm
+it: Villaggio di Ripoll
+pt: Aldeia de Ripoll
+it: Villaggio di Montserrat
+pt: Aldeia de Montserrat
+it: Città di Barcellona
+pt: Cidade de Barcelona
+it: Il fratello di Goffredo, Mirone, è caduto in battaglia.
+pt: O irmão de Wifredo, Miró, caiu em batalha.
+it: Goffredo è caduto in battaglia. Tutto è perduto...
+pt: Wifredo caiu em batalha. Está tudo perdido...
+it: Il traditore Bernardo di Gotia ha avuto ciò che si meritava.
+pt: O traidor Bernardo de Gótia recebeu o que merecia.
+it: Costruisci una cattedrale a Vic e una chiesa a Ripoll.
+pt: Constrói uma catedral em Vic e uma igreja em Ripoll.
+it: Distruggi i ribelli.
+pt: Destrói os rebeldes.
+it: Corre l'anno 877 di Nostro Signore. Bernardo di Gotia, conte di Barcellona, si è ribellato al re franco Luigi III, proclamando la sua indipendenza dalla corona.\n\nLuigi III ha affidato a Guifré I el Pilós, detto anche Goffredo I il Villoso, figlio di Sunifredo d'Urgell, conte di Urgell e di Cerdanya dall'anno 870, e a suo fratello Mirone la difficile missione di sconfiggere tutti i ribelli catalani e ristabilire l'ordine...
+pt: Corre o ano de Nosso Senhor de 877. Bernardo de Gótia, conde de Barcelona, revoltou-se contra o rei franco Luís III, proclamando a sua independência da coroa.\n\nLuís III confiou a Guifré I el Pilós, também chamado Wifredo I, o Cabeludo, filho de Sunifredo de Urgel, conde de Urgel e da Cerdanha desde o ano de 870, e a seu irmão Miró a difícil missão de derrotar todos os rebeldes catalães e restaurar a ordem...
+it: Goffredo e suo fratello Mirone affrontarono e sconfissero Bernardo di Gotia. In cambio dei loro servigi Luigi III decise, al Concilio di Troyes (nell'878), di consegnare la contea di Barcellona a Goffredo e quella del Rossiglione a suo fratello Mirone.\n\nGoffredo I fu l'ultimo conte nominato dalla monarchia franca. Per questo è stato tradizionalmente considerato "Guifré el Pilós" il padre dell'indipendenza della Catalogna.\n\nL'opera più importante di Goffredo fu il ripopolamento della piana di Vic (dall'878 all'881), una vasta "terra di nessuno" tra i carolingi e i musulmani che sarebbe diventata la contea di Osona. Lì fondò il monastero di Ripoll (Sant Joan de les Abadesses, 885) e restaurò il vescovato di Vic (Ausona, 886).\n\nCombatté al fianco di Carlo II "il Calvo" di Francia contro i normanni (vichinghi che saccheggiavano tutta la Francia) e morì combattendo contro i musulmani di Saragozza.\n\nNarra la leggenda che, quando Goffredo era sul letto di morte, fece disegnare a suo fratello lo stemma catalano a quattro pali.
+pt: Wifredo e seu irmão Miró enfrentaram e venceram Bernardo de Gótia. Como pagamento pelos seus serviços, Luís III decidiu, no Concílio de Troyes (em 878), entregar o condado de Barcelona a Wifredo e o de Rossilhão a seu irmão Miró.\n\nWifredo I foi o último conde designado pela monarquia franca. Por isso, "Guifré el Pilós" é tradicionalmente considerado o pai da independência da Catalunha.\n\nA obra mais importante de Wifredo foi o repovoamento da planície de Vic (de 878 a 881), uma extensa "terra de ninguém" situada entre os carolíngios e os muçulmanos que viria a ser o condado de Osona. Ali fundou o mosteiro de Ripoll (Sant Joan de les Abadesses, 885) e restaurou o bispado de Vic (Ausona, 886).\n\nLutou ao lado de Carlos II, "o Calvo", de França contra os normandos (vikings que saqueavam toda a França) e morreu a lutar contra os muçulmanos de Saragoça.\n\nConta a lenda que, quando Wifredo estava no leito de morte, mandou o irmão desenhar o escudo catalão de quatro barras.
+it: Hai fondato un monastero a Ripoll.
+pt: Fundaste um mosteiro em Ripoll.
+it: Hai restaurato il vescovato di Vic.
+pt: Restauraste o bispado de Vic.
+it: Con te sono morte tutte le speranze per questa terra!
+pt: Contigo morreram todas as esperanças desta terra!
+it: Hai sconfitto tutti i ribelli! Sarai ricompensato!
+pt: Derrotaste todos os rebeldes! Serás recompensado!
+it: Tutta la popolazione cristiana è stata annientata!
+pt: Toda a população cristã foi aniquilada!
+it: Hai cacciato tutti gli infedeli da qui! Oggi è un giorno glorioso.
+pt: Expulsaste todos os infiéis deste lugar! Hoje é um dia glorioso.
+it: Fratello, la terra è stata devastata. I ribelli hanno annientato tutti quelli che non si sono uniti alla loro causa.\nInoltre hanno chiesto aiuto ai saraceni.
+pt: Irmão, a terra foi devastada. Os rebeldes aniquilaram todos os que não se juntaram à sua causa.\nAlém disso, pediram ajuda aos sarracenos.
+it: Maledetti, dobbiamo distruggere tutti i ribelli e quel traditore di Bernardo...\n\nRidarò splendore a queste terre di Dio, lo giuro.\n\nRicordate: avremo clemenza per i contadini oppressi.\n\nRestaurerò il vescovato di Vic e fonderò un monastero a Ripoll.
+pt: Malditos, temos de destruir todos os rebeldes e esse traidor do Bernardo...\n\nDevolverei o esplendor a estas terras de Deus, juro.\n\nLembrai-vos: teremos clemência para com os aldeões oprimidos.\n\nRestaurarei o bispado de Vic e fundarei um mosteiro em Ripoll.
+it: Fratello, i ribelli si stanno preparando a combatterci. Che dobbiamo fare? Teniamo questo ponte e tentiamo un attacco a sorpresa, o distruggiamo il ponte per guadagnare tempo e prepararci?\n\nSe distruggiamo il ponte saremo costretti a sbarcare l'esercito con la nostra flotta, perché non abbiamo l'abilità necessaria per costruirne uno nuovo.
+pt: Irmão, os rebeldes estão a preparar-se para lutar contra nós. Que havemos de fazer? Mantemos esta ponte e tentamos um ataque surpresa, ou destruímos a ponte para ganhar mais tempo para nos prepararmos?\n\nSe destruirmos a ponte, seremos forçados a desembarcar o exército com a nossa frota, já que nos falta a perícia necessária para construir uma nova.
+it: Distruggiamo il ponte.
+pt: Destruamos a ponte.
+it: Teniamo il ponte, piomberemo su di loro in fretta.
+pt: Mantenhamos a ponte, cairemos rapidamente sobre eles.
+it: Come desiderate, fratello mio.
+pt: Como desejardes, meu irmão.
+it: Un ultimo avvertimento: le nostre riserve d'oro sono scarse e questa terra non è molto ricca di giacimenti... suggerisco di provare a commerciare con la gente del posto per ottenere un vantaggio maggiore sul campo di battaglia.
+pt: Um último aviso: as nossas reservas de ouro estão baixas, e esta terra não é muito rica em jazidas... sugiro que tentemos comerciar com os locais para obter uma maior vantagem no campo de batalha.
+it: Così sarà fatto.
+pt: Assim se fará.
+it: Distruggiamo quel traditore di Bernardo!
+pt: Destruamos esse traidor do Bernardo!
+
+# la reconquista.wcm::maps/covadonga
+it: La battaglia di Covadonga
+pt: A batalha de Covadonga
+it: 28 maggio 722. Don Pelayo e un pugno di asturiani mettono in fuga una colonna musulmana sulle pendici dei Picos de Europa. Questo fatto, quasi ignorato dai musulmani, segnerà l'inizio della Reconquista.
+pt: 28 de maio de 722. Dom Pelágio e um punhado de ástures põem em fuga uma coluna muçulmana nos contrafortes dos Picos da Europa. Este acontecimento, quase ignorado pelos muçulmanos, marcará o início da Reconquista.
+it: Asturiani
+pt: Ástures
+it: Berberi
+pt: Berberes
+it: Normanni
+pt: Normandos
+it: Pirati
+pt: Piratas
+it: Monastero di
+pt: Mosteiro de
+it: San Emeterio
+pt: San Emeterio
+it: Juanjo
+pt: Juanjo
+it: Capo asturiano
+pt: Chefe ástur
+it: Antonio
+pt: Antonio
+it: Angelo
+pt: Anjo
+it: Scudo
+pt: Escudo
+it: benedetto
+pt: abençoado
+it: Giuliano
+pt: Julião
+it: Sacerdote
+pt: Sacerdote
+it: Isidoro
+pt: Isidoro
+it: Al-qama
+pt: Al-qama
+it: Berbero
+pt: Berbere
+it: Nobile
+pt: Nobre
+it: asturiano
+pt: ástur
+it: D. Pelayo
+pt: D. Pelágio
+it: Fiume Ebro
+pt: Rio Ebro
+it: León
+pt: Leão
+it: Oviedo
+pt: Oviedo
+it: Monastero di San Emeterio.\n\nNell'XI secolo intorno a esso nacque la città di Santander.
+pt: Mosteiro de San Emeterio.\n\nNo século XI, a cidade de Santander nasceu à sua volta.
+it: Gijón
+pt: Gijón
+it: Cangas de Onís
+pt: Cangas de Onís
+it: Ricompensa
+pt: Recompensa
+it: I mercanti, grati per il tuo aiuto nella lotta contro i pirati normanni, sostengono la tua causa offrendoti oro.
+pt: Os mercadores, gratos pela tua ajuda na luta contra os piratas normandos, colaboram com a tua causa oferecendo-te ouro.
+it: Sconfitta
+pt: Derrota
+it: D. Pelayo è caduto in combattimento...\ntutto è perduto.
+pt: D. Pelágio caiu em combate...\nestá tudo perdido.
+it: Distruggi il posto di guardia nemico e le due torri e annienta la guarnigione.\nAspettano rinforzi, dovrai agire in fretta.
+pt: Destrói o posto avançado inimigo e as duas torres e aniquila a guarnição.\nEstão à espera de reforços, terás de agir depressa.
+it: Tempo
+pt: Tempo
+it: Infedeli!\n\nSiamo perduti... si salvi chi può.
+pt: Infiéis!\n\nEstamos perdidos... salve-se quem puder.
+it: I rinforzi saraceni stanno per arrivare.
+pt: Os reforços sarracenos estão a chegar.
+it: Don Pelayo, figlio del duca visigoto di León Fávila, fu esiliato da Toledo dal re Vitiza. Nell'esilio si recò nella regione degli asturiani, sotto l'autorità del musulmano Munuza; questi sposò sua sorella e mandò D. Pelayo come ostaggio a Cordova.\n\nMa Don Pelayo fuggì e tornò nelle Asturie per organizzare una piccola resistenza contro i berberi...
+pt: Dom Pelágio, filho do duque visigodo de Leão Fávila, foi desterrado de Toledo pelo rei Vitiza. No desterro, foi para a região dos ástures, que estava sob a autoridade do muçulmano Munuza; este casou com a sua irmã e enviou D. Pelágio como refém para Córdova.\n\nMas Dom Pelágio fugiu e voltou às Astúrias para organizar uma pequena resistência contra os berberes...
+it: Elimina Al-qama e metti in fuga i suoi uomini.
+pt: Acaba com Al-qama e põe os seus homens em fuga.
+it: Abbiamo poco tempo per preparare l'accoglienza a quell'infedele di Al-qama.
+pt: Temos pouco tempo para preparar a receção a esse infiel do Al-qama.
+it: Le spie riferiscono che Al-qama si sta dirigendo qui.
+pt: Os espiões informam que Al-qama se dirige para aqui.
+it: Al-qama è già qui, diamo a quel cane infedele ciò che si merita.
+pt: Al-qama já está aqui, vamos dar a esse cão infiel o que merece.
+it: Al-qama è morto. Senza il loro condottiero gli infedeli fuggiranno presto.
+pt: Al-qama pereceu. Sem o seu caudilho, os infiéis depressa fugirão.
+it: Il nemico sta subendo molte perdite...
+pt: O inimigo está a sofrer muitas baixas...
+it: Fuggono
+pt: Fogem
+it: Grazie a Dio!\n\nI saraceni fuggono!\n\nVittoria!
+pt: Graças a Deus!\n\nOs sarracenos fogem!\n\nVitória!
+it: Dopo la sanguinosa battaglia i berberi sconfitti scalarono il monte Auseva e fuggirono lungo le rive del fiume Deva... in quel momento una frana degli argini decimò molti dei fuggiaschi...\n\nDon Pelayo e i ribelli del nucleo asturiano cacciarono Munuza, proclamarono l'indipendenza dagli islamici e fondarono il regno delle Asturie, con Cangas de Onís come prima capitale.\n\nAnche se i musulmani non diedero importanza a questa battaglia, sostenendo che restavano solo 30 barbari arroccati su una rupe e che il tempo non era di loro gradimento, i chierici cristiani diedero alla battaglia un senso religioso, segnandola come l'inizio della Reconquista.
+pt: Depois da sangrenta batalha, os berberes vencidos escalaram o monte Auseva e fugiram pelas margens do rio Deva... nesse momento, deu-se um desmoronamento das ribanceiras que dizimou muitos dos que fugiam...\n\nDom Pelágio e os insubmissos habitantes do núcleo ástur expulsaram Munuza, proclamaram a sua independência dos muçulmanos e fundaram o reino das Astúrias, sendo Cangas de Onís a sua primeira capital.\n\nEmbora os muçulmanos não tenham dado importância a esta batalha, afirmando que restavam 30 bárbaros empoleirados num penhasco e que o tempo não era do seu agrado, os clérigos cristãos deram à batalha um sentido religioso, marcando-a como o início da Reconquista.
+it: D. Pelayo sente rinnovate le sue forze.
+pt: D. Pelágio sente as forças renovadas.
+it: Aiuto
+pt: Ajuda
+it: Il signore di Gijón chiede di essere ricevuto.
+pt: O senhor de Gijón solicita a vossa audiência.
+it: Il popolo asturiano ha perso ogni speranza.
+pt: O povo ástur perdeu toda a esperança.
+it: Hai eliminato i saraceni della regione.
+pt: Acabaste com os sarracenos da região.
+it: Al-qama e i suoi uomini non tornarono mai dalle Asturie.
+pt: Al-qama e os seus homens nunca voltaram das Astúrias.
+it: Quei maledetti infedeli hanno abbattuto la nostra chiesa.
+pt: Esses malditos infiéis derrubaram a nossa igreja.
+it: Finalmente! Io e il mio popolo siamo ai vostri ordini, Don Pelayo... ma per favore liberateci dai pirati normanni che devastano le nostre coste... i mercanti vi ricompenseranno.
+pt: Finalmente! Eu e o meu povo estamos às vossas ordens, Dom Pelágio... mas por favor, livrai-nos dos piratas normandos que assolam as nossas costas... os mercadores vos recompensarão.
+it: È ora di annientare quel nido di saraceni...\n\nAll'attacco!
+pt: É hora de aniquilar esse ninho de sarracenos...\n\nAo ataque!
+it: All'attacco!
+pt: Ao ataque!
+it: Per Allah! È quel barbaro di Pelayo...\npresto! ... alle armi!
+pt: Por Alá! É esse bárbaro do Pelágio...\ndepressa! ... às armas!
+it: Morite, infedeli!
+pt: Morrei, infiéis!
+it: Vittoria! Torniamo a Cangas de Onís a festeggiare.
+pt: Vitória! Voltemos a Cangas de Onís para celebrar.
+it: Quei maledetti saraceni non torneranno a saccheggiare i nostri villaggi.
+pt: Esses malditos sarracenos não voltarão a saquear as nossas povoações.
+it: Le vostre truppe hanno portato la pace in queste terre di Nostro Signore...\nCi siamo riuniti in questa assemblea per eleggere un principe che ci guidi verso la libertà. Pensavamo a voi.
+pt: As vossas tropas trouxeram a paz a estas terras de Nosso Senhor...\nReunimo-nos nesta assembleia para eleger um príncipe que nos guie para a liberdade. Pensámos em vós.
+it: Sarà un onore.
+pt: Será uma honra.
+it: Nell'anno del Signore 718, all'unanimità dei presenti, vi nominiamo nostro principe per grazia di Nostro Signore.
+pt: No ano do Senhor de 718, por unanimidade de todos os presentes, nomeamos-vos nosso príncipe pela graça de Nosso Senhor.
+it: Principe, abbiamo saputo che il signore di Gijón chiede il vostro aiuto in cambio dei suoi servigi. Sono certo che, se visiterete anche gli altri asturiani, si uniranno alla nostra causa.
+pt: Príncipe, soubemos que o senhor de Gijón solicita a vossa ajuda em troca de vos servir. Tenho a certeza de que, se visitardes também os restantes ástures, eles se juntarão à nossa causa.
+it: Dobbiamo mettere da parte le nostre piccole differenze e unirci contro gli infedeli.
+pt: Temos de pôr de lado as nossas pequenas diferenças e unir-nos contra os infiéis.
+it: Dovremmo affrettarci... a Munuza hanno parlato delle vostre vittorie e non tarderà a mandare una spedizione punitiva agli ordini del suo scagnozzo Al-qama.
+pt: Devíamos apressar-nos... falaram a Munuza das vossas vitórias e ele não tardará a enviar uma expedição de castigo sob as ordens do seu esbirro Al-qama.
+it: Gli prepareremo un benvenuto che non dimenticherà mai.
+pt: Vamos preparar-lhe uma receção que jamais esquecerá.
+it: Un'ultima preghiera: anche se siamo poveri, ci piacerebbe sostenere la causa. Potremmo raccogliere oro vendendo un'antica reliquia. È un vecchio scudo romano che crediamo sia stato benedetto da Nostro Signore.
+pt: Um último pedido: embora sejamos pobres, gostaríamos de estar do lado da causa. Poderíamos juntar ouro se vendêssemos uma antiga relíquia. É um velho escudo romano que cremos ter sido abençoado por Nosso Senhor.
+it: Grazie, l'oro è di vitale importanza per noi.
+pt: Obrigado, o ouro é de vital importância para nós.
+it: Se è benedetto da Nostro Signore ci aiuterà nella causa, sarà un onore portarlo.
+pt: Se está abençoado por Nosso Senhor, ajudar-nos-á na causa; será uma honra empunhá-lo.
+it: Prendetelo e disponetene.\n\nChe Nostro Signore ci assista.
+pt: Tomai-o e disponde dele.\n\nQue Nosso Senhor nos assista.
+it: Consegnatemi subito i tributi arretrati e quell'asino selvatico di Pelayo con i suoi seguaci, o morirete.
+pt: Entregai-me imediatamente os tributos em atraso e esse burro selvagem do Pelágio com os seus seguidores, ou morrereis.
+it: Mai!\n\nDio salvi il principe Pelayo!
+pt: Jamais!\n\nDeus salve o príncipe Pelágio!
+it: Allora morite.
+pt: Morrei, então.
+it: Oggi proclamiamo la nostra indipendenza.\nPer le Asturie! Preparatevi alla difesa!
+pt: Hoje proclamamos a nossa independência.\nPelas Astúrias! Preparai-vos para a defesa!
+
+# la reconquista.wcm::maps/zaragoza
+it: Saragozza
+pt: Saragoça
+it: Accompagna Alfonso I il Battagliero nella conquista della valle dell'Ebro.
+pt: Acompanha Afonso I, o Batalhador, na sua conquista do vale do Ebro.
+it: Huesca
+pt: Huesca
+it: Valtierra
+pt: Valtierra
+it: Mustain II
+pt: Mustain II
+it: Tudela
+pt: Tudela
+it: Ejea de los caballeros
+pt: Ejea de los Caballeros
+it: Alfonso I
+pt: Afonso I
+it: il Battagliero
+pt: o Batalhador
+it: Tarazona
+pt: Tarazona
+it: Borja
+pt: Borja
+it: Rueda
+pt: Rueda
+it: Calatayud
+pt: Calatayud
+it: Belchite
+pt: Belchite
+it: Daroca
+pt: Daroca
+it: Cutanda
+pt: Cutanda
+it: Ejea de los Caballeros
+pt: Ejea de los Caballeros
+it: Caccia tutti gli infedeli e conquista tutti i castelli e i posti di guardia della regione.
+pt: Expulsa todos os infiéis e captura todos os castelos e postos avançados da região.
+it: Ormai non puoi più completare la missione... Sarai ricordato come Alfonso I "il Crudele"
+pt: Já não podes completar a missão... Serás recordado como Afonso I, "o Cruel"
+it: Alfonso I è morto... Che sventura!
+pt: Afonso I morreu... Que desgraça!
+it: La presenza degli almoravidi nella penisola iberica provocò un cambiamento sostanziale nella situazione politico-militare, poiché vasti territori ricaddero in mano musulmana.\n\nTuttavia il grande balzo in avanti nella storia del regno d'Aragona lo compì, nel primo terzo del XII secolo, Alfonso I il Battagliero, sovrano noto per il suo valore militare e il suo profondo spirito religioso. Il suo proposito era conquistare la valle dell'Ebro per arrivare alla costa mediterranea e da lì preparare una crociata in Terra Santa. Appena salito al trono, nell'anno 1104, avviò l'offensiva militare contro i musulmani.
+pt: A presença dos almorávidas na Península Ibérica provocou uma mudança substancial na situação político-militar, ao cair de novo vastos territórios em mãos muçulmanas.\n\nNo entanto, o grande salto em frente na história do reino de Aragão deu-o, no primeiro terço do século XII, Afonso I, o Batalhador, monarca que se destacou pela sua bravura militar e pelo seu acendrado espírito religioso. O seu propósito era conquistar o vale do Ebro para chegar à costa mediterrânica e dali preparar uma cruzada à Terra Santa. Mal chegou ao trono, no ano de 1104, iniciou a ofensiva militar contra os muçulmanos.
+it: Alfonso I il Battagliero (1073-1134), re d'Aragona e di Navarra (dal 1104 al 1134), unì ai suoi domini gran parte della valle dell'Ebro.\n\nIl re aragonese entrò trionfalmente a Saragozza, capitale dell'antica Marca Superiore di al-Andalus e poi centro di un regno di taifa, alla fine del 1118. Le altre città del regno di taifa di Saragozza caddero rapidamente in mano cristiana. Nel 1119 Alfonso I il Battagliero occupò Tudela, Tarazona, Rueda e Borja.\n\nNel 1120 ottenne una clamorosa vittoria sugli almoravidi a Cutanda, ottenendo poco dopo l'annessione di Soria, che più tardi sarebbe passata alla Castiglia, e di Calatayud. Nel 1121 anche Daroca cadde in suo potere. La media valle dell'Ebro e le valli del Jalón e del Jiloca erano diventate, in pochi anni, parte integrante del regno d'Aragona. Negli anni 1125 e 1126 Alfonso I compì ancora una spedizione nelle terre di al-Andalus, percorrendo la vega di Granada e arrivando fino a Motril. Da quella spedizione tornò con diverse migliaia di mozarabi pronti a stabilirsi nelle zone del recente ripopolamento aragonese. Avviò inoltre la penetrazione nella zona di Teruel del Sistema Iberico, avanzando fino a Torrelacárcel.\n\nMa l'occupazione della bassa valle dell'Ebro fu la spina nel fianco del Battagliero. Anche se qualche anno dopo riuscì a conquistare la piazza di Mequinenza, nel 1134 fu sconfitto e ucciso davanti alle mura di Fraga, dopo aver tolto l'assedio.
+pt: Afonso I, o Batalhador (1073-1134), rei de Aragão e de Navarra (de 1104 a 1134), incorporou nos seus domínios grande parte do vale do Ebro.\n\nO rei aragonês entrou triunfalmente em Saragoça, capital da antiga Marca Superior do al-Andalus e depois centro de um reino de taifa, em finais do ano de 1118. As restantes vilas do reino de taifa de Saragoça caíram rapidamente em poder cristão. Em 1119, Afonso I, o Batalhador, ocupou Tudela, Tarazona, Rueda e Borja.\n\nEm 1120 obteve uma retumbante vitória sobre os almorávidas em Cutanda, conseguindo pouco depois a incorporação de Sória, que mais tarde passaria para Castela, e de Calatayud. Em 1121, Daroca caiu igualmente em seu poder. O vale médio do Ebro, bem como os vales do Jalón e do Jiloca, tinham-se tornado, em poucos anos, parte integrante do reino de Aragão. Nos anos de 1125 e 1126, Afonso I levou ainda a cabo uma expedição às terras do al-Andalus, percorrendo a veiga de Granada e chegando até Motril. Dessa expedição regressou com vários milhares de moçárabes dispostos a fixar-se nas zonas do recente repovoamento aragonês. Iniciou também a penetração na zona de Teruel do Sistema Ibérico, avançando até à localidade de Torrelacárcel.\n\nMas a ocupação do baixo vale do Ebro foi o espinho do Batalhador. Embora alguns anos mais tarde tenha conseguido conquistar a praça de Mequinenza, em 1134 foi derrotado e morto diante das muralhas de Fraga, depois de levantar o cerco.
+it: Alfonso I deve sopravvivere.\nNon distruggere nessun castello o posto di guardia.
+pt: Afonso I tem de sobreviver.\nNão destruas nenhum castelo nem posto avançado.
+it: HUESCA, ANNO 1104 DI NOSTRO SIGNORE.
+pt: HUESCA, ANO DE NOSSO SENHOR DE 1104.
+it: Che disastro! ...In Spagna si parlerà arabo per sempre.
+pt: Que desastre! ...Em Espanha falar-se-á árabe para sempre.
+it: Sarai ricordato per la tua eroica vittoria! Hai conquistato tutte le piazze della regione.
+pt: Serás recordado pela tua vitória heroica! Conquistaste todas as praças da região.
+it: Io, Alfonso I, re d'Aragona e di Navarra per grazia di Dio, prometto di essere un sovrano giusto e rispettoso dei costumi cristiani; per questo libererò la valle dell'Ebro dalla tirannia saracena, restituendole la sua fede cristiana.\n\nConquisterò tutte le piazze di questa regione e caccerò gli infedeli fino a raggiungere la costa mediterranea, e da lì prepareremo una crociata in Terra Santa.
+pt: Eu, Afonso I, rei de Aragão e Navarra pela graça de Deus, prometo ser um monarca justo e respeitador dos costumes cristãos; por isso libertarei o vale do Ebro da tirania sarracena, devolvendo-lhe a sua fé cristã.\n\nConquistarei todas as praças desta região e expulsarei os infiéis até chegar à costa mediterrânica, e dali prepararemos uma cruzada à Terra Santa.
+it: Maestà, sono stato informato che nella regione ci sono mozarabi sparsi, desiderosi di abbracciare di nuovo la fede della loro Chiesa. Potrebbero esserci di grande aiuto nella nostra impresa.
+pt: Majestade, fui informado de que há moçárabes dispersos pela região desejosos de abraçar de novo a fé da sua Igreja. Poderiam ser-nos de grande ajuda na nossa empresa.
+it: Lunga vita al re!
+pt: Longa vida ao rei!
+it: Dobbiamo attaccare al più presto. I saraceni si aspettano il nostro attacco e col passare del tempo migliorano le loro difese.
+pt: Devemos atacar quanto antes. Os sarracenos esperam o nosso ataque e, à medida que o tempo passa, melhoram as suas defesas.
+it: Senza dubbio.
+pt: Sem dúvida.
+it: Dobbiamo pianificare un buon attacco.
+pt: Devemos planear um bom ataque.
+
+# la reconquista.wcm::maps/conquista granada
+it: La conquista di Granada
+pt: A conquista de Granada
+it: Dopo la presa di Malaga nel 1487 i Re Cattolici preparano le loro truppe per affrontare l'ultimo baluardo musulmano nella Penisola... Granada.
+pt: Depois da tomada de Málaga em 1487, os Reis Católicos preparam as suas tropas para enfrentar o último bastião muçulmano na Península... Granada.
+it: Boabdil
+pt: Boabdil
+it: Re Cattolici
+pt: Reis Católicos
+it: Nobili
+pt: Nobres
+it: El Zagal
+pt: El Zagal
+it: Jaén
+pt: Jaén
+it: Baza
+pt: Baza
+it: Granada
+pt: Granada
+it: "El Zagal"
+pt: "El Zagal"
+it: Abu Abd Allah
+pt: Abu Abd Allah
+it: Guadix
+pt: Guadix
+it: Re nasride
+pt: Rei nacérida
+it: L'Alhambra
+pt: A Alhambra
+it: Conte
+pt: Conde
+it: di Ureña
+pt: de Ureña
+it: Maestro
+pt: Mestre
+it: di Santiago
+pt: de Santiago
+it: di Tendilla
+pt: de Tendilla
+it: Marchese
+pt: Marquês
+it: di Cadice
+pt: de Cádis
+it: Alonso
+pt: Alonso
+it: de Aguilar
+pt: de Aguilar
+it: di Cifuentes
+pt: de Cifuentes
+it: Isabella
+pt: Isabel
+it: la Cattolica
+pt: a Católica
+it: Ferdinando
+pt: Fernando
+it: il Cattolico
+pt: o Católico
+it: di Villena
+pt: de Villena
+it: di Cabra
+pt: de Cabra
+it: Vélez
+pt: Vélez
+it: Almuñécar
+pt: Almuñécar
+it: Zahir Abén
+pt: Zahir Abén
+it: Uno dei Re Cattolici è caduto in battaglia...
+pt: Um dos Reis Católicos caiu em batalha...
+it: Elimina le truppe di El Zagal (giocatore arancione) e le truppe infedeli (giocatore rosso) che circondano Granada.\nNon è necessario attaccare Granada (giocatore verde).
+pt: Acaba com as tropas de El Zagal (jogador laranja) e as tropas infiéis (jogador vermelho) que rodeiam Granada.\nNão é necessário atacares Granada (jogador verde).
+it: I Re Cattolici devono sopravvivere.\nBoabdil deve sopravvivere.\nL'Alhambra non deve essere distrutta.
+pt: Os Reis Católicos têm de sobreviver.\nBoabdil tem de sobreviver.\nA Alhambra não pode ser destruída.
+it: L'Alhambra è stata distrutta dalle tue truppe. Che bruto!
+pt: A Alhambra foi destruída pelas tuas tropas. Que bruto!
+it: Boabdil è morto da eroe... Granada non si arrenderà mai.
+pt: Boabdil morreu como um herói... Granada nunca se renderá.
+it: El Zagal è stato sconfitto... facciamola finita con il resto delle sue truppe.
+pt: El Zagal foi vencido... acabemos com o resto das suas tropas.
+it: Costruisci un castello nella zona che Ferdinando il Cattolico ti ha mostrato.
+pt: Constrói um castelo na zona que Fernando, o Católico, te mostrou.
+it: Cominciò la guerra il re Muley Hacén (Abu al-Hasan) di Granada prendendo Zahara nel 1481, ma nel 1482 suo figlio Boabdil il Piccolo si ribellò contro di lui, approfittando dell'impopolarità del padre per le tasse eccessive, e si proclamò re. La lotta tra i due diede ai cristiani l'occasione di conquistare i loro possedimenti. Il marchese di Cadice si impadronì di Alhama, nel cuore stesso del regno.\n\nNel frattempo il re Ferdinando assicurava all'Egitto che quella guerra non era che una questione interna della Spagna. Allo stesso tempo mandò la sua flotta a sorvegliare lo stretto e scese a sud per prendere il comando e per mettere Muley Hacén e suo fratello Muhammad "El Zagal" contro Boabdil "il Piccolo".\n\nBoabdil cacciò suo padre da Granada e questi dovette rifugiarsi a Malaga con El Zagal; ciò ridusse la pressione sui cristiani ad Alhama e permise loro di cominciare attacchi su Loja e sull'Axarquía di Malaga. Non diedero i risultati sperati, ma quando i cristiani fecero prigioniero Boabdil vicino a Lucena, lo obbligarono a permettere a Ferdinando di attraversare le sue terre per attaccare Muley Hacén, che occupò di nuovo il trono di Granada. Quest'ultimo però morì di malattia e nel 1486 Boabdil tornò sul trono di Granada.\n\nFerdinando e il marchese di Cadice dedicarono gli anni dal 1483 al 1486 alla conquista della metà occidentale del regno.\n\nQuando Ferdinando conquistò Malaga nel 1487, El Zagal si rifugiò nelle città di Baza, Almería e Guadix.\n\nGli eserciti cristiani dei Re Cattolici si preparano a dare il colpo di grazia al regno di Granada. La strategia di Ferdinando è semplice ma difficile da attuare: eliminare ogni resistenza musulmana attorno a Granada...
+pt: Começou a guerra o rei Muley Hacén (Abu al-Hassan) de Granada ao tomar Zahara em 1481, mas em 1482 o seu filho Boabdil, o Pequeno, revoltou-se contra ele, aproveitando a impopularidade do pai pelos impostos abusivos, e proclamou-se rei. A luta entre ambos deu aos cristãos a oportunidade de conquistar as suas possessões. O marquês de Cádis apoderou-se de Alhama, no próprio centro do reino.\n\nEntretanto, o rei Fernando assegurava ao Egito que aquela guerra não era mais do que um assunto interno de Espanha. Ao mesmo tempo, enviou a sua frota para vigiar o estreito e desceu ao sul para tomar o comando e para opor Muley Hacén e o seu irmão Maomé "El Zagal" a Boabdil "o Pequeno".\n\nBoabdil expulsou o pai de Granada e este teve de se refugiar em Málaga com El Zagal; isso reduziu as pressões sobre os cristãos em Alhama e permitiu-lhes começar ataques sobre Loja e a Axarquía malaguenha. Não deram os resultados desejados, mas quando os cristãos fizeram Boabdil prisioneiro, perto de Lucena, obrigaram-no a autorizar Fernando a atravessar as suas terras a fim de atacar Muley Hacén, que voltou a ocupar o trono de Granada. Mas este último morreu de doença, e em 1486 Boabdil voltou a ser restaurado no trono de Granada.\n\nFernando e o marquês de Cádis dedicaram os anos de 1483 a 1486 à conquista da metade ocidental do reino.\n\nQuando Fernando conquistou Málaga em 1487, El Zagal refugiou-se nas cidades de Baza, Almería e Guadix.\n\nOs exércitos cristãos dos Reis Católicos preparam-se para desferir o golpe de misericórdia no reino de Granada. A estratégia de Fernando é simples mas difícil de levar a cabo: eliminar toda a resistência muçulmana em redor de Granada...
+it: Tra il 1488 e il 1489 i Re Cattolici conquistarono le città orientali che sostenevano El Zagal. I musulmani più risoluti si trincerarono a Granada, ma Ferdinando e Isabella assediarono la città nell'aprile 1490 con l'aiuto di El Zagal e, quando il loro accampamento prese fuoco, costruirono una città reale, Santa Fe, per sostituirlo. Questa prova di tenacia scoraggiò i difensori e Boabdil accettò di tenere colloqui segreti con Ferdinando, per non irritare il popolo musulmano, per patteggiare la resa.
+pt: Entre 1488 e 1489, os Reis Católicos conquistaram as cidades orientais que apoiavam El Zagal. Os muçulmanos mais resolutos entrincheiraram-se em Granada, mas Fernando e Isabel cercaram a cidade em abril de 1490 com a ajuda de El Zagal e, quando o seu acampamento ardeu, construíram uma cidade real, Santa Fé, para o substituir. Aquela prova de tenacidade desanimou os defensores, e Boabdil aceitou ter conversações secretas com Fernando, para não irritar o povo muçulmano, a fim de pactuar a sua rendição.
+it: Hai privato le generazioni future di uno dei palazzi più belli del mondo.
+pt: Privaste as gerações vindouras de um dos palácios mais belos do mundo.
+it: Le truppe cristiane sono state sconfitte. Non hai studiato molta storia, vero?
+pt: As tropas cristãs foram derrotadas. Não estudaste muita história, pois não?
+it: Questi infedeli hanno avuto ciò che si meritavano.
+pt: Estes infiéis receberam o que mereciam.
+it: Incredibile. Hai saccheggiato Granada. Non hai studiato molta storia, vero?
+pt: Incrível. Saqueaste Granada. Não estudaste muita história, pois não?
+it: I Re Cristiani sono morti... Non hai studiato molta storia, vero?
+pt: Os Reis Cristãos morreram... Não estudaste muita história, pois não?
+it: Quegli infedeli sono rimasti senza capi.
+pt: Esses infiéis ficaram sem dirigentes.
+it: Tutti i nostri nobili sono caduti in battaglia.
+pt: Todos os nossos nobres caíram em batalha.
+it: Le truppe di El Zagal sono cadute.
+pt: As tropas de El Zagal caíram.
+it: Equipaggio... davanti a noi ci sono le città infedeli di Vélez e Almuñécar. Abbiamo ricevuto l'ordine di ispezionare il terreno e di eliminare ogni saraceno che troviamo.\nNon temete, avremo il sostegno di un gruppo di soldati da terra. Il nostro attacco servirà a guadagnare un po' di tempo per allestire una difesa a Jaén, che è continuamente assediata... se riescono a salvare la città, i Re Cattolici potranno ricevere molti aiuti appena arriveranno con il loro esercito, che è in cammino... dobbiamo resistere fino ad allora...\n\nPer Sua Maestà!\n\nMorte ai saraceni!
+pt: Tripulação... diante de nós temos as cidades infiéis de Vélez e Almuñécar. Recebemos ordem para inspecionar o terreno e acabar com todo o sarraceno que encontrarmos.\nNão temais, receberemos apoio de um grupo de soldados por terra. O nosso ataque servirá para ganhar algum tempo para montar uma defesa em Jaén, que está continuamente cercada... se conseguirem salvar a cidade, os Reis Católicos poderão receber numerosas ajudas logo que cheguem com o seu exército, que vem a caminho... temos de resistir até lá...\n\nPor Sua Majestade!\n\nMorte aos sarracenos!
+it: Miei valorosi, oggi faremo la storia...\nDobbiamo eliminare tutte le città e le truppe saracene fuori da Granada prima di assediarla.\n\nSe Jaén ha resistito, ci aiuterà nella nostra sacra impresa.\n\nMorte agli infedeli!
+pt: Meus valentes, hoje vamos fazer história...\nTemos de acabar com todas as cidades e tropas sarracenas que se encontram fora de Granada antes de a cercar.\n\nSe Jaén resistiu, ajudar-nos-á na nossa sagrada empresa.\n\nMorte aos infiéis!
+it: Non ci resta che assediare Granada...\nPer farlo dobbiamo costruire un accampamento in questa zona.
+pt: Só nos resta cercar Granada...\nPara isso, temos de construir um acampamento nesta área.
+
+# la reconquista.wcm::maps/santiago
+it: La difesa di Santiago
+pt: A defesa de Santiago
+it: Estate dell'anno di Nostro Signore 997.\n\nAlmanzor, "il Vittorioso per grazia di Allah", ha cominciato una razzia e minaccia la città di Santiago.\n\nRiuscirai a cambiare la storia di questo triste capitolo della cristianità?
+pt: Verão do ano de Nosso Senhor de 997.\n\nAlmançor, "o Vitorioso por Alá", começou uma razia e ameaça a cidade de Santiago.\n\nConseguirás mudar a história deste triste capítulo da cristandade?
+it: Malviventi
+pt: Foras da lei
+it: Santiago
+pt: Santiago
+it: Ramiro
+pt: Ramiro
+it: Apostolo
+pt: Apóstolo
+it: El Ferrol
+pt: El Ferrol
+it: Casa
+pt: Casa
+it: Spada di
+pt: Espada de
+it: A Coruña
+pt: Corunha
+it: Porto
+pt: Porto
+it: Vilalba
+pt: Vilalba
+it: A Baiuca
+pt: A Baiuca
+it: Juan
+pt: Juan
+it: Carballo
+pt: Carballo
+it: Lugo
+pt: Lugo
+it: Cattedrale di
+pt: Catedral de
+it: Bermudo II
+pt: Bermudo II
+it: Carro
+pt: Carro
+it: Frate
+pt: Frei
+it: Pablo
+pt: Pablo
+it: Capitano
+pt: Capitão
+it: Sancho
+pt: Sancho
+it: Noia
+pt: Noia
+it: A Estrada
+pt: A Estrada
+it: Lalín
+pt: Lalín
+it: Ribeira
+pt: Ribeira
+it: Almanzor
+pt: Almançor
+it: Per le strade di Ribeira un uomo dall'aspetto trasandato vi viene incontro.
+pt: Nas ruas de Ribeira, um homem de aspeto desleixado vem ao vosso encontro.
+it: Uno di loro aveva una lettera con le parole "Pedro Ordoño, taverna di Lalín".
+pt: Um deles levava uma carta com as palavras "Pedro Ordoño, taberna de Lalín".
+it: Giureresti di aver visto qualcuno nascondersi tra le tombe. Forse è un'apparizione...
+pt: Jurarias ter visto alguém esconder-se entre as campas. Talvez seja uma aparição...
+it: Le truppe di Almanzor ci attaccano!\n\nDifendiamo Santiago!
+pt: As tropas de Almançor atacam-nos!\n\nDefendamos Santiago!
+it: Il capitano Sancho è caduto in battaglia.
+pt: O capitão Sancho caiu em batalha.
+it: Il re è morto, e con lui tutte le nostre speranze...
+pt: O rei morreu, e com ele todas as nossas esperanças...
+it: Frate Pablo è morto.
+pt: Frei Pablo morreu.
+it: Quel maledetto traditore di Pablo è morto...
+pt: Esse maldito traidor do Pablo morreu...
+it: Quella maledetta spia doveva avere dei complici...
+pt: Esse maldito espião devia ter cúmplices...
+it: Voleva inoltre sabotare le nostre difese, e per poco non ci è riuscito.
+pt: Pretendia além disso sabotar as nossas defesas, e por pouco não o conseguiu.
+it: Scopri chi è la spia. Dovrai sbrigarti: hai pochissimo tempo.
+pt: Descobre quem é o espião. Terás de te apressar: tens muito pouco tempo.
+it: Il re Bermudo II e il capitano Sancho devono sopravvivere.
+pt: O rei Bermudo II e o capitão Sancho têm de sobreviver.
+it: Elimina la spia prima che possa fuggire.
+pt: Acaba com o espião antes que ele possa fugir.
+it: Proteggi il re a Santiago.\nIl capitano Sancho deve stare al fianco del suo re.
+pt: Protege o rei em Santiago.\nO capitão Sancho tem de estar ao lado do seu rei.
+it: Ti resta pochissimo tempo.
+pt: Resta-te muito pouco tempo.
+it: Quegli infedeli hanno distrutto la nostra cattedrale. Oggi è un giorno triste per la cristianità.
+pt: Esses infiéis destruíram a nossa catedral. Hoje é um dia triste para a cristandade.
+it: Porta Bermudo II a El Ferrol per nasconderlo ad Almanzor.
+pt: Leva Bermudo II para El Ferrol para o esconder de Almançor.
+it: Dio mio! Un'apparizione!
+pt: Meu Deus! Uma aparição!
+it: Elimina Almanzor.
+pt: Acaba com Almançor.
+it: Almanzor è morto. L'apostolo Santiago sarà fiero della nostra vendetta.
+pt: Almançor morreu. O apóstolo Santiago ficará orgulhoso da nossa vingança.
+it: Almanzor ha lasciato la regione. Non potremo vendicarci di quell'infedele.
+pt: Almançor abandonou a região. Não poderemos vingar-nos desse infiel.
+it: Estate dell'anno di Nostro Signore 997.\n\nIl condottiero cordovese Muhammad ibn Abi Amir, meglio noto come "Almanzor", ha cominciato una terrificante razzia usando la guerra santa come pretesto per attaccare i territori cristiani.\n\nHa già devastato León, minacciando i pellegrini del Cammino di Santiago.
+pt: Verão do ano de Nosso Senhor de 997.\n\nO caudilho cordovês Maomé ibne Abi Amir, mais conhecido como "Almançor", começou uma terrível razia, usando a guerra santa como pretexto para atacar os territórios cristãos.\n\nJá assolou Leão, ameaçando os peregrinos do Caminho de Santiago.
+it: Nel 997 Almanzor, il grande condottiero arabo, dopo aver ricevuto rinforzi a Oporto portati via mare, distrusse completamente Santiago e la sua cattedrale, lasciando intatta solo la tomba dell'apostolo Santiago.\n\nTornò a Cordova con prigionieri e bottino, comprese le porte e le campane della cattedrale, che nella moschea furono usate come bracieri, lampade e legno per il tetto.\n\nLa cristianità subì allora una delle più grandi umiliazioni della sua storia.\n\nDa quel fatto l'apostolo Santiago divenne il simbolo della lotta contro i musulmani. Fu raffigurato in sella a un cavallo bianco mentre impugna con forza una spada, e fu chiamato "Santiago Matamoros".\n\nQuanto ad Almanzor, morì per ferite di guerra presso Calatañazor nell'anno 1002.\n\nDopo la sua morte il califfato di Cordova entrò in decadenza e si frantumò in 30 piccoli regni di taifa.
+pt: Em 997, Almançor, o grande caudilho árabe, depois de receber reforços no Porto transportados por mar, destruiu totalmente Santiago e a sua catedral, deixando intacto apenas o túmulo do apóstolo Santiago.\n\nVoltou a Córdova com prisioneiros e despojos, incluindo as portas e os sinos da catedral, que na mesquita foram usados como braseiros, lâmpadas e madeira para o telhado.\n\nA cristandade sofreu então uma das maiores humilhações da sua história.\n\nDesde esse acontecimento, o apóstolo Santiago tornou-se símbolo do combate contra os muçulmanos. Foi representado montado num cavalo branco e empunhando energicamente uma espada, e foi chamado "Santiago Mata-Mouros".\n\nQuanto a Almançor, morreu de feridas de guerra junto a Calatañazor no ano de 1002.\n\nDepois da sua morte, o califado de Córdova entrou em decadência e desagregou-se em 30 pequenos reinos de taifas.
+it: Hanno sabotato le porte di Santiago... siamo perduti.
+pt: Sabotaram as portas de Santiago... estamos perdidos.
+it: Ramiro ha vendicato la sua amata figlia.
+pt: Ramiro vingou a sua querida filha.
+it: La speranza cristiana è morta.
+pt: A esperança cristã morreu.
+it: I saraceni non tornarono mai più nella loro terra.
+pt: Os sarracenos nunca mais voltaram à sua terra.
+it: Nonostante tutto, la regione è stata devastata.
+pt: Apesar de tudo, a região foi devastada.
+it: È un giorno triste per la cristianità.
+pt: É um dia triste para a cristandade.
+it: Mi sono giunte voci su una spia saracena che agisce a Santiago. Affido a voi, frate Pablo e capitano Sancho, la delicata missione di scoprirla.\n\nRodrigo vi accompagnerà perché possiate viaggiare più in fretta.\nSiate cauti, ma agite in fretta: Almanzor non tarderà ad attaccarci e la spia potrebbe aiutarlo.\n\nUn ultimo avvertimento, capitano. So che vi piace lavorare da solo, ma non separatevi da frate Pablo: vi sarà di grande utilità.
+pt: Chegaram-me rumores sobre um espião sarraceno que atua em Santiago. Encomendo-vos a vós, frei Pablo e capitão Sancho, a delicada missão de o descobrir.\n\nRodrigo acompanhar-vos-á para que possais viajar mais depressa.\nSede cautelosos, mas agi depressa: Almançor não tardará a atacar-nos e o espião poderia ajudá-lo.\n\nUm último aviso, capitão. Sei que gostais de trabalhar sozinho, mas não vos separeis de frei Pablo: ser-vos-á de grande utilidade.
+it: La troveremo, maestà.
+pt: Encontrá-lo-emos, majestade.
+it: Da dove cominciamo? Dalla taverna?
+pt: Por onde começamos? Pela taberna?
+it: È un buon posto per cominciare le nostre indagini. Inoltre una guardia della porta est voleva dirmi qualcosa riguardo a una spia. Glielo chiederemo uscendo.
+pt: É um bom sítio para começar as nossas averiguações. Além disso, um guarda da porta leste queria dizer-me algo relacionado com um espião. Perguntar-lhe-emos à saída.
+it: "Ad utrumque paratus"
+pt: "Ad utrumque paratus"
+it: Capitano, so che sta cercando un gruppo di spie.\nUn sacerdote di A Estrada di nome Juan crede di sapere dove si trova il covo di quegli infedeli.
+pt: Capitão, sei que anda à procura de um grupo de espiões.\nUm sacerdote de A Estrada chamado Juan julga saber onde se encontra o covil desses infiéis.
+it: Grazie dell'informazione.
+pt: Obrigado pela informação.
+it: Taverna "L'Apostolo". Quale sarà la nostra prima mossa, capitano?
+pt: Taberna "O Apóstolo". Qual será o nosso primeiro passo, capitão?
+it: Chiediamo se qualcuno ha visto qualche persona strana ultimamente.
+pt: Perguntemos se alguém viu alguma pessoa estranha ultimamente.
+it: Chiediamo all'oste se ha visto qualche persona sospetta.
+pt: Perguntemos ao taberneiro se viu alguma pessoa suspeita.
+it: Un vecchio ubriaco vi racconta di aver parlato con un uomo rosso di capelli e guercio che sembrava molto nervoso ed era molto interessato a conoscere le difese di Santiago. Crede di ricordare che venisse da Carballo.
+pt: Um velho bêbado conta-vos que falou com um homem ruivo e zarolho que parecia muito nervoso e estava muito interessado em conhecer as defesas de Santiago. Julga lembrar-se de que vinha de Carballo.
+it: L'oste non ricorda nessuno. Ma crede che nella taverna di Lugo, famosa perché vi si danno appuntamento molti mercenari, forse potrete ottenere qualche informazione.
+pt: O taberneiro não se lembra de ninguém. Mas julga que na taberna de Lugo, famosa porque lá se encontram muitos mercenários, talvez possais obter algum tipo de informação.
+it: Conoscete un uomo rosso di capelli e guercio? Vorrei parlare con lui.
+pt: Conheceis um homem ruivo e zarolho? Desejava falar com ele.
+it: Dovete riferirvi a Felipe... È partito per El Ferrol qualche giorno fa.
+pt: Deveis referir-vos ao Felipe... Partiu para El Ferrol há uns dias.
+it: Grazie.
+pt: Obrigado.
+it: Siamo arrivati alla taverna di Lugo.
+pt: Chegámos à taberna de Lugo.
+it: Chiediamo a qualche soldato se ha visto qualcuno di sospetto.
+pt: Perguntemos a algum soldado se viu alguém suspeito.
+it: Sediamoci e osserviamo, nel caso succeda qualcosa di insolito.
+pt: Sentemo-nos e observemos, para o caso de acontecer algo fora do normal.
+it: Un soldato strabico assicura di aver parlato ad A Estrada con un sacerdote di nome Juan che sapeva dove si trovava il covo di alcuni malfattori, anche se a lui non l'ha detto.
+pt: Um soldado vesgo garante ter falado em A Estrada com um sacerdote chamado Juan que sabia onde se encontrava o covil de uns malfeitores, embora não lho tenha dito.
+it: Un uomo dalla carnagione scura si avvicina e ti sussurra che vuole parlarti, ma non qui.
+pt: Um homem de tez escura aproxima-se e sussurra-te que quer falar contigo, mas não aqui.
+it: Forse sono le spie che cerchiamo, chiediamo a quel sacerdote di A Estrada.
+pt: Talvez sejam os espiões que procuramos; perguntemos a esse sacerdote de A Estrada.
+it: Dove ci incontriamo?
+pt: Onde nos encontramos?
+it: Vuoi tendermi una trappola, saraceno? Muori, maledetto!
+pt: Pretendes armar-me uma cilada, sarraceno? Morre, maldito!
+it: Non parlerò con nessun infedele.
+pt: Não falarei com nenhum infiel.
+it: Ci vediamo alla locanda di Noia.
+pt: Encontramo-nos na estalagem de Noia.
+it: Come vuole, ma se cerca spie saracene vada a Ribeira.
+pt: Como quiser, mas se procura espiões sarracenos, vá a Ribeira.
+it: Credi che fosse la spia?
+pt: Achas que era o espião?
+it: Potrebbe essere, ma l'intuito mi dice che non era lui.
+pt: Podia ser, mas a minha intuição diz-me que não era ele.
+it: Mi scusi, padre Juan?
+pt: Desculpe, o padre Juan?
+it: È partito per la chiesa di Vilalba un paio di giorni fa.
+pt: Partiu para a igreja de Vilalba há uns dois dias.
+it: Siete voi che cercate una spia?
+pt: Sois vós quem procura um espião?
+it: Esatto.
+pt: Efetivamente.
+it: Credo che si sbagli.
+pt: Creio que se engana.
+it: Si chiama Felipe, è un uomo rosso di capelli e guercio. Vive a El Ferrol.
+pt: Chama-se Felipe, é um homem ruivo e zarolho. Vive em El Ferrol.
+it: Mi scusi, l'ho scambiata per un'altra persona.
+pt: Desculpe, confundi-o com outra pessoa.
+it: Per favore, cerchiamo un uomo guercio e rosso di capelli di nome Felipe.
+pt: Por favor, procuramos um homem zarolho e ruivo chamado Felipe.
+it: Credo che non lo troverete. Purtroppo Felipe è morto ieri avvelenato.
+pt: Creio que não o encontrarão. Infelizmente, Felipe morreu ontem envenenado.
+it: Siamo arrivati tardi.
+pt: Chegámos tarde.
+it: I saraceni non lasciano testimoni... i morti non parlano.
+pt: Os sarracenos não deixam testemunhas... os mortos não falam.
+it: Padre Juan?
+pt: O padre Juan?
+it: Sì, sono io. Come posso aiutarvi, fratelli?
+pt: Sim, sou eu. Em que vos posso ajudar, irmãos?
+it: Cerchiamo il covo di un gruppo di malfattori che crediamo siano spie saracene.
+pt: Procuramos o covil de um grupo de malfeitores que julgamos serem espiões sarracenos.
+it: Finalmente danno credito alle mie parole! Quelle spie si trovano a sud-est di Lalín. Si nascondono tra le montagne.
+pt: Finalmente dão crédito às minhas palavras! Esses espiões encontram-se a sudeste de Lalín. Escondem-se entre as montanhas.
+it: Finalmente è arrivato.
+pt: Finalmente chegou.
+it: Quali informazioni ha da offrirmi?
+pt: Que informação tem para me oferecer?
+it: A La Coruña c'è un uomo chiamato Tomás il Mercante che conosce la rete di spie saracene che state cercando.
+pt: Na Corunha há um homem chamado Tomás, o Mercador, que conhece a rede de espiões sarracenos que procurais.
+it: Tomás il Mercante?
+pt: Tomás, o Mercador?
+it: La aspettavo, capitano. Ma parlerò solo con dei laici. Mandi il suo amico sacerdote a Santiago e allora parleremo.
+pt: Esperava-o, capitão. Mas só falarei com pessoas leigas. Envie o seu amigo sacerdote para Santiago e então falaremos.
+it: Potrebbe essere una trappola.
+pt: Pode ser uma armadilha.
+it: Non volevo che quel prete che vi accompagnava ci sentisse, perché credo che alcuni sacerdoti cristiani siano coinvolti. Andate da solo in un vecchio cimitero nel bosco di El Ferrol, a nord di Vilalba. Il contatto dei saraceni aspetta lì la spia che cercate. È importante che quel frate che vi accompagnava resti a Santiago.
+pt: Não queria que esse padre que vos acompanhava nos ouvisse, porque creio que alguns sacerdotes cristãos estão implicados. Ide sozinho a um velho cemitério no bosque de El Ferrol, a norte de Vilalba. O contacto dos sarracenos espera ali o espião que procurais. É importante que esse frade que vos acompanhava continue em Santiago.
+it: Consegnatemi tutto ciò che avete o morirete.
+pt: Entregai-me tudo o que tiverdes ou morrereis.
+it: Morte alle spie!
+pt: Morte aos espiões!
+it: Cerchiamo Pedro Ordoño.
+pt: Procuramos Pedro Ordoño.
+it: Mi dispiace, Pedro Ordoño è partito in fretta tre giorni fa.
+pt: Lamento, Pedro Ordoño partiu apressadamente há três dias.
+it: Siamo arrivati troppo tardi.
+pt: Chegámos demasiado tarde.
+it: Alt. Chi va là?
+pt: Alto. Quem vem lá?
+it: Siete un maledetto traditore e morirete per questo.
+pt: Sois um maldito traidor e ides morrer por isso.
+it: Capitano Sancho. Chi siete voi?
+pt: Capitão Sancho. Quem sois vós?
+it: Capitano, grazie a Dio. Devo confessarvi una cosa terribile.\n\nMi chiamo Ramiro e sono stato usato da una spia saracena che si fa passare per un sacerdote di nome Pablo. Ho mandato informazioni a quegli infedeli perché quel traditore di Pablo non uccidesse mia figlia. Ma l'ha fatto, e ormai niente al mondo mi impedisce di dire la verità. Perdonatemi, capitano... voglio vendicarmi di quei saraceni e posso esservi di grande aiuto.
+pt: Capitão, graças a Deus. Tenho de vos confessar algo terrível.\n\nO meu nome é Ramiro e fui usado por um espião sarraceno que se faz passar por um sacerdote chamado Pablo. Tenho enviado informação a esses infiéis em troca de que esse traidor do Pablo não matasse a minha filha. Mas matou-a, e nada no mundo me obriga já a não contar a verdade. Perdoai-me, capitão... quero vingar-me desses sarracenos e posso ser-vos de grande utilidade.
+it: Bugiardo!... Frate Pablo è un fedele cristiano... morirete!
+pt: Mentiroso!... Frei Pablo é um fiel cristão... ides morrer!
+it: Vi perdonerò se mi aiutate.
+pt: Perdoar-vos-ei se me ajudardes.
+it: Vi credo, ma non vi perdono.
+pt: Acredito em vós, mas não vos perdoo.
+it: Grazie, ora lavoro per voi.
+pt: Obrigado, agora trabalho para vós.
+it: Devo raggiungere Almanzor, mi aspetta una lauta ricompensa.
+pt: Tenho de ir ter com Almançor, espera-me uma suculenta recompensa.
+it: Maestà, sono troppi. Non possiamo trattenerli. Temo per la vostra vita.
+pt: Majestade, são demasiados. Não os conseguimos conter. Temo pela vossa vida.
+it: Non abbandonerò Santiago a quegli infedeli.
+pt: Não abandonarei Santiago a esses infiéis.
+it: Maestà, se morite la nostra sconfitta sarà ancora più grande.
+pt: Majestade, se morrerdes, a nossa derrota será ainda maior.
+it: Avete ragione, capitano, portatemi via di qui.
+pt: Tendes razão, capitão, tirai-me daqui.
+it: Fuggiamo, maestà!\n\nVi porterò a El Ferrol, lì sarete al sicuro.
+pt: Fujamos, majestade!\n\nLevar-vos-ei para El Ferrol, lá estareis a salvo.
+it: È l'apostolo Santiago!
+pt: É o apóstolo Santiago!
+it: Sono l'apostolo Santiago.\n\nSono venuto ad aiutarvi a farla finita con Almanzor. La mia spada vi servirà nell'impresa.
+pt: Sou o apóstolo Santiago.\n\nVim para vos ajudar a acabar com Almançor. A minha espada servir-vos-á no empenho.
+it: L'apostolo Santiago ci protegge!
+pt: O apóstolo Santiago protege-nos!
+
+# la reconquista.wcm::maps/valencia
+it: La conquista di Valencia
+pt: A conquista de Valência
+it: Conquista Albarracín per ottenere risorse sufficienti per assediare Valencia.
+pt: Conquista Albarracín para obter recursos suficientes que te permitam cercar Valência.
+it: Truppe del Cid
+pt: Tropas do Cid
+it: Truppe Cid
+pt: Tropas Cid
+it: Albarracín
+pt: Albarracín
+it: Ben Razin
+pt: Ben Razin
+it: al-Mustain II
+pt: al-Mustain II
+it: Almoravidi
+pt: Almorávidas
+it: Ben Yusuf
+pt: Ben Iúçufe
+it: Valencia
+pt: Valência
+it: Ibn Jahhaf
+pt: Ibn Jahhaf
+it: Mori
+pt: Mouros
+it: Re mori
+pt: Reis mouros
+it: Alcazar
+pt: Alcácer
+it: Il Cid
+pt: O Cid
+it: Álvar Fáñez
+pt: Álvar Fáñez
+it: Anziano
+pt: Velho
+it: Vagabondo
+pt: Vagabundo
+it: ku vadis
+pt: ku vadis
+it: alípacha
+pt: alípacha
+it: Tizona
+pt: Tizona
+it: Rodrigo Díaz de Vivar, il Cid, sta per partire da Saragozza.\n\nIl governatore di Valencia, al-Qadir, è stato assassinato per ordine di Ibn Jahhaf, che con l'appoggio degli almoravidi si è insediato come nuovo governatore.\n\nIl Cid Campeador si mette in marcia verso Valencia...
+pt: Rodrigo Díaz de Vivar, o Cid, está prestes a partir de Saragoça.\n\nO governador de Valência, al-Qadir, foi assassinado por ordem de Ibn Jahhaf, que, com o apoio dos almorávidas, se erigiu em novo governador.\n\nO Cid Campeador põe-se a caminho de Valência...
+it: Avverti il capitano delle truppe del Cid.
+pt: Avisa o capitão das tropas do Cid.
+it: Conquista Albarracín per ottenere risorse sufficienti per stringere d'assedio Valencia.\nDevi eliminare tutte le unità di Ben Razin per poter conquistare Albarracín.
+pt: Captura Albarracín para obter recursos suficientes para montar o cerco a Valência.\nTens de acabar com todas as unidades de Ben Razin para poderes capturar Albarracín.
+it: |Il Cid Campeador è morto!
+pt: |O Cid Campeador morreu!
+it: Il tuo buono e leale amico Álvar Fáñez è morto durante la battaglia.\nLa sua perdita ha indebolito la tua forza e il tuo carisma.
+pt: O teu bom e leal amigo Álvar Fáñez morreu durante a batalha.\nA sua perda enfraqueceu a tua força e o teu carisma.
+it: Hai conquistato Albarracín! Ora potrai ottenere le risorse necessarie per assediare Valencia.
+pt: Conquistaste Albarracín! Agora poderás obter os recursos necessários para cercar Valência.
+it: Elimina le truppe almoravidi della zona. Quando sarai pronto, dirigiti verso Valencia. Il tuo leale amico e nipote Álvar Fáñez non deve morire, o la tua forza ne sarà seriamente diminuita.
+pt: Acaba com as tropas almorávidas da zona. Quando estiveres preparado, dirige-te a Valência. O teu leal amigo e sobrinho Álvar Fáñez não pode morrer, ou a tua força ficará seriamente diminuída.
+it: Il Cid non deve morire.
+pt: O Cid não pode morrer.
+it: Il cadì di Valencia Ibn Jahhaf ha chiesto aiuto alle truppe dei re mori andalusi e agli eserciti almoravidi. Devi prepararti a una terribile battaglia.\n\nConquisterai Valencia solo quando il Cid arriverà a cavallo fino all'alcazar della città.
+pt: O cádi de Valência, Ibn Jahhaf, pediu ajuda às tropas dos reis mouros andaluzes e aos exércitos almorávidas. Tens de te preparar para uma terrível batalha.\n\nSó conquistarás Valência quando o Cid chegar a cavalo até ao alcácer da cidade.
+it: L'alcazar di Valencia è stato distrutto. Per conquistare la città dovrai prima eliminare tutti i contadini.
+pt: O alcácer de Valência foi destruído. Para poderes conquistar a cidade, terás primeiro de eliminar todos os camponeses.
+it: Conquista
+pt: Conquista
+it: Hai conquistato il regno di Valencia!\nNon fidarti troppo. Nella zona possono esserci ancora truppe nemiche.
+pt: Conquistaste o reino de Valência!\nNão te fies. Ainda pode haver tropas inimigas na zona.
+it: Un vecchio vagabondo, seduto accanto a un fuoco, insiste perché tu non vada a Valencia
+pt: Um velho vagabundo, sentado junto a uma fogueira, insiste em que não viajes para Valência
+it: senza passare prima per le Baleari.
+pt: sem antes passares pelas Baleares.
+it: Dio mio! Ho trovato la spada Tizona.
+pt: Meu Deus! Encontrei a espada Tizona.
+it: Tutte le Baleari si schierano con la tua causa...
+pt: Todas as Baleares se entregam à tua causa...
+it: La gente del posto insiste perché tu visiti l'isola del sud.
+pt: Os habitantes insistem em que deves visitar a ilha do sul.
+it: A nord del fiume Mijares c'è una regione disabitata piena di banditi...
+pt: A norte do rio Mijares fica uma região despovoada infestada de bandidos...
+it: Forse potrai ottenere qualcosa di interessante...
+pt: Talvez consigas algo interessante...
+it: SARAGOZZA, ANNO 1092 DI NOSTRO SIGNORE
+pt: SARAGOÇA, ANO DE NOSSO SENHOR DE 1092
+it: Il Cid, dopo aver intrapreso una guerra privata contro l'emiro di Toledo al-Qadir, alleato del re Alfonso VI, e accusato di aver sottratto al re il tributo dell'emiro di Granada, fu esiliato dal regno di Castiglia.\n\nSi diede allora a una vita d'avventura, combattendo come mercenario al servizio di signori musulmani come l'emiro Yusuf di Saragozza, in guerra contro una coalizione formata da Raimondo Berengario II, conte di Barcellona, Sancho I d'Aragona e al-Mundhir, emiro di Lleida. Arrivò perfino a fare prigioniero Raimondo Berengario II.\n\nInteressato forse, come tanti altri, a sfruttare il movimento della Reconquista per crearsi un feudo personale, mise gli occhi su Valencia, dove nel 1092 era morto l'antico emiro di Toledo al-Qadir, di cui era diventato amico. Con il pretesto di vendicarne la morte assediò la città dal 1093 fino al 19 giugno 1094, data in cui vi entrò trionfante.\n\nNegli anni che vanno dalla sua vittoria alla sua morte, il 10 luglio 1099, il Cid dovette affrontare gli almoravidi in numerose battaglie, sia per difendere la città sia per rispettare le sue alleanze, e li sconfisse a Cuarte il 23 giugno 1094 e a Bairén (nel 1097), con l'aiuto del regno d'Aragona.
+pt: O Cid, depois de empreender uma guerra privada contra o emir de Toledo al-Qadir, aliado do rei Afonso VI, e acusado de subtrair ao rei o tributo do emir de Granada, foi desterrado do reino de Castela.\n\nDeu-se então a uma vida de aventura, combatendo como mercenário ao serviço de senhores muçulmanos como o emir Iúçufe de Saragoça, que estava em guerra contra uma coligação formada por Raimundo Berengário II, conde de Barcelona, Sancho I de Aragão e al-Mundhir, emir de Lérida. Chegou mesmo a fazer prisioneiro Raimundo Berengário II.\n\nInteressado talvez, como tantos outros, em aproveitar o movimento da reconquista para obter um feudo pessoal, pôs os olhos em Valência, onde em 1092 tinha morrido o antigo emir de Toledo al-Qadir, de quem se tornara amigo. Com o pretexto de vingar a sua morte, cercou a cidade desde 1093 até 19 de junho de 1094, data em que entrou triunfante.\n\nDurante os anos que vão da sua vitória até à sua morte, a 10 de julho de 1099, o Cid teve de enfrentar, tanto para defender a cidade como para cumprir as suas alianças, os almorávidas em numerosas batalhas, vencendo-os em Cuarte a 23 de junho de 1094 e em Bairén (em 1097), com a ajuda do reino de Aragão.
+it: MAPS\\ESPAÑA10mision5.wmp|
+pt: MAPS\\ESPAÑA10mision5.wmp|
+it: Il Cid Campeador non aveva mai perso una battaglia fino a oggi
+pt: O Cid Campeador nunca tinha perdido uma batalha até agora
+it: Albarracín è stata riconquistata.
+pt: Albarracín foi reconquistada.
+it: Saragozza è caduta.
+pt: Saragoça caiu.
+it: Gli almoravidi sono stati sconfitti.
+pt: Os almorávidas foram derrotados.
+it: Valencia è caduta sotto il tuo dominio.
+pt: Valência caiu sob o teu domínio.
+it: I re mori sono dovuti fuggire.
+pt: Os reis mouros tiveram de fugir.
+it: Mio buon Álvar, dobbiamo partire subito.\nAndate a cercare il capitano delle mie truppe. Lo troverete a sud-ovest di qui.
+pt: Meu bom Álvar, temos de partir imediatamente.\nIde buscar o capitão das minhas tropas. Encontrá-lo-eis a sudoeste daqui.
+it: Signore, ci sono giunte notizie da Valencia. C'è stata una rivolta e il governatore al-Qadir è stato assassinato.\nGli almoravidi si sono asserragliati nella città.\nSono al comando di quel traditore di Ibn Jahhaf.
+pt: Senhor, chegaram-nos notícias de Valência. Houve uma revolta e o governador al-Qadir foi assassinado.\nOs almorávidas fizeram-se fortes na cidade.\nEstão sob o comando desse traidor do Ibn Jahhaf.
+it: Subito, mio signore.
+pt: Já de seguida, meu senhor.
+it: Capitano, allertate le vostre truppe e accompagnatemi.
+pt: Capitão, alertai as vossas tropas e acompanhai-me.
+it: Che succede?
+pt: Que se passa?
+it: Lo saprete presto!
+pt: Depressa o sabereis!
+it: Ascoltate i miei piani: dovremo prendere Albarracín per assicurarci i rifornimenti per il nostro assedio a Valencia.
+pt: Escutai os meus planos: teremos de tomar Albarracín para garantir os abastecimentos do nosso cerco a Valência.
+it: Signore, ci hanno informato che nella regione ci sono truppe almoravidi infedeli sparse.
+pt: Senhor, informaram-nos de que há tropas de infiéis almorávidas dispersas pela região.
+it: Dobbiamo agire con cautela.\nChe il Signore ci benedica tutti.\n\nIn marcia!
+pt: Temos de agir com cautela.\nQue o Senhor nos abençoe a todos.\n\nEm marcha!
+it: Capitano, radunate le truppe accanto al Campeador.
+pt: Capitão, reuni as tropas junto ao Campeador.
+it: Sierra de Albarracín
+pt: Serra de Albarracín
+it: Regno di Valencia
+pt: Reino de Valência
+it: Ricostruite la città e preparate una forza d'assalto.\n\nDobbiamo prendere Valencia!
+pt: Reconstruí a cidade e preparai uma força de assalto.\n\nTemos de tomar Valência!
+
+# la reconquista.wcm::maps/salado
+it: La battaglia del Salado
+pt: A batalha do Salado
+it: La battaglia del Salado fu una vittoria militare ottenuta il 30 ottobre 1340 da Alfonso XI di Castiglia sulla coalizione formata dai merinidi nordafricani e dal re di Granada Yusuf I.\n\nQuesta vittoria consolidò il dominio dei castigliani sullo stretto di Gibilterra; pochi anni dopo (1344) conquistarono Algeciras.
+pt: A batalha do Salado foi uma vitória militar obtida a 30 de outubro de 1340 por Afonso XI de Castela sobre a coligação formada pelos merínidas norte-africanos e pelo rei de Granada Iúçufe I.\n\nEssa vitória significou o reforço do domínio do estreito de Gibraltar pelos castelhanos, que poucos anos depois (1344) conquistaram Algeciras.
+it: Merinidi
+pt: Merínidas
+it: Yusuf I
+pt: Iúçufe I
+it: Gibilterra
+pt: Gibraltar
+it: Algeciras
+pt: Algeciras
+it: Tarifa
+pt: Tarifa
+it: Alfonso IV
+pt: Afonso IV
+it: del Portogallo
+pt: de Portugal
+it: Nave ammiraglia
+pt: Navio almirante
+it: Alfonso XI
+pt: Afonso XI
+it: il Giustiziere
+pt: o Justiceiro
+it: Gil Álvarez
+pt: Gil Álvarez
+it: de Albornoz
+pt: de Albornoz
+it: Pietro IV
+pt: Pedro IV
+it: d'Aragona
+pt: de Aragão
+it: I merinidi (dall'arabo Banu Marin) erano membri della dinastia berbera che succedette agli almohadi nel Maghreb occidentale (l'attuale Marocco), dalla metà del XIII secolo all'inizio del XV. I merinidi intervennero in modo decisivo nella vita politica del regno nasride di Granada, dove formarono un esercito permanente. Furono inoltre il sostegno fondamentale della resistenza musulmana contro i re cristiani.\n\nFin dal primo momento furono interessati a dominare lo stretto di Gibilterra per controllare il traffico commerciale tra il Mediterraneo e l'Atlantico. A questo scopo i sultani merinidi intervennero nel sud della penisola iberica in appoggio ai re di Granada o affrontando direttamente i cristiani.\n\nAlfonso XI non si lasciò intimidire dai piani bellicosi dei musulmani. Chiese aiuto ai re Alfonso IV del Portogallo e Pietro IV d'Aragona. In un primo momento la flotta islamica sconfisse quella castigliana di Jofre Tenorio, nel 1339, ma l'anno seguente Alfonso XI decise di accorrere in aiuto di Tarifa, assediata dai musulmani, concependo la campagna come una crociata.
+pt: Os merínidas (do árabe Banu Marin), também chamados marínidas, eram membros da dinastia berbere que sucedeu aos almóadas no Magrebe ocidental (o atual Marrocos), desde meados do século XIII até ao início do século XV. Os merínidas intervieram decisivamente na vida política do reino nacérida de Granada, onde formaram um exército permanente. Foram além disso o apoio fundamental da resistência muçulmana contra os reis cristãos.\n\nDesde o primeiro momento estiveram interessados em dominar o estreito de Gibraltar para controlar o tráfego comercial entre o Mediterrâneo e o Atlântico. Com esse fim, os sultões merínidas intervieram no sul da Península Ibérica em apoio dos reis granadinos ou enfrentando diretamente os cristãos.\n\nAfonso XI não se intimidou com os planos bélicos dos muçulmanos. Pediu auxílio aos reis Afonso IV de Portugal e Pedro IV de Aragão. Inicialmente, a frota islâmica venceu a castelhana de Jofre Tenorio, em 1339, mas no ano seguinte Afonso XI decidiu acudir em ajuda de Tarifa, cercada pelos muçulmanos, concebendo a campanha como uma cruzada.
+it: La battaglia del Salado fu una vittoria militare ottenuta il 30 ottobre 1340 da Alfonso XI di Castiglia sulla coalizione formata dai merinidi nordafricani e dal re di Granada Yusuf I. Lo scontro tra i due eserciti si svolse nei pressi del fiume Salado (nell'attuale provincia di Cadice). Dopo varie scaramucce, l'intervento dei difensori di Tarifa fece pendere la bilancia dalla parte cristiana. Quella battaglia consolidò il dominio dei castigliani sullo stretto di Gibilterra; pochi anni dopo, nel 1344, conquistarono Algeciras. Il re Alfonso XI morì durante l'assedio di Gibilterra nel 1350 a causa della peste nera.
+pt: A batalha do Salado foi uma vitória militar obtida a 30 de outubro de 1340 por Afonso XI de Castela sobre a coligação formada pelos merínidas norte-africanos e pelo rei de Granada Iúçufe I. O combate entre os dois exércitos desenrolou-se nas proximidades do rio Salado (na atual província de Cádis). Depois de diversas escaramuças, a intervenção dos defensores de Tarifa inclinou a balança para o lado cristão. Essa batalha significou o reforço do domínio do estreito de Gibraltar pelos castelhanos, que poucos anos depois, em 1344, conquistaram Algeciras. O rei Afonso XI morreu no cerco de Gibraltar em 1350, vítima da peste negra.
+it: TARIFA, ANNO 1340 DI NOSTRO SIGNORE
+pt: TARIFA, ANO DE NOSSO SENHOR DE 1340
+it: È stata una vittoria di Pirro, non resisteremo a un nuovo attacco...
+pt: Foi uma vitória pírrica, não resistiremos a um novo ataque...
+it: Sconfiggi la coalizione formata da Yusuf I e dai merinidi.
+pt: Derrota a coligação formada por Iúçufe I e pelos merínidas.
+it: Alfonso XI è caduto in battaglia.
+pt: Afonso XI caiu em batalha.
+it: Alfonso IV è morto.
+pt: Afonso IV morreu.
+it: Hanno affondato la nave di Pietro IV.
+pt: Afundaram o navio de Pedro IV.
+it: MAPS\\ESPAÑA10mision8.wmp|
+pt: MAPS\\ESPAÑA10mision8.wmp|
+it: ALGECIRAS
+pt: ALGECIRAS
+it: GIBILTERRA
+pt: GIBRALTAR
+it: Gil Álvarez de Albornoz è morto.
+pt: Gil Álvarez de Albornoz morreu.
+it: Le truppe cristiane hanno ceduto davanti alla potenza islamica.
+pt: As tropas cristãs sucumbiram perante o poder islâmico.
+it: I merinidi sono stati sconfitti. Speriamo che non tornino nella nostra penisola.
+pt: Os merínidas foram derrotados. Esperemos que não voltem à nossa península.
+it: Le truppe di Yusuf I sono state sconfitte. Granada dev'essere indifesa...
+pt: As tropas de Iúçufe I foram derrotadas. Granada deve estar desprotegida...
+it: Tutti i re cristiani sono morti...
+pt: Todos os reis cristãos pereceram...
+it: Yusuf I è morto, i suoi fratelli vorranno vendicarsi...
+pt: Iúçufe I morreu, os seus irmãos vão querer vingar-se...
+it: Dio mio! Gli infedeli hanno abbattuto la porta!
+pt: Meu Deus! Os infiéis derrubaram a porta!
+it: Per Allah!
+pt: Por Alá!
+it: Io, Alfonso XI, e le mie leali truppe di Castiglia siamo venuti in aiuto di Tarifa.\n\nDobbiamo cacciare i saraceni da questa terra di Dio...\n\nAlfonso IV del Portogallo e Pietro IV d'Aragona mi hanno promesso il loro aiuto... speriamo che non tardino troppo.
+pt: Eu, Afonso XI, e as minhas leais tropas de Castela viemos em auxílio de Tarifa.\n\nTemos de expulsar os sarracenos desta terra de Deus...\n\nAfonso IV de Portugal e Pedro IV de Aragão prometeram-me a sua ajuda... esperemos que não se demorem demasiado.
+it: Pietro IV d'Aragona è arrivato con una flotta aragonese.\n\nLa sua nave ammiraglia è magnifica.
+pt: Pedro IV de Aragão chegou com uma frota aragonesa.\n\nO seu navio almirante é magnífico.
+it: Spero di non essere arrivato troppo tardi.\n\nLe mie truppe portoghesi sono pronte per la battaglia.
+pt: Espero não ter chegado demasiado tarde.\n\nAs minhas tropas portuguesas estão prontas para a batalha.

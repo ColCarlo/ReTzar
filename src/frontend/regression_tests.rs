@@ -579,7 +579,7 @@ pub(super) fn regression_hud_click(app: &mut App, window: Entity, action: hud::H
 fn regression_original_special_items_are_selectable_on_the_ground() {
     use retzar::world::{FLAG_INACTIVE, MissionWorld, class};
     let catalog = retzar::scenario::ScenarioCatalog::load(&source()).unwrap();
-    // [Italian edition, American campaign, Spanish campaign]: items checked,
+    // [Italian edition, American campaign, Spanish campaigns]: items checked,
     // maps with any.
     let mut checked = [0usize; 3];
     let mut affected = [0usize; 3];
@@ -630,7 +630,7 @@ fn regression_original_special_items_are_selectable_on_the_ground() {
         assert_eq!((checked[1], affected[1]), (22, 4));
     }
     if !retzar::scenario::spanish_campaigns(&source()).is_empty() {
-        assert_eq!((checked[2], affected[2]), (250, 7));
+        assert_eq!((checked[2], affected[2]), (279, 13));
     }
 }
 

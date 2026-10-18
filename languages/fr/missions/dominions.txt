@@ -2,7 +2,7 @@
 
 # los dominios de la magia.wcm
 it: I Domini della Magia\nIl grande Impero di Arcania è un territorio magico in cui vivono in armonia Umani, Elfi e Nani. I destini di Arcania sono retti da Zoseth, "il Prescelto", la cui sacra missione è preservare la vita dei suoi sudditi e, di conseguenza, l'equilibrio dell'Impero.\n\nTuttavia, un terribile evento farà tornare a rullare i tamburi di guerra. Zoseth, "il Prescelto", è stato assassinato.
-fr: Les Domaines de la Magie\nLe grand Empire d'Arcania est une terre magique où Humains, Elfes et Nains vivent en harmonie. Les destinées d'Arcania sont régies par Zoseth, « l'Élu », dont la mission sacrée est de préserver la vie de ses sujets et, par là même, l'équilibre de l'Empire.\n\nMais un terrible événement va faire de nouveau gronder les tambours de guerre. Zoseth, « l'Élu », a été assassiné.
+fr: Les Domaines de la Magie\nLe grand Empire d'Arcania est une terre magique où Humains, Elfes et Nains vivent en harmonie. Les destinées d'Arcania sont régies par Zoseth, « l'Élu », dont la mission sacrée est de préserver la vie de ses sujets et, par là même, l'équilibre de l'Empire.\n\nMais un terrible événement va faire de nouveau gronder les tambours de guerre. Zoseth, « l'Élu », a été assassiné.
 
 # los dominios de la magia.wcm::maps/una alianza inesperada
 it: Un'alleanza inattesa
@@ -48,7 +48,7 @@ fr: Kasia est tombée grièvement blessée et se retire du combat.
 it: Il Consiglio Reale esige invano da Ignatar la restituzione dell'ambito Scettro del Potere. Ebbro di arroganza, Ignatar contrattacca con una sottile manovra. Kasia, una giovane nobile, bella, fredda, calcolatrice e ambiziosa, cade nei suoi inganni quando il malvagio stregone le promette il trono del Consiglio in cambio dell'appoggio del suo temibile esercito.
 fr: Le Conseil Royal exige en vain qu'Ignatar rende le précieux Sceptre du Pouvoir. Ivre d'arrogance, Ignatar contre-attaque par une manœuvre subtile. Kasia, une jeune noble, belle, froide, calculatrice et ambitieuse, tombe dans ses pièges quand le maléfique sorcier lui promet le trône du Conseil en échange du soutien de sa redoutable armée.
 it: Kasia cade, ferita nell'animo, vittima della sua stessa ambizione. Nella sua lenta agonia riesce a rivolgersi ad Albinia e, senza un briciolo di pentimento, le confessa uno dei segreti meglio custoditi di Arcania...\n\nSei riuscita a sconfiggermi, Albinia... ma non mi priverai del colpo finale. Per tutto questo tempo il mio signore ha tenuto in vita il tuo vecchio padre con il fermo proposito di farsi rivelare tutti i segreti della Magia Proibita. Ora che ha raggiunto il suo scopo... la vita di Aerus non ha più alcun valore. Ormai nemmeno tutto il potere magico di Arcania potrà fermare Ignatar.\n\nLa confessione di Kasia penetra come un dardo avvelenato nella mente di Albinia, lacerandole tutti i sensi... Aerus è ancora vivo!\n\nTuttavia, l'immagine del padre torturato e umiliato le provoca una sofferenza insopportabile. Forse è già troppo tardi... Senza perdere tempo, parte al galoppo verso le segrete della fortezza di Ignatar. Non è disposta a rinunciare alla possibilità di rivedere suo padre vivo...
-fr: Kasia tombe, blessée dans l'âme, victime de sa propre ambition. Dans sa lente agonie, elle parvient à se tourner vers Albinia et, sans l'ombre d'un remords, lui confie l'un des secrets les mieux gardés d'Arcania...\n\nTu as réussi à me vaincre, Albinia... mais tu ne me priveras pas du coup de grâce. Pendant tout ce temps, mon seigneur a gardé ton vieux père en vie, bien décidé à lui faire révéler tous les secrets de la Magie Interdite. Maintenant qu'il a atteint son but... la vie d'Aerus ne vaut plus rien. Désormais, même tout le pouvoir magique d'Arcania ne pourra arrêter Ignatar.\n\nLa confession de Kasia pénètre comme un dard empoisonné dans l'esprit d'Albinia, déchirant tous ses sens... Aerus est encore en vie !\n\nPourtant, l'image de son père torturé et humilié lui cause une souffrance insupportable. Il est peut-être déjà trop tard... Sans perdre un instant, elle part au galop vers les cachots de la forteresse d'Ignatar. Elle refuse de renoncer à la possibilité de revoir son père vivant...
+fr: Kasia tombe, blessée dans l'âme, victime de sa propre ambition. Dans sa lente agonie, elle parvient à se tourner vers Albinia et, sans l'ombre d'un remords, lui confie l'un des secrets les mieux gardés d'Arcania...\n\nTu as réussi à me vaincre, Albinia... mais tu ne me priveras pas du coup de grâce. Pendant tout ce temps, mon seigneur a gardé ton vieux père en vie, bien décidé à lui faire révéler tous les secrets de la Magie Interdite. Maintenant qu'il a atteint son but... la vie d'Aerus ne vaut plus rien. Désormais, même tout le pouvoir magique d'Arcania ne pourra arrêter Ignatar.\n\nLa confession de Kasia pénètre comme un dard empoisonné dans l'esprit d'Albinia, déchirant tous ses sens... Aerus est encore en vie !\n\nPourtant, l'image de son père torturé et humilié lui cause une souffrance insupportable. Il est peut-être déjà trop tard... Sans perdre un instant, elle part au galop vers les cachots de la forteresse d'Ignatar. Elle refuse de renoncer à la possibilité de revoir son père vivant...
 it: Jaraldur è stato ferito.
 fr: Jaraldur a été blessé.
 it: Skull è caduto ferito.
@@ -70,27 +70,27 @@ fr: L'armée d'Albinia a été vaincue.
 it: Uno degli eserciti di Kasia è stato sconfitto.
 fr: L'une des armées de Kasia a été vaincue.
 it: Che succede? Perché ci fermiamo?
-fr: Que se passe-t-il ? Pourquoi nous arrêtons-nous ?
+fr: Que se passe-t-il ? Pourquoi nous arrêtons-nous ?
 it: Avverto una grande concentrazione di magia a nord-ovest.
 fr: Je sens une grande concentration de magie au nord-ouest.
 it: Temo che ci troviamo su un terreno pericoloso.
 fr: Je crains que nous ne soyons en terrain dangereux.
 it: Non riesco a riconoscerlo, ma presagisco che si avvicina una battaglia. Prepariamoci a combattere!
-fr: Je n'arrive pas à la reconnaître, mais je pressens qu'une bataille approche. Préparons-nous au combat !
+fr: Je n'arrive pas à la reconnaître, mais je pressens qu'une bataille approche. Préparons-nous au combat !
 it: Affidiamo alle truppe volanti l'esplorazione del terreno. Queste unità sono specializzate nel perlustrare la zona e scovare i nemici nascosti.
 fr: Confions l'exploration du terrain aux troupes volantes. Ces unités sont spécialisées dans le ratissage de la zone et la découverte des ennemis cachés.
 it: Indagherò con la mia visione magica, ma tenete gli occhi ben aperti...
 fr: Je vais chercher avec ma vision magique, mais ouvrez bien les yeux...
 it: Temo di no... Usiamo le nostre truppe volanti per esplorare: sono ottimi esploratori, specializzati nello scovare i nemici nascosti.
-fr: Je crains que non... Utilisons nos troupes volantes pour explorer : ce sont d'excellents éclaireurs, spécialisés dans la découverte des ennemis cachés.
+fr: Je crains que non... Utilisons nos troupes volantes pour explorer : ce sont d'excellents éclaireurs, spécialisés dans la découverte des ennemis cachés.
 it: Le truppe di Kasia sono dalla parte di Ignatar e combattono una terribile battaglia contro le forze di Kirildur. A poco a poco Ignatar si sta impadronendo di tutti i territori dell'Impero. Se non vi poniamo rimedio, questa guerra civile lo renderà il nuovo imperatore. Kirildur non potrà mai sconfiggerlo da solo.
 fr: Les troupes de Kasia sont du côté d'Ignatar et livrent une terrible bataille contre les forces de Kirildur. Peu à peu, Ignatar s'empare de tous les territoires de l'Empire. Si nous n'y remédions pas, cette guerre civile fera de lui le nouvel empereur. Kirildur ne pourra jamais le vaincre seul.
 it: Le truppe di Kasia ci attaccano! Facciamole a pezzi. Se aiutiamo Kirildur a vincere questa battaglia, potremo sconfiggere l'esercito di Ignatar.
-fr: Les troupes de Kasia nous attaquent ! Taillons-les en pièces. Si nous aidons Kirildur à gagner cette bataille, nous pourrons vaincre l'armée d'Ignatar.
+fr: Les troupes de Kasia nous attaquent ! Taillons-les en pièces. Si nous aidons Kirildur à gagner cette bataille, nous pourrons vaincre l'armée d'Ignatar.
 it: Finalmente! I miei esploratori mi hanno confermato che le forze di Albinia si avvicinano. Non tutto è perduto...
-fr: Enfin ! Mes éclaireurs m'ont confirmé que les forces d'Albinia approchent. Tout n'est pas perdu...
+fr: Enfin ! Mes éclaireurs m'ont confirmé que les forces d'Albinia approchent. Tout n'est pas perdu...
 it: All'attacco! La vittoria è nostra! Chi l'avrebbe mai detto... la giovane Albinia è diventata una potente maga. Suo padre sarebbe fiero di lei.
-fr: À l'attaque ! La victoire est à nous ! Qui l'eût cru... la jeune Albinia est devenue une puissante magicienne. Son père serait fier d'elle.
+fr: À l'attaque ! La victoire est à nous ! Qui l'eût cru... la jeune Albinia est devenue une puissante magicienne. Son père serait fier d'elle.
 
 # los dominios de la magia.wcm::maps/el reloj de arena
 it: La clessidra
@@ -152,29 +152,29 @@ fr: Le père et la fille ont été vaincus.
 it: Hai eliminato i guardiani delle segrete.
 fr: Tu as éliminé les gardiens des cachots.
 it: Albinia, sei viva! Avevo perso la speranza di rivederti... Non sai quanto sono felice di vederti!
-fr: Albinia, tu es vivante ! J'avais perdu l'espoir de te revoir... Tu ne sais pas comme je suis heureux de te voir !
+fr: Albinia, tu es vivante ! J'avais perdu l'espoir de te revoir... Tu ne sais pas comme je suis heureux de te voir !
 it: Anch'io, padre. Mi sei mancato tanto.
 fr: Moi aussi, père. Tu m'as tant manqué.
 it: Raccontami... dove sei stata per tutto questo tempo?
-fr: Raconte-moi... où étais-tu pendant tout ce temps ?
+fr: Raconte-moi... où étais-tu pendant tout ce temps ?
 it: Lo vedi, qua e là... a esercitarmi con qualche incantesimo.
 fr: Oh, par-ci, par-là... à m'exercer à quelques sorts.
 it: Smettila di scherzare... Come hai fatto a sopravvivere?
-fr: Cesse de plaisanter... Comment as-tu survécu ?
+fr: Cesse de plaisanter... Comment as-tu survécu ?
 it: È una lunga storia. Sono fuggita nel territorio di Kron e mi sono nascosta lì. I miei eserciti e le truppe di Jaraldur mi hanno aiutata a evitare che Ignatar mi catturasse.
 fr: C'est une longue histoire. J'ai fui sur le territoire de Kron et je m'y suis cachée. Mes armées et les troupes de Jaraldur m'ont aidée à échapper à Ignatar.
 it: Albinia... devo confessarti una cosa. Ignatar mi assicurò di averti catturata. Mi disse che l'unico modo per impedirgli di ucciderti era rivelargli i segreti dei miei incantesimi più potenti... Io resistetti, ma non riuscivo a smettere di pensare a te... Non volevo perderti. Ora Ignatar ha tutto il potere.
 fr: Albinia... je dois t'avouer quelque chose. Ignatar m'a assuré qu'il t'avait capturée. Il m'a dit que le seul moyen de l'empêcher de te tuer était de lui révéler les secrets de mes sorts les plus puissants... J'ai résisté, mais je ne pouvais m'empêcher de penser à toi... Je ne voulais pas te perdre. Maintenant, Ignatar détient tout le pouvoir.
 it: Non preoccuparti... L'hai fatto per una nobile causa. E non tutto è ancora perduto. Presto! Dobbiamo fuggire!
-fr: Ne t'inquiète pas... Tu l'as fait pour une noble cause. Et tout n'est pas encore perdu. Vite ! Nous devons fuir !
+fr: Ne t'inquiète pas... Tu l'as fait pour une noble cause. Et tout n'est pas encore perdu. Vite ! Nous devons fuir !
 it: Albinia, dobbiamo trovare il Guardiano della Spada e sconfiggerlo. Solo così potremo trovare l'uscita. La Spada ci mostrerà la via.
 fr: Albinia, nous devons trouver le Gardien de l'Épée et le vaincre. Ce n'est qu'ainsi que nous trouverons la sortie. L'Épée nous montrera le chemin.
 it: Magnifico! Ora la Spada ci condurrà all'uscita di questo luogo... Presto! Allontaniamoci da qui il prima possibile.
-fr: Magnifique ! L'Épée va maintenant nous conduire à la sortie de ce lieu... Vite ! Éloignons-nous d'ici au plus tôt.
+fr: Magnifique ! L'Épée va maintenant nous conduire à la sortie de ce lieu... Vite ! Éloignons-nous d'ici au plus tôt.
 it: Non possiamo raggiungere l'isola. Come attraverseremo queste acque?
-fr: Nous ne pouvons pas atteindre l'île. Comment allons-nous traverser ces eaux ?
+fr: Nous ne pouvons pas atteindre l'île. Comment allons-nous traverser ces eaux ?
 it: Siamo fortunati, Albinia. Scorgo una nave in lontananza. Andiamo!
-fr: Nous avons de la chance, Albinia. J'aperçois un navire au loin. Allons-y !
+fr: Nous avons de la chance, Albinia. J'aperçois un navire au loin. Allons-y !
 
 # los dominios de la magia.wcm::maps/el sacrificio
 it: Il sacrificio
@@ -234,19 +234,19 @@ fr: Finissons-en avec Ignatar une bonne fois pour toutes.
 it: Non sarà così semplice...
 fr: Ce ne sera pas si simple...
 it: Perché? Le nostre forze superano le sue.
-fr: Pourquoi ? Nos forces sont supérieures aux siennes.
+fr: Pourquoi ? Nos forces sont supérieures aux siennes.
 it: Ignatar ora gode di un potere straordinario. Io stesso gli ho insegnato la magia proibita... Credevo che fosse l'unico modo per salvare Albinia... Ignatar ha stretto un patto con forze demoniache e non esiterà a usarle contro di noi...
 fr: Ignatar jouit désormais d'un pouvoir extraordinaire. Je lui ai moi-même enseigné la magie interdite... Je croyais que c'était le seul moyen de sauver Albinia... Ignatar a conclu un pacte avec des forces démoniaques et n'hésitera pas à les utiliser contre nous...
 it: Non tormentarti, Aerus. Hai agito bene. Ora non ci resta che affrontare Ignatar. Sarà una battaglia cruenta, ma non possiamo fermarci...
 fr: Ne te tourmente pas, Aerus. Tu as bien agi. Maintenant, il ne nous reste qu'à affronter Ignatar. Ce sera une bataille sanglante, mais nous ne pouvons pas nous arrêter...
 it: Jaraldur ha ragione. Se lo distruggiamo, l'effetto dei suoi incantesimi svanirà e le sue truppe si dissolveranno. Facciamola finita con lui! Per Arcania!
-fr: Jaraldur a raison. Si nous le détruisons, l'effet de ses sorts disparaîtra et ses troupes s'évanouiront. Finissons-en avec lui ! Pour Arcania !
+fr: Jaraldur a raison. Si nous le détruisons, l'effet de ses sorts disparaîtra et ses troupes s'évanouiront. Finissons-en avec lui ! Pour Arcania !
 
 # los dominios de la magia.wcm::maps/huida en la noche
 it: Fuga nella notte
 fr: Fuite dans la nuit
 it: Zoseth, "il Prescelto", è stato assassinato. Il malvagio Ignatar, autore del crimine, vuole far credere che il colpevole sia Aerus, stregone dell'Ordine dell'Acqua ed erede naturale di Zoseth. Eliminato Aerus, Ignatar diventerebbe il Prescelto e avrebbe nelle sue mani l'agognato Scettro del Potere.\nTuttavia, qualcun altro è stato testimone del delitto e conosce la verità...
-fr: Zoseth, « l'Élu », a été assassiné. Le maléfique Ignatar, auteur du crime, veut faire croire que le coupable est Aerus, sorcier de l'Ordre de l'Eau et héritier naturel de Zoseth. Aerus éliminé, Ignatar deviendrait l'Élu et tiendrait entre ses mains le Sceptre du Pouvoir tant convoité.\nPourtant, quelqu'un d'autre a été témoin du crime et connaît la vérité...
+fr: Zoseth, « l'Élu », a été assassiné. Le maléfique Ignatar, auteur du crime, veut faire croire que le coupable est Aerus, sorcier de l'Ordre de l'Eau et héritier naturel de Zoseth. Aerus éliminé, Ignatar deviendrait l'Élu et tiendrait entre ses mains le Sceptre du Pouvoir tant convoité.\nPourtant, quelqu'un d'autre a été témoin du crime et connaît la vérité...
 it: Guardie
 fr: Gardes
 it: Cittadini
@@ -268,15 +268,15 @@ fr: Pendant ce temps, à la porte de la tour...
 it: Fuggi dalla torre e porta Albinia in salvo, ai confini della mappa.
 fr: Fuis la tour et mets Albinia en sécurité, aux limites de la carte.
 it: Il grande Impero di Arcania è un territorio magico in cui vivono in armonia Umani, Elfi e Nani. I destini di Arcania sono retti da Zoseth, "il Prescelto", la cui sacra missione è preservare la vita dei suoi sudditi e, di conseguenza, l'equilibrio dell'Impero.\n\nTuttavia, un terribile evento cambierà il corso della Storia. Zoseth muore avvelenato da Ignatar, stregone dell'Ordine del Fuoco. Questi vuole far credere che il colpevole del delitto sia Aerus, stregone dell'Ordine dell'Acqua ed erede naturale di Zoseth. Eliminato Aerus, Ignatar diventerebbe il Prescelto e avrebbe nelle sue mani l'agognato Scettro del Potere.\n\nIl piano sarebbe perfetto se Albinia, figlia di Aerus, non fosse stata testimone del tradimento. Quando Ignatar la scopre, la giovane apprendista maga fugge per raccontare l'accaduto al padre.\n\nNel frattempo, Ignatar va avanti con i suoi piani. Dopo aver denunciato l'assassinio davanti al Consiglio Reale, irrompe con la sua guardia personale nella torre magica di Aerus con l'intenzione di catturarlo.
-fr: Le grand Empire d'Arcania est une terre magique où Humains, Elfes et Nains vivent en harmonie. Les destinées d'Arcania sont régies par Zoseth, « l'Élu », dont la mission sacrée est de préserver la vie de ses sujets et, par là même, l'équilibre de l'Empire.\n\nMais un terrible événement va changer le cours de l'Histoire. Zoseth meurt empoisonné par Ignatar, sorcier de l'Ordre du Feu. Celui-ci veut faire croire que le coupable est Aerus, sorcier de l'Ordre de l'Eau et héritier naturel de Zoseth. Aerus éliminé, Ignatar deviendrait l'Élu et tiendrait entre ses mains le Sceptre du Pouvoir tant convoité.\n\nLe plan serait parfait si Albinia, la fille d'Aerus, n'avait pas été témoin de la trahison. Quand Ignatar la découvre, la jeune apprentie magicienne s'enfuit pour raconter à son père ce qui s'est passé.\n\nPendant ce temps, Ignatar poursuit ses desseins. Après avoir dénoncé l'assassinat devant le Conseil Royal, il fait irruption avec sa garde personnelle dans la tour magique d'Aerus avec l'intention de l'arrêter.
+fr: Le grand Empire d'Arcania est une terre magique où Humains, Elfes et Nains vivent en harmonie. Les destinées d'Arcania sont régies par Zoseth, « l'Élu », dont la mission sacrée est de préserver la vie de ses sujets et, par là même, l'équilibre de l'Empire.\n\nMais un terrible événement va changer le cours de l'Histoire. Zoseth meurt empoisonné par Ignatar, sorcier de l'Ordre du Feu. Celui-ci veut faire croire que le coupable est Aerus, sorcier de l'Ordre de l'Eau et héritier naturel de Zoseth. Aerus éliminé, Ignatar deviendrait l'Élu et tiendrait entre ses mains le Sceptre du Pouvoir tant convoité.\n\nLe plan serait parfait si Albinia, la fille d'Aerus, n'avait pas été témoin de la trahison. Quand Ignatar la découvre, la jeune apprentie magicienne s'enfuit pour raconter à son père ce qui s'est passé.\n\nPendant ce temps, Ignatar poursuit ses desseins. Après avoir dénoncé l'assassinat devant le Conseil Royal, il fait irruption avec sa garde personnelle dans la tour magique d'Aerus avec l'intention de l'arrêter.
 it: SUGGERIMENTI:\n\nStudia gli incantesimi dei libri di magia (Ctrl+clic destro sul libro). Potrai usarli con il tuo mana.\n\nTrova la pozione in cantina e bevila. Aumenterà il tuo mana e potrai lanciare gli incantesimi più rapidamente. (Per berla subito fai Ctrl+clic destro sulla pozione. Se ce l'hai già nell'inventario, selezionala con il tasto sinistro del mouse e fai di nuovo clic sinistro sul personaggio.)\n\nEsistono molti modi per fuggire vivi dalla torre. I libri di incantesimi che troverai ti saranno di grande aiuto.
-fr: CONSEILS :\n\nÉtudie les sorts des livres de magie (Ctrl+clic droit sur le livre). Tu pourras les lancer avec ton mana.\n\nTrouve la potion dans la cave et bois-la. Elle augmentera ton mana et tu pourras lancer tes sorts plus vite. (Pour la boire tout de suite, fais Ctrl+clic droit sur la potion. Si elle est déjà dans ton inventaire, sélectionne-la avec le bouton gauche de la souris et fais de nouveau un clic gauche sur le personnage.)\n\nIl existe bien des façons de sortir vivant de la tour. Les livres de sorts que tu trouveras te seront d'une grande aide.
+fr: CONSEILS :\n\nÉtudie les sorts des livres de magie (Ctrl+clic droit sur le livre). Tu pourras les lancer avec ton mana.\n\nTrouve la potion dans la cave et bois-la. Elle augmentera ton mana et tu pourras lancer tes sorts plus vite. (Pour la boire tout de suite, fais Ctrl+clic droit sur la potion. Si elle est déjà dans ton inventaire, sélectionne-la avec le bouton gauche de la souris et fais de nouveau un clic gauche sur le personnage.)\n\nIl existe bien des façons de sortir vivant de la tour. Les livres de sorts que tu trouveras te seront d'une grande aide.
 it: Aiuto
 fr: Aide
 it: Consulta spesso i tuoi obiettivi. Troverai alcuni consigli utili.
 fr: Consulte souvent tes objectifs. Tu y trouveras des conseils utiles.
 it: Aerus cerca invano di fermare Ignatar e i suoi soldati. Gravemente ferito, viene fatto prigioniero e accusato dell'assassinio di Zoseth. Il Consiglio Reale lo condanna a morte. Giustiziato Aerus, i diritti di successione stabiliscono che lo Scettro del Potere passi a Ignatar. La sua cospirazione ha avuto successo...\n\nInvestito dell'autorità, un solo pensiero gli attraversa la mente: eliminare Albinia, l'unica persona che conosce il suo oscuro segreto.
-fr: Aerus tente en vain d'arrêter Ignatar et ses soldats. Grièvement blessé, il est fait prisonnier et accusé de l'assassinat de Zoseth. Le Conseil Royal le condamne à mort. Aerus exécuté, les droits de succession veulent que le Sceptre du Pouvoir revienne à Ignatar. Sa conspiration a réussi...\n\nInvesti de l'autorité, une seule pensée lui traverse l'esprit : se débarrasser d'Albinia, la seule personne qui connaisse son sombre secret.
+fr: Aerus tente en vain d'arrêter Ignatar et ses soldats. Grièvement blessé, il est fait prisonnier et accusé de l'assassinat de Zoseth. Le Conseil Royal le condamne à mort. Aerus exécuté, les droits de succession veulent que le Sceptre du Pouvoir revienne à Ignatar. Sa conspiration a réussi...\n\nInvesti de l'autorité, une seule pensée lui traverse l'esprit : se débarrasser d'Albinia, la seule personne qui connaisse son sombre secret.
 it: Albinia è stata catturata. Le sue grida d'aiuto si perderanno nelle profondità delle segrete di Ignatar.
 fr: Albinia a été capturée. Ses appels au secours se perdront dans les profondeurs des cachots d'Ignatar.
 it: La guardia personale di Ignatar è stata annientata.
@@ -292,31 +292,31 @@ fr: Aerus a été capturé par Ignatar et sa garde personnelle.
 it: Non lo so, figlia mia. Non lo so... Ho sempre sospettato di Ignatar, ma non avrei mai immaginato che la sua ambizione arrivasse a tanto. Non c'è dubbio che voglia tutto il potere di Arcania... Devo fermarlo.
 fr: Je ne sais pas, ma fille. Je ne sais pas... J'ai toujours soupçonné Ignatar, mais je n'aurais jamais imaginé que son ambition irait si loin. Il ne fait aucun doute qu'il veut tout le pouvoir d'Arcania... Je dois l'arrêter.
 it: Perché non convochiamo i Maestri degli Ordini Magici e il Consiglio Reale per raccontare loro quello che è successo? Dobbiamo fare qualcosa!
-fr: Pourquoi ne pas convoquer les Maîtres des Ordres Magiques et le Conseil Royal pour leur raconter ce qui s'est passé ? Nous devons faire quelque chose !
+fr: Pourquoi ne pas convoquer les Maîtres des Ordres Magiques et le Conseil Royal pour leur raconter ce qui s'est passé ? Nous devons faire quelque chose !
 it: Forse è troppo tardi, figlia mia. Sento che Ignatar in persona si sta avvicinando... Viene a prenderci. Presto! Devi fuggire. Solo tu e io conosciamo la verità e devi sopravvivere per rivelarla. Nel frattempo, io mi occuperò di Ignatar.
-fr: Il est peut-être trop tard, ma fille. Je sens qu'Ignatar en personne approche... Il vient nous chercher. Vite ! Tu dois fuir. Toi et moi sommes les seuls à connaître la vérité et tu dois survivre pour la révéler. Pendant ce temps, je m'occuperai d'Ignatar.
+fr: Il est peut-être trop tard, ma fille. Je sens qu'Ignatar en personne approche... Il vient nous chercher. Vite ! Tu dois fuir. Toi et moi sommes les seuls à connaître la vérité et tu dois survivre pour la révéler. Pendant ce temps, je m'occuperai d'Ignatar.
 it: Stai attento, padre.
 fr: Prends garde, père.
 it: Non temere per me. Saprò difendermi. Corri, Albinia, corri!
-fr: Ne crains rien pour moi. Je saurai me défendre. Cours, Albinia, cours !
+fr: Ne crains rien pour moi. Je saurai me défendre. Cours, Albinia, cours !
 it: ...Padre, è stato orribile. Ho visto Ignatar versare una pozione nel calice sacro. Zoseth ne ha bevuto un sorso ed è crollato a terra fulminato... Ho cercato di nascondermi, ma Ignatar mi ha scoperta. Che cosa succederà adesso, padre?
-fr: ...Père, c'était horrible. J'ai vu Ignatar verser une potion dans le calice sacré. Zoseth en a bu une gorgée et s'est effondré, foudroyé... J'ai tenté de me cacher, mais Ignatar m'a découverte. Que va-t-il se passer maintenant, père ?
+fr: ...Père, c'était horrible. J'ai vu Ignatar verser une potion dans le calice sacré. Zoseth en a bu une gorgée et s'est effondré, foudroyé... J'ai tenté de me cacher, mais Ignatar m'a découverte. Que va-t-il se passer maintenant, père ?
 it: Siamo arrivati in tempo. Quel vecchio di Aerus non ha nemmeno piazzato i suoi arcieri sulle mura. Ricordate... lo voglio vivo! E non preoccupatevi di sua figlia... avremo tempo per occuparci di lei.
-fr: Nous sommes arrivés à temps. Ce vieil Aerus n'a même pas posté ses archers sur les remparts. Rappelez-vous... je le veux vivant ! Et ne vous souciez pas de sa fille... nous aurons le temps de nous occuper d'elle.
+fr: Nous sommes arrivés à temps. Ce vieil Aerus n'a même pas posté ses archers sur les remparts. Rappelez-vous... je le veux vivant ! Et ne vous souciez pas de sa fille... nous aurons le temps de nous occuper d'elle.
 it: Padre!!!
-fr: Père !!!
+fr: Père !!!
 it: Fuggi, figlia mia! Non lasciare che ti catturino...
-fr: Fuis, ma fille ! Ne les laisse pas te capturer...
+fr: Fuis, ma fille ! Ne les laisse pas te capturer...
 it: Devo fuggire... ma come? Ignatar blocca l'uscita... Pensa, Albinia, pensa... In cantina tengo una pozione per accrescere i miei poteri magici... e di sicuro sullo scaffale troverò qualche libro di incantesimi. Devo andare nel laboratorio e nello studio. Mio padre era solito nascondere lì alcuni oggetti magici. Non ho tempo da perdere!
-fr: Je dois fuir... mais comment ? Ignatar bloque la sortie... Réfléchis, Albinia, réfléchis... Dans la cave, je garde une potion qui accroît mes pouvoirs magiques... et je trouverai sûrement un livre de sorts sur l'étagère. Je dois aller au laboratoire et au bureau. Mon père avait l'habitude d'y cacher quelques objets magiques. Je n'ai pas de temps à perdre !
+fr: Je dois fuir... mais comment ? Ignatar bloque la sortie... Réfléchis, Albinia, réfléchis... Dans la cave, je garde une potion qui accroît mes pouvoirs magiques... et je trouverai sûrement un livre de sorts sur l'étagère. Je dois aller au laboratoire et au bureau. Mon père avait l'habitude d'y cacher quelques objets magiques. Je n'ai pas de temps à perdre !
 it: Per lo scettro di Zoseth! Ci attaccano! Chiudete le porte! Presto!
-fr: Par le sceptre de Zoseth ! On nous attaque ! Fermez les portes ! Vite !
+fr: Par le sceptre de Zoseth ! On nous attaque ! Fermez les portes ! Vite !
 it: Sono le truppe di Ignatar e la sua guardia personale! Ma perché ci attaccano?
-fr: Ce sont les troupes d'Ignatar et sa garde personnelle ! Mais pourquoi nous attaquent-ils ?
+fr: Ce sont les troupes d'Ignatar et sa garde personnelle ! Mais pourquoi nous attaquent-ils ?
 it: Ho sempre saputo che eri un traditore, Ignatar. Ma non avrei mai immaginato che fossi così vigliacco.
 fr: J'ai toujours su que tu étais un traître, Ignatar. Mais je n'aurais jamais imaginé que tu sois si lâche.
 it: Anch'io sono lieto di vederti, Aerus. Sembra che la tua cara figlia non abbia perso tempo... Peccato che non vi siate accorti prima che Arcania non ha bisogno di voi. Né di te né di Zoseth. Solo io posso garantire la prosperità del nostro popolo. E il nostro popolo me ne sarà grato. Guardie, prendetelo!
-fr: Moi aussi, je suis ravi de te voir, Aerus. On dirait que ta chère fille n'a pas perdu de temps... Dommage que vous n'ayez pas compris plus tôt qu'Arcania n'a pas besoin de vous. Ni de toi ni de Zoseth. Moi seul peux garantir la prospérité de notre peuple. Et notre peuple m'en sera reconnaissant. Gardes, emparez-vous de lui !
+fr: Moi aussi, je suis ravi de te voir, Aerus. On dirait que ta chère fille n'a pas perdu de temps... Dommage que vous n'ayez pas compris plus tôt qu'Arcania n'a pas besoin de vous. Ni de toi ni de Zoseth. Moi seul peux garantir la prospérité de notre peuple. Et notre peuple m'en sera reconnaissant. Gardes, emparez-vous de lui !
 it: Il mio incantesimo dei Fulmini potrebbe neutralizzarli o, se sono numerosi, la Pioggia di fuoco dovrebbe bastare a fermarli, anche se può rivelarsi un incantesimo pericoloso.
 fr: Mon sort de Foudre pourrait les neutraliser ou, s'ils sont nombreux, la Pluie de feu devrait suffire à les arrêter, même si ce sort peut se révéler dangereux.
 
@@ -340,7 +340,7 @@ fr: Albinia est morte.
 it: Il potente esercito di Arcania stringe il cerchio attorno ad Albinia. Comandato da Grolim, re dei Nani, e da Silvanar, re degli Elfi, si prepara all'assedio definitivo nella Gola della Morte.\n\nAlbinia dispone soltanto di un piccolo gruppo di guerrieri indeboliti dai continui combattimenti. La sua unica speranza è resistere finché il grosso del suo esercito, a diversi giorni di marcia, non verrà in suo soccorso.
 fr: La puissante armée d'Arcania resserre l'étau autour d'Albinia. Commandée par Grolim, roi des Nains, et Silvanar, roi des Elfes, elle se prépare au siège décisif dans la Gorge de la Mort.\n\nAlbinia ne dispose que d'un petit groupe de guerriers affaiblis par des combats incessants. Son seul espoir est de résister jusqu'à ce que le gros de son armée, à plusieurs jours de marche, vienne à son secours.
 it: Dopo diversi giorni di eroica resistenza, Albinia vede le sue schiere rompere l'assedio e fare prigionieri Silvanar e Grolim. Incatenati, vengono condotti davanti alla giovane e, in sua presenza, non esitano ad accusare lei e suo padre di aver tradito la causa di Arcania.\n\nAlbinia non riesce a reprimere l'odio nello sguardo e, in un impeto d'ira, impugna il pugnale pronta a ucciderli, ma Jaraldur la ferma.\n\n"Mia signora, portiamoli all'Oracolo della Verità. Le acque del suo pozzo mostreranno loro la verità."\n\nSilvanar e Grolim vedono riflessa nelle acque cristalline dell'Oracolo la morte di Zoseth per mano di Ignatar. In preda a un misto di indignazione e di rammarico, presentano le loro scuse ad Albinia e, senza indugio, inviano un messaggero a Kirildur, re degli Umani.\n\nRicevuta la pergamena che rivela la verità, Kirildur chiama alle armi le truppe del Consiglio Reale di Arcania.\n\nNel frattempo, Albinia e il suo esercito si dirigono verso i domini di Ignatar per impedirgli di ritirarsi nella sua fortezza.
-fr: Après plusieurs jours de résistance héroïque, Albinia voit ses troupes briser le siège et faire prisonniers Silvanar et Grolim. Enchaînés, ils sont conduits devant la jeune femme et, en sa présence, n'hésitent pas à l'accuser, elle et son père, d'avoir trahi la cause d'Arcania.\n\nAlbinia ne peut réprimer la haine de son regard et, dans un accès de colère, saisit sa dague, prête à leur ôter la vie, mais Jaraldur l'arrête.\n\n« Ma dame, conduisons-les à l'Oracle de Vérité. Les eaux de son puits leur montreront la vérité. »\n\nSilvanar et Grolim voient se refléter dans les eaux cristallines de l'Oracle la mort de Zoseth de la main d'Ignatar. Partagés entre l'indignation et le remords, ils présentent leurs excuses à Albinia et, sans plus attendre, envoient un messager à Kirildur, roi des Humains.\n\nÀ la réception du parchemin qui révèle la vérité, Kirildur appelle aux armes les troupes du Conseil Royal d'Arcania.\n\nPendant ce temps, Albinia et son armée se dirigent vers les domaines d'Ignatar pour l'empêcher de se replier dans sa forteresse.
+fr: Après plusieurs jours de résistance héroïque, Albinia voit ses troupes briser le siège et faire prisonniers Silvanar et Grolim. Enchaînés, ils sont conduits devant la jeune femme et, en sa présence, n'hésitent pas à l'accuser, elle et son père, d'avoir trahi la cause d'Arcania.\n\nAlbinia ne peut réprimer la haine de son regard et, dans un accès de colère, saisit sa dague, prête à leur ôter la vie, mais Jaraldur l'arrête.\n\n« Ma dame, conduisons-les à l'Oracle de Vérité. Les eaux de son puits leur montreront la vérité. »\n\nSilvanar et Grolim voient se refléter dans les eaux cristallines de l'Oracle la mort de Zoseth de la main d'Ignatar. Partagés entre l'indignation et le remords, ils présentent leurs excuses à Albinia et, sans plus attendre, envoient un messager à Kirildur, roi des Humains.\n\nÀ la réception du parchemin qui révèle la vérité, Kirildur appelle aux armes les troupes du Conseil Royal d'Arcania.\n\nPendant ce temps, Albinia et son armée se dirigent vers les domaines d'Ignatar pour l'empêcher de se replier dans sa forteresse.
 it: Bandim è stato ferito in battaglia.
 fr: Bandim a été blessé au combat.
 it: Banshee è stato ferito in battaglia.
@@ -352,7 +352,7 @@ fr: Skull a été blessé au combat.
 it: Le truppe di Albinia si avvicinano. Sono a solo mezza giornata di marcia.
 fr: Les troupes d'Albinia approchent. Elles ne sont plus qu'à une demi-journée de marche.
 it: Le truppe di Albinia stanno per arrivare. Dobbiamo resistere solo un altro po'!
-fr: Les troupes d'Albinia sont sur le point d'arriver. Il nous suffit de tenir encore un peu !
+fr: Les troupes d'Albinia sont sur le point d'arriver. Il nous suffit de tenir encore un peu !
 it: Le tue schiere sono state sconfitte.
 fr: Tes troupes ont été vaincues.
 it: Le truppe di Grolim e Silvanar sono state sconfitte.
@@ -364,25 +364,25 @@ fr: L'avant-garde des elfes et des nains a été vaincue.
 it: Tutti i traditori sono stati giustiziati.
 fr: Tous les traîtres ont été exécutés.
 it: Correte!
-fr: Courez !
+fr: Courez !
 it: Mia signora, se attraversiamo la Gola della Morte avremo una possibilità.
 fr: Ma dame, si nous traversons la Gorge de la Mort, nous aurons une chance.
 it: Non mi piace affatto: potremmo restare bloccati tra due fronti e sarebbe la nostra rovina.
-fr: Cela ne me plaît guère : nous pourrions nous retrouver pris entre deux fronts et ce serait notre perte.
+fr: Cela ne me plaît guère : nous pourrions nous retrouver pris entre deux fronts et ce serait notre perte.
 it: Non abbiamo scelta. Dobbiamo tentare, o le truppe di Arcania ci annienteranno...
 fr: Nous n'avons pas le choix. Nous devons essayer, sinon les troupes d'Arcania nous anéantiront...
 it: Maledetti elfi...
 fr: Maudits elfes...
 it: Guardate! In lontananza si scorge un accampamento...
-fr: Regardez ! Au loin, on aperçoit un campement...
+fr: Regardez ! Au loin, on aperçoit un campement...
 it: Siamo arrivati tardi. Avverto una grande concentrazione di magia in fondo al canyon. Sono le truppe di Arcania... Ci hanno sbarrato la strada.
 fr: Nous arrivons trop tard. Je sens une grande concentration de magie au fond du canyon. Ce sont les troupes d'Arcania... Elles nous ont barré la route.
 it: Non sono disposto a morire in queste terre inospitali. Se raggiungiamo l'accampamento potremo organizzare la difesa e ricostruire le mura con l'aiuto degli abitanti. Avanti!
-fr: Je ne suis pas prêt à mourir sur ces terres inhospitalières. Si nous atteignons le campement, nous pourrons organiser la défense et rebâtir les remparts avec l'aide des villageois. En avant !
+fr: Je ne suis pas prêt à mourir sur ces terres inhospitalières. Si nous atteignons le campement, nous pourrons organiser la défense et rebâtir les remparts avec l'aide des villageois. En avant !
 it: Il mio esercito di golem si trova a un giorno di marcia. Se resistiamo fino ad allora, avremo ancora un'ultima possibilità.
 fr: Mon armée de golems est à un jour de marche. Si nous tenons jusque-là, nous aurons encore une dernière chance.
 it: Le mie schiere sono arrivate! Sapevo che avrebbero sfondato le linee nemiche schierate a nord. Silvanar e Grolim sono rimasti intrappolati tra due fronti. Non lascerò impunito il loro tradimento... Vendetta!
-fr: Mes troupes sont arrivées ! Je savais qu'elles enfonceraient les lignes ennemies postées au nord. Silvanar et Grolim sont pris entre deux fronts. Je ne laisserai pas leur trahison impunie... Vengeance !
+fr: Mes troupes sont arrivées ! Je savais qu'elles enfonceraient les lignes ennemies postées au nord. Silvanar et Grolim sont pris entre deux fronts. Je ne laisserai pas leur trahison impunie... Vengeance !
 
 # los dominios de la magia.wcm::maps/desde las filas de los proscritos
 it: Tra le file dei fuorilegge
@@ -410,7 +410,7 @@ fr: Élimine les bandits et conquiers leur repaire.
 it: Le tue arti magiche ti hanno permesso di sconfiggere i banditi che avevano assalito il villaggio. Tuttavia, il pericolo è in agguato. Il territorio è sotto il dominio di due potenti bande di fuorilegge.\n\nTrova i loro covi e sconfiggi il loro capo. Si uniranno ai tuoi uomini o pagheranno con la vita.
 fr: Tes arts magiques t'ont permis de vaincre les bandits qui avaient attaqué le village. Pourtant, le danger guette. Le territoire est sous la coupe de deux puissantes bandes de hors-la-loi.\n\nTrouve leurs repaires et vaincs leur chef. Ils se joindront à tes hommes ou le paieront de leur vie.
 it: Sconfiggi il capo delle due bande di fuorilegge e i suoi uomini si metteranno ai tuoi ordini. È una buona idea usare gli abitanti del villaggio per procurarti nuove risorse e reclutare un piccolo gruppo di maghi. Ricorda: nella magia sta la vittoria.
-fr: Vaincs le chef des deux bandes de hors-la-loi et ses hommes se rangeront sous tes ordres. C'est une bonne idée d'employer les villageois pour obtenir de nouvelles ressources et recruter un petit groupe de mages. Souviens-toi : la victoire est dans la magie.
+fr: Vaincs le chef des deux bandes de hors-la-loi et ses hommes se rangeront sous tes ordres. C'est une bonne idée d'employer les villageois pour obtenir de nouvelles ressources et recruter un petit groupe de mages. Souviens-toi : la victoire est dans la magie.
 it: Una mattina, un vecchio stregone avvicina Albinia per raccontarle dell'esistenza dell'Altare del Teschio. La leggenda narra che queste rovine millenarie custodiscono il Libro delle Ombre, una raccolta degli incantesimi più potenti. Con il libro in suo possesso, Albinia diventerebbe una maga temibile e sarebbe in grado di sfidare lo stesso Jaraldur.
 fr: Un matin, un vieux sorcier aborde Albinia pour lui parler de l'Autel du Crâne. La légende raconte que ces ruines millénaires abritent le Livre des Ombres, un recueil des sorts les plus puissants. Avec ce livre en sa possession, Albinia deviendrait une magicienne redoutable et serait en mesure de défier Jaraldur en personne.
 it: Porta Albinia fino all'Altare del Teschio e ottieni il Libro delle Ombre.
@@ -422,7 +422,7 @@ fr: Le combat désespéré d'Aerus n'avait pas été vain. Grâce à la résista
 it: A volte ti sarà utile imparare gli incantesimi dei libri che trovi. (Per farlo, seleziona Albinia e, tenendo premuto il tasto Ctrl, fai clic destro sul libro di incantesimi.)
 fr: Il te sera parfois utile d'apprendre les sorts des livres que tu trouves. (Pour cela, sélectionne Albinia et, en maintenant la touche Ctrl enfoncée, fais un clic droit sur le livre de sorts.)
 it: Una volta imparato l'incantesimo, potrai usarlo dalla scheda del personaggio o con le scorciatoie da tastiera. In quest'ultimo modo sarà molto più rapido neutralizzare il nemico. (Per esempio, se hai già imparato l'incantesimo Congelamento, seleziona Albinia e premi il tasto "Z".)
-fr: Une fois le sort appris, tu pourras le lancer depuis la fiche du personnage ou avec les raccourcis clavier. Cette dernière façon permet de neutraliser l'ennemi bien plus vite. (Par exemple, si tu as déjà appris le sort Geler, sélectionne Albinia et appuie sur la touche « Z ».)
+fr: Une fois le sort appris, tu pourras le lancer depuis la fiche du personnage ou avec les raccourcis clavier. Cette dernière façon permet de neutraliser l'ennemi bien plus vite. (Par exemple, si tu as déjà appris le sort Geler, sélectionne Albinia et appuie sur la touche « Z ».)
 it: Recluta alcuni maghi nella torre magica per aiutare Albinia. Se li raggruppi con le scorciatoie da tastiera, potrai trovarli rapidamente per dare loro ordini. Per raggrupparli, seleziona i maghi e assegna loro un tasto numerico (Ctrl+tasto).
 fr: Recrute quelques mages dans la tour magique pour aider Albinia. Si tu les regroupes sur des raccourcis clavier, tu pourras les retrouver rapidement pour leur donner des ordres. Pour les regrouper, sélectionne les mages et attribue-leur une touche numérique (Ctrl+touche).
 it: Curare
@@ -442,13 +442,13 @@ fr: Tes serviteurs ont succombé. Te voilà seule.
 it: I fuorilegge si sottomettono alla tua volontà.
 fr: Les hors-la-loi se soumettent à ta volonté.
 it: Banditi delle montagne!
-fr: Bandits des montagnes !
+fr: Bandits des montagnes !
 it: Ci siamo sbarazzati della sua scorta. Meglio tornare all'accampamento. Se la strega ci segue fin lì, la faremo fuori.
 fr: Nous nous sommes débarrassés de son escorte. Mieux vaut retourner au campement. Si la sorcière nous suit jusque-là, nous en finirons avec elle.
 it: Vigliacchi! Pagherete cara la morte dei miei servitori. I miei incantesimi basteranno a distruggervi...
-fr: Lâches ! Vous paierez cher la mort de mes serviteurs. Mes sorts suffiront à vous détruire...
+fr: Lâches ! Vous paierez cher la mort de mes serviteurs. Mes sorts suffiront à vous détruire...
 it: Grazie per averci salvati, potente maga! Molto tempo fa i banditi hanno preso il villaggio e ci hanno fatti prigionieri, privandoci di acqua e di cibo.
-fr: Merci de nous avoir sauvés, puissante magicienne ! Il y a longtemps que les bandits ont pris le village et nous ont faits prisonniers, nous privant d'eau et de nourriture.
+fr: Merci de nous avoir sauvés, puissante magicienne ! Il y a longtemps que les bandits ont pris le village et nous ont faits prisonniers, nous privant d'eau et de nourriture.
 it: Non temete. Ora siete in salvo... Forse adesso potete aiutarmi voi. Cerco Jaraldur, signore di Kron. Ho sentito dire che è il guerriero più feroce di tutto il territorio e che nessuno è mai riuscito a strappargli il bracciale del potere... Voglio presentarmi davanti a lui e sfidarlo.
 fr: N'ayez crainte. Vous êtes en sécurité maintenant... Peut-être pouvez-vous m'aider à votre tour. Je cherche Jaraldur, seigneur de Kron. J'ai entendu dire que c'est le guerrier le plus féroce de tout le territoire et que personne n'a jamais réussi à lui arracher le bracelet du pouvoir... Je veux me présenter devant lui et le défier.
 it: È una follia, signora. Jaraldur è invincibile e non ha mai avuto pietà di chi ha osato sfidare il suo potere... Ci dispiace, ma non possiamo aiutarvi.
@@ -458,7 +458,7 @@ fr: Tu n'as pas à t'inquiéter, brave homme. Si vous m'aidez, je vous protéger
 it: Ti prego, non sottopormi al potere dei tuoi incantesimi... Risparmiaci la vita e la mia spada sarà sempre al tuo servizio.
 fr: Je t'en prie, ne me soumets pas au pouvoir de tes sorts... Épargne nos vies et mon épée sera toujours à ton service.
 it: Sei una potente maga! Non avevo mai assistito a una simile dimostrazione di forza. D'ora in poi avrai in me e nei miei uomini i tuoi servitori più fedeli.
-fr: Tu es une puissante magicienne ! Je n'avais jamais assisté à une telle démonstration de force. Désormais, tu auras en moi et en mes hommes tes plus fidèles serviteurs.
+fr: Tu es une puissante magicienne ! Je n'avais jamais assisté à une telle démonstration de force. Désormais, tu auras en moi et en mes hommes tes plus fidèles serviteurs.
 
 # los dominios de la magia.wcm::maps/reino de terror
 it: Regno del terrore
@@ -500,13 +500,13 @@ fr: Arrache l'Épée aux Nécromanciens sombres qui vivent au nord et présente-
 it: Sconfiggi Jaraldur.
 fr: Vaincs Jaraldur.
 it: Hai saccheggiato tutta la regione dell'Impero e hai ottenuto le ricchezze che volevi!\nTi proclami Governatrice di Kron.
-fr: Tu as pillé toute la région de l'Empire et obtenu les richesses que tu voulais !\nTu te proclames Gouverneure de Kron.
+fr: Tu as pillé toute la région de l'Empire et obtenu les richesses que tu voulais !\nTu te proclames Gouverneure de Kron.
 it: La leggenda delle imprese di Albinia si diffonde in ogni angolo della regione. Fuorilegge, banditi, maghi rinnegati... nessuno sfugge all'ammirazione per i poteri magici soprannaturali della giovane. E sono migliaia i seguaci che, senza esitare, si uniscono alla sua causa.\n\nFiduciosa nell'immenso potere degli incantesimi custoditi nel Libro delle Ombre, Albinia parte alla ricerca di Jaraldur, governatore di Kron e il più spietato dei guerrieri, con il fermo proposito di sfidarlo nel Torneo del Potere.\n\nTuttavia, per la prima volta da molto tempo, un brivido le attraversa l'anima... Albinia sa che il fallimento porta inevitabilmente alla morte.
 fr: La légende des exploits d'Albinia se répand dans tous les recoins de la région. Hors-la-loi, bandits, mages renégats... personne n'échappe à l'admiration pour les pouvoirs magiques surnaturels de la jeune femme. Et ils se comptent par milliers, les fidèles qui, sans hésiter, se rallient à sa cause.\n\nConfiante dans l'immense pouvoir des sorts que renferme le Livre des Ombres, Albinia part à la recherche de Jaraldur, gouverneur de Kron et le plus impitoyable des guerriers, bien décidée à le défier lors du Tournoi du Pouvoir.\n\nPourtant, pour la première fois depuis longtemps, un frisson lui parcourt l'âme... Albinia sait que l'échec mène inévitablement à la mort.
 it: Affrettati! La mezzanotte si avvicina.
-fr: Dépêche-toi ! Minuit approche.
+fr: Dépêche-toi ! Minuit approche.
 it: Resta appena il tempo per presentarsi all'appuntamento. Affrettati, o preparati a servire come schiava per il resto dei tuoi giorni!
-fr: Il reste à peine le temps de se rendre au rendez-vous. Hâte-toi, ou prépare-toi à servir comme esclave le reste de tes jours !
+fr: Il reste à peine le temps de se rendre au rendez-vous. Hâte-toi, ou prépare-toi à servir comme esclave le reste de tes jours !
 it: I tuoi generali ti consigliano che questo è il momento propizio, perché molte risorse si stanno consumando nella guerra civile dell'Impero, lasciando la regione poco difesa.\n\nUsa il tuo incantesimo Visione magica per trovare rapidamente i castelli.
 fr: Tes généraux te font savoir que le moment est propice, car beaucoup de ressources se consument dans la guerre civile de l'Empire, laissant la région mal défendue.\n\nUtilise ton sort Vision magique pour trouver rapidement les châteaux.
 it: Punizione
@@ -540,41 +540,41 @@ fr: Jaraldur est mort.
 it: Gli abitanti fuggono terrorizzati davanti al tuo potere.
 fr: Les villageois fuient, terrifiés par ton pouvoir.
 it: Alt! Può passare solo la maga.
-fr: Halte ! Seule la magicienne peut passer.
+fr: Halte ! Seule la magicienne peut passer.
 it: Va bene. Restate qui e tenete gli occhi aperti.
 fr: Très bien. Restez ici et ouvrez l'œil.
 it: Salute, Albinia. Le tue imprese magiche ti precedono ovunque tu vada. Che cosa ti porta nei miei domini?
-fr: Salut, Albinia. Tes exploits magiques te précèdent partout où tu vas. Qu'est-ce qui t'amène sur mes domaines ?
+fr: Salut, Albinia. Tes exploits magiques te précèdent partout où tu vas. Qu'est-ce qui t'amène sur mes domaines ?
 it: Vengo a sfidarti nel Torneo del Potere.
 fr: Je viens te défier au Tournoi du Pouvoir.
 it: Credo che il freddo di questo rigido inverno ti abbia annebbiato la mente...\nImmagino tu sappia che chiunque abbia osato sfidarmi nel Torneo del Potere è caduto sotto la mia spada... Che cosa ti fa pensare che avrei pietà di una maga, per quanto bella?
-fr: Je crois que le froid de ce rude hiver t'a embrumé l'esprit...\nJe suppose que tu sais que tous ceux qui ont osé me défier au Tournoi du Pouvoir sont tombés sous mon épée... Qu'est-ce qui te fait croire que j'aurais pitié d'une magicienne, aussi belle soit-elle ?
+fr: Je crois que le froid de ce rude hiver t'a embrumé l'esprit...\nJe suppose que tu sais que tous ceux qui ont osé me défier au Tournoi du Pouvoir sont tombés sous mon épée... Qu'est-ce qui te fait croire que j'aurais pitié d'une magicienne, aussi belle soit-elle ?
 it: Risparmiati le chiacchiere, Jaraldur. Conosco le leggi di Kron. So che la tua sconfitta mi renderà la nuova governatrice e che tutti i tuoi eserciti passeranno a me.
 fr: Épargne-moi tes bavardages, Jaraldur. Je connais les lois de Kron. Je sais que ta défaite fera de moi la nouvelle gouverneure et que toutes tes armées passeront sous mes ordres.
 it: Non so se sei molto coraggiosa o se hai perso il senno, Albinia. Il tuo affronto merita un trattamento speciale. Se perdi, non ti toglierò la vita... sarai soltanto la mia schiava per il resto dei tuoi giorni. Accetti le condizioni del nostro... scontro?
-fr: Je ne sais pas si tu es très courageuse ou si tu as perdu la raison, Albinia. Ton affront mérite un traitement particulier. Si tu perds, je ne t'ôterai pas la vie... tu seras seulement mon esclave pour le reste de tes jours. Acceptes-tu les conditions de notre... affrontement ?
+fr: Je ne sais pas si tu es très courageuse ou si tu as perdu la raison, Albinia. Ton affront mérite un traitement particulier. Si tu perds, je ne t'ôterai pas la vie... tu seras seulement mon esclave pour le reste de tes jours. Acceptes-tu les conditions de notre... affrontement ?
 it: Sono pronta ad assumermi tutte le conseguenze. Non ho niente da perdere. Mi dispiace, Jaraldur, ma credo che te ne pentirai...
 fr: Je suis prête à en assumer toutes les conséquences. Je n'ai rien à perdre. Je suis désolée, Jaraldur, mais je crois que tu vas le regretter...
 it: Ah, ah, ah... Le regole del Torneo sono chiare: per sfidarmi devi prima sconfiggere i tre negromanti che abitano a nord, sull'altra riva del fiume. Dovrai strappare loro la Spada della Sala dello Scheletro, il luogo sacro dove si terrà il torneo. Ricorda che devi presentarti all'appuntamento prima di mezzanotte. Una volta tornata alla mia fortezza, dirigiti alla Sala. Ti aspetterò. E ricorda: devi entrare da sola! Una volta tornata alla mia fortezza, dirigiti alla Sala, ma ricorda: devi entrare da sola!
-fr: Ha, ha, ha... Les règles du Tournoi sont claires : pour me défier, tu dois d'abord vaincre les trois nécromanciens qui vivent au nord, de l'autre côté du fleuve. Tu devras leur arracher l'Épée de la Salle du Squelette, le lieu sacré où se tiendra le tournoi. N'oublie pas que tu dois te présenter au rendez-vous avant minuit. Une fois de retour à ma forteresse, rends-toi à la Salle. Je t'attendrai. Et n'oublie pas : tu dois entrer seule ! Une fois de retour à ma forteresse, rends-toi à la Salle, mais n'oublie pas : tu dois entrer seule !
+fr: Ha, ha, ha... Les règles du Tournoi sont claires : pour me défier, tu dois d'abord vaincre les trois nécromanciens qui vivent au nord, de l'autre côté du fleuve. Tu devras leur arracher l'Épée de la Salle du Squelette, le lieu sacré où se tiendra le tournoi. N'oublie pas que tu dois te présenter au rendez-vous avant minuit. Une fois de retour à ma forteresse, rends-toi à la Salle. Je t'attendrai. Et n'oublie pas : tu dois entrer seule ! Une fois de retour à ma forteresse, rends-toi à la Salle, mais n'oublie pas : tu dois entrer seule !
 it: Così farò.
 fr: Ainsi ferai-je.
 it: Che notizie porti, mia signora?
-fr: Quelles nouvelles apportes-tu, ma dame ?
+fr: Quelles nouvelles apportes-tu, ma dame ?
 it: Jaraldur ha accettato la sfida, ma prima devo sconfiggere i negromanti oscuri del nord. Mettiamoci in cammino! Dobbiamo tornare prima di mezzanotte.
-fr: Jaraldur a accepté le défi, mais je dois d'abord vaincre les nécromanciens sombres du nord. Mettons-nous en route ! Nous devons être de retour avant minuit.
+fr: Jaraldur a accepté le défi, mais je dois d'abord vaincre les nécromanciens sombres du nord. Mettons-nous en route ! Nous devons être de retour avant minuit.
 it: Suggerisco di esplorare il territorio. So che Jaraldur nasconde gelosamente preziosi oggetti magici. Se ce ne impadroniamo potrai usarli a tuo vantaggio nel Torneo.
 fr: Je suggère d'explorer le territoire. Je sais que Jaraldur cache jalousement de précieux objets magiques. Si nous nous en emparons, tu pourras t'en servir à ton avantage lors du Tournoi.
 it: Così hai osato venire... Devo riconoscere che hai coraggio... O forse è follia? Peccato che la tua leggenda finisca qui...
-fr: Ainsi, tu as osé venir... Je dois reconnaître que tu as du courage... Ou est-ce de la folie ? Dommage que ta légende s'achève ici...
+fr: Ainsi, tu as osé venir... Je dois reconnaître que tu as du courage... Ou est-ce de la folie ? Dommage que ta légende s'achève ici...
 it: Maledizione, mi hai sconfitto! Non avrei mai pensato che... Ti ho sottovalutata e pagherò il mio errore. Mi inchino davanti a te, potente maga. Il bracciale del potere ti appartiene. Sarò il tuo fedele servitore.
-fr: Malédiction, tu m'as vaincu ! Je n'aurais jamais cru que... Je t'ai sous-estimée et je paierai mon erreur. Je m'incline devant toi, puissante magicienne. Le bracelet du pouvoir t'appartient. Je serai ton fidèle serviteur.
+fr: Malédiction, tu m'as vaincu ! Je n'aurais jamais cru que... Je t'ai sous-estimée et je paierai mon erreur. Je m'incline devant toi, puissante magicienne. Le bracelet du pouvoir t'appartient. Je serai ton fidèle serviteur.
 it: Benvenuta, Albinia... Ti aspettavamo con impazienza. I nostri esploratori ci hanno avvertiti del tuo arrivo.
 fr: Bienvenue, Albinia... Nous t'attendions avec impatience. Nos éclaireurs nous ont avertis de ton arrivée.
 it: Salute, negromante. Vengo a reclamare il mio diritto a sfidare Jaraldur nel Torneo del Potere. Consegnatemi la spada e vi lascerò vivere!
-fr: Salut, nécromancien. Je viens réclamer mon droit de défier Jaraldur au Tournoi du Pouvoir. Remettez-moi l'épée et je vous laisserai la vie sauve !
+fr: Salut, nécromancien. Je viens réclamer mon droit de défier Jaraldur au Tournoi du Pouvoir. Remettez-moi l'épée et je vous laisserai la vie sauve !
 it: Non così in fretta... Dimostra di meritare un simile privilegio!
-fr: Pas si vite... Prouve que tu mérites un tel privilège !
+fr: Pas si vite... Prouve que tu mérites un tel privilège !
 
 # los dominios de la magia.wcm::maps/la traición
 it: Il tradimento
@@ -596,7 +596,7 @@ fr: Albinia est tombée au combat.
 it: Un brivido improvviso interrompe il sonno di Albinia in una notte d'inverno. Una banda di guerrieri, corrotti da Ignatar, ha appena tradito la sua fiducia, sottraendole il Bracciale del Potere.\n\nFuriosa, Albinia raduna i suoi guerrieri più agguerriti e si lancia all'inseguimento dei ladri attraverso il deserto dello Scorpione. Dopo una lunga traversata, le sue forze stanno per raggiungere i traditori, che cercano rifugio negli isolotti che spuntano nell'oasi di Nidel...
 fr: Un frisson soudain interrompt le sommeil d'Albinia par une nuit d'hiver. Une bande de guerriers, achetés par Ignatar, vient de trahir sa confiance en lui dérobant le Bracelet du Pouvoir.\n\nFurieuse, Albinia rassemble ses guerriers les plus aguerris et se lance à la poursuite des voleurs à travers le désert du Scorpion. Après une longue traversée, ses forces sont sur le point de rattraper les traîtres, qui cherchent refuge sur les îlots qui émergent dans l'oasis de Nidel...
 it: I tuoi sensi magici ti avvertono che un potente esercito si sta dirigendo qui, senza dubbio per impadronirsi del Bracciale del Potere. Devi affrettarti: si trova a soli cinque giorni di distanza.
-fr: Tes sens magiques t'avertissent qu'une puissante armée se dirige par ici, sans doute pour s'emparer du Bracelet du Pouvoir. Tu dois te hâter : elle n'est qu'à cinq jours.
+fr: Tes sens magiques t'avertissent qu'une puissante armée se dirige par ici, sans doute pour s'emparer du Bracelet du Pouvoir. Tu dois te hâter : elle n'est qu'à cinq jours.
 it: Il capo dei traditori è caduto. Assicurati di aver eliminato tutti gli altri membri del gruppo. Le loro vesti gialle li tradiscono.
 fr: Le chef des traîtres est tombé. Assure-toi d'avoir éliminé les autres membres du groupe. Leurs vêtements jaunes les trahissent.
 it: È passato un giorno...
@@ -604,9 +604,9 @@ fr: Un jour a passé...
 it: Sono passati due giorni da quando Albinia ha avvertito l'avvicinarsi dell'esercito di Arcania...
 fr: Deux jours ont passé depuis qu'Albinia a senti l'approche de l'armée d'Arcania...
 it: L'esercito di Arcania si trova a un solo giorno di distanza. Affrettati!
-fr: L'armée d'Arcania n'est plus qu'à un jour. Hâte-toi !
+fr: L'armée d'Arcania n'est plus qu'à un jour. Hâte-toi !
 it: Gli eserciti di Ignatar sono arrivati nella regione: ogni possibilità di recuperare il Bracciale del Potere è svanita.
-fr: Les armées d'Ignatar sont arrivées dans la région : toute chance de récupérer le Bracelet du Pouvoir s'est envolée.
+fr: Les armées d'Ignatar sont arrivées dans la région : toute chance de récupérer le Bracelet du Pouvoir s'est envolée.
 it: Albinia si trova molto vicina alla fortezza di Nidel. I maghi della torre ovest tengono nascosto il Bracciale dentro il libro della Resurrezione. La fortezza è molto ben difesa e un attacco diretto sarebbe un suicidio. Forse dall'alto, o con un gruppo di soldati esperti nell'arte di passare inosservati, avremo una possibilità.
 fr: Albinia est tout près de la forteresse de Nidel. Les mages de la tour ouest gardent le Bracelet caché à l'intérieur du livre de Résurrection. La forteresse est très bien défendue et une attaque directe serait un suicide. Peut-être par les airs, ou avec un groupe de soldats experts dans l'art de passer inaperçus, aurons-nous une chance.
 it: Sono trascorsi tre giorni...
@@ -628,12 +628,12 @@ fr: Tu n'as pas laissé pierre sur pierre de la forteresse.
 it: Tutti i ladri sono stati giustiziati e hanno pagato il loro tradimento.
 fr: Tous les voleurs ont été exécutés et ont payé leur trahison.
 it: Maledetti ladri! Hanno il bracciale del potere sul carro. Non lasciate che attraversino il ponte! Fermateli.
-fr: Maudits voleurs ! Ils ont le bracelet du pouvoir dans le chariot. Ne les laissez pas traverser le pont ! Arrêtez-les.
+fr: Maudits voleurs ! Ils ont le bracelet du pouvoir dans le chariot. Ne les laissez pas traverser le pont ! Arrêtez-les.
 it: Presto, attraversate! Le schiere di Albinia stanno per raggiungerci! Abbattete il ponte! Solo così potremo liberarci di loro.
-fr: Vite, traversez ! Les troupes d'Albinia vont nous rattraper ! Abattez le pont ! C'est le seul moyen de nous débarrasser d'eux.
+fr: Vite, traversez ! Les troupes d'Albinia vont nous rattraper ! Abattez le pont ! C'est le seul moyen de nous débarrasser d'eux.
 it: Vi annienterò! Non avrò pietà degli adoratori di Ignatar.
-fr: Je vais vous anéantir ! Je n'aurai aucune pitié pour les adorateurs d'Ignatar.
+fr: Je vais vous anéantir ! Je n'aurai aucune pitié pour les adorateurs d'Ignatar.
 it: Attenzione! Hanno abbattuto il ponte! Presto, cerchiamo un'altra strada... Non devono fuggire! Per fortuna ho potuto lanciare un incantesimo di localizzazione. Per un po' sapremo dove si trovano.
-fr: Attention ! Ils ont abattu le pont ! Vite, cherchons un autre chemin... Ils ne doivent pas s'échapper ! Heureusement, j'ai pu lancer un sort de localisation. Pendant un moment, nous saurons où ils se trouvent.
+fr: Attention ! Ils ont abattu le pont ! Vite, cherchons un autre chemin... Ils ne doivent pas s'échapper ! Heureusement, j'ai pu lancer un sort de localisation. Pendant un moment, nous saurons où ils se trouvent.
 it: Mmm, credo che si dirigano verso la fortezza di Nidel... Quel gruppo di isole nasconde più di una sorpresa. Dovremo scegliere con molta cura la strada giusta. Userò l'incantesimo Visione magica per individuare le isole che hanno le risorse necessarie per costruire nuovi ponti.
 fr: Hum, je crois qu'ils se dirigent vers la forteresse de Nidel... Ce groupe d'îles réserve plus d'une surprise. Nous devrons choisir le bon chemin avec beaucoup de soin. J'utiliserai le sort Vision magique pour repérer les îles qui ont les ressources nécessaires pour bâtir de nouveaux ponts.
