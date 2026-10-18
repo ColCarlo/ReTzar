@@ -286,6 +286,12 @@ pub(super) fn run(
         }
         ctx.dispatch(now);
         ctx.st.clock = now;
+        // What the game's own steps note in `sim.gameplay.script` while it
+        // is set aside: a change of owner's end test (0x4e50cb), the
+        // selections of what went in or out.
+        let aside = std::mem::take(&mut ctx.sim.gameplay.script);
+        ctx.st.end_due |= aside.end_due;
+        ctx.st.outbox.extend(aside.outbox.0);
         // 0x4d468d tests the time limit once it is past, 0x443530 the score
         // limit as the scores change; any other test follows an event.
         let rules = &ctx.m.game_rules;
@@ -1278,7 +1284,7 @@ impl Ctx<'_> {
 fn major(class: usize) -> bool {
     !matches!(class, 2 | 61..=64 | 67 | 68 | 133 | 136)
 }
-fn class_code_matches(code: u16, class: usize) -> bool {
+pub(super) fn class_code_matches(code: u16, class: usize) -> bool {
     match code {
         any::OBJECT => true,
         any::UNIT => world::class::is_unit(class),
@@ -1777,6 +1783,106 @@ pub fn restore_heroes(
         set_level(sim, m, lib, i, hero.level);
         sim.objects[i].xp = 0;
     }
+}
+
+/// What a supposed world gives a condition: some events held true or
+/// false, some variables set, the local kingdom rich, the object read as
+/// `$x` and the like.
+#[cfg(test)]
+#[derive(Clone, Debug, Default)]
+pub(super) struct Suppose {
+    pub events: BTreeMap<String, bool>,
+    pub variables: BTreeMap<String, i32>,
+    pub rich: bool,
+    /// Other kingdoms rich by a tribute.
+    pub stocks: std::collections::BTreeSet<i32>,
+    pub object: Option<usize>,
+}
+/// The value of `text` in the world as it is but for `suppose`: the
+/// campaign pilot asks which change would make a rule hold. Nothing of the
+/// game changes.
+#[cfg(test)]
+pub(super) fn probe(
+    sim: &mut Simulation,
+    m: &mut MissionWorld,
+    g: &MapGrid,
+    lib: &ObjectLibrary,
+    c: &Catalog,
+    text: &str,
+    suppose: &Suppose,
+) -> i32 {
+    struct Probe<'x, 'a> {
+        ctx: &'x mut Ctx<'a>,
+        suppose: &'x Suppose,
+        variables: Variables,
+    }
+    impl Host for Probe<'_, '_> {
+        fn call(&mut self, f: Function, a: [i32; 8], object: Option<usize>) -> i32 {
+            match f {
+                Function::Gold | Function::Stone | Function::Food | Function::Wood
+                    if (self.suppose.rich && a[0] == i32::from(self.ctx.m.player()))
+                        || self.suppose.stocks.contains(&a[0]) =>
+                {
+                    1_000_000
+                }
+                _ => self.ctx.call(f, a, object),
+            }
+        }
+        fn movie(&mut self, _: &str) {}
+        fn property(&mut self, i: usize, p: Property) -> i32 {
+            self.ctx.property(i, p)
+        }
+        fn set_property(&mut self, _: usize, _: Property, _: i32) {}
+        fn global(&mut self, g: Global) -> i32 {
+            match g {
+                Global::Gold | Global::Stone | Global::Food | Global::Wood if self.suppose.rich => {
+                    1_000_000
+                }
+                _ => self.ctx.global(g),
+            }
+        }
+        fn set_global(&mut self, _: Global, _: i32) {}
+        fn event(&mut self, name: &str) -> Option<bool> {
+            match self.suppose.events.get(name) {
+                Some(&v) => self.ctx.event(name).map(|_| v),
+                None => self.ctx.event(name),
+            }
+        }
+        fn variables(&mut self) -> &mut Variables {
+            &mut self.variables
+        }
+    }
+    // The trace, which grows with the game, is not copied.
+    let trace = std::mem::take(&mut sim.gameplay.script.trace);
+    let mut st = sim.gameplay.script.clone();
+    sim.gameplay.script.trace = trace;
+    let script = std::mem::take(&mut m.script);
+    let value = {
+        let mut ctx = Ctx {
+            sim,
+            m,
+            g,
+            lib,
+            c,
+            script: &script,
+            st: &mut st,
+            ids: HashMap::new(),
+            depth: 0,
+        };
+        ctx.index();
+        let mut variables = ctx.st.variables.clone();
+        for (k, &v) in &suppose.variables {
+            variables.set(k, v);
+        }
+        let mut probe = Probe {
+            ctx: &mut ctx,
+            suppose,
+            variables,
+        };
+        expr::eval(text, &mut probe, suppose.object)
+    };
+    m.script = script;
+    value
 }
 
 #[cfg(test)]

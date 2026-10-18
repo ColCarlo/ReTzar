@@ -5,6 +5,7 @@
 use crate::{
     Result,
     assets::GameAssets,
+    bitmap::Bitmap,
     hpfs::Container,
     map::MapGrid,
     menu::Selection,
@@ -14,6 +15,7 @@ use crate::{
     terrain::{self, Climate},
     world::{GameSetup, MissionWorld, ObjectLibrary},
 };
+use std::collections::HashMap;
 
 /// A map read or generated, before its world is prepared.
 pub struct Opened {
@@ -148,4 +150,48 @@ pub fn start(
     crate::gameplay::hold_prisoners(&mut sim, mission, library);
     mission.simulation = Some(sim);
     Ok(())
+}
+
+/// Decode the portraits the interface may show: heroes (48×48) and
+/// objectives (96×96), 16-bit bitmaps stored in the scenario. A missing or
+/// damaged picture only leaves its frame empty.
+pub fn portraits(c: &Container, mission: &MissionWorld) -> HashMap<String, Bitmap> {
+    use crate::script::Action;
+    // The pictures of the scripts' messages and stories, and the scrolls'
+    // (record 0x460).
+    let pictures: Vec<String> = mission
+        .script
+        .actions
+        .iter()
+        .filter_map(|a| match &a.value {
+            Action::Message { image, .. } | Action::Story { image, .. } => Some(image.clone()),
+            _ => None,
+        })
+        .chain(
+            mission
+                .objects
+                .iter()
+                .filter(|o| o.class == crate::world::class::ITEM_SCROLL)
+                .filter_map(|o| o.data.get(0x460..0x4a0))
+                .map(|b| crate::assets::legacy_text(b.split(|c| *c == 0).next().unwrap_or(&[]))),
+        )
+        .collect();
+    let paths = mission
+        .objects
+        .iter()
+        .flat_map(|o| [o.portrait.as_str(), o.portrait_large.as_str()])
+        .chain(mission.quests.iter().map(|q| q.portrait.as_str()))
+        .chain(pictures.iter().map(String::as_str))
+        .filter(|p| !p.is_empty());
+    let mut out = HashMap::new();
+    for path in paths {
+        let key = path.replace('\\', "/").to_ascii_uppercase();
+        if out.contains_key(&key) {
+            continue;
+        }
+        if let Ok(image) = c.get(&key).and_then(|data| Bitmap::decode(&data, false)) {
+            out.insert(key, image);
+        }
+    }
+    out
 }

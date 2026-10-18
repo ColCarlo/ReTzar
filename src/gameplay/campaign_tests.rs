@@ -16,6 +16,8 @@ struct Play {
     m: MissionWorld,
     g: MapGrid,
     sim: Simulation,
+    /// The terrain of the map, for a save of the game.
+    biome: String,
     /// The line to pick in a conversation, by its index, when offered;
     /// otherwise the first one.
     answers: Vec<(&'static str, u16)>,
@@ -96,6 +98,7 @@ impl Play {
             m,
             g: opened.grid,
             sim,
+            biome: opened.biome,
             answers: Vec::new(),
         }
     }
@@ -3897,3 +3900,6 @@ fn every_text_of_the_other_editions_campaigns_reads_in_italian() {
         missing.into_iter().collect::<Vec<_>>().join("\n")
     );
 }
+
+#[path = "campaign_pilot.rs"]
+mod pilot;

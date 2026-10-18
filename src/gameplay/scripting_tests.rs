@@ -267,6 +267,26 @@ fn victory_follows_the_rules_and_the_status_of_each_kingdom() {
 }
 
 #[test]
+#[ignore = "Requires installed original archives"]
+fn a_script_giving_away_the_last_building_of_a_kingdom_ends_it() {
+    let (c, lib, mut m, mut g, _) = setup(1);
+    // Kingdom 2's only building, given to kingdom 1 by the script.
+    m.objects[0].owner = 2;
+    let mut sim = Simulation::new(&m, &lib, 64, "grass");
+    let id = m.objects[0].id;
+    m.script = Script {
+        actions: vec![named("give", Action::Owner(ids(&[id]), 1))],
+        rules: vec![rule("start", "1", &["give"])],
+        ..Default::default()
+    };
+    run_ticks(&mut sim, &mut m, &mut g, &lib, &c, 5);
+    assert_eq!(m.objects[0].owner, 1);
+    // 0x4e50cb: the change of owner is followed by the end test, as when
+    // the player takes it.
+    assert!(sim.gameplay.script.kingdoms[2].defeated);
+}
+
+#[test]
 fn relations_merge_like_the_native_negotiation() {
     let mut m = MissionWorld {
         diplomacy: vec![0x10; 64],
