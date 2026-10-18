@@ -1,6 +1,6 @@
 [package]
 name = "retzar"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2024"
 rust-version = "1.99"
 description = "Tzar / Excalibur e il Re Artù rebuilt in Rust and Bevy, from the original game's data"

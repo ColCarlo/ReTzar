@@ -1,4 +1,1 @@
-- Fog of war restored in campaign missions
-- Large units (dragon, siege engines, ships, carts) take 2×2 cells, as in the original
-- Ships land their troops reliably
-- Fish patches take 2×2 cells
+- Various bug fixes

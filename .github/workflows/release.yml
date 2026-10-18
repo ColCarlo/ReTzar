@@ -1,6 +1,7 @@
 # Publishes a release when a version tag is pushed (git tag v1.0.0, then
-# git push origin v1.0.0): builds ReTzar.exe and attaches
-# ReTzar-<version>-windows.zip, with the notes in .github/release/notes.md.
+# git push origin v1.0.0): builds ReTzar.exe and zips it with ReTzar.dat,
+# taken from the draft release «data», into ReTzar-<version>-windows.zip,
+# with the notes in .github/release/notes.md.
 # A change of the notes pushed to main updates the current version's release.
 name: Release
 
@@ -25,12 +26,18 @@ jobs:
       - name: ReTzar.exe
         run: cargo build --release --locked --bin retzar
       - name: Zip
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           $version = $env:GITHUB_REF_NAME.TrimStart("v")
           New-Item -ItemType Directory ReTzar | Out-Null
           Copy-Item target/release/retzar.exe ReTzar/ReTzar.exe
           Copy-Item .github/release/README.txt ReTzar/README.txt
           Copy-Item LICENSE ReTzar/LICENSE.txt
+          $url = gh api "repos/$env:GITHUB_REPOSITORY/releases" --jq '.[] | select(.draft and (.tag_name == "data" or .name == "data")) | .assets[] | select(.name == "ReTzar.dat") | .url'
+          if (-not $url) { throw "ReTzar.dat missing from the draft release data" }
+          curl.exe -fsSL -H "Authorization: Bearer $env:GH_TOKEN" -H "Accept: application/octet-stream" -o ReTzar/ReTzar.dat ($url | Select-Object -First 1)
+          if ($LASTEXITCODE -ne 0) { throw "ReTzar.dat download failed" }
           Compress-Archive ReTzar "ReTzar-$version-windows.zip"
           "VERSION=$version" >> $env:GITHUB_ENV
       - name: Release
@@ -45,4 +52,8 @@ jobs:
       - name: Notes
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh release edit "v$(grep -m1 '^version' Cargo.toml | cut -d'"' -f2)" --notes-file .github/release/notes.md
+        run: |
+          tag="v$(grep -m1 '^version' Cargo.toml | cut -d'"' -f2)"
+          if gh release view "$tag" > /dev/null 2>&1; then
+            gh release edit "$tag" --notes-file .github/release/notes.md
+          fi
