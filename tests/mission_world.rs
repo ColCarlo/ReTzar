@@ -111,8 +111,13 @@ fn import_every_original_mission_with_original_art() {
         }
         reports.push(serde_json::json!({"mission":m.title,"records":world.records,"hidden":world.hidden,"visuals":visuals.visuals.len(),"animated_sprites":visuals.visuals.iter().filter(|v|v.animation.is_some()).count(),"trees":trees,"cliffs":cliffs,"missing":visuals.missing,"script":[world.script.events.len(),world.script.actions.len(),world.script.rules.len()],"player":world.player(),"home":world.home(),"kingdoms":world.kingdoms,"conversations":world.conversations.len(),"phrases":world.conversations.iter().map(|c| c.phrases.len()).sum::<usize>()}));
     }
-    // With the American CD, its campaign's nineteen maps too.
+    // With the American CD, its campaign's nineteen maps too, and with the
+    // Spanish edition its campaign's eight.
     let american = retzar::scenario::american_campaign(source).is_some();
-    assert_eq!(reports.len(), 26 + 19 * american as usize);
+    let spanish = !retzar::scenario::spanish_campaigns(source).is_empty();
+    assert_eq!(
+        reports.len(),
+        26 + 19 * american as usize + 8 * spanish as usize
+    );
     assert!(arab_buildings > 0 && asian_buildings > 0);
 }

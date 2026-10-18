@@ -579,15 +579,23 @@ pub(super) fn regression_hud_click(app: &mut App, window: Entity, action: hud::H
 fn regression_original_special_items_are_selectable_on_the_ground() {
     use retzar::world::{FLAG_INACTIVE, MissionWorld, class};
     let catalog = retzar::scenario::ScenarioCatalog::load(&source()).unwrap();
-    // [Italian edition, American campaign]: items checked, maps with any.
-    let mut checked = [0usize; 2];
-    let mut affected = [0usize; 2];
+    // [Italian edition, American campaign, Spanish campaign]: items checked,
+    // maps with any.
+    let mut checked = [0usize; 3];
+    let mut affected = [0usize; 3];
     for m in catalog
         .missions
         .iter()
         .chain(catalog.campaigns.iter().flat_map(|c| &c.missions))
     {
-        let edition = retzar::scenario::is_american(&m.file) as usize;
+        let edition = match (
+            retzar::scenario::is_american(&m.file),
+            retzar::scenario::is_spanish(&m.file),
+        ) {
+            (true, _) => 1,
+            (_, true) => 2,
+            _ => 0,
+        };
         let c = m.container().unwrap();
         let grid = retzar::map::MapGrid::read(&c, &m.header).unwrap();
         let mission = MissionWorld::read(&c, &grid).unwrap();
@@ -620,6 +628,9 @@ fn regression_original_special_items_are_selectable_on_the_ground() {
     assert_eq!((checked[0], affected[0]), (345, 10));
     if retzar::scenario::american_campaign(&source()).is_some() {
         assert_eq!((checked[1], affected[1]), (22, 4));
+    }
+    if !retzar::scenario::spanish_campaigns(&source()).is_empty() {
+        assert_eq!((checked[2], affected[2]), (250, 7));
     }
 }
 

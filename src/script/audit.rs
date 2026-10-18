@@ -437,6 +437,13 @@ mod tests {
                 .map(|(m, f)| (format!("tzar.wcm::maps/{m}"), f)),
             );
         }
+        // The Spanish edition's, when it is there: the same area.
+        if !crate::scenario::spanish_campaigns(root).is_empty() {
+            expected.push((
+                "los dominios de la magia.wcm::maps/acorralada".to_owned(),
+                "azione «arreglapuerta»: area attorno all'oggetto 0 assente".to_owned(),
+            ));
+        }
         let mut found = found;
         found.sort();
         expected.sort();

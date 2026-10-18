@@ -284,10 +284,14 @@ fn original_menu_fonts_campaigns_and_terrain_are_readable() {
         italian(&PathBuf::from(env!("CARGO_MANIFEST_DIR")).join("target/test-empty")),
     )
     .unwrap();
-    // The Italian edition's three, and the American release's when its CD
-    // is there.
+    // The Italian edition's three, the American release's when its CD is
+    // there and the Spanish edition's own when it is.
     let american = retzar::scenario::american_campaign(&source()).is_some();
-    assert_eq!(menu.catalog.campaigns.len(), 3 + american as usize);
+    let spanish = retzar::scenario::spanish_campaigns(&source()).len();
+    assert_eq!(
+        menu.catalog.campaigns.len(),
+        3 + american as usize + spanish
+    );
     assert_eq!(menu.catalog.missions.len(), 6);
     for screen in Screen::ALL {
         menu.open(screen);
@@ -413,8 +417,9 @@ fn original_menu_fonts_campaigns_and_terrain_are_readable() {
         }
         count += 1;
     }
-    // The American campaign's nineteen maps on the same terrains.
-    assert_eq!(count, 26 + 19 * american as usize);
+    // The American campaign's nineteen maps and the Spanish one's eight on
+    // the same terrains.
+    assert_eq!(count, 26 + 19 * american as usize + 8 * spanish);
 }
 
 #[test]
@@ -683,7 +688,7 @@ fn the_american_campaign_is_listed_and_reads_in_italian() {
         return;
     }
     let catalog = retzar::scenario::ScenarioCatalog::load(&source).unwrap();
-    // Among the Italian edition's campaigns, by file name.
+    // Among the other campaigns, by file name.
     let files: Vec<String> = catalog
         .campaigns
         .iter()
@@ -696,16 +701,18 @@ fn the_american_campaign_is_listed_and_reads_in_italian() {
                 .to_lowercase()
         })
         .collect();
-    assert_eq!(
-        files,
-        [
-            "excalibur e il re artu.wcm",
-            "impero di gengis khan.wcm",
-            "tzar.wcm",
-            "tzartutorial.wcm"
-        ]
-    );
-    let campaign = &catalog.campaigns[2];
+    let mut expected = vec![
+        "excalibur e il re artu.wcm",
+        "impero di gengis khan.wcm",
+        "tzar.wcm",
+        "tzartutorial.wcm",
+    ];
+    if !retzar::scenario::spanish_campaigns(&source).is_empty() {
+        expected.insert(2, "los dominios de la magia.wcm");
+    }
+    assert_eq!(files, expected);
+    let american = files.iter().position(|f| f == "tzar.wcm").unwrap();
+    let campaign = &catalog.campaigns[american];
     assert_eq!(campaign.title, "TZAR: Il peso della corona");
     assert_eq!(campaign.missions.len(), 19);
     // MAPS\Maps.ini opens «The Beginning» alone; the others come with
@@ -760,7 +767,7 @@ fn the_american_campaign_is_listed_and_reads_in_italian() {
         let opened = retzar::game::open(
             &assets,
             &Selection::Scenario {
-                campaign: Some(2),
+                campaign: Some(american),
                 mission: i,
             },
             Some(m.clone()),

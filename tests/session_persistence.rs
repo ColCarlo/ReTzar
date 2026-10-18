@@ -357,9 +357,11 @@ fn all_installed_maps_roundtrip_every_original_entry_and_runtime_state() {
         packed_total += std::fs::metadata(path).unwrap().len();
         count += 1;
     }
-    // With the American CD, its campaign's nineteen maps too.
+    // With the American CD, its campaign's nineteen maps too, and with the
+    // Spanish edition its campaign's eight.
     let american = retzar::scenario::american_campaign(root).is_some();
-    assert_eq!(count, 26 + 19 * american as usize);
+    let spanish = !retzar::scenario::spanish_campaigns(root).is_empty();
+    assert_eq!(count, 26 + 19 * american as usize + 8 * spanish as usize);
     let chunks: Vec<_> = std::fs::read_dir(store.join("saves/blobs"))
         .unwrap()
         .map(|e| e.unwrap())

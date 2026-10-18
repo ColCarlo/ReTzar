@@ -248,9 +248,9 @@ fn spanish_campaigns(es: &Path, own: &[(String, PathBuf)]) -> Result<Vec<(String
 
 /// Writes the pack at `out` from the installation `source`, of any edition,
 /// and, when given, the American CD's `Tzar` folder `american` (its
-/// campaign and its movies) and FX's Spanish edition `spanish` (its voices,
-/// screens and intro, [`SPANISH`]); `work` holds the movies while they are
-/// converted.
+/// campaign and its movies) and FX's Spanish edition `spanish` (its own
+/// campaigns, [`crate::scenario::SPANISH_CAMPAIGNS`], and its voices, screens
+/// and intro, [`SPANISH`]); `work` holds the movies while they are converted.
 pub fn build(
     source: &Path,
     american: Option<&Path>,
@@ -294,6 +294,12 @@ pub fn build(
     if let Some(es) = spanish {
         let voiced = spanish_campaigns(es, &containers)?;
         containers.extend(voiced);
+        for name in crate::scenario::SPANISH_CAMPAIGNS {
+            let (key, path) = (format!("Campaign/{name}"), es.join("Campaign").join(name));
+            if path.is_file() && !containers.iter().any(|(n, _)| n.eq_ignore_ascii_case(&key)) {
+                containers.push((key, path));
+            }
+        }
     }
     for (name, path) in containers {
         log(format!("Contenitore {name}"));
@@ -418,10 +424,16 @@ pub fn verify(
             return es.join(rest);
         }
         let at = source.join(name);
-        match american {
-            Some(cd) if !at.exists() => cd.join(name),
-            _ => at,
+        if at.exists() {
+            return at;
         }
+        // The American campaign, then the Spanish edition's own.
+        [american, spanish]
+            .into_iter()
+            .flatten()
+            .map(|dir| dir.join(name))
+            .find(|p| p.exists())
+            .unwrap_or(at)
     };
     let archives = archives(source)?;
     let screens = spanish

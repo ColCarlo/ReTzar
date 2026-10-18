@@ -45,6 +45,30 @@ pub fn american_campaign(source: &Path) -> Option<PathBuf> {
     .into_iter()
     .find(|p| crate::vfs::is_file(p))
 }
+/// The campaigns of FX's Spanish edition that the Italian one lacks, in
+/// Spanish.
+pub const SPANISH_CAMPAIGNS: [&str; 1] = ["Los Dominios de la Magia.wcm"];
+/// The Spanish edition's own campaigns ([`SPANISH_CAMPAIGNS`]):
+/// the `Campaign` folder of the install, or of the Spanish edition copied
+/// into `Anthology`.
+pub fn spanish_campaigns(source: &Path) -> Vec<PathBuf> {
+    SPANISH_CAMPAIGNS
+        .iter()
+        .filter_map(|name| {
+            [
+                source.join("Campaign").join(name),
+                source.join("Anthology/Campaign").join(name),
+            ]
+            .into_iter()
+            .find(|p| crate::vfs::is_file(p))
+        })
+        .collect()
+}
+/// Whether a file is one of the Spanish edition's own campaigns.
+pub fn is_spanish(file: &Path) -> bool {
+    file.file_name()
+        .is_some_and(|n| SPANISH_CAMPAIGNS.iter().any(|s| n.eq_ignore_ascii_case(s)))
+}
 /// Whether a file is the American campaign, whose texts are in English.
 pub fn is_american(file: &Path) -> bool {
     file.file_name()
@@ -242,6 +266,11 @@ impl ScenarioCatalog {
             && !files.iter().any(|p| is_american(p))
         {
             files.push(f);
+        }
+        for f in spanish_campaigns(source) {
+            if !files.iter().any(|p| p.file_name() == f.file_name()) {
+                files.push(f);
+            }
         }
         files.sort_by_key(|p| p.file_name().map(|n| n.to_ascii_lowercase()));
         for f in files {

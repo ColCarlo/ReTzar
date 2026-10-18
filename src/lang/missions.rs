@@ -2,10 +2,11 @@
 //! kingdoms, heroes, objectives, stories, messages and conversations. The
 //! maps and the tutorial take the American release's own texts in English,
 //! matched to the Italian ones line by line; the campaigns of the Italian
-//! edition, which the American release lacks, are translated, and so is the
-//! American campaign, which the Italian edition lacks (its English is the
-//! original). French, German, Spanish, Polish and Portuguese are this
-//! version's.
+//! edition, which the American release lacks, are translated, and so are the
+//! American campaign and the Spanish edition's, which the Italian edition
+//! lacks (their English and Spanish are the originals). Spanish is FX's own
+//! where its edition has the text; French, German, Polish and Portuguese are
+//! this version's.
 //!
 //! A catalog (`languages/<code>/missions/*.txt`) is a list of pairs, the
 //! Italian and the language's:
@@ -26,10 +27,17 @@ use std::{
     sync::OnceLock,
 };
 
-/// The catalogs of a language: the maps, the tutorial and the campaigns.
+/// The catalogs of a language: the campaigns, the maps and the tutorial.
+/// The Spanish edition's campaign comes first, as its Spanish texts are
+/// originals: «Nigromante» is its necromancer, not Genghis Khan's witch.
 macro_rules! catalogs {
     ($code:literal) => {
         [
+            include_str!(concat!(
+                "../../languages/",
+                $code,
+                "/missions/dominions.txt"
+            )),
             include_str!(concat!("../../languages/", $code, "/missions/maps.txt")),
             include_str!(concat!("../../languages/", $code, "/missions/tutorial.txt")),
             include_str!(concat!(
@@ -52,7 +60,7 @@ macro_rules! catalogs {
 }
 /// English first: where two languages write a text alike, it reads as the
 /// English one.
-const CATALOGS: [(Language, [&str; 5]); 6] = [
+const CATALOGS: [(Language, [&str; 6]); 6] = [
     (Language::English, catalogs!("en")),
     (Language::French, catalogs!("fr")),
     (Language::German, catalogs!("de")),
@@ -311,6 +319,30 @@ mod tests {
                 None,
                 "{english}"
             );
+        }
+    }
+
+    #[test]
+    fn the_spanish_campaign_reads_in_every_language() {
+        let spanish = pairs_in(CATALOGS[3].1[0], "es");
+        assert!(spanish.len() > 300);
+        for (language, catalogs) in CATALOGS {
+            let theirs: HashMap<String, String> = pairs_in(catalogs[0], language.code())
+                .into_iter()
+                .map(|(it, text)| (key(&it), text))
+                .collect();
+            for (italian, original) in &spanish {
+                let shown = translate(original, language).unwrap_or(original);
+                assert_eq!(shown, theirs[&key(italian)], "{language:?}: «{original}»");
+            }
+        }
+        for (italian, original) in &spanish {
+            // The Italian edition's Excalibur says these itself.
+            if ["Espada", "Tiempo"].contains(&original.as_str()) {
+                continue;
+            }
+            let shown = translate(original, Language::Italian).unwrap_or(original);
+            assert_eq!(shown, key(italian), "«{original}»");
         }
     }
 

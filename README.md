@@ -6,7 +6,8 @@ Bevy and kept as close to the original as possible.
 ![A castle, an army and a walled town](screenshots/1-castle-and-army.jpg)
 
 - All three civilizations, random maps and the campaigns of several
-  editions: The Burden of the Crown, Excalibur and King Arthur, Genghis Khan
+  editions: The Burden of the Crown, Excalibur and King Arthur, Genghis Khan,
+  The Domains of Magic
 - The original AI, mission scripts, day and night, weather, fog of war
 - Runs smoothly on modern Windows, with crisp scaling up to 4K
 - Seven languages: English, Italian, French, German, Spanish, Polish, Portuguese
@@ -30,7 +31,7 @@ click **More info**, then **Run anyway**.
 
 ## What you need
 
-- Windows 10 or 11 (64-bit), 4 GB of RAM and about 350 MB of disk space
+- Windows 10 or 11 (64-bit), 4 GB of RAM and about 500 MB of disk space
 - A graphics card with an up-to-date Vulkan driver
 - A copy of Tzar, any edition
 

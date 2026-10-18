@@ -1,0 +1,639 @@
+# Los Dominios de la Magia (campagna dell'edizione spagnola di FX, assente da quella italiana): traduzione di ReTzar.
+
+# los dominios de la magia.wcm
+it: I Domini della Magia\nIl grande Impero di Arcania è un territorio magico in cui vivono in armonia Umani, Elfi e Nani. I destini di Arcania sono retti da Zoseth, "il Prescelto", la cui sacra missione è preservare la vita dei suoi sudditi e, di conseguenza, l'equilibrio dell'Impero.\n\nTuttavia, un terribile evento farà tornare a rullare i tamburi di guerra. Zoseth, "il Prescelto", è stato assassinato.
+en: The Domains of Magic\nThe great Empire of Arcania is a magical land where Humans, Elves and Dwarves live together in harmony. The fate of Arcania is ruled by Zoseth, "the Chosen One", whose sacred mission is to preserve the lives of his subjects and, with them, the balance of the Empire.\n\nBut a terrible event will make the drums of war thunder once more. Zoseth, "the Chosen One", has been murdered.
+
+# los dominios de la magia.wcm::maps/una alianza inesperada
+it: Un'alleanza inattesa
+en: An Unexpected Alliance
+it: Le truppe di Albinia devono affrontare una nuova minaccia. Kasia, una giovane nobile, bella, fredda, calcolatrice e ambiziosa, cade sotto l'incantesimo di Ignatar quando il malvagio stregone le promette il trono del Consiglio in cambio dell'appoggio del suo temibile esercito.
+en: Albinia's troops must face a new threat. Kasia, a young noblewoman, beautiful, cold, calculating and ambitious, falls under Ignatar's spell when the evil sorcerer promises her the throne of the Council in exchange for the support of her fearsome army.
+it: Albinia
+en: Albinia
+it: Kasia
+en: Kasia
+it: Regno 3
+en: Kingdom 3
+it: Tzar 3
+en: Tzar 3
+it: Kirildur
+en: Kirildur
+it: Regno 8
+en: Kingdom 8
+it: Tzar 8
+en: Tzar 8
+it: Ereder
+en: Ereder
+it: Jaraldur
+en: Jaraldur
+it: Bandim
+en: Bandim
+it: Skull
+en: Skull
+it: Banshee
+en: Banshee
+it: Sconfiggi gli eserciti di Kasia e distruggi i suoi castelli.
+en: Defeat Kasia's armies and destroy her castles.
+it: Albinia deve sopravvivere.
+en: Albinia must survive.
+it: Albinia è morta in battaglia.
+en: Albinia has died in battle.
+it: Ereder è caduto ferito in battaglia.
+en: Ereder has fallen wounded in battle.
+it: Kirildur è caduto ferito in battaglia.
+en: Kirildur has fallen wounded in battle.
+it: Kasia è caduta gravemente ferita e si ritira dalla battaglia.
+en: Kasia has fallen gravely wounded and withdraws from the battle.
+it: Il Consiglio Reale esige invano da Ignatar la restituzione dell'ambito Scettro del Potere. Ebbro di arroganza, Ignatar contrattacca con una sottile manovra. Kasia, una giovane nobile, bella, fredda, calcolatrice e ambiziosa, cade nei suoi inganni quando il malvagio stregone le promette il trono del Consiglio in cambio dell'appoggio del suo temibile esercito.
+en: The Royal Council demands in vain that Ignatar return the coveted Sceptre of Power. Drunk with arrogance, Ignatar strikes back with a subtle move. Kasia, a young noblewoman, beautiful, cold, calculating and ambitious, falls for his lies when the evil sorcerer promises her the throne of the Council in exchange for the support of her fearsome army.
+it: Kasia cade, ferita nell'animo, vittima della sua stessa ambizione. Nella sua lenta agonia riesce a rivolgersi ad Albinia e, senza un briciolo di pentimento, le confessa uno dei segreti meglio custoditi di Arcania...\n\nSei riuscita a sconfiggermi, Albinia... ma non mi priverai del colpo finale. Per tutto questo tempo il mio signore ha tenuto in vita il tuo vecchio padre con il fermo proposito di farsi rivelare tutti i segreti della Magia Proibita. Ora che ha raggiunto il suo scopo... la vita di Aerus non ha più alcun valore. Ormai nemmeno tutto il potere magico di Arcania potrà fermare Ignatar.\n\nLa confessione di Kasia penetra come un dardo avvelenato nella mente di Albinia, lacerandole tutti i sensi... Aerus è ancora vivo!\n\nTuttavia, l'immagine del padre torturato e umiliato le provoca una sofferenza insopportabile. Forse è già troppo tardi... Senza perdere tempo, parte al galoppo verso le segrete della fortezza di Ignatar. Non è disposta a rinunciare alla possibilità di rivedere suo padre vivo...
+en: Kasia falls, wounded in spirit, a victim of her own ambition. In her slow agony she manages to turn to Albinia and, without a trace of remorse, confesses one of the best kept secrets of Arcania...\n\nYou have beaten me, Albinia... but you will not rob me of the final blow. All this time my lord has kept your old father alive, firmly intent on making him reveal every secret of the Forbidden Magic. Now that he has what he wanted... Aerus's life is worth nothing. Now not even all the magic power of Arcania can stop Ignatar.\n\nKasia's confession pierces Albinia's mind like a poisoned dart, tearing through all her senses... Aerus is still alive!\n\nYet the image of her father tortured and humiliated causes her unbearable pain. Perhaps it is already too late... Without wasting a moment, she gallops off towards the dungeons of Ignatar's fortress. She will not give up the chance of seeing her father alive again...
+it: Jaraldur è stato ferito.
+en: Jaraldur has been wounded.
+it: Skull è caduto ferito.
+en: Skull has fallen wounded.
+it: Banshee è stato ferito mortalmente.
+en: Banshee has been mortally wounded.
+it: Bandim è stato ferito mortalmente.
+en: Bandim has been mortally wounded.
+it: L'esercito di Albinia ha perso i suoi generali.
+en: Albinia's army has lost its generals.
+it: Uno degli eserciti di Kasia è stato distrutto.
+en: One of Kasia's armies has been destroyed.
+it: Gli eserciti di Kirildur sono stati sconfitti.
+en: Kirildur's armies have been defeated.
+it: Un esercito di Kasia è stato sconfitto.
+en: An army of Kasia's has been defeated.
+it: L'esercito di Albinia è stato sconfitto.
+en: Albinia's army has been defeated.
+it: Uno degli eserciti di Kasia è stato sconfitto.
+en: One of Kasia's armies has been defeated.
+it: Che succede? Perché ci fermiamo?
+en: What is happening? Why are we stopping?
+it: Avverto una grande concentrazione di magia a nord-ovest.
+en: I sense a great gathering of magic to the north-west.
+it: Temo che ci troviamo su un terreno pericoloso.
+en: I fear we stand on dangerous ground.
+it: Non riesco a riconoscerlo, ma presagisco che si avvicina una battaglia. Prepariamoci a combattere!
+en: I cannot make it out, but I foresee a battle coming. Let us prepare to fight!
+it: Affidiamo alle truppe volanti l'esplorazione del terreno. Queste unità sono specializzate nel perlustrare la zona e scovare i nemici nascosti.
+en: Let the flying troops scout the land. These units are skilled at searching the area and finding hidden enemies.
+it: Indagherò con la mia visione magica, ma tenete gli occhi ben aperti...
+en: I will search with my magic vision, but keep your eyes wide open...
+it: Temo di no... Usiamo le nostre truppe volanti per esplorare: sono ottimi esploratori, specializzati nello scovare i nemici nascosti.
+en: I fear not... Let us use our flying troops to explore: they are fine scouts, skilled at finding hidden enemies.
+it: Le truppe di Kasia sono dalla parte di Ignatar e combattono una terribile battaglia contro le forze di Kirildur. A poco a poco Ignatar si sta impadronendo di tutti i territori dell'Impero. Se non vi poniamo rimedio, questa guerra civile lo renderà il nuovo imperatore. Kirildur non potrà mai sconfiggerlo da solo.
+en: Kasia's troops stand with Ignatar and are fighting a terrible battle against Kirildur's forces. Little by little Ignatar is seizing every land of the Empire. Unless we put a stop to it, this civil war will make him the new emperor. Kirildur will never defeat him alone.
+it: Le truppe di Kasia ci attaccano! Facciamole a pezzi. Se aiutiamo Kirildur a vincere questa battaglia, potremo sconfiggere l'esercito di Ignatar.
+en: Kasia's troops are attacking us! Let us cut them down. If we help Kirildur win this battle, we will be able to defeat Ignatar's army.
+it: Finalmente! I miei esploratori mi hanno confermato che le forze di Albinia si avvicinano. Non tutto è perduto...
+en: At last! My scouts have confirmed that Albinia's forces are approaching. All is not lost...
+it: All'attacco! La vittoria è nostra! Chi l'avrebbe mai detto... la giovane Albinia è diventata una potente maga. Suo padre sarebbe fiero di lei.
+en: Charge! Victory is ours! Who would have thought it... young Albinia has become a mighty sorceress. Her father would be proud of her.
+
+# los dominios de la magia.wcm::maps/el reloj de arena
+it: La clessidra
+en: The Hourglass
+it: Albinia non ha tempo da perdere. Deve trovare suo padre prima che Ignatar raggiunga la fortezza e ponga fine alla sua vita...
+en: Albinia has no time to lose. She must find her father before Ignatar reaches the fortress and ends his life...
+it: Guardiano
+en: Guardian
+it: Regno 4
+en: Kingdom 4
+it: Tzar 4
+en: Tzar 4
+it: Regno 5
+en: Kingdom 5
+it: Tzar 5
+en: Tzar 5
+it: Regno 6
+en: Kingdom 6
+it: Tzar 6
+en: Tzar 6
+it: Regno 7
+en: Kingdom 7
+it: Tzar 7
+en: Tzar 7
+it: Aerus
+en: Aerus
+it: Veritas
+en: Veritas
+it: Spada
+en: Sword
+it: Albinia è morta...
+en: Albinia is dead...
+it: Aerus è morto...
+en: Aerus is dead...
+it: Trova tuo padre e salvalo prima che Ignatar arrivi alla fortezza.
+en: Find your father and rescue him before Ignatar reaches the fortress.
+it: Albinia e Aerus devono sopravvivere.
+en: Albinia and Aerus must survive.
+it: Trova il Guardiano della Spada e strappagliela. L'arma vi mostrerà l'uscita.
+en: Find the Guardian of the Sword and take it from him. The weapon will show you the way out.
+it: Fuggi dalle segrete attraverso la porta dimensionale.
+en: Escape from the dungeons through the dimensional gate.
+it: L'accesso alla fortezza in cui Aerus è prigioniero è molto protetto. Guardiani magici e creature leggendarie abitano ogni angolo oscuro. Albinia si infiltra in un profondo e pericoloso labirinto di segrete. Non c'è tempo da perdere. Deve trovare suo padre prima che Ignatar raggiunga la fortezza e ponga fine alla sua vita...
+en: The way into the fortress where Aerus is held prisoner is heavily guarded. Magic guardians and legendary creatures dwell in every dark corner. Albinia slips into a deep and dangerous maze of dungeons. There is no time to lose. She must find her father before Ignatar reaches the fortress and ends his life...
+it: La Spada della Verità ha mostrato ad Albinia e Aerus la via della salvezza. Ma c'è ancora molto da fare. Entrambi si preparano a ricongiungersi con le truppe del Consiglio Reale per dare l'assalto alla fortezza di Ignatar.
+en: The Sword of Truth has shown Albinia and Aerus the way to safety. But much remains to be done. Both make ready to join the troops of the Royal Council and storm Ignatar's fortress.
+it: Tempo
+en: Time
+it: Non resta molto tempo... Ignatar si trova a tre giorni di cavallo.
+en: Not much time is left... Ignatar is three days' ride away.
+it: Mancano solo due giorni all'arrivo di Ignatar alla fortezza...
+en: Only two days are left before Ignatar reaches the fortress...
+it: Ignatar arriverà domani con le sue truppe...
+en: Ignatar will arrive tomorrow with his troops...
+it: Ignatar è arrivato al castello. Ormai è troppo tardi. Non avete scampo.
+en: Ignatar has reached the castle. It is too late now. There is no escape for you.
+it: Padre e figlia sono stati sconfitti.
+en: Father and daughter have been defeated.
+it: Hai eliminato i guardiani delle segrete.
+en: You have done away with the guardians of the dungeons.
+it: Albinia, sei viva! Avevo perso la speranza di rivederti... Non sai quanto sono felice di vederti!
+en: Albinia, you are alive! I had lost all hope of seeing you again... You cannot know how glad I am to see you!
+it: Anch'io, padre. Mi sei mancato tanto.
+en: So am I, father. I have missed you so much.
+it: Raccontami... dove sei stata per tutto questo tempo?
+en: Tell me... where have you been all this time?
+it: Lo vedi, qua e là... a esercitarmi con qualche incantesimo.
+en: Oh, here and there... practising a few spells.
+it: Smettila di scherzare... Come hai fatto a sopravvivere?
+en: Stop joking... How did you survive?
+it: È una lunga storia. Sono fuggita nel territorio di Kron e mi sono nascosta lì. I miei eserciti e le truppe di Jaraldur mi hanno aiutata a evitare che Ignatar mi catturasse.
+en: It is a long story. I fled to the land of Kron and hid there. My armies and Jaraldur's troops helped me keep out of Ignatar's hands.
+it: Albinia... devo confessarti una cosa. Ignatar mi assicurò di averti catturata. Mi disse che l'unico modo per impedirgli di ucciderti era rivelargli i segreti dei miei incantesimi più potenti... Io resistetti, ma non riuscivo a smettere di pensare a te... Non volevo perderti. Ora Ignatar ha tutto il potere.
+en: Albinia... I must confess something to you. Ignatar swore to me that he had captured you. He told me the only way to stop him from killing you was to reveal the secrets of my most powerful spells... I resisted, but I could not stop thinking of you... I did not want to lose you. Now Ignatar holds all the power.
+it: Non preoccuparti... L'hai fatto per una nobile causa. E non tutto è ancora perduto. Presto! Dobbiamo fuggire!
+en: Do not worry... You did it for a noble cause. And all is not lost yet. Quickly! We must escape!
+it: Albinia, dobbiamo trovare il Guardiano della Spada e sconfiggerlo. Solo così potremo trovare l'uscita. La Spada ci mostrerà la via.
+en: Albinia, we must find the Guardian of the Sword and defeat him. Only then can we find the way out. The Sword will show us the way.
+it: Magnifico! Ora la Spada ci condurrà all'uscita di questo luogo... Presto! Allontaniamoci da qui il prima possibile.
+en: Splendid! Now the Sword will lead us to the way out of this place... Hurry! Let us get away from here as soon as we can.
+it: Non possiamo raggiungere l'isola. Come attraverseremo queste acque?
+en: We cannot reach the island. How will we cross these waters?
+it: Siamo fortunati, Albinia. Scorgo una nave in lontananza. Andiamo!
+en: We are in luck, Albinia. I can see a ship in the distance. Let us go!
+
+# los dominios de la magia.wcm::maps/el sacrificio
+it: Il sacrificio
+en: The Sacrifice
+it: Le forze di Albinia e le truppe del Consiglio Reale si trovano di fronte alle schiere di Ignatar, in agguato, trincerate sulle colline vicine.\nÈ giunta l'ora della battaglia finale. Il dado è tratto.
+en: Albinia's forces and the troops of the Royal Council stand before Ignatar's hosts, lying in wait, entrenched on the nearby hills.\nThe hour of the final battle has come. The die is cast.
+it: Alleanza
+en: Alliance
+it: Demone
+en: Demon
+it: Ignatar
+en: Ignatar
+it: Silvanar
+en: Silvanar
+it: Grolim
+en: Grolim
+it: Uno degli esploratori di Albinia ha trovato la via per il labirinto dell'Altare del Potere...
+en: One of Albinia's scouts has found the way to the maze of the Altar of Power...
+it: Uno degli esploratori di Albinia ha trovato l'ingresso del labirinto dell'Altare del Potere...\n\nPer molto tempo tutti i grandi maghi hanno cercato il leggendario Altare del Potere. Secondo la leggenda, chi è disposto a offrire la propria vita all'Altare acquisisce poteri magici illimitati. Tuttavia il rischio è alto, perché il mago può cadere in un sonno profondo e irreversibile o perfino morire nel tentativo.\n\nAlbinia sa che l'Altare è l'unica speranza di sconfiggere le forze demoniache di Ignatar. Deve affrettarsi, o tutto sarà perduto.\n\nAttraversare il labirinto non sarà facile. Dovrà trovare la strada giusta a piedi, perché sorvolarlo è impossibile.
+en: One of Albinia's scouts has found the entrance to the maze of the Altar of Power...\n\nFor a long time all the great mages have sought the legendary Altar of Power. Legend has it that whoever is willing to offer their life to the Altar gains boundless magic powers. But the risk is high, for the mage may fall into a deep sleep with no waking, or even die in the attempt.\n\nAlbinia knows the Altar is the only hope of defeating Ignatar's demonic forces. She must hurry, or all will be lost.\n\nCrossing the maze will not be easy. She will have to find the right path on foot, for flying over it is impossible.
+it: Quando Albinia salì fino alla cupola dell'Altare, una luce accecante di energia magica cominciò ad avvolgerla, girando intorno al suo corpo. Mentre la luce girava, il suo corpo era scosso dalla forza dei poteri magici che assorbiva. La sua mente cominciava a comprendere i meccanismi più sottili della magia arcana e della vita. Nell'istante preciso in cui la luce colpì il suo corpo, evocò un grande esercito di draghi e golem. Subito dopo, Albinia si accasciò...
+en: When Albinia climbed up to the dome of the Altar, a blinding light of magic energy began to wrap around her, whirling about her body. As the light whirled, her body shook with the force of the magic powers it was taking in. Her mind began to grasp the subtlest workings of arcane magic and of life. At the very moment the light struck her body, she summoned a great army of dragons and golems. A moment later, Albinia collapsed...
+it: Albinia è morta, ogni speranza è perduta...
+en: Albinia is dead, all hope is lost...
+it: Distruggi Ignatar e il suo Castello del Male.
+en: Destroy Ignatar and his Castle of Evil.
+it: Porta Albinia all'Altare del Potere.
+en: Take Albinia to the Altar of Power.
+it: Jaraldur è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+en: Jaraldur has fallen wounded in battle. Ignatar's hosts are taking him to the dungeons.
+it: Kirildur è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+en: Kirildur has fallen wounded in battle. Ignatar's hosts are taking him to the dungeons.
+it: Silvanar è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+en: Silvanar has fallen wounded in battle. Ignatar's hosts are taking him to the dungeons.
+it: Grolim è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+en: Grolim has fallen wounded in battle. Ignatar's hosts are taking him to the dungeons.
+it: Ereder è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+en: Ereder has fallen wounded in battle. Ignatar's hosts are taking him to the dungeons.
+it: Aerus è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+en: Aerus has fallen wounded in battle. Ignatar's hosts are taking him to the dungeons.
+it: Le forze di Albinia e le truppe del Consiglio Reale formano un esercito temibile, disciplinato e molto esperto. La loro superiorità fa presagire una vittoria schiacciante sulle schiere di Ignatar, in agguato, trincerate sulle colline vicine.\n\nTuttavia, non bisogna mai sottovalutare il nemico. È giunta l'ora della battaglia finale. Il dado è tratto.
+en: Albinia's forces and the troops of the Royal Council make up a fearsome army, disciplined and seasoned. Their superiority promises a crushing victory over Ignatar's hosts, lying in wait, entrenched on the nearby hills.\n\nYet one must never underestimate the enemy. The hour of the final battle has come. The die is cast.
+it: Il sacrificio di Albinia salvò Arcania dalla minaccia di Ignatar e delle sue forze demoniache. La sua perdita fu pianta da tutto l'Impero.\n\nLa giovane maga cadde in un sonno eterno. Fu sepolta con tutti gli onori nel mausoleo dei re, nella necropoli di Kisen.\n\nIl suo fedele Jaraldur guidò una crociata contro i fuorilegge e annesse Kron all'Impero. Alla morte di Kirildur fu proclamato per acclamazione re degli Umani.\n\nAlcuni secoli dopo... un uomo dall'aspetto strano scoprì una lastra con iscrizioni che non riuscì a decifrare. A fatica spostò la mole di pietra e, alla luce della sua torcia, vide il corpo inerte di una bellissima donna.\n\nCon mani tremanti srotolò una vecchia pergamena e cominciò a intonare con voce tremula un canto sconosciuto... All'improvviso, la donna aprì gli occhi... Albinia si era appena risvegliata.
+en: Albinia's sacrifice saved Arcania from the threat of Ignatar and his demonic forces. The whole Empire mourned her loss.\n\nThe young sorceress fell into an eternal sleep. She was buried with every honour in the mausoleum of the kings, in the necropolis of Kisen.\n\nHer faithful Jaraldur led a crusade against the outlaws and joined Kron to the Empire. When Kirildur died he was acclaimed king of the Humans.\n\nCenturies later... a strange-looking man found a slab carved with writing he could not read. With great effort he moved the block of stone and, by the light of his torch, saw the lifeless body of a beautiful woman.\n\nWith trembling hands he unrolled an old parchment and, in a quavering voice, began to chant an unknown song... Suddenly the woman opened her eyes... Albinia had just awoken.
+it: Albinia ha inviato i suoi migliori esploratori alla ricerca dell'Altare del Potere. Benché l'esercito di Arcania sia potente, forse sarà necessario ricorrere a queste rovine millenarie per combattere il nemico.
+en: Albinia has sent her best scouts in search of the Altar of Power. Though the army of Arcania is mighty, it may be needed to call upon these ancient ruins to fight the enemy.
+it: Uno degli eserciti di Arcania è stato sconfitto.
+en: One of Arcania's armies has been defeated.
+it: I demoni evocati da Ignatar sono stati annientati.
+en: The demons summoned by Ignatar have been wiped out.
+it: Uno degli eserciti di Ignatar è stato sconfitto.
+en: One of Ignatar's armies has been defeated.
+it: I nostri eserciti sono pronti per la battaglia.
+en: Our armies are ready for battle.
+it: Facciamola finita con Ignatar una volta per tutte.
+en: Let us finish Ignatar once and for all.
+it: Non sarà così semplice...
+en: It will not be that simple...
+it: Perché? Le nostre forze superano le sue.
+en: Why? Our forces outnumber his.
+it: Ignatar ora gode di un potere straordinario. Io stesso gli ho insegnato la magia proibita... Credevo che fosse l'unico modo per salvare Albinia... Ignatar ha stretto un patto con forze demoniache e non esiterà a usarle contro di noi...
+en: Ignatar now wields extraordinary power. I myself taught him the forbidden magic... I thought it was the only way to save Albinia... Ignatar has made a pact with demonic forces and will not hesitate to use them against us...
+it: Non tormentarti, Aerus. Hai agito bene. Ora non ci resta che affrontare Ignatar. Sarà una battaglia cruenta, ma non possiamo fermarci...
+en: Do not torment yourself, Aerus. You did right. Now we have no choice but to face Ignatar. It will be a bloody battle, but we cannot stop now...
+it: Jaraldur ha ragione. Se lo distruggiamo, l'effetto dei suoi incantesimi svanirà e le sue truppe si dissolveranno. Facciamola finita con lui! Per Arcania!
+en: Jaraldur is right. If we destroy him, his spells will lose their power and his troops will vanish. Let us finish him! For Arcania!
+
+# los dominios de la magia.wcm::maps/huida en la noche
+it: Fuga nella notte
+en: Flight in the Night
+it: Zoseth, "il Prescelto", è stato assassinato. Il malvagio Ignatar, autore del crimine, vuole far credere che il colpevole sia Aerus, stregone dell'Ordine dell'Acqua ed erede naturale di Zoseth. Eliminato Aerus, Ignatar diventerebbe il Prescelto e avrebbe nelle sue mani l'agognato Scettro del Potere.\nTuttavia, qualcun altro è stato testimone del delitto e conosce la verità...
+en: Zoseth, "the Chosen One", has been murdered. The evil Ignatar, who committed the crime, wants everyone to believe the culprit is Aerus, sorcerer of the Order of Water and Zoseth's rightful heir. With Aerus out of the way, Ignatar would become the Chosen One and hold the coveted Sceptre of Power in his hands.\nBut someone else witnessed the crime and knows the truth...
+it: Guardie
+en: Guards
+it: Cittadini
+en: Citizens
+it: Servitù
+en: Servants
+it: Laboratorio
+en: Laboratory
+it: Servitore
+en: Servant
+it: Studio
+en: Study
+it: Grimorio
+en: Grimoire
+it: Inquisitore
+en: Inquisitor
+it: Nel frattempo, alla porta della torre...
+en: Meanwhile, at the door of the tower...
+it: Fuggi dalla torre e porta Albinia in salvo, ai confini della mappa.
+en: Escape from the tower and take Albinia to safety, at the edges of the map.
+it: Il grande Impero di Arcania è un territorio magico in cui vivono in armonia Umani, Elfi e Nani. I destini di Arcania sono retti da Zoseth, "il Prescelto", la cui sacra missione è preservare la vita dei suoi sudditi e, di conseguenza, l'equilibrio dell'Impero.\n\nTuttavia, un terribile evento cambierà il corso della Storia. Zoseth muore avvelenato da Ignatar, stregone dell'Ordine del Fuoco. Questi vuole far credere che il colpevole del delitto sia Aerus, stregone dell'Ordine dell'Acqua ed erede naturale di Zoseth. Eliminato Aerus, Ignatar diventerebbe il Prescelto e avrebbe nelle sue mani l'agognato Scettro del Potere.\n\nIl piano sarebbe perfetto se Albinia, figlia di Aerus, non fosse stata testimone del tradimento. Quando Ignatar la scopre, la giovane apprendista maga fugge per raccontare l'accaduto al padre.\n\nNel frattempo, Ignatar va avanti con i suoi piani. Dopo aver denunciato l'assassinio davanti al Consiglio Reale, irrompe con la sua guardia personale nella torre magica di Aerus con l'intenzione di catturarlo.
+en: The great Empire of Arcania is a magical land where Humans, Elves and Dwarves live together in harmony. The fate of Arcania is ruled by Zoseth, "the Chosen One", whose sacred mission is to preserve the lives of his subjects and, with them, the balance of the Empire.\n\nBut a terrible event will change the course of History. Zoseth dies, poisoned by Ignatar, sorcerer of the Order of Fire, who wants everyone to believe the culprit is Aerus, sorcerer of the Order of Water and Zoseth's rightful heir. With Aerus out of the way, Ignatar would become the Chosen One and hold the coveted Sceptre of Power in his hands.\n\nThe plan would be perfect had Albinia, Aerus's daughter, not witnessed the betrayal. When Ignatar discovers her, the young apprentice sorceress flees to tell her father what has happened.\n\nMeanwhile, Ignatar goes ahead with his plans. Having reported the murder to the Royal Council, he bursts into Aerus's magic tower with his personal guard, intent on seizing him.
+it: SUGGERIMENTI:\n\nStudia gli incantesimi dei libri di magia (Ctrl+clic destro sul libro). Potrai usarli con il tuo mana.\n\nTrova la pozione in cantina e bevila. Aumenterà il tuo mana e potrai lanciare gli incantesimi più rapidamente. (Per berla subito fai Ctrl+clic destro sulla pozione. Se ce l'hai già nell'inventario, selezionala con il tasto sinistro del mouse e fai di nuovo clic sinistro sul personaggio.)\n\nEsistono molti modi per fuggire vivi dalla torre. I libri di incantesimi che troverai ti saranno di grande aiuto.
+en: HINTS:\n\nStudy the spells in the books of magic (Ctrl+right click on the book). You can then cast them with your mana.\n\nFind the potion in the cellar and drink it. It will raise your mana and let you cast your spells faster. (To drink it at once, Ctrl+right click on the potion. If it is already in your inventory, select it with the left mouse button and left click on the character again.)\n\nThere are many ways to escape the tower alive. The spell books you find will be a great help.
+it: Aiuto
+en: Help
+it: Consulta spesso i tuoi obiettivi. Troverai alcuni consigli utili.
+en: Check your objectives often. You will find some useful advice.
+it: Aerus cerca invano di fermare Ignatar e i suoi soldati. Gravemente ferito, viene fatto prigioniero e accusato dell'assassinio di Zoseth. Il Consiglio Reale lo condanna a morte. Giustiziato Aerus, i diritti di successione stabiliscono che lo Scettro del Potere passi a Ignatar. La sua cospirazione ha avuto successo...\n\nInvestito dell'autorità, un solo pensiero gli attraversa la mente: eliminare Albinia, l'unica persona che conosce il suo oscuro segreto.
+en: Aerus tries in vain to stop Ignatar and his soldiers. Badly wounded, he is taken prisoner and charged with Zoseth's murder. The Royal Council sentences him to death. With Aerus executed, the laws of succession hand the Sceptre of Power to Ignatar. His plot has succeeded...\n\nVested with authority, a single thought runs through his mind: to do away with Albinia, the only person who knows his dark secret.
+it: Albinia è stata catturata. Le sue grida d'aiuto si perderanno nelle profondità delle segrete di Ignatar.
+en: Albinia has been captured. Her cries for help will be lost in the depths of Ignatar's dungeons.
+it: La guardia personale di Ignatar è stata annientata.
+en: Ignatar's personal guard has been wiped out.
+it: La torre è stata distrutta.
+en: The tower has been destroyed.
+it: Non è rimasto nessuno ad aiutarti...
+en: There is no one left to help you...
+it: Prima che tu potessi sconfiggerlo, Ignatar ha lanciato un incantesimo ed è svanito...
+en: Before you could defeat him, Ignatar cast a spell and vanished...
+it: Aerus è stato catturato da Ignatar e dalla sua guardia personale.
+en: Aerus has been captured by Ignatar and his personal guard.
+it: Non lo so, figlia mia. Non lo so... Ho sempre sospettato di Ignatar, ma non avrei mai immaginato che la sua ambizione arrivasse a tanto. Non c'è dubbio che voglia tutto il potere di Arcania... Devo fermarlo.
+en: I do not know, my daughter. I do not know... I always suspected Ignatar, but I never imagined his ambition would go this far. There is no doubt he wants all the power of Arcania... I must stop him.
+it: Perché non convochiamo i Maestri degli Ordini Magici e il Consiglio Reale per raccontare loro quello che è successo? Dobbiamo fare qualcosa!
+en: Why do we not summon the Masters of the Magic Orders and the Royal Council and tell them what has happened? We must do something!
+it: Forse è troppo tardi, figlia mia. Sento che Ignatar in persona si sta avvicinando... Viene a prenderci. Presto! Devi fuggire. Solo tu e io conosciamo la verità e devi sopravvivere per rivelarla. Nel frattempo, io mi occuperò di Ignatar.
+en: It may be too late, my daughter. I sense Ignatar himself drawing near... He is coming for us. Quickly! You must flee. Only you and I know the truth, and you must survive to reveal it. Meanwhile, I will deal with Ignatar.
+it: Stai attento, padre.
+en: Take care, father.
+it: Non temere per me. Saprò difendermi. Corri, Albinia, corri!
+en: Do not fear for me. I can defend myself. Run, Albinia, run!
+it: ...Padre, è stato orribile. Ho visto Ignatar versare una pozione nel calice sacro. Zoseth ne ha bevuto un sorso ed è crollato a terra fulminato... Ho cercato di nascondermi, ma Ignatar mi ha scoperta. Che cosa succederà adesso, padre?
+en: ...Father, it was horrible. I saw Ignatar pour a potion into the sacred chalice. Zoseth took a sip and fell to the floor as if struck by lightning... I tried to hide, but Ignatar found me. What will happen now, father?
+it: Siamo arrivati in tempo. Quel vecchio di Aerus non ha nemmeno piazzato i suoi arcieri sulle mura. Ricordate... lo voglio vivo! E non preoccupatevi di sua figlia... avremo tempo per occuparci di lei.
+en: We are in time. That old fool Aerus has not even posted his archers on the walls. Remember... I want him alive! And do not worry about his daughter... we will have time to deal with her.
+it: Padre!!!
+en: Father!!!
+it: Fuggi, figlia mia! Non lasciare che ti catturino...
+en: Run, my daughter! Do not let them catch you...
+it: Devo fuggire... ma come? Ignatar blocca l'uscita... Pensa, Albinia, pensa... In cantina tengo una pozione per accrescere i miei poteri magici... e di sicuro sullo scaffale troverò qualche libro di incantesimi. Devo andare nel laboratorio e nello studio. Mio padre era solito nascondere lì alcuni oggetti magici. Non ho tempo da perdere!
+en: I must flee... but how? Ignatar is blocking the way out... Think, Albinia, think... I keep a potion in the cellar to boost my magic powers... and I am sure to find some spell book on the shelf. I must go to the laboratory and to the study. My father used to hide some magic objects there. I have no time to lose!
+it: Per lo scettro di Zoseth! Ci attaccano! Chiudete le porte! Presto!
+en: By the sceptre of Zoseth! We are under attack! Close the gates! Quickly!
+it: Sono le truppe di Ignatar e la sua guardia personale! Ma perché ci attaccano?
+en: It is Ignatar's troops and his personal guard! But why are they attacking us?
+it: Ho sempre saputo che eri un traditore, Ignatar. Ma non avrei mai immaginato che fossi così vigliacco.
+en: I always knew you were a traitor, Ignatar. But I never imagined you were such a coward.
+it: Anch'io sono lieto di vederti, Aerus. Sembra che la tua cara figlia non abbia perso tempo... Peccato che non vi siate accorti prima che Arcania non ha bisogno di voi. Né di te né di Zoseth. Solo io posso garantire la prosperità del nostro popolo. E il nostro popolo me ne sarà grato. Guardie, prendetelo!
+en: I am glad to see you too, Aerus. It seems your dear daughter has wasted no time... A pity you did not see sooner that Arcania has no need of you. Neither of you nor of Zoseth. Only I can ensure the prosperity of our people. And our people will thank me for it. Guards, seize him!
+it: Il mio incantesimo dei Fulmini potrebbe neutralizzarli o, se sono numerosi, la Pioggia di fuoco dovrebbe bastare a fermarli, anche se può rivelarsi un incantesimo pericoloso.
+en: My Lightning spell could stop them or, if there are many of them, Rain of Fire should be enough to hold them back, though it can turn out to be a dangerous spell.
+
+# los dominios de la magia.wcm::maps/acorralada
+it: Accerchiata
+en: Cornered
+it: Il potente esercito di Arcania stringe il cerchio attorno ad Albinia. Comandato da Grolim, re dei Nani, e da Silvanar, re degli Elfi, si prepara all'assedio definitivo nella Gola della Morte.
+en: The mighty army of Arcania tightens its ring around Albinia. Led by Grolim, king of the Dwarves, and Silvanar, king of the Elves, it makes ready for the final siege in the Gorge of Death.
+it: Maghi
+en: Mages
+it: Elfi
+en: Elves
+it: Nani
+en: Dwarves
+it: Resisti nell'accampamento finché l'esercito di golem non arriverà in tuo aiuto. Albinia deve sopravvivere.
+en: Hold out in the camp until the army of golems comes to your aid. Albinia must survive.
+it: Approfitta dell'arrivo del tuo esercito per fuggire con Albinia fino all'estremità nord del canyon.
+en: Use the arrival of your army to escape with Albinia to the northern end of the canyon.
+it: Albinia è morta.
+en: Albinia is dead.
+it: Il potente esercito di Arcania stringe il cerchio attorno ad Albinia. Comandato da Grolim, re dei Nani, e da Silvanar, re degli Elfi, si prepara all'assedio definitivo nella Gola della Morte.\n\nAlbinia dispone soltanto di un piccolo gruppo di guerrieri indeboliti dai continui combattimenti. La sua unica speranza è resistere finché il grosso del suo esercito, a diversi giorni di marcia, non verrà in suo soccorso.
+en: The mighty army of Arcania tightens its ring around Albinia. Led by Grolim, king of the Dwarves, and Silvanar, king of the Elves, it makes ready for the final siege in the Gorge of Death.\n\nAlbinia has only a small band of warriors worn down by endless fighting. Her only hope is to hold out until the bulk of her army, several days' march away, comes to her rescue.
+it: Dopo diversi giorni di eroica resistenza, Albinia vede le sue schiere rompere l'assedio e fare prigionieri Silvanar e Grolim. Incatenati, vengono condotti davanti alla giovane e, in sua presenza, non esitano ad accusare lei e suo padre di aver tradito la causa di Arcania.\n\nAlbinia non riesce a reprimere l'odio nello sguardo e, in un impeto d'ira, impugna il pugnale pronta a ucciderli, ma Jaraldur la ferma.\n\n"Mia signora, portiamoli all'Oracolo della Verità. Le acque del suo pozzo mostreranno loro la verità."\n\nSilvanar e Grolim vedono riflessa nelle acque cristalline dell'Oracolo la morte di Zoseth per mano di Ignatar. In preda a un misto di indignazione e di rammarico, presentano le loro scuse ad Albinia e, senza indugio, inviano un messaggero a Kirildur, re degli Umani.\n\nRicevuta la pergamena che rivela la verità, Kirildur chiama alle armi le truppe del Consiglio Reale di Arcania.\n\nNel frattempo, Albinia e il suo esercito si dirigono verso i domini di Ignatar per impedirgli di ritirarsi nella sua fortezza.
+en: After several days of heroic resistance, Albinia watches her hosts break the siege and take Silvanar and Grolim prisoner. In chains, they are brought before the young woman and, in her presence, do not hesitate to accuse both her and her father of betraying the cause of Arcania.\n\nAlbinia cannot hold back the hatred in her eyes and, in a fit of rage, grips her dagger, ready to take their lives, but Jaraldur stops her.\n\n"My lady, let us take them to the Oracle of Truth. The waters of its well will show them the truth."\n\nSilvanar and Grolim see, reflected in the crystal waters of the Oracle, the death of Zoseth at Ignatar's hand. Torn between outrage and remorse, they offer their apologies to Albinia and, without delay, send a messenger to Kirildur, king of the Humans.\n\nOn receiving the parchment that reveals the truth, Kirildur calls the troops of the Royal Council of Arcania to arms.\n\nMeanwhile, Albinia and her army head for Ignatar's domains to keep him from retreating to his fortress.
+it: Bandim è stato ferito in battaglia.
+en: Bandim has been wounded in battle.
+it: Banshee è stato ferito in battaglia.
+en: Banshee has been wounded in battle.
+it: Jaraldur è stato ferito in battaglia.
+en: Jaraldur has been wounded in battle.
+it: Skull è stato ferito in battaglia.
+en: Skull has been wounded in battle.
+it: Le truppe di Albinia si avvicinano. Sono a solo mezza giornata di marcia.
+en: Albinia's troops are approaching. They are only half a day's march away.
+it: Le truppe di Albinia stanno per arrivare. Dobbiamo resistere solo un altro po'!
+en: Albinia's troops are about to arrive. We only have to hold out a little longer!
+it: Le tue schiere sono state sconfitte.
+en: Your hosts have been defeated.
+it: Le truppe di Grolim e Silvanar sono state sconfitte.
+en: The troops of Grolim and Silvanar have been defeated.
+it: Hai sconfitto gli elfi.
+en: You have beaten the elves.
+it: L'avanguardia di elfi e nani è stata sconfitta.
+en: The vanguard of elves and dwarves has been defeated.
+it: Tutti i traditori sono stati giustiziati.
+en: All the traitors have been executed.
+it: Correte!
+en: Run!
+it: Mia signora, se attraversiamo la Gola della Morte avremo una possibilità.
+en: My lady, if we cross the Gorge of Death we will have a chance.
+it: Non mi piace affatto: potremmo restare bloccati tra due fronti e sarebbe la nostra rovina.
+en: I do not like it at all: we could be trapped between two fronts, and that would be our ruin.
+it: Non abbiamo scelta. Dobbiamo tentare, o le truppe di Arcania ci annienteranno...
+en: We have no choice. We must try, or the troops of Arcania will wipe us out...
+it: Maledetti elfi...
+en: Cursed elves...
+it: Guardate! In lontananza si scorge un accampamento...
+en: Look! A camp can be seen in the distance...
+it: Siamo arrivati tardi. Avverto una grande concentrazione di magia in fondo al canyon. Sono le truppe di Arcania... Ci hanno sbarrato la strada.
+en: We are too late. I sense a great gathering of magic at the end of the canyon. It is the troops of Arcania... They have barred our way.
+it: Non sono disposto a morire in queste terre inospitali. Se raggiungiamo l'accampamento potremo organizzare la difesa e ricostruire le mura con l'aiuto degli abitanti. Avanti!
+en: I am not willing to die in these bleak lands. If we reach the camp we can organise the defence and rebuild the walls with the villagers' help. Forward!
+it: Il mio esercito di golem si trova a un giorno di marcia. Se resistiamo fino ad allora, avremo ancora un'ultima possibilità.
+en: My army of golems is a day's march away. If we hold out until then, we will still have one last chance.
+it: Le mie schiere sono arrivate! Sapevo che avrebbero sfondato le linee nemiche schierate a nord. Silvanar e Grolim sono rimasti intrappolati tra due fronti. Non lascerò impunito il loro tradimento... Vendetta!
+en: My hosts have arrived! I knew they would break through the enemy lines posted in the north. Silvanar and Grolim are trapped between two fronts. I will not let their treachery go unpunished... Vengeance!
+
+# los dominios de la magia.wcm::maps/desde las filas de los proscritos
+it: Tra le file dei fuorilegge
+en: From the Ranks of the Outlaws
+it: La lotta disperata di Aerus non era stata inutile. Grazie alla resistenza del padre, Albinia ebbe il tempo di fuggire viva.\nBollata come maga rinnegata, disprezzata e perseguitata, Albinia vaga fino a raggiungere Kron, cupo rifugio di banditi e fuorilegge.
+en: Aerus's desperate fight had not been in vain. Thanks to her father's resistance, Albinia had time to escape alive.\nBranded a renegade sorceress, scorned and hunted, Albinia wanders until she reaches Kron, a grim haven of bandits and outlaws.
+it: Ladri
+en: Thieves
+it: Predoni
+en: Raiders
+it: Seguaci
+en: Followers
+it: Borgo
+en: Hamlet
+it: Capo
+en: Leader
+it: Libro delle
+en: Book of
+it: Ombre
+en: Shadows
+it: Mentre Albinia e due fedeli servitori di suo padre riposavano...
+en: While Albinia and two faithful servants of her father were resting...
+it: Elimina i banditi e conquista il loro covo.
+en: Do away with the bandits and conquer their lair.
+it: Le tue arti magiche ti hanno permesso di sconfiggere i banditi che avevano assalito il villaggio. Tuttavia, il pericolo è in agguato. Il territorio è sotto il dominio di due potenti bande di fuorilegge.\n\nTrova i loro covi e sconfiggi il loro capo. Si uniranno ai tuoi uomini o pagheranno con la vita.
+en: Your magic arts have let you defeat the bandits who had raided the village. Yet danger lies in wait. The land is ruled by two powerful bands of outlaws.\n\nFind their lairs and defeat their leader. They will join your men or pay with their lives.
+it: Sconfiggi il capo delle due bande di fuorilegge e i suoi uomini si metteranno ai tuoi ordini. È una buona idea usare gli abitanti del villaggio per procurarti nuove risorse e reclutare un piccolo gruppo di maghi. Ricorda: nella magia sta la vittoria.
+en: Defeat the leader of the two bands of outlaws and his men will take your orders. It is a good idea to use the villagers to gather new resources and recruit a small group of mages. Remember: in magic lies victory.
+it: Una mattina, un vecchio stregone avvicina Albinia per raccontarle dell'esistenza dell'Altare del Teschio. La leggenda narra che queste rovine millenarie custodiscono il Libro delle Ombre, una raccolta degli incantesimi più potenti. Con il libro in suo possesso, Albinia diventerebbe una maga temibile e sarebbe in grado di sfidare lo stesso Jaraldur.
+en: One morning an old sorcerer approaches Albinia to tell her of the Altar of the Skull. Legend has it that these ancient ruins hold the Book of Shadows, a collection of the most powerful spells. With the book in her hands, Albinia would become a fearsome sorceress and be able to challenge Jaraldur himself.
+it: Porta Albinia fino all'Altare del Teschio e ottieni il Libro delle Ombre.
+en: Take Albinia to the Altar of the Skull and get the Book of Shadows.
+it: Albinia sopravvive all'estrema durezza di Kron. Il suo coraggio e la sua audacia smisurati la portano a conquistare l'Altare e a impadronirsi del Libro delle Ombre. In fondo al cuore comincia a nutrire un desiderio irrefrenabile di distruggere l'Impero di Arcania e vendicare così la morte di suo padre.
+en: Albinia survives the utter harshness of Kron. Her boundless courage and daring lead her to capture the Altar and seize the Book of Shadows. Deep in her heart she begins to nurse an unstoppable longing to destroy the Empire of Arcania and so avenge her father's death.
+it: La lotta disperata di Aerus non era stata inutile. Grazie alla resistenza del padre, Albinia ebbe il tempo di fuggire viva. Appresa la condanna a morte, capisce che non le resta altra via che fuggire da Arcania.\n\nBollata come maga rinnegata, disprezzata e perseguitata, Albinia vaga fino a raggiungere Kron, cupo rifugio di banditi e fuorilegge.
+en: Aerus's desperate fight had not been in vain. Thanks to her father's resistance, Albinia had time to escape alive. On learning of the death sentence, she understands that she has no choice but to flee Arcania.\n\nBranded a renegade sorceress, scorned and hunted, Albinia wanders until she reaches Kron, a grim haven of bandits and outlaws.
+it: A volte ti sarà utile imparare gli incantesimi dei libri che trovi. (Per farlo, seleziona Albinia e, tenendo premuto il tasto Ctrl, fai clic destro sul libro di incantesimi.)
+en: At times it will help you to learn the spells of the books you find. (To do it, select Albinia and, holding down the Ctrl key, right click on the spell book.)
+it: Una volta imparato l'incantesimo, potrai usarlo dalla scheda del personaggio o con le scorciatoie da tastiera. In quest'ultimo modo sarà molto più rapido neutralizzare il nemico. (Per esempio, se hai già imparato l'incantesimo Congelamento, seleziona Albinia e premi il tasto "Z".)
+en: Once you have learned a spell, you can cast it from the character's card or with the keyboard shortcuts. The latter is a much faster way of stopping the enemy. (For example, if you have already learned the Freeze spell, select Albinia and press the "Z" key.)
+it: Recluta alcuni maghi nella torre magica per aiutare Albinia. Se li raggruppi con le scorciatoie da tastiera, potrai trovarli rapidamente per dare loro ordini. Per raggrupparli, seleziona i maghi e assegna loro un tasto numerico (Ctrl+tasto).
+en: Recruit a few mages in the magic tower to help Albinia. If you group them on keyboard shortcuts you can find them quickly to give them orders. To group them, select the mages and give them a number key (Ctrl+key).
+it: Curare
+en: Heal
+it: Usa il posto di guardia per curare Albinia o le sue truppe. Una volta dentro, cominceranno a riprendersi.
+en: Use the outpost to heal Albinia or her troops. Once inside, they will begin to recover.
+it: Albinia è stata sconfitta.
+en: Albinia has been defeated.
+it: I fuorilegge si mettono al tuo servizio.
+en: The outlaws enter your service.
+it: Sei diventata il loro capo.
+en: You have become their leader.
+it: I banditi hanno pagato con la vita.
+en: The bandits have paid with their lives.
+it: I tuoi servitori sono caduti. Ora sei sola.
+en: Your servants have fallen. Now you are alone.
+it: I fuorilegge si sottomettono alla tua volontà.
+en: The outlaws bow to your will.
+it: Banditi delle montagne!
+en: Mountain bandits!
+it: Ci siamo sbarazzati della sua scorta. Meglio tornare all'accampamento. Se la strega ci segue fin lì, la faremo fuori.
+en: We have got rid of her escort. We had better go back to the camp. If the witch follows us there, we will finish her off.
+it: Vigliacchi! Pagherete cara la morte dei miei servitori. I miei incantesimi basteranno a distruggervi...
+en: Cowards! You will pay dearly for the death of my servants. My spells will be enough to destroy you...
+it: Grazie per averci salvati, potente maga! Molto tempo fa i banditi hanno preso il villaggio e ci hanno fatti prigionieri, privandoci di acqua e di cibo.
+en: Thank you for saving us, mighty sorceress! Long ago the bandits took the village and made us prisoners, keeping us from water and food.
+it: Non temete. Ora siete in salvo... Forse adesso potete aiutarmi voi. Cerco Jaraldur, signore di Kron. Ho sentito dire che è il guerriero più feroce di tutto il territorio e che nessuno è mai riuscito a strappargli il bracciale del potere... Voglio presentarmi davanti a lui e sfidarlo.
+en: Have no fear. You are safe now... Perhaps you can help me in turn. I am looking for Jaraldur, lord of Kron. I have heard he is the fiercest warrior in the whole land and that no one has ever managed to take the bracelet of power from him... I want to stand before him and challenge him.
+it: È una follia, signora. Jaraldur è invincibile e non ha mai avuto pietà di chi ha osato sfidare il suo potere... Ci dispiace, ma non possiamo aiutarvi.
+en: That is madness, my lady. Jaraldur is invincible and has never shown mercy to anyone who dared to challenge his power... We are sorry, but we cannot help you.
+it: Non devi preoccuparti, buon uomo. Se mi darete aiuto, vi proteggerò sempre. Fidatevi di me.
+en: You need not worry, good man. If you give me your help, I will always protect you. Trust me.
+it: Ti prego, non sottopormi al potere dei tuoi incantesimi... Risparmiaci la vita e la mia spada sarà sempre al tuo servizio.
+en: Please, do not subject me to the power of your spells... Spare our lives and my sword will always be at your service.
+it: Sei una potente maga! Non avevo mai assistito a una simile dimostrazione di forza. D'ora in poi avrai in me e nei miei uomini i tuoi servitori più fedeli.
+en: You are a mighty sorceress! I have never witnessed such a show of strength. From now on you will have in me and my men your most faithful servants.
+
+# los dominios de la magia.wcm::maps/reino de terror
+it: Regno del terrore
+en: Reign of Terror
+it: Fiduciosa nell'immenso potere degli incantesimi custoditi nel Libro delle Ombre, Albinia parte alla ricerca di Jaraldur, governatore di Kron e il più spietato dei guerrieri, con il fermo proposito di sfidarlo nel Torneo del Potere.
+en: Trusting in the immense power of the spells kept in the Book of Shadows, Albinia sets out in search of Jaraldur, governor of Kron and the most ruthless of warriors, firmly bent on challenging him in the Tournament of Power.
+it: Villaggio
+en: Village
+it: Kron
+en: Kron
+it: Necromante
+en: Necromancer
+it: Oscuro
+en: Dark
+it: Chiave
+en: Key
+it: Siena
+en: Siena
+it: Rifugio
+en: Refuge
+it: È giunta la mezzanotte. Non essendosi presentata in tempo, Albinia viene catturata e Jaraldur è dichiarato vincitore del torneo. La giovane maga passerà il resto dei suoi giorni come schiava.
+en: Midnight has come. Having failed to arrive in time, Albinia is captured and Jaraldur is declared winner of the tournament. The young sorceress will spend the rest of her days as a slave.
+it: Vittoria
+en: Victory
+it: Jaraldur crolla pesantemente a terra, ferito dai tuoi incantesimi. Albinia viene proclamata nuova governatrice di Kron.
+en: Jaraldur falls heavily to the ground, wounded by your spells. Albinia is proclaimed the new governor of Kron.
+it: Conquista
+en: Conquest
+it: La tua prima decisione da governatrice è guidare un saccheggio delle terre dell'Impero a nord, oltre il fiume, per conquistare terre, ricchezze e ingrossare il tuo esercito di non morti.\n\nUsa le navi, costruisci ponti o cerca un mezzo magico alternativo, e semina il terrore.
+en: Your first decision as governor is to lead a raid on the lands of the Empire to the north, across the river, to win land and riches and swell your army of undead.\n\nUse ships, build bridges or seek some other magic means, and spread terror.
+it: Saccheggio
+en: Plunder
+it: Sarebbe anche una buona idea avviare un commercio marittimo e terrestre con cui rifornire di risorse l'economia del tuo giovane regno.\n\nLa tua missione consiste nel conquistare i quattro castelli del nemico e ottenere 3.000 unità d'oro.
+en: It would also be a good idea to set up trade by sea and by land to supply the economy of your young kingdom with resources.\n\nYour mission is to capture the enemy's four castles and gather 3,000 units of gold.
+it: Conquista i quattro castelli del nemico e ottieni 3.000 unità d'oro.
+en: Capture the enemy's four castles and gather 3,000 units of gold.
+it: Strappa la Spada ai Negromanti oscuri che abitano a nord e presentati con essa nella Sala dello Scheletro prima della mezzanotte.
+en: Take the Sword from the dark Necromancers who dwell in the north and bring it to the Hall of the Skeleton before midnight.
+it: Sconfiggi Jaraldur.
+en: Defeat Jaraldur.
+it: Hai saccheggiato tutta la regione dell'Impero e hai ottenuto le ricchezze che volevi!\nTi proclami Governatrice di Kron.
+en: You have plundered the whole region of the Empire and won the riches you sought!\nYou proclaim yourself Governor of Kron.
+it: La leggenda delle imprese di Albinia si diffonde in ogni angolo della regione. Fuorilegge, banditi, maghi rinnegati... nessuno sfugge all'ammirazione per i poteri magici soprannaturali della giovane. E sono migliaia i seguaci che, senza esitare, si uniscono alla sua causa.\n\nFiduciosa nell'immenso potere degli incantesimi custoditi nel Libro delle Ombre, Albinia parte alla ricerca di Jaraldur, governatore di Kron e il più spietato dei guerrieri, con il fermo proposito di sfidarlo nel Torneo del Potere.\n\nTuttavia, per la prima volta da molto tempo, un brivido le attraversa l'anima... Albinia sa che il fallimento porta inevitabilmente alla morte.
+en: The legend of Albinia's deeds spreads to every corner of the region. Outlaws, bandits, renegade mages... no one can help admiring the young woman's supernatural magic powers. And thousands of followers join her cause without a second thought.\n\nTrusting in the immense power of the spells kept in the Book of Shadows, Albinia sets out in search of Jaraldur, governor of Kron and the most ruthless of warriors, firmly bent on challenging him in the Tournament of Power.\n\nYet for the first time in a long while, a shiver runs through her soul... Albinia knows that failure leads inevitably to death.
+it: Affrettati! La mezzanotte si avvicina.
+en: Hurry! Midnight is drawing near.
+it: Resta appena il tempo per presentarsi all'appuntamento. Affrettati, o preparati a servire come schiava per il resto dei tuoi giorni!
+en: There is barely time left to keep the appointment. Hurry, or get ready to serve as a slave for the rest of your days!
+it: I tuoi generali ti consigliano che questo è il momento propizio, perché molte risorse si stanno consumando nella guerra civile dell'Impero, lasciando la regione poco difesa.\n\nUsa il tuo incantesimo Visione magica per trovare rapidamente i castelli.
+en: Your generals advise you that the time is right, as many resources are being spent on the Empire's civil war, leaving the region poorly defended.\n\nUse your Magic Vision spell to find the castles quickly.
+it: Punizione
+en: Punishment
+it: Hai infranto le sacre regole del Torneo. Ti avevo avvertita che dovevi entrare da sola e senza servirti di trucchi o oggetti magici. Pagherai con la vita...
+en: You have broken the sacred rules of the Tournament. I warned you that you had to come in alone and without the help of tricks or magic objects. You will pay with your life...
+it: Skull è stato ferito nello scontro. Benché indebolito dalle ferite, si riprenderà presto.
+en: Skull has been wounded in the fight. Though weakened by his wounds, he will soon recover.
+it: Banshee è stato ferito in battaglia. Benché indebolito dalle ferite, si riprenderà per la prossima battaglia.
+en: Banshee has been wounded in battle. Though weakened by his wounds, he will recover for the next battle.
+it: Jaraldur è stato ferito in battaglia. Benché indebolito dalle ferite, si riprenderà per servire la sua nuova signora.
+en: Jaraldur has been wounded in battle. Though weakened by his wounds, he will recover to serve his new mistress.
+it: Bandim è stato ferito in battaglia. Benché indebolito dalle ferite, si riprenderà per la prossima battaglia.
+en: Bandim has been wounded in battle. Though weakened by his wounds, he will recover for the next battle.
+it: In virtù degli antichi riti che governano Kron, Jaraldur consegna ad Albinia il Bracciale del Drago, simbolo del dominio assoluto su tutte le terre e del potere sui loro eserciti.\n\nColma di gloria, Albinia sente una voce risuonare sempre più forte dentro di sé, spingendola a sfogare la sua sete di vendetta sull'Impero di Arcania.
+en: By the ancient rites that rule Kron, Jaraldur hands Albinia the Bracelet of the Dragon, symbol of absolute rule over all the lands and of power over their armies.\n\nFilled with glory, Albinia hears a voice ring ever louder within her, urging her to unleash her thirst for vengeance upon the Empire of Arcania.
+it: Albinia è stata assassinata.
+en: Albinia has been murdered.
+it: Uno dei villaggi dell'Impero è stato saccheggiato dalle tue truppe.
+en: One of the villages of the Empire has been plundered by your troops.
+it: Gli abitanti catturati ingrosseranno le file del tuo esercito.
+en: The captured villagers will swell the ranks of your army.
+it: La distruzione e le grida di guerra ti rimbombano nelle orecchie.
+en: Destruction and war cries ring in your ears.
+it: I predoni di Kron sono stati sconfitti.
+en: The raiders of Kron have been defeated.
+it: Le tue truppe sono state annientate.
+en: Your troops have been wiped out.
+it: Jaraldur è morto.
+en: Jaraldur is dead.
+it: Gli abitanti fuggono terrorizzati davanti al tuo potere.
+en: The villagers flee in terror before your power.
+it: Alt! Può passare solo la maga.
+en: Halt! Only the sorceress may pass.
+it: Va bene. Restate qui e tenete gli occhi aperti.
+en: Very well. Stay here and keep your eyes open.
+it: Salute, Albinia. Le tue imprese magiche ti precedono ovunque tu vada. Che cosa ti porta nei miei domini?
+en: Greetings, Albinia. Your magic deeds go before you wherever you go. What brings you to my domains?
+it: Vengo a sfidarti nel Torneo del Potere.
+en: I have come to challenge you in the Tournament of Power.
+it: Credo che il freddo di questo rigido inverno ti abbia annebbiato la mente...\nImmagino tu sappia che chiunque abbia osato sfidarmi nel Torneo del Potere è caduto sotto la mia spada... Che cosa ti fa pensare che avrei pietà di una maga, per quanto bella?
+en: I think the cold of this harsh winter has clouded your mind...\nI suppose you know that all who have dared to challenge me in the Tournament of Power have fallen to my sword... What makes you think I would show mercy to a sorceress, however beautiful?
+it: Risparmiati le chiacchiere, Jaraldur. Conosco le leggi di Kron. So che la tua sconfitta mi renderà la nuova governatrice e che tutti i tuoi eserciti passeranno a me.
+en: Spare me your chatter, Jaraldur. I know the laws of Kron. I know your defeat will make me the new governor and that all your armies will pass to me.
+it: Non so se sei molto coraggiosa o se hai perso il senno, Albinia. Il tuo affronto merita un trattamento speciale. Se perdi, non ti toglierò la vita... sarai soltanto la mia schiava per il resto dei tuoi giorni. Accetti le condizioni del nostro... scontro?
+en: I do not know whether you are very brave or have lost your wits, Albinia. Your insolence deserves special treatment. If you lose, I will not take your life... you will merely be my slave for the rest of your days. Do you accept the terms of our... duel?
+it: Sono pronta ad assumermi tutte le conseguenze. Non ho niente da perdere. Mi dispiace, Jaraldur, ma credo che te ne pentirai...
+en: I am ready to face every consequence. I have nothing to lose. I am sorry, Jaraldur, but I think you will regret it...
+it: Ah, ah, ah... Le regole del Torneo sono chiare: per sfidarmi devi prima sconfiggere i tre negromanti che abitano a nord, sull'altra riva del fiume. Dovrai strappare loro la Spada della Sala dello Scheletro, il luogo sacro dove si terrà il torneo. Ricorda che devi presentarti all'appuntamento prima di mezzanotte. Una volta tornata alla mia fortezza, dirigiti alla Sala. Ti aspetterò. E ricorda: devi entrare da sola! Una volta tornata alla mia fortezza, dirigiti alla Sala, ma ricorda: devi entrare da sola!
+en: Ha, ha, ha... The rules of the Tournament are clear: to challenge me you must first defeat the three necromancers who dwell in the north, on the other side of the river. You will have to take from them the Sword of the Hall of the Skeleton, the sacred place where the tournament will be held. Remember that you must keep the appointment before midnight. Once back at my fortress, make for the Hall. I will be waiting for you. And remember: you must come in alone! Once back at my fortress, make for the Hall, but remember: you must come in alone!
+it: Così farò.
+en: So I will.
+it: Che notizie porti, mia signora?
+en: What news do you bring, my lady?
+it: Jaraldur ha accettato la sfida, ma prima devo sconfiggere i negromanti oscuri del nord. Mettiamoci in cammino! Dobbiamo tornare prima di mezzanotte.
+en: Jaraldur has accepted the challenge, but first I must defeat the dark necromancers of the north. Let us be on our way! We must be back before midnight.
+it: Suggerisco di esplorare il territorio. So che Jaraldur nasconde gelosamente preziosi oggetti magici. Se ce ne impadroniamo potrai usarli a tuo vantaggio nel Torneo.
+en: I suggest we explore the land. I know Jaraldur jealously hides precious magic objects. If we get hold of them you can use them to your advantage in the Tournament.
+it: Così hai osato venire... Devo riconoscere che hai coraggio... O forse è follia? Peccato che la tua leggenda finisca qui...
+en: So you have dared to come... I must admit you have courage... Or is it madness? A pity your legend ends here...
+it: Maledizione, mi hai sconfitto! Non avrei mai pensato che... Ti ho sottovalutata e pagherò il mio errore. Mi inchino davanti a te, potente maga. Il bracciale del potere ti appartiene. Sarò il tuo fedele servitore.
+en: Curses, you have beaten me! I never thought that... I underestimated you and I will pay for my mistake. I bow before you, mighty sorceress. The bracelet of power is yours. I will be your faithful servant.
+it: Benvenuta, Albinia... Ti aspettavamo con impazienza. I nostri esploratori ci hanno avvertiti del tuo arrivo.
+en: Welcome, Albinia... We have been waiting for you eagerly. Our scouts warned us of your coming.
+it: Salute, negromante. Vengo a reclamare il mio diritto a sfidare Jaraldur nel Torneo del Potere. Consegnatemi la spada e vi lascerò vivere!
+en: Greetings, necromancer. I have come to claim my right to challenge Jaraldur in the Tournament of Power. Hand me the sword and I will let you live!
+it: Non così in fretta... Dimostra di meritare un simile privilegio!
+en: Not so fast... Prove that you deserve such a privilege!
+
+# los dominios de la magia.wcm::maps/la traición
+it: Il tradimento
+en: The Betrayal
+it: Una banda di guerrieri, corrotti da Ignatar, ha tradito Albinia e le ha rubato il Bracciale del Potere.\n\nFuriosa, la giovane maga raduna i suoi guerrieri più agguerriti e si lancia all'inseguimento dei ladri attraverso il deserto dello Scorpione.
+en: A band of warriors, bribed by Ignatar, has betrayed Albinia and stolen the Bracelet of Power from her.\n\nFurious, the young sorceress gathers her most battle-hardened warriors and sets off after the thieves across the Desert of the Scorpion.
+it: Seguace
+en: Follower
+it: Fortezza
+en: Fortress
+it: Traditori
+en: Traitors
+it: Recupera il Bracciale del Potere ed elimina i traditori. Poi fuggi fino all'estremità sud della mappa. Albinia deve sopravvivere.
+en: Recover the Bracelet of Power and do away with the traitors. Then flee to the southern end of the map. Albinia must survive.
+it: Pondera con cura le tue decisioni e non lasciarti ingannare dalle apparenze. A volte l'ovvio può essere una trappola mortale.
+en: Weigh your decisions with care and do not be fooled by appearances. At times the obvious can be a deadly trap.
+it: Albinia è caduta in battaglia.
+en: Albinia has fallen in battle.
+it: Un brivido improvviso interrompe il sonno di Albinia in una notte d'inverno. Una banda di guerrieri, corrotti da Ignatar, ha appena tradito la sua fiducia, sottraendole il Bracciale del Potere.\n\nFuriosa, Albinia raduna i suoi guerrieri più agguerriti e si lancia all'inseguimento dei ladri attraverso il deserto dello Scorpione. Dopo una lunga traversata, le sue forze stanno per raggiungere i traditori, che cercano rifugio negli isolotti che spuntano nell'oasi di Nidel...
+en: A sudden shiver breaks Albinia's sleep on a winter night. A band of warriors, bribed by Ignatar, has just betrayed her trust, robbing her of the Bracelet of Power.\n\nFurious, Albinia gathers her most battle-hardened warriors and sets off after the thieves across the Desert of the Scorpion. After a long crossing, her forces are about to catch up with the traitors, who are trying to take refuge on the islets that rise in the oasis of Nidel...
+it: I tuoi sensi magici ti avvertono che un potente esercito si sta dirigendo qui, senza dubbio per impadronirsi del Bracciale del Potere. Devi affrettarti: si trova a soli cinque giorni di distanza.
+en: Your magic senses warn you that a mighty army is heading this way, no doubt to seize the Bracelet of Power. You must hurry: it is only five days away.
+it: Il capo dei traditori è caduto. Assicurati di aver eliminato tutti gli altri membri del gruppo. Le loro vesti gialle li tradiscono.
+en: The leader of the traitors has fallen. Make sure you have done away with the other members of the band. Their yellow clothes give them away.
+it: È passato un giorno...
+en: A day has passed...
+it: Sono passati due giorni da quando Albinia ha avvertito l'avvicinarsi dell'esercito di Arcania...
+en: Two days have passed since Albinia sensed the army of Arcania approaching...
+it: L'esercito di Arcania si trova a un solo giorno di distanza. Affrettati!
+en: The army of Arcania is only a day away. Hurry!
+it: Gli eserciti di Ignatar sono arrivati nella regione: ogni possibilità di recuperare il Bracciale del Potere è svanita.
+en: Ignatar's armies have reached the region: every chance of recovering the Bracelet of Power is gone.
+it: Albinia si trova molto vicina alla fortezza di Nidel. I maghi della torre ovest tengono nascosto il Bracciale dentro il libro della Resurrezione. La fortezza è molto ben difesa e un attacco diretto sarebbe un suicidio. Forse dall'alto, o con un gruppo di soldati esperti nell'arte di passare inosservati, avremo una possibilità.
+en: Albinia is very close to the fortress of Nidel. The mages of the west tower keep the Bracelet hidden inside the book of Resurrection. The fortress is very well defended and a direct attack would be suicide. Perhaps from the air, or with a group of soldiers skilled in the art of going unnoticed, we will have a chance.
+it: Sono trascorsi tre giorni...
+en: Three days have gone by...
+it: I ladri sono arrivati alla fortezza di Nidel e hanno consegnato il Bracciale del Potere agli stregoni della torre nord-ovest. Grazie alla sua visione magica, la giovane Albinia può vedere il Bracciale nascosto dentro un libro della Resurrezione, con l'intenzione di celarle la sua presenza.
+en: The thieves have reached the fortress of Nidel and handed the Bracelet of Power to the sorcerers of the north-west tower. Thanks to her magic vision, young Albinia can see the Bracelet hidden inside a book of Resurrection, meant to keep its presence from her.
+it: Dopo una cruenta lotta con gli stregoni della fortezza di Nidel, Albinia recupera l'agognato Bracciale. Tuttavia, l'esercito di Arcania si avvicina al campo di battaglia, deciso a porre fine alle imprese della giovane maga. Senza tempo per riposare, Albinia e i suoi guerrieri sfiniti si dirigono verso la Gola della Morte, nella speranza di sfuggire a questa nuova minaccia...
+en: After a bloody fight with the sorcerers of the fortress of Nidel, Albinia recovers the coveted Bracelet. But the army of Arcania is nearing the battlefield, set on putting an end to the young sorceress's exploits. With no time to rest, Albinia and her exhausted warriors head for the Gorge of Death, hoping to escape this new threat...
+it: Obiettivi
+en: Objectives
+it: Skull, che conosce bene questo territorio, informa Albinia che a est ci sono diverse isole con risorse sufficienti per costruire nuovi ponti.
+en: Skull, who knows this land well, tells Albinia that to the east there are several islands with enough resources to build new bridges.
+it: Elimina tutti i traditori. Albinia deve sopravvivere.
+en: Do away with all the traitors. Albinia must survive.
+it: Albinia e il suo gruppo sono stati sconfitti.
+en: Albinia and her band have been defeated.
+it: Della fortezza non hai lasciato pietra su pietra.
+en: You have not left one stone upon another in the fortress.
+it: Tutti i ladri sono stati giustiziati e hanno pagato il loro tradimento.
+en: All the thieves have been executed and have paid for their betrayal.
+it: Maledetti ladri! Hanno il bracciale del potere sul carro. Non lasciate che attraversino il ponte! Fermateli.
+en: Cursed thieves! They have the bracelet of power on the cart. Do not let them cross the bridge! Stop them.
+it: Presto, attraversate! Le schiere di Albinia stanno per raggiungerci! Abbattete il ponte! Solo così potremo liberarci di loro.
+en: Quickly, cross! Albinia's hosts are about to catch up with us! Bring down the bridge! It is the only way to be rid of them.
+it: Vi annienterò! Non avrò pietà degli adoratori di Ignatar.
+en: I will destroy you! I will show no mercy to the worshippers of Ignatar.
+it: Attenzione! Hanno abbattuto il ponte! Presto, cerchiamo un'altra strada... Non devono fuggire! Per fortuna ho potuto lanciare un incantesimo di localizzazione. Per un po' sapremo dove si trovano.
+en: Look out! They have brought down the bridge! Quickly, let us find another way... They must not escape! Luckily I was able to cast a tracking spell. For a while, we will know where they are.
+it: Mmm, credo che si dirigano verso la fortezza di Nidel... Quel gruppo di isole nasconde più di una sorpresa. Dovremo scegliere con molta cura la strada giusta. Userò l'incantesimo Visione magica per individuare le isole che hanno le risorse necessarie per costruire nuovi ponti.
+en: Hmm, I think they are heading for the fortress of Nidel... That group of islands holds more than one surprise. We will have to choose the right path with great care. I will use the Magic Vision spell to find the islands that have the resources needed to build new bridges.

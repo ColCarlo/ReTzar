@@ -3313,14 +3313,15 @@ fn the_last_lesson_is_won_by_six_stone_towers_and_leaving_the_field() {
     assert!(p.sim.gameplay.script.next_map.is_none());
 }
 
-// The American campaign, «The Burden of the Crown» (`TZAR.WCM` of the US
-// CD), is not played through: its nineteen maps are opened and their
+// The campaigns of the other editions, «The Burden of the Crown»
+// (`TZAR.WCM` of the US CD) and «Los Dominios de la Magia» (FX's Spanish
+// edition), are not played through: their maps are opened and their
 // openings run, every rule of every script is made true on a copy and run
 // to its last action, every conversation is walked down each of its
 // choices, every map is reached through the `LoadMap` of the one before
 // with its heroes, and every text the player reads is found in Italian.
 
-/// The maps of the campaign.
+/// The maps of the American campaign.
 const AMERICAN: [&str; 19] = [
     "v_00",
     "saa3",
@@ -3343,12 +3344,35 @@ const AMERICAN: [&str; 19] = [
     "ultimate",
 ];
 
-/// A map of the American campaign, when its CD is there.
-fn american(map: &str) -> Option<Play> {
-    crate::scenario::american_campaign(root())?;
+/// The maps of the Spanish edition's campaign, in the order of its story.
+const DOMINIOS: [&str; 8] = [
+    "huida en la noche",
+    "desde las filas de los proscritos",
+    "reino de terror",
+    "la traición",
+    "acorralada",
+    "una alianza inesperada",
+    "el reloj de arena",
+    "el sacrificio",
+];
+/// The campaigns of the other editions: their file and their maps, the
+/// first to the last.
+const OTHERS: [(&str, &[&str]); 2] = [
+    ("tzar.wcm", &AMERICAN),
+    ("los dominios de la magia.wcm", &DOMINIOS),
+];
+
+/// A map of another edition's campaign, when it is there.
+fn other_edition(file: &str, map: &str) -> Option<Play> {
     let catalog = crate::scenario::ScenarioCatalog::load(root()).unwrap();
-    let (campaign, mission) = catalog.locate(&format!("tzar.wcm::maps/{map}"))?;
+    let (campaign, mission) = catalog.locate(&format!("{file}::maps/{map}"))?;
     Some(Play::open_at(&catalog, campaign?, mission))
+}
+/// Every map of the other editions' campaigns, with its file.
+fn other_maps() -> impl Iterator<Item = (&'static str, &'static str)> {
+    OTHERS
+        .iter()
+        .flat_map(|&(file, maps)| maps.iter().map(move |&map| (file, map)))
 }
 
 impl Play {
@@ -3399,7 +3423,18 @@ impl Play {
         q.sim.gameplay.script.trace.0 = Some(Vec::new());
         q.m.script.rules[r].condition = "1".into();
         let now = q.sim.ticks * TICK_MS;
+        // Its delays begin afresh: a run of it, or of another rule naming
+        // them, may be waiting on them (one flag per action, as natively).
+        let delays: Vec<usize> = q.m.script.rules[r]
+            .actions
+            .iter()
+            .filter_map(|a| q.m.script.action(a))
+            .filter(|&i| matches!(q.m.script.actions[i].value, crate::script::Action::Delay(_)))
+            .collect();
         let st = &mut q.sim.gameplay.script;
+        for i in delays {
+            st.waiting.remove(&i);
+        }
         st.rules.retain(|run| run.rule != r);
         st.sequence += 1;
         st.rules.push(super::scripting::RuleRun {
@@ -3435,13 +3470,13 @@ impl Play {
 }
 
 #[test]
-#[ignore = "Requires the installed original archives and the American CD in USA"]
-fn every_rule_of_the_american_campaign_runs_to_its_last_action() {
+#[ignore = "Requires the installed original archives, the American CD and the Spanish edition"]
+fn every_rule_of_the_other_editions_campaigns_runs_to_its_last_action() {
     let mut problems = Vec::new();
     let mut rules = 0;
-    for map in AMERICAN {
-        let Some(mut p) = american(map) else {
-            return;
+    for (file, map) in other_maps() {
+        let Some(mut p) = other_edition(file, map) else {
+            continue;
         };
         // The opening as it plays, the player standing.
         p.watch(20, true, |_| false);
@@ -3460,7 +3495,7 @@ fn every_rule_of_the_american_campaign_runs_to_its_last_action() {
             }
         }
     }
-    assert!(rules > 300, "{rules}");
+    assert!(rules == 0 || rules > 100, "{rules}");
     assert!(problems.is_empty(), "{}", problems.join("\n"));
 }
 
@@ -3487,14 +3522,14 @@ fn walk(mut q: Play, said: &mut BTreeSet<usize>, depth: usize) {
 }
 
 #[test]
-#[ignore = "Requires the installed original archives and the American CD in USA"]
-fn every_conversation_of_the_american_campaign_is_walked_down_each_choice() {
+#[ignore = "Requires the installed original archives, the American CD and the Spanish edition"]
+fn every_conversation_of_the_other_editions_campaigns_is_walked_down_each_choice() {
     use crate::script::{Action, Named};
     let mut talks = 0;
     let mut unsaid = Vec::new();
-    for map in AMERICAN {
-        let Some(mut p) = american(map) else {
-            return;
+    for (file, map) in other_maps() {
+        let Some(mut p) = other_edition(file, map) else {
+            continue;
         };
         p.watch(2, true, |_| false);
         for (k, c) in p.m.conversations.clone().iter().enumerate() {
@@ -3548,19 +3583,26 @@ fn every_conversation_of_the_american_campaign_is_walked_down_each_choice() {
             }
         }
     }
-    assert!(talks > 20, "{talks}");
+    assert!(talks == 0 || talks > 20, "{talks}");
     assert!(unsaid.is_empty(), "{}", unsaid.join("\n"));
 }
 
 #[test]
-#[ignore = "Requires the installed original archives and the American CD in USA"]
-fn the_american_campaign_leads_from_its_first_map_to_the_last() {
+#[ignore = "Requires the installed original archives, the American CD and the Spanish edition"]
+fn the_other_editions_campaigns_lead_from_their_first_map_to_the_last() {
+    for (file, maps) in OTHERS {
+        if let Some(first) = other_edition(file, maps[0]) {
+            leads(file, maps, first);
+        }
+    }
+}
+
+/// Every map of the campaign `file` is reached from the first, and only
+/// the last ends it; the American one with the movie of the end.
+fn leads(file: &str, maps: &[&str], first: Play) {
     use crate::script::Action;
-    let Some(first) = american("v_00") else {
-        return;
-    };
-    let mut seen = BTreeSet::from(["v_00".to_owned()]);
-    let mut queue = vec![("v_00".to_owned(), first)];
+    let mut seen = BTreeSet::from([maps[0].to_owned()]);
+    let mut queue = vec![(maps[0].to_owned(), first)];
     let mut ends = Vec::new();
     let mut problems = Vec::new();
     while let Some((map, mut p)) = queue.pop() {
@@ -3575,6 +3617,10 @@ fn the_american_campaign_leads_from_its_first_map_to_the_last() {
                 })
                 .collect();
         if targets.is_empty() {
+            ends.push(map.clone());
+            if file != "tzar.wcm" {
+                continue;
+            }
             // The last map: its victory plays the movie of the end.
             let mut movies = Vec::new();
             for r in 0..p.m.script.rules.len() {
@@ -3592,7 +3638,6 @@ fn the_american_campaign_leads_from_its_first_map_to_the_last() {
             {
                 problems.push(format!("{map}: nessun filmato finale ({movies:?})"));
             }
-            ends.push(map);
             continue;
         }
         for (path, action) in targets {
@@ -3612,9 +3657,14 @@ fn the_american_campaign_leads_from_its_first_map_to_the_last() {
                 .to_ascii_lowercase()
                 .trim_end_matches(".wmp")
                 .to_owned();
-            // A hero the next map knows comes with what it had.
+            // A hero the next map carries comes with what it had (a thing on
+            // the ground may bear the name too).
             for h in &carried {
-                if let Some(o) = next.m.objects.iter().find(|o| o.name == h.name)
+                if let Some(o) = next
+                    .m
+                    .objects
+                    .iter()
+                    .find(|o| o.name == h.name && o.flags & crate::world::FLAG_CARRIED != 0)
                     && o.health == 0
                 {
                     problems.push(format!("{name}: eroe «{}» senza salute", h.name));
@@ -3625,10 +3675,10 @@ fn the_american_campaign_leads_from_its_first_map_to_the_last() {
             }
         }
     }
-    let all: BTreeSet<String> = AMERICAN.iter().map(|m| m.to_string()).collect();
-    assert_eq!(seen, all, "mappe raggiunte");
-    assert_eq!(ends, ["ultimate"]);
-    assert!(problems.is_empty(), "{}", problems.join("\n"));
+    let all: BTreeSet<String> = maps.iter().map(|m| m.to_string()).collect();
+    assert_eq!(seen, all, "{file}: mappe raggiunte");
+    assert_eq!(ends, maps[maps.len() - 1..], "{file}");
+    assert!(problems.is_empty(), "{file}: {}", problems.join("\n"));
 }
 
 /// Every text a mission shows, as `lang::localize_mission` swaps them.
@@ -3671,10 +3721,14 @@ fn every_campaign_mission_is_told_written_in_its_language() {
     for scenario in catalog.campaigns.iter().flat_map(|c| c.missions.iter()) {
         let world =
             MissionWorld::read(&scenario.container().unwrap(), &scenario.grid().unwrap()).unwrap();
-        // FX's campaigns and tutorial speak Italian, the American one English.
-        let expected = match scenario.id.starts_with("tzar.wcm::") {
-            true => Language::English,
-            false => Language::Italian,
+        // FX's campaigns and tutorial speak Italian, the American one English,
+        // the Spanish edition's own Spanish.
+        let expected = if crate::scenario::is_american(&scenario.file) {
+            Language::English
+        } else if crate::scenario::is_spanish(&scenario.file) {
+            Language::Spanish
+        } else {
+            Language::Italian
         };
         if world.written_in != Some(expected) {
             wrong.push(format!("{}: {:?}", scenario.id, world.written_in));
@@ -3730,16 +3784,15 @@ fn every_text_of_every_mission_reads_in_every_language() {
 }
 
 #[test]
-#[ignore = "Requires the installed original archives and the American CD in USA"]
-fn every_text_of_the_american_campaign_reads_in_italian() {
-    if crate::scenario::american_campaign(root()).is_none() {
-        return;
-    }
+#[ignore = "Requires the installed original archives, the American CD and the Spanish edition"]
+fn every_text_of_the_other_editions_campaigns_reads_in_italian() {
     let catalog = crate::scenario::ScenarioCatalog::load(root()).unwrap();
     let mut missing = BTreeSet::new();
     let mut texts = 0;
-    for map in AMERICAN {
-        let (c, m) = catalog.locate(&format!("tzar.wcm::maps/{map}")).unwrap();
+    for (file, map) in other_maps() {
+        let Some((c, m)) = catalog.locate(&format!("{file}::maps/{map}")) else {
+            continue;
+        };
         let scenario = &catalog.campaigns[c.unwrap()].missions[m];
         let world =
             MissionWorld::read_original(&scenario.container().unwrap(), &scenario.grid().unwrap())
@@ -3755,12 +3808,20 @@ fn every_text_of_the_american_campaign_reads_in_italian() {
             let name = text.split_whitespace().count() <= 3
                 && text.chars().next().is_some_and(char::is_uppercase)
                 && !text.contains(['.', ',', '?', ':', ';']);
-            if !name && crate::lang::translate(&text, crate::lang::Language::Italian).is_none() {
+            // The Spanish catalog has each text, which reads in Italian
+            // (`lang::missions`), names too.
+            let read = match file {
+                "tzar.wcm" => {
+                    name || crate::lang::translate(&text, crate::lang::Language::Italian).is_some()
+                }
+                _ => crate::lang::written_in(&text, crate::lang::Language::Spanish),
+            };
+            if !read {
                 missing.insert(format!("{map}: «{text}»"));
             }
         }
     }
-    assert!(texts > 500, "{texts}");
+    assert!(texts == 0 || texts > 500, "{texts}");
     assert!(
         missing.is_empty(),
         "{} testi senza italiano:\n{}",

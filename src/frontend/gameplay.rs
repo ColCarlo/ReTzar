@@ -1415,8 +1415,8 @@ fn order_marker(
 /// empty name or a missing file only silences the one before.
 pub(super) fn speak(world: &World, scene: &Scene, name: &str) {
     // The maps' voices are recordings in the language of their texts (FX's
-    // Italian campaigns; the American release has none), so in any other
-    // language the lines are read, not heard.
+    // Italian campaigns, its Spanish one; the American release has none), so
+    // in any other language the lines are read, not heard.
     let key = if !retzar::lang::voiced(scene.mission.written_in) {
         String::new()
     } else {
