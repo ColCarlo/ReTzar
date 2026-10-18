@@ -1479,8 +1479,11 @@ impl Pilot {
                 ];
                 let listed = self.listed(s);
                 let n = self.wanted(s, listed.len()).max(1);
-                let mut out: Vec<usize> =
-                    listed.into_iter().filter(|&i| !self.inside(i, r)).collect();
+                // A building is not carried: another is raised there.
+                let mut out: Vec<usize> = listed
+                    .into_iter()
+                    .filter(|&i| !self.inside(i, r) && !self.p.m.objects[i].building())
+                    .collect();
                 out.sort_by_key(|&i| gap([self.p.m.objects[i].x, self.p.m.objects[i].y], to));
                 let ids: Vec<u16> = out
                     .iter()
@@ -1490,8 +1493,28 @@ impl Pilot {
                 // A building wanted there that nobody has built.
                 if ids.is_empty() && s.by_class && (39..=73).contains(&s.class) {
                     let owner = (1..=8u8).find(|&p| s.kingdoms & 1 << (p - 1) != 0)?;
-                    let id = self.raise(s.class as usize, owner, r)?;
-                    return Some(format!("eretto #{id} di classe {}", s.class));
+                    if let Some(id) = self.raise(s.class as usize, owner, r) {
+                        return Some(format!("eretto #{id} di classe {}", s.class));
+                    }
+                    // No room: the enemies' objects there struck down first,
+                    // as the player takes the place.
+                    let player = self.player();
+                    let foes: Vec<usize> = (0..self.p.m.objects.len())
+                        .filter(|&i| {
+                            let o = &self.p.m.objects[i];
+                            (1..=8).contains(&o.owner)
+                                && !self.p.m.controls(o.owner)
+                                && relation(&self.p.m, player, o.owner) & 0x40 == 0
+                                && self.present(i)
+                                && self.inside(i, r)
+                                && (crate::selection::unit(o) || o.building())
+                        })
+                        .collect();
+                    if foes.is_empty() {
+                        return None;
+                    }
+                    self.strike(&foes);
+                    return Some(format!("sgomberati {} oggetti", foes.len()));
                 }
                 // Each set down in the area, on its ground; a walker where the
                 // area is sea, aboard the player's ships.
