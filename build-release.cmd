@@ -5,9 +5,9 @@ rem Builds "release", the portable copy of ReTzar: ReTzar.exe and ReTzar.dat,
 rem the sealed pack of what ReTzar reads from an installed Tzar of any
 rem edition (CD, GOG or Steam; with the American CD also its campaign and
 rem movies), in modern formats and checked file by file.
-rem Without the original game, a ReTzar.dat already in "release" is kept and
-rem only ReTzar.exe is rebuilt, so the game never has to be installed again.
-rem Settings, progress and saves already in "release" stay.
+rem A ReTzar.dat already in "release", such as the release zip's with every
+rem edition, is kept and only ReTzar.exe is rebuilt, unless a folder is
+rem given. Settings, progress and saves already in "release" stay.
 rem The original game: the folder given to this script, TZAR_DATA_ROOT, or
 rem the folder that holds the project. The American CD: USA\CD\SETUP\Tzar
 rem inside it, or TZAR_USA_ROOT.
@@ -18,6 +18,7 @@ set "USA=%TZAR%\USA\CD\SETUP\Tzar"
 if defined TZAR_USA_ROOT set "USA=%TZAR_USA_ROOT%"
 set "DEST=%~dp0release"
 
+if "%~1"=="" if exist "%DEST%\ReTzar.dat" goto exe_only
 if not exist "%TZAR%\Maps\" goto no_game
 if exist "%TZAR%\Packs\" goto full
 if exist "%TZAR%\IMAGES\" goto full
@@ -34,8 +35,7 @@ if exist "%USA%\Packs\movies.wdt" set "PACK=american"
 goto build
 
 :exe_only
-echo Tzar not found in "%TZAR%":
-echo the ReTzar.dat already in "%DEST%" is kept, only ReTzar.exe is rebuilt.
+echo The ReTzar.dat already in "%DEST%" is kept, only ReTzar.exe is rebuilt.
 set "PACK=none"
 
 :build

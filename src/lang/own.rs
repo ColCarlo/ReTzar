@@ -814,6 +814,10 @@ pub const ENGLISH: &[(&str, &str)] = &[
         "In {} non c'è una copia originale di Tzar.\n\nScegli la cartella in cui è installato il gioco.",
         "There is no original copy of Tzar in {}.\n\nChoose the folder where the game is installed.",
     ),
+    (
+        "Benvenuto in ReTzar! Il gioco è già completo: per avviarlo serve solo una copia di Tzar, di qualsiasi edizione e lingua. Scegli la cartella in cui è installato e ReTzar la ricorderà.",
+        "Welcome to ReTzar! The game is already complete: to start it you only need a copy of Tzar, of any edition and language. Choose the folder where it is installed and ReTzar will remember it.",
+    ),
     // The first start of the portable copy (`first_start.rs`).
     (
         "Benvenuto in ReTzar! Il gioco usa la tua copia di Tzar (GOG, Steam o CD): scegli la cartella in cui è installato e ReTzar ne ricaverà i suoi dati. Serve solo la prima volta.",

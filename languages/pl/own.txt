@@ -1053,6 +1053,9 @@ pl: Do gry w ReTzar potrzebujesz oryginalnej kopii Tzar (z płyty CD, z GOG lub 
 it: In {} non c'è una copia originale di Tzar.\n\nScegli la cartella in cui è installato il gioco.
 pl: W {} nie ma oryginalnej kopii Tzar.\n\nWybierz folder, w którym jest zainstalowana gra.
 
+it: Benvenuto in ReTzar! Il gioco è già completo: per avviarlo serve solo una copia di Tzar, di qualsiasi edizione e lingua. Scegli la cartella in cui è installato e ReTzar la ricorderà.
+pl: Witaj w ReTzar! Gra jest już kompletna: do jej uruchomienia potrzebujesz tylko kopii Tzar, w dowolnym wydaniu i języku. Wybierz folder, w którym jest zainstalowana, a ReTzar go zapamięta.
+
 it: Benvenuto in ReTzar! Il gioco usa la tua copia di Tzar (GOG, Steam o CD): scegli la cartella in cui è installato e ReTzar ne ricaverà i suoi dati. Serve solo la prima volta.
 pl: Witaj w ReTzar! Gra korzysta z twojej kopii Tzar (GOG, Steam lub CD): wybierz folder, w którym jest zainstalowana, a ReTzar utworzy z niej swoje dane. Potrzebne jest to tylko za pierwszym razem.
 

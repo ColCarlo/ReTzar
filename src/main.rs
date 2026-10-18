@@ -32,8 +32,8 @@ fn main() {
         return;
     }
     let mut locations = Locations::resolve(&args);
-    // The portable copy as it is downloaded: its data are made at the
-    // first start from the player's own Tzar.
+    // An executable without its data, as built from the sources: they are
+    // made at the first start from the player's own Tzar.
     if locations.is_err()
         && let Some(exe_dir) = std::env::current_exe()
             .ok()
@@ -72,7 +72,7 @@ fn at(text: &str) -> Result<[f32; 3]> {
 }
 
 fn run(locations: &Locations, args: &[String]) -> Result<()> {
-    // The game's data from a pack: it plays only beside an original copy.
+    // The game's data from a pack: it plays only beside a copy of Tzar.
     if locations.source.is_file() {
         retzar::original::require(&locations.root)?;
     }

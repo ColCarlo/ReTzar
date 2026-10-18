@@ -1,7 +1,8 @@
-//! The first start of the portable copy as it is downloaded, without its
-//! data (`ReTzar.dat`) beside the executable: ReTzar asks for the player's
-//! Tzar folder, of any edition, checks that it holds the original game and
-//! makes its data pack from it, once.
+//! The first start of an executable without its data (`ReTzar.dat`)
+//! beside it, as built from the sources: ReTzar asks for the player's Tzar
+//! folder, of any edition, checks that it holds the original game and makes
+//! its data pack from it, once, with that edition's content. The release
+//! ships the whole pack instead ([`original::require`]).
 use crate::{Result, invalid, lang, original, pack, packing, paths, picker};
 use std::path::{Path, PathBuf};
 

@@ -31,6 +31,7 @@ jobs:
           Copy-Item target/release/retzar.exe ReTzar/ReTzar.exe
           Copy-Item .github/release/README.txt ReTzar/README.txt
           Copy-Item LICENSE ReTzar/LICENSE.txt
+          Copy-Item DATA-LICENSE.md ReTzar/DATA-LICENSE.txt
           Compress-Archive ReTzar "ReTzar-$version-windows.zip"
           "VERSION=$version" >> $env:GITHUB_ENV
       - name: Release

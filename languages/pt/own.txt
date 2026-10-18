@@ -1053,6 +1053,9 @@ pt: Para jogar ReTzar precisas de uma cópia original do Tzar (do CD, do GOG ou 
 it: In {} non c'è una copia originale di Tzar.\n\nScegli la cartella in cui è installato il gioco.
 pt: Em {} não há uma cópia original do Tzar.\n\nEscolhe a pasta onde o jogo está instalado.
 
+it: Benvenuto in ReTzar! Il gioco è già completo: per avviarlo serve solo una copia di Tzar, di qualsiasi edizione e lingua. Scegli la cartella in cui è installato e ReTzar la ricorderà.
+pt: Bem-vindo ao ReTzar! O jogo já está completo: para o iniciar só precisas de uma cópia do Tzar, de qualquer edição e idioma. Escolhe a pasta onde está instalado e o ReTzar vai lembrá-la.
+
 it: Benvenuto in ReTzar! Il gioco usa la tua copia di Tzar (GOG, Steam o CD): scegli la cartella in cui è installato e ReTzar ne ricaverà i suoi dati. Serve solo la prima volta.
 pt: Bem-vindo ao ReTzar! O jogo usa a tua cópia do Tzar (GOG, Steam ou CD): escolhe a pasta onde está instalado e o ReTzar criará a partir dela os seus dados. Só é preciso da primeira vez.
 
