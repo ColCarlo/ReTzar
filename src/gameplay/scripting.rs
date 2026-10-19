@@ -1499,25 +1499,25 @@ impl Host for Ctx<'_> {
                 self.st.outbox.push(Show::ClearSelection);
                 0
             }
-            Function::God => {
-                if let Some(i) = object {
+            // 0x4b869f: 1 with an object.
+            Function::God => match object {
+                Some(i) => {
                     if a[0] != 0 {
                         self.m.objects[i].flags |= FLAG_GOD;
                     } else {
                         self.m.objects[i].flags &= !FLAG_GOD;
                     }
+                    1
                 }
-                0
-            }
+                None => 0,
+            },
+            // 0x4b83a0: a site gets 999999 of building (vt+0x2b8) and ends
+            // as any finished site does.
             Function::Build => {
                 if let Some(i) =
                     object.filter(|&i| self.m.objects[i].flags & FLAG_CONSTRUCTION != 0)
                 {
-                    let a = &mut self.sim.gameplay.actors[i];
-                    a.construction = 0;
-                    let o = &mut self.m.objects[i];
-                    o.flags &= !FLAG_CONSTRUCTION;
-                    o.health = o.max_health;
+                    super::complete_site(self.sim, self.m, self.lib, i);
                 }
                 0
             }
@@ -1532,8 +1532,14 @@ impl Host for Ctx<'_> {
         match p {
             Property::Health => o.health as i32,
             Property::MaxHealth => o.max_health as i32,
-            Property::Attack => s.attack as i32,
-            Property::Defence => s.defence as i32,
+            // 0x4b8b4f, 0x4b8b70: the record's own words (+0x62, +0x60), without
+            // what the level adds at each use.
+            Property::Attack => {
+                (s.attack as i64 - crate::simulation::level_bonus(o, s.level)[0] as i64) as i32
+            }
+            Property::Defence => {
+                (s.defence as i64 - crate::simulation::level_bonus(o, s.level)[1] as i64) as i32
+            }
             Property::Level => s.level as i32,
             Property::Manna => s.mana as i32,
             Property::MaxManna => s.max_mana as i32,
@@ -1541,10 +1547,10 @@ impl Host for Ctx<'_> {
             Property::Race => o.civilization as i32,
             Property::X => o.x as i32,
             Property::Y => o.y as i32,
-            Property::Cargo => {
-                let cargo = self.sim.gameplay.actors.get(i).map_or([0; 4], |a| a.cargo);
-                cargo.iter().sum::<u32>() as i32
-            }
+            // 0x4b8c76: the count (+8) of the holder's list (+0x76) that every
+            // boarding adds to (0x507940): what is aboard or inside, a
+            // hero's items too; nothing for an object with no room.
+            Property::Cargo => s.contents.len() as i32,
             // Flag 1 of the object: selected by the local player.
             Property::IsSelected => self.sim.gameplay.selected.contains(&i) as i32,
             Property::InHolder => s.holder.map_or(0, |h| self.m.objects[h].id as i32),
@@ -1565,17 +1571,20 @@ impl Host for Ctx<'_> {
                 }
             }
             Property::MaxHealth => self.m.objects[i].max_health = clamp(v, 1),
-            Property::Attack => self.sim.objects[i].attack = v.max(1) as u32,
-            Property::Defence => self.sim.objects[i].defence = v.max(0) as u32,
-            Property::Level => {
-                let target = clamp(v, 0);
-                let level = self.sim.objects[i].level;
-                if target > level {
-                    add_levels(self.sim, self.m, self.lib, i, target - level);
+            // 0x4b9003, 0x4b902c: the record's own words; the level still adds
+            // to them.
+            Property::Attack | Property::Defence => {
+                let s = &mut self.sim.objects[i];
+                let bonus = crate::simulation::level_bonus(&self.m.objects[i], s.level);
+                if p == Property::Attack {
+                    s.attack = v.max(1) as u32 + bonus[0];
                 } else {
-                    self.sim.objects[i].level = target;
+                    s.defence = v.max(0) as u32 + bonus[1];
                 }
             }
+            // 0x4b9052: the level as is (+0x66), down as up; what it adds to
+            // attack and defence follows.
+            Property::Level => set_level(self.sim, self.m, self.lib, i, clamp(v, 0)),
             Property::Manna => self.sim.objects[i].mana = clamp(v, 0),
             Property::MaxManna => self.sim.objects[i].max_mana = clamp(v, 0),
             _ => {}

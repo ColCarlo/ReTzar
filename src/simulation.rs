@@ -332,31 +332,11 @@ impl ObjectState {
             255 => record_sight,
             n => n as u16,
         };
-        let unit = crate::selection::unit(o);
         let category = weapon_category(o.class);
-        let bow = category == 1;
-        let tower = (39..=43).contains(&o.class);
-        // Original 0x4de7d0 / 0x4de880: bows gain half an attack point per
-        // level (rounded up) for a kingdom owner; neutral units gain a full
-        // point. Defence gains a point every four bow levels, two otherwise.
-        // Towers use the base object's full level bonus (0x502630).
+        let [more_attack, more_defence] = level_bonus(o, level);
         Self {
-            attack: attack
-                + if unit || tower {
-                    if unit && bow && o.owner != 0 {
-                        (level as u32).div_ceil(2)
-                    } else {
-                        level as u32
-                    }
-                } else {
-                    0
-                },
-            defence: defence
-                + if unit {
-                    (level as u32).div_ceil(if bow { 4 } else { 2 })
-                } else {
-                    0
-                },
+            attack: attack + more_attack,
+            defence: defence + more_defence,
             level,
             mana,
             max_mana,
@@ -367,6 +347,32 @@ impl ObjectState {
             ..Self::default()
         }
     }
+}
+/// What `level` adds to attack and defence (0x4de7d0, 0x4de880): the getters
+/// count it at each use over the record's own values (+0x62, +0x60). Bows
+/// gain half an attack point per level (rounded up) for a kingdom owner;
+/// neutral units gain a full point. Defence gains a point every four bow
+/// levels, two otherwise. Towers use the base object's full level bonus
+/// (0x502630).
+pub fn level_bonus(o: &MapObject, level: u16) -> [u32; 2] {
+    let unit = crate::selection::unit(o);
+    let bow = weapon_category(o.class) == 1;
+    let tower = (39..=43).contains(&o.class);
+    let attack = if unit || tower {
+        if unit && bow && o.owner != 0 {
+            (level as u32).div_ceil(2)
+        } else {
+            level as u32
+        }
+    } else {
+        0
+    };
+    let defence = if unit {
+        (level as u32).div_ceil(if bow { 4 } else { 2 })
+    } else {
+        0
+    };
+    [attack, defence]
 }
 /// Cells an object covers: buildings and mines by their picture, anything
 /// else one cell.

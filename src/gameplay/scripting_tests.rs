@@ -776,6 +776,133 @@ fn a_script_sets_health_above_the_maximum() {
 
 #[test]
 #[ignore = "Requires installed original archives"]
+fn a_script_reads_and_writes_attack_and_defence_without_the_level() {
+    let (c, lib, mut m, mut g, mut sim) = setup(1);
+    let at = [m.objects[1].x + 2, m.objects[1].y + 2];
+    let unit = new_unit(&mut sim, &mut m, &lib, class::FOOTMAN, 1, 1, at).unwrap();
+    add_levels(&mut sim, &mut m, &lib, unit, 4);
+    let attack = sim.objects[unit].attack;
+    let id = m.objects[unit].id;
+    m.script = Script {
+        actions: vec![named(
+            "cid",
+            Action::SetProperty(
+                ids(&[id]),
+                "$kept = $attack; $attack = 17; $defence = 8; $level = 1".into(),
+            ),
+        )],
+        rules: vec![rule("start", "1", &["cid"])],
+        ..Default::default()
+    };
+    run_ticks(&mut sim, &mut m, &mut g, &lib, &c, 2);
+    // 0x4b8b4f reads the record's +0x62, without the 4 points of level 4
+    // the getter adds (0x4de7d0); the setter writes +0x62 and +0x60
+    // (0x4b9003, 0x4b902c) and the level as is (0x4b9052): level 1 adds
+    // 1 to each.
+    assert_eq!(
+        sim.gameplay.script.variables.get("$kept"),
+        attack as i32 - 4
+    );
+    assert_eq!(
+        (sim.objects[unit].attack, sim.objects[unit].defence),
+        (18, 9)
+    );
+    assert_eq!(sim.objects[unit].level, 1);
+}
+
+#[test]
+#[ignore = "Requires installed original archives"]
+fn cargo_counts_what_is_aboard() {
+    let (c, lib, mut m, mut g, mut sim) = setup(1);
+    let at = [m.objects[1].x + 2, m.objects[1].y + 2];
+    let castle = new_unit(
+        &mut sim,
+        &mut m,
+        &lib,
+        class::CASTLE,
+        1,
+        1,
+        [at[0] + 6, at[1]],
+    )
+    .unwrap();
+    let a = new_unit(&mut sim, &mut m, &lib, class::PEON, 1, 1, at).unwrap();
+    let b = new_unit(
+        &mut sim,
+        &mut m,
+        &lib,
+        class::PEON,
+        1,
+        1,
+        [at[0] + 1, at[1]],
+    )
+    .unwrap();
+    let carrier = new_unit(
+        &mut sim,
+        &mut m,
+        &lib,
+        class::PEON,
+        1,
+        1,
+        [at[0] + 2, at[1]],
+    )
+    .unwrap();
+    garrison(&mut sim, &mut m, castle, a);
+    garrison(&mut sim, &mut m, castle, b);
+    sim.gameplay.actors[carrier].cargo = [0, 0, 0, 10];
+    let [castle_id, carrier_id] = [castle, carrier].map(|i| m.objects[i].id);
+    m.script = Script {
+        actions: vec![
+            named(
+                "dentro",
+                Action::SetProperty(ids(&[castle_id]), "$inside = $cargo".into()),
+            ),
+            named(
+                "legna",
+                Action::SetProperty(ids(&[carrier_id]), "$wood = $cargo".into()),
+            ),
+        ],
+        rules: vec![rule("start", "1", &["dentro", "legna"])],
+        ..Default::default()
+    };
+    run_ticks(&mut sim, &mut m, &mut g, &lib, &c, 2);
+    // 0x4b8c76: how many the holder's list holds (the hulks loaded with ten
+    // each of the American campaign), not what a peasant carries.
+    let v = &mut sim.gameplay.script.variables;
+    assert_eq!((v.get("$inside"), v.get("$wood")), (2, 0));
+}
+
+#[test]
+#[ignore = "Requires installed original archives"]
+fn a_script_finishes_a_site_as_its_builders_do() {
+    let (c, lib, mut m, mut g, mut sim) = setup(1);
+    let at = [m.objects[1].x + 6, m.objects[1].y + 6];
+    let house = new_unit(&mut sim, &mut m, &lib, class::HOUSE, 1, 1, at).unwrap();
+    found_site(&mut sim, &mut m, &lib, &c, house);
+    assert!(m.objects[house].flags & FLAG_CONSTRUCTION != 0);
+    let id = m.objects[house].id;
+    m.script = Script {
+        actions: vec![named(
+            "finisci",
+            Action::SetProperty(ids(&[id]), "@build()".into()),
+        )],
+        rules: vec![rule("start", "1", &["finisci"])],
+        ..Default::default()
+    };
+    run_ticks(&mut sim, &mut m, &mut g, &lib, &c, 2);
+    // 0x4b83a0 gives the site 999999 of building (vt+0x2b8): it ends as
+    // finished sites do, with the player's notice of a building done.
+    let o = &m.objects[house];
+    assert!(o.flags & FLAG_CONSTRUCTION == 0 && o.health == o.max_health);
+    assert!(
+        sim.gameplay
+            .events
+            .iter()
+            .any(|e| e.kind == 2 && e.object == house)
+    );
+}
+
+#[test]
+#[ignore = "Requires installed original archives"]
 fn the_default_order_on_a_point_takes_what_lies_there() {
     let (c, lib, mut m, mut g, _) = setup(1);
     let mut used = m.objects.iter().map(|o| o.id).collect();

@@ -14414,6 +14414,9 @@ mod mission_tests;
 #[path = "gameplay/movement_tests.rs"]
 mod movement_tests;
 #[cfg(test)]
+#[path = "gameplay/pathing_stress_tests.rs"]
+mod pathing_stress_tests;
+#[cfg(test)]
 #[path = "gameplay/production_tests.rs"]
 mod production_tests;
 #[cfg(test)]

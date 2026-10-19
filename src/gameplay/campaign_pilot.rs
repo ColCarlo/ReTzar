@@ -1203,6 +1203,19 @@ impl Pilot {
                     }
                 }
             }
+            // Units of the player's sent aboard.
+            Event::Expression(s, e) if loads(e) => {
+                for i in self.listed(s) {
+                    let room = holder_capacity(&self.p.sim, &self.p.m, &self.p.lib, i)
+                        .saturating_sub(self.p.sim.objects[i].contents.len());
+                    let hid = self.p.m.objects[i].id;
+                    let at = [self.p.m.objects[i].x, self.p.m.objects[i].y];
+                    for k in self.boarders(i).into_iter().take(room) {
+                        let id = self.p.m.objects[k].id;
+                        self.p.try_order("context", &[id], at, Some(hid));
+                    }
+                }
+            }
             // A wound comes from the script's own fights, else is forced.
             Event::Expression(_, e) if wounds(e) => {}
             Event::Destroyed(s) | Event::Expression(s, _) => self.assail(s),
@@ -1370,6 +1383,74 @@ impl Pilot {
                         .iter()
                         .any(|x| alive(x) && crate::selection::unit(x) && [x.x, x.y] == cell)
             })
+    }
+    /// The player's units free to board `i`, the expendable ones, nearest
+    /// first.
+    fn boarders(&self, i: usize) -> Vec<usize> {
+        let named = self.named();
+        let holder = &self.p.m.objects[i];
+        let at = [holder.x, holder.y];
+        let mut out: Vec<usize> = (0..self.p.m.objects.len())
+            .filter(|&k| {
+                let o = &self.p.m.objects[k];
+                k != i
+                    && (1..=8).contains(&o.owner)
+                    && self.p.m.controls(o.owner)
+                    && self.present(k)
+                    && crate::selection::unit(o)
+                    && !naval(o)
+                    && self.p.sim.objects[k].holder.is_none()
+                    && self.expendable(k, &named)
+                    && accepts(&self.p.lib, &self.p.c, holder, o)
+            })
+            .collect();
+        out.sort_by_key(|&k| gap(at, [self.p.m.objects[k].x, self.p.m.objects[k].y]));
+        out
+    }
+    /// Units of the player's taken aboard `i` one by one until `e` holds for
+    /// it or it is full, fighters raised for it when none is free; how
+    /// many went in.
+    fn load(&mut self, i: usize, e: &str) -> usize {
+        let one = Suppose {
+            object: Some(i),
+            ..Suppose::default()
+        };
+        let at = [self.p.m.objects[i].x, self.p.m.objects[i].y];
+        let player = self.player();
+        let civ = self
+            .p
+            .m
+            .kingdoms
+            .get(player as usize - 1)
+            .map_or(1, |k| k.civilization.max(1));
+        let mut n = 0;
+        while n < 200
+            && self.probe(e, &one) == 0
+            && holder_capacity(&self.p.sim, &self.p.m, &self.p.lib, i)
+                > self.p.sim.objects[i].contents.len()
+        {
+            let k = match self.boarders(i).first() {
+                Some(&k) => k,
+                None => {
+                    let holder = self.p.m.objects[i].clone();
+                    let Some(class) = (3..=38).find(|&c| {
+                        crate::gameplay::cheats::spawn_probe(&self.p.lib, c, civ, player, at)
+                            .is_some_and(|o| accepts(&self.p.lib, &self.p.c, &holder, &o))
+                    }) else {
+                        break;
+                    };
+                    let p = &mut self.p;
+                    match new_unit(&mut p.sim, &mut p.m, &p.lib, class, player, civ, at) {
+                        Ok(k) => k,
+                        Err(_) => break,
+                    }
+                }
+            };
+            position(&mut self.p.m.objects[k], at);
+            garrison(&mut self.p.sim, &mut self.p.m, i, k);
+            n += 1;
+        }
+        n
     }
     /// The player's ship with room nearest the first of `who` that takes
     /// one of them.
@@ -1694,7 +1775,7 @@ impl Pilot {
                     }
                 }
                 // A state of each object for which it does not hold yet: the
-                // lightest wound, the player's ownership, the least cargo.
+                // lightest wound, the player's ownership, units aboard.
                 let one = |i| Suppose {
                     object: Some(i),
                     ..Suppose::default()
@@ -1704,48 +1785,36 @@ impl Pilot {
                     if !self.present(i) || self.probe(e, &one(i)) != 0 {
                         continue;
                     }
+                    if loads(e) {
+                        let n = self.load(i, e);
+                        if n > 0 {
+                            done.push(format!("#{} caricato di {n}", self.p.m.objects[i].id));
+                        }
+                        continue;
+                    }
                     let before = self.p.m.objects[i].clone();
-                    let cargo = self.p.sim.gameplay.actors[i].cargo;
-                    for (tweak, how) in ["ferito", "preso", "carico"].into_iter().enumerate() {
-                        let set = |me: &mut Pilot, v: u32| match tweak {
-                            0 => me.p.m.objects[i].health = v as u16,
-                            1 => me.p.m.objects[i].owner = player,
-                            _ => me.p.sim.gameplay.actors[i].cargo = [v, 0, 0, 0],
-                        };
-                        let (low, high) = match tweak {
-                            0 => (1, u32::from(before.health.max(1))),
-                            1 => (0, 0),
-                            _ => (1, 100_000),
-                        };
-                        set(self, if tweak == 0 { low } else { high });
+                    for (tweak, how) in ["ferito", "preso"].into_iter().enumerate() {
+                        match tweak {
+                            0 => self.p.m.objects[i].health = 1,
+                            _ => self.p.m.objects[i].owner = player,
+                        }
                         if self.probe(e, &one(i)) == 0 {
                             self.p.m.objects[i] = before.clone();
-                            self.p.sim.gameplay.actors[i].cargo = cargo;
                             continue;
                         }
-                        // The wound as light, the cargo as small, as will do.
-                        let (mut lo, mut hi) = (low, high);
-                        while tweak != 1 && lo < hi {
-                            if tweak == 0 {
+                        // The wound as light as will do.
+                        if tweak == 0 {
+                            let (mut lo, mut hi) = (1, before.health.max(1));
+                            while lo < hi {
                                 let mid = lo + (hi - lo).div_ceil(2);
-                                set(self, mid);
+                                self.p.m.objects[i].health = mid;
                                 if self.probe(e, &one(i)) != 0 {
                                     lo = mid;
                                 } else {
                                     hi = mid - 1;
                                 }
-                            } else {
-                                let mid = lo + (hi - lo) / 2;
-                                set(self, mid);
-                                if self.probe(e, &one(i)) != 0 {
-                                    hi = mid;
-                                } else {
-                                    lo = mid + 1;
-                                }
                             }
-                        }
-                        if tweak != 1 {
-                            set(self, lo);
+                            self.p.m.objects[i].health = lo;
                         }
                         done.push(format!("#{} {how}", before.id));
                         break;
@@ -1915,6 +1984,12 @@ fn stocks(text: &str) -> Vec<(u8, u8)> {
     }
     out
 }
+/// Whether an expression reads what its object holds.
+fn loads(e: &str) -> bool {
+    crate::script::audit::symbols(e)
+        .iter()
+        .any(|s| s.eq_ignore_ascii_case("$cargo"))
+}
 /// Whether an expression reads its object's health.
 fn wounds(e: &str) -> bool {
     crate::script::audit::symbols(e)
@@ -2002,7 +2077,12 @@ fn save_game(
             mission,
         },
         camera: [at[0] as f32 * 32. + 16., -(at[1] as f32 * 32. + 16.), 1.],
-        setup: None,
+        // The rules of the game, as the campaign screen leaves them for the
+        // maps that follow.
+        setup: Some(crate::world::GameSetup {
+            options: Some(p.m.game_rules.clone()),
+            ..Default::default()
+        }),
         missing: false,
     };
     let snapshot = crate::save::Snapshot {

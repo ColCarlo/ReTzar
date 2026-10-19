@@ -277,12 +277,16 @@ fn a_campaign_map_starts_under_the_fog_whatever_the_setup_carries() {
         .unwrap();
     let assets = GameAssets::open(root).unwrap();
     let catalog = crate::scenario::ScenarioCatalog::load(root).unwrap();
-    for id in [
-        "impero di gengis khan.wcm::maps/gengis_khan01",
-        "excalibur e il re artu.wcm::maps/8_a el mito de camelot",
-    ] {
-        let (campaign, mission) = catalog.locate(id).unwrap();
-        let scenario = catalog.campaigns[campaign.unwrap()].missions[mission].clone();
+    // Every map of every campaign there, those of the other editions too.
+    let maps: Vec<(usize, usize)> = (0..catalog.campaigns.len())
+        .flat_map(|c| (0..catalog.campaigns[c].missions.len()).map(move |m| (c, m)))
+        .collect();
+    assert!(maps.len() > 30);
+    for (c, mission) in maps {
+        let scenario = catalog.campaigns[c].missions[mission].clone();
+        let id = scenario.title.clone();
+        let header = scenario.container().unwrap().get(&scenario.header).unwrap();
+        let campaign = Some(c);
         let selection = crate::menu::Selection::Scenario { campaign, mission };
         // The setup of an older save, with the fog off and the map explored.
         let setup = world::GameSetup {
@@ -294,10 +298,37 @@ fn a_campaign_map_starts_under_the_fog_whatever_the_setup_carries() {
             ..Default::default()
         };
         let opened = crate::game::open(&assets, &selection, Some(scenario), Some(&setup)).unwrap();
-        // 0x441b93: the maps' headers hold 0 at 0x4e and 0x4f, the fog on
-        // and the map unexplored.
+        // 0x441b93: the fog and the exploration of the map's header (0x4e,
+        // 0x4f), 0 in all but three maps of Arthur's that start explored
+        // ('Merlin' also with no fog).
         let r = &opened.mission.game_rules;
-        assert!(!r.no_fog && !r.explored, "{id}");
+        assert_eq!(
+            (r.no_fog, r.explored),
+            (header[0x4e] != 0, header[0x4f] != 0),
+            "{id}"
+        );
+        if r.no_fog || r.explored {
+            continue;
+        }
+        // Started, only what the player and the allies sharing their sight
+        // see now is explored.
+        let lib = ObjectLibrary::load(&assets, &opened.biome).unwrap();
+        let mut m = opened.mission;
+        crate::game::start(
+            &mut m,
+            &opened.grid,
+            &lib,
+            &opened.biome,
+            &selection,
+            Some(&setup),
+            crate::terrain::Climate::default(),
+        )
+        .unwrap();
+        let fog = &m.simulation.as_ref().unwrap().fog;
+        let beyond = (0..fog.explored.len())
+            .filter(|&k| fog.explored[k] && !fog.visible[k])
+            .count();
+        assert_eq!(beyond, 0, "{id}");
     }
 }
 
