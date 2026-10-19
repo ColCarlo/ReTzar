@@ -1,1 +1,4 @@
+- New campaigns: The Domains of Magic, El Cid and the Reconquista
+- Fixes in the scripts of the campaigns
+- Saves restore the game exactly
 - Various bug fixes

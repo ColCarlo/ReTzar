@@ -199,9 +199,9 @@ pub struct ObjectState {
     /// An equipment item: the holder its bonus was added to (0x463480).
     #[serde(default)]
     pub equipped: Option<usize>,
-    /// Cells covered by buildings and mines, for the fog (0x501dc0); filled
-    /// again after a restore.
-    #[serde(skip)]
+    /// Cells covered by buildings and mines, for the fog (0x501dc0), as when
+    /// the object was made; saved, and filled again for older saves.
+    #[serde(default)]
     pub size: Option<[u8; 2]>,
     /// Room of its holder, fixed when the object was made (0x4fffc4) with
     /// the kingdom's Landing Tactics; None for older saves.
@@ -348,6 +348,15 @@ impl ObjectState {
         }
     }
 }
+/// The footprints written in the order of their ids, the same in every save
+/// of the same game.
+fn by_id<S: serde::Serializer>(
+    m: &HashMap<u16, [u8; 2]>,
+    s: S,
+) -> std::result::Result<S::Ok, S::Error> {
+    let sorted: std::collections::BTreeMap<&u16, &[u8; 2]> = m.iter().collect();
+    serde::Serialize::serialize(&sorted, s)
+}
 /// What `level` adds to attack and defence (0x4de7d0, 0x4de880): the getters
 /// count it at each use over the record's own values (+0x62, +0x60). Bows
 /// gain half an attack point per level (rounded up) for a kingdom owner;
@@ -445,8 +454,10 @@ pub struct Simulation {
     /// normal, at every new map (0x44153f), kept by the save (0x443d71).
     #[serde(default = "normal_speed")]
     pub speed: u8,
-    /// Cells each object covers, by object id, for the fog tests.
-    #[serde(skip)]
+    /// Cells each object covers, by object id, for the fog tests, as the last
+    /// refresh of the view left them: saved, so that a game loaded tests
+    /// its first step as the game saved would have.
+    #[serde(default, serialize_with = "by_id")]
     pub footprints: HashMap<u16, [u8; 2]>,
     /// One-shot presentation events are consumed by the frontend, never replayed from saves.
     #[serde(skip)]

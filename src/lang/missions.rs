@@ -207,7 +207,11 @@ fn swap(text: &mut String, language: Language) {
 pub fn localize_mission(world: &mut MissionWorld, language: Language) {
     use crate::script::Action;
     for o in &mut world.objects {
-        swap(&mut o.name, language);
+        // A hero of the game's own (0x506d60) was named from HEROES.INI,
+        // not by a map: «Lancelot» there is not Arthur's knight.
+        if o.flags & crate::world::FLAG_HERO == 0 {
+            swap(&mut o.name, language);
+        }
         swap(&mut o.subtitle, language);
     }
     for k in &mut world.kingdoms {
@@ -305,6 +309,25 @@ mod tests {
                 ("a\\b".to_owned(), "c".to_owned()),
             ]
         );
+    }
+
+    #[test]
+    fn a_hero_of_the_game_keeps_the_name_heroes_ini_gave() {
+        // «Lancelot» is Arthur's knight in the Italian campaign and also the
+        // first European name of HEROES.INI, that a promotion takes.
+        assert_eq!(
+            translate("Lancelot", Language::Italian),
+            Some("Lancillotto")
+        );
+        let mut world = MissionWorld::default();
+        let mut knight = crate::world::MapObject::default();
+        knight.name = "Lancelot".into();
+        let mut promoted = knight.clone();
+        promoted.flags |= crate::world::FLAG_HERO;
+        world.objects = vec![knight, promoted];
+        localize_mission(&mut world, Language::Italian);
+        assert_eq!(world.objects[0].name, "Lancillotto");
+        assert_eq!(world.objects[1].name, "Lancelot");
     }
 
     #[test]

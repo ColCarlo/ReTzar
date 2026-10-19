@@ -329,6 +329,7 @@ fn string(d: &[u8]) -> String {
         .to_owned()
 }
 #[derive(Clone, Debug, Serialize, Deserialize)]
+#[cfg_attr(test, derive(Default))]
 pub struct MapObject {
     pub id: u16,
     pub class: usize,

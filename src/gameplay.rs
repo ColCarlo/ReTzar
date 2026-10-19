@@ -1432,10 +1432,13 @@ impl Runtime {
             && self.events.iter().all(|e| e.object < n && cell(e.cell))
             && self.picks.iter().all(|&j| j < n)
             && self.projectiles.len() <= 4096
-            && self
-                .projectiles
-                .iter()
-                .all(|p| p.attacker < n && p.target < n && cell(p.cell) && cell(p.from))
+            // A shot at the ground (a catapult's, a rain of fire) has no target.
+            && self.projectiles.iter().all(|p| {
+                p.attacker < n
+                    && (p.target < n || p.target == usize::MAX)
+                    && cell(p.cell)
+                    && cell(p.from)
+            })
             && self.fields.keys().all(|&i| i < n)
             && self
                 .visions
@@ -2404,7 +2407,7 @@ fn sync(sim: &mut Simulation, m: &mut MissionWorld, lib: &ObjectLibrary) {
             sim.gameplay.flag = Some(k);
         }
     }
-    // Footprints are not saved: a restored simulation measures them again.
+    // Saves older than the footprints in them: measured again.
     for (o, state) in m.objects.iter().zip(sim.objects.iter_mut()) {
         if state.size.is_none() {
             state.size = Some(crate::simulation::footprint(o, lib));
@@ -14419,6 +14422,9 @@ mod pathing_stress_tests;
 #[cfg(test)]
 #[path = "gameplay/production_tests.rs"]
 mod production_tests;
+#[cfg(test)]
+#[path = "gameplay/save_stress_tests.rs"]
+mod save_stress_tests;
 #[cfg(test)]
 #[path = "gameplay/stats_tests.rs"]
 mod stats_tests;

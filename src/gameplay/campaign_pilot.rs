@@ -69,6 +69,19 @@ struct Pilot {
     spots: BTreeMap<(usize, String, bool, bool), ([u16; 2], Option<[u16; 2]>)>,
     /// The tributes sent: resource and kingdom.
     tributes: BTreeSet<(u8, u8)>,
+    /// The longest the mission may take, in seconds of play.
+    budget: u64,
+    /// Every how many seconds of play the game is saved and loaded to
+    /// check it goes on as it was; when the next check comes.
+    save_every: Option<u64>,
+    save_due: u64,
+    /// The checks made, and those whose copies parted.
+    saves_checked: usize,
+    save_faults: Vec<String>,
+    /// How many checks met each awkward thing.
+    save_moments: BTreeMap<String, usize>,
+    /// The checks made with a window of the script open.
+    windows_checked: usize,
 }
 
 /// The longest a mission may take, in seconds of play.
@@ -92,6 +105,13 @@ impl Pilot {
             godded: BTreeSet::new(),
             spots: BTreeMap::new(),
             tributes: BTreeSet::new(),
+            budget: BUDGET,
+            save_every: None,
+            save_due: 0,
+            saves_checked: 0,
+            save_faults: Vec::new(),
+            save_moments: BTreeMap::new(),
+            windows_checked: 0,
         }
     }
     fn now(&self) -> u64 {
@@ -128,6 +148,11 @@ impl Pilot {
         let mut doing = String::new();
         loop {
             if let Some(won) = self.outcome() {
+                // Saved as the game ends, the end window and the next map
+                // still to come.
+                if self.save_every.is_some() {
+                    self.check_save();
+                }
                 // The end window opens 5 s later (0x442af0): a map a script
                 // loads meanwhile gives a defeat «CONTINUA» too (0x442861).
                 if !won {
@@ -143,7 +168,7 @@ impl Pilot {
                 };
             }
             let now = self.now();
-            if now - start > BUDGET {
+            if now - start > self.budget {
                 return Err(format!("tempo scaduto ({doing}){}", self.p.trace_tail()));
             }
             if now - progress.1 > STALL {
@@ -168,11 +193,170 @@ impl Pilot {
                     break;
                 }
             }
+            if let Some(every) = self.save_every
+                && self.now() >= self.save_due
+            {
+                self.save_due = self.now() + every;
+                self.check_save();
+                if self.windows_checked < 3 {
+                    self.check_window_save();
+                }
+            }
             let n = self.trace_len() + self.forced.len();
             if n != progress.0 {
                 progress = (n, self.now());
             }
         }
+    }
+
+    /// The game saved and loaded now goes on as it is: both copies play ten
+    /// seconds side by side, their windows answered alike.
+    fn check_save(&mut self) {
+        use crate::gameplay::save_stress_tests::{differences, round_trip, state};
+        let selection = crate::menu::Selection::Scenario {
+            campaign: Some(self.campaign),
+            mission: self.mission,
+        };
+        let (at, what) = (self.now(), self.moment());
+        for part in what.split(", ").filter(|p| !p.is_empty()) {
+            let kind: String = part
+                .split_whitespace()
+                .skip_while(|w| w.chars().all(|c| c.is_ascii_digit()))
+                .collect::<Vec<_>>()
+                .join(" ");
+            *self.save_moments.entry(kind).or_default() += 1;
+        }
+        let title = self.scenario.title.clone();
+        let (g, m, sim) = match round_trip(&self.p.g, &self.p.m, &self.p.sim, selection) {
+            Ok(x) => x,
+            Err(e) => {
+                self.save_faults.push(format!(
+                    "{title} a {at} s ({what}): salvataggio rifiutato: {e}"
+                ));
+                return;
+            }
+        };
+        let mut a = self.p.clone();
+        let mut b = self.p.clone();
+        (b.g, b.m, b.sim) = (g, m, sim);
+        b.sim.gameplay.script.trace = a.sim.gameplay.script.trace.clone();
+        self.saves_checked += 1;
+        for k in 1..=10 {
+            a.second();
+            b.second();
+            let (x, y) = (state(&a.g, &a.m, &a.sim), state(&b.g, &b.m, &b.sim));
+            if x != y {
+                self.save_faults.push(format!(
+                    "{title}: salvata a {at} s ({what}), diversa dopo {k} s:\n  {}",
+                    differences(&x, &y, 12).join("\n  ")
+                ));
+                return;
+            }
+        }
+    }
+    /// The next window the script opens within a minute of play, sought on a
+    /// copy that answers none: the game saved and loaded with it open goes
+    /// on as it was, both copies answering alike.
+    fn check_window_save(&mut self) {
+        use crate::gameplay::save_stress_tests::{differences, round_trip, state};
+        let mut a = self.p.clone();
+        for _ in 0..1200 {
+            if a.sim.gameplay.script.modal {
+                break;
+            }
+            a.sim.gameplay.script.outbox.0.clear();
+            let p = &mut a;
+            advance(
+                &mut p.sim,
+                &mut p.m,
+                &mut p.g,
+                &p.lib,
+                &p.c,
+                Duration::from_millis(TICK_MS),
+                10,
+                false,
+            );
+        }
+        if !a.sim.gameplay.script.modal {
+            return;
+        }
+        let what = if a.sim.gameplay.script.conversation.is_some() {
+            "dialogo aperto"
+        } else {
+            "finestra aperta"
+        };
+        *self.save_moments.entry(what.to_owned()).or_default() += 1;
+        self.windows_checked += 1;
+        self.saves_checked += 1;
+        let selection = crate::menu::Selection::Scenario {
+            campaign: Some(self.campaign),
+            mission: self.mission,
+        };
+        let at = a.sim.ticks * TICK_MS / 1000;
+        let title = self.scenario.title.clone();
+        let (g, m, sim) = match round_trip(&a.g, &a.m, &a.sim, selection) {
+            Ok(x) => x,
+            Err(e) => {
+                self.save_faults.push(format!(
+                    "{title} a {at} s ({what}): salvataggio rifiutato: {e}"
+                ));
+                return;
+            }
+        };
+        let mut b = a.clone();
+        (b.g, b.m, b.sim) = (g, m, sim);
+        b.sim.gameplay.script.trace = a.sim.gameplay.script.trace.clone();
+        for k in 1..=10 {
+            a.second();
+            b.second();
+            let (x, y) = (state(&a.g, &a.m, &a.sim), state(&b.g, &b.m, &b.sim));
+            if x != y {
+                self.save_faults.push(format!(
+                    "{title}: salvata a {at} s ({what}), diversa dopo {k} s:\n  {}",
+                    differences(&x, &y, 12).join("\n  ")
+                ));
+                return;
+            }
+        }
+    }
+    /// What makes the moment awkward for a save.
+    fn moment(&self) -> String {
+        let st = &self.p.sim.gameplay.script;
+        let mut out = Vec::new();
+        if st.conversation.is_some() {
+            out.push("dialogo aperto".to_owned());
+        }
+        if st.modal {
+            out.push("finestra aperta".to_owned());
+        }
+        if st.over.is_some() {
+            out.push("partita finita".to_owned());
+        }
+        if st.next_map.is_some() {
+            out.push("mappa successiva in attesa".to_owned());
+        }
+        let halfway = st.rules.iter().filter(|r| r.cursor.is_some()).count();
+        if halfway > 0 {
+            out.push(format!("{halfway} regole a metà"));
+        }
+        if !st.timers.is_empty() {
+            out.push(format!("{} timer", st.timers.len()));
+        }
+        let held: Vec<usize> = (0..self.p.sim.objects.len())
+            .filter(|&i| self.p.sim.objects[i].holder.is_some())
+            .collect();
+        let items = held.iter().filter(|&&i| self.p.m.objects[i].item()).count();
+        if !held.is_empty() {
+            out.push(format!(
+                "{} dentro altri, {items} oggetti in inventario",
+                held.len()
+            ));
+        }
+        let flying = self.p.sim.gameplay.projectiles.len();
+        if flying > 0 {
+            out.push(format!("{flying} proiettili in volo"));
+        }
+        out.join(", ")
     }
 
     /// The player's units and buildings cannot be hurt (the «god» cheat's
@@ -2232,4 +2416,73 @@ fn the_pilot_wins_every_map_of_la_reconquista() {
 #[ignore = "Requires installed original archives and the Spanish edition"]
 fn the_pilot_wins_every_map_of_los_dominios_de_la_magia() {
     report("Los Dominios de la Magia.wcm");
+}
+
+/// Every map of the campaign of `file` flown from its start, at most half
+/// an hour of play, saved and loaded every minute of play.
+fn save_checks(file: &str) {
+    let catalog = ScenarioCatalog::load(root()).unwrap();
+    let Some(campaign) = catalog.campaigns.iter().position(|c| {
+        c.missions[0]
+            .file
+            .file_name()
+            .is_some_and(|n| n.eq_ignore_ascii_case(file))
+    }) else {
+        return;
+    };
+    let mut faults = Vec::new();
+    let mut checked = 0;
+    let mut moments: BTreeMap<String, usize> = BTreeMap::new();
+    for k in 0..catalog.campaigns[campaign].missions.len() {
+        let mut pilot = Pilot::new(&catalog, campaign, k, Play::open_at(&catalog, campaign, k));
+        pilot.budget = 1800;
+        pilot.save_every = Some(60);
+        let _ = pilot.fly();
+        checked += pilot.saves_checked;
+        faults.extend(pilot.save_faults);
+        for (k, n) in pilot.save_moments {
+            *moments.entry(k).or_default() += n;
+        }
+    }
+    eprintln!(
+        "SALVATAGGI {file}: {checked} controlli, {} diversi; momenti: {moments:?}",
+        faults.len()
+    );
+    assert!(faults.is_empty(), "{}", faults.join("\n"));
+}
+
+#[test]
+#[ignore = "Requires installed original archives"]
+fn the_tutorial_saved_every_minute_goes_on_as_it_was() {
+    save_checks("TzarTutorial.wcm");
+}
+
+#[test]
+#[ignore = "Requires installed original archives"]
+fn arthur_saved_every_minute_goes_on_as_it_was() {
+    save_checks("Excalibur e il Re Artu.wcm");
+}
+
+#[test]
+#[ignore = "Requires installed original archives"]
+fn genghis_khan_saved_every_minute_goes_on_as_it_was() {
+    save_checks("Impero di Gengis Khan.wcm");
+}
+
+#[test]
+#[ignore = "Requires installed original archives and the American CD in USA"]
+fn the_american_campaign_saved_every_minute_goes_on_as_it_was() {
+    save_checks("Tzar.wcm");
+}
+
+#[test]
+#[ignore = "Requires installed original archives and the Spanish edition"]
+fn la_reconquista_saved_every_minute_goes_on_as_it_was() {
+    save_checks("La Reconquista.wcm");
+}
+
+#[test]
+#[ignore = "Requires installed original archives and the Spanish edition"]
+fn los_dominios_saved_every_minute_goes_on_as_it_was() {
+    save_checks("Los Dominios de la Magia.wcm");
 }
