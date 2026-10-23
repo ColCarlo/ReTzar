@@ -695,6 +695,7 @@ mod tests {
     }
 
     #[test]
+    #[ignore = "Requires the installed Tzar.exe"]
     fn the_tables_are_found_wherever_a_build_keeps_them() {
         let exe = std::fs::read(
             std::path::Path::new(env!("CARGO_MANIFEST_DIR"))
