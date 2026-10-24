@@ -1,7 +1,6 @@
-# Builds on Windows at every push to a branch and pull request: the game, the
-# tools, the tests and retzar-arena. The tests do not run here: most of them
-# read the original game, which the repository does not contain. Version tags
-# are built by release.yml.
+# Builds the game, tools, tests and retzar-arena on Windows and macOS.
+# macOS also runs selected tests that do not need the original game data.
+# Version tags are built by release.yml.
 name: Build
 
 on:
@@ -22,3 +21,21 @@ jobs:
         run: cargo build --locked --all-targets
       - name: retzar-arena
         run: cargo build --locked --no-default-features --features arena --bin retzar-arena
+
+  macos:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Toolchain
+        run: rustup show
+      - uses: Swatinem/rust-cache@v2
+      - name: Game, tools and tests
+        run: cargo build --locked --all-targets
+      - name: retzar-arena
+        run: cargo build --locked --no-default-features --features arena --bin retzar-arena
+      - name: Saved installation paths
+        run: cargo test --locked --no-default-features --lib paths::tests
+      - name: First-run installation detection
+        run: cargo test --locked --no-default-features --lib first_start::tests
+      - name: MP4 encoding and playback
+        run: cargo test --locked --no-default-features --lib media::tests

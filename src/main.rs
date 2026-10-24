@@ -40,7 +40,11 @@ fn main() {
             .and_then(|p| p.parent().map(PathBuf::from))
         && retzar::first_start::applies(&args, &exe_dir)
     {
-        locations = retzar::first_start::prepare(&exe_dir).and_then(|()| Locations::resolve(&args));
+        locations = match retzar::first_start::prepare(&args, &exe_dir) {
+            Ok(true) => Locations::resolve(&args),
+            Ok(false) => return,
+            Err(error) => Err(error),
+        };
     }
     install_crash_log(locations.as_ref().ok().map(|l| l.root.clone()));
     if let Err(error) = locations.and_then(|l| run(&l, &args)) {
@@ -164,6 +168,8 @@ fn attach_parent_console() {
 
 /// Errors are visible even without a console (release builds, Explorer).
 fn fatal_dialog(text: &str) {
+    #[cfg(target_os = "macos")]
+    retzar::picker::error(text);
     #[cfg(all(windows, not(debug_assertions)))]
     {
         #[link(name = "user32")]

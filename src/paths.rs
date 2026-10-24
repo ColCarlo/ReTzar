@@ -62,15 +62,22 @@ impl Locations {
         exe_dir: &Path,
     ) -> Result<Self> {
         let portable = Some(exe_dir.join(crate::pack::FILE)).filter(|p| p.is_file());
-        let root = argument(args, "--root")
-            .or_else(|| portable.as_ref().map(|_| exe_dir.to_path_buf()))
-            .or_else(|| env("RETZAR_HOME").map(PathBuf::from))
-            .or_else(|| project_root(exe_dir))
-            .unwrap_or_else(|| exe_dir.to_path_buf());
+        let root = Self::root_with(args, &env, exe_dir);
         let source = match argument(args, "--source")
             .or(portable)
             .or_else(|| env("TZAR_DATA_ROOT").map(PathBuf::from))
-        {
+            .or_else(|| {
+                // macOS uses the original files directly, rather than building
+                // a portable pack as part of first-run setup.
+                #[cfg(target_os = "macos")]
+                {
+                    crate::original::saved(&root).filter(|p| is_installation(p))
+                }
+                #[cfg(not(target_os = "macos"))]
+                {
+                    None
+                }
+            }) {
             Some(source) => source,
             None => root
                 .ancestors()
@@ -86,6 +93,22 @@ impl Locations {
         };
         Ok(Self { root, source })
     }
+    pub(crate) fn root_with(
+        args: &[String],
+        env: &impl Fn(&str) -> Option<std::ffi::OsString>,
+        exe_dir: &Path,
+    ) -> PathBuf {
+        argument(args, "--root")
+            .or_else(|| {
+                exe_dir
+                    .join(crate::pack::FILE)
+                    .is_file()
+                    .then(|| exe_dir.to_path_buf())
+            })
+            .or_else(|| env("RETZAR_HOME").map(PathBuf::from))
+            .or_else(|| project_root(exe_dir))
+            .unwrap_or_else(|| exe_dir.to_path_buf())
+    }
     pub fn settings(&self) -> PathBuf {
         self.root.join("settings.json")
     }
@@ -97,6 +120,49 @@ impl Locations {
 #[cfg(test)]
 mod tests {
     use super::*;
+    #[cfg(target_os = "macos")]
+    #[test]
+    fn macos_remembers_the_selected_installation_and_honors_overrides() {
+        let base = std::env::temp_dir().join(format!("retzar-mac-source-{}", std::process::id()));
+        let root = base.join("settings");
+        let source = base.join("Tzar GOG");
+        let exe = base.join("bin");
+        for dir in [
+            &root,
+            &exe,
+            &source.join("Maps"),
+            &source.join("DATA"),
+            &source.join("IMAGES"),
+        ] {
+            std::fs::create_dir_all(dir).unwrap();
+        }
+        crate::original::remember(&root, &source).unwrap();
+        let args = vec!["--root".into(), root.to_string_lossy().into_owned()];
+        let found = Locations::resolve_with(&args, |_| None, &exe).unwrap();
+        assert_eq!(found.root, root);
+        assert_eq!(found.source, source);
+        // Explicit sources take priority over the remembered folder.
+        let from_env = Locations::resolve_with(
+            &args,
+            |key| (key == "TZAR_DATA_ROOT").then(|| "other-source".into()),
+            &exe,
+        )
+        .unwrap();
+        assert_eq!(from_env.source, PathBuf::from("other-source"));
+        let mut explicit = args.clone();
+        explicit.extend(["--source".into(), "explicit-source".into()]);
+        assert_eq!(
+            Locations::resolve_with(&explicit, |_| Some("env-source".into()), &exe)
+                .unwrap()
+                .source,
+            PathBuf::from("explicit-source")
+        );
+        // A moved/deleted installation must prompt again, not launch a stale path.
+        std::fs::remove_dir_all(&source).unwrap();
+        assert!(Locations::resolve_with(&args, |_| None, &exe).is_err());
+        std::fs::remove_dir_all(base).unwrap();
+    }
+
     #[test]
     fn locations_follow_the_folders_not_the_build_machine() {
         let base = std::env::temp_dir().join(format!("retzar-paths-{}", std::process::id()));

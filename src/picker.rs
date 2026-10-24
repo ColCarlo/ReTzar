@@ -1,7 +1,6 @@
-//! Windows' own dialogs for the portable copy: the folder picker
-//! (`IFileOpenDialog` asked for folders) that asks where the original game
-//! is installed ([`crate::original`], [`crate::first_start`]), message boxes
-//! and the progress window. Elsewhere there are none.
+//! Native Windows and macOS folder pickers and message boxes for setup
+//! ([`crate::original`], [`crate::first_start`]). Windows also provides the
+//! portable pack builder's progress window. Other platforms have no dialogs yet.
 use std::path::{Path, PathBuf};
 
 /// A folder chosen by the player, starting from `start`; none when the
@@ -11,20 +10,28 @@ pub fn folder(title: &str, start: Option<&Path>) -> Option<PathBuf> {
     {
         windows::folder(title, start)
     }
-    #[cfg(not(windows))]
+    #[cfg(target_os = "macos")]
+    {
+        macos::folder(title, start)
+    }
+    #[cfg(not(any(windows, target_os = "macos")))]
     {
         let _ = (title, start);
         None
     }
 }
 /// A question with «OK» and «Annulla» (Windows' message box); true for
-/// «OK». Without Windows, false.
+/// «OK». Without a native implementation, false.
 pub fn confirm(text: &str) -> bool {
     #[cfg(windows)]
     {
         windows::ask(text, windows::WARNING)
     }
-    #[cfg(not(windows))]
+    #[cfg(target_os = "macos")]
+    {
+        macos::ask(text, true)
+    }
+    #[cfg(not(any(windows, target_os = "macos")))]
     {
         let _ = text;
         false
@@ -36,10 +43,63 @@ pub fn welcome(text: &str) -> bool {
     {
         windows::ask(text, windows::INFORMATION)
     }
-    #[cfg(not(windows))]
+    #[cfg(target_os = "macos")]
+    {
+        macos::ask(text, false)
+    }
+    #[cfg(not(any(windows, target_os = "macos")))]
     {
         let _ = text;
         false
+    }
+}
+
+/// A fatal startup error, visible when the game was opened without a terminal.
+#[cfg(target_os = "macos")]
+pub fn error(text: &str) {
+    macos::error(text);
+}
+
+#[cfg(target_os = "macos")]
+mod macos {
+    use std::{
+        ffi::{CStr, CString, c_char},
+        os::unix::ffi::{OsStrExt, OsStringExt},
+        path::{Path, PathBuf},
+    };
+
+    unsafe extern "C" {
+        fn tz_dialog_folder(title: *const c_char, start: *const c_char) -> *mut c_char;
+        fn tz_dialog_free(path: *mut c_char);
+        fn tz_dialog_ask(text: *const c_char, warning: bool) -> bool;
+        fn tz_dialog_error(text: *const c_char);
+    }
+
+    pub fn folder(title: &str, start: Option<&Path>) -> Option<PathBuf> {
+        let title = CString::new(title).ok()?;
+        let start = start.and_then(|p| CString::new(p.as_os_str().as_bytes()).ok());
+        let path = unsafe {
+            tz_dialog_folder(
+                title.as_ptr(),
+                start.as_ref().map_or(std::ptr::null(), |s| s.as_ptr()),
+            )
+        };
+        if path.is_null() {
+            return None;
+        }
+        let bytes = unsafe { CStr::from_ptr(path) }.to_bytes().to_vec();
+        unsafe { tz_dialog_free(path) };
+        Some(std::ffi::OsString::from_vec(bytes).into())
+    }
+
+    pub fn ask(text: &str, warning: bool) -> bool {
+        CString::new(text).is_ok_and(|s| unsafe { tz_dialog_ask(s.as_ptr(), warning) })
+    }
+
+    pub fn error(text: &str) {
+        if let Ok(s) = CString::new(text) {
+            unsafe { tz_dialog_error(s.as_ptr()) };
+        }
     }
 }
 
