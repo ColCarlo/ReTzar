@@ -801,7 +801,15 @@ pub const ENGLISH: &[(&str, &str)] = &[
         "Nessuna scheda video Vulkan trovata. ReTzar disegna solo con Vulkan: aggiorna i driver della scheda video.",
         "No Vulkan graphics card found. ReTzar draws only with Vulkan: update the graphics card's drivers.",
     ),
+    (
+        "Nessuna scheda video Metal trovata. ReTzar richiede una scheda video compatibile con Metal su macOS.",
+        "No Metal graphics card found. ReTzar requires a Metal-compatible graphics card on macOS.",
+    ),
     // The portable copy's original copy (`original.rs`).
+    (
+        "Benvenuto in ReTzar! Scegli la cartella della tua copia di Tzar (GOG, Steam o CD). ReTzar leggerà i suoi file e ricorderà la cartella per i prossimi avvii.",
+        "Welcome to ReTzar! Choose the folder containing your copy of Tzar (GOG, Steam or CD). ReTzar will read its files and remember the folder for future launches.",
+    ),
     (
         "Scegli la cartella in cui è installato Tzar",
         "Choose the folder where Tzar is installed",

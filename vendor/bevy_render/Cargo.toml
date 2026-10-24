@@ -1,7 +1,7 @@
 # bevy_render 0.20.0 from crates.io, unchanged except for this file: wgpu is
-# built with the Vulkan backend only ("dx12" and "metal" removed), the one
-# ReTzar renders with. To update, copy the new release here and remove the
-# same two features again.
+# built with Vulkan and, on macOS, Metal. DirectX 12 stays disabled.
+# To update, copy the new release here, remove "dx12" and "metal" from the
+# shared wgpu dependency, and retain the macOS-specific Metal dependency.
 
 [package]
 edition = "2024"
@@ -245,6 +245,11 @@ default-features = false
 
 [dependencies.wgpu-types]
 version = "30"
+default-features = false
+
+[target.'cfg(target_os = "macos")'.dependencies.wgpu]
+version = "30"
+features = ["metal"]
 default-features = false
 
 [dev-dependencies.proptest]

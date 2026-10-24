@@ -3,7 +3,10 @@
 //! folder, of any edition, checks that it holds the original game and makes
 //! its data pack from it, once, with that edition's content. The release
 //! ships the whole pack instead ([`original::require`]).
-use crate::{Result, invalid, lang, original, pack, packing, paths, picker};
+//! On macOS the chosen installation is read directly and saved in settings.
+use crate::{Result, lang, original, pack, paths, picker};
+#[cfg(not(target_os = "macos"))]
+use crate::{invalid, packing};
 use std::path::{Path, PathBuf};
 
 /// Whether this start is the first of a portable copy: no game given on
@@ -39,7 +42,8 @@ fn installation_at(chosen: &Path) -> Option<PathBuf> {
 /// Asks for the Tzar folder and makes `ReTzar.dat` beside the executable
 /// in `exe_dir`, where the settings also go; the folder is kept as the
 /// original copy the game plays beside ([`original::require`]).
-pub fn prepare(exe_dir: &Path) -> Result<()> {
+#[cfg(not(target_os = "macos"))]
+pub fn prepare(_args: &[String], exe_dir: &Path) -> Result<bool> {
     original::speak(exe_dir);
     if !picker::welcome(lang::t(
         "Benvenuto in ReTzar! Il gioco usa la tua copia di Tzar (GOG, Steam o CD): scegli la cartella in cui è installato e ReTzar ne ricaverà i suoi dati. Serve solo la prima volta.",
@@ -107,7 +111,41 @@ pub fn prepare(exe_dir: &Path) -> Result<()> {
             &[&e],
         ))
     })?;
-    original::remember(exe_dir, &installation)
+    original::remember(exe_dir, &installation).map(|()| true)
+}
+
+/// macOS reads the original installation directly and remembers it beside
+/// the other settings, including when --root or RETZAR_HOME is supplied.
+/// Returns false when the player cancels setup.
+#[cfg(target_os = "macos")]
+pub fn prepare(args: &[String], exe_dir: &Path) -> Result<bool> {
+    let root = paths::Locations::root_with(args, &|key| std::env::var_os(key), exe_dir);
+    original::speak(&root);
+    if !picker::welcome(lang::t(
+        "Benvenuto in ReTzar! Scegli la cartella della tua copia di Tzar (GOG, Steam o CD). ReTzar leggerà i suoi file e ricorderà la cartella per i prossimi avvii.",
+    )) {
+        return Ok(false);
+    }
+    let mut start = original::saved(&root);
+    loop {
+        let Some(chosen) = picker::folder(
+            lang::t("Scegli la cartella in cui è installato Tzar"),
+            start.as_deref(),
+        ) else {
+            return Ok(false);
+        };
+        if let Some(found) = installation_at(&chosen).filter(|p| original::holds(p)) {
+            std::fs::create_dir_all(&root)?;
+            return original::remember(&root, &found).map(|()| true);
+        }
+        if !picker::confirm(&lang::fill(
+            "In {} non c'è una copia originale di Tzar.\n\nScegli la cartella in cui è installato il gioco.",
+            &[&chosen.display()],
+        )) {
+            return Ok(false);
+        }
+        start = Some(chosen);
+    }
 }
 
 #[cfg(test)]
