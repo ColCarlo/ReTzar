@@ -1,4 +1,4 @@
-//! Original PCM WAVE and Standard MIDI files, with an isolated Windows audio worker.
+//! Original PCM WAVE and Standard MIDI files, with an isolated native audio worker.
 mod ambience;
 use crate::{Result, archive::Archive, assets::Ini, invalid, u32_at};
 pub use ambience::{Catalog, Habitat, Moment, NatureContext, Scheduler};
@@ -480,7 +480,7 @@ impl MusicCheck {
     }
 }
 /// Where a story's own song is kept among the songs.
-#[cfg_attr(not(windows), allow(dead_code))]
+#[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
 const STORY_SONG: &str = "STORY";
 
 /// Categories of the original's sounds (0x4cdd50): the `[priority]` key of
@@ -575,7 +575,7 @@ impl Channel {
         }
     }
     /// The bridge's group of the channel's voices.
-    #[cfg_attr(not(windows), allow(dead_code))]
+    #[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
     fn group(self) -> i32 {
         self as i32 + 1
     }
@@ -726,11 +726,11 @@ fn effect_priority(base: u8, playing: usize) -> u8 {
     }
 }
 /// The slots of every channel.
-#[cfg_attr(not(windows), allow(dead_code))]
+#[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
 struct Mixer {
     slots: [Vec<Option<Voice>>; 4],
 }
-#[cfg_attr(not(windows), allow(dead_code))]
+#[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
 impl Mixer {
     fn new() -> Self {
         Self {
@@ -903,10 +903,11 @@ impl Drop for Player {
     }
 }
 
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 mod native {
     use super::*;
     use std::ffi::c_void;
+    #[cfg(windows)]
     #[link(name = "winmm")]
     unsafe extern "system" {
         fn midiOutOpen(
@@ -918,6 +919,23 @@ mod native {
         ) -> u32;
         fn midiOutShortMsg(handle: *mut c_void, message: u32) -> u32;
         fn midiOutReset(handle: *mut c_void) -> u32;
+        fn midiOutClose(handle: *mut c_void) -> u32;
+    }
+    #[cfg(target_os = "macos")]
+    unsafe extern "C" {
+        #[link_name = "tz_midi_open"]
+        fn midiOutOpen(
+            handle: *mut *mut c_void,
+            device: u32,
+            callback: usize,
+            instance: usize,
+            flags: u32,
+        ) -> u32;
+        #[link_name = "tz_midi_message"]
+        fn midiOutShortMsg(handle: *mut c_void, message: u32) -> u32;
+        #[link_name = "tz_midi_reset"]
+        fn midiOutReset(handle: *mut c_void) -> u32;
+        #[link_name = "tz_midi_close"]
         fn midiOutClose(handle: *mut c_void) -> u32;
     }
     unsafe extern "C" {
@@ -950,16 +968,30 @@ mod native {
             let mut error = 0;
             let pcm = unsafe { tz_audio_create(&mut error) };
             if pcm.is_null() {
-                status.fail(format!("XAudio2: HRESULT {error:#010x}"));
+                status.fail(format!("PCM backend: error {error:#010x}"));
             } else {
-                status.pcm_backend = "XAudio2 2.9 / dispositivo predefinito".into();
+                #[cfg(windows)]
+                {
+                    status.pcm_backend = "XAudio2 2.9 / dispositivo predefinito".into();
+                }
+                #[cfg(target_os = "macos")]
+                {
+                    status.pcm_backend = "Core Audio / default output device".into();
+                }
             }
             let mut midi = std::ptr::null_mut();
             let code = unsafe { midiOutOpen(&mut midi, u32::MAX, 0, 0, 0) };
             if code != 0 {
-                status.fail(format!("MIDI: errore WinMM {code}"));
+                status.fail(format!("MIDI backend: error {code:#010x}"));
             } else {
-                status.midi_backend = "General MIDI / sintetizzatore Windows".into();
+                #[cfg(windows)]
+                {
+                    status.midi_backend = "General MIDI / sintetizzatore Windows".into();
+                }
+                #[cfg(target_os = "macos")]
+                {
+                    status.midi_backend = "General MIDI / Apple DLS synthesizer".into();
+                }
             }
             Self {
                 pcm,
@@ -1099,7 +1131,7 @@ fn chase(midi: &Midi, cursor: usize) -> impl Iterator<Item = u32> + '_ {
 }
 
 /// The song being played and where it is.
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 struct Song {
     track: String,
     started: Instant,
@@ -1107,7 +1139,7 @@ struct Song {
     /// Position kept while the window is in the background.
     paused_at: Option<Duration>,
 }
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 impl Song {
     /// A song started in the background waits at its beginning, so the
     /// return does not play every note it would have played meanwhile.
@@ -1121,7 +1153,7 @@ impl Song {
     }
 }
 
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 impl Mixer {
     /// Frees the slots whose sound ended.
     fn refresh(&mut self, output: &mut native::Output) {
@@ -1139,18 +1171,18 @@ impl Mixer {
     }
 }
 /// The bridge's group of the narration, after the four channels.
-#[cfg_attr(not(windows), allow(dead_code))]
+#[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
 const SPEECH_GROUP: i32 = 5;
 /// The group of a movie's sound.
-#[cfg_attr(not(windows), allow(dead_code))]
+#[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
 const MOVIE_GROUP: i32 = 6;
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 fn gain(sound: u8, volume: i32) -> f32 {
     sound as f32 / 100. * amplitude(volume as f32)
 }
 /// Starts a sound in the slot its channel gives it (0x4cfb50, 0x4ceea0,
 /// 0x4cf2d0, 0x4cf700); the voice it displaces stops first.
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 fn play(
     bank: &mut AudioBank,
     output: &mut native::Output,
@@ -1221,7 +1253,7 @@ fn play(
 /// The view moved more than three cells (0x4d01c0): the sounds of places
 /// and objects are heard again from the new centre; effects falling below
 /// −2500 stop, the voices of units and buildings keep −400 at least.
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 fn relocate(output: &mut native::Output, mixer: &mut Mixer, sound: u8, l: &Listener) {
     for channel in [Channel::Effect, Channel::Unit, Channel::Building] {
         for slot in mixer.slots[channel as usize].iter_mut() {
@@ -1257,7 +1289,7 @@ fn relocate(output: &mut native::Output, mixer: &mut Mixer, sound: u8, l: &Liste
     }
 }
 
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 fn worker(
     mut bank: AudioBank,
     rx: mpsc::Receiver<Command>,
@@ -1548,7 +1580,7 @@ fn worker(
         }
     }
 }
-#[cfg(not(windows))]
+#[cfg(not(any(windows, target_os = "macos")))]
 fn worker(
     _bank: AudioBank,
     _rx: mpsc::Receiver<Command>,
@@ -1556,7 +1588,7 @@ fn worker(
     _sounding: Arc<Mutex<Sounding>>,
 ) {
     let mut status = Status::default();
-    status.fail("Native playback currently requires Windows");
+    status.fail("Native playback currently requires Windows or macOS");
     publish(&shared, &status);
 }
 fn publish(shared: &Arc<Mutex<Status>>, status: &Status) {
@@ -1570,11 +1602,11 @@ mod tests {
     use super::*;
     /// The tests that open the device take turns: the MIDI output admits one
     /// owner at a time.
-    #[cfg(windows)]
+    #[cfg(any(windows, target_os = "macos"))]
     static DEVICE: Mutex<()> = Mutex::new(());
     #[test]
-    #[cfg(windows)]
-    #[ignore = "Requires the Windows default audio device; plays only silence"]
+    #[cfg(any(windows, target_os = "macos"))]
+    #[ignore = "Requires the default audio device; plays only silence"]
     fn device_voices_are_identified_panned_and_stopped_one_by_one() {
         let _device = DEVICE.lock().unwrap_or_else(|e| e.into_inner());
         let mut status = Status::default();
@@ -1598,6 +1630,31 @@ mod tests {
         assert!(!output.voice_active(a) && output.voice_active(b));
         output.set(b, 0.02, 0.);
         assert!(output.voice_active(b));
+        output.stop_group(4);
+        assert!(!output.voice_active(b));
+        assert!(!status.midi_backend.is_empty(), "{:?}", status.errors);
+        output.reset(&mut status);
+        output.volume(0, &mut status);
+        // Both original WAVE depths, mono/stereo, finish after resampling.
+        for bits in [8, 16] {
+            for channels in [1, 2] {
+                let pcm = Pcm {
+                    rate: 22050,
+                    channels,
+                    bits,
+                    bytes: vec![
+                        if bits == 8 { 128 } else { 0 };
+                        441 * channels as usize * (bits as usize / 8)
+                    ],
+                };
+                let id = output.play(&pcm, 6, false, 0.01, 0., &mut status).unwrap();
+                let started = Instant::now();
+                while output.voice_active(id) {
+                    assert!(started.elapsed() < Duration::from_secs(3));
+                    thread::sleep(Duration::from_millis(10));
+                }
+            }
+        }
         assert!(status.errors.is_empty(), "{:?}", status.errors);
     }
     #[test]

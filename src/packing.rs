@@ -358,12 +358,14 @@ pub fn build(
     for (name, source) in movies {
         log(format!("Filmato {name}.mp4"));
         let file = work.join(format!("{name}.mp4"));
-        #[cfg(windows)]
+        #[cfg(any(windows, target_os = "macos"))]
         media::to_mp4(source, &file, QUALITY)?;
-        #[cfg(not(windows))]
+        #[cfg(not(any(windows, target_os = "macos")))]
         {
             let _ = source;
-            return Err(invalid("La conversione dei filmati richiede Windows"));
+            return Err(invalid(
+                "La conversione dei filmati richiede Windows o macOS",
+            ));
         }
         let bytes = std::fs::read(&file)?;
         std::fs::remove_file(&file)?;

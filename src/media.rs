@@ -1,4 +1,4 @@
-//! Movies through Windows Media Foundation (`tools/media_win.cpp`): the
+//! Movies through Windows Media Foundation or macOS AVFoundation: the
 //! MP4 files of the portable copy and the Italian launcher's MPEG intro,
 //! read from memory as RGBA frames and 16-bit sound, and the MP4 files
 //! (H.264 and AAC) the release builder writes from the original movies.
@@ -34,7 +34,7 @@ impl Kind {
     }
 }
 
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 mod ffi {
     use std::ffi::c_void;
     unsafe extern "C" {
@@ -78,27 +78,33 @@ mod ffi {
         ) -> i32;
         pub fn tz_mp4_finish(writer: *mut c_void) -> i32;
         pub fn tz_mp4_abandon(writer: *mut c_void);
+        #[cfg(target_os = "macos")]
+        pub fn tz_mp4_end_audio(writer: *mut c_void);
+        #[cfg(target_os = "macos")]
+        pub fn tz_mp4_end_video(writer: *mut c_void);
+        #[cfg(target_os = "macos")]
+        pub fn tz_mp4_queue_audio(writer: *mut c_void, pcm: *const i16, samples: usize) -> i32;
     }
 }
 
 fn checked(hr: i32, what: &str) -> Result<()> {
     if hr < 0 {
         Err(invalid(format!(
-            "{what}: errore Windows 0x{:08X}",
+            "{what}: native media error 0x{:08X}",
             hr as u32
         )))
     } else {
         Ok(())
     }
 }
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 fn wide(text: &str) -> Vec<u16> {
     text.encode_utf16().chain(Some(0)).collect()
 }
 
 /// A movie read from memory, frame by frame, on the thread that opened it.
 pub struct Media {
-    #[cfg(windows)]
+    #[cfg(any(windows, target_os = "macos"))]
     handle: *mut std::ffi::c_void,
     pub width: u32,
     pub height: u32,
@@ -111,7 +117,7 @@ impl Media {
         Self::open_mime(bytes, kind.mime())
     }
     /// A file of the type `mime`; a sound file opens with no picture.
-    #[cfg(windows)]
+    #[cfg(any(windows, target_os = "macos"))]
     pub fn open_mime(bytes: &[u8], mime: &str) -> Result<Self> {
         let mime = wide(mime);
         let mut error = 0;
@@ -152,12 +158,12 @@ impl Media {
             audio,
         })
     }
-    #[cfg(not(windows))]
+    #[cfg(not(any(windows, target_os = "macos")))]
     pub fn open_mime(_: &[u8], _: &str) -> Result<Self> {
-        Err(invalid("I filmati richiedono Windows"))
+        Err(invalid("I filmati richiedono Windows o macOS"))
     }
     /// The next frame and its time in seconds; none at the end.
-    #[cfg(windows)]
+    #[cfg(any(windows, target_os = "macos"))]
     pub fn next_frame(&mut self) -> Result<Option<(f64, Bitmap)>> {
         let mut rgba = vec![0; self.width as usize * self.height as usize * 4];
         let mut time = 0.;
@@ -172,12 +178,12 @@ impl Media {
             },
         )))
     }
-    #[cfg(not(windows))]
+    #[cfg(not(any(windows, target_os = "macos")))]
     pub fn next_frame(&mut self) -> Result<Option<(f64, Bitmap)>> {
         Ok(None)
     }
 }
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 impl Drop for Media {
     fn drop(&mut self) {
         unsafe { ffi::tz_media_close(self.handle) }
@@ -185,18 +191,18 @@ impl Drop for Media {
 }
 
 /// An MP4 file being written: H.264 pictures and, optionally, AAC sound.
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 pub struct Mp4Writer {
     handle: *mut std::ffi::c_void,
     width: u32,
     height: u32,
     channels: u32,
 }
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 impl Mp4Writer {
-    /// `fps` as a fraction; the pictures of constant `quality` (1 to 100),
-    /// or of constant `bitrate` (bits per second) when it is 0; `sound` as
-    /// rate (44 100 or 48 000) and channels.
+    /// `fps` as a fraction; `quality` (1 to 100) selects constant quality on
+    /// Windows and a bitrate estimate on macOS. At 0, use `bitrate` (bits per
+    /// second). `sound` gives the rate (44 100 or 48 000) and channels.
     pub fn create(
         path: &Path,
         width: u32,
@@ -235,7 +241,12 @@ impl Mp4Writer {
     }
     /// One RGBA picture from `time` for `duration`, in seconds.
     pub fn frame(&mut self, picture: &Bitmap, time: f64, duration: f64) -> Result<()> {
-        if (picture.width, picture.height) != (self.width, self.height) {
+        let bytes = (self.width as usize)
+            .checked_mul(self.height as usize)
+            .and_then(|n| n.checked_mul(4));
+        if (picture.width, picture.height) != (self.width, self.height)
+            || bytes != Some(picture.rgba.len())
+        {
             return Err(invalid("Fotogramma di misura diversa"));
         }
         let hr = unsafe {
@@ -251,12 +262,20 @@ impl Mp4Writer {
     /// Interleaved sound from `time`, in seconds, at the rate given at
     /// creation.
     pub fn sound(&mut self, pcm: &[i16], time: f64, rate: u32) -> Result<()> {
-        let frames = pcm.len() / self.channels.max(1) as usize;
+        if self.channels == 0 || rate == 0 || !pcm.len().is_multiple_of(self.channels as usize) {
+            return Err(invalid("Sonoro del filmato non valido"));
+        }
+        let frames = pcm.len() / self.channels as usize;
+        let frames =
+            u32::try_from(frames).map_err(|_| invalid("Sonoro del filmato troppo lungo"))?;
+        if frames == 0 {
+            return Ok(());
+        }
         let hr = unsafe {
             ffi::tz_mp4_audio(
                 self.handle,
                 pcm.as_ptr(),
-                frames as u32,
+                frames,
                 (time * 1e7).round() as i64,
                 (frames as f64 / rate as f64 * 1e7).round() as i64,
             )
@@ -267,8 +286,31 @@ impl Mp4Writer {
         let handle = std::mem::replace(&mut self.handle, std::ptr::null_mut());
         checked(unsafe { ffi::tz_mp4_finish(handle) }, "Chiusura MP4")
     }
+    fn end_audio(&mut self) {
+        #[cfg(target_os = "macos")]
+        unsafe {
+            ffi::tz_mp4_end_audio(self.handle)
+        };
+    }
+    fn end_video(&mut self) {
+        #[cfg(target_os = "macos")]
+        unsafe {
+            ffi::tz_mp4_end_video(self.handle)
+        };
+    }
+    #[cfg(target_os = "macos")]
+    fn queue_audio(&mut self, samples: &[i16]) -> Result<()> {
+        if samples.is_empty() {
+            self.end_audio();
+            return Ok(());
+        }
+        checked(
+            unsafe { ffi::tz_mp4_queue_audio(self.handle, samples.as_ptr(), samples.len()) },
+            "Scrittura del sonoro",
+        )
+    }
 }
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 impl Drop for Mp4Writer {
     fn drop(&mut self) {
         if !self.handle.is_null() {
@@ -277,8 +319,8 @@ impl Drop for Mp4Writer {
     }
 }
 
-/// The sound of a file Windows reads (`mime` such as "audio/flac"), as
-/// 16-bit samples.
+/// A sound file read by the native backend (`mime` such as "audio/flac"),
+/// returned as 16-bit samples.
 pub fn decode_sound(bytes: &[u8], mime: &str) -> Result<Pcm> {
     Media::open_mime(bytes, mime)?
         .audio
@@ -316,9 +358,9 @@ pub fn italian_intro(source: &Path) -> Option<std::path::PathBuf> {
 }
 
 /// Writes a movie as MP4 at `path`: its pictures at their own times, of
-/// constant `quality` (1 to 100), and its sound as AAC at 44.1 kHz
+/// the requested `quality` (1 to 100), and its sound as AAC at 44.1 kHz
 /// (22.05 kHz sound doubled first).
-#[cfg(windows)]
+#[cfg(any(windows, target_os = "macos"))]
 pub fn to_mp4(source: Source, path: &Path, quality: u32) -> Result<()> {
     let mut decoder = Decoder::open(source)?;
     let header = decoder.header();
@@ -363,23 +405,35 @@ pub fn to_mp4(source: Source, path: &Path, quality: u32) -> Result<()> {
         (4_000_000, quality),
         sound.as_ref().map(|(rate, _, ch)| (*rate, u32::from(*ch))),
     )?;
-    // Sound and pictures interleaved: the writer waits for a stream that
-    // falls behind the other.
-    let mut chunks = sound.as_ref().map(|(rate, samples, channels)| {
-        (
-            *rate,
-            samples
-                .chunks(1024 * *channels as usize)
-                .enumerate()
-                .peekable(),
-        )
-    });
+    #[cfg(target_os = "macos")]
+    if let Some((_, samples, _)) = &sound {
+        writer.queue_audio(samples)?;
+    }
+    // Media Foundation takes interleaved samples from this thread. On macOS
+    // AVFoundation has its own audio producer so encoder backpressure cannot
+    // prevent either stream from supplying the other with enough input.
+    let mut chunks =
+        sound
+            .as_ref()
+            .filter(|_| !cfg!(target_os = "macos"))
+            .map(|(rate, samples, channels)| {
+                (
+                    *rate,
+                    samples
+                        .chunks(1024 * *channels as usize)
+                        .enumerate()
+                        .peekable(),
+                )
+            });
     let mut sound_until = |writer: &mut Mp4Writer, time: f64| -> Result<()> {
         if let Some((rate, parts)) = &mut chunks {
             while let Some((n, part)) =
                 parts.next_if(|(n, _)| *n as f64 * 1024. / *rate as f64 <= time)
             {
                 writer.sound(part, n as f64 * 1024. / *rate as f64, *rate)?;
+            }
+            if parts.peek().is_none() {
+                writer.end_audio();
             }
         }
         Ok(())
@@ -397,6 +451,7 @@ pub fn to_mp4(source: Source, path: &Path, quality: u32) -> Result<()> {
             None
         };
     }
+    writer.end_video();
     sound_until(&mut writer, f64::INFINITY)?;
     writer.finish()
 }
@@ -632,7 +687,7 @@ mod tests {
 
     /// An MP4 written here reads back with its size, its pictures the right
     /// way up and its sound.
-    #[cfg(windows)]
+    #[cfg(any(windows, target_os = "macos"))]
     #[test]
     fn an_mp4_written_reads_back() {
         let dir = std::env::temp_dir().join(format!("retzar-mp4-{}", std::process::id()));
@@ -641,6 +696,21 @@ mod tests {
         let (w, h) = (320, 200);
         let mut writer =
             Mp4Writer::create(&path, w, h, (25, 1), (1_500_000, 0), Some((44100, 2))).unwrap();
+        // Reject malformed buffers before handing their pointers to native code.
+        assert!(
+            writer
+                .frame(
+                    &Bitmap {
+                        width: w,
+                        height: h,
+                        rgba: vec![]
+                    },
+                    0.,
+                    0.04
+                )
+                .is_err()
+        );
+        assert!(writer.sound(&[0], 0., 44100).is_err());
         for i in 0..50 {
             // Red above, blue below.
             let mut rgba = vec![0u8; (w * h * 4) as usize];
@@ -735,8 +805,67 @@ mod tests {
         std::fs::remove_dir_all(dir).unwrap();
     }
 
-    /// The Italian launcher's MPEG intro reads through Media Foundation.
-    #[cfg(windows)]
+    #[cfg(target_os = "macos")]
+    #[test]
+    fn macos_conversion_drains_both_streams_and_can_be_abandoned() {
+        let dir =
+            std::env::temp_dir().join(format!("retzar-mac-conversion-{}", std::process::id()));
+        std::fs::create_dir_all(&dir).unwrap();
+        let sentinel = dir.join("keep.txt");
+        std::fs::write(&sentinel, b"keep").unwrap();
+        assert!(Mp4Writer::create(&dir, 320, 240, (25, 1), (1_500_000, 0), None).is_err());
+        assert_eq!(std::fs::read(&sentinel).unwrap(), b"keep");
+        let picture = Bitmap {
+            width: 320,
+            height: 240,
+            rgba: [0, 0, 0, 255].repeat(320 * 240),
+        };
+        // More than a few seconds exercises offline encoder backpressure.
+        // Audio ends before, with, and after the ten-second video track.
+        for seconds in [2, 10, 12] {
+            let input = dir.join(format!("input-{seconds}.mp4"));
+            let output = dir.join(format!("output-{seconds}.mp4"));
+            let mut writer =
+                Mp4Writer::create(&input, 320, 240, (25, 1), (1_500_000, 0), Some((44100, 2)))
+                    .unwrap();
+            writer.queue_audio(&vec![0; 44100 * 2 * seconds]).unwrap();
+            for frame in 0..250 {
+                writer.frame(&picture, frame as f64 / 25., 0.04).unwrap();
+            }
+            writer.finish().unwrap();
+            to_mp4(
+                Source::Media(std::fs::read(input).unwrap(), Kind::Mp4),
+                &output,
+                90,
+            )
+            .unwrap();
+            let mut converted = Media::open(&std::fs::read(output).unwrap(), Kind::Mp4).unwrap();
+            assert!((converted.seconds - seconds.max(10) as f64).abs() < 0.2);
+            let audio = converted.audio.take().unwrap();
+            assert!((audio.seconds() - seconds as f64).abs() < 0.2);
+            let mut frames = 0;
+            while converted.next_frame().unwrap().is_some() {
+                frames += 1;
+            }
+            assert_eq!(frames, 250);
+        }
+        // Cancelling a partially supplied movie must join its audio producer.
+        let mut abandoned = Mp4Writer::create(
+            &dir.join("abandoned.mp4"),
+            320,
+            240,
+            (25, 1),
+            (1_500_000, 0),
+            Some((44100, 2)),
+        )
+        .unwrap();
+        abandoned.queue_audio(&vec![0; 44100 * 2 * 10]).unwrap();
+        drop(abandoned);
+        std::fs::remove_dir_all(dir).unwrap();
+    }
+
+    /// The Italian launcher's MPEG intro reads through the native backend.
+    #[cfg(any(windows, target_os = "macos"))]
     #[test]
     #[ignore = "Requires this installation's original game data"]
     fn the_italian_intro_reads_from_memory() {

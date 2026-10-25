@@ -308,29 +308,34 @@ pub fn window_settings(w: &mut Window, s: &Settings) {
     };
 }
 
-/// The renderer: Vulkan only, on the most capable graphics card. Release
-/// builds also drop wgpu's checks of indirect draws, which ReTzar never
+/// The renderer: Metal on macOS, Vulkan elsewhere, on the most capable GPU.
+/// Release builds also drop wgpu's checks of indirect draws, which ReTzar never
 /// issues (bevy keeps them whenever DirectX 12 could be chosen). A computer
-/// without a Vulkan driver gets an explanation instead of a crash.
-fn vulkan_settings() -> Result<WgpuSettings> {
+/// without a supported graphics device gets an explanation instead of a crash.
+fn graphics_settings() -> Result<WgpuSettings> {
+    #[cfg(target_os = "macos")]
+    let backends = Backends::METAL;
+    #[cfg(not(target_os = "macos"))]
+    let backends = Backends::VULKAN;
     let mut flags = InstanceFlags::default();
     if !cfg!(debug_assertions) {
         flags.remove(InstanceFlags::VALIDATION_INDIRECT_CALL);
     }
     let flags = flags.with_env();
     let instance = wgpu::Instance::new(wgpu::InstanceDescriptor {
-        backends: Backends::VULKAN,
+        backends,
         flags,
         ..wgpu::InstanceDescriptor::new_without_display_handle()
     });
-    if bevy::tasks::block_on(instance.enumerate_adapters(Backends::VULKAN)).is_empty() {
-        return Err(retzar::lang::t(
-            "Nessuna scheda video Vulkan trovata. ReTzar disegna solo con Vulkan: aggiorna i driver della scheda video.",
-        )
-        .into());
+    if bevy::tasks::block_on(instance.enumerate_adapters(backends)).is_empty() {
+        #[cfg(target_os = "macos")]
+        let message = "Nessuna scheda video Metal trovata. ReTzar richiede una scheda video compatibile con Metal su macOS.";
+        #[cfg(not(target_os = "macos"))]
+        let message = "Nessuna scheda video Vulkan trovata. ReTzar disegna solo con Vulkan: aggiorna i driver della scheda video.";
+        return Err(retzar::lang::t(message).into());
     }
     Ok(WgpuSettings {
-        backends: Some(Backends::VULKAN),
+        backends: Some(backends),
         power_preference: PowerPreference::HighPerformance,
         instance_flags: flags,
         memory_hints: MemoryHints::Performance,
@@ -357,7 +362,7 @@ pub fn run(locations: &Locations, launch: Launch) -> Result<()> {
     };
     window_settings(&mut window, &menu.settings);
     window.position = WindowPosition::Centered(MonitorSelection::Primary);
-    let vulkan = vulkan_settings()?;
+    let graphics = graphics_settings()?;
     // Without sounds.wdt or an audio device the game still runs, silently.
     let player = Player::start(&locations.source)
         .inspect_err(|e| {
@@ -382,7 +387,7 @@ pub fn run(locations: &Locations, launch: Launch) -> Result<()> {
                 })
                 .set(ImagePlugin::default_nearest())
                 .set(RenderPlugin {
-                    render_creation: RenderCreation::Automatic(Box::new(vulkan)),
+                    render_creation: RenderCreation::Automatic(Box::new(graphics)),
                     ..default()
                 }),
         );

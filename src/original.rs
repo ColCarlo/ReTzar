@@ -121,7 +121,7 @@ fn settings(root: &Path) -> serde_json::Value {
         .unwrap_or_else(|| serde_json::json!({}))
 }
 /// The folder chosen before.
-fn saved(root: &Path) -> Option<PathBuf> {
+pub(crate) fn saved(root: &Path) -> Option<PathBuf> {
     settings(root).get(KEY)?.as_str().map(PathBuf::from)
 }
 /// Keeps the chosen folder in `settings.json`, with the rest of it.
