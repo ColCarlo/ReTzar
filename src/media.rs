@@ -711,6 +711,15 @@ mod tests {
                 .is_err()
         );
         assert!(writer.sound(&[0], 0., 44100).is_err());
+        let tone: Vec<i16> = (0..44100 * 2)
+            .map(|i| {
+                (((i / 2) as f64 * 440. * 2. * std::f64::consts::PI / 44100.).sin() * 8000.) as i16
+            })
+            .collect();
+        // Offline AVFoundation encoders may stop accepting video until audio
+        // advances. Use the same independent producer as movie conversion.
+        #[cfg(target_os = "macos")]
+        writer.queue_audio(&tone).unwrap();
         for i in 0..50 {
             // Red above, blue below.
             let mut rgba = vec![0u8; (w * h * 4) as usize];
@@ -735,11 +744,7 @@ mod tests {
             };
             writer.frame(&picture, i as f64 / 25., 1. / 25.).unwrap();
         }
-        let tone: Vec<i16> = (0..44100 * 2)
-            .map(|i| {
-                (((i / 2) as f64 * 440. * 2. * std::f64::consts::PI / 44100.).sin() * 8000.) as i16
-            })
-            .collect();
+        #[cfg(windows)]
         for (n, chunk) in tone.chunks(2048).enumerate() {
             writer
                 .sound(chunk, n as f64 * 1024. / 44100., 44100)
