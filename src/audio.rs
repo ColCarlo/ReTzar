@@ -294,7 +294,9 @@ impl AudioBank {
         let archive = crate::assets::sounds(source)?;
         let mut midi = BTreeMap::new();
         for e in &archive.entries {
-            let name = e.name.to_ascii_uppercase();
+            // `MUSIC/INTRO.MID` whether the archive is a pack or the
+            // installation's folders, whose names have `\`.
+            let name = crate::archive::key(&e.name);
             if name.ends_with(".MID") {
                 midi.insert(
                     name,
