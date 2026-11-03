@@ -505,13 +505,8 @@ pub fn audit_catalog(source: &std::path::Path) -> crate::Result<Vec<Report>> {
             .collect();
         let has_file = |name: &str| entries.contains(&name.replace('\\', "/").to_ascii_lowercase());
         let has_map = |path: &str| {
-            let wanted = path.replace('\\', "/");
             campaign.is_some_and(|k| {
-                catalog.campaigns[k].missions.iter().any(|x| {
-                    x.nested
-                        .as_deref()
-                        .is_some_and(|n| n.eq_ignore_ascii_case(&wanted))
-                })
+                crate::scenario::find_mission(&catalog.campaigns[k].missions, path).is_some()
             })
         };
         let cx = Context {
