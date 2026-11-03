@@ -97,8 +97,11 @@ Tzar: The Burden of the Crown on Arch Linux (X11, NVIDIA)**. As on macOS,
 build from source; ReTzar reads your Tzar folder directly and remembers it
 in `settings.json`, without `ReTzar.dat`.
 
-1. Install [Rust](https://rustup.rs), a C compiler and a Vulkan driver.
-   For the setup dialogs, install `zenity` (or `kdialog` on KDE).
+1. Install [Rust](https://rustup.rs), a C compiler, a Vulkan driver and
+   the ALSA headers (`alsa-lib`, `libasound2-dev` on Debian/Ubuntu). For
+   the setup dialogs, install `zenity` (or `kdialog` on KDE); for the
+   music, a General MIDI SoundFont (`soundfont-fluid` on Arch,
+   `fluid-soundfont-gm` on Fedora and Debian/Ubuntu).
 2. Install or extract your original Tzar copy first, as for macOS. A Tzar
    installed in Wine, Bottles or Lutris works: choose the folder inside its
    `drive_c` that contains `Maps`.
@@ -110,9 +113,12 @@ cargo run --locked --release --bin retzar -- --source "/path/to/Tzar"
 ```
 
 ReTzar opens an X11 window; Wayland desktops run it through XWayland.
-**Linux has no sound yet**, and of the movies only the original DDV ones
-play (MP4/MPEG decoding and the data-pack builder use Windows' and macOS'
-media frameworks).
+Sound effects, voices and movie soundtracks play on the default output
+device (ALSA, PipeWire or PulseAudio); MIDI music plays through the
+SoundFont found in `/usr/share/soundfonts` or `/usr/share/sounds/sf2`, a
+`.sf2` beside the executable, or the one `RETZAR_SOUNDFONT` names. Of the
+movies only the original DDV ones play (MP4/MPEG decoding and the
+data-pack builder use Windows' and macOS' media frameworks).
 
 ## License
 

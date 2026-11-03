@@ -2,6 +2,8 @@ pub mod animation;
 pub mod archive;
 pub mod assets;
 pub mod audio;
+#[cfg(all(unix, not(target_os = "macos")))]
+mod audio_unix;
 pub mod bitmap;
 pub mod bolt;
 pub mod ddv;
