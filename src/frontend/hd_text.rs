@@ -27,9 +27,11 @@ pub fn resolve(
     original: impl FnOnce() -> Bitmap,
 ) -> Vec<TextOp> {
     let ops = std::mem::take(&mut rec.ops);
+    // Without a font to draw them in, every text keeps the original font.
+    let drawable = font::has_arial();
     let (sharp, back): (Vec<_>, Vec<_>) = ops.into_iter().enumerate().partition(|(k, op)| {
         let k = (k + 1).min(u16::MAX as usize);
-        op.pixels.iter().all(|&(i, _)| rec.shows(k, i))
+        drawable && op.pixels.iter().all(|&(i, _)| rec.shows(k, i))
     });
     if !back.is_empty() {
         let original = original();

@@ -776,9 +776,90 @@ pub fn arial(text: &str, height: u32) -> Option<(u32, u32, Vec<u8>)> {
     };
     (drawn != 0).then_some((width as u32, cell as u32, out))
 }
+/// [`arial`] outside Windows: Arial Bold where the system has it, else the
+/// font fontconfig gives in its place (Liberation Sans Bold, Arial's metrics),
+/// drawn by ab_glyph as GDI draws it: `height` pixels to the em, the cell
+/// from the ascent to the descent, the text from the cell's top.
 #[cfg(not(windows))]
-pub fn arial(_: &str, _: u32) -> Option<(u32, u32, Vec<u8>)> {
-    None
+pub fn arial(text: &str, height: u32) -> Option<(u32, u32, Vec<u8>)> {
+    use ab_glyph::{Font, ScaleFont};
+    let font = arial_bold()?;
+    let em = font.units_per_em()?;
+    let scaled = font.as_scaled(height as f32 * font.height_unscaled() / em);
+    let cell = (scaled.ascent() - scaled.descent()).ceil().max(1.) as u32;
+    let mut glyphs = Vec::new();
+    let mut x = 0f32;
+    let mut previous = None;
+    for c in text.chars() {
+        let id = scaled.glyph_id(c);
+        if let Some(p) = previous {
+            x += scaled.kern(p, id);
+        }
+        glyphs.push(id.with_scale_and_position(scaled.scale(), (x, scaled.ascent())));
+        x += scaled.h_advance(id);
+        previous = Some(id);
+    }
+    let width = x.ceil() as u32;
+    if width == 0 {
+        return None;
+    }
+    let mut out = vec![0u8; (width * cell) as usize];
+    for glyph in glyphs {
+        let Some(outline) = scaled.outline_glyph(glyph) else {
+            continue;
+        };
+        let bounds = outline.px_bounds();
+        outline.draw(|gx, gy, cover| {
+            let (px, py) = (
+                bounds.min.x as i32 + gx as i32,
+                bounds.min.y as i32 + gy as i32,
+            );
+            if (0..width as i32).contains(&px) && (0..cell as i32).contains(&py) {
+                let at = (py as u32 * width + px as u32) as usize;
+                out[at] = out[at].max((cover * 255.).round() as u8);
+            }
+        });
+    }
+    Some((width, cell, out))
+}
+/// Whether «Testi in alta definizione» can draw: Windows always has Arial.
+pub fn has_arial() -> bool {
+    #[cfg(windows)]
+    {
+        true
+    }
+    #[cfg(not(windows))]
+    {
+        arial_bold().is_some()
+    }
+}
+/// The font [`arial`] draws with, read once.
+#[cfg(not(windows))]
+fn arial_bold() -> Option<&'static ab_glyph::FontVec> {
+    static FONT: std::sync::OnceLock<Option<ab_glyph::FontVec>> = std::sync::OnceLock::new();
+    FONT.get_or_init(|| {
+        // fontconfig's choice for Arial Bold (Linux and the other Unixes).
+        let matched = std::process::Command::new("fc-match")
+            .args(["-f", "%{file}", "Arial:bold"])
+            .output()
+            .ok()
+            .filter(|o| o.status.success())
+            .map(|o| std::path::PathBuf::from(String::from_utf8_lossy(&o.stdout).into_owned()));
+        let known = [
+            "/System/Library/Fonts/Supplemental/Arial Bold.ttf",
+            "/Library/Fonts/Arial Bold.ttf",
+            "/usr/share/fonts/TTF/arialbd.ttf",
+            "/usr/share/fonts/truetype/msttcorefonts/Arial_Bold.ttf",
+            "/usr/share/fonts/liberation/LiberationSans-Bold.ttf",
+            "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
+        ];
+        matched
+            .into_iter()
+            .chain(known.iter().map(std::path::PathBuf::from))
+            .filter(|p| p.is_file())
+            .find_map(|p| ab_glyph::FontVec::try_from_vec(std::fs::read(p).ok()?).ok())
+    })
+    .as_ref()
 }
 
 #[cfg(test)]
