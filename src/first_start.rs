@@ -3,9 +3,10 @@
 //! folder, of any edition, checks that it holds the original game and makes
 //! its data pack from it, once, with that edition's content. The release
 //! ships the whole pack instead ([`original::require`]).
-//! On macOS the chosen installation is read directly and saved in settings.
+//! On Windows only: elsewhere (macOS, Linux) the chosen installation is
+//! read directly and saved in settings.
 use crate::{Result, lang, original, pack, paths, picker};
-#[cfg(not(target_os = "macos"))]
+#[cfg(windows)]
 use crate::{invalid, packing};
 use std::path::{Path, PathBuf};
 
@@ -42,7 +43,7 @@ fn installation_at(chosen: &Path) -> Option<PathBuf> {
 /// Asks for the Tzar folder and makes `ReTzar.dat` beside the executable
 /// in `exe_dir`, where the settings also go; the folder is kept as the
 /// original copy the game plays beside ([`original::require`]).
-#[cfg(not(target_os = "macos"))]
+#[cfg(windows)]
 pub fn prepare(_args: &[String], exe_dir: &Path) -> Result<bool> {
     original::speak(exe_dir);
     if !picker::welcome(lang::t(
@@ -117,7 +118,7 @@ pub fn prepare(_args: &[String], exe_dir: &Path) -> Result<bool> {
 /// macOS reads the original installation directly and remembers it beside
 /// the other settings, including when --root or RETZAR_HOME is supplied.
 /// Returns false when the player cancels setup.
-#[cfg(target_os = "macos")]
+#[cfg(not(windows))]
 pub fn prepare(args: &[String], exe_dir: &Path) -> Result<bool> {
     let root = paths::Locations::root_with(args, &|key| std::env::var_os(key), exe_dir);
     original::speak(&root);

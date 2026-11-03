@@ -67,13 +67,13 @@ impl Locations {
             .or(portable)
             .or_else(|| env("TZAR_DATA_ROOT").map(PathBuf::from))
             .or_else(|| {
-                // macOS uses the original files directly, rather than building
-                // a portable pack as part of first-run setup.
-                #[cfg(target_os = "macos")]
+                // Outside Windows the original files are read directly,
+                // rather than building a portable pack at the first start.
+                #[cfg(not(windows))]
                 {
                     crate::original::saved(&root).filter(|p| is_installation(p))
                 }
-                #[cfg(not(target_os = "macos"))]
+                #[cfg(windows)]
                 {
                     None
                 }
@@ -120,9 +120,9 @@ impl Locations {
 #[cfg(test)]
 mod tests {
     use super::*;
-    #[cfg(target_os = "macos")]
+    #[cfg(not(windows))]
     #[test]
-    fn macos_remembers_the_selected_installation_and_honors_overrides() {
+    fn outside_windows_remembers_the_selected_installation_and_honors_overrides() {
         let base = std::env::temp_dir().join(format!("retzar-mac-source-{}", std::process::id()));
         let root = base.join("settings");
         let source = base.join("Tzar GOG");
