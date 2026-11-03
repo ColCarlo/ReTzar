@@ -519,6 +519,9 @@ pt: Gravação interrompida
 it: Salvataggio non riuscito: {}
 pt: Erro ao gravar: {}
 
+it: Mappa successiva non trovata: {}
+pt: Mapa seguinte não encontrado: {}
+
 it: Impossibile riprodurre intro: {}
 pt: Não é possível reproduzir a introdução: {}
 

@@ -340,6 +340,7 @@ pub const ENGLISH: &[(&str, &str)] = &[
     ("Simulazione non inizializzata", "The game has not started"),
     ("Salvataggio interrotto", "Save interrupted"),
     ("Salvataggio non riuscito: {}", "Save failed: {}"),
+    ("Mappa successiva non trovata: {}", "Next map not found: {}"),
     (
         "Impossibile riprodurre intro: {}",
         "Cannot play the intro: {}",
