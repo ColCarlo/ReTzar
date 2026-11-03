@@ -1427,7 +1427,8 @@ impl Runtime {
                     })
             })
             && self.pathing.regions.valid(side)
-            && self.scaled_remainder < 75
+            // Nanoseconds into the current turn (see `advance`): below one turn.
+            && self.scaled_remainder < TICK_MS * 1_000_000
             && self.events.len() <= 10
             && self.events.iter().all(|e| e.object < n && cell(e.cell))
             && self.picks.iter().all(|&j| j < n)
@@ -17308,6 +17309,18 @@ mod tests {
         assert!(!rt.validate(1, 64));
         rt.actors[0].intent = None;
         assert!(rt.validate(1, 64));
+    }
+    #[test]
+    fn player_gameplay_runtime_validation_accepts_a_turn_in_progress() {
+        // A game saved partway through a 50 ms turn: the remainder is in
+        // nanoseconds, anywhere below one turn.
+        let mut rt = Runtime::default();
+        for remainder in [0, 74, 75, 16_667_000, TICK_MS * 1_000_000 - 1] {
+            rt.scaled_remainder = remainder;
+            assert!(rt.validate(0, 64), "remainder {remainder}");
+        }
+        rt.scaled_remainder = TICK_MS * 1_000_000;
+        assert!(!rt.validate(0, 64));
     }
     #[test]
     #[ignore = "Requires the installed original game archives"]
