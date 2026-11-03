@@ -14,6 +14,8 @@ const HELP: &str = "retzar-tools — strumenti di sviluppo per i formati origina
   --dump-text CARTELLA          tutti gli INI e TXT degli archivi in UTF-8
   --extract NOME --to FILE      copia una risorsa così com'è
   --sprite-bmp NOME --to FILE [--slot N]   foglio RLE decodificato in BMP
+  --hd-export CARTELLA          i fogli degli oggetti in PNG, con le maschere dei colori dei regni,
+                                da ridisegnare per un pacchetto HD (docs/hd-packs.md)
   --hpfs FILE [--nested N] [--entry E [--to FILE]]   voci di un contenitore
   --mission ID                  oggetti, proprietari e regni di uno scenario
   --records CLASSE [--scenario ID]   dati grezzi degli oggetti di una classe
@@ -161,6 +163,9 @@ fn run(source: &Path, args: &[String]) -> Result<()> {
         std::fs::write(target, image.to_bmp([255, 0, 255]))?;
         println!("{name}: {} × {} → {target}", image.width, image.height);
         return Ok(());
+    }
+    if let Some(out) = value(args, "--hd-export") {
+        return hd_export(source, Path::new(out));
     }
     if let Some(name) = value(args, "--extract") {
         let target = value(args, "--to").ok_or("Usa --extract NOME --to FILE")?;
@@ -495,5 +500,121 @@ fn script_dump(source: &Path, id: &str) -> Result<()> {
             );
         }
     }
+    Ok(())
+}
+
+/// The object sheets as the sprite builder decodes them, to
+/// `<out>/<ARCHIVE PATH>.png`: the originals of an HD pack
+/// ([`retzar::world::hd_picture`]). A sheet with kingdom shades is written as
+/// stored, its kingdom parts in light greys, with the mask of those parts in
+/// `<out>/player/<ARCHIVE PATH>.png` ([`retzar::world::hd_kingdom_picture`]).
+/// Shadows and the ground tiles are left out.
+fn hd_export(source: &Path, out: &Path) -> Result<()> {
+    use retzar::sprite::SpriteSheet;
+    const SKIP: [&str; 4] = [
+        "IMAGES/SCREENS/",
+        "IMAGES/CURSORS/",
+        "IMAGES/ICONS/",
+        "IMAGES/ORDERS/",
+    ];
+    let assets = GameAssets::open(source)?;
+    let (mut written, mut kingdom, mut pixels) = (0, 0, 0u64);
+    for name in assets.names() {
+        let upper = name.to_ascii_uppercase();
+        let file = upper.rsplit('/').next().unwrap_or(&upper);
+        let stem = file.rsplit_once('.').map_or(file, |(s, _)| s);
+        // The ground atlases (`NN.BMP`, but `N8.BMP` are the cliffs), opaque,
+        // their transition markers made transparent so the upscaler never
+        // smears them (the terrain takes the markers from the originals).
+        let tile = upper.starts_with("IMAGES/TERRAIN/")
+            && stem.len() == 2
+            && stem.bytes().all(|b| b.is_ascii_digit())
+            && !stem.ends_with('8');
+        if !upper.starts_with("IMAGES/")
+            || SKIP.iter().any(|p| upper.starts_with(p))
+            || stem == "LIGHT"
+            || stem.ends_with("_S")
+            || stem.ends_with(" S")
+            || stem.contains("SHADOW")
+        {
+            continue;
+        }
+        let data = assets.get(name)?;
+        // As stored, and in two kingdoms' colours: the pixels that change
+        // are the kingdom parts.
+        let decode = |slot: Option<usize>| -> Option<Bitmap> {
+            if tile {
+                let mut b = Bitmap::decode_for(&data, false, None).ok()?;
+                for p in b.rgba.chunks_exact_mut(4) {
+                    if p[..3] == [255, 0, 255] || p[..3] == [0, 255, 0] {
+                        p[3] = 0;
+                    }
+                }
+                Some(b)
+            } else if upper.ends_with(".RLE") {
+                SpriteSheet::decode_for(&data, slot).ok().map(|s| s.image)
+            } else if upper.ends_with(".BMP") && data.starts_with(b"BM") {
+                Bitmap::decode_for(&data, true, slot).ok()
+            } else {
+                None
+            }
+        };
+        let indexed = !tile
+            && if upper.ends_with(".RLE") {
+                SpriteSheet::is_indexed(&data)
+            } else {
+                Bitmap::is_indexed(&data)
+            };
+        let Some(image) = decode(None) else {
+            continue;
+        };
+        // Run-only shadow sheets are the engine's 50% darkening, not art.
+        if image
+            .rgba
+            .chunks_exact(4)
+            .all(|p| p[3] == 0 || p == retzar::sprite::SHADOW)
+        {
+            continue;
+        }
+        let mut player = None;
+        if indexed && let (Some(a), Some(b)) = (decode(Some(0)), decode(Some(3))) {
+            let mut mask = Bitmap {
+                width: image.width,
+                height: image.height,
+                rgba: vec![0; image.rgba.len()],
+            };
+            let mut any = false;
+            for (i, m) in mask.rgba.chunks_exact_mut(4).enumerate() {
+                let p = i * 4..i * 4 + 3;
+                let on = image.rgba[i * 4 + 3] != 0
+                    && (image.rgba[p.clone()] != a.rgba[p.clone()]
+                        || image.rgba[p.clone()] != b.rgba[p]);
+                any |= on;
+                let v = if on { 255 } else { 0 };
+                m.copy_from_slice(&[v, v, v, 255]);
+            }
+            if any {
+                player = Some(mask);
+            }
+        }
+        let write = |path: std::path::PathBuf, b: &Bitmap| -> Result<()> {
+            if let Some(dir) = path.parent() {
+                std::fs::create_dir_all(dir)?;
+            }
+            std::fs::write(&path, b.to_png()?)?;
+            Ok(())
+        };
+        write(out.join(format!("{upper}.png")), &image)?;
+        if let Some(mask) = &player {
+            write(out.join("player").join(format!("{upper}.png")), mask)?;
+            kingdom += 1;
+        }
+        written += 1;
+        pixels += image.width as u64 * image.height as u64;
+    }
+    println!(
+        "{written} fogli ({kingdom} con i colori dei regni), {pixels} pixel → {}",
+        out.display()
+    );
     Ok(())
 }

@@ -1434,6 +1434,9 @@ pub fn descent(lift: [f32; 2], rows: usize, row: usize) -> [f32; 2] {
 }
 pub struct VisualScene {
     pub images: Vec<Bitmap>,
+    /// The HD pack ([`crate::hd`]): for an image of `images`, the same picture at
+    /// [`HD_SCALE`] times its size, drawn in its place at the original size.
+    pub hd: std::collections::HashMap<usize, Bitmap>,
     pub visuals: Vec<ObjectVisual>,
     pub missing: Vec<String>,
     pub animations: Vec<SpriteAnimation>,
@@ -1960,12 +1963,14 @@ impl ObjectLibrary {
             side: 1,
             out: VisualScene {
                 images: Vec::new(),
+                hd: Default::default(),
                 visuals: Vec::new(),
                 missing: Vec::new(),
                 animations: Vec::new(),
                 flights: Vec::new(),
             },
             sheets: BTreeMap::new(),
+            hd_sheets: BTreeMap::new(),
             shared: Default::default(),
             frames: BTreeMap::new(),
             animations: Default::default(),
@@ -2009,12 +2014,14 @@ impl ObjectLibrary {
             side,
             out: VisualScene {
                 images: Vec::new(),
+                hd: Default::default(),
                 visuals: Vec::new(),
                 missing: Vec::new(),
                 animations: Vec::new(),
                 flights: Vec::new(),
             },
             sheets: BTreeMap::new(),
+            hd_sheets: BTreeMap::new(),
             shared: Default::default(),
             frames: BTreeMap::new(),
             animations: Default::default(),
@@ -2414,12 +2421,85 @@ struct Builder<'a> {
     side: usize,
     out: VisualScene,
     sheets: BTreeMap<(String, Option<usize>), SpriteSheet>,
+    /// The HD pack's sheets, for the sheets it has.
+    hd_sheets: BTreeMap<(String, Option<usize>), SpriteSheet>,
     /// Pictures without kingdom shades, loaded once for every colour.
     shared: std::collections::BTreeSet<String>,
     frames: BTreeMap<((String, Option<usize>), usize, usize), usize>,
     animations: std::collections::HashMap<((String, Option<usize>), usize, Vec<u64>), usize>,
 }
 type SheetKey = (String, Option<usize>);
+/// How many times larger an HD pack's pictures are ([`crate::hd`]).
+pub const HD_SCALE: u32 = crate::hd::SCALE;
+/// A picture of the HD pack chosen ([`crate::hd`]): `<ARCHIVE PATH>.png` in
+/// capitals (as `retzar-tools --hd-export` writes the originals), at
+/// [`HD_SCALE`] times the size of the original picture `width × height`.
+pub fn hd_picture(name: &str, width: u32, height: u32) -> Option<Bitmap> {
+    let dir = crate::hd::dir()?;
+    let file = format!("{}.png", name.to_ascii_uppercase());
+    let bytes = std::fs::read(std::path::Path::new(&dir).join(file)).ok()?;
+    let b = Bitmap::decode_png(&bytes).ok()?;
+    (b.width == width * HD_SCALE && b.height == height * HD_SCALE).then_some(b)
+}
+/// The HD pack's picture of a sheet with kingdom shades, recoloured for the
+/// slot `coloured` was decoded in. `greys` is the same sheet as stored: its
+/// kingdom parts in the light greys 240–255 that the slot's ramp replaces.
+/// The pack holds the picture in those greys and, beside it as
+/// `<NAME>.PLAYER.png`, how much of each pixel is a kingdom part; each grey
+/// shade's colour is read from the two decodings, and an HD pixel takes the
+/// colour of its brightness among them.
+pub fn hd_kingdom_picture(name: &str, greys: &Bitmap, coloured: &Bitmap) -> Option<Bitmap> {
+    let (w, h) = (greys.width, greys.height);
+    if coloured.width != w || coloured.height != h {
+        return None;
+    }
+    let mut hd = hd_picture(name, w, h)?;
+    let player = hd_picture(&format!("{name}.PLAYER"), w, h)?;
+    let luma = |p: &[u8]| (p[0] as u32 * 299 + p[1] as u32 * 587 + p[2] as u32 * 114) / 1000;
+    // Each shade: its grey's brightness and the slot's colour for it.
+    let mut shades: BTreeMap<u32, ([u32; 3], u32)> = BTreeMap::new();
+    for (g, c) in greys
+        .rgba
+        .chunks_exact(4)
+        .zip(coloured.rgba.chunks_exact(4))
+    {
+        if g[3] != 0 && g[..3] != c[..3] {
+            let e = shades.entry(luma(g)).or_insert(([0; 3], 0));
+            for k in 0..3 {
+                e.0[k] += c[k] as u32;
+            }
+            e.1 += 1;
+        }
+    }
+    if shades.is_empty() {
+        return Some(hd);
+    }
+    let ramp: Vec<(f32, [f32; 3])> = shades
+        .into_iter()
+        .map(|(l, (sum, n))| (l as f32, sum.map(|v| v as f32 / n as f32)))
+        .collect();
+    let colour = |l: f32| -> [f32; 3] {
+        match ramp.iter().position(|&(rl, _)| rl >= l) {
+            Some(0) => ramp[0].1,
+            None => ramp[ramp.len() - 1].1,
+            Some(i) => {
+                let ((l0, c0), (l1, c1)) = (ramp[i - 1], ramp[i]);
+                let t = ((l - l0) / (l1 - l0).max(1.)).clamp(0., 1.);
+                std::array::from_fn(|k| c0[k] + (c1[k] - c0[k]) * t)
+            }
+        }
+    };
+    for (p, m) in hd.rgba.chunks_exact_mut(4).zip(player.rgba.chunks_exact(4)) {
+        let weight = m[0] as f32 / 255.;
+        if weight > 0. {
+            let c = colour(luma(p) as f32);
+            for k in 0..3 {
+                p[k] = (p[k] as f32 + (c[k] - p[k] as f32) * weight).round() as u8;
+            }
+        }
+    }
+    Some(hd)
+}
 /// The frames of an effect picture (see [`ObjectLibrary::effect_picture`]).
 pub struct EffectPicture {
     pub columns: usize,
@@ -2774,7 +2854,7 @@ impl Builder<'_> {
         if self.sheets.contains_key(&key) {
             return Ok(key);
         }
-        let sheet = if bmp {
+        let (sheet, hd) = if bmp {
             let image = Bitmap::decode_for(&data, true, key.1)?;
             // Uncompressed sheets retain their two-dimensional layout.
             let grid = |name| {
@@ -2791,43 +2871,74 @@ impl Builder<'_> {
                     "{section}: griglia {cols}×{rows} non valida"
                 )));
             }
-            let fw = image.width as usize / cols;
-            let fh = image.height as usize / rows;
-            let mut packed = Bitmap {
-                width: fw as u32,
-                height: (fh * cols * rows) as u32,
-                rgba: Vec::with_capacity(image.rgba.len()),
-            };
-            for y in 0..rows {
-                for x in 0..cols {
-                    for py in 0..fh {
-                        let at = ((y * fh + py) * image.width as usize + x * fw) * 4;
-                        packed.rgba.extend_from_slice(&image.rgba[at..at + fw * 4]);
+            let pack = |image: &Bitmap| {
+                let fw = image.width as usize / cols;
+                let fh = image.height as usize / rows;
+                let mut packed = Bitmap {
+                    width: fw as u32,
+                    height: (fh * cols * rows) as u32,
+                    rgba: Vec::with_capacity(image.rgba.len()),
+                };
+                for y in 0..rows {
+                    for x in 0..cols {
+                        for py in 0..fh {
+                            let at = ((y * fh + py) * image.width as usize + x * fw) * 4;
+                            packed.rgba.extend_from_slice(&image.rgba[at..at + fw * 4]);
+                        }
                     }
                 }
+                SpriteSheet {
+                    columns: cols,
+                    rows,
+                    frame_height: fh,
+                    image: packed,
+                }
+            };
+            let hd = if !recolor {
+                hd_picture(&data_name, image.width, image.height)
+            } else {
+                Bitmap::decode_for(&data, true, None)
+                    .ok()
+                    .and_then(|greys| hd_kingdom_picture(&data_name, &greys, &image))
             }
-            SpriteSheet {
-                columns: cols,
-                rows,
-                frame_height: fh,
-                image: packed,
-            }
+            .map(|h| pack(&h));
+            (pack(&image), hd)
         } else {
-            SpriteSheet::decode_for(&data, key.1)?
+            let sheet = SpriteSheet::decode_for(&data, key.1)?;
+            let hd = if !recolor {
+                hd_picture(&data_name, sheet.image.width, sheet.image.height)
+            } else {
+                SpriteSheet::decode_for(&data, None)
+                    .ok()
+                    .and_then(|greys| hd_kingdom_picture(&data_name, &greys.image, &sheet.image))
+            }
+            .map(|image| SpriteSheet {
+                columns: sheet.columns,
+                rows: sheet.rows,
+                frame_height: sheet.frame_height * HD_SCALE as usize,
+                image,
+            });
+            (sheet, hd)
         };
+        if let Some(hd) = hd {
+            self.hd_sheets.insert(key.clone(), hd);
+        }
         self.sheets.insert(key.clone(), sheet);
         Ok(key)
     }
     fn frame(&mut self, key: &SheetKey, col: usize, row: usize) -> usize {
-        let images = &mut self.out.images;
-        let sheet = &self.sheets[key];
-        *self
-            .frames
-            .entry((key.clone(), col, row))
-            .or_insert_with(|| {
-                images.push(sheet.frame(col, row).unwrap());
-                images.len() - 1
-            })
+        if let Some(&id) = self.frames.get(&(key.clone(), col, row)) {
+            return id;
+        }
+        let id = self.out.images.len();
+        self.out
+            .images
+            .push(self.sheets[key].frame(col, row).unwrap());
+        if let Some(Ok(hd)) = self.hd_sheets.get(key).map(|h| h.frame(col, row)) {
+            self.out.hd.insert(id, hd);
+        }
+        self.frames.insert((key.clone(), col, row), id);
+        id
     }
     /// The frames of one column on a timeline, shared by every object that
     /// shows the same picture at the same pace.
@@ -2932,6 +3043,8 @@ pub fn depth(footprint: [f32; 4], side: usize) -> f32 {
 /// with their anchors.
 struct TreeAtlas {
     tree: Bitmap,
+    /// The HD pack's tree atlas, if it has one.
+    hd: Option<Bitmap>,
     shadows: Bitmap,
     anchor: [f32; 2],
     shadow_anchor: [f32; 2],
@@ -2962,8 +3075,14 @@ impl TreeAtlas {
             }
         }
         let shadow_anchor = ini.numbers("trees", "pos_shadow");
+        let hd = hd_picture(
+            &format!("IMAGES/TERRAIN/{dir}/{file}"),
+            tree.width,
+            tree.height,
+        );
         Ok(Self {
             tree,
+            hd,
             shadows,
             anchor: [
                 anchor.first().copied().unwrap_or(1) as f32 * 32.,
@@ -2974,6 +3093,12 @@ impl TreeAtlas {
                 shadow_anchor.get(1).copied().unwrap_or(1) as f32 * 32.,
             ],
         })
+    }
+    /// The HD pack's tree of a cell's image (1-based).
+    fn hd_tree(&self, value: usize) -> Option<Bitmap> {
+        let hd = self.hd.as_ref()?;
+        let fw = hd.width / 31;
+        hd.crop((value as u32 - 1) * fw, 0, fw, hd.height).ok()
     }
     /// The tree and the shadow of a cell's image (1-based).
     fn pictures(&self, value: usize) -> Result<[Bitmap; 2]> {
@@ -3035,6 +3160,9 @@ pub fn add_trees(
                 let id = out.images.len();
                 out.images.push(body);
                 out.images.push(shade);
+                if let Some(hd) = atlas.hd_tree(value) {
+                    out.hd.insert(id, hd);
+                }
                 *e.insert([id, id + 1])
             }
         };
@@ -3103,10 +3231,12 @@ pub fn add_cliffs(
         let row = (cell & 15) as usize;
         let file = cliff_file(&ini, kind).to_ascii_uppercase();
         if !sheets.contains_key(&file) {
-            let image = Bitmap::decode(&a.get(&format!("IMAGES/TERRAIN/{dir}/{file}"))?, true)?;
-            sheets.insert(file.clone(), image);
+            let name = format!("IMAGES/TERRAIN/{dir}/{file}");
+            let image = Bitmap::decode(&a.get(&name)?, true)?;
+            let hd = hd_picture(&name, image.width, image.height);
+            sheets.insert(file.clone(), (image, hd));
         }
-        let sheet = &sheets[&file];
+        let (sheet, hd_sheet) = &sheets[&file];
         if column * 32 + 32 > sheet.width as usize || row * 32 + 32 > sheet.height as usize {
             return Err(invalid("Cliff frame outside original atlas"));
         }
@@ -3122,6 +3252,13 @@ pub fn add_cliffs(
             }
             let id = out.images.len();
             out.images.push(image);
+            let s = HD_SCALE;
+            if let Some(hd) = hd_sheet.as_ref().and_then(|h| {
+                h.crop(column as u32 * 32 * s, row as u32 * 32 * s, 32 * s, 32 * s)
+                    .ok()
+            }) {
+                out.hd.insert(id, hd);
+            }
             id
         });
         let x = (i % grid.side) as f32 * 32.;

@@ -359,10 +359,24 @@ pub fn install(world: &mut World, p: PreparedScene) -> Scene {
     let mut materials = Vec::new();
     let mut terrain_frames = Vec::new();
     for sheet in p.sheets {
-        let frames: Vec<_> = std::iter::once(sheet.image)
-            .chain(sheet.frames)
-            .map(|b| world.resource_mut::<Assets<Image>>().add(gpu_image(b)))
-            .collect();
+        // The HD pack's pages, when it has the page and every frame.
+        let hd = sheet
+            .hd
+            .filter(|_| sheet.hd_frames.len() == sheet.frames.len());
+        let frames: Vec<_> = match hd {
+            Some(hd) => std::iter::once(hd)
+                .chain(sheet.hd_frames)
+                .map(|b| {
+                    let mut image = gpu_image(b);
+                    image.sampler = bevy::image::ImageSampler::linear();
+                    world.resource_mut::<Assets<Image>>().add(image)
+                })
+                .collect(),
+            None => std::iter::once(sheet.image)
+                .chain(sheet.frames)
+                .map(|b| world.resource_mut::<Assets<Image>>().add(gpu_image(b)))
+                .collect(),
+        };
         let material = world
             .resource_mut::<Assets<ColorMaterial>>()
             .add(ColorMaterial {
@@ -416,11 +430,26 @@ pub fn install(world: &mut World, p: PreparedScene) -> Scene {
         .iter()
         .map(|b| Vec2::new(b.width as f32, b.height as f32))
         .collect();
+    // A picture of the HD pack takes the place of the original's
+    // texture; the sprite keeps the original's size, so the larger picture is
+    // smoothed to it.
+    let mut hd = p.objects.hd;
     let object_textures: Vec<_> = p
         .objects
         .images
         .into_iter()
-        .map(|b| world.resource_mut::<Assets<Image>>().add(gpu_image(b)))
+        .enumerate()
+        .map(|(i, b)| {
+            let image = match hd.remove(&i) {
+                Some(h) => {
+                    let mut image = gpu_image(h);
+                    image.sampler = bevy::image::ImageSampler::linear();
+                    image
+                }
+                None => gpu_image(b),
+            };
+            world.resource_mut::<Assets<Image>>().add(image)
+        })
         .collect();
     let mut sprite_animations = Vec::new();
     let mut entities_by_visual = Vec::with_capacity(p.objects.visuals.len());

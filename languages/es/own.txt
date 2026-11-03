@@ -1067,3 +1067,15 @@ es: Comprobando los datos…
 
 it: Non è stato possibile creare i dati del gioco: {}
 es: No se han podido crear los datos del juego: {}
+
+it: Pacchetto HD
+es: Paquete HD
+
+it: Terreno HD
+es: Terreno HD
+
+it: Immagini in alta definizione al posto di quelle originali, dalla cartella hd-packs. Vale dalla prossima partita caricata.
+es: Imágenes en alta definición en lugar de las originales, de la carpeta hd-packs. Se aplica desde la próxima partida cargada.
+
+it: Anche il terreno del pacchetto HD, se ne ha uno.
+es: También el terreno del paquete HD, si tiene uno.

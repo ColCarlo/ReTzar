@@ -1067,3 +1067,15 @@ pl: Sprawdzanie danych…
 
 it: Non è stato possibile creare i dati del gioco: {}
 pl: Nie udało się utworzyć danych gry: {}
+
+it: Pacchetto HD
+pl: Pakiet HD
+
+it: Terreno HD
+pl: Teren HD
+
+it: Immagini in alta definizione al posto di quelle originali, dalla cartella hd-packs. Vale dalla prossima partita caricata.
+pl: Obrazy w wysokiej rozdzielczości zamiast oryginalnych, z folderu hd-packs. Obowiązuje od następnej wczytanej gry.
+
+it: Anche il terreno del pacchetto HD, se ne ha uno.
+pl: Także teren pakietu HD, jeśli go ma.

@@ -518,6 +518,13 @@ pub fn start_load(world: &mut World, selection: Selection, camera: Option<[f32; 
     begin_load(world, selection, camera, false)
 }
 
+/// «Pacchetto HD»: the pack of the settings, for the scene about to load.
+fn select_hd_pack(world: &World) {
+    let menu = world.resource::<MenuState>();
+    let s = menu.current_settings();
+    retzar::hd::select(&menu.root, &s.hd_pack, s.hd_terrain);
+}
+
 fn begin_load(
     world: &mut World,
     selection: Selection,
@@ -527,6 +534,7 @@ fn begin_load(
     if world.contains_resource::<LoadJob>() {
         return Ok(());
     }
+    select_hd_pack(world);
     let (scenario, title, setup) = request(world, selection.clone())?;
     // A campaign mission opened has been reached.
     if let (
@@ -562,6 +570,7 @@ fn start_restore(world: &mut World, saved: retzar::menu::SavedSession) -> Result
     if world.contains_resource::<LoadJob>() {
         return Ok(());
     }
+    select_hd_pack(world);
     let path = retzar::save::save_path(&world.resource::<MenuState>().root, &saved.file)?;
     let assets = world.resource::<Game>().assets.clone();
     let handle = std::thread::Builder::new()

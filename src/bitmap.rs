@@ -46,6 +46,42 @@ impl Bitmap {
         }
     }
     /// 24-bit bottom-up BMP, transparent pixels filled with `background`.
+    /// A PNG as RGBA (HD packs, `retzar-tools --hd-export`).
+    pub fn decode_png(data: &[u8]) -> Result<Self> {
+        let mut d = png::Decoder::new(std::io::Cursor::new(data));
+        d.set_transformations(png::Transformations::normalize_to_color8());
+        let mut reader = d.read_info()?;
+        let mut buf = vec![0; reader.output_buffer_size().ok_or("PNG troppo grande")?];
+        let info = reader.next_frame(&mut buf)?;
+        buf.truncate(info.buffer_size());
+        let rgba = match info.color_type {
+            png::ColorType::Rgba => buf,
+            png::ColorType::Rgb => buf
+                .chunks_exact(3)
+                .flat_map(|p| [p[0], p[1], p[2], 255])
+                .collect(),
+            png::ColorType::GrayscaleAlpha => buf
+                .chunks_exact(2)
+                .flat_map(|p| [p[0], p[0], p[0], p[1]])
+                .collect(),
+            png::ColorType::Grayscale => buf.iter().flat_map(|&g| [g, g, g, 255]).collect(),
+            png::ColorType::Indexed => return Err(invalid("PNG indicizzato non espanso")),
+        };
+        Ok(Self {
+            width: info.width,
+            height: info.height,
+            rgba,
+        })
+    }
+    /// The picture as an RGBA PNG.
+    pub fn to_png(&self) -> Result<Vec<u8>> {
+        let mut out = Vec::new();
+        let mut e = png::Encoder::new(&mut out, self.width, self.height);
+        e.set_color(png::ColorType::Rgba);
+        e.set_depth(png::BitDepth::Eight);
+        e.write_header()?.write_image_data(&self.rgba)?;
+        Ok(out)
+    }
     pub fn to_bmp(&self, background: [u8; 3]) -> Vec<u8> {
         let (w, h) = (self.width as usize, self.height as usize);
         let stride = (w * 3).div_ceil(4) * 4;
