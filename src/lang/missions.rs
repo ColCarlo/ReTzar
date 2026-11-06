@@ -68,13 +68,14 @@ macro_rules! catalogs {
 }
 /// English first: where two languages write a text alike, it reads as the
 /// English one.
-const CATALOGS: [(Language, [&str; 7]); 6] = [
+const CATALOGS: [(Language, [&str; 7]); 7] = [
     (Language::English, catalogs!("en")),
     (Language::French, catalogs!("fr")),
     (Language::German, catalogs!("de")),
     (Language::Spanish, catalogs!("es")),
     (Language::Polish, catalogs!("pl")),
     (Language::Portuguese, catalogs!("pt")),
+    (Language::Chinese, catalogs!("zh")),
 ];
 
 struct Tables {

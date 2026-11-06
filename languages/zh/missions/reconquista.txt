@@ -1,0 +1,1169 @@
+# La Reconquista (campagna dell'edizione spagnola di FX, assente da quella italiana): traduzione di ReTzar.
+
+# la reconquista.wcm
+it: TZAR: El Cid e la Reconquista\nLa lotta intrapresa dagli stati cristiani per riconquistare le terre dominate dall'Islam, che durò quasi otto secoli, non fu una guerra continua: fu interrotta da lunghi periodi di pace ed ebbe avanzate e ritirate secondo la forza dei contendenti...
+zh: TZAR：熙德与收复失地运动\n基督教诸国为夺回被伊斯兰统治的土地而进行的斗争，持续近八百年，却并非一场连绵不断的战争：它被漫长的和平时期打断，随着双方力量的消长而进退……
+
+# la reconquista.wcm::maps/espaÑa10final
+it: Spagna - finale
+zh: 西班牙 · 终局
+it: Regno 1
+zh: 王国 1
+it: Tzar 1
+zh: Tzar 1
+it: Regno 2
+zh: 王国 2
+it: Tzar 2
+zh: Tzar 2
+it: Regno 3
+zh: 王国 3
+it: Tzar 3
+zh: Tzar 3
+it: Regno 4
+zh: 王国 4
+it: Tzar 4
+zh: Tzar 4
+it: Regno 5
+zh: 王国 5
+it: Tzar 5
+zh: Tzar 5
+it: Regno 6
+zh: 王国 6
+it: Tzar 6
+zh: Tzar 6
+it: Regno 7
+zh: 王国 7
+it: Tzar 7
+zh: Tzar 7
+it: Regno 8
+zh: 王国 8
+it: Tzar 8
+zh: Tzar 8
+it: Il re Boabdil e sua madre Fatima vengono cacciati dalla Spagna...
+zh: 博阿布迪尔王与他的母亲法蒂玛被逐出西班牙……
+it: Boabdil non rivide mai più Granada...
+zh: 博阿布迪尔再也没能见到格拉纳达……
+it: "L'arabo ha un'immaginazione impressionabile e focosa che lo strappa d'un tratto alla malinconia a cui è incline per gettarlo in un'attività instancabile. Sotto la pelle fine e il corpo snello e aggraziato si celano nervi d'acciaio e muscoli di ferro; il suo sguardo tranquillo e profondo si trasforma d'un tratto in un lampo che confonde il nemico. Nella sua vita non ci sono di solito vie di mezzo: o resta quasi immobile sulla porta di casa, o cerca il modo di sfogare il suo ardore sfiancando il cavallo."\n\nStorico sconosciuto.
+zh: 「阿拉伯人有着易感而炽烈的想象，会突然把他从惯有的忧郁中拽出来，投入不知疲倦的行动。在他细腻的皮肤与修长优雅的身躯之下，藏着钢一般的神经、铁一般的筋肉；他沉静深邃的目光会骤然化作一道闪电，令敌人惶惑。他的一生少有中间之道：要么几乎一动不动地坐在自家门口，要么想方设法耗死坐骑来宣泄胸中的烈火。」\n\n——佚名史家
+it: Snif, snif, snif... (pianti)
+zh: 抽泣，抽泣，抽泣……（哭泣）
+it: Piangi come una donna ciò che non hai saputo difendere come un uomo.
+zh: 为你没能像个男人那样守住的东西，像个女人一样哭吧。
+it: Snif, snif, snif... la mia Granada...
+zh: 抽泣，抽泣，抽泣……我的格拉纳达……
+
+# la reconquista.wcm::maps/espaÑa10inicio
+it: Gli arabi conquistano la Penisola...
+zh: 阿拉伯人征服半岛……
+it: Nell'anno 711 comincia l'invasione musulmana della penisola iberica...
+zh: 711 年，穆斯林开始入侵伊比利亚半岛……
+it: MAPS\\ESPAÑA10mision1.wmp|
+zh: MAPS\\ESPAÑA10mision1.wmp|
+it: HISPANIA, ANNO 711 DI NOSTRO SIGNORE
+zh: 西班牙，公元 711 年
+it: L'esercito musulmano guidato da Tariq ibn Ziyad sconfigge il re visigoto Rodrigo.
+zh: 由塔里克·伊本·齐亚德率领的穆斯林军队击败了西哥特国王罗德里戈。
+it: L'anno seguente le truppe arabe al comando di Musa ibn Nusayr si uniscono a quelle di Tariq e
+zh: 次年，穆萨·伊本·努赛尔统率的阿拉伯军队与塔里克的部队会合，
+it: insieme decidono di proseguire la conquista...
+zh: 共同决定把征服继续下去……
+it: In meno di cinque anni gli arabi si impadroniscono del territorio della penisola.
+zh: 不到五年，阿拉伯人就掌控了半岛全境。
+it: Nell'anno 711 comincia l'invasione musulmana della penisola iberica. In poco tempo la sua espansione la porterà fino al sud della Francia, dove la sua avanzata verrà fermata.\n\nTutto cominciò con la rivalità tra due fazioni: i sostenitori di Rodrigo e quelli dei figli di Vitiza. I figli di Vitiza chiesero aiuto ai musulmani per sconfiggere Rodrigo, e nel 710 avvenne un primo sbarco di ricognizione guidato da Tariq ibn Malluk.\n\nNell'anno 711 avviene lo sbarco definitivo a Gibilterra. All'inizio della lotta contro Rodrigo i sostenitori di Vitiza disertano e i musulmani vincono facilmente presso il Guadalete (19-7-711). L'indifferenza della popolazione, la corruzione dei nobili visigoti e l'appoggio degli ebrei completano il successo militare, e i musulmani occupano Écija, Cordova, Astorga e la stessa capitale: Toledo. Pochi anni dopo il Guadalete i musulmani si sono impadroniti di quasi tutta la penisola, tranne alcune enclavi cantabriche, asturiane e pirenaiche.
+zh: 711 年，穆斯林开始入侵伊比利亚半岛。短短几年间，他们的扩张就推进到法国南部，才在那里被挡住。\n\n一切始于两派的争斗：罗德里戈的支持者与维蒂萨诸子的支持者。维蒂萨的儿子们向穆斯林求援以击败罗德里戈，710 年便有了塔里克·伊本·马卢克率领的第一次侦察登陆。\n\n711 年，穆斯林在直布罗陀正式登陆。对罗德里戈之战一开始，维蒂萨的党羽便临阵倒戈，穆斯林于是在瓜达莱特河畔（711 年 7 月 19 日）轻松取胜。民众的漠然、西哥特贵族的受贿以及犹太人的协助，让这场军事胜利得以完成；穆斯林随即占领了埃西哈、科尔多瓦、阿斯托加以及首都托莱多。瓜达莱特之战后仅数年，除坎塔布里亚、阿斯图里亚斯和比利牛斯山区的几处飞地外，穆斯林已掌控半岛几乎全境。
+
+# la reconquista.wcm::maps/espaÑa10mision1
+it: Spagna - missione 1
+zh: 西班牙 · 任务 1
+it: PENDICI DEI PICOS DE EUROPA, 28 MAGGIO DELL'ANNO 722 DI NOSTRO SIGNORE
+zh: 欧罗巴峰山麓，公元 722 年 5 月 28 日
+it: Un pugno di asturiani, al comando di Don Pelayo, mette in fuga una colonna musulmana
+zh: 一小队阿斯图里亚斯人在佩拉约的率领下击退了一支穆斯林队伍
+it: Questo fatto, quasi ignorato dai musulmani, segnerà l'inizio della Reconquista
+zh: 这件事几乎未引起穆斯林注意，却将标志收复失地运动的开端
+it: nella cosiddetta battaglia di Covadonga.
+zh: ——即所谓的科瓦东加之战。
+it: I primi focolai della Reconquista si trovarono nelle terre montuose del nord, dai Pirenei alle Asturie. Questa zona interessò poco ai musulmani, data la sua povertà e l'asprezza del territorio. Lì si rifugiarono i cristiani che non vollero sottomettersi e si rifiutarono di pagare il tributo all'emiro. Questi inviò un piccolo contingente militare che fu sconfitto a Covadonga (722). Il risultato di questa battaglia, che militarmente non ebbe grande importanza ma ebbe un enorme valore morale, fu la nascita del regno delle Asturie, che divenne il primo nucleo di resistenza.
+zh: 收复失地运动的第一批火种出现在北方的山区，从比利牛斯到阿斯图里亚斯。这一带土地贫瘠、地形险峻，穆斯林并不看重。不愿臣服、拒绝向埃米尔纳贡的基督徒逃到这里。埃米尔派出一支小部队，在科瓦东加被击败（722 年）。这场仗军事上无足轻重，精神上的价值却极大，其结果是阿斯图里亚斯王国的诞生，成为抵抗的第一个核心。
+
+# la reconquista.wcm::maps/espaÑa10mision2
+it: Spagna - missione 2
+zh: 西班牙 · 任务 2
+it: BARCELLONA, ANNO 877 DI NOSTRO SIGNORE.
+zh: 巴塞罗那，公元 877 年。
+it: Goffredo "il Villoso" sconfigge il traditore Bernardo di Gotia e...
+zh: 「多毛的」维弗雷多击败叛徒哥提亚的贝尔纳多，并且……
+it: caccia i musulmani sull'altra riva del fiume Llobregat.
+zh: 把穆斯林赶到略夫雷加特河对岸。
+it: Dopo Covadonga i cristiani riconquistarono tutta la zona montuosa, dalla Cantabria alla Galizia. Tuttavia il loro piccolo numero e le divisioni interne impedirono loro, per più di un secolo, di aspirare ad altro che a difendere le proprie montagne dai potenti eserciti musulmani. A metà dell'VIII secolo, approfittando delle lotte civili dell'emirato, cominciarono a compiere incursioni verso il fiume Duero. Il fiume sarà per molti anni il confine ispano-arabo.\n\nAnche la Catalogna era caduta in mano ai mori. Ma i suoi abitanti chiesero aiuto a Carlo Magno e cominciarono la riconquista. Dopo continue battaglie con i franchi si impadronirono di buona parte della Catalogna, e Carlo Magno la unì al suo impero con il nome di Marca Ispanica nell'anno 797: era formata dall'insieme dei territori confinanti con i domini musulmani annessi all'impero carolingio. Comprendeva le regioni di Tolosa e Settimania e le contee catalane, e fungeva da zona di protezione dell'impero carolingio contro gli arabi.\n\nHisham I, capo catalano, ricacciò i franchi nel loro paese, anche se per poco tempo. Ludovico il Pio, figlio dell'imperatore franco Carlo Magno, tornò con un potente esercito e conquistò Barcellona il 28 dicembre dell'801, dopo averla assediata per quasi un anno.\n\nLa capitolazione obbligò gli abitanti a riconoscere la sovranità dei franchi e a difendere la città e la frontiera.
+zh: 科瓦东加之后，基督徒收复了整个山区，从坎塔布里亚到加利西亚。但他们人少，内部又不和，一个多世纪里除了守住山地、抵御强大的穆斯林军队之外，别无他想。八世纪中叶，他们趁埃米尔国内乱，开始向杜罗河一带袭扰。此后许多年，这条河就是基督徒与阿拉伯人的边界。\n\n加泰罗尼亚同样落入摩尔人之手。但当地居民向查理曼求援，开始了收复。与法兰克人连年征战后，他们夺取了加泰罗尼亚的大部分；797 年，查理曼以「西班牙边区」之名把它并入帝国——那是与穆斯林领地接壤、并入加洛林帝国的全部领土。它包括图卢兹与塞普提马尼亚以及加泰罗尼亚诸伯国，充当加洛林帝国抵御阿拉伯人的屏障。\n\n加泰罗尼亚首领希沙姆一世把法兰克人赶回本国，但为时不长。「虔诚者」路易——法兰克皇帝查理曼之子——率大军归来，围城近一年后，于 801 年 12 月 28 日攻下巴塞罗那。\n\n守军投降，居民被迫承认法兰克人的主权，并守卫城市与边境。
+
+# la reconquista.wcm::maps/espaÑa10mision3
+it: Spagna - missione 3
+zh: 西班牙 · 任务 3
+it: SANTIAGO, ESTATE DEL 997 DI NOSTRO SIGNORE.
+zh: 圣地亚哥，公元 997 年夏。
+it: Almanzor, "il Vittorioso per grazia di Allah", ha cominciato una razzia.
+zh: 阿尔曼索尔，「蒙安拉恩典的胜利者」，开始了一场劫掠。
+it: Sconfigge i cristiani in varie battaglie e distrugge la città di Santiago e la sua cattedrale
+zh: 他在数场战役中击败基督徒，摧毁圣地亚哥城及其大教堂
+it: Il X secolo, di grande splendore per la corte califfale di Cordova, fu particolarmente duro per i piccoli stati cristiani della penisola. Videro la loro espansione fermata dagli eserciti musulmani e dovettero subire di continuo nei loro territori razzie e saccheggi. Nonostante ciò riuscirono, sia con le armi sia pagando tributi, a mantenere l'indipendenza. Il regno di León e la contea di Castiglia concentrarono i loro sforzi nel difendere la frontiera del Duero e sconfissero i musulmani a San Esteban de Gormaz (917), ma non poterono impedire che gli eserciti di Abd al-Rahman III arrivassero a Valdejunquera (920), dove inflissero ai cristiani una grande sconfitta, e a Burgos (934). Nella parte orientale la Catalogna dovette pagare tributi a lungo, senza per questo evitare che Barcellona fosse saccheggiata e distrutta nel 985.
+zh: 10 世纪，科尔多瓦的哈里发宫廷极为辉煌，对半岛上的基督教小国而言却格外艰难。它们的扩张被穆斯林军队挡住，领土还不断遭到劫掠与洗劫。尽管如此，它们靠武力、也靠缴纳贡赋，仍维持住了独立。莱昂王国与卡斯蒂利亚伯国把力量集中在守卫杜罗河一线，并在圣埃斯特万德戈尔马斯（917 年）击败穆斯林，却无法阻止阿卜杜拉赫曼三世的军队打到巴尔德洪克拉（920 年）——在那里基督教军遭到惨败——以及布尔戈斯（934 年）。在东部，加泰罗尼亚长期被迫纳贡，即便如此，巴塞罗那仍在 985 年被洗劫、毁坏。
+
+# la reconquista.wcm::maps/espaÑa10mision4
+it: Spagna - missione 4
+zh: 西班牙 · 任务 4
+it: VALENCIA, ANNO 1094 DI NOSTRO SIGNORE
+zh: 巴伦西亚，公元 1094 年
+it: Rodrigo Díaz de Vivar, il Cid, parte da Saragozza verso Valencia.
+zh: 熙德罗德里戈·迪亚斯·德·比瓦尔从萨拉戈萨出发，前往巴伦西亚。
+it: E dopo un grande sforzo conquista Valencia.
+zh: 经过艰苦努力，他攻下了巴伦西亚。
+it: Riesce a conquistare Albarracín...
+zh: 他成功攻下了阿尔瓦拉辛……
+it: La morte di Almanzor e la divisione del califfato in diversi regni di taifa segnarono l'inizio di una nuova fase della Reconquista. I regni cristiani, tuttavia, non possono ancora riconquistare la Penisola e si limitano a intervenire nelle lotte tra i vari regni di taifa, a riscuotere tributi e a preparare il futuro con frequenti scorrerie. Le conquiste più importanti di quest'epoca sono quelle di Braga (1040), Coimbra (1064), Toledo (1085) e l'effimera conquista di Valencia da parte del Cid (1092).\n\nGli stati orientali, dal canto loro, non poterono trarre altrettanto vantaggio dalla frammentazione del califfato, perché nelle ricche zone dell'Ebro e del Segre i musulmani formarono stati potenti. I fatti militari più notevoli sono le conquiste di Barbastro, Graus, Monzón (1089) e Huesca (1096) da parte dell'Aragona, e di Camarasa (1050) e della Bassa Ribagorza (1096), oltre a un'audace spedizione che saccheggiò Cordova, da parte catalana.
+zh: 阿尔曼索尔之死与哈里发国分裂为若干泰法王国，标志着收复失地运动进入新阶段。不过基督教王国此时仍无力收复半岛，只是介入各泰法王国之间的争斗、向它们收取贡赋，并以频繁的袭掠为将来做准备。这一时期最重要的征服是布拉加（1040 年）、科英布拉（1064 年）、托莱多（1085 年），以及熙德对巴伦西亚的短暂占领（1092 年）。\n\n东部的诸国则未能从哈里发国的分裂中获得同等好处，因为埃布罗河与塞格雷河一带的富庶地区被穆斯林建成了强大的国家。军事上最引人注目的是阿拉贡攻取巴尔瓦斯特罗、格劳斯、蒙松（1089 年）和韦斯卡（1096 年），加泰罗尼亚方面则攻取卡马拉萨（1050 年）与下里巴戈萨（1096 年），还派出了一支大胆的远征队洗劫科尔多瓦。
+
+# la reconquista.wcm::maps/espaÑa10mision5
+it: Spagna - missione 5
+zh: 西班牙 · 任务 5
+it: VALLE DELL'EBRO, ANNO 1104 DI NOSTRO SIGNORE.
+zh: 埃布罗河谷，公元 1104 年。
+it: Alfonso I "il Battagliero" dedica la vita a combattere gli infedeli...
+zh: 阿方索一世「战士」毕生致力于与异教徒作战……
+it: Dopo un lungo assedio conquista Saragozza.
+zh: 长期围城之后，他攻下了萨拉戈萨。
+it: La rinascita di al-Andalus nel XII secolo, quando sembrava prossimo a cadere nelle mani di Alfonso VI, si dovette a una nuova invasione dall'Africa: quella degli almoravidi (1086), il cui sultano Yusuf, dopo aver sconfitto Alfonso VI a Sagrajas (1086), conquistò i vari regni di taifa (1091-1094). Padroni di tutto al-Andalus, gli almoravidi attaccarono i regni cristiani. Sconfissero Alfonso VI a Consuegra (1097) e a Uclés (1108) e presero la fortezza di Aledo in Murcia (1102), Valencia (1102) e Saragozza (1110). In seguito, nei territori africani degli almoravidi si ribellarono gli almohadi, e gran parte del loro esercito dovette spostarsi lì.\n\nQuesta debolezza fu sfruttata per prima dall'Aragona, che avviò la controffensiva impadronendosi di Saragozza (1118) e, dopo la battaglia di Cutanda (1120), di Tudela, Borja, Tarazona e Calatayud. Alla conquista di queste terre seguì il ripopolamento con mozarabi venuti da al-Andalus e mudéjares che accettarono una resa vantaggiosa.
+zh: 12 世纪，当安达卢斯眼看就要落入阿方索六世之手时，它的复兴得益于来自非洲的新一轮入侵：阿尔摩拉维德王朝（1086 年）。其苏丹优素福在萨格拉哈斯（1086 年）击败阿方索六世后，逐一吞并了各泰法王国（1091—1094 年）。掌控整个安达卢斯后，阿尔摩拉维德人转而进攻基督教诸国：在孔苏埃格拉（1097 年）和乌克莱斯（1108 年）两度击败阿方索六世，并夺取了穆尔西亚的阿莱多要塞（1102 年）、巴伦西亚（1102 年）与萨拉戈萨（1110 年）。此后，阿尔摩哈德人在阿尔摩拉维德人的非洲领地起事，后者的大批军队不得不调往那里。\n\n阿拉贡最先利用了这种虚弱，发动反攻，攻占萨拉戈萨（1118 年），并在库坦达之战（1120 年）后夺取图德拉、博尔哈、塔拉索纳与卡拉塔尤德。征服之后，来自安达卢斯的莫扎拉比人与接受有利投降条件的穆德哈尔人迁入，重新充实了这些土地。
+
+# la reconquista.wcm::maps/espaÑa10mision6
+it: Spagna - missione 6
+zh: 西班牙 · 任务 6
+it: NAVAS DE TOLOSA, ANNO 1212 DI NOSTRO SIGNORE.
+zh: 托洛萨的纳瓦斯，公元 1212 年。
+it: Il 16 luglio 1212 gli eserciti aragonese, navarrese e castigliano uniscono le forze per combattere
+zh: 1212 年 7 月 16 日，阿拉贡、纳瓦拉与卡斯蒂利亚的军队合力迎战
+it: il terribile esercito almohade comandato da al-Nasir.
+zh: 由纳西尔统率的可怕的阿尔摩哈德大军。
+it: Questa vittoria cristiana sarà decisiva per l'avanzata negli anni successivi.
+zh: 这场基督徒的胜利将对此后数年的推进起决定作用。
+it: L'esercito cristiano avanzò fino alla Sierra Morena dove, a Las Navas de Tolosa (il 16 luglio 1212), si combatté una battaglia decisiva, dopo la quale gli eserciti dell'Islam, un tempo orgogliosi, cessarono di essere un pericolo per gli stati cristiani. Poco dopo gli arabi furono ridotti a una piccola zona del sud dell'Andalusia, il regno di Granada (1238), che sarebbe stato per due secoli e mezzo l'ultimo baluardo dell'Islam spagnolo.\n\nAnnientati gli almohadi in questa battaglia, i regni cristiani avanzarono rapidamente verso sud.\n\nIn questa congiuntura la conquista dello stretto di Gibilterra interessava moltissimo ai regni cristiani per evitare nuove invasioni dall'Africa. A questo scopo Sancho IV di Castiglia e Giacomo II d'Aragona stipularono il trattato di Monteagudo (nel 1291), che prevedeva la conquista del Maghreb, da spartire tra Castiglia e Aragona lungo la linea del fiume Muluya. Il primo risultato di questa alleanza, di cui in un primo momento fece parte anche il re di Granada, fu la conquista della strategica piazza di Tarifa (1292), che restò in mano castigliana e fu difesa da Guzmán el Bueno. In un patto successivo (il trattato di Alcalá del 1309), Catalogna e Aragona si accordarono per cacciare i musulmani da Granada e spartirsi quel regno. La flotta castigliana assediò Algeciras, mentre quella aragonese assediava Ceuta, sbarcava un esercito ad Almería e aiutava Guzmán el Bueno a impadronirsi di Gibilterra (1302).\n\nIn questa campagna parteciparono come alleati dei regni spagnoli i merinidi, che ambivano a prendere Granada ed erano succeduti agli almohadi nel dominio del Maghreb.
+zh: 基督教军队推进到莫雷纳山脉，1212 年 7 月 16 日在拉斯纳瓦斯德托洛萨打了一场决定性战役。此后，曾经骄横的伊斯兰军队不再对基督教诸国构成威胁。不久，阿拉伯人被压缩到安达卢西亚南部的一小块地区——格拉纳达王国（1238 年），它在此后两个半世纪里成为西班牙伊斯兰教的最后堡垒。\n\n阿尔摩哈德人在这场战役中被歼灭后，基督教诸国迅速向南推进。\n\n在此形势下，夺取直布罗陀海峡对基督教诸国极为重要，可防止来自非洲的新入侵。为此，卡斯蒂利亚的桑乔四世与阿拉贡的海梅二世订立蒙泰阿古多条约（1291 年），规定征服马格里布，并以穆卢亚河为界在卡斯蒂利亚与阿拉贡之间瓜分。这一同盟（起初格拉纳达国王也参与其中）的首个成果是夺取战略要地塔里法（1292 年），该地留在卡斯蒂利亚手中，由古斯曼·埃尔布埃诺镇守。在后来的协定（1309 年阿尔卡拉条约）中，加泰罗尼亚与阿拉贡商定把穆斯林逐出格拉纳达并瓜分该王国。卡斯蒂利亚舰队围攻阿尔赫西拉斯，阿拉贡舰队则围攻休达，同时在阿尔梅里亚登陆一支军队，并协助古斯曼·埃尔布埃诺夺取直布罗陀（1302 年）。\n\n在这场战役中，马林王朝作为西班牙诸国的盟友参战；他们觊觎格拉纳达，并已在马格里布的统治中取代了阿尔摩哈德人。
+
+# la reconquista.wcm::maps/espaÑa10mision7
+it: Spagna - missione 7
+zh: 西班牙 · 任务 7
+it: ALGECIRAS, ANNO 1340 DI NOSTRO SIGNORE.
+zh: 阿尔赫西拉斯，公元 1340 年。
+it: Alfonso XI sconfigge la coalizione formata da Yusuf I e dai merinidi nella battaglia del Salado.
+zh: 阿方索十一世在萨拉多河之战中，击败由优素福一世与马林王朝组成的联军。
+it: Questa vittoria diede ai castigliani il dominio dello stretto di Gibilterra.
+zh: 这场胜利让卡斯蒂利亚人掌控了直布罗陀海峡。
+it: Pochi anni dopo, nel 1344, i cristiani conquisteranno Algeciras.
+zh: 几年后的 1344 年，基督徒将攻下阿尔赫西拉斯。
+it: I merinidi, dopo aver fatto la pace con il regno di Granada, strapparono Gibilterra ai regni cristiani (1333). Nel 1340 sbarcarono nella Penisola e assediarono Tarifa. La Castiglia riuscì a sconfiggere i merinidi nella battaglia del Río Salado (1340) e, con l'aiuto delle navi catalane, a riprendere Algeciras (1342) e ad assediare Gibilterra.\n\nDopo queste campagne la lotta contro il regno di Granada si interruppe quasi del tutto per 150 anni.
+zh: 马林王朝与格拉纳达王国议和之后，从基督教诸国手中夺回直布罗陀（1333 年）。1340 年他们登陆半岛，围攻塔里法。卡斯蒂利亚在萨拉多河之战（1340 年）中击败马林王朝，并借助加泰罗尼亚船只夺回阿尔赫西拉斯（1342 年）、围攻直布罗陀。\n\n这些战役之后，对格拉纳达王国的战争几乎完全中断了 150 年。
+
+# la reconquista.wcm::maps/espaÑa10mision8
+it: Spagna - missione 8
+zh: 西班牙 · 任务 8
+it: GRANADA, ANNO 1492 DI NOSTRO SIGNORE.
+zh: 格拉纳达，公元 1492 年。
+it: I Re Cattolici, con un'abile politica, riescono a prendere Granada.
+zh: 天主教双王以高明的政治手腕，成功夺取格拉纳达。
+it: Questo fatto segnerà la fine della Reconquista.
+zh: 这一事件将标志收复失地运动的终结。
+it: Pochi anni dopo, nell'anno 1344 di Nostro Signore, i cristiani conquistano Algeciras.
+zh: 几年后，即公元 1344 年，基督徒攻下阿尔赫西拉斯。
+it: Unite le corone di Castiglia e d'Aragona, la prima impresa che i Re Cattolici si proposero fu quella di portare a termine la Reconquista. L'unione delle due corone permise ai sovrani di disporre delle risorse finanziarie, navali e militari di Catalogna, Aragona e Valencia. La guerra, che durò undici anni, cominciò con la presa a sorpresa della fortezza di Zahara (1481) e la conquista di Alhama (1482). L'anno seguente le armi spagnole subirono la sconfitta dell'Axarquía, ma il rovescio fu compensato dal trionfo nella battaglia di Lucena (1483), dove fu fatto prigioniero Boabdil, figlio e al tempo stesso rivale del sultano Abu al-Hasan, che Ferdinando liberò per alimentare le lotte civili a Granada. Presi da queste lotte, i granadini videro cadere a poco a poco le principali piazze del regno (Ronda e Marbella nel 1485, Loja nel 1486, Vélez-Málaga e Malaga nel 1487, Baza, Guadix e Almería nel 1489...) finché gli arabi furono ridotti alla sola città di Granada, presa il 2 gennaio 1492 dopo un anno d'assedio.
+zh: 卡斯蒂利亚与阿拉贡两顶王冠合并后，天主教双王着手的第一件大事就是完成收复失地运动。两冠合并使君主得以动用加泰罗尼亚、阿拉贡与巴伦西亚的财力、海军与兵力。这场战争持续十一年，以突袭萨哈拉要塞（1481 年）和攻取阿拉马（1482 年）开始。次年西班牙军队在阿哈尔基拉遭到失败，但卢塞纳之战（1483 年）的胜利弥补了这一挫折：博阿布迪尔在那里被俘，他既是苏丹阿布·哈桑之子，也是其对手；费尔南多把他释放，以助长格拉纳达的内斗。格拉纳达人被内斗牵制，王国的主要城池相继失守（1485 年龙达与马贝拉，1486 年洛哈，1487 年贝莱斯-马拉加与马拉加，1489 年巴萨、瓜迪克斯与阿尔梅里亚……），最后阿拉伯人只剩格拉纳达一城，围城一年后于 1492 年 1 月 2 日被攻下。
+
+# la reconquista.wcm::maps/navas de tolosa
+it: Las Navas de Tolosa
+zh: 托洛萨的纳瓦斯
+it: Il 16 luglio 1212 gli eserciti aragonese, navarrese e castigliano unirono le forze per combattere a Las Navas de Tolosa il terribile esercito almohade comandato dal "Miramamolín" al-Nasir. Questa battaglia sarà decisiva per l'avanzata cristiana negli anni successivi.
+zh: 1212 年 7 月 16 日，阿拉贡、纳瓦拉与卡斯蒂利亚的军队合力在托洛萨的纳瓦斯迎战由「米拉玛莫林」纳西尔统率的可怕的阿尔摩哈德大军。这场战役将对此后基督徒的推进起决定作用。
+it: Cristiani
+zh: 基督徒
+it: Almohadi
+zh: 阿尔摩哈德人
+it: Contadini
+zh: 农民
+it: Francesi
+zh: 法兰西人
+it: Sancho VII
+zh: 桑乔七世
+it: Re
+zh: 国王
+it: Rodrigo
+zh: 罗德里戈
+it: Arcivescovo
+zh: 大主教
+it: Arnaldo
+zh: 阿纳尔多
+it: Alfonso VIII
+zh: 阿方索八世
+it: Pietro II
+zh: 佩德罗二世
+it: Isidro
+zh: 伊西德罗
+it: Pastore
+zh: 牧人
+it: Al-Nasir
+zh: 纳西尔
+it: Miramamolín
+zh: 米拉马莫林
+it: Miranda
+zh: 米兰达
+it: Elena
+zh: 埃莱娜
+it: Cartello
+zh: 路标
+it: Villaggio di Miranda.
+zh: 米兰达村。
+it: Villaggio di Santa Elena.
+zh: 圣埃莱娜村。
+it: Elimina al-Nasir e sconfiggi il suo esercito.\nAlmeno un capo cristiano deve sopravvivere.
+zh: 除掉纳西尔，击败他的军队。\n至少一位基督徒首领必须存活。
+it: Il re Sancho VII di Navarra è caduto in battaglia.
+zh: 纳瓦拉的桑乔七世王战死了。
+it: Il re Pietro II d'Aragona è caduto in battaglia.
+zh: 阿拉贡的佩德罗二世王战死了。
+it: Il re Alfonso VIII di Castiglia è caduto in battaglia.
+zh: 卡斯蒂利亚的阿方索八世王战死了。
+it: L'arcivescovo Rodrigo è caduto in battaglia.
+zh: 罗德里戈大主教战死了。
+it: L'arcivescovo Arnaldo è caduto in battaglia.
+zh: 阿纳尔多主教战死了。
+it: Al-Nasir è caduto in battaglia.
+zh: 纳西尔战死了。
+it: I cavalieri francesi sono arrivati da nord.
+zh: 法兰西骑士已从北方抵达。
+it: Dalla metà del XII secolo al-Andalus era sotto il potere degli almohadi, una setta musulmana i cui califfi si facevano chiamare "Miramamolín", che significa "Principe dei credenti".\n\nNel frattempo i regni cristiani si combattevano l'un l'altro in continue lotte per tracciare i loro confini, lotte di cui gli almohadi approfittavano per intensificare i loro attacchi.\n\nDopo una serie di sconfitte cristiane, tra cui spiccano la battaglia di Alarcos nel 1195 e la caduta di Salvatierra nel 1211, Alfonso VIII, re di Castiglia, decise di organizzare la resistenza.\n\nDopo un'assemblea riunita a Toledo nel 1211, Alfonso VIII di Castiglia inviò l'arcivescovo della città, Rodrigo Jiménez de Rada, in Francia e il vescovo di Segovia, Gerardo, a Roma, in cerca dell'aiuto del Papa. Ordinò anche ai suoi sudditi di spendere il loro denaro in armi e non in fortificazioni, giocandosi il tutto per tutto.\n\nPapa Innocenzo III diede all'impresa il carattere di crociata e ordinò agli arcivescovi di Santiago e di Toledo di impedire che Alfonso IX di León, o chiunque altro, si alleasse con i musulmani, pena la scomunica. Obbligò inoltre i re cristiani a rimandare le loro liti a dopo la crociata. A Roma si tennero preghiere speciali per il buon esito della campagna.\n\nQuanto ai francesi, non si poté ottenere alcuna promessa ferma da Filippo II di Francia, ma molti cavalieri francesi si offrirono volontari per partecipare alla crociata, spinti da prediche, arringhe e canzoni.\n\nLa prima domenica dopo la Pentecoste del 1212 le truppe di Alfonso VIII di Castiglia, di Pietro II d'Aragona e alcuni contingenti d'oltralpe si radunarono a Toledo.\n\nDopo aver colto alcune vittorie, come la conquista di Calatrava, le forze straniere, tranne l'arcivescovo francese Arnaldo, abbandonarono l'esercito cristiano strappandosi la croce che portavano sulla spalla, perché Alfonso VIII aveva vietato il saccheggio delle terre conquistate.\n\nGli almohadi, invece, si radunarono a Jaén al comando del loro califfo Muhammad ibn Ya'qub al-Nasir.\n\nI crociati arrivarono il 13 luglio ai piedi della Sierra Morena, dove gli almohadi erano accampati nella piana di Las Navas de Tolosa. Presto i cristiani capirono che non potevano proseguire senza combattere.\n\nIn quel momento Sancho VII, re di Navarra, fino ad allora nemico di Alfonso VIII, andò incontro all'esercito cristiano...
+zh: 12 世纪中叶起，安达卢斯处于阿尔摩哈德人的统治之下。这是一个穆斯林教派，其哈里发自称「米拉马莫林」，意为「信士们的长官」。\n\n与此同时，基督教诸国为划定边界彼此征战不休；阿尔摩哈德人正是利用这些争斗加强了攻势。\n\n在接连失利之后——尤其是 1195 年的阿拉尔科斯之战与 1211 年萨尔瓦铁拉的陷落——卡斯蒂利亚国王阿方索八世决定组织抵抗。\n\n1211 年在托莱多召开会议后，阿方索八世派该城大主教罗德里戈·希门尼斯·德·拉达到法国、派塞戈维亚主教赫拉尔多到罗马，寻求教皇的援助。他还下令臣民把钱花在武器上而不是筑城上，孤注一掷。\n\n教皇英诺森三世赋予这次行动十字军的名分，并命令圣地亚哥与托莱多两位大主教阻止莱昂的阿方索九世或任何人与穆斯林结盟，违者开除教籍。他还要求基督教诸王把彼此的争执搁到十字军之后。罗马为这次远征的顺利举行了专门的祈祷。\n\n至于法国人，虽然未能从法王腓力二世那里得到明确承诺，但许多法国骑士在布道、演说与歌谣的鼓动下自愿加入十字军。\n\n1212 年圣灵降临节后的第一个星期日，阿方索八世的军队、阿拉贡的佩德罗二世的军队以及一些来自比利牛斯山以北的部队在托莱多集结。\n\n在取得卡拉特拉瓦等几场胜利后，除法国大主教阿尔诺外，外国部队纷纷离队而去，扯下肩上的十字——因为阿方索八世不许劫掠已征服的土地。\n\n阿尔摩哈德人则在哈恩集结，由他们的哈里发穆罕默德·伊本·雅库布·纳西尔统率。\n\n7 月 13 日，十字军抵达莫雷纳山麓，阿尔摩哈德人正扎营于拉斯纳瓦斯德托洛萨的平原上。基督徒很快明白，不打一仗就无法继续前进。\n\n就在此时，此前一直与阿方索八世不睦的纳瓦拉国王桑乔七世前来与基督教军队会合……
+it: Quel giorno del 1212 i vescovi poterono intonare un Te Deum sul campo di battaglia mentre i fuggiaschi venivano inseguiti per venti chilometri. I cristiani uccisero più almohadi allora che in tutta la battaglia.\n\nAlla fine al-Nasir riuscì a fuggire, cambiò cavallo a Baeza e arrivò quel sabato notte a Jaén; morì in Marocco l'anno seguente.\n\nQuanto al pastore, che non fu più visto, molti credettero che fosse sant'Isidro.\n\nIl Papa usò nelle sue prediche il testo della cronaca della battaglia, narrata dall'arcivescovo Arnaldo, diffondendolo in tutta Europa. I cronisti e i giullari non smisero di ripetere la cifra di settantamila musulmani morti.\n\nIl modo in cui erano incatenate le guardie nere sarà poi usato nello stemma di Navarra. Le catene e la bandiera del Miramamolín furono prese come trofei e oggi sono conservate nella Diputación Foral di Navarra e nel monastero di Las Huelgas a Burgos.\n\nI cristiani sconfissero senza attenuanti gli almohadi, mal pagati. Questo evento bellico segnò il crollo dell'impero almohade e la disgregazione di al-Andalus nei terzi regni di taifa, lasciando gran parte dell'Andalusia alla mercé dei cristiani. La fine della Reconquista era ormai solo questione di tempo.
+zh: 1212 年的那一天，主教们可以在战场上唱起《感恩赞》，而逃亡者被追击了二十公里。基督徒在那时杀死的阿尔摩哈德人，比整场战役中杀死的还多。\n\n纳西尔最终逃脱；他在巴埃萨换了马，当夜星期六抵达哈恩，次年死于摩洛哥。\n\n至于那个再未出现过的牧人，许多人相信他就是圣伊西多罗。\n\n教皇在布道中采用了阿尔诺大主教所写的战记，把它传遍整个欧洲。编年史家与吟游诗人不断重复那个数字：七万穆斯林被杀。\n\n黑卫被锁链串在一起的样子，后来被用在纳瓦拉的纹章上。锁链与米拉马莫林的旗帜被当作战利品，如今保存在纳瓦拉省议会与布尔戈斯的拉斯韦尔加斯修道院。\n\n基督徒彻底击败了军饷微薄的阿尔摩哈德人。这一战导致阿尔摩哈德帝国的崩溃，安达卢斯分裂为第三代泰法诸国，安达卢西亚的大片土地任基督徒宰割。收复失地运动的终局，此时只剩时间问题。
+it: La tenda di al-Nasir è circondata dalle sue guardie nere!
+zh: 纳西尔的帐篷被他的黑卫兵团团围住！
+it: Sono armate fino ai denti e incatenate perché non fuggano!
+zh: 他们全副武装，还被锁链锁住，免得逃跑！
+it: Le guardie nere si sono liberate!
+zh: 黑卫兵挣脱了！
+it: Al-Nasir è fuggito!
+zh: 纳西尔逃走了！
+it: Tutti i capi cristiani sono morti, tutto è perduto.
+zh: 基督徒首领全部阵亡，一切都完了。
+it: Abbiamo sconfitto tutti gli infedeli!
+zh: 我们击败了所有异教徒！
+it: Quei maledetti saraceni hanno sconfitto i cavalieri francesi.
+zh: 这些该死的撒拉逊人打败了法兰西骑士。
+it: Le nostre truppe cristiane sono state annientate.
+zh: 我们的基督徒部队被歼灭了。
+it: Il re Sancho di Navarra!
+zh: 纳瓦拉的桑乔王！
+it: Spero di non aver tardato troppo.
+zh: 但愿我没有来迟。
+it: Ho saputo che quei codardi dei francesi hanno disertato...
+zh: 我听说那些懦弱的法兰西人已经开小差了……
+it: Non smettevano di lamentarsi del caldo di queste terre. Inoltre abbiamo proibito loro di saccheggiare i villaggi che strappavamo agli infedeli.
+zh: 他们不停地抱怨这片土地太热。再说，我们不许他们劫掠我们从异教徒手里夺来的村庄。
+it: Credo che abbiamo sbagliato a impedirglielo, siamo ancora in tempo per rimediare.
+zh: 我觉得当初不该拦他们，现在补救还来得及。
+it: Queste terre patiscono già troppe atrocità.
+zh: 这片土地已经遭受太多暴行了。
+it: Ne sono certo, manderò subito un messaggero perché i cavalieri francesi tornino. Ci metteranno un po' ad arrivare...
+zh: 我确信如此，我马上派信使把法兰西骑士召回来。他们要过些时候才能到……
+it: Quanta ragione avete! Tante sventure non sono gradite al Signore.
+zh: 您说得太对了！这么多灾祸不为上帝所喜。
+it: Sono d'accordo.\n\nBenvenuto, re Sancho. Non vi aspettavo.
+zh: 我同意。\n\n欢迎，桑乔王。我没想到您会来。
+it: Credo che davanti a questa crociata dobbiamo mettere da parte le nostre piccole liti... come prova della mia buona fede porto con me il fior fiore dei cavalieri navarresi, che si sono schierati sull'ala sinistra del vostro benedetto esercito.
+zh: 我相信在这场十字军面前，我们该把那些小小的争执放到一边……为表我的诚意，我带来了纳瓦拉骑士中的精英，他们已列阵在您这支蒙福军队的左翼。
+it: Stavamo discutendo su come attaccare quei maledetti saraceni. Sono accampati sull'altra riva di questo fiume. Senza dubbio ci staranno aspettando.
+zh: 我们刚才在商量如何攻打那些该死的撒拉逊人。他们扎营在这条河的对岸。毫无疑问他们正等着我们。
+it: Arcivescovo Rodrigo, preparateci a morire. Confortateci con le vostre sante parole.
+zh: 罗德里戈大主教，请为我们准备赴死。用您的圣言抚慰我们。
+it: Neanche per sogno! Non morirete. Sconfiggerete il nemico.\n\nQuesto pastore che ho fatto venire ha qualcosa di molto importante da comunicarvi.
+zh: 决不可能！你们不会死。你们会击败敌人。\n\n我叫来的这个牧人，有件极要紧的事要告诉你们。
+it: Sono solo un semplice pastore di nome Isidro, ma vivo in queste terre del Signore. Credo che i saraceni aspettino che attraversiamo questo ponte, dove di sicuro ci attende una trappola. C'è un ponte a est che ci permetterà di attraversare il fiume e accerchiare il nemico.
+zh: 我只是个叫伊西德罗的普通牧人，可我住在这片主的土地上。我相信撒拉逊人是等着我们过这座桥，那里一定有陷阱。东边有一座桥，能让我们渡河包抄敌人。
+it: Grazie per il tuo aiuto.\n\nHo anche sentito storie da vecchie e giullari su reliquie nascoste in queste terre che potrebbero aiutarci in battaglia. Anche se dubito che siano vere.
+zh: 多谢你的帮助。\n\n我还从老妇人和吟游诗人那里听过些故事，说这片土地里藏着能在战事上助我们的圣物。不过我怀疑那是不是真的。
+it: Pronti a vincere o morire!
+zh: 准备胜利或赴死！
+it: Che Dio ci aiuti!
+zh: 愿上帝助我们！
+
+# la reconquista.wcm::maps/barcelona
+it: Goffredo "il Villoso"
+zh: 维弗雷多「多毛者」
+it: Corre l'anno 877 di Nostro Signore... Goffredo "il Villoso" si prepara a farla finita con il traditore Bernardo di Gotia, asserragliato a Barcellona, e a cacciare i musulmani sull'altra riva del fiume Llobregat.
+zh: 公元 877 年……维弗雷多「多毛者」正准备与困守巴塞罗那的叛徒哥提亚的贝尔纳多决一死战，并把穆斯林赶过略夫雷加特河。
+it: Fedeli
+zh: 忠臣
+it: Ribelli
+zh: 叛军
+it: Infedeli
+zh: 异教徒
+it: Barcellona
+zh: 巴塞罗那
+it: Ripoll
+zh: 里波尔
+it: Goffredo
+zh: 维弗雷多
+it: "il Villoso"
+zh: 「多毛者」
+it: Vic
+zh: 维克
+it: Mirone
+zh: 米罗
+it: fratello di Goffredo
+zh: 维弗雷多的兄弟
+it: Montserrat
+zh: 蒙特塞拉特
+it: Bernardo
+zh: 贝尔纳多
+it: di Gotia
+zh: 哥提亚的
+it: envicm
+zh: envicm
+it: Villaggio di Ripoll
+zh: 里波尔村
+it: Villaggio di Montserrat
+zh: 蒙特塞拉特村
+it: Città di Barcellona
+zh: 巴塞罗那城
+it: Il fratello di Goffredo, Mirone, è caduto in battaglia.
+zh: 维弗雷多的兄弟米罗战死了。
+it: Goffredo è caduto in battaglia. Tutto è perduto...
+zh: 维弗雷多战死了。一切都完了……
+it: Il traditore Bernardo di Gotia ha avuto ciò che si meritava.
+zh: 叛徒哥提亚的贝尔纳多得到了应得的下场。
+it: Costruisci una cattedrale a Vic e una chiesa a Ripoll.
+zh: 在维克建一座大教堂，在里波尔建一座教堂。
+it: Distruggi i ribelli.
+zh: 消灭叛军。
+it: Corre l'anno 877 di Nostro Signore. Bernardo di Gotia, conte di Barcellona, si è ribellato al re franco Luigi III, proclamando la sua indipendenza dalla corona.\n\nLuigi III ha affidato a Guifré I el Pilós, detto anche Goffredo I il Villoso, figlio di Sunifredo d'Urgell, conte di Urgell e di Cerdanya dall'anno 870, e a suo fratello Mirone la difficile missione di sconfiggere tutti i ribelli catalani e ristabilire l'ordine...
+zh: 公元 877 年。巴塞罗那伯爵戈蒂亚的贝尔纳多反叛法兰克国王路易三世，宣布脱离王权独立。\n\n路易三世把击败所有加泰罗尼亚叛乱者、恢复秩序的重任，交给了乌赫尔的苏尼弗雷多之子、自 870 年起任乌赫尔与塞尔达尼亚伯爵的吉弗雷一世·埃尔皮洛斯（又称「多毛者」维弗雷多一世）和他的兄弟米罗……
+it: Goffredo e suo fratello Mirone affrontarono e sconfissero Bernardo di Gotia. In cambio dei loro servigi Luigi III decise, al Concilio di Troyes (nell'878), di consegnare la contea di Barcellona a Goffredo e quella del Rossiglione a suo fratello Mirone.\n\nGoffredo I fu l'ultimo conte nominato dalla monarchia franca. Per questo è stato tradizionalmente considerato "Guifré el Pilós" il padre dell'indipendenza della Catalogna.\n\nL'opera più importante di Goffredo fu il ripopolamento della piana di Vic (dall'878 all'881), una vasta "terra di nessuno" tra i carolingi e i musulmani che sarebbe diventata la contea di Osona. Lì fondò il monastero di Ripoll (Sant Joan de les Abadesses, 885) e restaurò il vescovato di Vic (Ausona, 886).\n\nCombatté al fianco di Carlo II "il Calvo" di Francia contro i normanni (vichinghi che saccheggiavano tutta la Francia) e morì combattendo contro i musulmani di Saragozza.\n\nNarra la leggenda che, quando Goffredo era sul letto di morte, fece disegnare a suo fratello lo stemma catalano a quattro pali.
+zh: 维弗雷多与兄弟米罗迎战戈蒂亚的贝尔纳多并将其击败。作为酬劳，路易三世在特鲁瓦会议（878 年）上决定把巴塞罗那伯国交给维弗雷多，把鲁西永伯国交给他的兄弟米罗。\n\n维弗雷多一世是法兰克君主任命的最后一位伯爵。正因如此，「吉弗雷·埃尔皮洛斯」历来被视为加泰罗尼亚独立的奠基者。\n\n维弗雷多最重要的功业是重新充实维克平原（878 至 881 年）——那是加洛林王朝与穆斯林之间一片广阔的「无人之地」，后来成为奥索纳伯国。他在那里创建了里波尔修道院（圣胡安德莱斯阿瓦德塞斯，885 年），并恢复了维克（奥索纳，886 年）的主教区。\n\n他曾与法国的秃头查理二世并肩对抗诺曼人（洗劫全法国的维京人），最后在与萨拉戈萨的穆斯林作战时阵亡。\n\n传说维弗雷多临终卧床时，让兄弟照着他的手指画下了加泰罗尼亚四道竖纹的纹章。
+it: Hai fondato un monastero a Ripoll.
+zh: 你在里波尔建起了一座修道院。
+it: Hai restaurato il vescovato di Vic.
+zh: 你修复了维克的主教区。
+it: Con te sono morte tutte le speranze per questa terra!
+zh: 你死了，这片土地的一切希望也随之而逝！
+it: Hai sconfitto tutti i ribelli! Sarai ricompensato!
+zh: 你击败了所有叛军！你会得到奖赏！
+it: Tutta la popolazione cristiana è stata annientata!
+zh: 基督徒百姓全被歼灭了！
+it: Hai cacciato tutti gli infedeli da qui! Oggi è un giorno glorioso.
+zh: 你把所有异教徒赶出了这里！今天是光荣的一天。
+it: Fratello, la terra è stata devastata. I ribelli hanno annientato tutti quelli che non si sono uniti alla loro causa.\nInoltre hanno chiesto aiuto ai saraceni.
+zh: 兄弟，这片土地已被蹂躏。叛军把所有不肯加入他们的人杀光了。\n而且他们还向撒拉逊人求援。
+it: Maledetti, dobbiamo distruggere tutti i ribelli e quel traditore di Bernardo...\n\nRidarò splendore a queste terre di Dio, lo giuro.\n\nRicordate: avremo clemenza per i contadini oppressi.\n\nRestaurerò il vescovato di Vic e fonderò un monastero a Ripoll.
+zh: 该死，我们必须消灭所有叛军和那个叛徒贝尔纳多……\n\n我发誓，我要让这些上帝的土地重焕光彩。\n\n记住：对被压迫的农民，我们要宽厚。\n\n我要修复维克的主教区，在里波尔建一座修道院。
+it: Fratello, i ribelli si stanno preparando a combatterci. Che dobbiamo fare? Teniamo questo ponte e tentiamo un attacco a sorpresa, o distruggiamo il ponte per guadagnare tempo e prepararci?\n\nSe distruggiamo il ponte saremo costretti a sbarcare l'esercito con la nostra flotta, perché non abbiamo l'abilità necessaria per costruirne uno nuovo.
+zh: 兄弟，叛军正准备与我们交战。该怎么办？守着这座桥奇袭他们，还是毁掉桥争取时间准备？\n\n若毁掉桥，我们就得靠船队把军队运上岸，因为我们没有造新桥的技艺。
+it: Distruggiamo il ponte.
+zh: 毁掉桥。
+it: Teniamo il ponte, piomberemo su di loro in fretta.
+zh: 守住桥，我们迅速扑上去。
+it: Come desiderate, fratello mio.
+zh: 就依你，我的兄弟。
+it: Un ultimo avvertimento: le nostre riserve d'oro sono scarse e questa terra non è molto ricca di giacimenti... suggerisco di provare a commerciare con la gente del posto per ottenere un vantaggio maggiore sul campo di battaglia.
+zh: 最后一句提醒：我们的金子储备很少，这片土地矿藏也不丰……我建议试着与本地人通商，好在战场上占更大的优势。
+it: Così sarà fatto.
+zh: 就这么办。
+it: Distruggiamo quel traditore di Bernardo!
+zh: 让我们消灭那个叛徒贝尔纳多！
+
+# la reconquista.wcm::maps/covadonga
+it: La battaglia di Covadonga
+zh: 科瓦东加之战
+it: 28 maggio 722. Don Pelayo e un pugno di asturiani mettono in fuga una colonna musulmana sulle pendici dei Picos de Europa. Questo fatto, quasi ignorato dai musulmani, segnerà l'inizio della Reconquista.
+zh: 722 年 5 月 28 日。佩拉约与一小队阿斯图里亚斯人在欧罗巴峰山麓击退了一支穆斯林队伍。这件事几乎未引起穆斯林注意，却将标志收复失地运动的开端。
+it: Asturiani
+zh: 阿斯图里亚斯人
+it: Berberi
+zh: 柏柏尔人
+it: Normanni
+zh: 诺曼人
+it: Pirati
+zh: 海盗
+it: Monastero di
+zh: ……修道院
+it: San Emeterio
+zh: 圣埃梅特里奥
+it: Juanjo
+zh: 胡安霍
+it: Capo asturiano
+zh: 阿斯图里亚斯首领
+it: Antonio
+zh: 安东尼奥
+it: Angelo
+zh: 安赫洛
+it: Scudo
+zh: 盾
+it: benedetto
+zh: 蒙福的
+it: Giuliano
+zh: 胡利安
+it: Sacerdote
+zh: 祭司
+it: Isidoro
+zh: 伊西多罗
+it: Al-qama
+zh: 阿尔卡马
+it: Berbero
+zh: 柏柏尔人
+it: Nobile
+zh: 贵族
+it: asturiano
+zh: 阿斯图里亚斯人
+it: D. Pelayo
+zh: 佩拉约
+it: Fiume Ebro
+zh: 埃布罗河
+it: León
+zh: 莱昂
+it: Oviedo
+zh: 奥维耶多
+it: Monastero di San Emeterio.\n\nNell'XI secolo intorno a esso nacque la città di Santander.
+zh: 圣埃梅特里奥修道院。\n\n十一世纪，桑坦德城在其周围兴起。
+it: Gijón
+zh: 希洪
+it: Cangas de Onís
+zh: 坎加斯德奥尼斯
+it: Ricompensa
+zh: 奖赏
+it: I mercanti, grati per il tuo aiuto nella lotta contro i pirati normanni, sostengono la tua causa offrendoti oro.
+zh: 商人们感激你打击诺曼海盗，献上黄金支持你的事业。
+it: Sconfitta
+zh: 失败
+it: D. Pelayo è caduto in combattimento...\ntutto è perduto.
+zh: 佩拉约战死了……\n一切皆失。
+it: Distruggi il posto di guardia nemico e le due torri e annienta la guarnigione.\nAspettano rinforzi, dovrai agire in fretta.
+zh: 摧毁敌军哨所和两座塔楼，歼灭守军。\n他们在等援军，你得迅速行动。
+it: Tempo
+zh: 时间
+it: Infedeli!\n\nSiamo perduti... si salvi chi può.
+zh: 异教徒！\n\n我们完了……各自逃命吧。
+it: I rinforzi saraceni stanno per arrivare.
+zh: 撒拉逊援军就要到了。
+it: Don Pelayo, figlio del duca visigoto di León Fávila, fu esiliato da Toledo dal re Vitiza. Nell'esilio si recò nella regione degli asturiani, sotto l'autorità del musulmano Munuza; questi sposò sua sorella e mandò D. Pelayo come ostaggio a Cordova.\n\nMa Don Pelayo fuggì e tornò nelle Asturie per organizzare una piccola resistenza contro i berberi...
+zh: 佩拉约是莱昂西哥特公爵法维拉之子，被国王维蒂萨从托莱多放逐。流亡中他来到阿斯图里亚斯人的地区，那里处于穆斯林穆努萨的治下；穆努萨娶了他的姐姐，并把佩拉约当作人质送往科尔多瓦。\n\n但佩拉约逃了出来，回到阿斯图里亚斯，组织起一支小小的抵抗力量对抗柏柏尔人……
+it: Elimina Al-qama e metti in fuga i suoi uomini.
+zh: 除掉阿尔卡马，把他的部下击退。
+it: Abbiamo poco tempo per preparare l'accoglienza a quell'infedele di Al-qama.
+zh: 我们没多少时间准备迎接那个异教徒阿尔卡马了。
+it: Le spie riferiscono che Al-qama si sta dirigendo qui.
+zh: 探子报称阿尔卡马正往这里来。
+it: Al-qama è già qui, diamo a quel cane infedele ciò che si merita.
+zh: 阿尔卡马已经到了，让这条异教狗得到应有的下场。
+it: Al-qama è morto. Senza il loro condottiero gli infedeli fuggiranno presto.
+zh: 阿尔卡马死了。没了首领，异教徒很快就会逃走。
+it: Il nemico sta subendo molte perdite...
+zh: 敌人伤亡惨重……
+it: Fuggono
+zh: 他们逃了
+it: Grazie a Dio!\n\nI saraceni fuggono!\n\nVittoria!
+zh: 感谢上帝！\n\n撒拉逊人逃了！\n\n胜利！
+it: Dopo la sanguinosa battaglia i berberi sconfitti scalarono il monte Auseva e fuggirono lungo le rive del fiume Deva... in quel momento una frana degli argini decimò molti dei fuggiaschi...\n\nDon Pelayo e i ribelli del nucleo asturiano cacciarono Munuza, proclamarono l'indipendenza dagli islamici e fondarono il regno delle Asturie, con Cangas de Onís come prima capitale.\n\nAnche se i musulmani non diedero importanza a questa battaglia, sostenendo che restavano solo 30 barbari arroccati su una rupe e che il tempo non era di loro gradimento, i chierici cristiani diedero alla battaglia un senso religioso, segnandola come l'inizio della Reconquista.
+zh: 血战之后，溃败的柏柏尔人爬上奥塞瓦山，沿德瓦河岸逃走……就在这时河岸崩塌，塌方让许多逃亡者丧命……\n\n佩拉约与阿斯图里亚斯腹地的起义者赶走了穆努萨，宣布脱离伊斯兰统治者独立，建立阿斯图里亚斯王国，以坎加斯德奥尼斯为第一座都城。\n\n尽管穆斯林并不看重这一战，声称不过三十个蛮族盘踞在峭壁上、天气又不合他们的意，基督教的教士们却赋予此战宗教意义，把它标记为收复失地运动的开端。
+it: D. Pelayo sente rinnovate le sue forze.
+zh: 佩拉约感到力量焕然一新。
+it: Aiuto
+zh: 援助
+it: Il signore di Gijón chiede di essere ricevuto.
+zh: 希洪领主请求接见。
+it: Il popolo asturiano ha perso ogni speranza.
+zh: 阿斯图里亚斯人已失去一切希望。
+it: Hai eliminato i saraceni della regione.
+zh: 你已除掉这一带的撒拉逊人。
+it: Al-qama e i suoi uomini non tornarono mai dalle Asturie.
+zh: 阿尔卡马和他的部下再也没从阿斯图里亚斯回去。
+it: Quei maledetti infedeli hanno abbattuto la nostra chiesa.
+zh: 那些该死的异教徒拆了我们的教堂。
+it: Finalmente! Io e il mio popolo siamo ai vostri ordini, Don Pelayo... ma per favore liberateci dai pirati normanni che devastano le nostre coste... i mercanti vi ricompenseranno.
+zh: 终于！我和我的人听您调遣，佩拉约……只求您把蹂躏我们海岸的诺曼海盗赶走……商人们会报答您。
+it: È ora di annientare quel nido di saraceni...\n\nAll'attacco!
+zh: 该铲平那个撒拉逊人的巢穴了……\n\n进攻！
+it: All'attacco!
+zh: 进攻！
+it: Per Allah! È quel barbaro di Pelayo...\npresto! ... alle armi!
+zh: 以安拉之名！是那个蛮子佩拉约……\n快！……拿起武器！
+it: Morite, infedeli!
+zh: 死吧，异教徒！
+it: Vittoria! Torniamo a Cangas de Onís a festeggiare.
+zh: 胜利了！我们回坎加斯德奥尼斯庆祝吧。
+it: Quei maledetti saraceni non torneranno a saccheggiare i nostri villaggi.
+zh: 那些该死的撒拉逊人再也不会来抢我们的村子了。
+it: Le vostre truppe hanno portato la pace in queste terre di Nostro Signore...\nCi siamo riuniti in questa assemblea per eleggere un principe che ci guidi verso la libertà. Pensavamo a voi.
+zh: 您的部队给这些主的土地带来了和平……\n我们在这里集会，要选一位君主带领我们走向自由。我们想到的是您。
+it: Sarà un onore.
+zh: 那是我的荣幸。
+it: Nell'anno del Signore 718, all'unanimità dei presenti, vi nominiamo nostro principe per grazia di Nostro Signore.
+zh: 公元 718 年，经在场众人一致同意，我们奉主恩典，推举您为我们的君主。
+it: Principe, abbiamo saputo che il signore di Gijón chiede il vostro aiuto in cambio dei suoi servigi. Sono certo che, se visiterete anche gli altri asturiani, si uniranno alla nostra causa.
+zh: 殿下，我们得知希洪领主愿以效忠换取您的援助。我相信，只要您也去拜访其余的阿斯图里亚斯人，他们都会加入我们的事业。
+it: Dobbiamo mettere da parte le nostre piccole differenze e unirci contro gli infedeli.
+zh: 我们必须放下小小的分歧，联合起来对付异教徒。
+it: Dovremmo affrettarci... a Munuza hanno parlato delle vostre vittorie e non tarderà a mandare una spedizione punitiva agli ordini del suo scagnozzo Al-qama.
+zh: 我们得赶快……有人把您的胜利告诉了穆努萨，他很快就会派他的爪牙阿尔卡马率兵讨伐。
+it: Gli prepareremo un benvenuto che non dimenticherà mai.
+zh: 我们要给他一个永生难忘的欢迎。
+it: Un'ultima preghiera: anche se siamo poveri, ci piacerebbe sostenere la causa. Potremmo raccogliere oro vendendo un'antica reliquia. È un vecchio scudo romano che crediamo sia stato benedetto da Nostro Signore.
+zh: 最后一个请求：我们虽穷，也想支持这场事业。我们可以卖掉一件古老的圣物换金子。那是一面古罗马盾牌，我们相信它曾蒙主祝福。
+it: Grazie, l'oro è di vitale importanza per noi.
+zh: 多谢，金子对我们至关重要。
+it: Se è benedetto da Nostro Signore ci aiuterà nella causa, sarà un onore portarlo.
+zh: 若它蒙主祝福，就会在事业上助我们；能带着它是一种荣幸。
+it: Prendetelo e disponetene.\n\nChe Nostro Signore ci assista.
+zh: 拿去吧，随你们处置。\n\n愿主助我们。
+it: Consegnatemi subito i tributi arretrati e quell'asino selvatico di Pelayo con i suoi seguaci, o morirete.
+zh: 立刻把欠下的贡赋和那个野驴佩拉约及其党羽交出来，否则你们都得死。
+it: Mai!\n\nDio salvi il principe Pelayo!
+zh: 绝不！\n\n上帝保佑佩拉约君主！
+it: Allora morite.
+zh: 那就死吧。
+it: Oggi proclamiamo la nostra indipendenza.\nPer le Asturie! Preparatevi alla difesa!
+zh: 今天我们宣告独立。\n为了阿斯图里亚斯！准备防御！
+
+# la reconquista.wcm::maps/zaragoza
+it: Saragozza
+zh: 萨拉戈萨
+it: Accompagna Alfonso I il Battagliero nella conquista della valle dell'Ebro.
+zh: 随阿方索一世「战士」征服埃布罗河谷。
+it: Huesca
+zh: 韦斯卡
+it: Valtierra
+zh: 巴尔铁拉
+it: Mustain II
+zh: 穆斯坦二世
+it: Tudela
+zh: 图德拉
+it: Ejea de los caballeros
+zh: 埃赫阿德洛斯骑士
+it: Alfonso I
+zh: 阿方索一世
+it: il Battagliero
+zh: 「战士」
+it: Tarazona
+zh: 塔拉索纳
+it: Borja
+zh: 博尔哈
+it: Rueda
+zh: 鲁埃达
+it: Calatayud
+zh: 卡拉塔尤德
+it: Belchite
+zh: 贝尔奇特
+it: Daroca
+zh: 达罗卡
+it: Cutanda
+zh: 库坦达
+it: Ejea de los Caballeros
+zh: 埃赫阿德洛斯骑士
+it: Caccia tutti gli infedeli e conquista tutti i castelli e i posti di guardia della regione.
+zh: 赶走所有异教徒，夺取这一带所有城堡与哨所。
+it: Ormai non puoi più completare la missione... Sarai ricordato come Alfonso I "il Crudele"
+zh: 你已无法完成任务……后人会记住你是阿方索一世「残暴者」
+it: Alfonso I è morto... Che sventura!
+zh: 阿方索一世死了……多大的不幸！
+it: La presenza degli almoravidi nella penisola iberica provocò un cambiamento sostanziale nella situazione politico-militare, poiché vasti territori ricaddero in mano musulmana.\n\nTuttavia il grande balzo in avanti nella storia del regno d'Aragona lo compì, nel primo terzo del XII secolo, Alfonso I il Battagliero, sovrano noto per il suo valore militare e il suo profondo spirito religioso. Il suo proposito era conquistare la valle dell'Ebro per arrivare alla costa mediterranea e da lì preparare una crociata in Terra Santa. Appena salito al trono, nell'anno 1104, avviò l'offensiva militare contro i musulmani.
+zh: 阿尔摩拉维德人出现在伊比利亚半岛，使政治军事形势发生了实质变化，大片领土重归穆斯林之手。\n\n然而，阿拉贡王国历史上真正的飞跃，是十二世纪前三分之一的阿方索一世「战士」完成的。这位君主以武勇与虔诚著称，志向是征服埃布罗河谷、抵达地中海海岸，再从那里筹备一场往圣地的十字军。1104 年他一登位，便对穆斯林发起军事攻势。
+it: Alfonso I il Battagliero (1073-1134), re d'Aragona e di Navarra (dal 1104 al 1134), unì ai suoi domini gran parte della valle dell'Ebro.\n\nIl re aragonese entrò trionfalmente a Saragozza, capitale dell'antica Marca Superiore di al-Andalus e poi centro di un regno di taifa, alla fine del 1118. Le altre città del regno di taifa di Saragozza caddero rapidamente in mano cristiana. Nel 1119 Alfonso I il Battagliero occupò Tudela, Tarazona, Rueda e Borja.\n\nNel 1120 ottenne una clamorosa vittoria sugli almoravidi a Cutanda, ottenendo poco dopo l'annessione di Soria, che più tardi sarebbe passata alla Castiglia, e di Calatayud. Nel 1121 anche Daroca cadde in suo potere. La media valle dell'Ebro e le valli del Jalón e del Jiloca erano diventate, in pochi anni, parte integrante del regno d'Aragona. Negli anni 1125 e 1126 Alfonso I compì ancora una spedizione nelle terre di al-Andalus, percorrendo la vega di Granada e arrivando fino a Motril. Da quella spedizione tornò con diverse migliaia di mozarabi pronti a stabilirsi nelle zone del recente ripopolamento aragonese. Avviò inoltre la penetrazione nella zona di Teruel del Sistema Iberico, avanzando fino a Torrelacárcel.\n\nMa l'occupazione della bassa valle dell'Ebro fu la spina nel fianco del Battagliero. Anche se qualche anno dopo riuscì a conquistare la piazza di Mequinenza, nel 1134 fu sconfitto e ucciso davanti alle mura di Fraga, dopo aver tolto l'assedio.
+zh: 阿方索一世「勇士」（1073—1134），阿拉贡与纳瓦拉国王（1104 至 1134 年在位），把埃布罗河谷的大片土地并入自己的领地。\n\n这位阿拉贡国王于 1118 年底凯旋进入萨拉戈萨——它曾是安达卢斯上边区首府，后来成为一个泰法王国的中心。萨拉戈萨泰法王国的其他城镇也很快落入基督徒之手。1119 年，阿方索一世攻占图德拉、塔拉索纳、鲁埃达与博尔哈。\n\n1120 年，他在库坦达对阿尔摩拉维德人取得一场轰动性的胜利，随后又兼并了索里亚（此地后来归卡斯蒂利亚）与卡拉塔尤德。1121 年达罗卡也落入他手。短短几年间，埃布罗河中游以及哈隆河与希洛卡河谷便成了阿拉贡王国的一部分。1125 与 1126 年，阿方索一世再度远征安达卢斯，穿越格拉纳达平原，直抵莫特里尔。他从那次远征带回数千名莫扎拉比人，准备安置在阿拉贡新近充实的地带。他还向伊比利亚山系的特鲁埃尔一带渗透，推进到托雷拉卡尔塞尔。\n\n但埃布罗河下游谷地始终是「勇士」的刺。虽然几年后他攻下了梅基嫩萨要塞，1134 年却在弗拉加城下解围时战败身亡。
+it: Alfonso I deve sopravvivere.\nNon distruggere nessun castello o posto di guardia.
+zh: 阿方索一世必须存活。\n不得摧毁任何城堡或哨所。
+it: HUESCA, ANNO 1104 DI NOSTRO SIGNORE.
+zh: 韦斯卡，公元 1104 年。
+it: Che disastro! ...In Spagna si parlerà arabo per sempre.
+zh: 多惨的灾难！……西班牙将永远讲阿拉伯语了。
+it: Sarai ricordato per la tua eroica vittoria! Hai conquistato tutte le piazze della regione.
+zh: 后人会记住你这场英勇的胜利！你攻下了这一带所有的要塞。
+it: Io, Alfonso I, re d'Aragona e di Navarra per grazia di Dio, prometto di essere un sovrano giusto e rispettoso dei costumi cristiani; per questo libererò la valle dell'Ebro dalla tirannia saracena, restituendole la sua fede cristiana.\n\nConquisterò tutte le piazze di questa regione e caccerò gli infedeli fino a raggiungere la costa mediterranea, e da lì prepareremo una crociata in Terra Santa.
+zh: 我，阿方索一世，蒙上帝恩典的阿拉贡与纳瓦拉国王，立誓做一个公正、尊重基督教风俗的君主；因此我要把埃布罗河谷从撒拉逊人的暴政下解放出来，让它重归基督教信仰。\n\n我要攻下这一带所有的要塞，把异教徒一直赶到地中海海岸，再从那里筹备一场往圣地的十字军。
+it: Maestà, sono stato informato che nella regione ci sono mozarabi sparsi, desiderosi di abbracciare di nuovo la fede della loro Chiesa. Potrebbero esserci di grande aiuto nella nostra impresa.
+zh: 陛下，我得知这一带散居着一些莫萨拉布人，他们渴望重归自己教会的信仰。他们对我们的事业可能大有帮助。
+it: Lunga vita al re!
+zh: 国王万岁！
+it: Dobbiamo attaccare al più presto. I saraceni si aspettano il nostro attacco e col passare del tempo migliorano le loro difese.
+zh: 我们必须尽快进攻。撒拉逊人料到我们会攻，随着时间推移，他们的防御会越来越强。
+it: Senza dubbio.
+zh: 毫无疑问。
+it: Dobbiamo pianificare un buon attacco.
+zh: 我们得筹划一次漂亮的进攻。
+
+# la reconquista.wcm::maps/conquista granada
+it: La conquista di Granada
+zh: 格拉纳达的征服
+it: Dopo la presa di Malaga nel 1487 i Re Cattolici preparano le loro truppe per affrontare l'ultimo baluardo musulmano nella Penisola... Granada.
+zh: 1487 年攻下马拉加后，天主教双王着手整备军队，迎战半岛上最后一座穆斯林堡垒……格拉纳达。
+it: Boabdil
+zh: 博阿布迪尔
+it: Re Cattolici
+zh: 天主教双王
+it: Nobili
+zh: 贵族
+it: El Zagal
+zh: 埃尔萨加尔
+it: Jaén
+zh: 哈恩
+it: Baza
+zh: 巴萨
+it: Granada
+zh: 格拉纳达
+it: "El Zagal"
+zh: 「埃尔萨加尔」
+it: Abu Abd Allah
+zh: 阿布·阿卜杜拉
+it: Guadix
+zh: 瓜迪克斯
+it: Re nasride
+zh: 纳斯里德王朝国王
+it: L'Alhambra
+zh: 阿尔罕布拉宫
+it: Conte
+zh: 伯爵
+it: di Ureña
+zh: 德乌雷尼亚
+it: Maestro
+zh: 大师
+it: di Santiago
+zh: 圣地亚哥的
+it: di Tendilla
+zh: 滕迪利亚
+it: Marchese
+zh: 侯爵
+it: di Cadice
+zh: 德加的斯
+it: Alonso
+zh: 阿隆索
+it: de Aguilar
+zh: 德阿吉拉尔
+it: di Cifuentes
+zh: 西富恩特斯
+it: Isabella
+zh: 伊莎贝拉
+it: la Cattolica
+zh: 「天主教徒」
+it: Ferdinando
+zh: 费尔南多
+it: il Cattolico
+zh: 「天主教徒」
+it: di Villena
+zh: 比列纳
+it: di Cabra
+zh: 卡夫拉
+it: Vélez
+zh: 贝莱斯
+it: Almuñécar
+zh: 阿尔穆涅卡尔
+it: Zahir Abén
+zh: 扎希尔·阿本
+it: Uno dei Re Cattolici è caduto in battaglia...
+zh: 天主教双王之一战死了……
+it: Elimina le truppe di El Zagal (giocatore arancione) e le truppe infedeli (giocatore rosso) che circondano Granada.\nNon è necessario attaccare Granada (giocatore verde).
+zh: 消灭包围格拉纳达的埃尔萨加尔部队（橙色玩家）与异教徒部队（红色玩家）。\n不必攻打格拉纳达（绿色玩家）。
+it: I Re Cattolici devono sopravvivere.\nBoabdil deve sopravvivere.\nL'Alhambra non deve essere distrutta.
+zh: 天主教双王必须存活。\n博阿布迪尔必须存活。\n阿尔罕布拉宫不得被毁。
+it: L'Alhambra è stata distrutta dalle tue truppe. Che bruto!
+zh: 阿尔罕布拉宫被你的部队毁掉了。真是野蛮！
+it: Boabdil è morto da eroe... Granada non si arrenderà mai.
+zh: 博阿布迪尔像英雄一样战死了……格拉纳达永不投降。
+it: El Zagal è stato sconfitto... facciamola finita con il resto delle sue truppe.
+zh: 埃尔萨加尔被击败了……把他剩下的部队也一并了结。
+it: Costruisci un castello nella zona che Ferdinando il Cattolico ti ha mostrato.
+zh: 在费尔南多「天主教徒」指给你的地方建一座城堡。
+it: Cominciò la guerra il re Muley Hacén (Abu al-Hasan) di Granada prendendo Zahara nel 1481, ma nel 1482 suo figlio Boabdil il Piccolo si ribellò contro di lui, approfittando dell'impopolarità del padre per le tasse eccessive, e si proclamò re. La lotta tra i due diede ai cristiani l'occasione di conquistare i loro possedimenti. Il marchese di Cadice si impadronì di Alhama, nel cuore stesso del regno.\n\nNel frattempo il re Ferdinando assicurava all'Egitto che quella guerra non era che una questione interna della Spagna. Allo stesso tempo mandò la sua flotta a sorvegliare lo stretto e scese a sud per prendere il comando e per mettere Muley Hacén e suo fratello Muhammad "El Zagal" contro Boabdil "il Piccolo".\n\nBoabdil cacciò suo padre da Granada e questi dovette rifugiarsi a Malaga con El Zagal; ciò ridusse la pressione sui cristiani ad Alhama e permise loro di cominciare attacchi su Loja e sull'Axarquía di Malaga. Non diedero i risultati sperati, ma quando i cristiani fecero prigioniero Boabdil vicino a Lucena, lo obbligarono a permettere a Ferdinando di attraversare le sue terre per attaccare Muley Hacén, che occupò di nuovo il trono di Granada. Quest'ultimo però morì di malattia e nel 1486 Boabdil tornò sul trono di Granada.\n\nFerdinando e il marchese di Cadice dedicarono gli anni dal 1483 al 1486 alla conquista della metà occidentale del regno.\n\nQuando Ferdinando conquistò Malaga nel 1487, El Zagal si rifugiò nelle città di Baza, Almería e Guadix.\n\nGli eserciti cristiani dei Re Cattolici si preparano a dare il colpo di grazia al regno di Granada. La strategia di Ferdinando è semplice ma difficile da attuare: eliminare ogni resistenza musulmana attorno a Granada...
+zh: 格拉纳达国王穆莱·哈桑（阿布·哈桑）于 1481 年夺取萨哈拉，由此开战。但 1482 年，他的儿子「小」博阿布迪尔趁父亲因重税失尽人心，起兵反叛，自立为王。父子相争，给了基督徒夺取其领地的机会。加的斯侯爵夺下了王国腹地的阿拉马。\n\n与此同时，费尔南多国王向埃及保证，这场战争不过是西班牙的内务。同时他派舰队监视海峡，并南下亲掌军务，让穆莱·哈桑和他的兄弟穆罕默德「埃尔萨加尔」去对付「小」博阿布迪尔。\n\n博阿布迪尔把父亲逐出格拉纳达，父亲只得与埃尔萨加尔一起避往马拉加；这减轻了阿拉马方面基督徒的压力，也让他们得以开始进攻洛哈和马拉加的阿克萨基亚。那些进攻未取得预期效果，可当基督徒在卢塞纳附近俘获博阿布迪尔后，便迫使他允许费尔南多过境攻打穆莱·哈桑——此时穆莱·哈桑已重新占住格拉纳达王位。但穆莱·哈桑病故，1486 年博阿布迪尔重登格拉纳达王位。\n\n1483 至 1486 年，费尔南多与加的斯侯爵致力于征服王国西半部。\n\n1487 年费尔南多攻下马拉加后，埃尔萨加尔退守巴萨、阿尔梅里亚与瓜迪克斯。\n\n天主教双王的基督徒大军准备给格拉纳达王国致命一击。费尔南多的方略简单却难以实施：肃清格拉纳达周围的一切穆斯林抵抗……
+it: Tra il 1488 e il 1489 i Re Cattolici conquistarono le città orientali che sostenevano El Zagal. I musulmani più risoluti si trincerarono a Granada, ma Ferdinando e Isabella assediarono la città nell'aprile 1490 con l'aiuto di El Zagal e, quando il loro accampamento prese fuoco, costruirono una città reale, Santa Fe, per sostituirlo. Questa prova di tenacia scoraggiò i difensori e Boabdil accettò di tenere colloqui segreti con Ferdinando, per non irritare il popolo musulmano, per patteggiare la resa.
+zh: 1488 至 1489 年间，天主教双王攻下了支持埃尔萨加尔的东方诸城。最坚决的穆斯林退守格拉纳达，但费尔南多与伊莎贝拉在埃尔萨加尔帮助下于 1490 年 4 月围城；他们的营地失火后，便另建了一座王城圣菲来取代它。这份坚韧挫伤了守军的士气，博阿布迪尔为避免激怒穆斯林民众，同意与费尔南多秘密谈判，商定投降。
+it: Hai privato le generazioni future di uno dei palazzi più belli del mondo.
+zh: 你让后世失去了一座世上最美的宫殿。
+it: Le truppe cristiane sono state sconfitte. Non hai studiato molta storia, vero?
+zh: 基督徒部队被击败了。你没怎么学过历史吧？
+it: Questi infedeli hanno avuto ciò che si meritavano.
+zh: 这些异教徒得到了应得的下场。
+it: Incredibile. Hai saccheggiato Granada. Non hai studiato molta storia, vero?
+zh: 难以置信。你把格拉纳达洗劫了一遍。你没怎么学过历史吧？
+it: I Re Cristiani sono morti... Non hai studiato molta storia, vero?
+zh: 基督徒君主都死了……你没怎么学过历史吧？
+it: Quegli infedeli sono rimasti senza capi.
+zh: 那些异教徒失去了首领。
+it: Tutti i nostri nobili sono caduti in battaglia.
+zh: 我们的贵族全部战死了。
+it: Le truppe di El Zagal sono cadute.
+zh: 埃尔萨加尔的部队败了。
+it: Equipaggio... davanti a noi ci sono le città infedeli di Vélez e Almuñécar. Abbiamo ricevuto l'ordine di ispezionare il terreno e di eliminare ogni saraceno che troviamo.\nNon temete, avremo il sostegno di un gruppo di soldati da terra. Il nostro attacco servirà a guadagnare un po' di tempo per allestire una difesa a Jaén, che è continuamente assediata... se riescono a salvare la città, i Re Cattolici potranno ricevere molti aiuti appena arriveranno con il loro esercito, che è in cammino... dobbiamo resistere fino ad allora...\n\nPer Sua Maestà!\n\nMorte ai saraceni!
+zh: 弟兄们……前方就是异教徒的城池贝莱斯与阿尔穆涅卡尔。我们奉命侦察地形，并消灭遇到的所有撒拉逊人。\n不必担心，有一队陆军会支援我们。我们的进攻能为哈恩的布防争取一点时间——那里正被不断围攻……只要他们守住城池，天主教双王的大军一到，就能得到大批增援……在那之前我们必须撑住……\n\n为陛下而战！\n\n杀光撒拉逊人！
+it: Miei valorosi, oggi faremo la storia...\nDobbiamo eliminare tutte le città e le truppe saracene fuori da Granada prima di assediarla.\n\nSe Jaén ha resistito, ci aiuterà nella nostra sacra impresa.\n\nMorte agli infedeli!
+zh: 我勇敢的将士们，今天我们要创造历史……\n围攻格拉纳达之前，我们必须先扫清它城外的所有撒拉逊城镇与部队。\n\n如果哈恩守住了，它会在我们这桩神圣事业中助我们一臂之力。\n\n杀光异教徒！
+it: Non ci resta che assediare Granada...\nPer farlo dobbiamo costruire un accampamento in questa zona.
+zh: 剩下的就是围攻格拉纳达了……\n为此我们得在这一带建一座营地。
+
+# la reconquista.wcm::maps/santiago
+it: La difesa di Santiago
+zh: 圣地亚哥的守卫战
+it: Estate dell'anno di Nostro Signore 997.\n\nAlmanzor, "il Vittorioso per grazia di Allah", ha cominciato una razzia e minaccia la città di Santiago.\n\nRiuscirai a cambiare la storia di questo triste capitolo della cristianità?
+zh: 公元 997 年夏。\n\n阿尔曼索尔，「蒙安拉恩典的胜利者」，开始了一场劫掠，威胁圣地亚哥城。\n\n你能改变基督教世界这段悲惨篇章的历史吗？
+it: Malviventi
+zh: 恶徒
+it: Santiago
+zh: 圣地亚哥
+it: Ramiro
+zh: 拉米罗
+it: Apostolo
+zh: 使徒
+it: El Ferrol
+zh: 埃尔费罗尔
+it: Casa
+zh: 房屋
+it: Spada di
+zh: ……之剑
+it: A Coruña
+zh: 拉科鲁尼亚
+it: Porto
+zh: 港口
+it: Vilalba
+zh: 比拉尔瓦
+it: A Baiuca
+zh: 阿拜乌卡
+it: Juan
+zh: 胡安
+it: Carballo
+zh: 卡瓦略
+it: Lugo
+zh: 卢戈
+it: Cattedrale di
+zh: ……大教堂
+it: Bermudo II
+zh: 贝尔穆多二世
+it: Carro
+zh: 车
+it: Frate
+zh: 修士
+it: Pablo
+zh: 巴勃罗
+it: Capitano
+zh: 上尉
+it: Sancho
+zh: 桑乔
+it: Noia
+zh: 诺亚
+it: A Estrada
+zh: 阿埃斯特拉达
+it: Lalín
+zh: 拉林
+it: Ribeira
+zh: 里韦拉
+it: Almanzor
+zh: 阿尔曼索尔
+it: Per le strade di Ribeira un uomo dall'aspetto trasandato vi viene incontro.
+zh: 在里韦拉的街上，一个衣衫褴褛的人迎面走来。
+it: Uno di loro aveva una lettera con le parole "Pedro Ordoño, taverna di Lalín".
+zh: 其中一人带着一封信，上面写着「佩德罗·奥多尼奥，拉林酒馆」。
+it: Giureresti di aver visto qualcuno nascondersi tra le tombe. Forse è un'apparizione...
+zh: 你几乎可以断定看见有人躲在坟墓之间。也许是个鬼魂……
+it: Le truppe di Almanzor ci attaccano!\n\nDifendiamo Santiago!
+zh: 阿尔曼索尔的部队攻过来了！\n\n守住圣地亚哥！
+it: Il capitano Sancho è caduto in battaglia.
+zh: 桑乔上尉战死了。
+it: Il re è morto, e con lui tutte le nostre speranze...
+zh: 国王死了，我们的希望也随之而逝……
+it: Frate Pablo è morto.
+zh: 巴勃罗修士死了。
+it: Quel maledetto traditore di Pablo è morto...
+zh: 那个该死的叛徒巴勃罗死了……
+it: Quella maledetta spia doveva avere dei complici...
+zh: 那个该死的奸细一定有同伙……
+it: Voleva inoltre sabotare le nostre difese, e per poco non ci è riuscito.
+zh: 他还想破坏我们的防御，差一点就得手了。
+it: Scopri chi è la spia. Dovrai sbrigarti: hai pochissimo tempo.
+zh: 查出奸细是谁。你得赶快：时间极少。
+it: Il re Bermudo II e il capitano Sancho devono sopravvivere.
+zh: 贝尔穆多二世国王与桑乔上尉必须存活。
+it: Elimina la spia prima che possa fuggire.
+zh: 在奸细逃走之前除掉他。
+it: Proteggi il re a Santiago.\nIl capitano Sancho deve stare al fianco del suo re.
+zh: 在圣地亚哥保护国王。\n桑乔上尉必须守在他的国王身边。
+it: Ti resta pochissimo tempo.
+zh: 你剩下的时间极少。
+it: Quegli infedeli hanno distrutto la nostra cattedrale. Oggi è un giorno triste per la cristianità.
+zh: 那些异教徒毁掉了我们的大教堂。今天是基督教世界悲伤的一天。
+it: Porta Bermudo II a El Ferrol per nasconderlo ad Almanzor.
+zh: 把贝尔穆多二世送到埃尔费罗尔，藏在阿尔曼索尔找不到的地方。
+it: Dio mio! Un'apparizione!
+zh: 天哪！鬼魂！
+it: Elimina Almanzor.
+zh: 除掉阿尔曼索尔。
+it: Almanzor è morto. L'apostolo Santiago sarà fiero della nostra vendetta.
+zh: 阿尔曼索尔死了。使徒圣地亚哥会为我们的复仇而自豪。
+it: Almanzor ha lasciato la regione. Non potremo vendicarci di quell'infedele.
+zh: 阿尔曼索尔离开了这一带。我们无法向那个异教徒复仇了。
+it: Estate dell'anno di Nostro Signore 997.\n\nIl condottiero cordovese Muhammad ibn Abi Amir, meglio noto come "Almanzor", ha cominciato una terrificante razzia usando la guerra santa come pretesto per attaccare i territori cristiani.\n\nHa già devastato León, minacciando i pellegrini del Cammino di Santiago.
+zh: 公元 997 年夏。\n\n科尔多瓦的统帅穆罕默德·伊本·阿比·阿米尔，也就是人们熟知的「阿尔曼索尔」，以圣战为借口，对基督教土地发动了一场骇人的劫掠。\n\n他已蹂躏莱昂，威胁着圣地亚哥朝圣之路上的朝圣者。
+it: Nel 997 Almanzor, il grande condottiero arabo, dopo aver ricevuto rinforzi a Oporto portati via mare, distrusse completamente Santiago e la sua cattedrale, lasciando intatta solo la tomba dell'apostolo Santiago.\n\nTornò a Cordova con prigionieri e bottino, comprese le porte e le campane della cattedrale, che nella moschea furono usate come bracieri, lampade e legno per il tetto.\n\nLa cristianità subì allora una delle più grandi umiliazioni della sua storia.\n\nDa quel fatto l'apostolo Santiago divenne il simbolo della lotta contro i musulmani. Fu raffigurato in sella a un cavallo bianco mentre impugna con forza una spada, e fu chiamato "Santiago Matamoros".\n\nQuanto ad Almanzor, morì per ferite di guerra presso Calatañazor nell'anno 1002.\n\nDopo la sua morte il califfato di Cordova entrò in decadenza e si frantumò in 30 piccoli regni di taifa.
+zh: 997 年，阿拉伯名将阿尔曼索尔在波尔图得到由海路送来的援军后，彻底摧毁了圣地亚哥及其主教座堂，只留下使徒圣雅各的坟墓完好无损。\n\n他带着俘虏与战利品回到科尔多瓦，其中有主教座堂的大门与铜钟——在清真寺里，这些被当作火盆、灯盏和屋顶的木料使用。\n\n基督世界由此遭受了其历史上最大的屈辱之一。\n\n自此，使徒圣雅各成为对抗穆斯林的象征。他被画成骑白马、奋力挥剑的模样，被称为「圣地亚哥·马塔莫罗斯」，即「杀摩尔人者」。\n\n至于阿尔曼索尔，1002 年在卡拉塔尼亚索尔附近因战伤而死。\n\n他死后，科尔多瓦的哈里发国走向衰败，碎裂为三十个小泰法王国。
+it: Hanno sabotato le porte di Santiago... siamo perduti.
+zh: 他们破坏了圣地亚哥的城门……我们完了。
+it: Ramiro ha vendicato la sua amata figlia.
+zh: 拉米罗为他心爱的女儿报了仇。
+it: La speranza cristiana è morta.
+zh: 基督徒的希望破灭了。
+it: I saraceni non tornarono mai più nella loro terra.
+zh: 撒拉逊人再也没回到他们的土地。
+it: Nonostante tutto, la regione è stata devastata.
+zh: 尽管如此，这一带已被蹂躏。
+it: È un giorno triste per la cristianità.
+zh: 对基督教世界来说，这是悲伤的一天。
+it: Mi sono giunte voci su una spia saracena che agisce a Santiago. Affido a voi, frate Pablo e capitano Sancho, la delicata missione di scoprirla.\n\nRodrigo vi accompagnerà perché possiate viaggiare più in fretta.\nSiate cauti, ma agite in fretta: Almanzor non tarderà ad attaccarci e la spia potrebbe aiutarlo.\n\nUn ultimo avvertimento, capitano. So che vi piace lavorare da solo, ma non separatevi da frate Pablo: vi sarà di grande utilità.
+zh: 我听说有个撒拉逊奸细在圣地亚哥活动。我把查明他的重任交给你们——巴勃罗修士与桑乔上尉。\n\n罗德里戈会随你们同行，好让你们走得更快。\n要谨慎，但要快：阿尔曼索尔很快就会来攻，那奸细可能会帮他。\n\n最后一句提醒，上尉。我知道你喜欢独自办事，但别离开巴勃罗修士：他会大有用处。
+it: La troveremo, maestà.
+zh: 我们会找到他的，陛下。
+it: Da dove cominciamo? Dalla taverna?
+zh: 从哪儿查起？酒馆？
+it: È un buon posto per cominciare le nostre indagini. Inoltre una guardia della porta est voleva dirmi qualcosa riguardo a una spia. Glielo chiederemo uscendo.
+zh: 那是个开始查访的好地方。再说，东门有个卫兵想跟我说些关于奸细的事。出去时问问他。
+it: "Ad utrumque paratus"
+zh: 「Ad utrumque paratus」（备于两端）
+it: Capitano, so che sta cercando un gruppo di spie.\nUn sacerdote di A Estrada di nome Juan crede di sapere dove si trova il covo di quegli infedeli.
+zh: 上尉，我知道您在找一伙奸细。\n阿埃斯特拉达一位叫胡安的祭司，似乎知道那些异教徒的窝在哪儿。
+it: Grazie dell'informazione.
+zh: 多谢告知。
+it: Taverna "L'Apostolo". Quale sarà la nostra prima mossa, capitano?
+zh: 「使徒」酒馆。上尉，我们先做什么？
+it: Chiediamo se qualcuno ha visto qualche persona strana ultimamente.
+zh: 问问有没有人最近见过形迹可疑的人。
+it: Chiediamo all'oste se ha visto qualche persona sospetta.
+zh: 问问店主有没有见过可疑的人。
+it: Un vecchio ubriaco vi racconta di aver parlato con un uomo rosso di capelli e guercio che sembrava molto nervoso ed era molto interessato a conoscere le difese di Santiago. Crede di ricordare che venisse da Carballo.
+zh: 一个老醉汉跟你说，他同过一个红头发、独眼的人说话，那人显得很紧张，特别想打听圣地亚哥的防务。他记得那人是从卡瓦略来的。
+it: L'oste non ricorda nessuno. Ma crede che nella taverna di Lugo, famosa perché vi si danno appuntamento molti mercenari, forse potrete ottenere qualche informazione.
+zh: 店主谁也不记得。不过他觉得卢戈的酒馆里也许能打听到什么——那地方出名，许多雇佣兵都在那里碰头。
+it: Conoscete un uomo rosso di capelli e guercio? Vorrei parlare con lui.
+zh: 你们认识一个红头发、独眼的人吗？我想跟他说话。
+it: Dovete riferirvi a Felipe... È partito per El Ferrol qualche giorno fa.
+zh: 您说的准是费利佩……他几天前动身去埃尔费罗尔了。
+it: Grazie.
+zh: 多谢。
+it: Siamo arrivati alla taverna di Lugo.
+zh: 我们到了卢戈的酒馆。
+it: Chiediamo a qualche soldato se ha visto qualcuno di sospetto.
+zh: 问问哪个士兵有没有见过可疑的人。
+it: Sediamoci e osserviamo, nel caso succeda qualcosa di insolito.
+zh: 我们坐下观察，万一有什么不寻常的事。
+it: Un soldato strabico assicura di aver parlato ad A Estrada con un sacerdote di nome Juan che sapeva dove si trovava il covo di alcuni malfattori, anche se a lui non l'ha detto.
+zh: 一个斜眼士兵坚称，他在阿埃斯特拉达同一位叫胡安的祭司说过话，那人知道一些歹人的窝在哪儿，只是没告诉他。
+it: Un uomo dalla carnagione scura si avvicina e ti sussurra che vuole parlarti, ma non qui.
+zh: 一个肤色深的人走过来低声说想跟你谈谈，但不是在这儿。
+it: Forse sono le spie che cerchiamo, chiediamo a quel sacerdote di A Estrada.
+zh: 也许这就是我们要找的奸细，去问问阿埃斯特拉达那位祭司。
+it: Dove ci incontriamo?
+zh: 我们在哪儿见？
+it: Vuoi tendermi una trappola, saraceno? Muori, maledetto!
+zh: 你想给我设陷阱吗，撒拉逊人？去死吧，该死的！
+it: Non parlerò con nessun infedele.
+zh: 我不跟任何异教徒说话。
+it: Ci vediamo alla locanda di Noia.
+zh: 我们在诺亚的客栈见。
+it: Come vuole, ma se cerca spie saracene vada a Ribeira.
+zh: 随您，可您若在找撒拉逊奸细，就去里韦拉。
+it: Credi che fosse la spia?
+zh: 你觉得他就是那个奸细？
+it: Potrebbe essere, ma l'intuito mi dice che non era lui.
+zh: 有可能，可我的直觉说他不是。
+it: Mi scusi, padre Juan?
+zh: 请问，胡安神父？
+it: È partito per la chiesa di Vilalba un paio di giorni fa.
+zh: 他两天前动身去比拉尔瓦的教堂了。
+it: Siete voi che cercate una spia?
+zh: 是您在找奸细吗？
+it: Esatto.
+zh: 正是。
+it: Credo che si sbagli.
+zh: 我想您弄错了。
+it: Si chiama Felipe, è un uomo rosso di capelli e guercio. Vive a El Ferrol.
+zh: 他叫费利佩，红头发、独眼。住在埃尔费罗尔。
+it: Mi scusi, l'ho scambiata per un'altra persona.
+zh: 抱歉，我把您认成别人了。
+it: Per favore, cerchiamo un uomo guercio e rosso di capelli di nome Felipe.
+zh: 劳驾，我们在找一个独眼、红头发、叫费利佩的人。
+it: Credo che non lo troverete. Purtroppo Felipe è morto ieri avvelenato.
+zh: 我想你们找不到他了。可惜费利佩昨天中毒死了。
+it: Siamo arrivati tardi.
+zh: 我们来晚了。
+it: I saraceni non lasciano testimoni... i morti non parlano.
+zh: 撒拉逊人不留活口……死人不会说话。
+it: Padre Juan?
+zh: 胡安神父？
+it: Sì, sono io. Come posso aiutarvi, fratelli?
+zh: 是，我就是。有什么事我能帮你们，兄弟们？
+it: Cerchiamo il covo di un gruppo di malfattori che crediamo siano spie saracene.
+zh: 我们在找一伙歹人的窝，我们相信他们是撒拉逊奸细。
+it: Finalmente danno credito alle mie parole! Quelle spie si trovano a sud-est di Lalín. Si nascondono tra le montagne.
+zh: 终于有人相信我的话了！那些间谍就在拉林东南，藏在山里。
+it: Finalmente è arrivato.
+zh: 终于来了。
+it: Quali informazioni ha da offrirmi?
+zh: 您有什么情报给我？
+it: A La Coruña c'è un uomo chiamato Tomás il Mercante che conosce la rete di spie saracene che state cercando.
+zh: 拉科鲁尼亚有个叫「商人托马斯」的人，他知道你们要找的那张撒拉逊间谍网。
+it: Tomás il Mercante?
+zh: 商人托马斯？
+it: La aspettavo, capitano. Ma parlerò solo con dei laici. Mandi il suo amico sacerdote a Santiago e allora parleremo.
+zh: 商人托马斯？
+it: Potrebbe essere una trappola.
+zh: 这可能是陷阱。
+it: Non volevo che quel prete che vi accompagnava ci sentisse, perché credo che alcuni sacerdoti cristiani siano coinvolti. Andate da solo in un vecchio cimitero nel bosco di El Ferrol, a nord di Vilalba. Il contatto dei saraceni aspetta lì la spia che cercate. È importante che quel frate che vi accompagnava resti a Santiago.
+zh: 我不愿让陪你们来的那个祭司听见，因为我相信有些基督教的祭司也牵涉其中。你独自去埃尔费罗尔树林里的一处老墓地，在比拉尔瓦以北。撒拉逊人的接头人正在那里等你要找的那个奸细。要紧的是，陪你来的那位修士得留在圣地亚哥。
+it: Consegnatemi tutto ciò che avete o morirete.
+zh: 把你们所有的东西交出来，否则就死。
+it: Morte alle spie!
+zh: 杀死奸细！
+it: Cerchiamo Pedro Ordoño.
+zh: 我们在找佩德罗·奥多尼奥。
+it: Mi dispiace, Pedro Ordoño è partito in fretta tre giorni fa.
+zh: 很抱歉，佩德罗·奥多尼奥三天前匆匆离开了。
+it: Siamo arrivati troppo tardi.
+zh: 我们来晚了。
+it: Alt. Chi va là?
+zh: 站住。什么人？
+it: Siete un maledetto traditore e morirete per questo.
+zh: 你是个该死的叛徒，为此你得死。
+it: Capitano Sancho. Chi siete voi?
+zh: 桑乔上尉。你是谁？
+it: Capitano, grazie a Dio. Devo confessarvi una cosa terribile.\n\nMi chiamo Ramiro e sono stato usato da una spia saracena che si fa passare per un sacerdote di nome Pablo. Ho mandato informazioni a quegli infedeli perché quel traditore di Pablo non uccidesse mia figlia. Ma l'ha fatto, e ormai niente al mondo mi impedisce di dire la verità. Perdonatemi, capitano... voglio vendicarmi di quei saraceni e posso esservi di grande aiuto.
+zh: 上尉，感谢上帝。我必须向您忏悔一件可怕的事。\n\n我叫拉米罗，被一个冒充祭司、名叫巴勃罗的撒拉逊奸细所利用。我一直在把情报送给那些异教徒，只求那个叛徒巴勃罗不要杀我女儿。可他杀了她，如今世上再没有什么能阻止我说出真相。请原谅我，上尉……我要向那些撒拉逊人复仇，我能帮上大忙。
+it: Bugiardo!... Frate Pablo è un fedele cristiano... morirete!
+zh: 骗子！……巴勃罗修士是个忠实的基督徒……你去死吧！
+it: Vi perdonerò se mi aiutate.
+zh: 你若帮我，我就宽恕你。
+it: Vi credo, ma non vi perdono.
+zh: 我信你，但我不宽恕你。
+it: Grazie, ora lavoro per voi.
+zh: 多谢，从现在起我为你效力。
+it: Devo raggiungere Almanzor, mi aspetta una lauta ricompensa.
+zh: 我得赶到阿尔曼索尔那里，一笔丰厚的赏钱等着我。
+it: Maestà, sono troppi. Non possiamo trattenerli. Temo per la vostra vita.
+zh: 陛下，他们人太多了。我们挡不住。我为您的性命担忧。
+it: Non abbandonerò Santiago a quegli infedeli.
+zh: 我不会把圣地亚哥丢给那些异教徒。
+it: Maestà, se morite la nostra sconfitta sarà ancora più grande.
+zh: 陛下，您若死了，我们的失败会更加惨重。
+it: Avete ragione, capitano, portatemi via di qui.
+zh: 你说得对，上尉，带我离开这里。
+it: Fuggiamo, maestà!\n\nVi porterò a El Ferrol, lì sarete al sicuro.
+zh: 我们逃吧，陛下！\n\n我带您去埃尔费罗尔，那里安全。
+it: È l'apostolo Santiago!
+zh: 是使徒圣地亚哥！
+it: Sono l'apostolo Santiago.\n\nSono venuto ad aiutarvi a farla finita con Almanzor. La mia spada vi servirà nell'impresa.
+zh: 我是使徒圣地亚哥。\n\n我来帮你们了结阿尔曼索尔。我的剑会在这件事上助你们一臂之力。
+it: L'apostolo Santiago ci protegge!
+zh: 使徒圣地亚哥保佑我们！
+
+# la reconquista.wcm::maps/valencia
+it: La conquista di Valencia
+zh: 巴伦西亚的征服
+it: Conquista Albarracín per ottenere risorse sufficienti per assediare Valencia.
+zh: 攻下阿尔瓦拉辛，取得围攻巴伦西亚所需的资源。
+it: Truppe del Cid
+zh: 熙德的部队
+it: Truppe Cid
+zh: 熙德军
+it: Albarracín
+zh: 阿尔瓦拉辛
+it: Ben Razin
+zh: 本·拉辛
+it: al-Mustain II
+zh: 穆斯坦二世
+it: Almoravidi
+zh: 阿尔摩拉维德人
+it: Ben Yusuf
+zh: 本·优素福
+it: Valencia
+zh: 巴伦西亚
+it: Ibn Jahhaf
+zh: 伊本·贾哈夫
+it: Mori
+zh: 摩尔人
+it: Re mori
+zh: 摩尔诸王
+it: Alcazar
+zh: 阿尔卡萨尔
+it: Il Cid
+zh: 熙德
+it: Álvar Fáñez
+zh: 阿尔瓦尔·法涅斯
+it: Anziano
+zh: 老者
+it: Vagabondo
+zh: 流浪汉
+it: ku vadis
+zh: ku vadis
+it: alípacha
+zh: 阿里帕夏
+it: Tizona
+zh: 提索纳
+it: Rodrigo Díaz de Vivar, il Cid, sta per partire da Saragozza.\n\nIl governatore di Valencia, al-Qadir, è stato assassinato per ordine di Ibn Jahhaf, che con l'appoggio degli almoravidi si è insediato come nuovo governatore.\n\nIl Cid Campeador si mette in marcia verso Valencia...
+zh: 熙德罗德里戈·迪亚斯·德·比瓦尔即将从萨拉戈萨出发。\n\n巴伦西亚总督卡迪尔已被伊本·贾哈夫下令杀害；后者在阿尔摩拉维德人的支持下自立为新总督。\n\n熙德「勇士」启程前往巴伦西亚……
+it: Avverti il capitano delle truppe del Cid.
+zh: 通知熙德部队的上尉。
+it: Conquista Albarracín per ottenere risorse sufficienti per stringere d'assedio Valencia.\nDevi eliminare tutte le unità di Ben Razin per poter conquistare Albarracín.
+zh: 攻下阿尔瓦拉辛，取得围攻巴伦西亚所需的资源。\n要拿下阿尔瓦拉辛，你必须消灭本·拉辛的全部部队。
+it: |Il Cid Campeador è morto!
+zh: 熙德武士死了！
+it: Il tuo buono e leale amico Álvar Fáñez è morto durante la battaglia.\nLa sua perdita ha indebolito la tua forza e il tuo carisma.
+zh: 你忠诚的好友阿尔瓦尔·法涅斯战死了。\n他的离去削弱了你的力量与威望。
+it: Hai conquistato Albarracín! Ora potrai ottenere le risorse necessarie per assediare Valencia.
+zh: 你攻下了阿尔瓦拉辛！现在可以筹集围攻巴伦西亚所需的资源了。
+it: Elimina le truppe almoravidi della zona. Quando sarai pronto, dirigiti verso Valencia. Il tuo leale amico e nipote Álvar Fáñez non deve morire, o la tua forza ne sarà seriamente diminuita.
+zh: 消灭该区域的阿尔摩拉维德部队。准备就绪后，向巴伦西亚进军。你忠诚的朋友兼侄儿阿尔瓦尔·法涅斯绝不能死，否则你的力量将大为削弱。
+it: Il Cid non deve morire.
+zh: 熙德不能死。
+it: Il cadì di Valencia Ibn Jahhaf ha chiesto aiuto alle truppe dei re mori andalusi e agli eserciti almoravidi. Devi prepararti a una terribile battaglia.\n\nConquisterai Valencia solo quando il Cid arriverà a cavallo fino all'alcazar della città.
+zh: 巴伦西亚的卡迪伊本·贾哈夫已向安达卢斯摩尔诸王的部队与阿尔摩拉维德军队求援。你必须准备迎接一场恶战。\n\n只有当熙德骑马抵达城中的阿尔卡萨尔时，你才能攻下巴伦西亚。
+it: L'alcazar di Valencia è stato distrutto. Per conquistare la città dovrai prima eliminare tutti i contadini.
+zh: 巴伦西亚的阿尔卡萨尔已被摧毁。要攻下这座城市，你得先消灭所有农民。
+it: Conquista
+zh: 征服
+it: Hai conquistato il regno di Valencia!\nNon fidarti troppo. Nella zona possono esserci ancora truppe nemiche.
+zh: 你征服了巴伦西亚王国！\n别太放松。这一带可能还有敌军。
+it: Un vecchio vagabondo, seduto accanto a un fuoco, insiste perché tu non vada a Valencia
+zh: 一个老流浪汉坐在火堆旁，坚持劝你不要去巴伦西亚
+it: senza passare prima per le Baleari.
+zh: 除非先取道巴利阿里群岛。
+it: Dio mio! Ho trovato la spada Tizona.
+zh: 天哪！我找到了提索纳剑。
+it: Tutte le Baleari si schierano con la tua causa...
+zh: 整个巴利阿里群岛都站到你这一边……
+it: La gente del posto insiste perché tu visiti l'isola del sud.
+zh: 本地人坚持要你去南边那座岛看看。
+it: A nord del fiume Mijares c'è una regione disabitata piena di banditi...
+zh: 米哈雷斯河以北有一片无人之地，满是强盗……
+it: Forse potrai ottenere qualcosa di interessante...
+zh: 也许你能找到些有意思的东西……
+it: SARAGOZZA, ANNO 1092 DI NOSTRO SIGNORE
+zh: 萨拉戈萨，公元 1092 年
+it: Il Cid, dopo aver intrapreso una guerra privata contro l'emiro di Toledo al-Qadir, alleato del re Alfonso VI, e accusato di aver sottratto al re il tributo dell'emiro di Granada, fu esiliato dal regno di Castiglia.\n\nSi diede allora a una vita d'avventura, combattendo come mercenario al servizio di signori musulmani come l'emiro Yusuf di Saragozza, in guerra contro una coalizione formata da Raimondo Berengario II, conte di Barcellona, Sancho I d'Aragona e al-Mundhir, emiro di Lleida. Arrivò perfino a fare prigioniero Raimondo Berengario II.\n\nInteressato forse, come tanti altri, a sfruttare il movimento della Reconquista per crearsi un feudo personale, mise gli occhi su Valencia, dove nel 1092 era morto l'antico emiro di Toledo al-Qadir, di cui era diventato amico. Con il pretesto di vendicarne la morte assediò la città dal 1093 fino al 19 giugno 1094, data in cui vi entrò trionfante.\n\nNegli anni che vanno dalla sua vittoria alla sua morte, il 10 luglio 1099, il Cid dovette affrontare gli almoravidi in numerose battaglie, sia per difendere la città sia per rispettare le sue alleanze, e li sconfisse a Cuarte il 23 giugno 1094 e a Bairén (nel 1097), con l'aiuto del regno d'Aragona.
+zh: 熙德曾与托莱多埃米尔卡迪尔（国王阿方索六世的盟友）私战，又被指控把格拉纳达埃米尔应缴国王的贡赋据为己有，因此被逐出卡斯蒂利亚王国。\n\n此后他过起了冒险生活，作为雇佣兵为穆斯林领主效力，如萨拉戈萨的埃米尔优素福——他正与巴塞罗那伯爵拉蒙·贝伦格尔二世、阿拉贡的桑乔一世和莱里达埃米尔蒙齐尔组成的联盟作战。熙德甚至俘获了拉蒙·贝伦格尔二世。\n\n也许像许多人一样，他想借收复失地运动为自己挣一块封地，于是把目光投向巴伦西亚：1092 年，与他结为友人的托莱多前埃米尔卡迪尔死在那里。他以复仇为名，自 1093 年起围城，直到 1094 年 6 月 19 日凯旋入城。\n\n从他胜利到 1099 年 7 月 10 日去世的这些年里，熙德为守城、也为履行盟约，与阿尔摩拉维德人打了许多仗：1094 年 6 月 23 日在夸尔特、1097 年在拜伦，他都在阿拉贡王国的协助下取胜。
+it: MAPS\\ESPAÑA10mision5.wmp|
+zh: MAPS\\ESPAÑA10mision5.wmp|
+it: Il Cid Campeador non aveva mai perso una battaglia fino a oggi
+zh: 熙德武士在此战之前从未败过
+it: Albarracín è stata riconquistata.
+zh: 阿尔瓦拉辛已被夺回。
+it: Saragozza è caduta.
+zh: 萨拉戈萨陷落了。
+it: Gli almoravidi sono stati sconfitti.
+zh: 阿尔摩拉维德人被击败了。
+it: Valencia è caduta sotto il tuo dominio.
+zh: 巴伦西亚落入你的统治。
+it: I re mori sono dovuti fuggire.
+zh: 摩尔诸王只得逃走。
+it: Mio buon Álvar, dobbiamo partire subito.\nAndate a cercare il capitano delle mie truppe. Lo troverete a sud-ovest di qui.
+zh: 我的好阿尔瓦尔，我们必须立刻出发。\n去找我的部队统领，你会在西南方找到他。
+it: Signore, ci sono giunte notizie da Valencia. C'è stata una rivolta e il governatore al-Qadir è stato assassinato.\nGli almoravidi si sono asserragliati nella città.\nSono al comando di quel traditore di Ibn Jahhaf.
+zh: 主上，巴伦西亚传来消息。城里发生暴动，总督卡迪尔被刺杀了。\n阿尔摩拉维德人已踞守城内。\n他们由那个叛徒伊本·贾哈夫统率。
+it: Subito, mio signore.
+zh: 这就去，我的主上。
+it: Capitano, allertate le vostre truppe e accompagnatemi.
+zh: 上尉，召集你的部队，随我来。
+it: Che succede?
+zh: 出什么事了？
+it: Lo saprete presto!
+zh: 你很快就会知道！
+it: Ascoltate i miei piani: dovremo prendere Albarracín per assicurarci i rifornimenti per il nostro assedio a Valencia.
+zh: 听我的计划：我们必须拿下阿尔瓦拉辛，以确保围攻巴伦西亚的补给。
+it: Signore, ci hanno informato che nella regione ci sono truppe almoravidi infedeli sparse.
+zh: 主上，我们得知这一带散落着阿尔摩拉维德异教徒的部队。
+it: Dobbiamo agire con cautela.\nChe il Signore ci benedica tutti.\n\nIn marcia!
+zh: 我们必须谨慎行事。\n愿主保佑我们大家。\n\n出发！
+it: Capitano, radunate le truppe accanto al Campeador.
+zh: 上尉，把部队集结到武士身边。
+it: Sierra de Albarracín
+zh: 阿尔瓦拉辛山脉
+it: Regno di Valencia
+zh: 巴伦西亚王国
+it: Ricostruite la città e preparate una forza d'assalto.\n\nDobbiamo prendere Valencia!
+zh: 重建城市，备好一支突击队。\n\n我们必须拿下巴伦西亚！
+
+# la reconquista.wcm::maps/salado
+it: La battaglia del Salado
+zh: 萨拉多河之战
+it: La battaglia del Salado fu una vittoria militare ottenuta il 30 ottobre 1340 da Alfonso XI di Castiglia sulla coalizione formata dai merinidi nordafricani e dal re di Granada Yusuf I.\n\nQuesta vittoria consolidò il dominio dei castigliani sullo stretto di Gibilterra; pochi anni dopo (1344) conquistarono Algeciras.
+zh: 萨拉多河之战是 1340 年 10 月 30 日卡斯蒂利亚的阿方索十一世对北非马林王朝与格拉纳达王优素福一世联军取得的一场军事胜利。\n\n这场胜利巩固了卡斯蒂利亚人对直布罗陀海峡的控制；几年后（1344 年）他们攻下了阿尔赫西拉斯。
+it: Merinidi
+zh: 马林王朝
+it: Yusuf I
+zh: 优素福一世
+it: Gibilterra
+zh: 直布罗陀
+it: Algeciras
+zh: 阿尔赫西拉斯
+it: Tarifa
+zh: 塔里法
+it: Alfonso IV
+zh: 阿方索四世
+it: del Portogallo
+zh: 葡萄牙的
+it: Nave ammiraglia
+zh: 旗舰
+it: Alfonso XI
+zh: 阿方索十一世
+it: il Giustiziere
+zh: 「复仇者」
+it: Gil Álvarez
+zh: 希尔·阿尔瓦雷斯
+it: de Albornoz
+zh: 德·阿尔博诺斯
+it: Pietro IV
+zh: 佩德罗四世
+it: d'Aragona
+zh: 阿拉贡的
+it: I merinidi (dall'arabo Banu Marin) erano membri della dinastia berbera che succedette agli almohadi nel Maghreb occidentale (l'attuale Marocco), dalla metà del XIII secolo all'inizio del XV. I merinidi intervennero in modo decisivo nella vita politica del regno nasride di Granada, dove formarono un esercito permanente. Furono inoltre il sostegno fondamentale della resistenza musulmana contro i re cristiani.\n\nFin dal primo momento furono interessati a dominare lo stretto di Gibilterra per controllare il traffico commerciale tra il Mediterraneo e l'Atlantico. A questo scopo i sultani merinidi intervennero nel sud della penisola iberica in appoggio ai re di Granada o affrontando direttamente i cristiani.\n\nAlfonso XI non si lasciò intimidire dai piani bellicosi dei musulmani. Chiese aiuto ai re Alfonso IV del Portogallo e Pietro IV d'Aragona. In un primo momento la flotta islamica sconfisse quella castigliana di Jofre Tenorio, nel 1339, ma l'anno seguente Alfonso XI decise di accorrere in aiuto di Tarifa, assediata dai musulmani, concependo la campagna come una crociata.
+zh: 马林王朝（阿拉伯语 Banu Marin）是柏柏尔王朝，十三世纪中叶至十五世纪初在西马格里布（今摩洛哥）继阿尔摩哈德人之后兴起。马林王朝决定性地介入了格拉纳达纳斯里德王朝的政治生活，在那里组建了一支常备军。他们也是穆斯林抵抗基督徒诸王的主要支柱。\n\n从一开始他们就力图控制直布罗陀海峡，以掌握地中海与大西洋之间的贸易。为此，马林苏丹们介入伊比利亚半岛南部，支援格拉纳达诸王，或直接与基督徒对抗。\n\n阿方索十一世并未被穆斯林的黩武计划吓住。他向葡萄牙的阿方索四世和阿拉贡的佩德罗四世求援。起初伊斯兰舰队在 1339 年击败了霍弗雷·特诺里奥的卡斯蒂利亚舰队，但次年阿方索十一世决定驰援被穆斯林围困的塔里法，并把这场战事当作十字军来筹划。
+it: La battaglia del Salado fu una vittoria militare ottenuta il 30 ottobre 1340 da Alfonso XI di Castiglia sulla coalizione formata dai merinidi nordafricani e dal re di Granada Yusuf I. Lo scontro tra i due eserciti si svolse nei pressi del fiume Salado (nell'attuale provincia di Cadice). Dopo varie scaramucce, l'intervento dei difensori di Tarifa fece pendere la bilancia dalla parte cristiana. Quella battaglia consolidò il dominio dei castigliani sullo stretto di Gibilterra; pochi anni dopo, nel 1344, conquistarono Algeciras. Il re Alfonso XI morì durante l'assedio di Gibilterra nel 1350 a causa della peste nera.
+zh: 萨拉多河之战是 1340 年 10 月 30 日卡斯蒂利亚的阿方索十一世对北非马林王朝与格拉纳达国王优素福一世联军取得的一场军事胜利。两军在萨拉多河附近（今加的斯省境内）交战。几番前哨战之后，塔里法守军的出击使天平倒向基督徒一边。此战巩固了卡斯蒂利亚人对直布罗陀海峡的控制；数年后，1344 年，他们攻下了阿尔赫西拉斯。阿方索十一世 1350 年在围攻直布罗陀期间死于黑死病。
+it: TARIFA, ANNO 1340 DI NOSTRO SIGNORE
+zh: 塔里法，公元 1340 年
+it: È stata una vittoria di Pirro, non resisteremo a un nuovo attacco...
+zh: 这是一场皮洛士式的胜利，我们经不起再一次进攻……
+it: Sconfiggi la coalizione formata da Yusuf I e dai merinidi.
+zh: 击败由优素福一世与马林王朝组成的联军。
+it: Alfonso XI è caduto in battaglia.
+zh: 阿方索十一世战死了。
+it: Alfonso IV è morto.
+zh: 阿方索四世死了。
+it: Hanno affondato la nave di Pietro IV.
+zh: 他们击沉了佩德罗四世的船。
+it: MAPS\\ESPAÑA10mision8.wmp|
+zh: MAPS\\ESPAÑA10mision8.wmp|
+it: ALGECIRAS
+zh: 阿尔赫西拉斯
+it: GIBILTERRA
+zh: 直布罗陀
+it: Gil Álvarez de Albornoz è morto.
+zh: 希尔·阿尔瓦雷斯·德·阿尔博诺斯死了。
+it: Le truppe cristiane hanno ceduto davanti alla potenza islamica.
+zh: 基督徒部队在伊斯兰的威力面前退却了。
+it: I merinidi sono stati sconfitti. Speriamo che non tornino nella nostra penisola.
+zh: 马林王朝被击败了。但愿他们别再回到我们的半岛。
+it: Le truppe di Yusuf I sono state sconfitte. Granada dev'essere indifesa...
+zh: 优素福一世的部队被击败了。格拉纳达必定空虚……
+it: Tutti i re cristiani sono morti...
+zh: 基督徒诸王全部阵亡……
+it: Yusuf I è morto, i suoi fratelli vorranno vendicarsi...
+zh: 优素福一世死了，他的兄弟们会想复仇……
+it: Dio mio! Gli infedeli hanno abbattuto la porta!
+zh: 天哪！异教徒把城门撞开了！
+it: Per Allah!
+zh: 以安拉之名！
+it: Io, Alfonso XI, e le mie leali truppe di Castiglia siamo venuti in aiuto di Tarifa.\n\nDobbiamo cacciare i saraceni da questa terra di Dio...\n\nAlfonso IV del Portogallo e Pietro IV d'Aragona mi hanno promesso il loro aiuto... speriamo che non tardino troppo.
+zh: 我，阿方索十一世，率我忠诚的卡斯蒂利亚部队前来救援塔里法。\n\n我们必须把撒拉逊人赶出这片上帝的土地……\n\n葡萄牙的阿方索四世和阿拉贡的佩德罗四世已答应援助我……但愿他们别来得太迟。
+it: Pietro IV d'Aragona è arrivato con una flotta aragonese.\n\nLa sua nave ammiraglia è magnifica.
+zh: 阿拉贡的佩德罗四世率舰队抵达了。\n\n他的旗舰真是壮观。
+it: Spero di non essere arrivato troppo tardi.\n\nLe mie truppe portoghesi sono pronte per la battaglia.
+zh: 但愿我没有来迟。\n\n我的葡萄牙部队已备好作战。

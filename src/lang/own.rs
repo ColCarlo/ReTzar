@@ -853,6 +853,7 @@ pub fn catalog(language: super::Language) -> Option<&'static str> {
         Spanish => include_str!("../../languages/es/own.txt"),
         Polish => include_str!("../../languages/pl/own.txt"),
         Portuguese => include_str!("../../languages/pt/own.txt"),
+        Chinese => include_str!("../../languages/zh/own.txt"),
         Italian | English => return None,
     })
 }

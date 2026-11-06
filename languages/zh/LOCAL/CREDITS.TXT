@@ -1,0 +1,279 @@
+@2王冠之争
+@1王冠的重担
+
+
+
+@0游戏设计师
+@1Vesselin Handjiev
+
+
+@0主程序员
+@1Panayot "Otto" Yanazov
+
+
+@0主美术
+@1Rossen Manchev
+
+
+@0程序设计
+@1Michael "Miho" Peykov
+Alexander "Alex III" Alexandrov
+Julian Manolov
+Oleg Zlatarski
+Vesselin Handjiev
+
+
+@0地图与战役编辑器程序设计
+@1Krassimir "Kastchei" Tuevski
+
+
+@0附加程序设计
+@1Gabriel Dobrev
+Ivaylo Todorov
+
+
+@0美术与动画
+@1Rositsa "Ro" Zagorcheva
+Boriana "Bo" Mladenova
+
+EURAPEL A&S 团队
+
+Georgi Nedeltchev - 团队经理
+Rossen Mantchev
+Teodor Simeonov
+Dimitar Nikolov
+Dimitar "Chrom" Zvetanov
+Chavdar Dragiev
+
+
+IMAGE-ET
+
+Alexander Sokerov
+
+
+@0音效
+@1Vesselin Handjiev
+
+
+EURAPEL A&S 团队
+
+Aleksandar Tsvetkov
+Dimitar Sabev
+
+
+@0音乐
+@1Kiril "Busty" Petrushev
+Dimitar Sabev
+
+
+@0战役与地图
+@1Svetoslav "SAA" Alexandrov
+
+
+@0配音
+@1Tim Earle
+
+
+@0游戏手册
+@1Rositsa "Ro" Zagorcheva
+Boriana "Bo" Mladenova
+Krassimir "Kastchei" Tuevski
+
+
+@0错误测试
+@1Test House
+Nine Lund
+DCM Testcenter
+
+
+@0发行总监
+@1Henrik Eklund
+PAN Interactive Publishing
+
+
+@0执行制作人
+@1Hanna Larsson
+PAN Interactive Publishing
+
+
+@0制作助理
+@1Sara Hedin
+PAN Interactive Publishing
+
+
+@0项目经理
+@1Vesselin Handjiev
+Haemimont Multimedia
+
+
+@0录音
+@1Rosenberg & Soderberg
+Studios  
+
+
+@0音视频编辑
+@1Virtual Studio - Sofia
+
+
+@2TALONSOFT 公司
+
+@0制作人
+@1Ken Megill
+
+@0助理制作人
+@1Ashton Fletcher
+
+@0过场动画设计与动画
+@1Brian Weber
+
+@0制作设计
+@1Chrissy Lagna
+@1Peter Meunch
+
+@0创意服务管理
+@1Melissa Farmer
+
+@0宣传视频设计与编辑
+@1Brian Weber
+
+
+@0总裁兼首席创意官
+@1Jim Rose
+
+@0业务发展副总裁
+@1Jamie Leece
+
+@0总经理
+@1Chris Mate
+
+@0执行制作人
+@1Anthony Farmer
+
+@0市场总监
+@1Greg Bauman
+
+@0制作经理
+@1Melissa Farmer
+
+@0市场经理
+@1Mark Moon
+
+@0公关经理
+@1Mike Gathagan
+
+@0行政
+@1Linda Wratchford
+
+@0行政助理
+@1Mona Wratchford
+
+@0技术支持
+@1Phil Santiago
+@1Lisa Nawrot
+@1Frank Runge
+
+
+
+@2特别感谢
+
+@1Jay Powell
+Kamen Vitanov
+Kalin Toshev
+Angel Stoyanov
+Slav Peychev
+Rich La Porte
+Ben Sawyer
+Steen Hansen (aka Hamlet)
+Matt Lowe (Reckless Rodent)
+Tom Mesher (b:real)
+Jamie Fraser (SpineMan)
+Josh "Herodotus" Watson
+
+@0王冠之争天堂
+@1tzar.heavengames.com
+
+
+
+@0测试
+@3Shaun "BINGFA" Toomey
+Brian "enforc3r" Tan
+Magnus Lind
+Andy "Lava" Oxfeld 
+Dave "Stringbags" Stringwell
+Ralph "ALpHsTeR" Nevchas
+Josh "Herodotus" Watson
+Daniel "TLoM" Andersson
+Christian "JaCkz" Bergman
+Will "HellMasker" Decker
+Travis "BearSidhe" Stephenson
+Joseph "Admiral Cricifix" O'Donnell
+Jan-Pierre "WakkoG" Jaspers
+Henrik "Radagast" Hedelund
+Brendan "Perrin" Lynch
+Garret "zx75~GoW~" Rempel
+Katherine "freakygrrl" Jackson
+Brian "Strife" Gerber
+Larry "Nobody" Tallman
+Savonije "Jopie" Hans
+Janne Peippo
+Patrick "MasterMerlin" Burnside
+Tony "FORDY" Ford
+Tina "SNEAK" Ford
+
+索非亚技术大学
+电子系统学院
+附属
+
+... 以及其他许多人
+
+
+
+@2附加感谢
+
+@3索非亚城市里所有不错的酒吧
+Zagorka, Kamenitsa, Astika
+BFC, McBonald's
+Pizza "Verdi"
+所有重金属乐队
+所有非重金属乐队
+所有母亲和祖母
+所有妻子/丈夫以及重要的另一半，感谢他们难以置信的耐心
+特别感谢我们所有的朋友
+The Array 电影
+（让Otto保持好心情）
+Quake II 
+（让团队免于互相残杀）
+Gamers' Workshop 杂志
+
+
+以及所有其他
+觉得自己值得被感谢的人...
+
+
+
+
+@2HAEMIMONT
+多媒体
+@1索非亚，保加利亚 1999
+
+
+
+@2PAN
+互动发行
+@1斯德哥尔摩，瑞典，1999
+
+
+
+@2EURAPEL 有限公司
+@1索非亚，保加利亚 1999
+
+
+
+@2IMAGE-ET
+@1索非亚，保加利亚 1999
+
+
+
+@2DIGITAL DIALECT
+@1Masher 
+视频压缩技术

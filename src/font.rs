@@ -93,11 +93,35 @@ pub struct BitmapFont {
     pub width: usize,
     advances: [u8; 256],
     glyphs: [u8; 256],
+    /// The glyphs of the font, the 256 of the code page and, in a font of
+    /// ours, the Chinese ones after them.
+    count: usize,
     /// The glyph and advance of each letter of [`BEYOND`], which no
     /// original font has, made after the font's own ([`Self::compose`]).
     beyond: [(usize, u8); BEYOND.len()],
     pixels: Vec<u8>,
     levels: u8,
+}
+/// The characters our Chinese fonts hold beyond Windows-1252, and their
+/// glyph, from `languages/zh/glyphs.txt`: the same order in every font we
+/// made, so a font and that table are always generated together. A font
+/// that stops before them shows the `?` instead.
+fn cjk() -> &'static std::collections::HashMap<char, usize> {
+    static MAP: std::sync::OnceLock<std::collections::HashMap<char, usize>> =
+        std::sync::OnceLock::new();
+    MAP.get_or_init(|| {
+        include_str!("../languages/zh/glyphs.txt")
+            .lines()
+            .filter(|line| !line.starts_with('#'))
+            .filter_map(|line| {
+                let (code, glyph) = line.split_once(' ')?;
+                Some((
+                    char::from_u32(u32::from_str_radix(code, 16).ok()?)?,
+                    glyph.trim().parse().ok()?,
+                ))
+            })
+            .collect()
+    })
 }
 impl BitmapFont {
     pub fn decode(data: &[u8]) -> Result<Self> {
@@ -117,7 +141,9 @@ impl BitmapFont {
             || width == 0
             || width > 128
             || rows % height != 0
-            || rows / height > 256
+            // A font of ours adds the Chinese glyphs after the 256 of the
+            // code page: some 1200 of them.
+            || rows / height > 4096
         {
             return Err(invalid("Invalid FNT dimensions"));
         }
@@ -140,6 +166,7 @@ impl BitmapFont {
             width,
             advances: data[50..306].try_into()?,
             glyphs: data[306..562].try_into()?,
+            count: rows / height,
             beyond: [(0, 0); BEYOND.len()],
             pixels,
             levels: levels.max(1),
@@ -147,10 +174,25 @@ impl BitmapFont {
         font.compose();
         Ok(font)
     }
+    /// How many glyphs the font holds: the 256 of the code page and, in a
+    /// font of ours, the Chinese ones after them.
+    pub fn count(&self) -> usize {
+        self.count
+    }
     /// A character's glyph and advance: the code page's (Windows-1252), as
+
     /// the original draws its bytes, a letter of [`BEYOND`] as made here,
     /// anything else as `?`.
     fn slot(&self, c: char) -> (usize, u8) {
+        // A Chinese character: its glyph after the code page's, at the
+        // font's full width. A font without them shows the `?`.
+        if let Some(&glyph) = cjk().get(&c) {
+            return if glyph < self.count {
+                (glyph, self.width as u8)
+            } else {
+                (self.glyphs[63] as usize, self.advances[63])
+            };
+        }
         if let Some(i) = BEYOND.iter().position(|&b| b == c) {
             return self.beyond[i];
         }
@@ -274,16 +316,17 @@ impl BitmapFont {
         for paragraph in text.lines() {
             let mut line = String::new();
             // A no-break space (French before «:», «;», «?», «!») holds its
-            // words together.
-            for word in paragraph.split_ascii_whitespace() {
+            // words together; a Chinese text, with no spaces at all, breaks
+            // between any two of its characters.
+            for word in words(paragraph) {
                 let next = if line.is_empty() {
-                    word.to_owned()
+                    word.clone()
                 } else {
-                    format!("{line} {word}")
+                    joined(&line, &word)
                 };
                 if self.measure(&next) > width && !line.is_empty() {
                     lines.push(line);
-                    line = word.to_owned();
+                    line = word;
                 } else {
                     line = next;
                 }
@@ -779,6 +822,54 @@ pub fn arial(text: &str, height: u32) -> Option<(u32, u32, Vec<u8>)> {
 #[cfg(not(windows))]
 pub fn arial(_: &str, _: u32) -> Option<(u32, u32, Vec<u8>)> {
     None
+}
+
+/// Whether `c` is one of the characters a Chinese line may break before or
+/// after: the ideographs, their punctuation, the full-width forms.
+fn is_cjk(c: char) -> bool {
+    matches!(c,
+        '\u{3000}'..='\u{303F}'
+        | '\u{3400}'..='\u{4DBF}'
+        | '\u{4E00}'..='\u{9FFF}'
+        | '\u{F900}'..='\u{FAFF}'
+        | '\u{FF00}'..='\u{FFEF}')
+}
+/// The pieces a line may break between: each ideograph on its own, the
+/// other characters in runs between the spaces, as the original breaks.
+fn words(paragraph: &str) -> Vec<String> {
+    let mut out = Vec::new();
+    let mut run = String::new();
+    for c in paragraph.chars() {
+        if is_cjk(c) {
+            if !run.is_empty() {
+                out.push(std::mem::take(&mut run));
+            }
+            out.push(c.to_string());
+        } else if c.is_ascii_whitespace() {
+            // Only the ASCII spaces break: a no-break space (French before
+            // «:», «;», «?», «!») is part of its word.
+            if !run.is_empty() {
+                out.push(std::mem::take(&mut run));
+            }
+        } else {
+            run.push(c);
+        }
+    }
+    if !run.is_empty() {
+        out.push(run);
+    }
+    out
+}
+/// `line` with `word` after it: a space between them, but none where a
+/// Chinese character touches.
+fn joined(line: &str, word: &str) -> String {
+    let tight = line.chars().next_back().is_some_and(is_cjk)
+        || word.chars().next().is_some_and(is_cjk);
+    if tight {
+        format!("{line}{word}")
+    } else {
+        format!("{line} {word}")
+    }
 }
 
 #[cfg(test)]

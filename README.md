@@ -10,7 +10,8 @@ Bevy and kept as close to the original as possible.
   The Domains of Magic, El Cid and the Reconquista
 - The original AI, mission scripts, day and night, weather, fog of war
 - Runs smoothly on modern Windows, with crisp scaling up to 4K
-- Seven languages: English, Italian, French, German, Spanish, Polish, Portuguese
+- Eight languages: English, Italian, French, German, Spanish, Polish,
+  Portuguese, Chinese
 - A few optional extras (smooth zoom, night lights, CRT effect…), all off by default
 
 ## Play

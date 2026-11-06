@@ -1,0 +1,258 @@
+# Il tutorial (Campaign/TzarTutorial.wcm): i testi della versione americana,
+# accoppiati per posizione a quelli dell'edizione italiana.
+
+# tzartutorial.wcm
+it: Impara a giocare a Tzar.\nApprendi i concetti fondamentali di TZAR: Excalibur e il Re Artù.
+zh: 学习如何游玩《王冠之争》。\n了解《王冠之争》的基本玩法。
+
+# tzartutorial.wcm::maps/intro
+it: Impara a giocare
+zh: 新手教学
+it: In questa mappa introduttiva Haaser il Saggio ti riassumerà gli elementi fondamentali del gioco. Anche se sei un giocatore provetto, queste istruzioni ti saranno molto utili, giacché contengono alcuni concetti che sono specifici di Tzar: Excalibur e il Re Artù.
+zh: 在这张入门地图中，贤者哈泽尔将为你讲解游戏的基本要素。即使你是老玩家，这些指导也很有用——其中包含一些《王冠之争》特有的概念。
+it: Giocatore
+zh: 玩家
+it: Nemico
+zh: 敌人
+it: Regno 3
+zh: 王国 3
+it: Regno 4
+zh: 王国 4
+it: Regno 5
+zh: 王国 5
+it: Saggio
+zh: 贤者
+it: Regno 7
+zh: 王国 7
+it: Regno 8
+zh: 王国 8
+it: Raccogli 200 unità di legna, di cibo, d'oro e di pietra.
+zh: 收集 200 单位木材、食物、金币和石料。
+it: Benvenuto nella campagna introduttiva di Tzar: Excalibur e il Re Artù.\n\nSe dovessi fermare il testo per leggerlo meglio, cliccaci sopra col pulsante sinistro del mouse. Per riavviare clicca nuovamente sul testo. \n\nLe seguenti sette missioni sono state create per presentarti gli aspetti fondamentali di Tzar. Inoltre ti permetteranno di esercitarti con gli elementi più comuni del gioco in uno scenario libero da ostacoli.\n\nSe avessi bisogno di ulteriori aiuti nel corso della missione, fai riferimento all’aiuto interno di gioco. Puoi accedervi in questo modo:\n\n.- Se non hai unità o edifici selezionati, nel menu degli ordini troverai un’icona d’interrogazione. Clicca su di essa col pulsante sinistro del mouse.\n\n.- Se hai un’unità o un edificio selezionato, clicca col pulsante sinistro del mouse su qualunque parte della mappa per accedere all’icona d’interrogazione.\n\nInoltre puoi vedere, in qualsiasi momento, quali siano gli obiettivi da raggiungere per completare la missione.\n\n.- Scegli l’opzione "Istruzioni" nel menu principale (il pulsante nell’angolo superiore sinistro dello schermo).\n\nBuona fortuna.
+zh: 欢迎来到《王冠之争》的新手教学战役。\n\n如果想暂停滚动的文字方便阅读，用鼠标左键点击它；再次点击可继续滚动。\n\n接下来的七个任务将向你介绍《王冠之争》的基本玩法，让你在毫无干扰的环境中练习最常见的操作。\n如果需要更多玩法说明，请查阅游戏内置的帮助系统：在未选中任何单位或建筑时，命令菜单里有个问号图标，点它即可；此外，在主菜单里选择「说明」也能查看当前的任务目标。\n完成这个战役后，你就可以真正开始玩《王冠之争》了。\n\n祝你好运。
+it: Ma che hai fatto? Ora il tuo regno è condannato. Tutto è perduto.
+zh: 你都干了些什么？你的王国完了。全完了。
+it: Puoi impossessarti di edifici nemici per la tua civiltà e sfruttarli come se fossero tuoi. Seleziona un gruppo di contadini e clicca con il pulsante destro del mouse sull’edificio in questione. Più saranno i contadini impegnati in questo compito, più sarà veloce impossessarsene.
+zh: 你可以把敌人的建筑占为己用。选中一群农民，然后用鼠标右键点击那座建筑。派去的农民越多，占领速度越快。
+it: La resistenza opposta dall’edificio nemico al tuo attacco sarà indicata da un numero collocato accanto all’icona "Cuore" che appare nella zona informativa dell’edificio. Quanto più alto è il numero tanto maggiore sarà il tempo che ti occorrerà per impossessartene.
+zh: 敌建筑对你占领的抵抗程度，显示在建筑信息区心形图标旁的数字上。\n数字越大，抵抗越强，占领它需要的时间也越长。
+it: Nel caso un edificio nemico sorga vicino a uno dei tuoi castelli o posti di guardia ti risulterà più facile occuparlo.\nAl contrario, il compito risulterà più difficile se esso dovesse trovarsi nei pressi di una postazione nemica.
+zh: 敌建筑若靠近你的城堡或哨塔，会比较容易占领。\n反之，若它紧邻敌方阵地，占领难度会大得多。
+it: C’è un posto di guardia nemico a est del vecchio accampamento. Il posto di guardia, così come il castello, permette di nascondervi all’interno le unità e di curarle. \nCerca di impossessarti di quest’edificio in modo da non doverti procurare risorse per costruirne uno.
+zh: 旧营地以东有一座敌方哨塔。哨塔和城堡一样，可以让单位躲进去休养治疗，占领它就能省下自己建造的资源。
+it: Puoi destinare una parte dell’oro a migliorare le capacità della tua gente. \nSeleziona il tuo castello e clicca sull’icona "Apprendimento".
+zh: 你可以花一些金币提升子民的能力。\n选中你的城堡，点击「学习」图标。
+it: Bel lavoro! Ora puoi contare su una buona difesa.
+zh: 干得好！现在你的防御有保障了。
+it: Scoperto l'"Apprendimento" le tue unità si arricchiranno di maggior esperienza ogni volta che elimineranno un nemico e, col tempo, accederanno ad un livello superiore. Per ogni livello superato otterranno un bonus d’attacco e di difesa che aumenterà il loro potere.
+zh: 研究出「学习」之后，你的单位每次消灭敌人都会积累经验，逐步晋升等级。每升一级都会获得攻击与防御加成，战力更强。
+it: Abbiamo vinto la battaglia! È tempo di festeggiare la vittoria.
+zh: 我们打赢了！该庆祝胜利了。
+it: Per il momento il nemico non ti darà più fastidio; approfittane per riorganizzarti.
+zh: 敌人暂时不会再来骚扰；抓紧时间整顿吧。
+it: Erigi intorno al castello due torrette di vedetta che lo proteggano.
+zh: 在城堡周围建两座哨塔保护它。
+it: Ora tocca a te attaccare il nemico. \nSchiera le tue forze e distruggi la caserma del nemico prima che riesca a radunare un esercito più forte.
+zh: 现在轮到你进攻了。\n集结部队，赶在敌人凑齐更强军队之前摧毁它的兵营。
+it: Per ordinare l’attacco alle unità selezionate, clicca col pulsante destro del mouse sull’edificio o sull’unità nemica che desideri attaccare.
+zh: 要用选中单位发起攻击，用鼠标右键点击想攻击的敌建筑或敌单位即可。
+it: Percepisco la presenza di forze nemiche! Si stanno avvicinando da sud-est.
+zh: 我感觉到了敌军！他们正从东南方逼近。
+it: Per farli uscire clicca sull’icona "Evacuare tutte le unità".
+zh: 点击你的农民，再右键点击城堡，他们就会躲进去。城堡里更安全，受伤的单位会随时间痊愈。\n点击「撤出所有单位」图标即可让他们出来。
+it: Ora clicca sulla caserma che hai appena costruito e poi sull’icona "Creare un fante". Per creare un arciere clicca sull’icona "Creare un arciere".
+zh: 现在点击你刚建好的兵营，再点击「训练步兵」图标。\n要造弓箭手就点「训练弓箭手」图标。
+it: Per creare un esercito avrai bisogno di cibo e legna, quindi non tralasciare di raccogliere tutte le risorse che riuscirai a trovare. \nCrea l’esercito più numeroso che puoi, perché il nemico è in avvicinamento.
+zh: 建军需要食物和木材，所以别忘了持续收集能找到的一切资源。\n尽量拉起一支大军，敌人正在逼近。
+it: Complimenti! Hai appena portato a termine la tua prima missione.
+zh: 恭喜！你刚刚完成了第一个任务。
+it: La tua prossima sfida sarà di radunare un esercito. Per farlo devi prima creare una caserma.
+zh: 下一项挑战是组建军队。为此你得先建一座兵营。
+it: Seleziona un contadino e clicca sull’icona "Costruire edifici"; comparirà un elenco di edifici o gruppi di edifici.
+zh: 选中一个农民，点击「建造建筑」图标，会出现一份建筑及建筑分类列表。
+it: Clicca sull’icona "Costruire una caserma". Apparirà un’immagine dell’edificio. Trasportalo in uno spazio libero della mappa e clicca col pulsante sinistro del mouse. Se non è possibile collocarla in quella posizione la struttura apparirà in rosso, in caso contrario sarà verde.
+zh: 点击「建造兵营」图标，会出现建筑的影像。把它移到地图上的空地后点击左键。位置不合适时建筑会显示为红色，可以放置则为绿色。
+it: Ormai sei pronto per la tua prima missione!\nRaccogli 200 unità di cibo, legna, oro e pietra; queste risorse serviranno alla tua causa.
+zh: 现在你已经准备好执行第一个任务了！\n收集 200 单位食物、木材、金币和石料；这些资源将支撑你的大业。
+it: In qualsiasi momento puoi visualizzare gli obiettivi che devi raggiungere per completare la tua missione grazie all’icona "Vedere gli obiettivi attuali" che appare nel menu degli ordini quando non siano selezionati edifici o unità.
+zh: 在未选中任何建筑或单位时，命令菜单里会出现「查看当前目标」图标，随时可以查看完成任务要达成的目标。
+it: Utilizza il contadino che hai appena creato per raccogliere l’oro; selezionalo col pulsante sinistro del mouse e clicca con quello destro sulla miniera d’oro che si trova a sud-est del castello.
+zh: 让你刚造好的农民去采金：左键选中他，然后右键点击城堡东南方向的金矿。
+it: Utilizza il contadino che hai appena creato per raccogliere altro oro.
+zh: 让你刚造好的农民去采更多的金子。
+it: Hai cibo sufficiente per espandere il tuo regno.\nClicca col pulsante sinistro del mouse sul castello in modo da selezionarlo. Noterai come la sua immagine comparirà nella zona informativa.
+zh: 你的食物足以扩张王国了。\n左键点击城堡选中它，你会看到它的影像出现在信息区里。
+it: Se porti il cursore sull’icona "Creare contadino" vedrai apparire il seguente testo descrittivo nella parte inferiore dell’immagine:\n\n"Creare contadino  P (cibo: 50)"\n\nQuesta dicitura indica l’ordine da eseguire (creare un contadino),\nla possibilità di utilizzare il tasto "P" invece di selezionare l’icona dal menu degli ordini e la quantità di risorse necessaria (50 unità di cibo).\nOgni volta che cliccherai su quest’icona aumenterà il numero di contadini creati, se invece vuoi diminuirlo clicca sulla stessa icona col pulsante destro del mouse.
+zh: 把光标移到「训练农民」图标上，影像下方会出现这样一行说明：\n「训练农民  P（食物：50）」\n点这个图标就能多训练农民为你干活。
+it: Ci sono altri modi per procurarsi il cibo. Seleziona la barca che si trova nel porto a est del castello. Trova una banchina da pesca e cliccaci sopra col pulsante destro del mouse.
+zh: 获取食物还有别的办法。选中城堡以东港口里的渔船，找到一处渔场，右键点击它。
+it: Bene. Vedo che hai bisogno di aiuto. Di che si tratta?
+zh: 好。我看你需要帮忙。什么事？
+it: Come va, ragazzo?
+zh: 怎么样，年轻人？
+it: Hai bisogno di una mano?
+zh: 需要搭把手吗？
+it: Che posso fare per te?
+zh: 我能为你做点什么？
+it: Come posso dare ordini alle mie truppe?
+zh: 我该怎么指挥我的部队？
+it: Ho bisogno di risorse...
+zh: 我需要资源……
+it: Cosa rappresentano tutte queste icone e questi numeri che circondano le unità?
+zh: 单位周围这些图标和数字都是什么意思？
+it: Come faccio a costruire qualcosa?
+zh: 我该怎么建造东西？
+it: Per prima cosa seleziona un contadino, poi clicca sull’icona "Costruire edifici". Vedrai apparire un elenco completo di edifici e gruppi di edifici che puoi costruire.
+zh: 先选中一名农民，再点击「建造建筑」图标，就能看到你可以建造的全部建筑和建筑分类列表。
+it: Puoi vedere quali siano le risorse a tua disposizione nella parte superiore dello schermo. Troverai un’icona specifica per ogni tipo di risorsa: oro, legna, cibo e pietra. L’ultima icona indica il numero di abitanti del tuo regno e il numero massimo di abitanti che sei in grado di mantenere attualmente.
+zh: 屏幕上方显示你手头的资源，每种资源都有专属图标：金币、木材、食物和石料。最后一个图标显示你王国的当前人口，以及目前能供养的最大人口。
+it: Puoi selezionare un’unità cliccando su di essa con il pulsante sinistro del mouse (tieni premuto il tasto "Maiusc" per selezionare contemporaneamente più unità) oppure clicca col pulsante sinistro e, mantenendolo premuto, delinea un riquadro che inglobi tutte le unità che vuoi selezionare.
+zh: 左键点击单位即可选中（按住 "Shift" 可以同时选中多个），也可以按住左键拖出一个框，把想选的单位都框进去。
+it: Selezionando un’unità appariranno, nella zona di selezione e accanto alla sua immagine, tutti i parametri a essa relativi. Le unità militari sono caratterizzate da almeno 3 icone: attacco (spada), difesa (scudo) ed esperienza (croce). I numeri che compaiono accanto alle icone indicano l’abilità dell’unità relativa al parametro specifico.
+zh: 选中一个单位后，选中区和它的影像旁会显示它的全部参数。作战单位至少有三项：攻击（剑）、防御（盾）和经验（十字）。图标旁的数字就是该单位这项能力的数值。
+it: Per far muovere le unità selezionate, clicca col pulsante destro del mouse su di uno spazio aperto.
+zh: 要让选中单位移动，用鼠标右键点击一块空地即可。
+it: Premendo il pulsante destro del mouse sui diversi oggetti, le unità selezionate compiranno l’azione più appropriata in relazione all’oggetto specifico.\nFai delle prove per vedere come funziona il meccanismo.
+zh: 对不同目标按右键，选中单位会自动做出最合适的动作。\n动手试试，看看这套机制是怎么运作的。
+it: Non so cos’altro chiederti, ciao!
+zh: 我没别的可教你了，再见！
+it: Poi...?
+zh: 然后……？
+it: Come posso portare sotto il mio comando altre unità?
+zh: 怎么才能指挥更多单位？
+it: Come posso scoprire nuove tecnologie?
+zh: 怎么研究新科技？
+it: Come posso difendermi da un attacco nemico?
+zh: 怎么抵御敌人的进攻？
+it: Per esempio, se vuoi costruire una fattoria, clicca su "Comuni" e a seguire sull’icona "Costruire una fattoria".
+zh: 比如想建农场，先点「通用建筑」，再点「建造农场」图标。
+it: Fatto questo, colloca l’edificio all’interno della mappa. Nel caso in cui non potessi posizionarlo nel luogo da te scelto, l’edificio ti apparirà rosso. In caso contrario sarà verde. Quando avrai trovato la posizione giusta, clicca col pulsante sinistro del mouse.
+zh: 接着把建筑放到地图上。位置放不下时建筑显示为红色，放得下则为绿色。找到合适位置后点击左键。
+it: Il modo più facile per ottenere cibo è la coltivazione, anche se, in generale, la pesca risulta più redditizia. Costruisci un porto e poi una barca da pesca. Selezionala e clicca con il pulsante destro del mouse su di una banchina da pesca.
+zh: 获取食物最容易的方式是种田。\n不过总的来说捕鱼更划算：建一座港口，再造一条渔船。选中它，右键点击一处渔场。
+it: Puoi anche allevare bestiame. Per farlo costruisci una fattoria, trova in essa la voce "Allevamento" e quindi crea delle mucche. Almeno un contadino dovrà occuparsi di esse, perciò selezionane uno e poi clicca su una mucca col pulsante destro del mouse.
+zh: 你还可以养殖牲畜：建一座农场，在里面找到「畜牧」一项，生产奶牛。至少要有一名农民照看它们——选一名农民，右键点击奶牛。
+it: Puoi raccogliere legna selezionando un gruppo di contadini e poi cliccando su di un albero col pulsante destro del mouse. Puoi costruire una segheria vicino al bosco per custodirvi la legna (in questo modo i taglialegna non dovranno andare fino al castello).
+zh: 选中一群农民后右键点击树木就能伐木。可以在林地附近建一座伐木场存放木材（这样伐木工就不必跑回城堡了）。
+it: Per raccogliere oro e pietra dovrai trovare una miniera d’oro o una cava di pietra. Costruisci un deposito vicino ad esse e clicca col pulsante destro del mouse perché i contadini selezionati comincino a raccogliere l’oro nella miniera.
+zh: 采集金币和石料需要找到金矿或采石场。在附近建一座仓库，然后右键点击它，让选中的农民开始采矿。
+it: Per quanto riguarda gli edifici, c’è un’icona a forma di cuore che indica la capacità degli stessi di resistere ai tentativi di attacco da parte dei contadini nemici.
+zh: 建筑方面，心形图标表示它抵抗敌方农民占领的能力。
+it: Sotto l’immagine dell’unità ci sono una barra che ne indica lo stato di salute e una serie di numeri che precisano il livello massimo di salute dell’unità e quello specifico del momento. Quando sono selezionate più unità, la barra della salute fornisce una media dello stato di salute delle stesse.
+zh: 单位影像下方有一条生命条，旁边的数字是它的生命上限和当前生命值。选中多个单位时，生命条显示的是这些单位的平均状态。
+it: Ci sono molti edifici in cui si possono creare nuove unità. All’interno del castello puoi creare i contadini mentre nelle caserme viene creata la maggior parte delle unità militari. Le fattorie producono mucche e nei porti si costruiscono tutte le barche.
+zh: 很多建筑都能生产新单位。城堡里训练农民，大部分作战单位在兵营生产。农场产奶牛，所有船只都在港口建造。
+it: In primo luogo seleziona un edificio e poi clicca sull’icona che crea l’unità da te desiderata. Troverai le icone nella zona informativa. Spostando il mouse su di esse appariranno messaggi d’aiuto nella parte inferiore sinistra dell’immagine.
+zh: 先选中一座建筑，再点击生产你想要单位的图标。图标在信息区里，把鼠标移上去，影像左下方会出现帮助说明。
+it: Clicca sulle unità che vuoi proteggere e poi clicca immediatamente col pulsante destro del mouse sul castello o sul posto di guardia in cui vuoi nasconderle. Le suddette unità saranno maggiormente protette all’interno di questi edifici e, in seguito, potranno anche curare le loro ferite. \nPer farle uscire dall’edificio, clicca sull’icona "Evacuare tutte le unità".
+zh: 点击想保护的单位，马上右键点击要容纳它们的城堡或哨塔。这些单位躲进建筑后会得到更好的保护，伤势也会慢慢痊愈。\n要让它们出来，点击「撤出所有单位」图标。
+it: Esistono molte tecnologie e unità che non sono immediatamente disponibili all’inizio della partita: scoprirle è molto costoso, ma i vantaggi che procurano sono inestimabili.
+zh: 很多科技和单位在开局时并不能直接使用：研究它们花费巨大，但带来的优势无可估量。
+it: Per scoprire una tecnologia seleziona un edificio in grado di produrla e clicca sulla relativa icona. Quando la ricerca sarà completata le migliorie ad essa associate diverranno automaticamente disponibili.
+zh: 研究科技时，选中能研究它的建筑，点击对应图标即可。研究完成后，相关升级会自动生效。
+it: Esistono tecnologie che ti permettono di raccogliere più rapidamente le risorse delle segherie, dei depositi o delle fattorie. \nPer rinforzare il tuo esercito o scoprire nuove unità, rivolgiti alla fonderia.
+zh: 有些科技能让你从伐木场、仓库或农场更快地收集资源。\n想强化军队或解锁新单位，就去找铸造厂。
+it: La quantità di risorse a tua disposizione è visualizzata nella parte superiore dello schermo. Troverai un’icona per ogni tipo di prodotto - oro, legna, cibo e pietra. I due numeri che si trovano dopo l’ultima icona indicano il numero massimo di abitanti del tuo regno e il numero massimo che, in questo momento, puoi mantenere.
+zh: 你手头的资源量显示在屏幕上方，每种产物都有图标——金币、木材、食物和石料。最后一个图标后的两个数字，分别是你王国的人口上限和当前能供养的人口上限。
+it: Non solo avrai bisogno di più legna per rinforzare il tuo regno, ma ti occorrerà anche del cibo.\nCi sono nuovi contadini che hanno abbracciato la tua causa: selezionali e, col pulsante destro del mouse, clicca sui campi in modo che comincino a raccogliere cibo.
+zh: 巩固王国不仅需要更多木材，还需要食物。\n有几名新农民投奔你了：选中他们，右键点击田地，让他们开始收集食物。
+it: Vedo che ti sei procurato del cibo. Puoi utilizzare i nuovi contadini fedeli alla tua causa per raccoglierne dell’altro.
+zh: 我看你弄到食物了。可以让这些效忠于你的新农民再去收集一些。
+it: Non dimenticare che i campi spariranno se non ci saranno contadini a coltivarli.
+zh: 别忘了，没有农民耕种的田地会消失。
+it: Molto bene! Ora sai come far muovere i contadini.
+zh: 很好！现在你学会怎么指挥农民了。
+it: Clicca su di un albero col pulsante destro del mouse e i contadini selezionati lo abbatteranno. Ordina a tutti i tuoi contadini di raccogliere la legna e osserva come lo fanno.
+zh: 右键点击一棵树，选中的农民就会去砍伐。\n命令你所有的农民去收集木材，看看他们是怎么干的。
+it: Bene. Ora clicca su uno spazio aperto col pulsante destro del mouse per ordinare a un contadino di dirigersi lì. \nGuida il contadino al castello che si trova a nord; per farlo ti basta cliccare in prossimità della struttura.
+zh: 好。现在右键点击一块空地，命令一名农民走过去。\n带他到北边的城堡去——只需点击建筑附近即可。
+it: Salve ragazzo!\nMi chiamo Haaser e sono qui per insegnarti un po’ di cose.\nPer continuare clicca sul testo.
+zh: 你好，年轻人！\n我叫哈泽尔，是来教你些本领的。\n点击文字继续。
+it: Credo di sapere quello che mi stai per spiegare: affidami una missione e ti dimostrerò cosa so fare!
+zh: 你要讲的这些我大概都会了：给我派个任务吧，看我露一手！
+it: Hmm, cos’è un gioco di strategia in tempo reale?
+zh: 呃……即时战略游戏是什么？
+it: Va bene! Raccogli 200 unità di legna, cibo, oro e pietra. \nRicordati che se hai bisogno d’aiuto puoi sempre rivolgerti a me (basta che clicchi su di me col pulsante sinistro del mouse).
+zh: 好！你的任务是收集 200 单位木材、\n食物、金币和石料。\n记住，需要帮助随时点我来问。
+it: Per selezionare un contadino cliccaci sopra col pulsante sinistro del mouse oppure,\nse vuoi selezionarne più di uno, tieni premuto il pulsante sinistro del mouse mentre crei un riquadro intorno a essi. \nOra cerca di selezionare il contadino che si trova vicino all’albero caduto.
+zh: 左键点击农民即可选中；想选中多个，就按住左键拖一个框把他们圈起来。\n现在试着选中倒下的树旁边的那个农民。
+it: Bene, vedo che hai bisogno di alcune spiegazioni.\nCome noterai, sullo schermo è visibile solo una piccola parte del mondo, però se porti il mouse verso l’angolo sinistro dello schermo potrai spostarti sulla mappa (non farlo mentre stiamo parlando!).
+zh: 好，那我给你讲讲。\n屏幕上只能看到世界的一小部分。\n把鼠标移到屏幕边缘就能滚动画面的视野（不过咱们说话这会儿不行）。
+it: Hai mai affrontato un gioco di strategia in tempo reale?
+zh: 你玩过即时战略游戏吗？
+it: E ricorda che se ti occorresse aiuto puoi sempre rivolgerti a me.
+zh: 记住，需要帮助随时来找我。
+
+# tzartutorial.wcm::maps/perfect 3
+it: Esercitazione di base 3
+zh: 基础训练 3
+it: Regno 6
+zh: 王国 6
+it: Costruisci 2 caserme e crea 10 unità militari
+zh: 建造 2 座兵营，训练 10 个作战单位
+it: Distruggi tutte le unità nemiche che si trovano in zona
+zh: 消灭该区域的全部敌军单位
+it: Hai dimostrato la tua capacità nell’ottenere risorse e nell’organizzare la tua economia, ma ora è arrivato il momento di mettere alla prova la tua abilità nel creare un esercito.\n\nCircolano voci sulla presenza in zona di truppe nemiche e di bestie orribili. Riunisci tutte le tue forze e sconfiggili.\n\n- Costruisci 2 caserme\n\n- Crea 10 unità militari\n\n- Distruggi tutte le forze nemiche presenti in zona
+zh: 你已经证明了自己获取资源、经营经济的能力，现在该检验你组建军队的本领了。\n据说这一带出现了敌军和可怕的野兽。集结一支合适的兵力，消灭他们。\n\n- 建造 2 座兵营\n\n- 训练 10 个作战单位\n\n- 消灭该区域的全部敌军
+
+# tzartutorial.wcm::maps/perfect 4
+it: Esercitazione di base 4
+zh: 基础训练 4
+it: Regno3
+zh: 王国 3
+it: Costruisci un porto\n\nCostruisci 2 barche da pesca\n\nCostruisci 3 golette e 2 galere
+zh: 建造一座港口\n\n建造 2 条渔船\n\n建造 3 艘小帆船和 2 艘战帆船
+it: Distruggi tutte le unità nemiche presenti in zona\nFai sbarcare alcune truppe nell’estremità occidentale dell’isola e distruggi l’accampamento che è lì posizionato
+zh: 消灭该区域的全部敌军单位\n\n运送部分部队在岛屿最西端登陆，摧毁那里的营地
+it: Hai dimostrato il tuo valore annientando piccoli gruppi di unità nemiche, ma ora vediamo come te la cavi nell’organizzare una forza combinata.\n\nI tuoi nemici vogliono prendere il controllo di questa zona: stanno costruendo una flotta presso un’isola fortificata che si trova a sud. Distruggili!\n\n- Costruisci un porto\n\n- Costruisci 2 barche da pesca\n\n- Costruisci 3 golette e 2 galere\n\n- Elimina la presenza nemica dalla zona
+zh: 你消灭小股敌军的表现可圈可点，现在看看你能不能组织起一支合成兵力。\n你的敌人想控制这片区域：他们正在南边一座设防岛屿上筹建舰队。消灭他们！\n\n- 建造一座港口\n\n- 建造 2 条渔船\n\n- 建造 3 艘小帆船和 2 艘战帆船\n\n- 清除该区域的敌人
+
+# tzartutorial.wcm::maps/perfect 5
+it: Esercitazione di base 5
+zh: 基础训练 5
+it: Costruisci una fonderia, una stalla, un posto di guardia, una taverna e un laboratorio\n\nCostruisci 3 catapulte
+zh: 建造铸造厂、马厩、哨塔、酒馆和实验室\n\n建造 3 台投石车
+it: Distruggi le torri nemiche
+zh: 摧毁敌方塔楼
+it: Hai svolto un ottimo il lavoro nel corso della tua ultima missione! Ora ti manca solo una sfida prima di affrontare il mondo reale nella tua prossima missione. A nord-est troverai una postazione nemica molto ben difesa. Utilizza le baliste e gli avamposti per rompere le linee nemiche.\n\n- Costruisci una fonderia, una stalla, una bottega, una taverna e un posto di guardia\n\n- Costruisci 3 baliste\n\n- Distruggi tutte le torri nemiche
+zh: 上一个任务你完成得非常出色！在进入真实战场之前，只剩最后一道考验。\n西北方有一处防守严密的阵地。用弩炮和建筑升级撕开敌人的防线。\n\n- 建造铸造厂、马厩、作坊、酒馆和哨塔\n\n- 建造 3 台弩炮\n\n- 摧毁所有敌方塔楼
+
+# tzartutorial.wcm::maps/tutmap1
+it: Esercitazione di base 1
+zh: 基础训练 1
+it: Esercizio per la  costruzione di case e la creazione di coltivazioni, per l’addestramento di contadini e la raccolta di risorse
+zh: 练习建造房屋与开垦田地，训练农民并收集资源
+it: In questa missione di preparazione dovrai familiarizzare con le sfide fondamentali che i tuoi contadini dovranno affrontare. Inoltre dovrai dimostrare le tue doti di leader portando a termine alcuni piccoli compiti.\n\nInizierai da un modesto accampamento con alcuni contadini disposti a lavorare per te. Devi costruire delle case, procurarti del cibo e della legna e addestrare altri contadini. Potresti anche dover creare delle coltivazioni aggiuntive per accelerare il processo di raccolta del cibo. Approfittane anche per esplorare la zona con le unità che in questo momento risultano libere.\n\nQuesti sono i tuoi obiettivi:\n\n- Raccogli 100 unità di cibo e 100 di legna\n\n- Costruisci 2 case\n\n- Addestra 10 contadini
+zh: 在这个准备任务中，你要熟悉农民要面对的基本任务，并通过完成几件简单目标展现统治者的能力。\n你将从一个小营地起步，手下有几名急于干活的农民。你要建造房屋、收集食物和木材，并训练更多农民。不妨多开几块田来加快食物采集；也可以让空闲单位四处探探。\n这里是你需要完成的目标：\n\n- 收集 100 单位食物和 100 单位木材\n\n- 建造 2 座房屋\n\n- 训练 10 名农民
+it: Raccogli 100 unità di cibo e 100 di legna, addestra 10 contadini e costruisci 2 case
+zh: 收集 100 单位食物和 100 单位木材，训练 10 名农民，建造 2 座房屋
+
+# tzartutorial.wcm::maps/tutmap2
+it: Esercitazione di base 2
+zh: 基础训练 2
+it: Esercizi di costruzione delle strutture economiche fondamentali e di raccolta di ogni tipo di risorse
+zh: 练习建造基础经济设施，收集各类资源
+it: Costruisci una segheria\nCostruisci un magazzino e raccogli 200 unità d'oro e 200 di pietra\nCostruisci una fattoria, scopri la tecnologia “Allevamento” e alleva 2 mucche
+zh: 建造一座伐木场，建造一座仓库并收集 200 单位金币和 200 单位石料，建造一座农场，研究「畜牧」科技并养 2 头奶牛。
+it: Hai fatto un buon lavoro nella raccolta di risorse.\n\nIn questa missione continuerai a guidare i tuoi contadini aiutandoli a stabilire un buon equilibrio economico: per ottenerlo dovrai costruire alcuni edifici d’appoggio che permetteranno di migliorare la raccolta di risorse. Questo è ciò che dovrai fare: in primo luogo costruisci una segheria vicino al bosco in modo da accelerare l’opera di isboscamento. \n\nSuccessivamente crea un deposito vicino alle miniere d’oro e alle cave di pietra e comincia a sfruttarle, infine costruisci una fattoria, inserisci in essa la tecnologia dell’allevamento e alleva alcune mucche. Alla fine di quanto sopra sarai a tuo agio con i compiti fondamentali per il mantenimento di un’economia efficiente e potrai passare a missioni più "stimolanti".\n\n- Costruisci una segheria vicino al bosco che si trova a sud\n\n- Costruisci un deposito vicino ai giacimenti di pietre e oro che si trovano a est\n\n- Raccogli 200 unità d'oro e pietra\n\n- Costruisci una fattoria e scopri la tecnologia dell’allevamento\n\n- Alleva 2 mucche
+zh: 你的资源收集工作干得不错。\n本任务中你将继续带领农民建立高效的经济：先在南边林地旁建一座伐木场，让伐木更快；再在东边金矿与石料矿旁建一座仓库，开始采集这些资源；然后建一座农场，在里面研究「畜牧」科技，养两头奶牛。做完这些，你就掌握了维持高效经济的基本功，可以去挑战更刺激的任务了。\n\n- 在南边的林地附近建一座伐木场\n- 在东边的石矿和金矿附近建一座仓库\n- 收集 200 单位金币和 200 单位石料\n- 建造一座农场并研究「畜牧」科技\n- 养殖 2 头奶牛
+
+# tzartutorial.wcm::maps/tutmap6
+it: Esercitazione di base 6
+zh: 基础训练 6
+it: Esercizio di costruzione e miglioramento delle torri e, volendo, di combattimento contro il nemico controllato dal computer
+zh: 练习建造和升级塔楼，也可以选择与电脑控制的敌人开战
+it: Costruisci 6 torri di pietra
+zh: 建造 6 座石塔
+it: Sbaraglia il nemico (regno rosso)
+zh: 歼灭敌人（红色王国）
+it: Ora sei quasi pronto per assumerti la responsabilità di governare il regno.\n\nTuttavia c’è ancora qualcosa che devi imparare prima di impegnarti in una vera battaglia: come erigere fortificazioni.\n\nNella tua prossima missione dovrai costruire alcune torri in pietra. Per farlo crea delle torrette d’osservazione per poi migliorarle fino ad ottenere delle torri di guardia e poi delle torri in pietra. Ma prima devi scoprire la tecnologia "Architettura".\nQuando avrai finito di fortificare la tua città, ti si presenterà la possibilità di scontrarti con il nemico. \n\nQuesto è ciò che dovrai fare:\n\n- Costruire 6 torri in pietra\n\n- Distruggere il regno rosso nemico (se hai deciso di combattere)
+zh: 你马上就有能力肩负起治理王国的重任了。\n不过在投入真正的战斗之前，还有一样东西要学：如何修筑防御工事。\n下个任务里你要建造几座石塔。做法是：先建观察哨塔，升级为警戒塔，再升级为石塔；为此需要先研究「建筑学」科技。\n等城防工事完工，你可以选择与真正的敌人开战。\n下面是你需要做的事：\n\n- 建造 6 座石塔\n- 摧毁敌方红色王国（如果你选择开战）
+it: Congratulazioni! Hai portato a compimento tutte le missioni di preparazione e sei pronto per governare il tuo regno.\nVuoi uscire ora o preferisci mettere alla prova le tue nuove capacità in una vera battaglia?
+zh: 恭喜！你完成了全部准备任务，已经可以治理你的王国了。\n你想现在退出，还是用一场真正的战斗试试新本领？
+it: Voglio uscire ora.
+zh: 我现在就想退出。
+it: Voglio combattere! Vediamo come sono questi temibili eserciti!
+zh: 我要开战！让这些可怕的军队见识见识！
+it: Congratulazioni! Hai portato a compimento tutte le missioni di preparazione e sei pronto per governare il tuo regno.\nOra sei nel pieno di uno scontro cruciale all’ultimo sangue con un nemico potente. Vuoi uscire ora o preferisci mettere alla prova le tue nuove capacità in una vera battaglia?
+zh: 恭喜！你完成了全部准备任务，已经可以治理你的王国了。\n现在你正与一个强大的敌人进行殊死决战。你想现在退出，还是用这场真正的战斗试试新本领？

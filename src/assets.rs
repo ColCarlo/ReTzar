@@ -140,6 +140,11 @@ impl GameAssets {
         self.index.contains_key(&archive::key(name))
     }
     pub fn get(&self, name: &str) -> Result<Vec<u8>> {
+        // The Chinese fonts are ours, not the installation's: the ones it has
+        // are the original's, and hold no hanzi (see `lang::fonts`).
+        if let Some(font) = crate::lang::chinese_font(self.language, name) {
+            return Ok(font.to_vec());
+        }
         let mut data = self.original(name)?;
         for (mode, text) in crate::lang::overlays(self.native, self.language, name) {
             data = match mode {
@@ -196,8 +201,12 @@ pub fn legacy_bytes(text: &str) -> Vec<u8> {
             out.push(0x80 + i as u8);
         } else if let Some(i) = BEYOND.iter().position(|&x| x == c) {
             out.extend([0x81, 0xa0 + i as u8]);
+        } else if let Ok(b) = u8::try_from(u32::from(c)) {
+            out.push(b);
         } else {
-            out.push(u8::try_from(u32::from(c)).unwrap_or(b'?'));
+            // A character beyond the code page (Chinese, say): the whole
+            // text goes out as UTF-8, which [`legacy_text`] reads back.
+            return text.as_bytes().to_vec();
         }
     }
     out
@@ -209,7 +218,19 @@ pub fn legacy_byte(c: char) -> Option<u8> {
         None => u8::try_from(u32::from(c)).ok(),
     }
 }
+/// Whether the archives' bytes can hold `c`: Windows-1252 (which the [`C1`]
+/// table completes) and the letters of [`BEYOND`], which they write as an
+/// escape.
+pub fn legacy_char(c: char) -> bool {
+    legacy_byte(c).is_some() || BEYOND.contains(&c)
+}
 pub fn legacy_text(data: &[u8]) -> String {
+    // Text that is already valid UTF-8 (a merge that wrote Chinese, say)
+    // reads as it is; the archives' bytes never are, for their accents are
+    // single Windows-1252 bytes and their BEYOND letters start with 0x81.
+    if let Ok(text) = std::str::from_utf8(data) {
+        return text.to_owned();
+    }
     let mut out = String::with_capacity(data.len());
     let mut bytes = data.iter().copied().peekable();
     while let Some(b) = bytes.next() {
