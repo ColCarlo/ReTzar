@@ -1,5 +1,7 @@
 # ReTzar
 
+English | [中文](README.zh-CN.md)
+
 A fan remake of the classic RTS **Tzar**, rebuilt from scratch in Rust and
 Bevy and kept as close to the original as possible.
 
