@@ -513,6 +513,7 @@ impl Plugin for FrontendPlugin {
                     (fit_window, remember_window).chain(),
                     movie::update,
                     mission::release_on_blur,
+                    mission::confine_cursor,
                     menu_ui::menu_input
                         .run_if(in_state(Mode::Menu))
                         .run_if(movie::inactive)
@@ -542,8 +543,7 @@ impl Plugin for FrontendPlugin {
                         .chain()
                         .run_if(in_state(Mode::Mission))
                         .run_if(movie::inactive),
-                    mission::update_overlay,
-                    mission::update_minimap,
+                    (mission::update_overlay, mission::update_minimap),
                     (
                         present,
                         filters::update,

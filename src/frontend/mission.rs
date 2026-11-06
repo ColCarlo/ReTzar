@@ -2,6 +2,7 @@
 use super::{
     Game, MenuState, Mode, PendingAction, UiEntities,
     input::{self, GROUP_KEYS, KeyboardChordFrame, PointerFrame, TypedKeys},
+    movie::{self, Movie},
     rgba_image,
     scene::Loaded,
     view::{
@@ -19,6 +20,7 @@ use bevy::{
     },
     prelude::*,
     window::PrimaryWindow,
+    window::{CursorGrabMode, CursorOptions},
 };
 use retzar::{
     bitmap::Bitmap,
@@ -803,6 +805,36 @@ pub fn release_on_blur(
         *chords = KeyboardChordFrame::default();
         ui.last_click = None;
         ui.click_start = None;
+    }
+}
+
+/// A windowed mission with edge scrolling keeps the pointer inside the
+/// window: fullscreen pins it to the screen by itself, a window does not,
+/// and the 3-pixel edges stop scrolling as soon as it leaves. Confined
+/// while a mission is played; released for the menus, the movie player,
+/// the settings and every other case.
+pub fn confine_cursor(
+    mode: Res<State<Mode>>,
+    movie: Res<Movie>,
+    window: Single<(&Window, &mut CursorOptions), With<PrimaryWindow>>,
+    menu: Res<MenuState>,
+    loaded: Res<Loaded>,
+) {
+    let (window, mut cursor) = window.into_inner();
+    let settings = menu.current_settings();
+    let wanted = window.focused
+        && *mode.get() == Mode::Mission
+        && movie.inactive()
+        && loaded.scene.is_some()
+        && settings.edge_scroll
+        && !settings.fullscreen;
+    let wanted = if wanted {
+        CursorGrabMode::Confined
+    } else {
+        CursorGrabMode::None
+    };
+    if cursor.grab_mode != wanted {
+        cursor.grab_mode = wanted;
     }
 }
 

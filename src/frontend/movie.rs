@@ -131,9 +131,13 @@ impl Movie {
     pub fn active(&self) -> bool {
         self.run.is_some() || self.request.is_some()
     }
+    /// Whether the interface may take input: no film is playing.
+    pub fn inactive(&self) -> bool {
+        !self.block_input && !self.active()
+    }
 }
 pub fn inactive(movie: Res<Movie>) -> bool {
-    !movie.block_input && !movie.active()
+    movie.inactive()
 }
 #[derive(Component)]
 pub(super) struct MovieCamera;
