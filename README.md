@@ -15,8 +15,9 @@ Bevy and kept as close to the original as possible.
 
 ## Play
 
-The release downloads below are Windows builds. For native macOS, see
-[Experimental macOS support](#experimental-macos-support).
+The release downloads below are Windows builds. For native macOS or Linux,
+see [Experimental macOS support](#experimental-macos-support) and
+[Experimental Linux support](#experimental-linux-support).
 
 1. Download the zip of the
    [latest release](https://github.com/ColCarlo/ReTzar/releases/latest) and
@@ -88,6 +89,36 @@ The `retzar-tools` data-pack builder can also run on macOS. Its H.264
 encoder uses a bitrate estimate for the requested quality; output is not
 byte-identical to Windows encoding. First-run setup reads your installation
 directly and does not need to build a pack.
+
+### Experimental Linux support
+
+Native Linux support has been tested with the **GOG Windows edition of
+Tzar: The Burden of the Crown on Arch Linux (X11, NVIDIA)**. As on macOS,
+build from source; ReTzar reads your Tzar folder directly and remembers it
+in `settings.json`, without `ReTzar.dat`.
+
+1. Install [Rust](https://rustup.rs), a C compiler, a Vulkan driver and
+   the ALSA headers (`alsa-lib`, `libasound2-dev` on Debian/Ubuntu). For
+   the setup dialogs, install `zenity` (or `kdialog` on KDE); for the
+   music, a General MIDI SoundFont (`soundfont-fluid` on Arch,
+   `fluid-soundfont-gm` on Fedora and Debian/Ubuntu).
+2. Install or extract your original Tzar copy first, as for macOS. A Tzar
+   installed in Wine, Bottles or Lutris works: choose the folder inside its
+   `drive_c` that contains `Maps`.
+3. Run `cargo run --locked --release --bin retzar` and choose the Tzar
+   folder. Without `zenity` or `kdialog`, pass it on the command line:
+
+```sh
+cargo run --locked --release --bin retzar -- --source "/path/to/Tzar"
+```
+
+ReTzar opens an X11 window; Wayland desktops run it through XWayland.
+Sound effects, voices and movie soundtracks play on the default output
+device (ALSA, PipeWire or PulseAudio); MIDI music plays through the
+SoundFont found in `/usr/share/soundfonts` or `/usr/share/sounds/sf2`, a
+`.sf2` beside the executable, or the one `RETZAR_SOUNDFONT` names. Of the
+movies only the original DDV ones play (MP4/MPEG decoding and the
+data-pack builder use Windows' and macOS' media frameworks).
 
 ## License
 

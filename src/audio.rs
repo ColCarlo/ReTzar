@@ -294,7 +294,9 @@ impl AudioBank {
         let archive = crate::assets::sounds(source)?;
         let mut midi = BTreeMap::new();
         for e in &archive.entries {
-            let name = e.name.to_ascii_uppercase();
+            // `MUSIC/INTRO.MID` whether the archive is a pack or the
+            // installation's folders, whose names have `\`.
+            let name = crate::archive::key(&e.name);
             if name.ends_with(".MID") {
                 midi.insert(
                     name,
@@ -480,7 +482,7 @@ impl MusicCheck {
     }
 }
 /// Where a story's own song is kept among the songs.
-#[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
+#[cfg_attr(not(any(windows, unix)), allow(dead_code))]
 const STORY_SONG: &str = "STORY";
 
 /// Categories of the original's sounds (0x4cdd50): the `[priority]` key of
@@ -575,7 +577,7 @@ impl Channel {
         }
     }
     /// The bridge's group of the channel's voices.
-    #[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
+    #[cfg_attr(not(any(windows, unix)), allow(dead_code))]
     fn group(self) -> i32 {
         self as i32 + 1
     }
@@ -726,11 +728,11 @@ fn effect_priority(base: u8, playing: usize) -> u8 {
     }
 }
 /// The slots of every channel.
-#[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
+#[cfg_attr(not(any(windows, unix)), allow(dead_code))]
 struct Mixer {
     slots: [Vec<Option<Voice>>; 4],
 }
-#[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
+#[cfg_attr(not(any(windows, unix)), allow(dead_code))]
 impl Mixer {
     fn new() -> Self {
         Self {
@@ -903,7 +905,7 @@ impl Drop for Player {
     }
 }
 
-#[cfg(any(windows, target_os = "macos"))]
+#[cfg(any(windows, unix))]
 mod native {
     use super::*;
     use std::ffi::c_void;
@@ -938,6 +940,13 @@ mod native {
         #[link_name = "tz_midi_close"]
         fn midiOutClose(handle: *mut c_void) -> u32;
     }
+    #[cfg(all(unix, not(target_os = "macos")))]
+    use crate::audio_unix::{
+        midiOutClose, midiOutOpen, midiOutReset, midiOutShortMsg, tz_audio_create,
+        tz_audio_destroy, tz_audio_play, tz_audio_set, tz_audio_stop, tz_audio_stop_voice,
+        tz_audio_voice_active,
+    };
+    #[cfg(any(windows, target_os = "macos"))]
     unsafe extern "C" {
         fn tz_audio_create(error: *mut i32) -> *mut c_void;
         fn tz_audio_destroy(engine: *mut c_void);
@@ -978,6 +987,10 @@ mod native {
                 {
                     status.pcm_backend = "Core Audio / default output device".into();
                 }
+                #[cfg(all(unix, not(target_os = "macos")))]
+                {
+                    status.pcm_backend = "cpal / default output device".into();
+                }
             }
             let mut midi = std::ptr::null_mut();
             let code = unsafe { midiOutOpen(&mut midi, u32::MAX, 0, 0, 0) };
@@ -991,6 +1004,10 @@ mod native {
                 #[cfg(target_os = "macos")]
                 {
                     status.midi_backend = "General MIDI / Apple DLS synthesizer".into();
+                }
+                #[cfg(all(unix, not(target_os = "macos")))]
+                {
+                    status.midi_backend = "General MIDI / SoundFont (rustysynth)".into();
                 }
             }
             Self {
@@ -1131,7 +1148,7 @@ fn chase(midi: &Midi, cursor: usize) -> impl Iterator<Item = u32> + '_ {
 }
 
 /// The song being played and where it is.
-#[cfg(any(windows, target_os = "macos"))]
+#[cfg(any(windows, unix))]
 struct Song {
     track: String,
     started: Instant,
@@ -1139,7 +1156,7 @@ struct Song {
     /// Position kept while the window is in the background.
     paused_at: Option<Duration>,
 }
-#[cfg(any(windows, target_os = "macos"))]
+#[cfg(any(windows, unix))]
 impl Song {
     /// A song started in the background waits at its beginning, so the
     /// return does not play every note it would have played meanwhile.
@@ -1153,7 +1170,7 @@ impl Song {
     }
 }
 
-#[cfg(any(windows, target_os = "macos"))]
+#[cfg(any(windows, unix))]
 impl Mixer {
     /// Frees the slots whose sound ended.
     fn refresh(&mut self, output: &mut native::Output) {
@@ -1171,18 +1188,18 @@ impl Mixer {
     }
 }
 /// The bridge's group of the narration, after the four channels.
-#[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
+#[cfg_attr(not(any(windows, unix)), allow(dead_code))]
 const SPEECH_GROUP: i32 = 5;
 /// The group of a movie's sound.
-#[cfg_attr(not(any(windows, target_os = "macos")), allow(dead_code))]
+#[cfg_attr(not(any(windows, unix)), allow(dead_code))]
 const MOVIE_GROUP: i32 = 6;
-#[cfg(any(windows, target_os = "macos"))]
+#[cfg(any(windows, unix))]
 fn gain(sound: u8, volume: i32) -> f32 {
     sound as f32 / 100. * amplitude(volume as f32)
 }
 /// Starts a sound in the slot its channel gives it (0x4cfb50, 0x4ceea0,
 /// 0x4cf2d0, 0x4cf700); the voice it displaces stops first.
-#[cfg(any(windows, target_os = "macos"))]
+#[cfg(any(windows, unix))]
 fn play(
     bank: &mut AudioBank,
     output: &mut native::Output,
@@ -1253,7 +1270,7 @@ fn play(
 /// The view moved more than three cells (0x4d01c0): the sounds of places
 /// and objects are heard again from the new centre; effects falling below
 /// −2500 stop, the voices of units and buildings keep −400 at least.
-#[cfg(any(windows, target_os = "macos"))]
+#[cfg(any(windows, unix))]
 fn relocate(output: &mut native::Output, mixer: &mut Mixer, sound: u8, l: &Listener) {
     for channel in [Channel::Effect, Channel::Unit, Channel::Building] {
         for slot in mixer.slots[channel as usize].iter_mut() {
@@ -1289,7 +1306,7 @@ fn relocate(output: &mut native::Output, mixer: &mut Mixer, sound: u8, l: &Liste
     }
 }
 
-#[cfg(any(windows, target_os = "macos"))]
+#[cfg(any(windows, unix))]
 fn worker(
     mut bank: AudioBank,
     rx: mpsc::Receiver<Command>,
@@ -1580,7 +1597,7 @@ fn worker(
         }
     }
 }
-#[cfg(not(any(windows, target_os = "macos")))]
+#[cfg(not(any(windows, unix)))]
 fn worker(
     _bank: AudioBank,
     _rx: mpsc::Receiver<Command>,
@@ -1602,10 +1619,10 @@ mod tests {
     use super::*;
     /// The tests that open the device take turns: the MIDI output admits one
     /// owner at a time.
-    #[cfg(any(windows, target_os = "macos"))]
+    #[cfg(any(windows, unix))]
     static DEVICE: Mutex<()> = Mutex::new(());
     #[test]
-    #[cfg(any(windows, target_os = "macos"))]
+    #[cfg(any(windows, unix))]
     #[ignore = "Requires the default audio device; plays only silence"]
     fn device_voices_are_identified_panned_and_stopped_one_by_one() {
         let _device = DEVICE.lock().unwrap_or_else(|e| e.into_inner());

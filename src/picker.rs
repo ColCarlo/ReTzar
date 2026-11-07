@@ -1,6 +1,7 @@
 //! Native Windows and macOS folder pickers and message boxes for setup
-//! ([`crate::original`], [`crate::first_start`]). Windows also provides the
-//! portable pack builder's progress window. Other platforms have no dialogs yet.
+//! ([`crate::original`], [`crate::first_start`]); on Linux and the other
+//! Unix desktops, those of `zenity` or `kdialog` when one is installed.
+//! Windows also provides the portable pack builder's progress window.
 use std::path::{Path, PathBuf};
 
 /// A folder chosen by the player, starting from `start`; none when the
@@ -16,8 +17,7 @@ pub fn folder(title: &str, start: Option<&Path>) -> Option<PathBuf> {
     }
     #[cfg(not(any(windows, target_os = "macos")))]
     {
-        let _ = (title, start);
-        None
+        unix::folder(title, start)
     }
 }
 /// A question with «OK» and «Annulla» (Windows' message box); true for
@@ -33,8 +33,7 @@ pub fn confirm(text: &str) -> bool {
     }
     #[cfg(not(any(windows, target_os = "macos")))]
     {
-        let _ = text;
-        false
+        unix::ask(text, true)
     }
 }
 /// [`confirm`] with the information icon instead of the warning.
@@ -49,15 +48,144 @@ pub fn welcome(text: &str) -> bool {
     }
     #[cfg(not(any(windows, target_os = "macos")))]
     {
-        let _ = text;
-        false
+        unix::ask(text, false)
     }
 }
 
 /// A fatal startup error, visible when the game was opened without a terminal.
-#[cfg(target_os = "macos")]
+#[cfg(not(windows))]
 pub fn error(text: &str) {
+    #[cfg(target_os = "macos")]
     macos::error(text);
+    #[cfg(not(target_os = "macos"))]
+    unix::error(text);
+}
+
+/// The dialogs of `zenity` (GNOME and most desktops) or `kdialog` (KDE),
+/// whichever is installed. Without either, the folder can still be given
+/// with `--source`.
+#[cfg(not(any(windows, target_os = "macos")))]
+mod unix {
+    use std::{
+        ffi::OsString,
+        os::unix::ffi::OsStringExt,
+        path::{Path, PathBuf},
+        process::{Command, Stdio},
+    };
+
+    enum Tool {
+        Zenity,
+        Kdialog,
+    }
+    fn tool() -> Option<Tool> {
+        let found = |name: &str| {
+            Command::new(name)
+                .arg("--version")
+                .stdout(Stdio::null())
+                .stderr(Stdio::null())
+                .status()
+                .is_ok()
+        };
+        if found("zenity") {
+            Some(Tool::Zenity)
+        } else if found("kdialog") {
+            Some(Tool::Kdialog)
+        } else {
+            None
+        }
+    }
+    fn missing() {
+        eprintln!(
+            "ReTzar: no dialog tool found (install zenity or kdialog), \
+             or give the Tzar folder with --source /path/to/Tzar"
+        );
+    }
+    pub fn folder(title: &str, start: Option<&Path>) -> Option<PathBuf> {
+        let mut command = match tool() {
+            Some(Tool::Zenity) => {
+                let mut c = Command::new("zenity");
+                c.args(["--file-selection", "--directory", "--title", title]);
+                if let Some(start) = start {
+                    // A trailing separator opens the folder itself.
+                    let mut s = start.as_os_str().to_owned();
+                    s.push("/");
+                    c.arg("--filename").arg(s);
+                }
+                c
+            }
+            Some(Tool::Kdialog) => {
+                let mut c = Command::new("kdialog");
+                c.arg("--title").arg(title).arg("--getexistingdirectory");
+                c.arg(start.map_or_else(|| OsString::from("."), |p| p.as_os_str().to_owned()));
+                c
+            }
+            None => {
+                missing();
+                return None;
+            }
+        };
+        let out = command.stderr(Stdio::null()).output().ok()?;
+        if !out.status.success() {
+            return None;
+        }
+        let mut bytes = out.stdout;
+        while bytes.last().is_some_and(|&b| b == b'\n' || b == b'\r') {
+            bytes.pop();
+        }
+        (!bytes.is_empty()).then(|| PathBuf::from(OsString::from_vec(bytes)))
+    }
+    pub fn ask(text: &str, warning: bool) -> bool {
+        // «OK» and «Annulla», as the Windows and macOS dialogs have.
+        let cancel = crate::lang::t("Annulla");
+        let status = match tool() {
+            Some(Tool::Zenity) => {
+                let icon = if warning {
+                    "dialog-warning"
+                } else {
+                    "dialog-information"
+                };
+                Command::new("zenity")
+                    .args(["--question", "--no-markup", "--title", "ReTzar"])
+                    .args(["--text", text, "--icon", icon])
+                    .args(["--ok-label", "OK", "--cancel-label", cancel])
+                    .stderr(Stdio::null())
+                    .status()
+            }
+            Some(Tool::Kdialog) => Command::new("kdialog")
+                .args(["--title", "ReTzar"])
+                .arg(if warning { "--warningyesno" } else { "--yesno" })
+                .arg(text)
+                .args(["--yes-label", "OK", "--no-label", cancel])
+                .stderr(Stdio::null())
+                .status(),
+            None => {
+                eprintln!("{text}");
+                missing();
+                return false;
+            }
+        };
+        status.is_ok_and(|s| s.success())
+    }
+    pub fn error(text: &str) {
+        let _ = match tool() {
+            Some(Tool::Zenity) => Command::new("zenity")
+                .args([
+                    "--error",
+                    "--no-markup",
+                    "--title",
+                    "ReTzar",
+                    "--text",
+                    text,
+                ])
+                .stderr(Stdio::null())
+                .status(),
+            Some(Tool::Kdialog) => Command::new("kdialog")
+                .args(["--title", "ReTzar", "--error", text])
+                .stderr(Stdio::null())
+                .status(),
+            None => return,
+        };
+    }
 }
 
 #[cfg(target_os = "macos")]

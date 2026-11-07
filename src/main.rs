@@ -168,7 +168,7 @@ fn attach_parent_console() {
 
 /// Errors are visible even without a console (release builds, Explorer).
 fn fatal_dialog(text: &str) {
-    #[cfg(target_os = "macos")]
+    #[cfg(not(windows))]
     retzar::picker::error(text);
     #[cfg(all(windows, not(debug_assertions)))]
     {
