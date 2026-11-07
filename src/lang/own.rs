@@ -47,6 +47,8 @@ pub const ENGLISH: &[(&str, &str)] = &[
     ("Pixel della mappa", "Map pixels"),
     ("Effetto monitor CRT", "CRT monitor effect"),
     ("Testi in alta definizione", "High-definition texts"),
+    ("Pacchetto HD", "HD pack"),
+    ("Terreno HD", "HD terrain"),
     ("Luci notturne", "Night lights"),
     ("Bagliore di fuochi e magie", "Glow of fire and magic"),
     ("Nebbia morbida", "Soft fog"),
@@ -70,6 +72,14 @@ pub const ENGLISH: &[(&str, &str)] = &[
     ("Sincronizzazione verticale", "Vertical sync"),
     ("nessuno", "none"),
     ("Sì", "Yes"),
+    (
+        "Immagini in alta definizione al posto di quelle originali, dalla cartella hd-packs. Vale dalla prossima partita caricata.",
+        "High-definition pictures in place of the original ones, from the hd-packs folder. Takes effect from the next game loaded.",
+    ),
+    (
+        "Anche il terreno del pacchetto HD, se ne ha uno.",
+        "The HD pack's terrain too, if it has one.",
+    ),
     // Their buttons and lines.
     ("Predefiniti", "Defaults"),
     ("Annulla", "Cancel"),

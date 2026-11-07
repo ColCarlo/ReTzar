@@ -39,6 +39,14 @@ click **More info**, then **Run anyway**.
 - A graphics card with an up-to-date Vulkan driver
 - A copy of Tzar, any edition
 
+## HD packs
+
+ReTzar can draw HD packs: pictures at twice the size in place of the
+original art, chosen in **Preferences → Graphics → HD pack**. None is
+included: make a personal one from your copy of Tzar with an AI upscaler
+(`tools/hd-pack/make-pack.sh`), or draw your own and share it. See
+[docs/hd-packs.md](docs/hd-packs.md).
+
 ## Build it yourself
 
 For Windows, install [Rust](https://rustup.rs) and Visual Studio 2022 Build

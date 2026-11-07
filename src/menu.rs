@@ -92,6 +92,10 @@ pub struct Settings {
     pub smooth_zoom: bool,
     /// Interface texts drawn at the screen's resolution.
     pub hd_text: bool,
+    /// «Pacchetto HD»: the folder of the HD pack drawn ([`crate::hd`]),
+    /// none when empty; «Terreno HD»: its ground too, if it has one.
+    pub hd_pack: String,
+    pub hd_terrain: bool,
     /// The open game's cheat panel (`HudState::cheats`), an addition of
     /// this version: the «ALTRO» page offers it only when opened from a
     /// game, which keeps it; this file does not.
@@ -241,6 +245,8 @@ impl Default for Settings {
             living_world: false,
             smooth_zoom: false,
             hd_text: false,
+            hd_pack: String::new(),
+            hd_terrain: true,
             cheats: false,
             ui_mode: 0,
             language: crate::lang::Language::English.index(),
@@ -435,6 +441,9 @@ pub enum OptionKey {
     LivingWorld,
     SmoothZoom,
     HdText,
+    /// «Pacchetto HD»: none, or one of [`crate::hd::packs`].
+    HdPack,
+    HdTerrain,
     UiMode,
     /// The cheat panel of the open game.
     Cheats,
@@ -1748,6 +1757,16 @@ impl Menu {
                 self.editing_fps = Some(String::new());
                 Effect::None
             }
+            Action::Set(OptionKey::HdPack, v) => {
+                let packs = crate::hd::packs(&self.root);
+                self.draft.hd_pack = match v {
+                    1.. => packs
+                        .get(v as usize - 1)
+                        .map_or_else(String::new, |p| p.folder.clone()),
+                    _ => String::new(),
+                };
+                Effect::None
+            }
             Action::Set(OptionKey::Resolution, v) => {
                 if let Some(&(w, h)) = RESOLUTIONS.get(v.max(0) as usize) {
                     self.draft.window = [w, h];
@@ -1843,6 +1862,18 @@ impl Menu {
                     }
                     OptionKey::Vsync => s.vsync = !s.vsync,
                     OptionKey::Layout => cycle(&mut s.layout, 2),
+                    OptionKey::HdPack => {
+                        let packs = crate::hd::packs(&self.root);
+                        let mut at = packs
+                            .iter()
+                            .position(|p| p.folder == s.hd_pack)
+                            .map_or(0, |i| i + 1);
+                        cycle(&mut at, packs.len() + 1);
+                        s.hd_pack = match at {
+                            0 => String::new(),
+                            i => packs[i - 1].folder.clone(),
+                        };
+                    }
                     OptionKey::Resolution => {
                         let mut at = RESOLUTIONS
                             .iter()
@@ -1876,6 +1907,7 @@ impl Menu {
                     OptionKey::LivingWorld => s.living_world = !s.living_world,
                     OptionKey::SmoothZoom => s.smooth_zoom = !s.smooth_zoom,
                     OptionKey::HdText => s.hd_text = !s.hd_text,
+                    OptionKey::HdTerrain => s.hd_terrain = !s.hd_terrain,
                     OptionKey::Cheats => s.cheats = !s.cheats,
                     OptionKey::Language => cycle(&mut s.language, crate::lang::LANGUAGES.len()),
                     OptionKey::CampaignProgress => s.campaign_progress = !s.campaign_progress,

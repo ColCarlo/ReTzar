@@ -1070,3 +1070,15 @@ fr: Vérification des données…
 
 it: Non è stato possibile creare i dati del gioco: {}
 fr: Impossible de créer les données du jeu : {}
+
+it: Pacchetto HD
+fr: Pack HD
+
+it: Terreno HD
+fr: Terrain HD
+
+it: Immagini in alta definizione al posto di quelle originali, dalla cartella hd-packs. Vale dalla prossima partita caricata.
+fr: Des images en haute définition à la place des originales, depuis le dossier hd-packs. S'applique à la prochaine partie chargée.
+
+it: Anche il terreno del pacchetto HD, se ne ha uno.
+fr: Le terrain du pack HD aussi, s'il en a un.

@@ -14,6 +14,10 @@ pub struct Sheet {
     pub rows: usize,
     /// Additional temporal pages; all share the base page's UV coordinates.
     pub frames: Vec<Bitmap>,
+    /// HD pack with its ground ([`crate::hd::terrain`]): the page and its frames at
+    /// [`crate::world::HD_SCALE`] times the size, drawn in their place.
+    pub hd: Option<Bitmap>,
+    pub hd_frames: Vec<Bitmap>,
 }
 #[derive(Clone, Copy, Debug)]
 pub struct Tile {
@@ -128,6 +132,9 @@ impl Terrain {
                 .unwrap_or(sheets.len());
             if at == sheets.len() {
                 let source = Bitmap::decode(&assets.get(&name)?, false)?;
+                let hd_source = crate::hd::terrain()
+                    .then(|| crate::world::hd_picture(&name, source.width, source.height))
+                    .flatten();
                 let width = dims[0] as u32 * 32;
                 let height = dims[1] as u32 * 32;
                 let mut frames = Vec::new();
@@ -139,7 +146,9 @@ impl Terrain {
                 } else {
                     coast_frames.max(1) as u32
                 };
-                let page = |phase| -> Result<Bitmap> {
+                // One page of `source`, at `s` times the original size.
+                let page = |source: &Bitmap, s: u32, phase| -> Result<Bitmap> {
+                    let (width, height, cell) = (width * s, height * s, 32 * s);
                     if coast_frames == 0 {
                         return source.crop(0, phase * height, width, height);
                     }
@@ -151,19 +160,31 @@ impl Terrain {
                     // Each variation contains all four wave frames, rather
                     // than the whole atlas repeating every two columns.
                     for col in 0..dims[0] as u32 {
-                        let tile = source.crop((col * count + phase) * 32, 0, 32, height)?;
+                        let tile = source.crop((col * count + phase) * cell, 0, cell, height)?;
+                        let row_len = (cell * 4) as usize;
                         for row in 0..height {
-                            let dst = ((row * width + col * 32) * 4) as usize;
-                            let src = (row * 32 * 4) as usize;
-                            image.rgba[dst..dst + 128].copy_from_slice(&tile.rgba[src..src + 128]);
+                            let dst = ((row * width + col * cell) * 4) as usize;
+                            let src = row as usize * row_len;
+                            image.rgba[dst..dst + row_len]
+                                .copy_from_slice(&tile.rgba[src..src + row_len]);
                         }
                     }
                     Ok(image)
                 };
                 for phase in 1..count {
-                    frames.push(page(phase)?);
+                    frames.push(page(&source, 1, phase)?);
                 }
-                let image = page(0)?;
+                let image = page(&source, 1, 0)?;
+                let s = crate::world::HD_SCALE;
+                let (hd, hd_frames) = match &hd_source {
+                    Some(h) => (
+                        page(h, s, 0).ok(),
+                        (1..count)
+                            .filter_map(|phase| page(h, s, phase).ok())
+                            .collect(),
+                    ),
+                    None => (None, Vec::new()),
+                };
                 if image.width < dims[0] as u32 * 32 || image.height < dims[1] as u32 * 32 {
                     return Err(invalid(format!("Terrain atlas too small: {name}")));
                 }
@@ -173,6 +194,8 @@ impl Terrain {
                     columns: dims[0],
                     rows: dims[1],
                     frames,
+                    hd,
+                    hd_frames,
                 });
             }
             pairs.insert(
@@ -278,6 +301,10 @@ impl Terrain {
             }
         }
         let mut pages: Vec<Bitmap> = Vec::new();
+        // The HD pack's composites, when its atlases are loaded.
+        let s = crate::world::HD_SCALE;
+        let with_hd = self.sheets.iter().any(|sheet| sheet.hd.is_some());
+        let mut hd_pages: Vec<Bitmap> = Vec::new();
         let first_sheet = self.sheets.len();
         // Static transitions need a single page; water transitions include the
         // complete shared cycle of sea and coast, without per-frame CPU uploads.
@@ -305,6 +332,13 @@ impl Terrain {
                     height: 1024,
                     rgba: vec![0; 1024 * 1024 * 4],
                 });
+                if with_hd {
+                    hd_pages.push(Bitmap {
+                        width: 1024 * s,
+                        height: 1024 * s,
+                        rgba: vec![0; (1024 * s * 1024 * s * 4) as usize],
+                    });
+                }
             }
             let mut tiles = Vec::new();
             for phase in 0..count {
@@ -336,6 +370,51 @@ impl Terrain {
                         out.rgba[dst..dst + 4].copy_from_slice(p);
                     }
                 }
+                // The same tile at HD size: the choice of surface from the
+                // original mask (its marker colours are exact only there),
+                // the pixels from the HD atlases where there are some.
+                if with_hd {
+                    let out = &mut hd_pages[page];
+                    for hy in 0..32 * s {
+                        for hx in 0..32 * s {
+                            let (gx, gy) = (hx / s, hy / s);
+                            let pick = |t: Tile, hd: bool| -> &[u8] {
+                                let sheet = &self.sheets[t.sheet];
+                                let p = phase % (sheet.frames.len() + 1);
+                                let hd_page = match p {
+                                    0 => sheet.hd.as_ref(),
+                                    _ => sheet.hd_frames.get(p - 1),
+                                };
+                                match hd_page.filter(|_| hd) {
+                                    Some(h) => {
+                                        let at = (((t.y * s + hy) * h.width + t.x * s + hx) * 4)
+                                            as usize;
+                                        &h.rgba[at..at + 4]
+                                    }
+                                    None => {
+                                        let o = if p == 0 {
+                                            &sheet.image
+                                        } else {
+                                            &sheet.frames[p - 1]
+                                        };
+                                        let at = (((t.y + gy) * o.width + t.x + gx) * 4) as usize;
+                                        &o.rgba[at..at + 4]
+                                    }
+                                }
+                            };
+                            let key = pick(mask, false);
+                            let p = if key[..3] == [255, 0, 255] {
+                                pick(ta, true)
+                            } else if key[..3] == [0, 255, 0] {
+                                pick(tb, true)
+                            } else {
+                                pick(mask, true)
+                            };
+                            let dst = (((py * s + hy) * 1024 * s + px * s + hx) * 4) as usize;
+                            out.rgba[dst..dst + 4].copy_from_slice(p);
+                        }
+                    }
+                }
                 tiles.push(Tile {
                     sheet: first_sheet + page,
                     x: px,
@@ -351,6 +430,7 @@ impl Terrain {
             }
             slot += count;
         }
+        let mut hd_pages = hd_pages.into_iter();
         for (i, image) in pages.into_iter().enumerate() {
             self.sheets.push(Sheet {
                 name: format!("composite/{i}"),
@@ -358,6 +438,8 @@ impl Terrain {
                 columns: 32,
                 rows: 32,
                 frames: Vec::new(),
+                hd: hd_pages.next(),
+                hd_frames: Vec::new(),
             });
         }
         Ok(())
@@ -442,6 +524,8 @@ mod tests {
                     columns: 1,
                     rows: 1,
                     frames: Vec::new(),
+                    hd: None,
+                    hd_frames: Vec::new(),
                 },
                 Sheet {
                     name: "b".into(),
@@ -449,6 +533,8 @@ mod tests {
                     columns: 1,
                     rows: 1,
                     frames: Vec::new(),
+                    hd: None,
+                    hd_frames: Vec::new(),
                 },
                 Sheet {
                     name: "mask".into(),
@@ -456,6 +542,8 @@ mod tests {
                     columns: 1,
                     rows: 1,
                     frames: Vec::new(),
+                    hd: None,
+                    hd_frames: Vec::new(),
                 },
             ],
             pairs: BTreeMap::from([((1, 1), 0), ((2, 2), 1), ((1, 2), 2)]),

@@ -401,6 +401,26 @@ impl Menu {
                     "ST_HD_TEXT",
                     Control::Switch(K::HdText, s.hd_text),
                 ));
+                let packs = crate::hd::packs(&self.root);
+                let chosen = packs.iter().position(|p| p.folder == s.hd_pack);
+                lines.push(row(
+                    "Pacchetto HD",
+                    "ST_HD_PACK",
+                    Control::Dropdown {
+                        key: K::HdPack,
+                        items: std::iter::once("No".to_owned())
+                            .chain(packs.iter().map(|p| p.name.clone()))
+                            .collect(),
+                        chosen: Some(chosen.map_or(0, |i| i + 1)),
+                        text: chosen.map_or_else(|| "No".to_owned(), |i| packs[i].name.clone()),
+                    },
+                ));
+                lines.push(Line::Row(Row {
+                    label: "Terreno HD",
+                    hint: "ST_HD_TERRAIN",
+                    enabled: chosen.is_some_and(|i| packs[i].terrain),
+                    control: Control::Switch(K::HdTerrain, s.hd_terrain),
+                }));
                 lines.push(Line::Heading("MAPPA"));
                 for (label, hint, key, on) in [
                     (
@@ -766,6 +786,8 @@ impl Menu {
                 s.living_world = d.living_world;
                 s.smooth_zoom = d.smooth_zoom;
                 s.hd_text = d.hd_text;
+                s.hd_pack = d.hd_pack.clone();
+                s.hd_terrain = d.hd_terrain;
             }
             SettingsTab::Keys => {
                 self.capturing = None;
@@ -843,7 +865,7 @@ pub fn slider_fps(value: u8) -> u32 {
 
 /// What each setting does, for the line under the frame, and whether it is
 /// an addition of this version.
-pub(super) const SETTINGS_HINTS: [(&str, &str, bool); 40] = [
+pub(super) const SETTINGS_HINTS: [(&str, &str, bool); 42] = [
     ("ST_TAB_AUDIO", "Volumi, voci e suoni del gioco.", false),
     (
         "ST_TAB_GAME",
@@ -983,6 +1005,16 @@ pub(super) const SETTINGS_HINTS: [(&str, &str, bool); 40] = [
         true,
     ),
     ("ST_CRT", "Righe e curvatura di un vecchio monitor.", true),
+    (
+        "ST_HD_PACK",
+        "Immagini in alta definizione al posto di quelle originali, dalla cartella hd-packs. Vale dalla prossima partita caricata.",
+        true,
+    ),
+    (
+        "ST_HD_TERRAIN",
+        "Anche il terreno del pacchetto HD, se ne ha uno.",
+        true,
+    ),
     (
         "ST_HD_TEXT",
         "Testi dell'interfaccia nitidi alla risoluzione dello schermo.",

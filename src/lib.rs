@@ -15,6 +15,7 @@ pub mod flight;
 pub mod font;
 pub mod game;
 pub mod gameplay;
+pub mod hd;
 pub mod hpfs;
 pub mod hud;
 pub mod keys;
