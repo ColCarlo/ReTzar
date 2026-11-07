@@ -519,6 +519,9 @@ fr: Sauvegarde interrompue
 it: Salvataggio non riuscito: {}
 fr: Échec de la sauvegarde : {}
 
+it: Mappa successiva non trovata: {}
+fr: Carte suivante introuvable : {}
+
 it: Impossibile riprodurre intro: {}
 fr: Impossible de lire l'introduction : {}
 

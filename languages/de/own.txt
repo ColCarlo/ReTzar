@@ -519,6 +519,9 @@ de: Speichern unterbrochen
 it: Salvataggio non riuscito: {}
 de: Speichern fehlgeschlagen: {}
 
+it: Mappa successiva non trovata: {}
+de: Nächste Karte nicht gefunden: {}
+
 it: Impossibile riprodurre intro: {}
 de: Das Intro kann nicht abgespielt werden: {}
 

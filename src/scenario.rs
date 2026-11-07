@@ -101,20 +101,55 @@ fn next_maps(c: &Container, header: &str) -> Vec<String> {
     })
     .unwrap_or_default()
 }
+/// A campaign map name or a `LoadMap` path as compared: `/` for `\`, lower case.
+fn map_key(path: &str) -> String {
+    path.replace('\\', "/").to_ascii_lowercase()
+}
+/// Whether the campaign map `nested` is the one `path` names once its
+/// language suffix is left out: `MAPS\Reino de terror.wmp` for
+/// `MAPS/Reino de terror_en.wmp`. A script of the English «The Domains of
+/// Magic» names its next map without the `_en` every other link carries.
+fn same_map_but_language(nested: &str, path: &str) -> bool {
+    let (nested, path) = (map_key(nested), map_key(path));
+    let Some((stem, ext)) = path.rsplit_once('.') else {
+        return false;
+    };
+    nested
+        .strip_suffix(ext)
+        .and_then(|n| n.strip_suffix('.'))
+        .and_then(|n| n.strip_prefix(stem))
+        .and_then(|rest| rest.strip_prefix('_'))
+        .is_some_and(|code| code.len() == 2 && code.bytes().all(|b| b.is_ascii_alphabetic()))
+}
+/// The campaign mission a `LoadMap` path opens: the map of that name, else
+/// the one that only adds a language suffix to it.
+pub fn find_mission(missions: &[Scenario], path: &str) -> Option<usize> {
+    let wanted = map_key(path);
+    let nested = |m: &Scenario| m.nested.as_deref().map(map_key);
+    missions
+        .iter()
+        .position(|m| nested(m).is_some_and(|n| n == wanted))
+        .or_else(|| {
+            missions.iter().position(|m| {
+                m.nested
+                    .as_deref()
+                    .is_some_and(|n| same_map_but_language(n, path))
+            })
+        })
+}
 /// The story order of a campaign whose map names carry none: the missions
 /// MAPS\Maps.ini opens, then those their LoadMap actions lead to, as met;
 /// any other after them, as Maps.ini lists them. The original lists only
 /// the first (0x4225e3); the order shows in ReTzar's list of the missions
 /// reached.
 fn story_order(missions: Vec<Scenario>, next: &[Vec<String>]) -> Vec<Scenario> {
-    let key = |m: &Scenario| m.nested.as_deref().unwrap_or("").to_ascii_lowercase();
     let mut order: Vec<usize> = (0..missions.len())
         .filter(|&i| missions[i].initially_available)
         .collect();
     let mut k = 0;
     while k < order.len() {
         for target in &next[order[k]] {
-            if let Some(j) = missions.iter().position(|m| key(m) == *target)
+            if let Some(j) = find_mission(&missions, target)
                 && !order.contains(&j)
             {
                 order.push(j);
@@ -333,5 +368,48 @@ impl ScenarioCatalog {
             result.campaigns.push(campaign);
         }
         Ok(result)
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    fn mission(nested: &str) -> Scenario {
+        Scenario {
+            id: String::new(),
+            title: String::new(),
+            description: String::new(),
+            file: PathBuf::new(),
+            nested: Some(nested.into()),
+            header: String::new(),
+            side: 64,
+            players: [1, 8],
+            map_type: 0,
+            initially_available: false,
+        }
+    }
+
+    #[test]
+    fn load_map_finds_the_campaign_map_without_its_language_suffix() {
+        let missions = [
+            mission("MAPS/Acorralada_en.wmp"),
+            mission("MAPS/Reino de terror_en.wmp"),
+        ];
+        // The link of «Desde las filas de los proscritos» in the English
+        // «The Domains of Magic».
+        assert_eq!(
+            find_mission(&missions, "MAPS\\Reino de terror.wmp"),
+            Some(1)
+        );
+        assert_eq!(find_mission(&missions, "MAPS\\acorralada_en.wmp"), Some(0));
+        assert_eq!(find_mission(&missions, "MAPS\\Reino.wmp"), None);
+        assert_eq!(find_mission(&missions, "MAPS\\Reino de terror_e.wmp"), None);
+    }
+
+    #[test]
+    fn load_map_prefers_the_exact_name() {
+        let missions = [mission("MAPS/Map_en.wmp"), mission("MAPS/Map.wmp")];
+        assert_eq!(find_mission(&missions, "MAPS\\Map.wmp"), Some(1));
     }
 }

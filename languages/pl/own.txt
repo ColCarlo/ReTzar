@@ -519,6 +519,9 @@ pl: Zapis przerwany
 it: Salvataggio non riuscito: {}
 pl: Zapis nieudany: {}
 
+it: Mappa successiva non trovata: {}
+pl: Nie znaleziono następnej mapy: {}
+
 it: Impossibile riprodurre intro: {}
 pl: Nie można odtworzyć wstępu: {}
 

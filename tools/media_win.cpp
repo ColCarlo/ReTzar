@@ -11,6 +11,11 @@
 #include <shlwapi.h>
 #include <stdlib.h>
 #include <string.h>
+
+#ifdef __MINGW32__
+// In mfplat.dll and MinGW-w64's libmfplat.a, but not in its mfidl.h.
+STDAPI MFCreateMFByteStreamOnStream(IStream* pStream, IMFByteStream** ppByteStream);
+#endif
 // Placement construction only: no C++ library is linked.
 #ifndef __PLACEMENT_NEW_INLINE
 #define __PLACEMENT_NEW_INLINE

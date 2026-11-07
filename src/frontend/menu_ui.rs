@@ -690,8 +690,14 @@ pub fn finish_save(world: &mut World) {
             menu.save = menu.saves.iter().position(|s| s.file == meta.file);
             menu.notice = saved;
         }
-        Ok(Err(e)) => menu.notice = retzar::lang::fill("Salvataggio non riuscito: {}", &[&e]),
-        Err(e) => menu.notice = e.into(),
+        Ok(Err(e)) => {
+            let reason = e.to_string();
+            menu.notice = retzar::lang::fill(
+                "Salvataggio non riuscito: {}",
+                &[&retzar::lang::tr(&reason)],
+            );
+        }
+        Err(e) => menu.notice = retzar::lang::tr(e).into_owned(),
     }
     menu.dirty = true;
 }
@@ -973,16 +979,11 @@ pub(super) fn next_map(world: &mut World) -> Result<()> {
     else {
         return Err("La mappa successiva appartiene a una campagna".into());
     };
-    let wanted = path.replace('\\', "/");
-    let mission = world.resource::<MenuState>().catalog.campaigns[c]
-        .missions
-        .iter()
-        .position(|m| {
-            m.nested
-                .as_deref()
-                .is_some_and(|n| n.eq_ignore_ascii_case(&wanted))
-        })
-        .ok_or_else(|| format!("Mappa successiva non trovata: {path}"))?;
+    let mission = retzar::scenario::find_mission(
+        &world.resource::<MenuState>().catalog.campaigns[c].missions,
+        &path,
+    )
+    .ok_or_else(|| retzar::lang::fill("Mappa successiva non trovata: {}", &[&path]))?;
     let carry = CarryOver {
         heroes: retzar::gameplay::heroes(sim, &scene.mission),
         kept: sim.gameplay.script.variables.kept.clone(),

@@ -519,6 +519,9 @@ es: Guardado interrumpido
 it: Salvataggio non riuscito: {}
 es: Error al guardar: {}
 
+it: Mappa successiva non trovata: {}
+es: No se encontró el mapa siguiente: {}
+
 it: Impossibile riprodurre intro: {}
 es: No se puede reproducir la introducción: {}
 

@@ -720,7 +720,7 @@ pub fn update(world: &mut World) {
         }
         if let Err(e) = super::menu_ui::next_map(world) {
             let mut menu = world.resource_mut::<MenuState>();
-            menu.notice = e.to_string();
+            menu.notice = retzar::lang::tr(&e.to_string()).into_owned();
             menu.dirty = true;
         }
         return;
