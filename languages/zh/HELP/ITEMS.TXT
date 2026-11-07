@@ -1,0 +1,3390 @@
+;------------------------------------------------------------------------------
+; 汉化 by Tzar汉化项目  -  原文备份: HELP/ITEMS.TXT.eng.bak
+;------------------------------------------------------------------------------
+
+[U_E_PEASANT]
+rollover = 了解更多 - 农民
+brief = 农民
+detail = 造价-50 食物, 视野-5, 生命-50p, 攻击-5p, 防御-0 ~ 可以移动、建造、占领、攻击、修理、收获、探索、搬运黄金、石头、奶、肉和木材、饲养奶牛以及贿赂单位。
+also = HT_COLLECTRES,WI_RESOURCES,HT_BUILD,WI_UNIT
+related = B_E_CASTLE
+icon = 1,26
+
+[U_E_FOOTMAN]
+rollover = 了解更多 - 步兵
+brief = 步兵
+detail = 造价-50 食物, 视野-5, 生命-65p, 攻击-6p, 防御-3 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,
+related = B_E_BARRACKS
+icon = 1,27
+
+[U_E_ARCHER]
+rollover = 了解更多 - 弓箭手
+brief = 弓箭手
+detail = 造价-40 食物/20 木材, 视野-10, 攻击范围-6, 生命-50p, 攻击-5p, 防御-0 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT
+related = B_E_BARRACKS
+icon = 1,28
+
+[U_E_MACEMAN]
+rollover = 了解更多 - 重锤兵
+brief = 重锤兵
+detail = 造价-120 食物, 视野-5, 生命-120p, 攻击-8p, 防御-0 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT
+related = B_E_BARRACKS
+icon = 1,29
+
+[U_E_PIKEMAN]
+rollover = 了解更多 - 长枪兵
+brief = 长枪兵
+detail = 造价-90 食物/40 黄金, 视野-5, 生命-75p, 攻击-8p, 防御-4 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_E_BARRACKS
+requires = T_E_HALBERD
+icon = 1,30
+
+[U_E_LONGBOWMAN]
+rollover = 了解更多 - 长弓手
+brief = 长弓手
+detail = 造价-90 食物/70 黄金, 视野-16, 生命-50p, 攻击范围-12p, 攻击-5p, 防御-2 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_E_BARRACKS
+requires = T_E_LONGBOW
+icon = 1,31
+
+[U_E_KNIGHT]
+rollover = 了解更多 - 骑士
+brief = 骑士
+detail = 造价-120 食物/90 黄金, 视野-5, 生命-120p, 攻击-12p, 防御-6 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_E_BARRACKS
+requires = T_E_PLATE_ARMOR,B_E_STABLE
+icon = 1,32
+
+[U_E_CRUSADER]
+rollover = 了解更多 - 十字军战士
+brief = 十字军战士
+detail = 视野-5, 生命-180p, 攻击-14p, 防御-8 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_E_CATHEDRAL
+requires = T_E_CRUSADE
+icon = 1,33
+
+[U_E_PRIEST]
+rollover = 了解更多 - 牧师
+brief = 牧师
+detail = 造价-150 黄金, 视野-20, 生命-60p, 攻击范围-18p, 攻击-20p, 防御-0 ~ 可以移动、探索、治疗单位和祝福。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_E_CHURCH
+requires = U_E_CATHEDRAL
+icon = 1,34
+
+[U_E_SPY]
+rollover = 了解更多 - 间谍
+brief = 间谍
+detail = 造价-150 黄金, 视野-12, 生命-50p, 攻击-20p, 防御-0 ~ 可以移动、攻击、拾取物品、巡逻、守卫、探索、伪装和显现。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_E_CASTLE
+requires = T_E_ESPIONAGE
+icon = 1,10
+
+[U_E_MAGE]
+rollover = 了解更多 - 法师
+brief = 法师
+detail = 造价-150 黄金, 视野-14, 生命-60p, 攻击范围-10p, 攻击-5p, 防御-0 ~ 可以移动、攻击、施放闪电、召唤蝙蝠、冰冻、召唤石巨人和使单位隐身。
+also = WI_UNIT,WI_TECHNOLOGY,WI_SPELL
+related = B_E_MAGE_TOWER
+icon = 1,35
+
+[U_E_CARAVAN]
+rollover = 了解更多 - 商队
+brief = 商队
+detail = 造价-400 食物/200 木材, 视野-7, 生命-350p, 攻击-0p, 防御-0 ~ 可以移动、开始贸易、装载单位和货物、卸载和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_E_MARKET
+requires = T_E_TRADE_ROUTES
+icon = 1,36
+
+[U_A_PEASANT]
+rollover = 了解更多 - 农民
+brief = 农民
+detail = 造价-40 食物, 视野-5, 生命-50p, 攻击-5p, 防御-0 ~ 可以移动、建造、占领、攻击、修理、收获、交易、探索、搬运黄金、石头、奶、肉和木材以及饲养奶牛。
+also = HT_COLLECTRES, WI_RESOURCES,HT_BUILD,WI_UNIT
+related = B_A_CASTLE
+icon = 1,14
+
+[U_A_RHONIN]
+rollover = 了解更多 - 浪人
+brief = 浪人
+detail = 造价-40 食物, 视野-5, 生命-50p, 攻击-7p, 防御-0 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT
+related = B_A_BARRACKS
+icon = 1,15
+
+[U_A_ARCHER]
+rollover = 了解更多 - 弓箭手
+brief = 弓箭手
+detail = 造价-40 食物/20 木材, 视野-10, 攻击范围-6, 生命-50p, 攻击-5p, 防御-0 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT
+related = B_A_BARRACKS
+icon = 1,16
+
+[U_A_SAMURAI]
+rollover = 了解更多 - 武士
+brief = 武士
+detail = 造价-90 食物/40 黄金, 视野-6, 生命-120p, 攻击-10p, 防御-4 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT
+related = B_A_BARRACKS
+icon = 1,17
+
+[U_A_HORSE_ARCHER]
+rollover = 了解更多 - 骑射手
+brief = 骑射手
+detail = 造价-120 食物/40 黄金, 视野-12, 攻击范围-7p, 生命-75p, 攻击-7p, 防御-0 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_A_BARRACKS
+requires = T_A_ART_OF_RIDING,B_A_STABLE
+icon = 1,18
+
+[U_A_HORSE_SAMURAI]
+rollover = 了解更多 - 骑马武士
+brief = 骑马武士
+detail = 造价-100 食物/60 黄金, 视野-5, 生命-160p, 攻击-14p, 防御-4 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_A_BARRACKS
+requires = T_A_BUSHIDO,B_A_STABLE
+icon = 1,20
+
+[U_A_CHARIOT]
+rollover = 了解更多 - 装甲战车
+brief = 装甲战车
+detail = 造价-150 食物/150 木材, 视野-5, 生命-180p, 攻击-3p, 防御-5 ~ 可以移动、攻击、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_A_BARRACKS
+requires = T_A_CHARIOT
+icon = 1,21
+
+[U_A_NINJA]
+rollover = 了解更多 - 忍者
+brief = 忍者
+detail = 造价-80 黄金, 视野-10, 生命-90p, 攻击-12p, 防御-5 ~ 可以移动、攻击、拾取物品、巡逻、守卫、探索、隐身和刺杀。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_A_CASTLE
+requires = T_A_NINJAS
+icon = 1,22
+
+[U_A_PRIEST]
+rollover = 了解更多 - 牧师
+brief = 牧师
+detail = 造价-150 黄金, 视野-14, 生命-120p, 攻击-10p, 防御-10 ~ 可以移动、探索、治疗单位和祝福。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_A_MONASTERY
+requires = T_A_PHILOSOPHY
+icon = 1,23
+
+[U_A_MONK]
+rollover = 了解更多 - 僧侣
+brief = 僧侣
+detail = 造价-250 食物, 视野-5, 生命-120p, 攻击-6p, 防御-6 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_A_MONASTERY
+icon = 1,24
+
+[U_A_MAGE]
+rollover = 了解更多 - 法师
+brief = 法师
+detail = 造价-150 黄金, 视野-14, 生命-60p, 攻击范围-10p, 攻击-8p, 防御-0 ~ 可以移动、攻击、石化单位、制造漩涡、火焰箭、召唤龙以及将法力转化为经验。
+also = WI_UNIT,WI_TECHNOLOGY,WI_SPELL
+related = B_A_MAGE_TOWER
+icon = 1,25
+
+[U_R_PEASANT]
+rollover = 了解更多 - 农民
+brief = 农民
+detail = 造价-50 食物, 视野-5, 生命-50p, 攻击-5p, 防御-0 ~ 可以移动、建造、占领、攻击、修理、收获、探索、搬运黄金、石头、奶、肉和木材、饲养奶牛以及贿赂单位。他们可以被转化为圣战战士。
+also = HT_COLLECTRES, WI_RESOURCES,HT_BUILD,WI_UNIT
+related = B_R_CASTLE
+icon = 1,1
+
+[U_R_FOOTMAN]
+rollover = 了解更多 - 步兵
+brief = 步兵
+detail = 造价-50 食物, 视野-5, 生命-50p, 攻击-6p, 防御-1 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT
+related = B_R_BARRACKS
+icon = 1,2
+
+[U_R_ARCHER]
+rollover = 了解更多 - 弓箭手
+brief = 弓箭手
+detail = 造价-40 食物/20 木材, 视野-10, 攻击范围-6, 生命-50p, 攻击-5p, 防御-0 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT
+related = B_R_BARRACKS
+icon = 1,3
+
+[U_R_SPEARMAN]
+rollover = 了解更多 - 枪兵
+brief = 枪兵
+detail = 造价-60 食物/50 黄金, 视野-5, 生命-75p, 攻击-6p, 防御-2 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_R_BARRACKS
+requires = T_R_HALBERD
+icon = 1,4
+
+[U_R_SATRAP]
+rollover = 了解更多 - 总督
+brief = 总督
+detail = 造价-120 食物, 视野-5, 生命-120p, 攻击-8p, 防御-0 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_R_BARRACKS
+requires = T_R_SCIMITAR
+icon = 1,5
+
+[U_R_CAVALRY]
+rollover = 了解更多 - 重骑兵
+brief = 重骑兵
+detail = 造价-100 食物/60 黄金, 视野-5, 生命-90p, 攻击-10p, 防御-2 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_R_BARRACKS
+requires = B_R_STABLE
+icon = 1,6
+
+[U_R_HORSE_ARCHER]
+rollover = 了解更多 - 骑射手
+brief = 骑射手
+detail = 造价-100 食物/50 黄金, 视野-12, 攻击范围-7p, 生命-75p, 攻击-6p, 防御-2 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_R_BARRACKS
+requires = T_R_ART_OF_RIDING,B_R_STABLE
+icon = 1,7
+
+[U_R_JIHAD_WARRIOR]
+rollover = 了解更多 - 圣战战士
+brief = 圣战战士
+detail = 造价-100 食物, 视野-5, 生命-10p, 攻击-18p, 防御-2 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。研究圣战科技后由农民转化而来。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_R_BARRACKS
+requires = T_R_JIHAD
+icon = 1,8
+
+[U_R_PRIEST]
+rollover = 了解更多 - 牧师
+brief = 牧师
+detail = 造价-150 黄金, 视野-20, 攻击范围-18p, 生命-60p, 攻击-20p, 防御-0 ~ 可以移动、探索、治疗单位、祝福和驱魔。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_R_MOSQUE
+icon = 1,9
+
+[U_R_SPY]
+rollover = 了解更多 - 间谍
+brief = 间谍
+detail = 造价-150 黄金, 视野-12, 生命-50p, 攻击-20p, 防御-0 ~ 可以移动、攻击、拾取物品、巡逻、守卫、探索、伪装和显现。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_R_CASTLE
+requires = T_R_ESPIONAGE
+icon = 1,10
+
+[U_R_MAGE]
+rollover = 了解更多 - 法师
+brief = 法师
+detail = 造价-150 黄金, 视野-14, 生命-60p, 攻击范围-10p, 攻击-8p, 防御-0 ~ 可以移动、攻击、召唤飞毯、复活亡灵、召唤灯神、施放魔法视野和火雨。
+also = WI_UNIT,WI_TECHNOLOGY,WI_SPELL
+related = B_R_MAGE_TOWER
+icon = 1,11
+
+[U_R_CARAVAN]
+rollover = 了解更多 - 商队
+brief = 商队
+detail = 造价-500 食物, 视野-5, 生命-150p, 攻击-0p, 防御-0 ~ 可以移动、开始贸易、装载单位和货物、卸载和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_R_MARKET
+requires = T_R_TRADE_ROUTES
+icon = 1,12
+
+[U_R_JANISSARY]
+rollover = 了解更多 - 禁卫军
+brief = 禁卫军
+detail = 造价-120 食物/80 黄金, 视野-5, 生命-130p, 攻击-18p, 防御-4 ~ 可以移动、攻击、拾取物品、巡逻、守卫和探索。
+also = WI_UNIT,WI_TECHNOLOGY
+related = B_R_BARRACKS
+requires = T_R_JANISSARY
+icon = 1,13
+
+[U_C_CATAPULT]
+rollover = 了解更多 - 投石车
+brief = 投石车
+detail = 造价-600 木材, 视野-16, 攻击范围-14p, 生命-110p, 攻击-10p, 防御-0 ~ 可以移动、攻击、巡逻、守卫和探索。
+also = WI_SIEGE_WEAPON
+related = B_E_WORKSHOP
+icon = 1,37
+
+[U_C_HEAVY_CATAPULT]
+rollover = 了解更多 - 重型投石车
+brief = 重型投石车
+detail = 造价-1200 木材, 视野-24, 攻击范围-22p, 生命-250p, 攻击-25p, 防御-0 ~ 可以移动、攻击、巡逻、守卫和探索。
+also = WI_SIEGE_WEAPON
+related = B_E_WORKSHOP
+requires = T_E_SIEGE_TACTICS
+icon = 1,38
+
+[U_C_BALLISTA]
+rollover = 了解更多 - 弩炮
+brief = 弩炮
+detail = 造价-800 木材, 视野-14, 攻击范围-12p, 生命-75p, 攻击-25p, 防御-0 ~ 可以移动、攻击、巡逻、守卫和探索。
+also = WI_SIEGE_WEAPON
+related = B_E_WORKSHOP
+icon = 1,39
+
+[U_C_GALLEON]
+rollover = 了解更多 - 大帆船
+brief = 大帆船
+detail = 造价-800 食物/1200 木材, 视野-14, 攻击范围-12p, 生命-1200p, 攻击-35p, 防御-0 ~ 可以移动、攻击、装载、卸载、开始贸易和升级舰炮。大帆船仅欧洲和阿拉伯可用。
+also = WI_TECHNOLOGY
+related = B_E_HARBOR
+requires = T_E_MAP_MAKING
+icon = 1,40
+
+[U_C_HULK]
+rollover = 了解更多 - 运输船
+brief = 运输船
+detail = 造价-300 食物/500 木材, 视野-12, 攻击范围-10p, 生命-700p, 攻击-18p, 防御-0 ~ 可以移动、攻击、装载、卸载、开始贸易和升级舰炮。
+also = ?????????
+related = B_E_HARBOR
+icon = 1,41
+
+[U_C_XEBEC]
+rollover = 了解更多 - 快速帆船
+brief = 快速帆船
+detail = 造价-200 食物/300 木材, 视野-10, 攻击范围-8p, 生命-300p, 攻击-10p, 防御-0 ~ 可以移动、攻击、装载、卸载、开始贸易和升级舰炮。
+also = ?????????
+related = B_E_HARBOR
+icon = 1,42
+
+[U_C_FISHING_BOAT]
+rollover = 了解更多 - 渔船
+brief = 渔船
+detail = 造价-100 食物/200 木材, 视野-10, 攻击范围-8p, 生命-50p, 攻击-1p, 防御-0 ~ 可以移动、捕鱼和停止。
+also = HT_COLLECTRES, WI_RESOURCES
+related = B_E_HARBOR
+icon = 1,43
+
+[U_C_COW]
+rollover = 了解更多 - 奶牛
+brief = 奶牛
+detail = 造价-300 食物, 视野-3, 生命-80p ~ 奶牛仅欧洲和阿拉伯可用。牛群提供资源。农民饲养它们并将获得的奶加入国库的食物中。奶牛可以被宰杀，其肉由农民或其他单位收集。奶和肉存放在农场或城堡中。
+also = HT_COLLECTRES, WI_RESOURCES,B_E_FARM
+related = B_E_FARM
+requires = T_E_DOMESTICATION
+icon = 1,44
+
+[U_C_BEAR]
+rollover = 了解更多 - 熊
+brief = 熊
+detail = 视野-3, 生命-70p ~ 熊是自然生物。它们攻击射程内的所有单位。熊可受魔法视野术影响，用于探索地图。
+also = WI_SPELLS
+icon = 1,45
+
+[U_C_BAT]
+rollover = 了解更多 - 蝙蝠
+brief = 蝙蝠
+detail = 造价-25 法力, 视野-10, 生命-20p, 攻击-3p, 防御-0 ~ 蝙蝠由欧洲法师召唤。可以移动、攻击、巡逻、守卫和探索。人口上限影响蝙蝠。
+also = WI_TECHNOLOGY,WI_SPELLS,U_E_MAGE
+requires = T_E_BAT
+icon = 1,46
+
+[U_C_STONE_GOLEM]
+rollover = 了解更多 - 石巨人
+brief = 石巨人
+detail = 造价-120 黄金/600 法力, 视野-10, 生命-400p, 攻击-25p, 防御-0 ~ 石巨人由法师召唤。可以移动、攻击、拾取物品、巡逻、守卫和探索。人口上限影响石巨人。
+also = WI_TECHNOLOGY,WI_SPELLS,U_E_MAGE
+requires = T_E_STONE_GOLEM
+icon = 1,47
+
+[U_C_ORK]
+rollover = 了解更多 - 兽人
+brief = 兽人
+detail = 造价-60 黄金, 视野-5, 生命-50p, 攻击-18p, 防御-2 ~ 兽人在魔法传送门中生产。可以移动、攻击、拾取物品、巡逻、守卫和探索。人口上限影响兽人。
+also = U_C_MAGIC_GATEWAY,U_C_GHOST,U_C_DWARF,U_C_SKELETON
+related = B_C_MAGIC_GATEWAY
+icon = 1,48
+
+[U_C_DWARF]
+rollover = 了解更多 - 矮人
+brief = 矮人
+detail = 造价-80 黄金, 视野-3, 生命-120p, 攻击-7p, 防御-7 ~ 矮人在魔法传送门中生产。可以移动、攻击、拾取物品、巡逻、守卫和探索。人口上限影响矮人。
+also = U_C_MAGIC_GATEWAY,U_C_GHOST,U_C_SKELETON,U_C_ORK
+related = B_C_MAGIC_GATEWAY
+icon = 1,49
+
+[U_C_DRAGON]
+rollover = 了解更多 - 龙
+brief = 龙
+detail = 造价-80 黄金/800 法力, 视野-12, 攻击范围-3p, 生命-300p, 攻击-25p, 防御-0 ~ 龙由亚洲法师召唤。可以移动、攻击、巡逻、守卫和探索。人口上限影响龙。
+also = WI_TECHNOLOGY,WI_SPELLS,U_A_MAGE
+requires = T_A_DRAGON
+icon = 1,50
+
+[U_C_JINN]
+rollover = 了解更多 - 灯神
+brief = 灯神
+detail = 造价-50 黄金/300 法力, 视野-8, 生命-300p, 攻击-20p, 防御-5 ~ 灯神由阿拉伯法师召唤。可以移动、攻击、巡逻、守卫和探索。人口上限影响灯神。
+also = WI_TECHNOLOGY,WI_SPELLS,U_R_MAGE
+requires = T_R_JINN
+icon = 1,51
+
+[U_C_CARPET]
+rollover = 了解更多 - 飞毯
+brief = 飞毯
+detail = 造价-80 黄金/500 法力, 视野-8, 生命-90p ~ 飞毯由阿拉伯法师召唤。可以移动、攻击、装载、卸载和探索。人口上限影响飞毯。它们可用于在水上和陆地上运输单位。
+also = WI_TECHNOLOGY,WI_SPELLS,U_R_MAGE
+requires = T_R_MAGIC_CARPET
+icon = 1,52
+
+[U_C_SKELETON]
+rollover = 了解更多 - 骷髅
+brief = 骷髅
+detail = 造价-30 食物, 视野-5, 生命-40p, 攻击-4p, 防御-0 ~ 骷髅可从魔法传送门召唤，或由研究死灵术后的阿拉伯法师从尸体中召唤。可以移动、攻击、巡逻、守卫和探索。人口上限影响骷髅。
+also = WI_TECHNOLOGY,WI_SPELLS,U_R_MAGE,U_C_MAGIC_GATEWAY,U_C_GHOST,U_C_DWARF,U_C_ORK
+related = B_C_MAGIC_GATEWAY
+requires = T_R_NECROMANCY
+icon = 1,53
+
+[U_C_GHOST]
+rollover = 了解更多 - 幽灵
+brief = 幽灵
+detail = 造价-40 黄金, 视野-5, 生命-60p, 攻击-8p, 防御-0 ~ 幽灵在魔法传送门中生产。可以移动、攻击、拾取物品、对人施咒、巡逻、守卫和探索。人口上限影响幽灵。
+also = U_C_MAGIC_GATEWAY,U_C_SKELETON,U_C_DWARF,U_C_ORK
+related = B_C_MAGIC_GATEWAY
+icon = 1,54
+
+[U_C_MESSIAH]
+rollover = 了解更多 - 弥赛亚
+brief = 弥赛亚
+detail = 造价-2000 黄金, 视野-20, 攻击范围-18p, 生命-1000p, 攻击-50p, 防御-10 ~ 弥赛亚出现在战役中，是所有单位中最强大的。弥赛亚可以使用游戏中的所有法术。
+also = B_C_EVIL_CASTLE
+icon = 1,55
+
+[B_E_CASTLE]
+rollover = 了解更多 - 城堡
+brief = 城堡
+detail = 造价-1500 石头/1500 木材, 视野-12, 抵抗-1000p, 生命-8000p, 对己方建筑辐射抵抗+400,对其他建筑辐射抵抗-200 ~ 城堡是王国的核心建筑，是农民和间谍的唯一生产地。所有资源都可以存放于此。
+also = WI_TECHNOLOGY,HT_COLLECTRES,WI_RESOURCES,WI_RESISTANCE
+icon = 2,1
+row1 = T_E_ARCHITECTURE
+row2 = T_E_LEARNING
+row3 = T_E_FEUDALISM
+row4 = U_E_PEASANT,U_E_SPY
+
+[B_E_HOUSE]
+rollover = 了解更多 - 房屋
+brief = 房屋
+detail = 造价-75 木材, 视野-4, 抵抗-50p, 生命-500p, ~ 房屋提高王国的人口上限。每座房屋可额外生产 10 个单位。
+also = WI_POP_LIMIT
+icon = 2,2
+
+[B_E_LUMBER_MILL]
+rollover = 了解更多 - 伐木场
+brief = 伐木场
+detail = 造价-100 木材, 视野-4, 抵抗-80p, 生命-800p, ~ 伐木场用于存放木材。伐木场离树林越近，伐木工的效率越高。
+also = WI_TECHNOLOGY,U_E_LONGBOWMAN
+icon = 2,3
+row1 = T_E_LONGBOW
+row2 = T_E_SAW
+row3 = T_E_CROSSBOW
+
+[B_E_STORAGE]
+rollover = 了解更多 - 仓库
+brief = 仓库
+detail = 造价-200 木材, 视野-5, 抵抗-80p, 生命-800p, ~ 仓库用于存放石头和黄金。仓库离矿场越近，矿工的效率越高。
+also = HT_COLLECTRES, WI_RESOURCES
+icon = 2,4
+row1 = T_E_GOLD_MINING
+row2 = T_E_STONE_MINING
+
+[B_E_FARM]
+rollover = 了解更多 - 农场
+brief = 农场
+detail = 造价-200 木材, 视野-5, 抵抗-80p, 生命-800p, ~ 农场用于存放食物。农场离农田越近，收割者的效率越高。
+also = HT_COLLECTRES, WI_RESOURCES
+icon = 2,5
+row1 = T_E_DOMESTICATION
+row2 = T_E_ROTATING_FIELDS
+row3 = U_C_COW
+
+[B_E_HARBOR]
+rollover = 了解更多 - 港口
+brief = 港口
+detail = 造价-200 食物/200 木材, 视野-8, 抵抗-200p, 生命-1400p, 对己方建筑辐射抵抗+100,对其他建筑辐射抵抗-50 ~ 港口用于存放鱼、建造船只和进行贸易。
+also = HT_COLLECTRES, WI_RESOURCES,HT_TARDE,WI_RESISTANCE
+icon = 2,6
+row1 = T_E_LANDING_TACTICS
+row2 = U_C_FISHING_BOAT,U_C_HULK,U_C_XEBEC,U_C_GALLEON
+
+[B_E_BLACKSMITH]
+rollover = 了解更多 - 铁匠铺
+brief = 铁匠铺
+detail = 造价-150 食物/150 木材, 视野-8, 抵抗-80p, 生命-800p, ~ 铁匠铺是研究提升军事单位属性科技的地方。
+also = WI_TECHNOLOGY,WI_UNITS
+allows = B_E_WORKSHOP
+icon = 2,7
+row1 = T_E_PLATE_ARMOR
+row2 = T_E_TEMPER_IRON,T_E_HALBERD
+row3 = T_E_SCALE_ARMOR,T_E_CHAIN_MAIL
+
+[B_E_WORKSHOP]
+rollover = 了解更多 - 工坊
+brief = 工坊
+detail = 造价-150 食物/150 木材, 视野-8, 抵抗-80p, 生命-800p ~ 工坊是研究提升军事单位属性科技的地方。
+also = WI_TECHNOLOGY,WI_UNITS
+requires = B_E_BLACKSMITH
+icon = 2,8
+row1 = T_E_ENGINEERING
+row2 = T_E_CANNON_TOWERS
+row3 = U_C_CATAPULT,U_C_HEAVY_CATAPULT,U_C_BALLISTA
+
+[B_E_CHURCH]
+rollover = 了解更多 - 教堂
+brief = 教堂
+detail = 造价-200 食物/200 石头, 视野-6, 抵抗-200p, 生命-1000p, 对己方建筑辐射抵抗+50,对其他建筑辐射抵抗-100 ~ 牧师在教堂中生产。
+also = WI_TECHNOLOGY,WI_RESISTANCE
+requires = B_E_CATHEDRAL
+icon = 2,9
+row1 = U_E_PRIEST
+
+[B_E_TAVERN]
+rollover = 了解更多 - 酒馆
+brief = 酒馆
+detail = 造价-200 食物/200 木材, 视野-5, 抵抗-150p, 生命-1000p, 对己方建筑辐射抵抗-50,对其他建筑辐射抵抗-50 ~ 酒馆是转换资源、获取贷款、雇佣军事单位和赌博的场所。你需要研究相应科技才能解锁全部选项。
+also = WI_TECHNOLOGY,T_E_GAMBLING,T_E_MERCENARIES,T_E_HEROES_QUEST,T_E_USURY
+allows = B_E_MERCHANTS_GUILD
+icon = 2,10
+row1 = C_CONVERT
+row2 = C_HIREMERCENARIES
+row3 = C_HIREHEROES
+row4 = C_GAMBLE
+
+[B_E_MARKET]
+rollover = 了解更多 - 市场
+brief = 市场
+detail = 造价-200 食物/200 木材, 视野-8, 抵抗-200p, 生命-1400p ~ 市场是交易资源的场所。贸易由商队完成。你需要研究贸易路线科技，才能生产商队并进行贸易。
+also = HT_TRADE,U_E_CARAVAN
+requires = B_E_MERCHANTS_GUILD
+icon = 2,11
+row1 = U_E_CARAVAN
+
+[B_E_BARRACKS]
+rollover = 了解更多 - 兵营
+brief = 兵营
+detail = 造价-200 食物/200 木材, 视野-6, 抵抗-500p, 生命-1400p ~ 兵营是生产所有军事单位的建筑。只有研究所需科技后，相应单位才会解锁。
+also = B_E_STABLE,B_E_BLACKSMITH,WI_TECHNOLOGY
+icon = 2,12
+row1 = U_E_FOOTMAN,U_E_ARCHER,U_E_MACEMAN
+row2 = U_E_PIKEMAN,U_E_KNIGHT,U_E_LONGBOWMAN
+
+[B_E_STABLE]
+rollover = 了解更多 - 马厩
+brief = 马厩
+detail = 造价-200 食物/200 木材, 视野-5, 抵抗-80p, 生命-500p ~ 马厩用于生产骑兵单位。如果马厩被摧毁，在重建新马厩之前无法生产骑兵单位。
+also = WI_TECHNOLOGY
+icon = 2,13
+
+[B_E_OUTPOST]
+rollover = 了解更多 - 哨站
+brief = 哨站
+detail = 造价-200 木材/400 石头, 视野-8, 抵抗-500p, 生命-5000p, 对己方建筑辐射抵抗+200,对其他建筑辐射抵抗-200 ~ 哨站是军队驻扎和治疗的地方。建议在入侵过程中随部队推进建造哨站。
+also = HT_COMMANDS,WI_RESISTANCE
+icon = 2,14
+
+[B_E_CATHEDRAL]
+rollover = 了解更多 - 大教堂
+brief = 大教堂
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造大教堂可以让玩家走上宗教之道。大教堂解锁的科技将为玩家提供建立帝国的有效途径。
+also = WI_TECHNOLOGY,WI_STRATEGIES
+allows = B_E_CHURCH
+icon = 2,15
+row1 = T_E_FANATICISM,T_E_CRUSADE
+row2 = T_E_ESPIONAGE
+row3 = T_E_INQUISITION
+row4 = T_E_BLESS
+row5 = T_E_HEALING,T_E_MEDICINE
+
+[B_E_MAGE_TOWER]
+rollover = 了解更多 - 法师塔
+brief = 法师塔
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造法师塔可以让玩家走上魔法之道。强大的法术可在此研究，法师也在此生产。
+also = WI_TECHNOLOGY,WI_STRATEGIES,U_E_MAGE,WI_SPELLS
+icon = 2,16
+row1 = T_E_BAT,T_E_STONE_GOLEM,T_E_INVISIBILITY
+row2 = T_E_LIGHTNING
+row3 = T_E_FREEZE
+row4 = U_E_MAGE
+
+[B_E_MERCHANTS_GUILD]
+rollover = 了解更多 - 商人行会
+brief = 商人行会
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造商人行会可以让玩家走上贸易与工艺之道。你可以建立强大的经济，充分利用贸易优势，而不必依赖有限的地图资源。
+also = WI_TECHNOLOGY,WI_STRATEGIES,HT_TRADE
+icon = 2,17
+row1 = T_E_TRADE_ROUTS,T_E_MAP_MAKING
+row2 = T_E_USURY,T_E_GAMBLING
+row3 = T_E_SUPPLY_STORAGE
+row4 = T_E_BRIBERY
+row5 = T_E_TRADE_TAXES
+
+[B_E_WARRIORS_GUILD]
+rollover = 了解更多 - 战士公会
+brief = 战士公会
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造战士公会可以让玩家走上荣耀之道。你可以建立强大的军队。许多科技可让单位获得经验、提升攻击力并变得几乎无敌。
+also = WI_TECHNOLOGY,WI_STRATEGIES
+requires = B_E_TAVERN
+icon = 2,18
+row1 = T_E_HEROISM,T_E_LEADRESHIP,T_E_HONOR
+row2 = T_E_WARFARE,T_E_TACTICS
+row3 = T_E_MERCENARIES,T_E_HEROES_QUEST,T_E_FAME
+row4 = T_E_SIEGE_TACTICS
+row5 = T_E_BODY_BUILDING
+
+[B_A_CASTLE]
+rollover = 了解更多 - 城堡
+brief = 城堡
+detail = 造价-1500 石头/1500 木材, 视野-12, 抵抗-1000p, 生命-8000p, 对己方建筑辐射抵抗+500,对其他建筑辐射抵抗-300 ~ 城堡是王国的核心建筑，是农民的唯一生产地。所有资源都可以存放于此。
+also = WI_TECHNOLOGY,HT_COLLECTRES,WI_RESOURCES,WI_RESISTANCE
+icon = 2,1
+row1 = T_A_ARCHITECHTURE,T_A_GREAT_WALL
+row2 = T_A_LEARNING
+row3 = T_A_BUDDHISM
+row4 = U_A_PEASANT
+
+[B_A_HOUSE]
+rollover = 了解更多 - 房屋
+brief = 房屋
+detail = 造价-75 木材, 视野-4, 抵抗-50p, 生命-500p, ~ 房屋提高王国的人口上限。每座房屋可额外生产 10 个单位。
+also = WI_POP_LIMIT
+icon = 2,2
+
+[B_A_LUMBER_MILL]
+rollover = 了解更多 - 伐木场
+brief = 伐木场
+detail = 造价-100 木材, 视野-4, 抵抗-80p, 生命-800p, ~ 伐木场用于存放木材。伐木场离树林越近，伐木工的效率越高。
+also = WI_TECHNOLOGY
+icon = 2,3
+row1 = T_A_SAW
+row2 = T_A_CROSSBOW
+
+[B_A_STORAGE]
+rollover = 了解更多 - 仓库
+brief = 仓库
+detail = 造价-200 木材, 视野-5, 抵抗-80p, 生命-800p, ~ 仓库用于存放石头和黄金。仓库离矿场越近，矿工的效率越高。
+also = HT_COLLECTRES, WI_RESOURCES
+icon = 2,4
+row1 = T_A_GOLD_MINING
+row2 = T_A_STONE_MINING
+
+[B_A_FARM]
+rollover = 了解更多 - 农场
+brief = 农场
+detail = 造价-200 木材, 视野-5, 抵抗-80p, 生命-800p, ~ 农场用于存放食物。农场离农田越近，收割者的效率越高。
+also = HT_COLLECTRES, WI_RESOURCES
+icon = 2,5
+row1 = T_A_ROTATING_FIELDS,T_A_IRRIGATION
+row2 = T_A_ART_OF_RIDING
+
+[B_A_HARBOR]
+rollover = 了解更多 - 港口
+brief = 港口
+detail = 造价-200 食物/200木材, 视野-8, 抵抗-200p, 生命-1400p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-100 ~ 港口用于存放鱼、建造船只和进行贸易。
+also = HT_COLLECTRES, WI_RESOURCES,HT_TARDE,WI_RESISTANCE
+icon = 2,6
+row1 = U_C_FISHING_BOAT,U_C_HULK,U_C_XEBEC
+
+[B_A_BLACKSMITH]
+rollover = 了解更多 - 铁匠铺
+brief = 铁匠铺
+detail = 造价-150 食物/150 木材, 视野-8, 抵抗-80p, 生命-800p, ~ 铁匠铺是研究提升军事单位属性科技的地方。
+also = WI_TECHNOLOGY,WI_UNITS
+allows = B_A_WORKSHOP
+icon = 2,7
+row1 = T_A_CHARIOT
+row2 = T_A_TEMPER_IRON
+row3 = T_A_SCALE_ARMOR,T_A_CHAIN_MAIL
+
+[B_A_WORKSHOP]
+rollover = 了解更多 - 工坊
+brief = 工坊
+detail = 造价-150 食物/150木材, 视野-8, 抵抗-80p, 生命-800p, ~ 工坊是研究提升军事单位属性科技的地方。
+also = WI_TECHNOLOGY,WI_UNITS
+requires = B_A_BLACKSMITH
+icon = 2,8
+row1 = T_A_ENGINEERING
+row2 = T_A_CANNON_TOWERS
+row3 = U_C_CATAPULT,U_C_BALLISTA
+
+[B_A_MONASTERY]
+rollover = 了解更多 - 修道院
+brief = 修道院
+detail = 造价-200 食物/200 石头, 视野-6, 抵抗-200p, 生命-1000p, 对己方建筑辐射抵抗+100,对其他建筑辐射抵抗-200 ~ 牧师在修道院中生产。
+also = WI_TECHNOLOGY,WI_RESISTANCE
+requires = B_A_SHAO_LINN
+icon = 2,9
+row1 = U_A_PRIEST
+
+[B_A_TAVERN]
+rollover = 了解更多 - 酒馆
+brief = 酒馆
+detail = 造价-200 食物/200 木材, 视野-5, 抵抗-150p, 生命-1000p, 对己方建筑辐射抵抗-200,对其他建筑辐射抵抗-200 ~ 酒馆是转换资源、获取贷款、雇佣军事单位和赌博的场所。你需要研究相应科技才能解锁全部选项。
+also = WI_TECHNOLOGY,T_A_GAMBLING,T_A_MERCENARIES,T_A_HEROES_QUEST,T_A_USURY
+allows = B_A_MERCHANTS_GUILD
+icon = 2,10
+row1 = C_CONVERT
+row2 = C_HIREMERCENARIES
+row3 = C_HIREHEROES
+row4 = C_GAMBLE
+
+[B_A_MARKET]
+rollover = 了解更多 - 市场
+brief = 市场
+detail = 造价-200 食物/200 木材, 视野-8, 抵抗-200p, 生命-1400p ~ 市场是交易物品的场所。你必须先研究珠宝科技。
+also = HT_TRADE,WI_ITEMS,HT_BUY_ITEMS
+requires = B_A_MERCHANTS_GUILD
+icon = 2,11
+row1 = C_SELLITEM
+row2 = C_BUYITEM
+
+[B_A_BARRACKS]
+rollover = 了解更多 - 兵营
+brief = 兵营
+detail = 造价-200 食物/200 木材, 视野-6, 抵抗-500p, 生命-1400p ~ 兵营是生产所有军事单位的建筑。只有研究所需科技后，相应单位才会解锁。
+also = B_A_STABLE,B_A_BLACKSMITH,WI_TECHNOLOGY,B_A_FARM
+icon = 2,12
+row1 = U_A_RHONIN,U_A_ARCHER,U_A_SAMURAI
+row2 = U_A_HORSE_ARCHER,U_A_HORSE_SAMURAI,U_A_CHARIOT
+
+[B_A_STABLE]
+rollover = 了解更多 - 马厩
+brief = 马厩
+detail = 造价-200 食物/200 木材, 视野-5, 抵抗-80p, 生命-500p ~ 马厩用于生产骑兵单位。如果马厩被摧毁，在重建新马厩之前无法生产骑兵单位。
+also = WI_TECHNOLOGY
+icon = 2,13
+
+[B_A_OUTPOST]
+rollover = 了解更多 - 哨站
+brief = 哨站
+detail = 造价-200 木材/400 石头, 视野-8, 抵抗-500p, 生命-2000p, 对己方建筑辐射抵抗+400,对其他建筑辐射抵抗-400 ~ 哨站是军队驻扎和治疗的地方。建议在入侵过程中随部队推进建造哨站。
+also = HT_COMMANDS,WI_RESISTANCE
+icon = 2,14
+
+[B_A_SHAO_LINN]
+rollover = 了解更多 - 少林寺
+brief = 少林寺
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造少林寺可以让玩家走上宗教之道。少林寺解锁的科技将为玩家提供建立帝国的有效途径。
+also = WI_TECHNOLOGY,WI_STRATEGIES
+allows = B_A_MONASTERY
+icon = 2,19
+row1 = T_A_MEDITAION,T_A_PHILOSOPHY
+row2 = T_A_KUNG_FU,T_A_NINJAS,T_A_TOURNAMENTS,T_A_MASTERY
+row3 = T_A_HEALING,T_A_MEDICINE
+
+[B_A_MAGE_TOWER]
+rollover = 了解更多 - 法师塔
+brief = 法师塔
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造法师塔可以让玩家走上魔法之道。强大的法术可在此研究，法师也在此生产。
+also = WI_TECHNOLOGY,WI_STRATEGIES,U_A_MAGE,WI_SPELLS
+icon = 2,16
+row1 = T_A_CONCENTRATION,T_A_CONFUSION
+row2 = T_A_WHIRLPOOL
+row3 = T_A_FLAMEBOLT,T_A_DRAGON
+row4 = T_A_TURN_TO_STONE
+row5 = U_A_MAGE
+
+[B_A_MERCHANTS_GUILD]
+rollover = 了解更多 - 商人行会
+brief = 商人行会
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造商人行会可以让玩家走上贸易与工艺之道。你可以建立强大的经济，充分利用贸易优势，而不必依赖有限的地图资源。
+also = WI_TECHNOLOGY,WI_STRATEGIES,HT_TRADE
+icon = 2,17
+row1 = T_A_TRADE_ROUTES
+row2 = T_A_USURY,T_A_BANKING
+row3 = T_A_SUPPLY_STORAGE,T_A_SEAFOOD
+row4 = T_A_JEWELERY
+row5 = T_A_CHEMISTRY,T_A_GUNPOWDER,T_A_ROCKET_ARROW
+row6 = T_A_TRADE_ROUTES
+
+[B_A_WARRIORS_GUILD]
+rollover = 了解更多 - 战士公会
+brief = 战士公会
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造战士公会可以让玩家走上荣耀之道。你可以建立强大的军队。许多科技可让单位获得经验、提升攻击力并变得几乎无敌。
+also = WI_TECHNOLOGY,WI_STRATEGIES
+requires = B_A_TAVERN
+icon = 2,18
+row1 = T_A_HEROISM,T_A_LEADRESHIP,T_A_HONOR
+row2 = T_A_WARFARE,T_A_TACTICS,T_A_SUN_TZU_BOOK
+row3 = T_A_MERCENARIES,T_A_HEROES_QUEST
+row4 = T_A_BUSHIDO
+
+[B_R_CASTLE]
+rollover = 了解更多 - 城堡
+brief = 城堡
+detail = 造价-1500 石头/1500 木材, 视野-12, 抵抗-1000p, 生命-8000p, 对己方建筑辐射抵抗+500,对其他建筑辐射抵抗-300 ~ 城堡是王国的核心建筑，是农民和间谍的唯一生产地。所有资源都可以存放于此。
+also = WI_TECHNOLOGY,HT_COLLECTRES,WI_RESOURCES,WI_RESISTANCE
+icon = 2,1
+row1 = T_R_ARCHITECHTURE
+row2 = T_R_LEARNING
+row3 = T_R_FEUDALISM,T_R_SLAVERY
+row4 = U_R_PEASANT,U_R_SPY
+
+[B_R_HOUSE]
+rollover = 了解更多 - 房屋
+brief = 房屋
+detail = 造价-75 木材, 视野-4, 抵抗-50p, 生命-500p, ~ 房屋提高王国的人口上限。每座房屋可额外生产 10 个单位。
+also = WI_POP_LIMIT
+icon = 2,2
+
+[B_R_LUMBER_MILL]
+rollover = 了解更多 - 伐木场
+brief = 伐木场
+detail = 造价-100 木材, 视野-4, 抵抗-80p, 生命-800p, ~ 伐木场用于存放木材。伐木场离树林越近，伐木工的效率越高。
+also = WI_TECHNOLOGY
+icon = 2,3
+row1 = T_R_SAW
+row2 = T_R_CROSSBOW
+
+[B_R_STORAGE]
+rollover = 了解更多 - 仓库
+brief = 仓库
+detail = 造价-200 木材, 视野-5, 抵抗-80p, 生命-800p, ~ 仓库用于存放石头和黄金。仓库离矿场越近，矿工的效率越高。
+also = HT_COLLECTRES, WI_RESOURCES
+icon = 2,4
+row1 = T_R_GOLD_MINING
+row2 = T_R_STONE_MINING
+
+[B_R_FARM]
+rollover = 了解更多 - 农场
+brief = 农场
+detail = 造价-200 木材, 视野-5, 抵抗-80p, 生命-800p, ~ 农场用于存放食物。农场离农田越近，收割者的效率越高。
+also = HT_COLLECTRES, WI_RESOURCES
+icon = 2,5
+row1 = T_R_DOMESTICATION,T_R_HORSEMANSHIP
+row2 = T_R_ROTATING_FIELDS
+row3 = T_R_COW_POACHING
+row4 = T_R_ART_OF_RIDING
+row5 = U_C_COW
+
+[B_R_HARBOR]
+rollover = 了解更多 - 港口
+brief = 港口
+detail = 造价-200 食物/200 木材, 视野-8, 抵抗-200p, 生命-1400p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-100 ~ 港口用于存放鱼、建造船只和进行贸易。
+also = HT_COLLECTRES, WI_RESOURCES,HT_TARDE,WI_RESISTANCE
+icon = 2,6
+row1 = T_R_LANDING_TACTICS
+row2 = U_C_FISHING_BOAT,U_C_HULK,U_C_XEBEC
+
+[B_R_BLACKSMITH]
+rollover = 了解更多 - 铁匠铺
+brief = 铁匠铺
+detail = 造价-150 食物/150 木材, 视野-8, 抵抗-80p, 生命-800p, ~ 铁匠铺是研究提升军事单位属性科技的地方。
+also = WI_TECHNOLOGY,WI_UNITS
+allows = B_R_WORKSHOP
+icon = 2,7
+row1 = T_R_TEMPER_IRON,T_R_HALBERD
+row2 = T_R_SCALE_ARMOR,T_R_CHAIN_MAIL
+row3 = T_R_SCIMITAR
+
+[B_R_WORKSHOP]
+rollover = 了解更多 - 工坊
+brief = 工坊
+detail = 造价-150 食物/150 木材, 视野-8, 抵抗-80p, 生命-800p, ~ 工坊是研究提升军事单位属性科技的地方。
+also = WI_TECHNOLOGY,WI_UNITS
+requires = B_R_BLACKSMITH
+icon = 2,8
+row1 = T_R_ENGINEERING
+row2 = T_R_CANNON_TOWERS
+row3 = U_C_CATAPULT,U_C_BALLISTA
+
+[B_R_CHURCH]
+rollover = 了解更多 - 教堂
+brief = 教堂
+detail = 造价-200 食物/200 石头, 视野-6, 抵抗-200p, 生命-1000p, 对己方建筑辐射抵抗+100,对其他建筑辐射抵抗-200 ~ 牧师在教堂中生产。
+also = WI_TECHNOLOGY,WI_RESISTANCE
+requires = B_R_MOSQUE
+icon = 2,9
+row1 = U_R_PRIEST
+
+[B_R_TAVERN]
+rollover = 了解更多 - 酒馆
+brief = 酒馆
+detail = 造价-200 食物/200 木材, 视野-5, 抵抗-150p, 生命-1000p, 对己方建筑辐射抵抗-200,对其他建筑辐射抵抗-200 ~ 酒馆是转换资源、获取贷款、雇佣军事单位和赌博的场所。你需要研究相应科技才能解锁全部选项。
+also = WI_TECHNOLOGY,T_R_GAMBLING,T_R_MERCENARIES,T_R_HEROES_QUEST,T_R_USURY
+allows = B_R_MERCHANTS_GUILD
+icon = 2,10
+row1 = C_CONVERT
+row2 = C_HIREMERCENARIES
+row3 = C_HIREHEROES
+row4 = C_GAMBLE
+
+[B_R_MARKET]
+rollover = 了解更多 - 市场
+brief = 市场
+detail = 造价-200 食物/200 木材, 视野-8, 抵抗-200p, 生命-1400p ~ 市场是交易资源的场所。贸易由商队完成。你需要研究贸易路线科技，才能生产商队并进行贸易。
+also = HT_TRADE,U_R_CARAVAN
+requires = B_R_MERCHANTS_GUILD
+icon = 2,11
+row1 = U_R_CARAVAN
+
+[B_R_BARRACKS]
+rollover = 了解更多 - 兵营
+brief = 兵营
+detail = 造价-200 食物/200 木材, 视野-6, 抵抗-500p, 生命-1400p ~ 兵营是生产所有军事单位的建筑。只有研究所需科技后，相应单位才会解锁。
+also = B_R_STABLE,B_R_BLACKSMITH,WI_TECHNOLOGY
+icon = 2,12
+row1 = U_R_FOOTMAN,U_R_ARCHER,U_R_SATRAP,U_R_SPEARMAN
+row2 = U_R_HORSE_ARCHER,U_R_CAVALRY,U_R_JIHAD_WARRIOR
+
+[B_R_STABLE]
+rollover = 了解更多 - 马厩
+brief = 马厩
+detail = 造价-200 食物/200 木材, 视野-5, 抵抗-80p, 生命-500p ~ 马厩用于生产骑兵单位。如果马厩被摧毁，在重建新马厩之前无法生产骑兵单位。
+also = WI_TECHNOLOGY
+icon = 2,13
+
+[B_R_OUTPOST]
+rollover = 了解更多 - 哨站
+brief = 哨站
+detail = 造价-200 木材/400 石头, 视野-8, 抵抗-500p, 生命-2000p, 对己方建筑辐射抵抗+400,对其他建筑辐射抵抗-400 ~ 哨站是军队驻扎和治疗的地方。建议在入侵过程中随部队推进建造哨站。
+also = HT_COMMANDS,WI_RESISTANCE
+icon = 2,14
+
+[B_R_MOSQUE]
+rollover = 了解更多 - 清真寺
+brief = 清真寺
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造清真寺可以让玩家走上宗教之道。清真寺解锁的科技将为玩家提供建立帝国的有效途径。
+also = WI_TECHNOLOGY,WI_STRATEGIES
+allows = B_A_MONASTERY
+icon = 2,20
+row1 = T_R_FANATICISM,T_R_JIHAD
+row2 = T_R_ESPIONAGE
+row3 = T_R_HEALING
+row4 = T_R_BLESS
+
+[B_R_MAGE_TOWER]
+rollover = 了解更多 - 法师塔
+brief = 法师塔
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造法师塔可以让玩家走上魔法之道。强大的法术可在此研究，法师也在此生产。
+also = WI_TECHNOLOGY,WI_STRATEGIES,U_R_MAGE,WI_SPELLS
+icon = 2,16
+row1 = T_R_MAGIC_CARPET,T_R_JINN
+row2 = T_R_RAIN_OF_FIRE
+row3 = T_R_MAGIC_VISION
+row4 = T_R_NECROMANCY
+row5 = T_R_WITCHCRAFTS
+row6 = U_R_MAGE
+
+[B_R_MERCHANTS_GUILD]
+rollover = 了解更多 - 商人行会
+brief = 商人行会
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造商人行会可以让玩家走上贸易与工艺之道。你可以建立强大的经济，充分利用贸易优势，而不必依赖有限的地图资源。
+also = WI_TECHNOLOGY,WI_STRATEGIES,HT_TRADE
+icon = 2,17
+row1 = T_R_TRADE_ROUTES
+row2 = T_R_USURY,T_R_GAMBLING
+row3 = T_R_SUPPLY_STORAGE
+row4 = T_R_ORE_FLOATATION
+row5 = T_R_BRIBERY
+
+[B_R_WARRIORS_GUILD]
+rollover = 了解更多 - 战士公会
+brief = 战士公会
+detail = 造价-2000 石头/2000 黄金, 视野-8, 抵抗-700p, 生命-5000p, 对己方建筑辐射抵抗+300,对其他建筑辐射抵抗-500 ~ 建造战士公会可以让玩家走上荣耀之道。你可以建立强大的军队。许多科技可让单位获得经验、提升攻击力并变得几乎无敌。
+also = WI_TECHNOLOGY,WI_STRATEGIES
+requires = B_R_TAVERN
+icon = 2,18
+row1 = T_R_HEROISM,T_R_LEADRESHIP,T_R_HONOR
+row2 = T_R_WARFARE
+row3 = T_R_MERCENARIES,T_R_HEROES_QUEST,T_R_FAME
+row4 = T_R_BODY_BUILDING
+row5 = T_R_RIDING_HORDES,T_R_JANISSARY
+
+[B_R_MAGIC_WORKSHOP]
+rollover = 了解更多 - 魔法工坊
+brief = 魔法工坊
+detail = 造价-300 石头, 视野-5, 抵抗-200p, 生命-1200p ~ 魔法工坊是生产魔法物品的场所。
+also = WI_TECHNOLOGY,WI_ITEMS,HT_CREATE_ITEMS
+requires = T_R_WITCHCRAFTS
+icon = 2,30
+
+[B_C_FIELD]
+rollover = 了解更多 - 农田
+brief = 农田
+detail = 造价-200 木材, 视野-1, 生命-100p ~ 农田生产食物资源，需要持续照料。如果疏于照料，它们会消失。建议将它们放置在农场或城堡附近，使收割者存放食物更高效。
+also = HT_COLLECTRES,WI_RESOURCES,WI_TECHNOLOGY
+icon = 2,21
+
+[B_C_WOOD_WALL]
+rollover = 了解更多 - 木墙
+brief = 木墙
+detail = 造价-20 木材, 视野-1, 生命-2000p ~ 城墙是加固王国的好方法。建造成本不高，能很好地防御敌人攻击。但不足以抵挡攻城武器的攻击。建议总是放置箭塔来守卫它们。
+also = WI_TECHNOLOGY,B_C_STONE_WALL,T_A_GREAT_WALL,B_C_GUARD_TOWER
+allows = B_C_STONE_WALL
+icon = 2,22
+
+[B_C_STONE_WALL]
+rollover = 了解更多 - 石墙
+brief = 石墙
+detail = 造价-20 石头, 视野-2, 生命-4000p ~ 石墙是加固王国的绝佳方式。石墙只能通过升级木墙获得。建造成本不高，能很好地防御敌人攻击。建议总是放置箭塔来守卫它们。
+also = B_C_WOOD_WALL,WI_TECHNOLOGY,T_A_GREAT_WALL,B_C_GUARD_TOWER
+requires = T_E_ARCHITECTURE
+icon = 2,23
+
+[B_C_WOOD_GATE]
+rollover = 了解更多 - 木门
+brief = 木门
+detail = 造价-200 木材, 视野-8, 生命-1500p ~ 木门是坚固王国的必需品。玩家可自行控制城门，或让子 AI 控制。若城门 AI 开启，它们会为本方单位打开、为敌方单位关闭。建议总是放置箭塔来守卫。
+also = B_C_STONE_GATE,B_C_WOOD_WALL,B_C_STONE_WALL,WI_TECHNOLOGY,B_C_GUARD_TOWER
+icon = 2,24
+row1 = C_GATESUBAION
+row2 = C_GATESUBAIOFF
+
+[B_C_STONE_GATE]
+rollover = 了解更多 - 石门
+brief = 石门
+detail = 造价-200 石头, 视野-12, 生命-3000p ~ 石门由木门升级而来，更能抵御攻击。玩家可自行控制城门，或让子 AI 控制。若城门 AI 开启，它们会为本方单位打开、为敌方单位关闭。建议总是放置箭塔来守卫。
+also = B_C_WOOD_GATE,B_C_WOOD_WALL,B_C_STONE_WALL,WI_TECHNOLOGY,B_C_GUARD_TOWER
+requires = T_E_ARCHITECTURE
+icon = 2,25
+row1 = C_GATESUBAION
+row2 = C_GATESUBAIOFF
+
+[B_C_BRIDGE]
+rollover = 了解更多 - 桥梁
+brief = 桥梁
+detail = 造价-300 石头, 视野-1, 生命-10000p ~ 桥梁可让单位跨越水域通行。
+also = B_C_GUARD_TOWER,WI_TECHNOLOGY
+requires = T_E_ARCHITECTURE
+icon = 2,26
+
+[B_C_WATCH_TOWER]
+rollover = 了解更多 - 了望塔
+brief = 了望塔
+detail = 造价-300 木材, 视野-15, 攻击-7, 攻击范围-8, 抵抗-100p, 生命-400p ~ 了望塔是加固王国的好方法。敌人一进入攻击范围就会遭到攻击。建议建造时让它们的攻击范围相互重叠，不给敌人留下无覆盖区域。
+also = B_C_WOOD_GATE,B_C_WOOD_WALL,B_C_STONE_WALL,WI_TECHNOLOGY,B_C_GUARD_TOWER
+icon = 2,31
+row1 = C_TOWERUP1
+
+[B_C_GUARD_TOWER]
+rollover = 了解更多 - 守卫塔
+brief = 守卫塔
+detail = 视野-15, 攻击-12, 攻击范围-12, 抵抗-150p, 生命-1000p ~ 守卫塔由了望塔升级而来。守卫塔是加固王国最有效的方式。敌人一进入攻击范围就会遭到攻击。建议建造时让它们的攻击范围相互重叠，不给敌人留下无覆盖区域。
+also = B_C_STONE_GATE,B_C_STONE_WALL,B_C_WATCH_TOWER,WI_TECHNOLOGY
+requires = T_E_ARCHITECTURE
+icon = 2,32
+row1 = C_TOWERUP2
+row2 = C_TOWERUP3
+
+[B_C_STONE_TOWER]
+rollover = 了解更多 - 石塔
+brief = 石塔
+detail = 视野-15, 攻击-16, 攻击范围-16, 抵抗-300p, 生命-2000p ~ 石塔由守卫塔升级而来。石塔是加固王国最有效的方式。敌人一进入攻击范围就会遭到攻击，且攻击范围大于守卫塔。建议建造时让它们的攻击范围相互重叠，不给敌人留下无覆盖区域。
+also = B_C_GUARD_TOWER,B_C_STONE_GATE,B_C_STONE_WALL,WI_TECHNOLOGY
+requires = T_E_ARCHITECTURE
+icon = 2,33
+row1 = C_TOWERUP3
+
+[B_C_CANNON_TOWER]
+rollover = 了解更多 - 炮塔
+brief = 炮塔
+detail = 视野-15, 攻击-40, 攻击范围-10, 抵抗-300p, 生命-2500p ~ 炮塔由守卫塔升级而来。炮塔是守卫欧洲或阿拉伯王国最强大的方式。敌人一进入攻击范围就会遭到攻击，且攻击范围大于石塔。建议建造时让它们的攻击范围相互重叠，不给敌人留下无覆盖区域。
+also = B_C_STONE_TOWER,B_C_STONE_GATE,B_C_STONE_WALL,WI_TECHNOLOGY
+requires = T_E_CANNON_TOWER
+icon = 2,34
+
+[B_C_ROCKET_TOWER]
+rollover = 了解更多 - 火箭塔
+brief = 火箭塔
+detail = 造价-1000 木材/400 石头, 视野-25, 攻击-30, 攻击范围-20, 抵抗-300p, 生命-1400p ~ 火箭塔需要在商人行会研究必要科技后才能建造。火箭塔是守卫亚洲王国最强大的方式。敌人一进入攻击范围就会遭到攻击，且攻击范围大于其他任何箭塔。建议建造时让它们的攻击范围相互重叠，不给敌人留下无覆盖区域。
+also = B_C_STONE_TOWER,B_C_STONE_GATE,B_C_STONE_WALL,WI_TECHNOLOGY
+requires = T_A_ROCKET_ARROW
+icon = 2,35
+
+[B_C_DUMMY]
+rollover = 了解更多 - 假人
+brief = 假人
+detail = 造价-300 木材, 生命-5000p ~ 假人让玩家可以训练军队，从而在派兵出战前获得更高经验等级的单位。在战士公会研究越多提升经验上限的科技，单位的等级就越高。
+also = WI_TECHNOLOGY,T_E_LEARNING,T_E_HEROISM,T_E_WARFARE,T_E_BODY_BUILDING,T_A_SUN_TZU_BOOK
+requires = T_E_TACTICS
+icon = 2,27
+
+[B_C_MAGIC_GATEWAY]
+rollover = 了解更多 - 魔法传送门
+brief = 魔法传送门
+detail = 视野-10, 生命-2000p ~ 魔法传送门出现在地图上。必须占领魔法传送门才能使用它。只有军事单位可以占领。魔法传送门生产的单位属于占领它的玩家，玩家对其拥有完全控制权。
+also = U_C_ORK,U_C_SKELETON,U_C_DWARF,U_C_GHOST
+icon = 2,28
+row1 = U_C_ORK,U_C_GHOST
+row2 = U_C_SKELETON,U_C_DWARF
+
+[B_C_EVIL_CASTLE]
+rollover = 了解更多 - 邪恶城堡
+brief = 邪恶城堡
+detail = 视野-10, 生命-20000p ~ 邪恶城堡是弥赛亚统治的地方，只出现在战役中。
+also = U_C_MESSIAH
+icon = 2,29
+
+[T_E_FEUDALISM]
+rollover = 了解更多 - 封建制度
+brief = 封建制度
+detail = 造价-300 黄金 ~ 封建制度使农民的生产成本降低 20%。建议在游戏初期研究此科技，那时需要大量农民来发展经济。
+also = WI_TECHNOLOGY,U_E_PEASANT
+related = B_E_CASTLE
+icon = 3,1
+
+[T_E_ARCHITECTURE]
+rollover = 了解更多 - 建筑学
+brief = 建筑学
+detail = 造价-300 黄金 ~ 建筑学使任何建筑的建造速度提升 20%。
+also = B_C_STONE_WALL,B_C_STONE_GATE,B_C_BRIDGE,WI_TECHNOLOGY
+related = B_E_CASTLE
+allows = B_C_STONE_WALL,B_C_STONE_GATE,B_C_BRIDGE
+icon = 3,2
+
+[T_E_LEARNING]
+rollover = 了解更多 - 轮作
+brief = 轮作
+detail = 造价-400 黄金 ~ 轮作科技使农民在收割农田时多获得 2 点食物。
+also = WI_TECHNOLOGY,B_E_FARM,HT_COLLECTRES,WI_RESOURCES
+related = B_E_FARM
+allows = B_E_WARRIORS_GUILD
+icon = 3,4
+
+[T_E_DOMESTICATION]
+rollover = 了解更多 - 驯化术
+brief = 驯化术
+detail = 造价-300 黄金 ~ 驯化术科技允许在农场生产奶牛。
+also = U_C_COW,B_E_FARM,HT_COLLECTRES,WI_RESOURCES
+related = B_E_FARM
+allows = U_C_COW
+icon = 3,5
+
+[T_E_TEMPER_IRON]
+rollover = 了解更多 - 淬火术
+brief = 淬火术
+detail = 造价-300 黄金 ~ 淬火术科技使军事单位的刀剑攻击提升 1 点。
+also = WI_TECHNOLOGY,U_E_PIKEMAN
+related = B_E_BLACKSMITH
+allows = T_E_HALBERD
+icon = 3,6
+
+[T_E_PLATE_ARMOR]
+rollover = 了解更多 - 板甲
+brief = 板甲
+detail = 造价-1400 黄金 ~ 板甲科技允许生产骑士。
+also = WI_TECHNOLOGY,U_E_KNIGHT
+related = B_E_BLACKSMITH
+icon = 3,7
+
+[T_E_SCALE_ARMOR]
+rollover = 了解更多 - 鳞甲
+brief = 鳞甲
+detail = 造价-400 黄金 ~ 鳞甲科技使所有步兵单位的防御提升 1 点。
+also = WI_TECHNOLOGY,T_E_CHAIN_MAIL
+related = B_E_BLACKSMITH
+allows = T_E_CHAIN_MAIL
+icon = 3,8
+
+[T_E_CHAIN_MAIL]
+rollover = 了解更多 - 锁子甲
+brief = 锁子甲
+detail = 造价-400 黄金 ~ 锁子甲科技使所有步兵单位的防御提升 2 点。
+also = WI_TECHNOLOGY,T_E_SCALE_ARMOR
+related = B_E_BLACKSMITH
+requires = T_E_SCALE_ARMOR
+icon = 3,9
+
+[T_E_HALBERD]
+rollover = 了解更多 - 长戟
+brief = 长戟
+detail = 造价-600黄金 ~ 长戟科技使枪兵单位的生产成为可能。
+also = WI_TECHNOLOGY,U_E_PIKEMAN,B_E_BARRACKS
+related = B_E_BLACKSMITH
+requires = T_E_TEMPER_IRON
+allows = U_E_PIKEMAN
+icon = 3,10
+
+[T_E_SAW]
+rollover = 了解更多 - 锯
+brief = 锯
+detail = 造价-400 黄金 ~ 锯子科技使伐木工能多携带 2 点木材到伐木场。
+also = WI_TECHNOLOGY,U_E_PEASANT,HT_COLLECTRES,WI_RESOURCES
+related = B_E_LUMBER_MILL
+icon = 3,11
+
+[T_E_CROSSBOW]
+rollover = 了解更多 - 弩手
+brief = 弩手
+detail = 造价-400 黄金 ~ 弩科技使每支箭的攻击提升 1 点。
+also = U_E_ARCHER,U_E_LONGBOWMAN
+related = B_E_LUMBER_MILL
+icon = 3,12
+
+[T_E_LONGBOW]
+rollover = 了解更多 - 长弓
+brief = 长弓
+detail = 造价-700 黄金 ~ 长弓科技使长弓手可用。
+also = U_E_LONGBOWMAN,WI_TECHNOLOGY
+related = B_E_LUMBER_MILL
+allows = U_E_LONGBOWMAN
+icon = 3,13
+
+[T_E_GOLD_MINING]
+rollover = 了解更多 - 浮选
+brief = 浮选
+detail = 造价-300 黄金 ~ 浮选科技使矿工携带的资源增加 15%。
+also = WI_TECHNOLOGY,HT_COLLECTRES,WI_RESOURCES
+related = B_R_MERCHANTS_GUILD
+icon = 3,79
+
+[T_E_STONE_MINING]
+rollover = 了解更多 - 石矿开采
+brief = 石矿开采
+detail = 造价-400 黄金 ~ 石矿开采科技使矿工能从矿场多携带 2 点石头。
+also = U_E_PEASANT,HT_COLLECTRES,WI_RESOURCES,B_E_STORAGE
+related = B_E_STORAGE
+icon = 3,15
+
+[T_E_ENGINEERING]
+rollover = 了解更多 - 工程学
+brief = 工程学
+detail = 造价-400 黄金 ~ 工程学科技使投石车和重型投石车的攻击提升 5 点。
+also = U_C_CATAPULT,U_C_HEAVY_CATAPULT
+related = B_E_WORKSHOP
+icon = 3,16
+
+[T_E_CANNON_TOWER]
+rollover = 了解更多 - 炮塔
+brief = 炮塔
+detail = 造价-400 黄金 ~ 炮塔科技使石塔升级为炮塔成为可能。
+also = B_C_STONE_TOWER,WI_TECHNOLOGY
+related = B_E_WORKSHOP
+allows = B_C_CANNON_TOWER
+icon = 3,17
+
+[T_E_HEROISM]
+rollover = 了解更多 - 英雄主义
+brief = 英雄主义
+detail = 造价-500 黄金 ~ 英雄主义科技允许单位获得无限经验，使玩家能将其部分单位转化为英雄。
+also = WI_TECHNOLOGY,T_E_LEADERSHIP,WI_HERO
+related = B_E_WARRIORS_GUILD
+allows = T_E_LEADERSHIP
+icon = 3,18
+
+[T_E_LEADERSHIP]
+rollover = 了解更多 - 领导力
+brief = 领导力
+detail = 造价-500 黄金 ~ 领导力科技允许英雄周围的单位获得经验。
+also = WI_TECHNOLOGY,T_E_HEROISM,WI_HERO
+related = B_E_WARRIORS_GUILD
+requires = T_E_HEROISM
+allows = T_E_HONOR
+icon = 3,19
+
+[T_E_HONOR]
+rollover = 了解更多 - 荣耀
+brief = 荣耀
+detail = 造价-500 黄金 ~ 荣耀科技使英雄在与其他英雄战斗时攻击提升 50%。
+also = WI_TECHNOLOGY,T_E_LEADERSHIP,WI_HERO
+related = B_E_WARRIORS_GUILD
+requires = T_E_LEADERSHIP
+icon = 3,20
+
+[T_E_WARFARE]
+rollover = 了解更多 - 战争学
+brief = 战争学
+detail = 造价-400 黄金 ~ 战争学科技加快所有单位的学习进程。
+also = WI_TECHNOLOGY,T_E_TACTICS,WI_HERO
+related = B_E_WARRIORS_GUILD
+allows = T_E_TACTICS
+icon = 3,21
+
+[T_E_MERCENARIES]
+rollover = 了解更多 - 雇佣兵
+brief = 雇佣兵
+detail = 造价-600 黄金 ~ 佣兵科技允许在酒馆招募佣兵。
+also = WI_TECHNOLOGY,T_E_HEROES_QUEST,WI_HERO
+related = B_E_WARRIORS_GUILD
+allows = T_E_HEROES_QUEST
+icon = 3,22
+
+[T_E_HEROES_QUEST]
+rollover = 了解更多 - 英雄任务
+brief = 英雄任务
+detail = 造价-800 黄金 ~ 英雄任务科技允许在酒馆招募英雄。
+also = WI_TECHNOLOGY,T_E_MERCENARIES,T_E_FAME,WI_HERO
+related = B_E_WARRIORS_GUILD
+requires = T_E_MERCENARIES
+allows = T_E_FAME
+icon = 3,23
+
+[T_E_FAME]
+rollover = 了解更多 - 名声
+brief = 名声
+detail = 造价-500 黄金 ~ 名声科技允许在酒馆招募更好、更便宜、更有经验的佣兵。
+also = WI_TECHNOLOGY,T_E_HEROES_QUEST,WI_HERO
+related = B_E_WARRIORS_GUILD
+requires = T_E_HEROES_QUEST
+icon = 3,24
+
+[T_E_TACTICS]
+rollover = 了解更多 - 战术
+brief = 战术
+detail = 造价-800 黄金 ~ 战术科技加快单位的学习进程。
+also = WI_TECHNOLOGY,T_E_WARFARE,WI_HERO,B_C_DUMMY
+related = B_E_WARRIORS_GUILD
+requires = T_E_WARFARE
+allows = B_C_DUMMY
+icon = 3,25
+
+[T_E_SIEGE_TACTICS]
+rollover = 了解更多 - 攻城战术
+brief = 攻城战术
+detail = 造价-1200 黄金 ~ 攻城战术科技允许在工坊生产重型投石车。
+also = WI_TECHNOLOGY,U_C_HEAVY_CATAPULT,WI_SIEGE_WEAPON,B_E_WORKSHOP
+related = B_E_WARRIORS_GUILD
+allows = U_C_HEAVY_CATAPULT
+icon = 3,26
+
+[T_E_BODY_BUILDING]
+rollover = 了解更多 - 强身术
+brief = 强身术
+detail = 造价-1200 黄金 ~ 强身术科技使单位每升一级生命值增加 5 点。
+also = WI_TECHNOLOGY,WI_HERO
+related = B_E_WARRIORS_GUILD
+icon = 3,27
+
+[T_E_LANDING_TACTICS]
+rollover = 了解更多 - 登陆战术
+brief = 登陆战术
+detail = 造价-300 黄金 ~ 登陆战术科技允许船只多搭载 50% 的单位。
+also = WI_TECHNOLOGY,B_E_HARBOR,U_C_XEBEC,U_C_HULK,U_C_GALLEON
+related = B_E_HARBOR
+icon = 3,28
+
+[T_E_FANATICISM]
+rollover = 了解更多 - 狂热
+brief = 狂热
+detail = 造价-400 黄金 ~ 狂热科技使建筑的抵抗提升 50%。
+also = WI_TECHNOLOGY,B_E_CATHEDRAL,T_E_CRUSADE
+related = B_E_CATHEDRAL
+allows = T_E_CRUSADE
+icon = 3,29
+
+[T_E_CRUSADE]
+rollover = 了解更多 - 十字军
+brief = 十字军
+detail = 造价-1400 黄金 ~ 十字军科技使发起十字军成为可能。20 名十字军战士会逐一出现在选定位置，组成一支令人生畏的军队。
+also = WI_TECHNOLOGY,B_E_CATHEDRAL,T_E_FANATICISM,C_PREACHCRUSADE
+related = B_E_CATHEDRAL
+requires = T_E_FANATICISM
+icon = 3,30
+
+[T_E_ESPIONAGE]
+rollover = 了解更多 - 谍报术
+brief = 谍报术
+detail = 造价-400 黄金 ~ 谍报术科技允许在城堡生产间谍。
+also = WI_TECHNOLOGY,B_E_CATHEDRAL,U_E_SPY
+related = B_E_CATHEDRAL
+allows = U_E_SPY
+icon = 3,31
+
+[T_E_BLESS]
+rollover = 了解更多 - 祝福
+brief = 祝福
+detail = 造价-400 黄金 ~ 祝福科技使单位的攻击提升 8 点，并允许牧师祝福单位。
+also = WI_TECHNOLOGY,B_E_CATHEDRAL,U_E_PRIEST
+related = B_E_CATHEDRAL
+allows = C_BLESS
+icon = 3,32
+
+[T_E_HEALING]
+rollover = 了解更多 - 治疗
+brief = 治疗
+detail = 造价-400 黄金 ~ 治疗科技使治疗术可用，并允许牧师治疗单位。
+also = WI_TECHNOLOGY,B_E_CATHEDRAL,U_E_PRIEST,T_E_MEDICINE,C_HEAL
+related = B_E_CATHEDRAL
+allows = T_E_MEDICINE,C_HEAL
+icon = 3,34
+
+[T_E_MEDICINE]
+rollover = 了解更多 - 医学
+brief = 医学
+detail = 造价-500 黄金 ~ 医学科技允许牧师在更远距离治疗。
+also = WI_TECHNOLOGY,B_E_CATHEDRAL,U_E_PRIEST,T_E_HEALING
+related = B_E_CATHEDRAL
+requires = T_E_HEALING
+icon = 3,33
+
+[T_E_INQUISITION]
+rollover = 了解更多 - 异端审判
+brief = 异端审判
+detail = 造价-400 黄金 ~ 异端审判科技使驱魔术的效果提升 5 点。
+also = WI_TECHNOLOGY,B_E_CATHEDRAL,U_E_PRIEST
+related = B_E_CATHEDRAL
+icon = 3,35
+
+[T_E_TRADE_ROUTES]
+rollover = 了解更多 - 贸易路线
+brief = 贸易路线
+detail = 造价-400 黄金 ~ 贸易路线科技允许用商队和船只进行贸易。
+also = WI_TECHNOLOGY,B_E_MERCHANTS_GUILD,HT_TRADE,U_E_CARAVAN,T_E_MAP_MAKING
+related = B_E_MERCHANTS_GUILD
+allows = T_E_MAP_MAKING
+icon = 3,36
+
+[T_E_MAP_MAKING]
+rollover = 了解更多 - 制图学
+brief = 制图学
+detail = 造价-800 黄金 ~ 制图学科技使大帆船的建造成为可能。
+also = WI_TECHNOLOGY,B_E_MERCHANTS_GUILD,U_C_GALLEON,B_E_HARBOR
+related = B_E_MERCHANTS_GUILD
+requires = T_E_TRADE_ROUTES
+allows = U_C_GALLEON
+icon = 3,37
+
+[T_E_USURY]
+rollover = 了解更多 - 高利贷
+brief = 高利贷
+detail = 造价-300 黄金 ~ 高利贷科技允许玩家在酒馆获取贷款。
+also = WI_TECHNOLOGY,B_E_MERCHANTS_GUILD,B_E_TAVERN
+related = B_E_MERCHANTS_GUILD
+allows = T_E_GAMBLING,C_LOAN
+icon = 3,38
+
+[T_E_GAMBLING]
+rollover = 了解更多 - 赌博
+brief = 赌博
+detail = 造价-500 黄金 ~ 赌博科技允许玩家在酒馆赌博。
+also = WI_TECHNOLOGY,B_E_MERCHANTS_GUILD,B_E_TAVERN,T_E_USURY
+related = B_E_MERCHANTS_GUILD
+requires = T_E_USURY
+allows = C_GAMBLING
+icon = 3,39
+
+[T_E_SUPPLY_STORAGE]
+rollover = 了解更多 - 补给仓库
+brief = 补给仓库
+detail = 造价-500 黄金 ~ 补给仓库科技使人口上限提升 50%。
+also = WI_TECHNOLOGY,B_E_MERCHANTS_GUILD,WI_POP_LIMIT
+related = B_E_MERCHANTS_GUILD
+icon = 3,40
+
+[T_E_BRIBERY]
+rollover = 了解更多 - 贿赂
+brief = 贿赂
+detail = 造价-300 黄金 ~ 贿赂科技允许农民贿赂敌方单位。
+also = WI_TECHNOLOGY,B_E_MERCHANTS_GUILD,HT_BRIBE
+related = B_E_MERCHANTS_GUILD
+allows = C_BRIBE
+icon = 3,41
+
+[T_E_TRADE_TAXES]
+rollover = 了解更多 - 贸易税
+brief = 贸易税
+detail = 造价-500 黄金 ~ 贸易税科技使贸易利润提升 5%。
+also = WI_TECHNOLOGY,B_E_MERCHANTS_GUILD,HT_TRADE
+related = B_E_MERCHANTS_GUILD
+icon = 3,42
+
+[T_E_BAT]
+rollover = 了解更多 - 蝙蝠
+brief = 蝙蝠
+detail = 造价-400 黄金 ~ 蝙蝠科技使法师能召唤蝙蝠。
+also = WI_TECHNOLOGY,U_E_MAGE,U_C_BAT
+related = B_E_MAGE_TOWER
+allows = T_E_STONE_GOLEM, C_SPAWNBAT
+icon = 3,43
+
+[T_E_STONE_GOLEM]
+rollover = 了解更多 - 石巨人
+brief = 石巨人
+detail = 造价-800 黄金 ~ 石巨人科技使法师能召唤石巨人。
+also = WI_TECHNOLOGY,U_E_MAGE,U_C_STONE_GOLEM
+related = B_E_MAGE_TOWER
+requires = T_E_BAT
+allows = C_SPAWNSTONEGOLEM
+icon = 3,44
+
+[T_E_INVISIBILITY]
+rollover = 了解更多 - 隐身术
+brief = 隐身术
+detail = 造价-500 黄金 ~ 隐身科技使法师能在有限时间内让单位隐身。
+also = WI_TECHNOLOGY,U_E_MAGE,B_E_MAGE_TOWER,WI_SPELLS
+related = B_E_MAGE_TOWER
+allows = C_INVISIBILITY
+icon = 3,45
+
+[T_E_LIGHTNING]
+rollover = 了解更多 - 闪电
+brief = 闪电
+detail = 造价-400 黄金 ~ 闪电科技使法师能使用闪电术。
+also = WI_TECHNOLOGY,U_E_MAGE,B_E_MAGE_TOWER,WI_SPELLS
+related = B_E_MAGE_TOWER
+allows = C_LIGHTNING
+icon = 3,46
+
+[T_E_FREEZE]
+rollover = 了解更多 - 冰冻
+brief = 冰冻
+detail = 造价-800 黄金 ~ 冰冻科技使法师能使用冰冻术。
+also = WI_TECHNOLOGY,U_E_MAGE,WI_SPELLS
+related = B_E_MAGE_TOWER
+allows = C_FREEZE
+icon = 3,47
+
+[T_A_FEUDALISM]
+rollover = 了解更多 - 封建制度
+brief = 封建制度
+detail = 造价-300 黄金 ~ 封建制度使农民的生产成本降低 20%。建议在游戏初期研究此科技，那时需要大量农民来发展经济。
+also = WI_TECHNOLOGY,U_A_PEASANT
+related = B_A_CASTLE
+icon = 3,1
+
+[T_A_ARCHITECTURE]
+rollover = 了解更多 - 建筑学
+brief = 建筑学
+detail = 造价-300 黄金 ~ 建筑学使任何建筑的建造速度提升 20%。
+also = B_C_STONE_WALL,B_C_STONE_GATE,B_C_BRIDGE,WI_TECHNOLOGY
+related = B_A_CASTLE
+allows = B_C_STONE_WALL,B_C_STONE_GATE,B_C_BRIDGE,T_A_GREAT_WALL
+icon = 3,2
+
+[T_A_LEARNING]
+rollover = 了解更多 - 学术研究
+brief = 学术研究
+detail = 造价-400黄金 ~ 学术研究使单位最多能获得 4 级经验。
+also = B_A_WARRIORS_GUILD,WI_TECHNOLOGY
+related = B_A_CASTLE
+allows = B_A_WARRIORS_GUILD
+icon = 3,3
+
+[T_A_GREAT_WALL]
+rollover = 了解更多 - 长城
+brief = 长城
+detail = 造价-600 黄金 ~ 使石墙和箭塔的生命值提升 30%。
+also = WI_TECHNOLOGY,B_C_STONE_WALL,B_C_STONE_TOWER
+related = B_A_CASTLE
+requires = T_A_ARCHITECTURE
+icon = 3,48
+
+[T_A_BUDHISM]
+rollover = 了解更多 - 轮作
+brief = 轮作
+detail = 造价-400 黄金 ~ 轮作科技使农民在收割农田时多获得 2 点食物。
+also = WI_TECHNOLOGY,B_A_FARM,HT_COLLECTRES,WI_RESOURCES
+related = B_A_FARM
+allows = T_A_IRRIGATION
+icon = 3,4
+
+[T_A_IRRIGATION]
+rollover = 了解更多 - 灌溉
+brief = 灌溉
+detail = 造价-400 黄金 ~ 灌溉科技使农民在收割农田时多获得 3 点食物。
+also = WI_TECHNOLOGY,B_A_FARM,HT_COLLECTRES,WI_RESOURCES
+related = B_A_FARM
+requires = T_A_ROTATING FIELDS
+icon = 3,50
+
+[T_A_ART_OF_RIDING]
+rollover = 了解更多 - 骑射术
+brief = 骑射术
+detail = 造价-400 黄金 ~ 骑射术科技允许在兵营生产骑射手。
+also = WI_TECHNOLOGY,B_A_FARM,U_A_HORSE_ARCHER,B_A_BARRACKS
+related = B_A_FARM
+allows = U_A_HORSE_ARCHER
+icon = 3,51
+
+[T_A_TEMPER_IRON]
+rollover = 了解更多 - 淬火术
+brief = 淬火术
+detail = 造价-400 黄金 ~ 淬火术科技使军事单位的刀剑攻击提升 1 点。
+also = WI_TECHNOLOGY
+related = B_A_BLACKSMITH
+icon = 3,6
+
+[T_A_SCALE_ARMOR]
+rollover = 了解更多 - 鳞甲
+brief = 鳞甲
+detail = 造价-400 黄金 ~ 鳞甲科技使所有步兵单位的防御提升 1 点。
+also = WI_TECHNOLOGY,T_A_CHAIN_MAIL
+related = B_A_BLACKSMITH
+allows = T_A_CHAIN_MAIL
+icon = 3,8
+
+[T_A_CHAIN_MAIL]
+rollover = 了解更多 - 锁子甲
+brief = 锁子甲
+detail = 造价-400 黄金 ~ 锁子甲科技使所有步兵单位的防御提升 2 点。
+also = WI_TECHNOLOGY,T_A_SCALE_ARMOR
+related = B_A_BLACKSMITH
+requires = T_A_SCALE_ARMOR
+icon = 3,9
+
+[T_A_CHARIOT]
+rollover = 了解更多 - 装甲战车
+brief = 装甲战车
+detail = 造价-300 黄金 ~ 装甲战车科技使兵营中装甲战车可用。
+also = WI_TECHNOLOGY,U_A_CHARIOT,B_A_BARRACKS
+related = B_A_BLACKSMITH
+allows = U_A_CHARIOT
+icon = 3,52
+
+[T_A_SAW]
+rollover = 了解更多 - 锯
+brief = 锯
+detail = 造价-400 黄金 ~ 锯子科技使伐木工能多携带 2 点木材到伐木场。
+also = WI_TECHNOLOGY,U_A_PEASANT,HT_COLLECTRES,WI_RESOURCES
+related = B_A_LUMBER_MILL
+icon = 3,11
+
+[T_A_CROSSBOW]
+rollover = 了解更多 - 弩手
+brief = 弩手
+detail = 造价-400 黄金 ~ 弩科技使任何弓箭攻击提升 1 点。
+also = U_A_ARCHER
+related = B_A_LUMBER_MILL
+icon = 3,12
+
+[T_A_GOLD_MINING]
+rollover = 了解更多 - 金矿开采
+brief = 金矿开采
+detail = 造价-400 黄金 ~ 金矿开采科技使矿工能从矿场多携带 2 点黄金。
+also = U_A_PEASANT,HT_COLLECTRES,WI_RESOURCES,B_A_STORAGE
+related = B_A_STORAGE
+icon = 3,14
+
+[T_A_STONE_MINING]
+rollover = 了解更多 - 石矿开采
+brief = 石矿开采
+detail = 造价-400 黄金 ~ 石矿开采科技使矿工能从矿场多携带 2 点石头。
+also = U_A_PEASANT,HT_COLLECTRES,WI_RESOURCES,B_A_STORAGE
+related = B_A_STORAGE
+icon = 3,15
+
+[T_A_ENGINEERING]
+rollover = 了解更多 - 工程学
+brief = 工程学
+detail = 造价-400 黄金 ~ 工程学科技使投石车的攻击提升 5 点。
+also = U_C_CATAPULT,WI_SIEGE_WEAPON
+related = B_A_WORKSHOP
+icon = 3,16
+
+[T_A_CANNON_TOWER]
+rollover = 了解更多 - 炮塔
+brief = 炮塔
+detail = 造价-400 黄金 ~ 炮塔科技使石塔升级为炮塔成为可能。
+also = B_C_STONE_TOWER,WI_TECHNOLOGY
+related = B_A_WORKSHOP
+allows = B_C_CANNON_TOWER
+icon = 3,17
+
+[T_A_HEROISM]
+rollover = 了解更多 - 英雄主义
+brief = 英雄主义
+detail = 造价-500 黄金 ~ 英雄主义科技允许单位获得无限经验，使玩家能将其部分单位转化为英雄。
+also = WI_TECHNOLOGY,T_A_LEADERSHIP,WI_HERO
+related = B_A_WARRIORS_GUILD
+allows = T_A_LEADERSHIP
+icon = 3,18
+
+[T_A_LEADERSHIP]
+rollover = 了解更多 - 领导力
+brief = 领导力
+detail = 造价-500黄金 ~ 领导力科技允许英雄周围的单位获得经验。
+also = WI_TECHNOLOGY,T_A_HEROISM,WI_HERO
+related = B_A_WARRIORS_GUILD
+requires = T_A_HEROISM
+allows = T_A_HONOR
+icon = 3,19
+
+[T_A_HONOR]
+rollover = 了解更多 - 荣耀
+brief = 荣耀
+detail = 造价-500 黄金 ~ 荣耀科技使英雄在与其他英雄战斗时攻击提升 50%。
+also = WI_TECHNOLOGY,T_A_LEADERSHIP,WI_HERO
+related = B_A_WARRIORS_GUILD
+requires = T_A_LEADERSHIP
+icon = 3,20
+
+[T_A_SUN_TZU_BOOK]
+rollover = 了解更多 - 孙子兵法
+brief = 孙子兵法
+detail = 造价-600 黄金 ~ 孙子兵法科技加快单位的学习进程。
+also = WI_TECHNOLOGY,T_A_TACTICS,WI_HERO
+related = B_A_WARRIORS_GUILD
+requires = T_A_TACTICS
+icon = 3,86
+
+[T_A_WARFARE]
+rollover = 了解更多 - 战争学
+brief = 战争学
+detail = 造价-400 黄金 ~ 战争学科技加快所有单位的学习进程。
+also = WI_TECHNOLOGY,T_A_TACTICS,WI_HERO
+related = B_A_WARRIORS_GUILD
+allows = T_A_TACTICS
+icon = 3,21
+
+[T_A_TACTICS]
+rollover = 了解更多 - 战术
+brief = 战术
+detail = 造价-800 黄金 ~ 战术科技加快单位的学习进程。
+also = WI_TECHNOLOGY,T_A_WARFARE,WI_HERO,B_C_DUMMY
+related = B_A_WARRIORS_GUILD
+requires = T_A_WARFARE
+allows = T_A_SUN_TZU_BOOK,B_C_DUMMY
+icon = 3,25
+
+[T_A_MERCENARIES]
+rollover = 了解更多 - 雇佣兵
+brief = 雇佣兵
+detail = 造价-600 黄金 ~ 佣兵科技允许在酒馆招募佣兵。
+also = WI_TECHNOLOGY,T_A_HEROES_QUEST,WI_HERO
+related = B_A_WARRIORS_GUILD
+allows = T_A_HEROES_QUEST
+icon = 3,22
+
+[T_A_HEROES_QUEST]
+rollover = 了解更多 - 英雄任务
+brief = 英雄任务
+detail = 造价-800 黄金 ~ 英雄任务科技允许在酒馆招募英雄。
+also = WI_TECHNOLOGY,T_A_MERCENARIES,WI_HERO
+related = B_A_WARRIORS_GUILD
+requires = T_A_MERCENARIES
+icon = 3,23
+
+[T_A_BUSHIDO]
+rollover = 了解更多 - 武士道
+brief = 武士道
+detail = 造价-500 黄金 ~ 武士道科技允许在兵营生产骑马武士。
+also = WI_TECHNOLOGY,B_A_BARRACKS,U_A_HORSE_SAMURAI
+related = B_A_WARRIORS_GUILD
+allows = U_A_HORSE_SAMURAI
+icon = 3,53
+
+[T_A_MEDITATION]
+rollover = 了解更多 - 冥想
+brief = 冥想
+detail = 造价-300 黄金 ~ 冥想科技使僧侣的生产成本降低 25%。
+also = WI_TECHNOLOGY,U_A_PHILOSOPHY,U_A_MONK
+related = B_A_SHAO_LINN
+allows = U_A_PHILOSOPHY
+icon = 3,54
+
+[T_A_PHILOSOPHY]
+rollover = 了解更多 - 哲学
+brief = 哲学
+detail = 造价-400 黄金 ~ 哲学科技使僧侣在生产时即达到 2 级。
+also = WI_TECHNOLOGY,T_A_MEDITATION,U_A_MONK
+related = B_A_SHAO_LINN
+requires = T_A_MEDITATION
+icon = 3,55
+
+[T_A_KUNG_FU]
+rollover = 了解更多 - 功夫
+brief = 功夫
+detail = 造价-400 黄金 ~ 功夫科技使所有功夫单位（农民、僧侣和牧师）的攻击提升 1 点。
+also = WI_TECHNOLOGY,T_A_NINJA,T_A_TOURNAMENTS,T_A_MASTERY,U_A_NINJA
+related = B_A_SHAO_LINN
+allows = T_A_NINJAS,T_A_TOURNAMENTS,T_A_MASTERY
+icon = 3,56
+
+[T_A_NINJAS]
+rollover = 了解更多 - 忍者
+brief = 忍者
+detail = 造价-500 黄金 ~ 忍者科技允许在城堡生产忍者。
+also = WI_TECHNOLOGY,U_A_NINJA,B_A_CASTLE
+related = B_A_SHAO_LINN
+requires = T_A_KUNG_FU
+allows = U_A_NINJA
+icon = 3,59
+
+[T_A_MASTERY]
+rollover = 了解更多 - 精通
+brief = 精通
+detail = 造价-500 黄金 ~ 精通科技允许牧师将单位训练到自己的等级。
+also = WI_TECHNOLOGY,U_A_PRIEST
+related = B_A_SHAO_LINN
+requires = T_A_KUNG_FU
+icon = 3,58
+
+[T_A_TOURNAMENTS]
+rollover = 了解更多 - 锦标赛
+brief = 锦标赛
+detail = 造价-800 黄金 ~ 锦标赛科技允许功夫单位（农民、僧侣和牧师）共享经验。
+also = WI_TECHNOLOGY,U_A_PRIEST,U_A_MONK,U_A_PEASANT
+related = B_A_SHAO_LINN
+requires = T_A_KUNG_FU
+icon = 3,57
+
+[T_A_HEALING]
+rollover = 了解更多 - 治疗
+brief = 治疗
+detail = 造价-400 黄金 ~ 治疗科技使治疗术可用，并允许牧师治疗单位。
+also = WI_TECHNOLOGY,B_A_SHAO_LINN,U_A_PRIEST,T_A_MEDICINE,C_HEAL
+related = B_A_SHAO_LINN
+allows = T_A_MEDICINE,C_HEAL
+icon = 3,34
+
+[T_A_MEDICINE]
+rollover = 了解更多 - 医学
+brief = 医学
+detail = 造价-500 黄金 ~ 医学科技允许牧师在更远距离治疗。
+also = WI_TECHNOLOGY,B_A_SHAO_LINN,U_A_PRIEST,T_A_HEALING
+related = B_E_SHAO_LINN
+requires = T_A_HEALING
+icon = 3,33
+
+[T_A_TRADE_ROUTES]
+rollover = 了解更多 - 贸易路线
+brief = 贸易路线
+detail = 造价-400 黄金 ~ 贸易路线科技允许与农民交易。
+also = WI_TECHNOLOGY,B_A_MERCHANTS_GUILD,HT_TRADE,U_A_PEASANT
+related = B_A_MERCHANTS_GUILD
+icon = 3,36
+
+[T_A_USURY]
+rollover = 了解更多 - 高利贷
+brief = 高利贷
+detail = 造价-300 黄金 ~ 高利贷科技允许玩家在酒馆获取贷款。
+also = WI_TECHNOLOGY,B_A_MERCHANTS_GUILD,B_A_TAVERN
+related = B_E_MERCHANTS_GUILD
+allows = C_LOAN
+icon = 3,38
+
+[T_A_BANKING]
+rollover = 了解更多 - 银行学
+brief = 银行学
+detail = 造价-600 黄金 ~ 银行学科技每 3 分钟为国库增加 2% 的资源。
+also = WI_TECHNOLOGY,B_A_MERCHANTS_GUILD,HT_TRADE,U_A_PEASANT
+related = B_A_MERCHANTS_GUILD
+icon = 3,60
+
+[T_A_SUPPLY_STORAGE]
+rollover = 了解更多 - 补给仓库
+brief = 补给仓库
+detail = 造价-500 黄金 ~ 补给仓库科技使人口上限提升 50%。
+also = WI_TECHNOLOGY,B_A_MERCHANTS_GUILD,T_A_SEAFOOD,WI_POP_LIMIT
+related = B_A_MERCHANTS_GUILD
+allows = T_A_SEAFOOD
+icon = 3,40
+
+[T_A_SEAFOOD]
+rollover = 了解更多 - 海产
+brief = 海产
+detail = 造价-500 黄金 ~ 海产科技使人口上限提升 25%。
+also = WI_TECHNOLOGY,B_A_MERCHANTS_GUILD,T_A_SUPPLY_STORAGE,WI_POP_LIMIT
+related = B_A_MERCHANTS_GUILD
+requires = T_A_SUPPLY_STORAGE
+icon = 3,61
+
+[T_A_JEWELRY]
+rollover = 了解更多 - 珠宝
+brief = 珠宝
+detail = 造价-400 黄金 ~ 珠宝科技允许在市场交易魔法物品。
+also = WI_TECHNOLOGY,B_A_MARKET,WI_ITEMS
+related = B_A_MERCHANTS_GUILD
+allows = C_BUYITEM,C_SELLITEM
+icon = 3,62
+
+[T_A_CHEMISTRY]
+rollover = 了解更多 - 化学
+brief = 化学
+detail = 造价-500 黄金 ~ 化学科技使火焰箭的攻击潜力提升 2 点。
+also = WI_TECHNOLOGY
+related = B_A_MERCHANTS_GUILD
+allows = T_A_GUNPOWDER
+icon = 3,65
+
+[T_A_GUNPOWDER]
+rollover = 了解更多 - 火药
+brief = 火药
+detail = 造价-500 黄金 ~ 火药科技使炮塔的攻击潜力提升 10%。
+also = WI_TECHNOLOGY,T_A_CHEMISTRY,T_A_ROCKET_ARROW,B_C_CANNON_TOWER
+related = B_A_MERCHANTS_GUILD
+requires = T_A_CHEMISTRY
+allows = T_A_ROCKET_ARROW
+icon = 3,63
+
+[T_A_ROCKET_ARROW]
+rollover = 了解更多 - 火箭箭
+brief = 火箭箭
+detail = 造价-800 黄金 ~ 火箭箭科技使火箭塔可用。
+also = WI_TECHNOLOGY,T_A_GUNPOWDER,B_C_ROCKET_TOWER
+related = B_A_MERCHANTS_GUILD
+requires = T_A_GUNPOWDER
+allows = B_C_ROCKET_TOWER
+icon = 3,64
+
+[T_A_CONCENTRATION]
+rollover = 了解更多 - 专注
+brief = 专注
+detail = 造价-400 黄金 ~ 专注科技加快所有法力单位的法力恢复。
+also = WI_TECHNOLOGY,WI_SPELLS,U_A_MAGE,T_A_CONFUSION
+related = B_A_MAGE_TOWER
+allows = T_A_CONFUSION
+icon = 3,66
+
+[T_A_CONFUSION]
+rollover = 了解更多 - 混乱
+brief = 混乱
+detail = 造价-400 黄金 ~ 混乱科技使法师能使用混乱术。
+also = WI_TECHNOLOGY,WI_SPELLS,U_A_MAGE,T_A_CONCENTRATION
+related = B_A_MAGE_TOWER
+requires = T_A_CONCENTRATION
+allows = C_CONFUSION
+icon = 3,67
+
+[T_A_WHIRLPOOL]
+rollover = 了解更多 - 漩涡
+brief = 漩涡
+detail = 造价-300 黄金 ~ 漩涡科技使法师能使用漩涡术。
+also = WI_TECHNOLOGY,WI_SPELLS,U_A_MAGE
+related = B_A_MAGE_TOWER
+allows = C_WHIRLPOOL
+icon = 3,68
+
+[T_A_FLAMEBOLT]
+rollover = 了解更多 - 火焰箭
+brief = 火焰箭
+detail = 造价-400 黄金 ~ 火焰箭科技使法师能使用火焰箭术。
+also = WI_TECHNOLOGY,WI_SPELLS,U_A_MAGE,U_A_DRAGON
+related = B_A_MAGE_TOWER
+allows = C_FLAMEBOLT,T_A_DRAGON
+icon = 3,69
+
+[T_A_DRAGON]
+rollover = 了解更多 - 龙
+brief = 龙
+detail = 造价-800 黄金 ~ 龙科技使法师能召唤龙。
+also = WI_TECHNOLOGY,WI_SPELLS,U_A_MAGE,U_A_DRAGON
+related = B_A_MAGE_TOWER
+requires = T_A_FLAMEBOLT
+allows = C_SPAWNDRAGON
+icon = 3,70
+
+[T_A_TURN_TO_STONE]
+rollover = 了解更多 - 石化
+brief = 石化
+detail = 造价-300 黄金 ~ 石化科技使法师能使用石化术。
+also = WI_TECHNOLOGY,WI_SPELLS,U_A_MAGE
+related = B_A_MAGE_TOWER
+allows = C_TURNTOSTONE
+icon = 3,71
+
+[T_R_FEUDALISM]
+rollover = 了解更多 - 封建制度
+brief = 封建制度
+detail = 造价-300 黄金 ~ 封建制度使农民的生产成本降低 20%。建议在游戏初期研究此科技，那时需要大量农民来发展经济。
+also = WI_TECHNOLOGY,U_R_PEASANT,T_R_SLAVERY
+related = B_R_CASTLE
+allows = T_R_SLAVERY
+icon = 3,1
+
+[T_R_SLAVERY]
+rollover = 了解更多 - 奴隶制
+brief = 奴隶制
+detail = 造价-200 黄金 ~ 奴隶制使农民的生产成本降低 20%。建议在游戏初期研究此科技，那时需要大量农民来发展经济。
+also = WI_TECHNOLOGY,U_R_PEASANT,T_R_FEUDALISM
+related = B_R_CASTLE
+requires = T_R_FEUDALISM
+icon = 3,72
+
+[T_R_ARCHITECTURE]
+rollover = 了解更多 - 建筑学
+brief = 建筑学
+detail = 造价-300 黄金 ~ 建筑学使任何建筑的建造速度提升 20%。
+also = B_C_STONE_WALL,B_C_STONE_GATE,B_C_BRIDGE,WI_TECHNOLOGY
+related = B_R_CASTLE
+allows = B_C_STONE_WALL,B_C_STONE_GATE,B_C_BRIDGE
+icon = 3,2
+
+[T_R_LEARNING]
+rollover = 了解更多 - 轮作
+brief = 轮作
+detail = 造价-400 黄金 ~ 轮作科技使农民在收割农田时多获得 2 点食物。
+also = WI_TECHNOLOGY,B_R_FARM,HT_COLLECTRES,WI_RESOURCES
+related = B_R_FARM
+allows = B_R_WARRIORS_GUILD
+icon = 3,4
+
+[T_R_DOMESTICATION]
+rollover = 了解更多 - 驯化术
+brief = 驯化术
+detail = 造价-300 黄金 ~ 驯化术科技允许在农场生产奶牛。
+also = U_C_COW,B_R_FARM,HT_COLLECTRES,WI_RESOURCES
+related = B_R_FARM
+allows = U_C_COW
+icon = 3,5
+
+[T_R_COW_POACHING]
+rollover = 了解更多 - 偷牛
+brief = 偷牛
+detail = 造价-200 黄金 ~ 偷牛科技允许农民偷取奶牛。
+also = U_C_COW,B_R_FARM,HT_COLLECTRES,WI_RESOURCES
+related = B_R_FARM
+icon = 3,73
+
+[T_R_ART_OF_RIDING]
+rollover = 了解更多 - 骑射术
+brief = 骑射术
+detail = 造价-400 黄金 ~ 骑射术科技使兵营中骑射手可用。
+also = T_R_HORSEMANSHIP,U_R_HORSE_ARCHER,B_R_BARRACK
+related = B_R_FARM
+allows = T_R_HORSEMANSHIP,U_R_HOSRE_ARCHER
+icon = 3,51
+
+[T_R_HORSEMANSHIP]
+rollover = 了解更多 - 骑术
+brief = 骑术
+detail = 造价-400 黄金 ~ 骑术科技使所有骑兵单位更便宜。
+also = T_R_HORSEMANSHIP,B_R_BARRACK,T_R_ART_OF_RIDING
+related = B_R_FARM
+requires = T_R_ART_OF_RIDING
+icon = 3,74
+
+[T_R_TEMPER_IRON]
+rollover = 了解更多 - 淬火术
+brief = 淬火术
+detail = 造价-400 黄金 ~ 淬火术科技使军事单位的刀剑攻击潜力提升 1 点。
+also = WI_TECHNOLOGY,T_R_HALBERD
+related = B_R_BLACKSMITH
+allows = T_R_HALBERD
+icon = 3,6
+
+[T_R_HALBERD]
+rollover = 了解更多 - 长戟
+brief = 长戟
+detail = 造价-600 黄金 ~ 长戟科技允许生产枪兵单位。
+also = WI_TECHNOLOGY,U_R_SPEARMAN,B_R_BARRACKS
+related = B_R_BLACKSMITH
+requires = T_R_TEMPER_IRON
+allows = U_R_SPEARMAN
+icon = 3,10
+
+[T_R_SCALE_ARMOR]
+rollover = 了解更多 - 鳞甲
+brief = 鳞甲
+detail = 造价-400 黄金 ~ 鳞甲科技使所有步兵单位的防御提升 1 点。
+also = WI_TECHNOLOGY,T_R_CHAIN_MAIL
+related = B_R_BLACKSMITH
+allows = T_R_CHAIN_MAIL
+icon = 3,8
+
+[T_R_CHAIN_MAIL]
+rollover = 了解更多 - 锁子甲
+brief = 锁子甲
+detail = 造价-400 黄金 ~ 锁子甲科技使所有步兵单位的防御提升 2 点。
+also = WI_TECHNOLOGY,T_R_SCALE_ARMOR
+related = B_R_BLACKSMITH
+requires = T_R_SCALE_ARMOR
+icon = 3,9
+
+[T_R_SCIMITAR]
+rollover = 了解更多 - 弯刀
+brief = 弯刀
+detail = 造价-400 黄金 ~ 弯刀科技使所有单位的刀剑攻击潜力提升 1 点，并允许在兵营生产总督。
+also = WI_TECHNOLOGY,U_R_SATRAP,B_R_BARRACKS
+related = B_R_BLACKSMITH
+allows = U_R_SATRAP
+icon = 3,75
+
+[T_R_SAW]
+rollover = 了解更多 - 锯
+brief = 锯
+detail = 造价-400 黄金 ~ 锯子科技使伐木工能多携带 2 点木材到伐木场。
+also = WI_TECHNOLOGY,U_R_PEASANT,HT_COLLECTRES,WI_RESOURCES
+related = B_R_LUMBER_MILL
+icon = 3,11
+
+[T_R_CROSSBOW]
+rollover = 了解更多 - 弩手
+brief = 弩手
+detail = 造价-400 黄金 ~ 弩科技使任何弓箭的攻击潜力提升 1 点。
+also = U_R_ARCHER
+related = B_R_LUMBER_MILL
+icon = 3,12
+
+[T_R_GOLD_MINING]
+rollover = 了解更多 - 金矿开采
+brief = 金矿开采
+detail = 造价-400 黄金 ~ 金矿开采科技使矿工能从矿场多携带 2 点黄金。
+also = U_R_PEASANT,HT_COLLECTRES,WI_RESOURCES,B_R_STORAGE
+related = B_R_STORAGE
+icon = 3,14
+
+[T_R_STONE_MINING]
+rollover = 了解更多 - 石矿开采
+brief = 石矿开采
+detail = 造价-400 黄金 ~ 石矿开采科技使矿工能从矿场多携带 2 点石头。
+also = U_R_PEASANT,HT_COLLECTRES,WI_RESOURCES,B_R_STORAGE
+related = B_R_STORAGE
+icon = 3,15
+
+[T_R_ENGINEERING]
+rollover = 了解更多 - 工程学
+brief = 工程学
+detail = 造价-400 黄金 ~ 工程学科技使攻城武器的攻击潜力提升 5 点。
+also = U_C_CATAPULT,U_C_BALLISTA,WI_SIEGE_WEAPON
+related = B_R_WORKSHOP
+icon = 3,16
+
+[T_R_CANNON_TOWER]
+rollover = 了解更多 - 炮塔
+brief = 炮塔
+detail = 造价-400 黄金 ~ 炮塔科技使石塔升级为炮塔成为可能。
+also = B_C_STONE_TOWER,WI_TECHNOLOGY
+related = B_R_WORKSHOP
+allows = B_C_CANNON_TOWER
+icon = 3,17
+
+[T_R_HEROISM]
+rollover = 了解更多 - 英雄主义
+brief = 英雄主义
+detail = 造价-500 黄金 ~ 英雄主义科技允许单位获得无限经验，使玩家能将其部分单位转化为英雄。
+also = WI_TECHNOLOGY,T_R_LEADERSHIP,WI_HERO
+related = B_R_WARRIORS_GUILD
+allows = T_R_LEADERSHIP
+icon = 3,18
+
+[T_R_LEADERSHIP]
+rollover = 了解更多 - 领导力
+brief = 领导力
+detail = 造价-500 黄金 ~ 领导力科技允许英雄周围的单位获得经验。
+also = WI_TECHNOLOGY,T_R_HEROISM,WI_HERO
+related = B_R_WARRIORS_GUILD
+requires = T_R_HEROISM
+allows = T_R_HONOR
+icon = 3,19
+
+[T_R_HONOR]
+rollover = 了解更多 - 荣耀
+brief = 荣耀
+detail = 造价-500 黄金 ~ 荣耀科技使英雄在与其他英雄战斗时攻击潜力提升 50%。
+also = WI_TECHNOLOGY,T_R_LEADERSHIP,WI_HERO
+related = B_R_WARRIORS_GUILD
+requires = T_R_LEADERSHIP
+icon = 3,20
+
+[T_R_WARFARE]
+rollover = 了解更多 - 战争学
+brief = 战争学
+detail = 造价-400 黄金 ~ 战争学科技加快所有单位的学习进程。
+also = WI_TECHNOLOGY,T_R_TACTICS,WI_HERO
+related = B_R_WARRIORS_GUILD
+allows = T_R_TACTICS
+icon = 3,21
+
+[T_R_MERCENARIES]
+rollover = 了解更多 - 雇佣兵
+brief = 雇佣兵
+detail = 造价-600 黄金 ~ 佣兵科技允许在酒馆招募佣兵。
+also = WI_TECHNOLOGY,T_R_HEROES_QUEST,WI_HERO
+related = B_R_WARRIORS_GUILD
+allows = T_R_HEROES_QUEST
+icon = 3,22
+
+[T_R_HEROES_QUEST]
+rollover = 了解更多 - 英雄任务
+brief = 英雄任务
+detail = 造价-800 黄金 ~ 英雄任务科技允许在酒馆招募英雄。
+also = WI_TECHNOLOGY,T_R_MERCENARIES,T_R_FAME,WI_HERO
+related = B_R_WARRIORS_GUILD
+requires = T_R_MERCENARIES
+allows = T_R_FAME
+icon = 3,23
+
+[T_R_FAME]
+rollover = 了解更多 - 名声
+brief = 名声
+detail = 造价-500 黄金 ~ 名声科技允许在酒馆招募更好、更便宜、更有经验的佣兵。
+also = WI_TECHNOLOGY,T_R_HEROES_QUEST
+related = B_R_WARRIORS_GUILD
+requires = T_R_HEROES_QUEST
+icon = 3,24
+
+[T_R_BODY_BUILDING]
+rollover = 了解更多 - 强身术
+brief = 强身术
+detail = 造价-1200 黄金 ~ 强身术科技使单位每升一级生命值增加 5 点。
+also = WI_TECHNOLOGY
+related = B_R_WARRIORS_GUILD
+icon = 3,27
+
+[T_R_RIDING_HORDES]
+rollover = 了解更多 - 游牧骑射
+brief = 游牧骑射
+detail = 造价-500 黄金 ~ 游牧骑射科技使骑兵单位的攻击提升 2 点、防御潜力提升 1 点。
+also = WI_TECHNOLOGY,U_R_JANISSARY
+related = B_R_WARRIORS_GUILD
+allows = T_R_JANISSARY
+icon = 3,76
+
+[T_R_JANISSARY]
+rollover = 了解更多 - 禁卫军
+brief = 禁卫军
+detail = 造价-1200 黄金 ~ 禁卫军科技使兵营中禁卫军可用。
+also = WI_TECHNOLOGY,U_R_JANISSARY,B_R_BARRACKS
+related = B_R_WARRIORS_GUILD
+requires = T_R_RIDING_HORDES
+allows = U_R_JANISSARY
+icon = 3,77
+
+[T_R_LANDING_TACTICS]
+rollover = 了解更多 - 登陆战术
+brief = 登陆战术
+detail = 造价-300 黄金 ~ 登陆战术科技允许船只多搭载 50% 的单位。
+also = WI_TECHNOLOGY,B_R_HARBOR,U_C_XEBEC,U_C_HULK,U_C_GALLEON
+related = B_R_HARBOR
+icon = 3,28
+
+[T_R_FANATICISM]
+rollover = 了解更多 - 狂热
+brief = 狂热
+detail = 造价-400 黄金 ~ 狂热科技使建筑的抵抗提升 50%。
+also = WI_TECHNOLOGY,B_R_MOSQUE,U_R_JIHAD
+related = B_R_MOSQUE
+allows = T_R_JIHAD
+icon = 3,29
+
+[T_R_JIHAD]
+rollover = 了解更多 - 圣战
+brief = 圣战
+detail = 造价-1200 黄金 ~ 圣战科技允许将农民转化为圣战战士，并允许在兵营生产圣战战士。
+also = WI_TECHNOLOGY,B_R_MOSQUE,T_R_FANATICISM,C_JIHAD,B_R_BARRACKS
+related = B_R_MOSQUE
+requires = T_R_FANATICISM
+icon = 3,78
+
+[T_R_ESPIONAGE]
+rollover = 了解更多 - 谍报术
+brief = 谍报术
+detail = 造价-400 黄金 ~ 谍报术科技允许在城堡生产间谍。
+also = WI_TECHNOLOGY,B_R_MOSQUE,U_R_SPY
+related = B_R_MOSQUE
+allows = U_R_SPY
+icon = 3,31
+
+[T_R_BLESS]
+rollover = 了解更多 - 祝福
+brief = 祝福
+detail = 造价-400 黄金 ~ 祝福科技使单位的攻击提升 8 点，并允许牧师祝福单位。
+also = WI_TECHNOLOGY,B_R_MOSQUE,U_R_PRIEST
+related = B_R_MOSQUE
+allows = C_BLESS
+icon = 3,32
+
+[T_R_HEALING]
+rollover = 了解更多 - 治疗
+brief = 治疗
+detail = 造价-400 黄金 ~ 治疗科技使治疗术可用，并允许牧师治疗单位。
+also = WI_TECHNOLOGY,B_R_MOSQUE,U_R_PRIEST,C_HEAL
+related = B_R_MOSQUE
+allows = C_HEAL
+icon = 3,34
+
+[T_R_TRADE_ROUTES]
+rollover = 了解更多 - 贸易路线
+brief = 贸易路线
+detail = 造价-400 黄金 ~ 贸易路线科技允许用商队和船只进行贸易。
+also = WI_TECHNOLOGY,B_R_MERCHANTS_GUILD,HT_TRADE,U_R_CARAVAN
+related = B_R_MERCHANTS_GUILD
+icon = 3,36
+
+[T_R_USURY]
+rollover = 了解更多 - 高利贷
+brief = 高利贷
+detail = 造价-300 黄金 ~ 高利贷科技允许玩家在酒馆获取贷款。
+also = WI_TECHNOLOGY,B_R_MERCHANTS_GUILD,B_R_TAVERN
+related = B_R_MERCHANTS_GUILD
+allows = T_R_GAMBLING,C_LOAN
+icon = 3,38
+
+[T_R_GAMBLING]
+rollover = 了解更多 - 赌博
+brief = 赌博
+detail = 造价-500 黄金 ~ 赌博科技允许玩家在酒馆赌博。
+also = WI_TECHNOLOGY,B_R_MERCHANTS_GUILD,B_R_TAVERN,T_R_USURY
+related = B_R_MERCHANTS_GUILD
+requires = T_R_USURY
+allows = C_GAMBLING
+icon = 3,39
+
+[T_R_SUPPLY_STORAGE]
+rollover = 了解更多 - 补给仓库
+brief = 补给仓库
+detail = 造价-500 黄金 ~ 补给仓库科技使人口上限提升 50%。
+also = WI_TECHNOLOGY,B_R_MERCHANTS_GUILD,WI_POP_LIMIT
+related = B_R_MERCHANTS_GUILD
+icon = 3,40
+
+[T_R_BRIBERY]
+rollover = 了解更多 - 贿赂
+brief = 贿赂
+detail = 造价-300黄金 ~ 贿赂科技允许农民贿赂敌方单位。
+also = WI_TECHNOLOGY,B_R_MERCHANTS_GUILD,HT_BRIBE
+related = B_R_MERCHANTS_GUILD
+allows = C_BRIBE
+icon = 3,41
+
+[T_R_MAGIC_CARPET]
+rollover = 了解更多 - 飞毯
+brief = 飞毯
+detail = 造价-300 黄金 ~ 飞毯科技使法师能召唤飞毯。
+also = WI_TECHNOLOGY,U_R_MAGE,U_C_JINN,U_C_MAGIC_CARPET
+related = B_R_MAGE_TOWER
+allows = T_R_JINN
+icon = 3,80
+
+[T_R_JINN]
+rollover = 了解更多 - 灯神
+brief = 灯神
+detail = 造价-600 黄金 ~ 灯神科技使法师能召唤灯神。
+also = WI_TECHNOLOGY,U_R_MAGE,U_C_JINN,T_R_MAGIC_CARPET
+related = B_R_MAGE_TOWER
+requires = T_R_MAGIC_CARPET
+allows = C_SPAWNJINN
+icon = 3,81
+
+[T_R_NECROMANCY]
+rollover = 了解更多 - 死灵术
+brief = 死灵术
+detail = 造价-400 黄金 ~ 死灵术科技使法师能使用死灵术并复活亡灵单位。
+also = WI_TECHNOLOGY,U_R_MAGE,B_R_MAGE_TOWER,WI_SPELLS
+related = B_R_MAGE_TOWER
+allows = C_RISEDEAD
+icon = 3,85
+
+[T_R_MAGIC_VISION]
+rollover = 了解更多 - 魔法视野
+brief = 魔法视野
+detail = 造价-400 黄金 ~ 魔法视野科技使法师能使用魔法视野术并更快探索地图。
+also = WI_TECHNOLOGY,U_R_MAGE,B_R_MAGE_TOWER,WI_SPELLS
+related = B_R_MAGE_TOWER
+allows = C_MAGICVISION
+icon = 3,84
+
+[T_R_RAIN_OF_FIRE]
+rollover = 了解更多 - 火雨
+brief = 火雨
+detail = 造价-800 黄金 ~ 火雨科技使法师能使用火雨术。
+also = WI_TECHNOLOGY,U_R_MAGE,WI_SPELLS
+related = B_R_MAGE_TOWER
+allows = C_RAINOFFIRE
+icon = 3,83
+
+[T_R_WITCHCRAFTS]
+rollover = 了解更多 - 巫术
+brief = 巫术
+detail = 造价-800 黄金 ~ 巫术科技允许建造魔法工坊和生产魔法物品。
+also = WI_TECHNOLOGY,U_R_MAGE,WI_SPELLS,B_R_MAGIC_WORKSHOP,WI_ITEMS
+related = B_R_MAGE_TOWER
+allows = B_R_MAGIC_WORKSHOP
+icon = 3,82
+
+[I_WEAPON]
+rollover = 了解更多 - 武器物品
+brief = 武器物品
+detail = 武器物品提升持有者的攻击属性。某些单位有攻击属性。当单位物品栏中有武器物品时，其攻击属性等于单位自身攻击点与物品攻击点之和。如果丢弃物品，单位的攻击点恢复原值。
+also = WI_ITEMS;HT_USE_ITEMS;HT_CREATE_ITEMS;B_R_MAGIC_WORKSHOP;T_JEWELERY;B_R_MAGIC_WORKSHOP;B_A_MARKET
+icon = 4,1
+
+[I_ARMOR]
+rollover = 了解更多 - 防具物品
+brief = 防具物品
+detail = 防具物品提升持有者的防御属性。所有单位都有防御属性。当单位物品栏中有防具物品时，其防御属性等于单位自身防御点与物品防御点之和。如果丢弃物品，单位的防御点恢复原值。
+also = WI_ITEMS;HT_USE_ITEMS;HT_CREATE_ITEMS;B_R_MAGIC_WORKSHOP;T_JEWELERY;B_R_MAGIC_WORKSHOP;B_A_MARKET
+icon = 4,2
+
+[I_SPELLBOOK]
+rollover = 了解更多 - 魔法书物品
+brief = 魔法书物品
+detail = 魔法书物品赋予持有者施放法术的能力。
+also = WI_ITEMS;HT_USE_ITEMS;HT_CREATE_ITEMS;B_R_MAGIC_WORKSHOP;T_JEWELERY;B_R_MAGIC_WORKSHOP;B_A_MARKET;WI_SPELLS
+icon = 4,3
+
+[I_SCROLL]
+rollover = 了解更多 - 卷轴物品
+brief = 卷轴物品
+detail = 卷轴物品包含用于故事的文字。拾取卷轴物品并在单位物品栏中选中它，即可阅读其中信息。
+also = ??????????
+icon = 4,4
+
+[I_POTION]
+rollover = 了解更多 - 药水物品
+brief = 药水物品
+detail = 药水物品提升持有者的生命属性。所有单位都有生命属性。当单位使用药水物品时，其生命属性按药水所含生命量增加。
+also = WI_ITEMS;HT_USE_ITEMS;HT_CREATE_ITEMS;B_R_MAGIC_WORKSHOP;T_JEWELERY;B_R_MAGIC_WORKSHOP;B_A_MARKET;WI_SPELLS
+icon = 4,5
+
+[I_RESOURCE]
+rollover = 了解更多 - 资源物品
+brief = 资源物品
+detail = 资源物品是地图上少量资源。它们可以被单位拾取并存放到国库。选中后，资源物品的数量会显示在选择视图中。
+also = HT_COLLECTRES; WI_RESOURCES
+icon = 4,6
+
+[C_MOVE]
+rollover = 了解更多 - 移动
+brief = 移动
+detail = 要移动单位，选中它，然后点击移动命令，或直接用鼠标右键点击目标位置。~ 要按指定路径移动，按住上档键并用鼠标右键依次点击目的地。~ 移动前进——按住控制键用鼠标右键点击目标位置，单位会在移动中自动寻找敌人。~ 潜行移动——如果希望单位只在被攻击时才反击，按住替换键点击目标位置。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,1
+
+[C_REPAIR]
+rollover = 了解更多 - 修理
+brief = 修理
+detail = 选中一个农民，点击命令栏中的修理命令，然后用鼠标右键点击需要修理的建筑。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,2
+
+[C_HARVEST]
+rollover = 了解更多 - 收获
+brief = 收获
+detail = 选中一个农民，点击收获命令，然后指向要采集的资源。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,3
+
+[C_EXPLORE]
+rollover = 了解更多 - 探索
+brief = 探索
+detail = 选中一个单位，点击探索命令，然后指向要探索的区域。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,4
+
+[C_ATTACK]
+rollover = 了解更多 - 攻击
+brief = 攻击
+detail = 选中一个单位，点击攻击命令，或直接用鼠标右键点击敌方单位或物体。~ 按住上档键并依次用鼠标右键点击，可以多选不同的攻击目标。~ 如果在选择攻击目标时按住 替换键，所有同类目标都会被选中并攻击。
+icon = 5,5
+
+[C_STOP]
+rollover = 了解更多 - 停止
+brief = 停止
+detail = 选中一个单位，点击命令栏中的停止命令。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,6
+
+[C_PICKITEM]
+rollover = 了解更多 - 拾取物品
+brief = 拾取物品
+detail = 选中一个单位，点击拾取物品命令，或将光标移到物品上并用鼠标右键点击拾取。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,7
+
+[C_USEITEM]
+rollover = 了解更多 - 使用物品
+brief = 使用物品
+detail = 选中一个持有物品的单位。打开物品栏，选择要使用的物品并指向目标。
+also = WI_COMMANDS,HT_COMMANDS,HT_USE_ITEMS
+icon = 5,8
+
+[C_DROPITEM]
+rollover = 了解更多 - 丢弃物品
+brief = 丢弃物品
+detail = 选中一个持有物品的单位。打开物品栏，按住替换键选择要丢弃的物品，然后点击使用物品命令并指向目标位置。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,9
+
+[C_CAPTURE]
+rollover = 了解更多 - 占领
+brief = 占领
+detail = 选中一个农民，点击占领命令，或直接用鼠标右键点击敌方建筑。
+also = HT_CAPTURE_BUILDINGS,WI_COMMANDS
+icon = 5,10
+
+[C_BUILD]
+rollover = 了解更多 - 建造
+brief = 建造
+detail = 选中一个农民，点击建造命令，然后选择要建造的建筑。再指向目标位置。位置合适时建筑图像会显示为绿色。
+also = WI_COMMANDS,HT_BUILD,C_COMMON,C_RARE,C_SPECIAL
+icon = 5,11
+
+[C_PATROL]
+rollover = 了解更多 - 巡逻
+brief = 巡逻
+detail = 选中一个单位，点击巡逻命令并用鼠标右键点击目的地。单位会在其当前位置与目的地之间巡逻。~ 若要设置巡逻路径，按住上档键放置多个目的地。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,12
+
+[C_GUARD]
+rollover = 了解更多 - 守卫
+brief = 守卫
+detail = 选中一个单位，点击守卫命令并选择要守卫的对象。~ 按住上档键依次用鼠标右键点击，可以多选要守卫的对象。~ 如果选择守卫对象时按住 替换键，所有同类对象都会被选中并守卫。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,13
+
+[C_LOAD]
+rollover = 了解更多 - 装载
+brief = 装载
+detail = 选中要装载的单位，用鼠标右键点击要装载进的运输单位。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,14
+
+[C_UNLOAD]
+rollover = 了解更多 - 卸载
+brief = 卸载
+detail = 选中一个已装载的单位，指向要卸载的位置。光标颜色会显示该位置是否可用。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,15
+
+[C_EMERGE]
+rollover = 了解更多 - 出舱
+brief = 出舱
+detail = 选中一个驻有单位的建筑。打开内部列表并选择要出动的单位。要让所有单位出动，选中建筑后点击出舱命令。
+also = WI_COMMANDS,HT_COMMANDS
+icon = 5,16
+
+[C_LIGHTNING]
+rollover = 了解更多 - 闪电术
+brief = 闪电术
+detail = 只有欧洲法师能施放闪电术。选择闪电命令，然后指向要攻击的单位。
+also = WI_SPELLS,HT_COMMANDS,T_E_LIGHTNING,U_E_MAGE
+requires = T_E_LIGHTNING
+icon = 5,17
+
+[C_SPAWNBAT]
+rollover = 了解更多 - 召唤蝙蝠
+brief = 召唤蝙蝠
+detail = 只有欧洲法师能召唤蝙蝠。选择蝙蝠命令，然后指向要召唤蝙蝠的位置。
+also = WI_COMMANDS,HT_COMMANDS,U_E_MAGE
+requires = T_E_BAT
+icon = 5,18
+
+[C_FREEZE]
+rollover = 了解更多 - 冰冻术
+brief = 冰冻术
+detail = 只有欧洲法师能施放冰冻术。选择冰冻命令，然后指向要攻击的单位。
+also = WI_COMMANDS,HT_COMMANDS,U_E_MAGE
+requires = T_E_BAT
+icon = 5,19
+
+[C_SPAWNSTONEGOLEM]
+rollover = 了解更多 - 召唤石巨人
+brief = 召唤石巨人
+detail = 只有欧洲法师能召唤石巨人。选择石巨人命令，然后指向要召唤石巨人的位置。
+also = WI_COMMANDS,HT_COMMANDS,U_E_MAGE
+requires = T_E_STONE_GOLEM
+icon = 5,20
+
+[C_INVISIBILITY]
+rollover = 了解更多 - 隐身术
+brief = 隐身术
+detail = 只有欧洲法师能使用隐身术。选择隐身命令，然后指向要使其隐身的单位。
+also = WI_COMMANDS,HT_COMMANDS,U_E_MAGE;
+requires = T_E_INVISIBILITY
+icon = 5,21
+
+[C_TRADE]
+rollover = 了解更多 - 贸易
+brief = 贸易
+detail = 贸易可以让你与其他王国交换食物、木材、黄金、铁和石头，或在己方市场之间进行贸易。商人和/或船只执行贸易。选中一个商人或船只，点击命令栏中的贸易命令。点击贸易菜单中的位置指示（光标会改变）。选择要出发的市场或港口，选择要运出的资源类型，选择目的地和要运回的资源类型，选择贸易数量，点击开始进行贸易，点击取消退出。
+also = HT_TRADE_SHIPS,HT_TRADE_CARAVANS,C_CONVERT,B_E_MERCHANTS_GUILD,B_R_MERCHANTS_GUILD,B_A_MERCHANTS_GUILD
+requires = T_E_TRADE_ROUTES
+icon = 5,22
+
+[C_HEAL]
+rollover = 了解更多 - 治疗单位
+brief = 治疗单位
+detail = 选择治疗命令，然后指向需要治疗的单位。治疗命令会恢复单位的生命值。
+also = WI_COMMANDS,HT_COMMANDS,U_E_PRIEST,B_A_PRIEST,B_R_PRIEST
+requires = T_E_HEALING
+icon = 5,23
+
+[C_BLESS]
+rollover = 了解更多 - 祝福单位
+brief = 祝福单位
+detail = 选择祝福命令，然后指向需要祝福的单位。此命令提升单位的攻击力。
+also = WI_COMMANDS,HT_COMMANDS,U_E_PRIEST,B_A_PRIEST,B_R_PRIEST
+requires = T_E_BLESS
+icon = 5,24
+
+[C_IMPERSONATE]
+rollover = 了解更多 - 伪装
+brief = 伪装
+detail = 选中一个间谍，点击伪装命令，然后选择要伪装成的单位。
+also = WI_COMMANDS,HT_COMMANDS,U_E_SPY,U_A_SPY,C_REVEAL
+icon = 5,25
+
+[C_REVEAL]
+rollover = 了解更多 - 显现
+brief = 显现
+detail = 选中一个已伪装的单位，点击显现命令。
+also = WI_COMMANDS,HT_COMMANDS,U_E_SPY,U_A_SPY,C_IMPERSONATE
+icon = 5,26
+
+[C_BRIBE]
+rollover = 了解更多 - 贿赂
+brief = 贿赂
+detail = 选中一个农民，点击贿赂命令，然后指向要贿赂的敌方单位。这样该单位就会归你所有。
+also = WI_COMMANDS,HT_COMMANDS,U_E_PEON,U_A_PEON,U_R_PEON
+requires = T_E_BRIBERY
+icon = 5,27
+
+[C_ATTACKGROUND]
+rollover = 了解更多 - 攻击地面
+brief = 攻击地面
+detail = 选中一个单位，点击攻击地面命令并指向要攻击的位置。该单位会持续攻击该位置，即使那里没有目标，直到你让它停止。
+also = WI_COMMANDS,HT_COMMANDS,C_STOP,U_C_GALLEON,U_C_HULK,U_C_XEBEC,U_C_CATAPULT,U_C_HEAVY_CATAPULT,U_C_BALISTA
+icon = 5,28
+
+[C_STANDGROUND]
+rollover = 了解更多 - 原地站立
+brief = 原地站立
+detail = 选中一个单位，点击原地站立命令并指向要安置单位的位置。它会站在那里直到你另有指令。
+also = WI_COMMANDS,HT_COMMANDS,C_STOP,U_C_GALLEON,U_C_HULK,U_C_XEBEC,U_C_CATAPULT,U_C_HEAVY_CATAPULT,U_C_BALISTA
+icon = 5,29
+
+[C_HOLDSTEADY]
+rollover = 了解更多 - 坚守
+brief = 坚守
+detail = 选中一个单位，点击原地站立命令，它的活动会立即停止。
+also = WI_COMMANDS,HT_COMMANDS,C_STOP,U_C_GALLEON,U_C_HULK,U_C_XEBEC,U_C_CATAPULT,U_C_HEAVY_CATAPULT,U_C_BALISTA
+icon = 5,30
+
+[C_FISHING]
+rollover = 了解更多 - 开始捕鱼
+brief = 开始捕鱼
+detail = 选中一艘渔船，点击开始捕鱼命令并选择渔场。
+also = WI_COMMANDS,HT_COMMANDS,U_C_FISHING_BOAT,HT_GATHER_FOOD
+icon = 5,31
+
+[C_LOANRETURN]
+rollover = 了解更多 - 归还贷款
+brief = 归还贷款
+detail = 要归还贷款，在酒馆的命令栏中点击归还贷款命令。
+also = WI_COMMANDS,HT_COMMANDS,B_E_MERCHANTS_GUILD,B_R_MERCHANTS_GUILD,B_A_MERCHANTS_GUILD,C_LOAN
+requires = T_E_USURY,T_R_USURY,T_A_USURY
+icon = 5,32
+
+[C_LOAN]
+rollover = 了解更多 - 获取贷款
+brief = 获取贷款
+detail = 选中一个酒馆，点击获取贷款命令。选择要贷款的资源类型——黄金、石头、食物或木材。~ 你可从所选资源获得的金额显示在画面左下角。
+also = WI_COMMANDS,HT_COMMANDS,B_E_MERCHANTS_GUILD,B_R_MERCHANTS_GUILD,B_A_MERCHANTS_GUILD,C_RETURNLOAN
+requires = T_E_USURY,T_R_USURY,T_A_USURY
+icon = 5,33
+
+[C_JIHAD]
+rollover = 了解更多 - 圣战
+brief = 圣战
+detail = 用它把农民转化为圣战战士。选中一个农民，点击圣战命令。
+also = WI_COMMANDS,HT_COMMANDS,B_R_MOSQUE,B_R_PEON
+requires = T_R_JIHAD
+icon = 5,38
+
+[C_CLOAK]
+rollover = 了解更多 - 隐身
+brief = 隐身
+detail = 选中忍者单位，点击隐身命令。该单位会在一段时间内隐身。
+also = WI_COMMANDS,HT_COMMANDS,U_A_NINJA,C_UNCLOAK
+icon = 5,21
+
+[C_UNCLOAK]
+rollover = 了解更多 - 解除隐身
+brief = 解除隐身
+detail = 选中一个已隐身的忍者单位，点击解除隐身命令使其显形。
+also = WI_COMMANDS,HT_COMMANDS,U_A_NINJA,C_CLOAK
+icon = 5,26
+
+[C_MURDER]
+rollover = 了解更多 - 刺杀
+brief = 刺杀
+detail = 选中忍者，点击刺杀命令，然后选择要刺杀的目标单位。
+also = WI_COMMANDS,HT_COMMANDS,T_E_INQUISITION
+icon = 5,41
+
+[C_GATEOPEN]
+rollover = 了解更多 - 开门
+brief = 开门
+detail = 选中城门，点击开门命令。
+also = WI_COMMANDS,HT_COMMANDS,C_GATECLOSE,C_GATESUBAION,C_GATESUBAIOFF
+icon = 5,42
+
+[C_GATECLOSE]
+rollover = 了解更多 - 关门
+brief = 关门
+detail = 选中城门，点击关门命令。
+also = WI_COMMANDS,HT_COMMANDS,C_GATEOPEN,C_GATESUBAION,C_GATESUBAIOFF
+icon = 5,43
+
+[C_GATESUBAION]
+rollover = 了解更多 - 城门AI开
+brief = 城门AI开
+detail = 选中城门，点击城门 AI 开命令。AI 会在有单位在门前时自动开关城门。
+also = WI_COMMANDS,HT_COMMANDS,C_GATESUBAIOFF
+icon = 5,44
+
+[C_GATESUBAIOFF]
+rollover = 了解更多 - 城门AI关
+brief = 城门AI关
+detail = 选中城门，点击城门 AI 关命令，关闭 AI 辅助。
+also = WI_COMMANDS,HT_COMMANDS,C_GATESUBAION
+icon = 5,45
+
+[C_COMMON]
+rollover = 了解更多 - 基础建筑
+brief = 基础建筑
+detail = 选中一个农民，点击建造命令，再点击基础建筑命令。
+also = WI_COMMANDS,HT_COMMANDS,C_BUILD,C_RARE,C_SPECIAL
+icon = 5,46
+
+[C_RARE]
+rollover = 了解更多 - 稀有建筑
+brief = 稀有建筑
+detail = 选中一个农民，点击建造命令，再点击稀有建筑命令。
+also = WI_COMMANDS,HT_COMMANDS,C_BUILD,C_COMMON,C_SPECIAL
+icon = 5,47
+
+[C_SPECIAL]
+rollover = 了解更多 - 特殊建筑
+brief = 特殊建筑
+detail = 选中一个农民，点击建造命令，再点击特殊建筑命令。
+also = WI_COMMANDS,HT_COMMANDS,C_BUILD,C_COMMON,C_RARE
+icon = 5,48
+
+[C_SETAI]
+rollover = 了解更多 - AI
+brief = AI
+detail = 不要选中任何单位。点击 AI 命令，会出现四种 AI 辅助——完整 AI、无 AI、战斗 AI、经济 AI。选择你要使用的类型。
+also = WI_COMMANDS,HT_COMMANDS,C_SETAINONE,C_SETAIFULL,C_SETAIWAR,C_SETAIECO
+icon = 5,44
+
+[C_SETAINONE]
+rollover = 了解更多 - 无AI
+brief = 无AI
+detail = 点击无 AI 命令。
+also = WI_COMMANDS,HT_COMMANDS,C_SETAI,C_SETAIFULL,C_SETAIWAR,C_SETAIECO
+icon = 5,49
+
+[C_SETAIFULL]
+rollover = 了解更多 - 完整AI
+brief = 完整AI
+detail = 点击完整 AI 命令。
+also = WI_COMMANDS,HT_COMMANDS,C_SETAI,C_SETAINONE,C_SETAIWAR,C_SETAIECO
+icon = 5,50
+
+[C_SETAIWAR]
+rollover = 了解更多 - 战斗AI
+brief = 战斗AI
+detail = 点击战斗 AI 命令。
+also = WI_COMMANDS,HT_COMMANDS,C_SETAI,C_SETAINONE,C_SETAIFULL,C_SETAIECO
+icon = 5,51
+
+[C_SETAIECO]
+rollover = 了解更多 - 经济AI
+brief = 经济AI
+detail = 点击经济 AI 命令。
+also = WI_COMMANDS,HT_COMMANDS,C_SETAI,C_SETAINONE,C_SETAIFULL,C_SETAIWAR
+icon = 5,52
+
+[C_VIEWHEROES]
+rollover = 了解更多 - 查看英雄
+brief = 查看英雄
+detail = 仅当你的英雄在地图上时，查看英雄命令才可用。不要选中任何单位。如果命令高亮，点击查看英雄命令，你会看到所有英雄的图标，然后可以选择其中一个。
+also = WI_COMMANDS,HT_COMMANDS,C_VIEWSPYS,C_VIEWITEMS
+icon = 5,53
+
+[C_VIEWSPYS]
+rollover = 了解更多 - 查看间谍
+brief = 查看间谍
+detail = 仅当你的间谍在地图上时，查看间谍命令才可用。不要选中任何单位。如果命令高亮，点击查看间谍命令，你会看到所有间谍的图标，然后可以选择其中一个。
+also = WI_COMMANDS,HT_COMMANDS,C_VIEWHEROES,C_VIEWITEMS
+icon = 5,54
+
+[C_VIEWITEMS]
+rollover = 了解更多 - 查看物品
+brief = 查看物品
+detail = 仅当你的物品在地图上时，查看物品命令才可用。不要选中任何单位。如果命令高亮，点击查看物品命令，你会看到所有物品的图标，然后可以选择其中一个。
+also = WI_COMMANDS,HT_COMMANDS,C_VIEWHEROES,C_VIEWSPYS
+icon = 5,55
+
+[C_TOWERUP1]
+rollover = 了解更多 - 升级为守卫塔
+brief = 升级为守卫塔
+detail = 选中一个了望塔，点击升级为守卫塔命令。
+also = WI_COMMANDS,C_TOWERUP2,C_TOWERUP3,B_C_WATCH_TOWER,B_C_GUARD_TOWER
+icon = 5,56
+
+[C_TOWERUP2]
+rollover = 了解更多 - 升级为石塔
+brief = 升级为石塔
+detail = 选中一个守卫塔，点击升级为石塔命令。
+also = WI_COMMANDS,HT_COMMANDS,C_TOWERUP1,C_TOWERUP3,B_R_CASTLE,B_C_GUARD_TOWER,B_C_STONE_TOWER
+requires = T_R_ARCHITECTURE
+icon = 5,57
+
+[C_TOWERUP3]
+rollover = 了解更多 - 升级为炮塔
+brief = 升级为炮塔
+detail = 选中一个守卫塔或石塔，点击升级为炮塔命令。
+also = WI_COMMANDS,HT_COMMANDS,C_TOWERUP1,C_TOWERUP2,B_R_WORKSHOP,B_C_GUARD_TOWER
+requires = T_R_CANNON_TOWERS
+icon = 5,57
+
+[C_TOSWALL]
+rollover = 了解更多 - 升级为石墙
+brief = 升级为石墙
+detail = 选中一段木墙，点击升级为石墙命令。~ 此命令仅在研究建筑学科技后可用。
+also = WI_COMMANDS,HT_COMMANDS,B_R_CASTLE
+requires = T_R_ACHITECTURE
+icon = 5,58
+
+[C_TOSGATE]
+rollover = 了解更多 - 升级为石门
+brief = 升级为石门
+detail = 选中一扇木门，点击升级为石门命令。~ 此命令仅在研究建筑学科技后可用。
+also = WI_COMMANDS,HT_COMMANDS,B_R_CASTLE
+requires = T_R_ACHITECTURE
+icon = 5,59
+
+[C_RISEDEAD]
+rollover = 了解更多 - 复活亡灵术
+brief = 复活亡灵术
+detail = 选中一个阿拉伯法师，点击复活亡灵法术命令。如果周围有尸体，它们会变成骷髅单位。
+also = WI_COMMANDS,HT_COMMANDS,B_R_MAGE_TOWER
+related = U_E_CASTLE
+requires = T_R_NECROMANCY
+icon = 5,60
+
+[C_SPAWNDRAGON]
+rollover = 了解更多 - 召唤龙
+brief = 召唤龙
+detail = 选择亚洲法师，点击召唤龙命令，然后选择要召唤龙的位置。
+also = HT_COLLECTRES; WI_RESOURCES;
+related = U_E_CASTLE
+requires = T_A_DRAGON
+icon = 5,62
+
+[C_FLAMEBOLT]
+rollover = 了解更多 - 火焰箭术
+brief = 火焰箭术
+detail = 只有亚洲法师能使用火焰箭术。点击火焰箭命令并选择要攻击的单位。
+also = WI_COMMANDS,HT_COMMANDS,B_A_MAGE_TOWER
+requires = T_A_FLAME_BOLT
+icon = 5,63
+
+[C_WHIRLPOOL]
+rollover = 了解更多 - 漩涡术
+brief = 漩涡术
+detail = 只有亚洲法师能使用漩涡术。点击漩涡命令并选择水面上施法的位置。
+also = WI_COMMANDS,HT_COMMANDS,B_A_MAGE_TOWER
+requires = T_A_WHIRLPOOL
+icon = 5,64
+
+[C_TURNTOSTONE]
+rollover = 了解更多 - 石化术
+brief = 石化术
+detail = 只有亚洲法师能使用石化术。点击石化命令并选择要施法的单位。
+also = WI_COMMANDS,HT_COMMANDS,B_A_MAGE_TOWER
+requires = T_A_TURN_TOSTONE
+icon = 5,65
+
+[C_FIRERAIN]
+rollover = 了解更多 - 火雨术
+brief = 火雨术
+detail = 只有阿拉伯法师能使用火雨术。点击火雨命令并选择施法的位置。
+also = WI_COMMANDS,HT_COMMANDS,B_R_MAGE_TOWER
+requires = T_R_FIRE_RAIN
+icon = 5,66
+
+[C_SPAWNJINN]
+rollover = 了解更多 - 召唤灯神
+brief = 召唤灯神
+detail = 只有阿拉伯法师能召唤灯神。点击灯神命令，然后指向要召唤灯神的位置。
+also = WI_COMMANDS,HT_COMMANDS,B_R_MAGE_TOWER
+requires = T_R_JINN
+icon = 5,67
+
+[C_MAGICVISION]
+rollover = 了解更多 - 魔法视野术
+brief = 魔法视野术
+detail = 只有阿拉伯法师能使用魔法视野术。点击魔法视野命令并选择要施法的位置或单位。如果选择单位，它会在一定时间内为你揭示迷雾。
+also = WI_COMMANDS,HT_COMMANDS,B_R_MAGE_TOWER
+requires = T_R_MAGIC_VISION
+icon = 5,68
+
+[C_CONFUSION]
+rollover = 了解更多 - 混乱术
+brief = 混乱术
+detail = 只有亚洲法师能使用混乱术。点击混乱命令并选择要施法的单位。~ 受此法术影响的单位会在一段时间内敌视所有其他单位。
+also = WI_COMMANDS,HT_COMMANDS,B_A_MAGE_TOWER
+requires = T_R_CONFUSION
+icon = 5,69
+
+[C_BUILDITEM]
+rollover = 了解更多 - 制造物品
+brief = 制造物品
+detail = 魔法工坊是生产物品的地方。点击制造魔法物品命令，会出现物品生产菜单。选择要生产的物品类型，选择你愿意花费的黄金数量，点击开始生产物品，点击取消退出。
+also = HT_CREATE_ITEMS, B_R_MAGE_TOWER,B_R_MAGIC_WORKSHOP
+icon = 5,70
+
+[C_CONVERT]
+rollover = 了解更多 - 转换资源
+brief = 转换资源
+detail = 选中一个酒馆。在命令栏中点击交易命令。选择要付出的资源类型，选择要付出的数量，选择要获得的资源类型。比例是 1/10——你付出的是获得的十倍。点击开始进行交易，点击取消退出。
+also = WI_COMMANDS,HT_COMMANDS,B_R_TAVERN
+icon = 5,71
+
+[C_PREACHCRUSADE]
+rollover = 了解更多 - 宣讲十字军
+brief = 宣讲十字军
+detail = 你只能在欧洲大教堂发起十字军。选择宣讲十字军命令，然后指向集结点。集结点不能离大教堂太远。同一时间只能进行一次十字军。
+also = WI_COMMANDS,HT_COMMANDS,B_E_CATHEDRAL
+requires = T_E_CRUSADE
+icon = 5,72
+
+[C_SHIPLEVEL2]
+rollover = 了解更多 - 升级舰炮
+brief = 升级舰炮
+detail = 选中大帆船或运输船，点击升级舰炮命令。舰炮最多可升到六级。
+also = WI_COMMANDS,HT_COMMANDS,U_C_GALLEON,U_C_HULK,HT_UPGRADE_SHIPS
+icon = 5,73
+
+[C_HOLDFIRE]
+rollover = 了解更多 - 停止射击
+brief = 停止射击
+detail = 选中炮或火箭塔，点击停止射击命令。该塔会停止开火，同时出现自由射击命令。
+also = WI_COMMANDS,HT_COMMANDS,C_FIREATWILL,U_C_CANNON_TOWER,U_C_ROCKET_TOWER
+icon = 5,74
+
+[C_FIREATWILL]
+rollover = 了解更多 - 自由射击
+brief = 自由射击
+detail = 选中炮或火箭塔，点击自由射击命令。该塔只会在你下令后开火，同时出现停止射击命令。
+also = WI_COMMANDS,HT_COMMANDS,C_FIREATWILL,U_C_CANNON_TOWER,U_C_ROCKET_TOWER
+icon = 5,75
+
+[C_HIREMERCENARIES]
+rollover = 了解更多 - 雇佣佣兵
+brief = 雇佣佣兵
+detail = 佣兵只能在酒馆雇佣。点击雇佣佣兵命令，会出现军事单位列表，选择你要的单位。
+also = WI_COMMANDS,B_R_TAVERN,HT_REQRUIT
+requires = T_R_MERCENARIES
+icon = 5,76
+
+[C_HIREHEROES]
+rollover = 了解更多 - 雇佣英雄
+brief = 雇佣英雄
+detail = 英雄只能在酒馆雇佣。点击雇佣英雄命令，会出现军事单位列表，选择你要的单位。
+also = WI_COMMANDS,HT_COMMANDS,B_R_TAVERN,HT_REQRUIT
+requires = T_R_HEROES_QUEST
+icon = 5,77
+
+[C_BUYITEMS]
+rollover = 了解更多 - 购买物品
+brief = 购买物品
+detail = 只有亚洲市场能交易物品。点击购买物品命令，会出现物品列表。物品价格显示在下方文字行。选择要购买的物品。
+also = WI_COMMANDS,HT_BUY_ITEMS,B_R_TAVERN
+icon = 5,78
+
+[C_SELLITEMS]
+rollover = 了解更多 - 出售物品
+brief = 出售物品
+detail = 只有亚洲市场能交易物品。点击出售物品命令，会出现你单位拥有的物品列表。出售物品可获得的金额显示在下方文字行。选择要出售的物品。
+also = WI_COMMANDS,HT_BUY_ITEMS,B_R_TAVERN
+related = U_E_CASTLE
+icon = 5,79
+
+[C_GAMBLE]
+rollover = 了解更多 - 赌博
+brief = 赌博
+detail = 赌博在酒馆进行。选中一个酒馆，点击命令栏中的赌博命令。选择要下注的资源类型和数量，选择赔率，点击赌博开始，点击取消退出。
+also = WI_COMMANDS,HT_GAMBLE,B_R_TAVERN
+requires = T_R_GAMBLE
+icon = 5,80
+
+[C_VIEWQUEST]
+rollover = 了解更多 - 查看任务
+brief = 查看任务
+detail = 仅当你正在玩任务游戏时，查看任务命令才可用。不要选中任何单位。如果命令高亮，点击查看任务命令即可看到任务。
+also = HT_VIEW_QUESTS
+icon = 5,81
+
+[HT_COLLECTRES]
+rollover = 了解更多 - 如何收集资源
+brief = 如何收集资源
+detail = 资源用于生产农民、军事单位、攻城武器和船只，也用于训练和升级单位、建造建筑、构筑防御设施以及研发新科技。农民通过砍伐木材、开采金矿和石头、捕鱼和饲养奶牛来增加你的资源。某些科技会提高采集资源的农民的生产效率。贸易是增加王国财富的另一种方式。
+also = WI_RESOURCES,HT_GATHER_FOOD,HT_TEND_COWS,HT_TEND_FIELDS,HT_CHOP_WOOD,HT_MINE,B_E_STORAGE,B_E_FARM,B_E_CASTLE
+icon = 6
+
+[HT_PRODUCE_ARMY]
+rollover = 了解更多 - 如何生产军队
+brief = 如何生产军队
+detail = 每个玩家都必须生产军队，才能拥有强大的王国并抵御敌人。生产军事单位的主要建筑是兵营。许多单位无需研究特殊科技即可建造。军队越庞大就越强大。可以平衡不同兵种——步兵、骑兵或攻城武器——的优势来增强部队。魔法传送门中可召唤的一些生物对所有军队都很有帮助。要召唤它们，玩家必须先占领魔法工坊。
+also = B_E_BARRACKS,B_R_BARRACKS,B_A_BARRACKS,B_C_MAGIC_GATEWAY
+icon = 6
+
+[HT_TRAIN_UNITS]
+rollover = 了解更多 - 如何训练单位
+brief = 如何训练单位
+detail = 每个单位都有自己的攻击、防御和生命属性。单位可以在战斗中获得经验。例如，一个老兵可以打败几个同类的“新兵”。在研究战术科技后，可以建造假人来训练军事单位，从而提高它们的经验属性。
+also = B_C_DUMMY,T_E_TACTICS,T_A_TACTICS,B_A_WARRIORS_GUILD,B_E_WARRIORS_GUILD
+icon = 6
+
+[HT_HEAL_UNITS]
+rollover = 了解更多 - 如何治疗单位
+brief = 如何治疗单位
+detail = 牧师可以治疗单位，使它们在战斗中受损后恢复生命值，这需要治疗科技。当牧师在部队进攻时治疗它们，部队可以通过获得更多经验达到更高等级。另一种治疗单位的方法是让它们进入哨站。
+also = T_E_HEALING,U_E_PRIEST,T_R_HEALING,U_R_PRIEST,T_A_HEALING,U_A_PRIEST,C_HEAL,B_E_OUTPOST,B_R_OUTPOST,B_A_OUTPOST
+icon = 6
+
+[HT_GARRISON_UNITS]
+rollover = 了解更多 - 如何驻守和撤离单位
+brief = 如何驻守和撤离单位
+detail = 你可以让单位进入城堡或哨站，它们会在这些建筑中得到治疗。出舱命令可以让单位离开这些建筑。
+also = WI_UNIT,C_EMERGE
+icon = 6
+
+[HT_USE_SHIPS]
+rollover = 了解更多 - 如何用船运输单位
+brief = 如何用船运输单位
+detail = 单位可以用船在水上运输。各船可搭载的单位数量如下：快速帆船 8 个、运输船 16 个、大帆船 24 个。在港口研究的登陆战术科技可以让船只多搭载 50% 的单位。
+also = U_C_XEBEC,U_C_HULK,U_C_GALLEON,T_E_LANDING_TACTICS,B_E_HARBOR
+icon = 6
+
+[HT_USE_MAGIC_CARPETS]
+rollover = 了解更多 - 如何用飞毯运输单位
+brief = 如何用飞毯运输单位
+detail = 飞毯由阿拉伯法师召唤。它们可以在水上和陆地上运输单位。每张飞毯最多可搭载 8 个单位。飞毯也用于探索地图。
+also = U_C_CARPET,U_R_MAGE,T_R_MAGIC_CARPET,WI_SPELLS
+icon = 6
+
+[HT_UPGRADE_TOWERS]
+rollover = 了解更多 - 如何升级箭塔
+brief = 如何升级箭塔
+detail = Tzar 中有几种箭塔。但只有了望塔可以直接建造。除火箭塔外，所有其他箭塔都从了望塔升级而来。升级了望塔需要建筑学和炮塔科技。每次升级后，会出现下一次升级的命令。
+also = B_C_WATCH_TOWER,B_C_GUARD_TOWER,B_C_STONE_TOWER,B_C_CANNON_TOWER,B_C_ROCKET_TOWER,C_TOWERUP1,C_TOWERUP2,C_TOWERUP3
+icon = 6
+
+[HT_CREATE_ITEMS]
+rollover = 了解更多 - 如何制造物品
+brief = 如何制造物品
+detail = 物品只能在阿拉伯魔法工坊中制造，且需先研究巫术科技。选中魔法工坊，点击制造魔法物品命令，会出现物品生产菜单。选择要生产的物品类型，选择你愿意花费的黄金数量，点击开始生产物品，点击取消退出。
+also = WI_ITEMS,B_R_MAGIC_WORKSHOP,B_R_MAGE_TOWER,T_R_WITCHCRAFTS,C_BUILDITEM
+icon = 6
+
+[HT_USE_ITEMS]
+rollover = 了解更多 - 如何使用物品
+brief = 如何使用物品
+detail = 物品可以通过发出拾取命令或直接用鼠标右键点击来拾取。单位物品栏中的物品可以通过选中并用鼠标左键点击目标位置来使用。按住替换键并选中物品栏中的物品，再指向要放置的位置，即可丢弃物品。
+also = WI_ITEMS,C_USEITEM,HT_CREATE_ITEMS,HT_BUY_ITEMS
+icon = 6
+
+[HT_BUY_ITEMS]
+rollover = 了解更多 - 如何购买物品
+brief = 如何购买物品
+detail = 物品只能在研究珠宝科技后的亚洲市场中买卖。选中市场，点击购买物品命令，物品会出现在市场旁边的地面上。要出售物品，选中市场，你单位拥有的所有物品都会显示在其物品栏中。将光标移到你要出售的物品上，你将获得的黄金数量会显示在帮助文字行中。选择要出售的物品，黄金会加入你的国库。
+also = WI_ITEMS,B_A_MARKET,C_USEITEM,B_A_MERCHANTS_GUILD,T_A_JEWELERY
+icon = 6
+
+[HT_VIEW_QUESTS]
+rollover = 了解更多 - 如何查看当前任务
+brief = 如何查看当前任务
+detail = 任务出现在战役中，它们给玩家下达完成特定使命的指令。点击命令栏中的查看当前任务命令，可以查看所有可用任务。
+also = WI_QUEST,C_VIEWQUEST,WI_COMMANDS
+icon = 6
+
+[HT_BUILD]
+rollover = 了解更多 - 如何建造建筑
+brief = 如何建造建筑
+detail = 只有农民单位能建造建筑。选中一个农民，点击命令栏中的建造命令或按键盘上的 B 键，在命令栏中选择要建造的建筑类型，在地图上指向建筑位置。如果该位置可以建造，图像会显示为绿色。某些建筑需要先研究相应科技才能建造。
+also = WI_BUILDING,C_BUILD,C_COMMON,C_RARE,C_SPECIAL
+icon = 6
+
+[HT_CAPTURE_BUILDINGS]
+rollover = 了解更多 - 如何占领建筑
+brief = 如何占领建筑
+detail = 建筑只能由农民占领。玩家可以从命令栏发出占领命令，或直接用鼠标右键点击敌方建筑。建筑离城堡越近，越难占领。
+also = WI_BUILDING,C_CAPTURE,U_E_PEASANT,U_R_PEASANT,U_A_PEASANT
+icon = 6
+
+[HT_COMMANDS]
+rollover = 了解更多 - 什么是命令
+brief = 什么是命令
+detail = 命令可以通过命令栏中的命令发出，最常用的命令也可以通过左右组合点击发出。许多命令可以用热键从键盘下达。
+also = WI_HOTKEYS,WI_COMMANDS
+icon = 6
+
+[HT_TRADE_SHIPS]
+rollover = 了解更多 - 如何用船进行贸易
+brief = 如何用船进行贸易
+detail = 要能贸易，你必须研究贸易路线科技，并拥有至少两个港口和一艘船。示例：一艘船从 A 港运来木材，在 B 港卸下；在 B 港装上石头，之后在 A 港卸下。利润取决于两个港口的距离和资源数量。距离越远，利润越大。你可以选择获得的利润类型——黄金、石头、木材或食物。
+also = C_TRADE,T_E_TRADE_ROUTES,T_R_TRADE_ROUTES,B_E_MERCHANTS_GUILD,B_R_MERCHANTS_GUILD,B_E_HARBOR,B_R_SHIP
+icon = 6
+
+[HT_TRADE_CARAVANS]
+rollover = 了解更多 - 如何与商队交易
+brief = 如何与商队交易
+detail = 要能贸易，你必须研究贸易路线科技，并拥有至少两个市场和一个商队/亚洲农民。示例：一个商队/农民从 A 市场运来木材，在 B 市场卸下；在 B 市场装上石头，之后在 A 市场卸下。利润取决于两个市场的距离和资源数量。距离越远，利润越大。你可以选择获得的利润类型——黄金、石头、木材或食物。
+also = C_TRADE,T_E_TRADE_ROUTES,T_R_TRADE_ROUTES,B_E_MERCHANTS_GUILD,B_R_MERCHANTS_GUILD,B_E_MARKET,U_A_PEASANT
+icon = 6
+
+[HT_BRIBE]
+rollover = 了解更多 - 如何贿赂单位
+brief = 如何贿赂单位
+detail = 阿拉伯和欧洲农民可以贿赂敌方单位，但首先需要在商人行会研究贿赂科技。
+also = C_BRIBE,T_E_BRIBERY,B_E_MERCHANTS_GUILD
+icon = 6
+
+[HT_GAMBLE]
+rollover = 了解更多 - 如何在酒馆赌博
+brief = 如何在酒馆赌博
+detail = 赌博在酒馆进行，但首先需要研究赌博科技。选中一个酒馆，点击命令栏中的赌博命令。选择要下注的资源类型和数量，选择赔率，点击赌博开始，点击取消退出。
+also = T_E_GAMBLING,B_E_TAVERN,B_E_MERCHANTS_GUILD,C_GAMBLING
+icon = 6
+
+[HT_REMOVE]
+rollover = 了解更多 - 如何移除部队和建筑
+brief = 如何移除部队和建筑
+detail = 选中单位或建筑并按键盘上的 Del 键可以将其移除。如果在建筑刚开始建造时这样做，花费的资源会退回国库。敌方单位或建筑无法这样移除。
+also = WI_BUILDING,WI_UNIT
+icon = 6
+
+[HT_GATHER_FOOD]
+rollover = 了解更多 - 如何收集食物
+brief = 如何收集食物
+detail = 食物可以通过耕种农田、捕鱼和饲养奶牛来获得。农民照料并收割农田，把食物运到农场或城堡。如果玩家研究了驯化术科技，就可以生产奶牛并挤奶获得食物。渔船在港口生产，它们从海上的渔场采集食物，食物存放在港口。
+also = HT_TEND_COWS,HT_TEND_FIELDS,B_E_HARBOR
+icon = 6
+
+[HT_TEND_COWS]
+rollover = 了解更多 - 如何饲养奶牛
+brief = 如何饲养奶牛
+detail = 如果玩家研究了驯化术科技，就可以生产奶牛并挤奶获得食物。一个农民可以照料多头奶牛，挤奶并把奶送到农场或城堡。奶牛可以被宰杀，其肉由农民或其他单位收集。
+also = T_E_DOMESTICATION,B_E_FARM,B_R_FARM,U_C_COW,HT_GATHER_FOOD
+icon = 6
+
+[HT_TEND_FIELDS]
+rollover = 了解更多 - 如何耕种农田
+brief = 如何耕种农田
+detail = 农田生产食物资源，需要持续照料。如果疏于照料，它们会消失。建议将它们放置在农场或城堡附近，使收割者存放食物更高效。轮作和灌溉科技会增加农民携带的食物数量。每块农田只能由一个农民照料。
+also = B_E_FARM,B_R_FARM,T_E_ROTATING_FIELDS,T_A_ROTATING_FIELDS,T_R_ROTATING_FIELDS,T_A_IRRIGATION
+icon = 6
+
+[HT_CHOP_WOOD]
+rollover = 了解更多 - 如何砍伐木材
+brief = 如何砍伐木材
+detail = 木材通过砍伐树木获得。只有农民能砍树。木材存放在伐木场。伐木场离树林越近，伐木工的效率越高。锯子科技会增加农民携带的木材数量。
+also = B_E_LUMBER_MILL,T_E_SAW,HT_COLLECTRES
+icon = 6
+
+[HT_MINE]
+rollover = 了解更多 - 如何采集金矿和石头
+brief = 如何采集金矿和石头
+detail = 黄金和石头以岩石形式出现在地图上，由农民开采。每个位置含有一定数量的资源。选中一个位置可以看到其资源数量，它会以数字显示在选择视图中。黄金和石头收集在仓库或城堡中。金矿/石矿开采科技会增加农民携带的黄金/石头数量。
+also = T_E_GOLD_MINING,T_E_STONE_MINING,B_E_STORAGE,T_R_ORE_FLOATATION
+icon = 6
+
+[HT_BUILD_WALLS_GATES]
+rollover = 了解更多 - 如何建造城墙和城门
+brief = 如何建造城墙和城门
+detail = 农民建造城墙和城门。选择建造城墙命令，指向起始位置，按住鼠标左键拖到终点位置。可以建造的位置城墙会显示为绿色。城门可以放置在已建好的城墙上或任何合适的位置。放置城门时，按住替换键 或 控制键可以改变其方向。只能建造木墙和木门。如果研究了建筑学科技，就可以将它们升级为石头。
+also = B_C_WOOD_WALL,B_C_WOOD_GATE,T_E_ARCHITECTURE,C_TOSWALL,C_TOSGATE
+icon = 6
+
+[HT_BUILD_BRIDGES]
+rollover = 了解更多 - 如何建造桥梁
+brief = 如何建造桥梁
+detail = 当你在城堡研究了建筑学科技后就可以建造桥梁。放置桥梁时，按住替换键可以改变其方向。
+also = B_C_BRIDGE,T_E_ARCHITECTURE
+icon = 6
+
+[HT_UPGRADE_SHIPS]
+rollover = 了解更多 - 如何升级船只
+brief = 如何升级船只
+detail = 船只的舰炮可以升级，使其射击更频繁。舰炮最多可升到六级。
+also = U_C_HULK,U_C_GALLEON,C_SHIPLEVEL2
+icon = 6
+
+[HT_REQRUIT]
+rollover = 了解更多 - 如何雇佣佣兵和英雄
+brief = 如何雇佣佣兵和英雄
+detail = 你可以在酒馆雇佣佣兵和英雄，但首先需要在战士公会研究佣兵和英雄任务科技。你可以雇佣所有种族的不同类型单位。佣兵和英雄会随时间在酒馆聚集。
+also = C_HIREMERCENARIES,C_HIREHEROES,T_E_MERCENARIES,T_E_HEROES_QUEST,B_E_TAVERN
+icon = 6
+
+[WI_RESOURCES]
+rollover = 了解更多 - 什么是资源
+brief = 什么是资源
+detail = 资源用于生产农民、军事单位、攻城武器和船只，也用于训练和升级单位、建造建筑、构筑防御设施以及研发新科技。农民通过砍伐木材、开采金矿和石头、捕鱼和饲养奶牛来增加你的资源。某些科技会提高采集资源的农民的生产效率。贸易是增加王国财富的另一种方式。
+also = HT_COLLECTRES,HT_GATHER_FOOD,HT_CHOP_WOOD,HT_MINE
+icon = 7
+
+[WI_TRADE]
+rollover = 了解更多 - 什么是贸易
+brief = 什么是贸易
+detail = 贸易是收集资源的另一种方式。它可以让你与其他王国交换食物、木材、黄金和石头，或在己方市场之间进行贸易。商人和/或船只执行贸易。要进行贸易，你必须在商人行会研究贸易路线科技，这样你才能在市场创建商人并用船只贸易。贸易单位在两个市场（或港口）之间往返运输货物。
+also = HT_TRADE_SHIPS,HT_TRADE_CARAVANS,U_C_XEBEC,U_C_HILK,U_C_GALLEON,U_R_CARAVAN,U_E_CARAVAN
+icon = 7
+
+[WI_ITEMS]
+rollover = 了解更多 - 什么是物品
+brief = 什么是物品
+detail = 物品是地图上的小物件。单位可以拾取并使用它们。物品在特定建筑中生产。只有阿拉伯法师能在魔法工坊生产物品，且需先发现必要科技——巫术。物品有几类：武器、防具、魔法书、卷轴、药水和资源物品。所有物品都可以生产，但更好的物品花费更多、生产时间更长。研究珠宝科技后，亚洲市场可以交易物品。
+also = HT_CREATE_ITEMS,HT_USE_ITEMS,HT_BUY_ITEMS,B_R_MAGIC_WORKSHOP,B_A_MARKET
+icon = 7
+
+[WI_SPELLS]
+rollover = 了解更多 - 什么是魔法
+brief = 什么是魔法
+detail = 法术是一种魔法事件。要施放某种法术，必须先研究相应科技。只有法师能施法。有些法术召唤单位，另一些造成伤害或治疗单位。每种法术需要一定量的法力。法术也存在于魔法书物品中。任何单位只要持有魔法书物品，就可以施放其中的法术。
+also = I_SPELLBOOK,U_E_MAGE,U_R_MAGE,U_A_MAGE
+icon = 7
+
+[WI_BUILDING]
+rollover = 了解更多 - 什么是建筑
+brief = 什么是建筑
+detail = 建筑是生产单位和研究科技的地方。每个种族都有独特的建筑。每个种族有三组建筑：行会、基础建筑和稀有建筑。
+also = WI_RACE,WI_TECHNOLOGY,HT_BUILD
+icon = 7
+
+[WI_RACE]
+rollover = 了解更多 - 什么是种族
+brief = 什么是种族
+detail = Tzar 中有三个种族——欧洲、阿拉伯和亚洲。每个种族都有自己独特的建筑、单位和科技。它们经过精心平衡，使每个种族都能充分发挥其独特优势和科技精通水平。
+also = WI_BUILDING,WI_TECHNOLOGY
+icon = 7
+
+[WI_TECHNOLOGY]
+rollover = 了解更多 - 什么是科技
+brief = 什么是科技
+detail = 通过建造不同的建筑，玩家可以获得多种发展选项。各种科技形成一个复杂的结构，称为科技树。
+also = WI_TECHTREE,WI_BUILDING
+icon = 7
+
+[WI_UNIT]
+rollover = 了解更多 - 什么是单位
+brief = 什么是单位
+detail = 单位是游戏的主要工具。大多数单位可以在建筑中生产。要生产单位，必须有足够的资源和科技。不同的单位需要不同的资源。某些单位需要由法师召唤。其他单位可以在魔法传送门中召唤。
+also = WI_COMMANDS,HT_COMMANDS,WI_BUILDING,B_C_MAGIC_GATEWAY
+icon = 7
+
+[WI_COMMANDS]
+rollover = 了解更多 - 什么是命令
+brief = 什么是命令
+detail = 命令是管理单位的方式。选中单位后，可以命令它执行不同的动作。可用命令以命令的形式出现在界面中。并非所有命令对所有单位都可用，它们取决于单位类型和该单位获得的科技研究等级。
+also = HT_COMMANDS,WI_HOTKEYS
+icon = 7
+
+[WI_POP_LIMIT]
+rollover = 了解更多 - 什么是人口上限
+brief = 什么是人口上限
+detail = 人口上限是玩家在游戏中可拥有的最大单位数量。它在游戏设置中确定。不可能生产超过人口上限的单位。房屋对玩家在某一时刻可生产的单位数量至关重要。每座房屋使可生产单位数增加 10。但这个数量不能超过游戏设定的人口上限。
+also = B_E_HOUSE
+icon = 7
+
+[WI_STRATEGIES]
+rollover = 了解更多 - 如何选择战略
+brief = 如何选择战略
+detail = 当玩家发展王国后，可以在四种战略中选择：荣耀之道、宗教之道、魔法之道、贸易与工艺之道。每种战略由特定建筑代表——战士公会、大教堂/清真寺/少林寺、法师塔和商人行会。所选道路将决定研发哪些科技来创造独特单位和建筑。
+also = B_E_MAGE_TOWER, B_E_WARRIORS_GUILD,B_E_MERCHANTS_GUILD,B_E_CATHEDRAL, B_R_MAGE_TOWER, B_R_WARRIORS_GUILD,B_R_MERCHANTS_GUILD,B_R_MOSQUE,B_A_MAGE_TOWER, B_A_WARRIORS_GUILD,B_A_MERCHANTS_GUILD,B_A_SHAO_LINN
+icon = 7
+
+[WI_SIEGE_WEAPON]
+rollover = 了解更多 - 什么是攻城武器
+brief = 什么是攻城武器
+detail = 投石车、重型投石车和弩炮是攻城武器。它们在工坊生产。成本仅需木材资源，但重型投石车需先获得攻城战术科技。攻城武器在攻击设防的敌方王国时威力强大。它们对所有单位都造成伤害，而不仅是敌方单位。如果你有足够的木材，农民可以修理受损的武器。选中农民，点击命令栏中的修理命令并指向受损的攻城武器，或直接用鼠标右键点击需要修理的武器。
+also = U_C_CATAPULT,U_C_HEAVY_CATAPULT,U_C_BALLISTA,B_E_WORKSHOP
+icon = 7
+
+[WI_HOTKEYS]
+rollover = 了解更多 - 什么是热键
+brief = 什么是热键
+detail = 热键是玩 Tzar 最快的方式。你可以不用界面，仅按键盘上的某些键就执行许多操作。
+also = HT_COMMANDS,WI_COMMANDS
+icon = 7
+
+[WI_HERO]
+rollover = 了解更多 - 什么是英雄
+brief = 什么是英雄
+detail = 英雄是拥有超凡生命、攻击或防御属性以及一定经验等级的强大单位。任何单位达到 12 级经验后都可以转化为英雄，并赋予你想要的名字。
+also = B_E_TAVERN,B_A_TAVERN,B_R_TAVERN,B_E_WARRIORS_GUILD,B_R_WARRIORS_GUILD,B_A_WARRIORS_GUILD
+icon = 7
+
+[WI_QUEST]
+rollover = 了解更多 - 什么是任务
+brief = 什么是任务
+detail = 任务是玩家为继续游戏必须完成的任务目标。
+also = HT_VIEW_QUESTS
+icon = 7
+
+[WI_RESISTANCE]
+rollover = 了解更多 - 什么是抵抗
+brief = 什么是抵抗
+detail = 抵抗减少建筑受攻击时遭受的伤害。建筑离城堡越近，抵抗越高。某些建筑会辐射抵抗——对同王国建筑为正，对敌方建筑为负。
+also = WI_BUILDING
+icon = 7
+
+[WI_TECHTREE]
+rollover = 了解更多 - 什么是科技树
+brief = 什么是科技树
+detail = 各种科技形成一个复杂的结构，称为科技树。它展示了你在 Tzar 中可以追求的科技路径，以及研究科技以解锁下一级科技的顺序。
+also = WI_TECHNOLOGY
+icon = 7
+
+[WI_GUILD]
+rollover = 了解更多 - 什么是行会
+brief = 什么是行会
+detail = 游戏中的每种战略——荣耀之道、宗教之道、魔法之道、贸易与工艺之道——都由特定建筑代表：战士公会、大教堂/清真寺/少林寺、法师塔和商人行会。
+also = B_E_MAGE_TOWER, B_E_WARRIORS_GUILD,B_E_MERCHANTS_GUILD,B_E_CATHEDRAL, B_R_MAGE_TOWER, B_R_WARRIORS_GUILD,B_R_MERCHANTS_GUILD,B_R_MOSQUE,B_A_MAGE_TOWER, B_A_WARRIORS_GUILD,B_A_MERCHANTS_GUILD,B_A_SHAO_LINN
+icon = 7
+
+[WI_TRANSPORT]
+rollover = 了解更多 - 什么是运输方式
+brief = 什么是运输方式
+detail = 运输单位和货物有几种方式。船只、飞毯和商人都可以装载单位。只有船只和飞毯能在水上运输单位。
+also = U_CARPET,U_C_XEBEC,U_C_HULK,U_C_GALLEON,U_R_CARAVAN,U_E_CARAVAN
+icon = 7
+
+[WI_DIPLOMACY]
+rollover = 了解更多 - 什么是外交
+brief = 什么是外交
+detail = 每个玩家可以选择对其他玩家的外交立场。三种立场是同盟、敌对和中立。同盟——军事单位不攻击其他玩家的建筑和单位。敌对——军事单位攻击视野内的所有建筑和单位。中立——军事单位只攻击视野内的军事单位。两个玩家可以对彼此采取不同立场。
+also = WI_ALLIED_VICTORY
+icon = 7
+
+[WI_ALLIED_VICTORY]
+rollover = 了解更多 - 什么是联盟胜利
+brief = 什么是联盟胜利
+detail = 在联盟胜利中，玩家可以选择作为团队一起获胜（或失败）。达成胜利条件的玩家为所有盟友赢得游戏。
+also = WI_DIPLOMACY
+icon = 7
+
+[WI_UNIT_STATISTICS]
+rollover = 了解更多 - 什么是单位属性
+brief = 什么是单位属性
+detail = 单位属性提供了关于单位或建筑特征的有价值信息。你可以在选择视图中看到所选对象及其属性。名称、王国、生命状态——单位可承受的伤害量，攻击——单位可造成的伤害量，法力——单位当前的魔法容量，力量——单位执行特殊动作的当前容量，射程——单位造成伤害的距离，抵抗——减少建筑受攻击时遭受的伤害，内部——单位物品栏中的物品数量，防御——减少单位受攻击时遭受的伤害，时间——完成任务所需的时间，等级——衡量单位的经验。当选中多个单位时，只显示它们的生命状态。
+also = WI_UNIT,WI_RESISTANCE
+icon = 7
+
+[WI_MANNA]
+rollover = 了解更多 - 什么是法力
+brief = 什么是法力
+detail = 法力是单位当前的魔法容量。法师需要法力来召唤魔法生物，之后需要一段时间恢复到原值。
+also = U_E_MAGE,U_R_MAGE,U_A_MAGE
+icon = 7
+
+[t_e_rotating_fields]
+brief = 轮作
+detail = 造价-400 黄金 ~ 轮作科技使农民在收割农田时多获得 2 点食物。
+rollover = 了解更多 - 轮作
+
+[t_a_rotating_fields]
+brief = 轮作
+detail = 造价-400 黄金 ~ 轮作科技使农民在收割农田时多获得 2 点食物。
+rollover = 了解更多 - 轮作
+
+[t_r_rotating_fields]
+brief = 轮作
+detail = 造价-400 黄金 ~ 轮作科技使农民在收割农田时多获得 2 点食物。
+rollover = 了解更多 - 轮作
+
+[t_r_ore_flotation]
+brief = 浮选
+detail = 造价-300 黄金 ~ 浮选科技使矿工携带的资源增加 15%。
+rollover = 了解更多 - 浮选

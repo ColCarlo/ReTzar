@@ -1,0 +1,982 @@
+# TZAR: The Burden Of The Crown (Campaign\Tzar.wcm del CD americano):
+# l'inglese è l'originale, l'italiano è tradotto per ReTzar.
+
+# campagna
+it: TZAR: Il peso della corona\nDopo centinaia di anni di guerra Keana è stata infine conquistata dal Male. Il vecchio re Roan è morto e suo figlio Sartor deve combattere per riportare la pace e la giustizia nel mondo.
+zh: TZAR：王冠之重\n数百年战乱之后，基纳终被邪恶势力征服。老国王罗恩已死，他的儿子萨托尔必须奋战，为世界重新带回和平与正义。
+
+# tzar.wcm::maps/vsaa
+it: Ancora una volta
+zh: 又一次
+it: Viaggio alle isole di Allita, salvataggio di Rea di Allita e assedio di Ses di Allita.
+zh: 前往阿利塔群岛，救出阿利塔的蕾娅，围攻阿利塔的塞斯。
+it: Forze di Borgh
+zh: 博尔格的军队
+it: Ammiraglia di Mun Li
+zh: 蒙利的旗舰
+it: Ghiron deve sopravvivere.\n\nCostruisci almeno una Camera commercio sulle isole.
+zh: 吉隆必须存活。\n\n在群岛上至少建一座商会。
+it: Vardal e Ghiron devono sopravvivere.\n\nNon lasciare che il nemico riconquisti le isole.\nCostruisci almeno una Camera commercio sulle isole.
+zh: 瓦尔达尔和吉隆必须存活。\n\n不要让敌人夺回群岛。\n在群岛上至少建一座商会。
+it: Sartor, Vardal e Ghiron devono sopravvivere.\n\nVardal E Ghiron devono raggiungere Sartor.\nCostruisci almeno una Camera commercio sulle isole.
+zh: 萨托尔、瓦尔达尔和吉隆必须存活。\n\n瓦尔达尔和吉隆必须与萨托尔会合。\n在群岛上至少建一座商会。
+it: Sartor, Vardal e Ghiron devono sopravvivere.\n\nI tre eroi devono salpare verso ovest.\nCostruisci almeno una Camera commercio sulle isole e lascia almeno cinquanta soldati a difenderle.
+zh: 萨托尔、瓦尔达尔和吉隆必须存活。\n\n三位英雄必须向西航行。\n在群岛上至少建一座商会，并留下至少五十名士兵守卫。
+it: La ricostruzione delle isole di Allita procedeva lenta. Per la gente era difficile dimenticare Borgh e ciò che le aveva fatto. I pirati saccheggiavano le coste e Ghiron doveva vegliare senza sosta su quella fragile pace. Un giorno, all'improvviso, ebbe una visione.
+zh: 阿利塔群岛的重建进展缓慢。让人们忘掉博尔格和他做过的事很难。海盗劫掠海岸，吉隆不得不时刻守望着这份脆弱的和平。有一天，他忽然看见一个幻象。
+it: Che piacere rivedervi, amici miei! Ma... dov'è Woolin?
+zh: 又见到你们真是太好了，朋友们！可是……伍林在哪儿？
+it: È stato catturato!
+zh: 他被抓走了！
+it: E voi lo avete abbandonato?!
+zh: 你们就把他丢下了？！
+it: Non potevo fare nulla...
+zh: 我什么也做不了……
+it: Basta! Sartor, Vardal ha detto che non poteva aiutarlo e io gli credo! Libereremo Woolin al più presto. Ora dimmi, hai portato notizie della Sfera?
+zh: 够了！萨托尔，瓦尔达尔说他帮不上忙，我信他！我们会尽快救出伍林。现在告诉我，你带回宝球的消息了吗？
+it: Sì, mi è capitata tra le mani una lettera che parla di una mappa custodita in una torre dei maghi nel continente di Kalt'ha. La mappa indica dove si trova la Sfera.
+zh: 是的，我偶然得到一封信，信里提到一张地图，藏在卡尔塔大陆上一座法师塔里。那张地图标出了宝球所在的位置。
+it: Prima di essere catturato anche Woolin aveva parlato di quella torre dei maghi.
+zh: 被抓之前，伍林也提到过那座法师塔。
+it: La mappa deve essere di certo laggiù. Andiamo a prenderla subito.
+zh: 地图肯定就在那里。我们马上去取。
+it: Sì, e lì c'è anche Woolin. Dobbiamo aiutarlo.\nPossiamo portare con noi qualche ninja: si sono dimostrati molto utili.
+zh: 对，伍林也在那儿。我们得去救他。\n可以带上几个忍者：他们很管用。
+it: Sono passato da una sventura all'altra. Almeno siamo arrivati in tempo per aiutare il nostro amico. Alla carica!
+zh: 我经历了一场又一场灾祸。至少我们及时赶到来帮我们的朋友。冲锋！
+it: Salve, viaggiatori! Mi chiamo Ghiron e cerco alleati su quest'isola.
+zh: 你们好，旅人！我叫吉隆，来这座岛上寻找盟友。
+it: Tutti qui conoscono il vostro nome. Saremmo onorati di aiutare un nobile mago come voi.\nMa ditemi, non siete voi e i vostri amici quelli che hanno conquistato questo luogo non molto tempo fa? Non avete ucciso tutti sull'isola?
+zh: 这里人人都知道您的名字。能为像您这样高尚的法师效力，是我们的荣幸。\n不过请告诉我，不久前攻下此地的不正是您和您的朋友吗？岛上的人不是都被你们杀光了吗？
+it: No, abbiamo risparmiato i pacifici abitanti dei villaggi, ma temo che si uniranno a chiunque possa offrire loro protezione. Ed è proprio ciò che intendo fare. Il mio scopo è restituire a questa terra la sua bellezza e la sua prosperità.
+zh: 没有，我们没伤害村里安分的百姓，但恐怕谁给他们庇护他们就跟谁。而这正是我要做的。我的目标是让这片土地恢复它的美丽与繁荣。
+it: E l'altra isola?
+zh: 那另一座岛呢？
+it: Ho ricostruito tutto ciò che potevo, ma gran parte delle sue risorse era già esaurita prima che cominciassi.\nMi servono le ricchezze di quest'isola per continuare l'opera.
+zh: 凡是能修复的我都修复了，但它的大部分资源在我动手之前就已经耗尽了。\n我需要这座岛的财富来继续这项事业。
+it: Ma perché tanta fretta? Nessuno ve le porterà via!
+zh: 可为什么这么急？没人会抢走它们！
+it: Questo è ciò che pensi, ma la verità è che la notte scorsa, mentre pregavo all'altare, ho avuto visioni terribili.\nHo visto una flotta nemica avvicinarsi a queste isole, al comando di Mun Li, il miglior generale di Borgh, e Sartor che la inseguiva molto più indietro.\nE a ovest è successo qualcosa di terribile. Alcuni miei amici potrebbero avere bisogno di aiuto, perciò devo fare del mio meglio per rafforzare in fretta questa regione.\nMi serve l'aiuto della gente del posto.
+zh: 你这么想，但事实是，昨夜我在祭坛祈祷时看见了可怕的景象。\n我看见一支敌军舰队逼近这些岛屿，由博尔格最好的将领蒙利统率，而萨托尔远远追在后面。\n西边还出了可怕的事。我有些朋友可能需要帮助，所以我必须尽快让这一带强固起来。\n我需要本地人的帮助。
+it: Non sono sicuro che abbiate visto le cose giuste! C'è stata una tempesta per tutta la notte, per questo siamo rimasti alla taverna. Nessuna nave potrebbe navigare indenne con un tempo simile.
+zh: 我不确定您看见的是不是真的！整夜都有风暴，所以我们才留在酒馆里。这样的天气，没有船能完好地航行。
+it: Hai ragione, la tempesta ci ha dato davvero un vantaggio. Ma ha soltanto disperso la flotta di Mun Li e danneggiato la sua ammiraglia. Le riparazioni sono in corso su un'isola vicina. Quando saranno terminate, la flotta si radunerà e attaccherà subito. Ma prima possiamo di certo aspettarci qualche nave civetta. Andiamo quindi a cercare gli abitanti dei villaggi.
+zh: 你说得对，这场风暴确实给了我们优势。但它只是吹散了蒙利的舰队，弄坏了他的旗舰。修理正在附近一座岛上进行。等修好，舰队就会集结，立刻进攻。不过在那之前，肯定会有几艘船来试探。所以我们去找村里的百姓吧。
+
+# tzar.wcm::maps/benas
+it: Guarnigione di Benas
+zh: 贝纳斯驻军
+it: Guardie della foresta
+zh: 森林守卫
+it: Mappa della Sfera
+zh: 宝球地图
+it: Distruggi l'accampamento nemico che sorveglia la salita all'altopiano con la foresta. Hai un giorno (30 minuti) prima che l'esercito di Benas si accorga della nostra presenza.
+zh: 摧毁看守着通往高原森林那条坡道的敌营。在贝纳斯的军队察觉我们到来之前，你有一天（30 分钟）。
+it: Distruggi il castello rosso sulla costa orientale. Porta a Ghiron la pergamena con la mappa che indica dove si trova la Sfera.
+zh: 摧毁东海岸的红色城堡。把标有宝球位置的地图卷轴带给吉隆。
+it: Ghiron, Sartor, Woolin e Vardal devono sopravvivere.
+zh: 吉隆、萨托尔、伍林和瓦尔达尔必须存活。
+it: Woolin era stato salvato, ma la mappa era andata perduta. Restava un solo luogo dove potesse trovarsi: la città di Benas. L'esercito di Sartor avanzava lento nel deserto, costretto a combattere una battaglia dopo l'altra. Eppure sembrava che nulla potesse fermare la sua marcia su Benas.
+zh: 伍林获救了，可地图却丢了。只剩一个地方可能还留着它：贝纳斯城。萨托尔的军队在沙漠中缓慢推进，被迫一战接一战地打。然而似乎什么都挡不住他向贝纳斯进军。
+it: I signori della guerra della città di Benas sanno che siamo qui. Ora dobbiamo rivolgerci contro di loro. Distruggete il castello laggiù e portatemi la mappa che indica dove si trova la Sfera.
+zh: 贝纳斯城的军阀们知道我们在这里。现在该对付他们了。毁掉那边的城堡，把标着宝球位置的地图给我带来。
+it: Ho parlato con l'antico emiro di questa provincia. Ha accettato di aiutarci a liberare questa terra dalle forze di Borgh. Ci ha dato il benvenuto nelle sue terre e nel suo castello e ha ordinato a tutti i suoi sudditi di obbedirci.\nPare che la fama delle tue imprese sia giunta fin quaggiù, Sartor.
+zh: 我和本省的前任埃米尔谈过了。他同意帮我们把这片土地从博尔格的势力下解放出来。他欢迎我们进入他的土地和城堡，并命令所有臣民服从我们。\n看来你的事迹连这么远的地方都传到了，萨托尔。
+it: Allora abbiamo un punto d'appoggio per il nostro assalto a Benas. Non ho mai smesso di stupirmi della tua abilità nel convincere la gente, Ghiron.
+zh: 那我们就有进攻贝纳斯的落脚点了。吉隆，你劝说人的本事总让我惊奇。
+it: Anche se fosse, stavolta non ce n'è stato bisogno.\nL'emiro mi ha descritto la conformazione di questa terra. Nel deserto ci sono molti luoghi dove estrarre oro o pietra, ma quasi tutti gli alberi sono stati abbattuti dai servi di Borgh per fortificare Benas. L'unica fonte di legname di una certa importanza che ci resta, e a cui possiamo arrivare, è su un basso altopiano lontano a nord, un po' a est di questo castello. Lassù è di stanza una grossa guarnigione, che sorveglia l'unica salita alla foresta.
+zh: 就算是吧，这次倒用不着。\n埃米尔向我讲了这里的地形。沙漠中有不少可以采金或采石的地方，但几乎所有的树都被博尔格的仆从砍去加固贝纳斯了。我们还能到达的唯一像样的木材来源，在很北边一处低矮的高原上，比这座城堡略偏东。那里驻着一支大部队，守着通往森林的唯一坡道。
+it: Allora dobbiamo distruggerla in fretta, prima che l'esercito di Benas si accorga della nostra presenza. Da quel che so di questa città, ci serviranno molte macchine d'assedio per arrivare al castello.
+zh: 那我们就得赶紧毁掉它，趁贝纳斯的军队还没察觉我们到来。据我对这座城的了解，要打到城堡跟前，我们需要大量攻城器械。
+it: Sì, dobbiamo sbrigarci. Dobbiamo raggiungere il castello di Benas e prendere la mappa che indica dove si trova la Sfera, anche a costo di raderlo al suolo.\nL'emiro mi ha parlato anche di un luogo incantato, una porta verso un mondo al di là. Chi possiede la porta ha il potere di evocare da essa creature magiche. Dobbiamo impadronircene il prima possibile, perché non possiamo lasciare che il nemico la usi contro di noi.
+zh: 对，得赶紧。我们必须打到贝纳斯城堡，取回标着宝球位置的地图，哪怕把那里夷为平地。\n埃米尔还跟我讲了一处被施了魔法的地方，一道通往另一个世界的门。谁拥有这道门，就有力量从中召来魔法生物。我们必须尽快夺取它，因为绝不能让敌人用它来对付我们。
+
+# tzar.wcm::maps/bigisland
+it: La grande isola
+zh: 大岛
+it: Inserire la descrizione !!!!!!!
+zh: 插入说明！！！！！！！
+it: Pirati
+zh: 海盗
+it: Villaggio di pescatori
+zh: 渔村
+it: Resurrezione
+zh: 复活术
+it: Woolin e Vardal devono parlare con Azim e Falla nei due villaggi sulle isole a sud-est.\nAiutali, poi torna a parlare con Marsim.
+zh: 伍林和瓦尔达尔必须与东南两座岛上两个村庄里的阿齐姆和法拉交谈。\n帮他们，然后回去找马西姆。
+it: Porta Azim all'oro sull'isola del Teschio. Lascia che lo prenda, poi riportalo al magazzino del villaggio. Difendilo dai guardiani non morti, poi parla con Razma.
+zh: 带阿齐姆去骷髅岛上的金矿。让他取金，然后把他送回村里的仓库。保护他不受亡灵守卫伤害，然后和拉兹马交谈。
+it: Va' sull'isola a sud-est del villaggio di Azim e recupera il libro degli incantesimi, poi portalo a Razma. Ti ricompenserà.
+zh: 去阿齐姆村东南方的那座岛，取回咒语书，然后交给拉兹马。他会给你报酬。
+it: Distruggi l'accampamento dei pirati sull'isola a nord del villaggio di Falla. Riporta a Falla il sacerdote che vi è tenuto prigioniero.
+zh: 摧毁法拉村以北那座岛上的海盗营地。把囚在那里的祭司带回法拉村。
+it: Woolin e Vardal devono parlare con Kaffar sulla costa sud-occidentale dell'isola di Sahra.
+zh: 伍林和瓦尔达尔必须在萨赫拉岛西南岸与卡法尔交谈。
+it: Porta Vardal e i resti delle tue truppe alla capanna di Marsim, dove è ancorata la nave, poi salpa verso il bordo orientale della mappa.
+zh: 带瓦尔达尔和你残余的部队到马西姆的小屋，船就停在那里，然后驶向地图东缘。
+it: Woolin, Vardal e il tuo galeone devono sopravvivere.
+zh: 伍林、瓦尔达尔和你的大帆船必须存活。
+it: Poco dopo la vittoria Ghiron, Woolin, Sartor e Vardal si riunirono per decidere la prossima mossa. Parlarono per tutta la notte e al mattino ognuno prese la propria strada. Ghiron rimase sulle isole per aiutarne la ricostruzione, Sartor partì alla testa di un gruppo scelto di cavalieri verso la lontana terra di Hong, e Woolin e Vardal si diressero al continente di Kalt'ha per trovare la torre dei maghi che, a detta di Ghiron, custodiva la chiave del potere di Borgh.
+zh: 胜利后不久，吉隆、伍林、萨托尔和瓦尔达尔聚在一起商议下一步。他们谈了一整夜，天亮时各奔前程。吉隆留在群岛上帮助重建，萨托尔率一队精选的骑士前往遥远的洪地，伍林和瓦尔达尔则去卡尔塔大陆寻找那座法师塔——据吉隆说，博尔格力量的钥匙就藏在那里。
+it: Alla nave! Raggiungiamo la nave e salpiamo! Presto!
+zh: 上船！到船上去，起航！快！
+it: Woolin ha bisogno del nostro aiuto, uomini!\nAll'attacco!
+zh: 伍林需要我们的帮助，弟兄们！\n进攻！
+it: No! Non avvicinatevi, sciocchi! Non potete salvarmi.\nCorrete! Fuggite alle isole di Allita e dite a Ghiron che deve trovare il modo di portare un esercito in cima alle scogliere di Rajba! Deve saperlo!\nPresto, fuggite!
+zh: 不！别靠近，蠢货！你们救不了我。\n快跑！逃回阿利塔群岛，告诉吉隆，他必须想办法把一支军队送上拉杰巴的悬崖顶上！一定要让他知道！\n快，逃！
+it: Così vieni da solo, Woolin? Dove sono i tuoi soldati?\nPerché non sono vicino a te... nel caso ti servissero?
+zh: 你就这样一个人来，伍林？你的士兵呢？\n他们怎么不在你身边……万一你需要他们呢？
+it: È sempre saggio esplorare la zona prima di mandare avanti il grosso delle forze. E se hai davvero informazioni preziose, sono pronto ad ascoltarle. Non c'è bisogno che altri siano presenti per parlarne, giusto?
+zh: 派主力之前先侦察一下地形，总是明智的。你若真有宝贵的情报，我准备听。说这些不必有旁人在场，对吧？
+it: Prudente e coraggioso come sempre... Vedo che non sei cambiato, Woolin, guardia del corpo di re Roan. Tu forse non ti ricordi di me, ma io mi ricordo bene di te, e ho un conto in sospeso con te.\nSei venuto a rubare il segreto della Pioggia di fuoco, ma i tuoi sforzi sono vani e non ti rendi conto della tua follia. La torre dei maghi è lontana, nel deserto a est, in cima alle scogliere rocciose di Rajba. È sorvegliata, ma anche se riuscissi a eludere le guardie non potresti scalare le ripide scogliere, a meno di saper volare.\nOra sei in mio potere! Ti pentirai di essere venuto qui!
+zh: 一如既往地谨慎又勇敢……我看你没变，伍林，罗恩国王的侍卫。你也许不记得我，我可记得你很清楚，我还有一笔账要跟你算。\n你来偷火雨的秘密，可你的努力全是白费，你根本不知道自己有多蠢。法师塔远在东方沙漠里，在拉杰巴岩崖的最高处。那里有人看守，可就算你躲过守卫，除非你会飞，也爬不上那些陡崖。\n现在你落在我手里了！你会后悔来这儿！
+it: Non mi piace. Marsim ci aveva messi in guardia da questo Kaffar, e ora vedo che il luogo dove possiamo trovarlo è ideale per un'imboscata. Ogni via d'accesso è ben visibile... E perché mai un ribelle sceglierebbe di incontrarci nel punto dell'isola più vicino alla città nemica?\nRestate qui. Andrò a dare un'occhiata... Se è tutto a posto, vi farò segno di venire.
+zh: 我不喜欢这样。马西姆警告过我们这个卡法尔，现在我看出来，能找到他的这地方正适合打埋伏。每条通路都一览无余……再说，一个叛军为什么要选岛上离敌城最近的地点跟我们见面？\n你们留在这里。我去看看……若一切正常，我招手叫你们来。
+it: Vengo con te. Non posso lasciarti affrontare il pericolo da solo.
+zh: 我跟你去。我不能让你一个人去冒险。
+it: No, Vardal. Se è un'imboscata, almeno uno di noi deve restare con i nostri uomini per guidarli. Sarebbe stolto farci catturare o uccidere entrambi.\nAndrò io e tu resterai. Se mi dovesse accadere qualcosa, porterai a termine la nostra missione. Aspettami laggiù, vicino alla piramide di sabbia.
+zh: 不行，瓦尔达尔。若是埋伏，至少我们得留一个人带着弟兄们。两个人都被抓或被杀，那就太蠢了。\n我去，你留下。万一我出了事，你就把我们的任务完成下去。在那座沙金字塔旁等我。
+it: La fama delle vostre buone azioni corre veloce. Tutti sulle isole sanno che avete aiutato chi era nel bisogno. La gente forse non è ancora pronta a combattere per voi, ma c'è chi vi aiuterebbe.
+zh: 你们善行的名声传得很快。岛上人人都知道你们帮助过有难的人。百姓也许还没准备好为你们打仗，但总有人愿意帮你们。
+it: E in che modo ci aiuterebbero?\nForse conoscete qualcuno che può guidarci alla torre dei maghi che stiamo cercando?
+zh: 那他们怎么帮我们？\n也许你认识能带我们找到那座法师塔的人？
+it: Dovreste andare a parlare con Kaffar.\nÈ venuto da me tempo fa e ha fatto domande su di voi. Sembrava sapere molte cose sul vostro conto e ha lasciato intendere di avere informazioni che trovereste preziose.\nMa state in guardia: Kaffar è noto come uomo coraggioso, ma anche astuto. Spesso fa ciò che pensa gli porterà più profitto... a volte a spese degli altri.
+zh: 你们该去和卡法尔谈谈。\n不久前他来找过我，打听你们的事。他似乎对你们知道得很多，还暗示手上有你们会觉得宝贵的情报。\n不过要当心：卡法尔以胆大著称，也同样狡诈。他常做自认为最有利的事……有时是踩着别人。
+it: Andremo a parlare con questo Kaffar. Che la nave resti ancorata qui fino al nostro ritorno. Grazie del consiglio, vecchio.
+zh: 我们去和这个卡法尔谈谈。船在我们回来之前就停在这儿。多谢你的指点，老人家。
+it: Abbiamo già saputo della battaglia sull'isola dei pirati. E vedo che avete liberato il nostro guaritore. La vostra bella nave avrà certo bisogno di riparazioni. Il minimo che possiamo fare per ripagare la vostra gentilezza è aiutarvi in questo. Uno dei nostri abitanti verrà con voi, così potrete riparare la nave ogni volta che servirà. Credo che vi servirà in perfette condizioni nelle vostre prossime battaglie.\nAndate con la benedizione della brava gente di qui.
+zh: 我们已听说海盗岛上的战斗，也看见你们救出了我们的医者。你们的好船肯定需要修理。为报答你们的善举，我们至少能帮这个忙。我们会派一个村民随你们同行，这样每次需要时都能修船。我想日后的战斗里，你们需要它保持最佳状态。\n带着此地善良人的祝福去吧。
+it: È un accampamento militare o un villaggio?\nVedo case e contadini al lavoro, ma anche molti soldati e un avamposto militare.
+zh: 这是军营还是村庄？\n我看见有房屋，有农人在劳作，可也有许多士兵和一个军事哨站。
+it: Questo è il villaggio di Sal'Bahra e io sono Falla, il capo delle guardie.\nVoi dovete essere Woolin e Vardal dei Protettori? Ho sentito che Marsim ha parlato con degli stranieri che si facevano chiamare con quei nomi.\nAvete un occhio esperto per le cose militari... Forse siete davvero Woolin, la guardia del corpo di re Roan. Siamo stati costretti a schierare qui delle truppe per proteggere gli abitanti dai pirati che solcano queste acque.
+zh: 这里是萨尔巴哈拉村，我是法拉，卫队之首。\n你们一定是保护者团的伍林和瓦尔达尔？听说马西姆跟几个自称这名字的外乡人谈过。\n你对军务的眼光很老练……也许你真是伍林——罗恩国王的侍卫。我们不得不在这里布兵，保护村民不受在这些水域出没的海盗侵扰。
+it: Perché restate qui ad aspettare che i pirati vengano ad attaccarvi, invece di andare a cercare la loro base e distruggerli una volta per tutte?
+zh: 你们为什么守在这里等海盗来打，而不去找到他们的老巢，一举除掉他们？
+it: Siamo quasi certi che agiscano da una base su un'isoletta a nord, ma non possiamo attaccarli. Siamo troppo pochi: a pochi è concesso portare armi... tranne che ai soldati di Borgh, si capisce, ma a loro non importa combattere i pirati. Credo perfino che ricevano una parte del bottino dei pirati e in cambio li lascino in pace.\nE non abbiamo navi da guerra per combattere le navi dei pirati. Non possiamo attaccarli con le barche da pesca.
+zh: 我们几乎可以肯定他们是从北边一座小岛上的基地出动，可我们打不了他们。我们人太少：没多少人获准持械……博尔格的士兵当然例外，可他们才不管打海盗。我甚至觉得他们能分一份海盗的赃物，作为交换就不去管他们。\n而且我们没有战船去对付海盗的船。靠渔船是打不了他们的。
+it: Possiamo aiutarvi noi. Abbiamo una nave con i cannoni e credo che siamo abbastanza per assaltare l'accampamento dei pirati.\nDiteci solo dove andare.
+zh: 我们可以帮你们。我们有一条装炮的船，我想人手也够打他们的营地。\n只要告诉我们往哪儿去。
+it: Ve lo mostrerò tra un momento.\nAvete una nave potente, ma credo che si possa migliorare... Vi daremo un po' di legname, così potrete modificarla perché infligga più danni in battaglia.\nIl guaritore di questo villaggio è stato fatto prigioniero dai pirati. Se il vostro attacco ai pirati avrà successo, vi prego, trovatelo e riportatelo qui. Ne abbiamo un gran bisogno.
+zh: 我一会儿指给你们看。\n你们的船很结实，不过我想还能改进……我们给你们一些木材，你们可以改造它，让它在战斗里杀伤更大。\n本村的医者被海盗抓走了。你们若打垮了海盗，请找到他，把他带回来。我们非常需要他。
+it: Ahh... il libro! Ce l'avete!\nÈ un incantesimo potente: anima i corpi di chi cade in battaglia e ve ne dà il comando, così ogni battaglia porterà nuovi soldati nelle vostre file.\nVi avevo promesso una ricompensa se mi aveste portato il libro. Non ho nulla da darvi... se non il mio aiuto. So lanciare incantesimi di benedizione e di guarigione. Posso anche imparare l'incantesimo di questo libro, e di altri, se ne troverete. Vi seguirò, miei signori. Le vostre imprese hanno dimostrato chiaramente che ne siete degni.
+zh: 啊……那本书！你们拿到了！\n这是个强大的咒语：它能让战死者的尸体复起，并听你号令，所以每一场战斗都会给你的队伍添新兵。\n我答应过，把书带来就报答你们。我没什么可给的……除了我自己。我会施祝福与治疗之咒，也能学会这本书里的咒语，还有你们找到的别的书。我愿随你们，我的主上。你们的事迹已清楚表明你们配得上。
+it: Oggi avete compiuto una buona azione, signori.\nOra è tempo di compierne un'altra: per voi stessi e contro Borgh... O dovrei dire: per il bene del giovane Sartor?\nLeggo sui vostri volti che volete chiedermi come faccio a sapere tante cose. E ancora una volta non vi risponderò, perciò non chiedetelo.\nSu un'altra delle isole qui vicino c'è un libro degli incantesimi. I soldati di Borgh lo hanno scoperto poco tempo fa, ma non osano toccarlo e hanno mandato a chiamare uno dei maghi perché venga a prenderlo. Questo libro non deve cadere nelle mani di Borgh. Uccidete i soldati, poi portatemi il libro. Vi ricompenserò.\nAndate!
+zh: 今天你们做了件好事，主上。\n现在该再做一件——为你们自己，也为对付博尔格……或者我该说：为了年轻的萨托尔？\n从你们脸上我看得出，你们想问，我怎么知道这么多。这一回我还是不答，所以别费口舌了。\n附近另一座岛上有一本咒语书。博尔格的士兵不久前发现了它，却不敢碰，派人去叫一个法师来取。这本书绝不能落到博尔格手里。杀掉那些士兵，然后把书带来给我。我会报答你们。\n去吧！
+it: Salute, nobili signori.\nCredo di sapere perché siete qui. Volete sapere dell'isola del Teschio.
+zh: 向你们问安，高贵的主上。\n我想我知道你们为何而来。你们想打听骷髅岛。
+it: Come sapete perché siamo qui?
+zh: 你怎么知道我们为何而来？
+it: So molte cose, signore.\nE ora ve ne svelerò un poco.\nSull'isola del Teschio c'è un tesoro. Ma i pescatori fanno bene a tenersi lontani dalle sue coste. Ci sono bestie pericolose, ma non è di questo che dovete avere paura.\nL'isola è maledetta. Vi dimorano i fantasmi di coloro che lì furono massacrati dai pirati molto tempo fa. Morirono per il tesoro che ora si trova laggiù, e lo custodiranno da chiunque tenti di prenderlo.\nAndate laggiù e distruggete i fantasmi. Azim verrà con voi a prendere l'oro. Quando avrete finito, tornate a parlare con me.
+zh: 我知道很多事，先生。\n现在我告诉你们一点。\n骷髅岛上有宝藏。渔夫们不去靠近那片海岸是对的。那里有危险的野兽，但你们该怕的不是这个。\n这岛受了诅咒。很久以前被海盗屠杀的人，鬼魂还留在那里。他们因那批宝藏而死，如今宝藏仍在那里，他们会守住它，不让任何人拿走。\n去那里，消灭那些鬼魂。阿齐姆会跟你们去取金子。办完之后，回来跟我说话。
+it: Salve, buon uomo.\nMi chiamo Woolin e lui è Vardal, cavaliere dell'Ordine dei Protettori. Ci ha mandati qui un eremita di nome Marsim. Ha detto che avreste avuto bisogno di aiuto e noi ve lo daremo volentieri.
+zh: 你好，好心人。\n我叫伍林，这位是瓦尔达尔，保护者团的骑士。一位叫马西姆的隐士派我们来。他说你们需要帮忙，我们乐意效劳。
+it: Salve, nobili cavalieri. Siamo in grande difficoltà e Marsim ha fatto bene a parlarvi di noi.\nIl pesce lungo queste coste non è più abbondante come qualche anno fa, ed è l'unica cosa di cui possiamo vivere su quest'isola spoglia. Una settimana fa sono venuti qui gli esattori di Borgh e ci hanno costretti a versare mille monete d'oro al tesoro. Mille monete d'oro! Su questo nostro scoglio di isola non ce n'è mai stato tanto. Se non paghiamo entro una settimana, ci porteranno a lavorare nelle miniere di Borgh! Siamo semplici pescatori, non robusti nani, e là moriremmo di certo. Solo un miracolo può salvarci...
+zh: 你们好，高贵的骑士。我们处境极为艰难，马西姆跟我们提起你们是件好事。\n这一带海岸的鱼已不像几年前那么多了，可在这座光秃秃的岛上，我们只能靠捕鱼过活。一周前，博尔格的税吏来了，逼我们向国库缴纳一千枚金币。一千枚金币！我们这块小小的石头岛上，从来没有过这么多金子。若一周内不缴，他们就把我们押到博尔格的矿场去做工！我们只是普通渔夫，不是结实的矮人，到那里必死无疑。只有奇迹能救我们……
+it: Allora vi serve davvero un miracolo, perché non abbiamo con noi tanto oro, e non siamo certo abbastanza forti per difendere quest'isola da tutto l'esercito di Borgh in Kalt'ha, se vi rifiutaste di pagare.
+zh: 那你们真需要一个奇迹，因为我们身上没有那么多金子；若你们拒缴，我们也绝不够强，守不住这座岛去对抗卡尔塔全境的博尔格大军。
+it: Dio ci aiuti, se ci rifiutassimo! No, non intendevo nulla del genere. C'è un modo in cui potete aiutare noi poveri pescatori, gentili signori.\nA nord c'è un'isola, l'isola del Teschio. Si dice che vi sia un tesoro, sparso per terra alla portata di chiunque. Ma l'isola è pericolosa: vi dimorano bestie feroci. Se intendete ancora aiutarci, parlate con il sacerdote Razma, poco più a ovest di qui. Lui ne sa di più.
+zh: 若我们拒缴，愿神救我们！不，我不是那意思。高贵的大人，有个办法能帮我们这些穷渔夫。\n北边有座岛，骷髅岛。据说那里有宝藏，散在地上谁都能捡。可那岛很危险——有猛兽。若你们还愿意帮我们，去跟祭司拉兹马谈谈，就在西边不远处。他知道得更多。
+it: Salute, viaggiatori.\nSono Marsim, un umile eremita.\nChe cosa vi porta nella terra di Kalt'ha?\nVorrei potervi dire che siete i benvenuti, ma temo che molto presto scoprirete da soli come vanno le cose da queste parti.
+zh: 向你们问安，旅人。\n我是马西姆，一个卑微的隐士。\n是什么把你们带到卡尔塔之地？\n我希望能说欢迎你们，但恐怕很快你们就会自己发现这里的情形。
+it: Perché la gente di qui non dovrebbe essere lieta di incontrare degli stranieri? Abbiamo sentito racconti sulle ricchezze e la prosperità di questa terra, e sulla sua ospitalità.
+zh: 这里的人为什么不乐意见到外乡人？我们听过关于这片土地富庶繁荣、以及它好客的传说。
+it: La terra è ancora ricca, e tra noi c'è chi prospera. Ma sotto il dominio di Borgh solo gli spietati e gli indifferenti possono arrivare ad avere più dello stretto necessario per sopravvivere. Proprio su quest'isola sorgeva la capitale di tutta la terra di Kalt'ha, la grande città di Sahra. Ora non ne resta che un paese di pescatori. Borgh ha spostato la sede del suo potere nella città di Benas, proprio di fronte a Sahra, sulla terraferma. Non è altro che un gigantesco accampamento di soldati, con caserme, fucine di armi e laboratori d'assedio.
+zh: 土地依然富饶，我们当中也有人过得兴旺。但在博尔格的统治下，只有冷酷无情的人才能得到比糊口更多的东西。这座岛上原是整个卡尔塔之地的都城——伟大的萨赫拉城。如今只剩一个渔村。博尔格把他的权力中枢迁到了贝纳斯城，就在大陆上正对萨赫拉的地方。那不过是个巨大的兵营——有营房、兵器坊和攻城工坊。
+it: Va così male? Avevo sentito dire che il popolo di Kalt'ha non avrebbe accettato il giogo di nessuno...\nSiamo emissari di Sartor, il figlio di re Roan.\nCorrevano voci di maghi arabi che, in una torre da qualche parte su quest'isola, cercano per conto di Borgh il segreto di un potente incantesimo che gli permetterebbe di far piovere fuoco sui suoi nemici. Siamo venuti a impedire che diano un simile potere al nostro nemico. Sapete dove si trova questa torre?
+zh: 有这么糟？我听说卡尔塔的人民不会接受任何人的枷锁……\n我们是萨托尔的使者，罗恩国王之子。\n有传言说，这岛上某处的塔里有阿拉伯法师，正替博尔格寻找一个强大咒语的秘密，那咒语能让他向敌人降下火雨。我们来是要阻止他们把这样的力量交给我们的敌人。你知道那座塔在哪儿吗？
+it: Qui non troverete nessuna torre dei maghi. Forse ce n'è stata una molto tempo fa, ma su quest'isola non ne rimane traccia. Anch'io ho sentito dei maghi di Borgh che lavorano a un incantesimo di Pioggia di fuoco, ma per quel che ne so la loro torre si trova da qualche parte sulla terraferma. E se volete assaltarla, vi servirà l'aiuto del popolo di Kalt'ha.\nIl problema è che non si fideranno di nessuno che non sappiano capace e nobile... Non dopo essersi fidati, non molto tempo fa, degli ambasciatori di Borgh: ora ne paghiamo tutti un prezzo alto.
+zh: 这里找不到法师塔。也许很久以前有过，但这座岛上没留下痕迹。我也听说过博尔格的法师在研究火雨咒，但据我所知，他们的塔在大陆上某处。你们若想攻打它，需要卡尔塔人民的帮助。\n问题是，他们不会信任任何他们不知道其才干与品格的人……毕竟不久前他们才信过博尔格的使节，如今我们都在为此付出高昂代价。
+it: Non avete mai sentito parlare di Woolin, il capitano di re Roan? E io sono un cavaliere dell'Ordine dei Protettori. Di certo conoscete questi nomi? Sono leggendari, e non solo nelle terre del sud.
+zh: 你们没听说过罗恩国王的统领伍林吗？而我是保护者团的骑士。这些名字你们一定知道吧？它们已是传说，不只南方之地。
+it: Quei nomi li abbiamo sentiti... così come sapevamo che i nomi e i titoli degli ambasciatori di Borgh erano degni e nobili.\nParole e nomi da soli non vi faranno guadagnare l'amicizia della gente di qui. Se provate ad andare a Sahra e a gridare chi siete, molto probabilmente sarete accolti soltanto dalle spade.\nNo, dovrete dimostrare il vostro valore aiutando chi è nel bisogno tra il popolo di Kalt'ha.\nSulle isole qui vicino ci sono due piccoli villaggi. Parlate con la gente che ci abita e fate ciò che vi chiede. Quando avrete fatto del vostro meglio per aiutarli, tornate da me. Spargerò la voce del vostro arrivo, e quando tutti vedranno che ci volete davvero bene, saranno pronti ad aiutarvi.
+zh: 那些名字我们听过……就像我们也知道博尔格使节的名号与头衔是高贵可敬的。\n光凭话语和名字，赢不来这里人的友谊。你们若去萨赫拉大喊自己是谁，多半只会迎来刀剑。\n不，你们得靠帮助卡尔塔人中需要帮助的人来证明自己的价值。\n附近岛上有两个小村子。去和那里的人谈谈，照他们说的做。等你们尽力帮过他们，再回来找我。我会把你们到来的消息传开；等大家都看出你们真心为我们好，他们就会愿意帮你们。
+
+# tzar.wcm::maps/rajba
+it: Campo di prigionia
+zh: 战俘营
+it: Prigionieri
+zh: 俘虏
+it: Guardie della torre
+zh: 塔卫
+it: Maghi di Rajba
+zh: 拉杰巴法师
+it: Morte ardente
+zh: 焚身之死
+it: Sartor deve liberare Woolin, tenuto prigioniero in un campo a ovest del castello di Bahra.
+zh: 萨托尔必须救出被关在巴哈拉城堡以西一处营地里的伍林。
+it: Sartor, Ghiron, Woolin e Vardal devono sopravvivere.
+zh: 萨托尔、吉隆、伍林和瓦尔达尔必须存活。
+it: Uccidi i maghi sulle scogliere nell'angolo nord-ovest della mappa e prendi il Libro della Morte ardente e la mappa che indica dove si trova la Sfera. Non distruggere la torre.
+zh: 杀掉地图西北角悬崖上的法师，夺取《焚身之死》和标有宝球位置的地图。不要毁掉塔。
+it: Porta a Ghiron il Libro della Morte ardente.
+zh: 把《焚身之死》带给吉隆。
+it: Dopo tanto tempo, Sartor poteva finalmente vedere avvicinarsi la fine delle guerre. Dopo molti anni avevano qualche notizia della Sfera. La lettera ricevuta dagli Antichi monaci accennava all'esistenza della mappa di un'isola dove si poteva trovare la Sfera. E la mappa si trovava nel continente di Kalt'ha. Da qualche parte in quella vasta terra era tenuto prigioniero anche Woolin.
+zh: 过了这么久，萨托尔终于看到战乱将尽。多年之后，他们有了宝球的一些消息。古代僧人来信暗示，存在一张标着某座岛的地图，宝球就在那岛上。而那张地图在卡尔塔大陆。在那片广袤之地的某处，还关着被俘的伍林。
+it: Godetevi la vostra misera vittoria finché potete, sciocchi! Avrete pure conquistato la torre, ma la mappa non l'avrete mai! La porterò al mio signore a Benas, dove nessun esercito potrà prenderla!\nPresto sarete morti!
+zh: 趁还能享受，就享受你们那点可怜的胜利吧，蠢货！你们也许夺下了塔，可永远拿不到地图！我要把它带回贝纳斯交给我的主子，那里没有军队能夺走它！\n你们很快就死！
+it: Che piacere vederti qui, Sartor. Cominciavo a temere che non saresti riuscito a sfondare le difese.
+zh: 在这儿见到你真好，萨托尔。我开始担心你打不穿那些防线了。
+it: Sono felice di vederti illeso e di buon umore, Woolin. Ci sei mancato molto.\nPresto attaccheremo la torre dei maghi sulle scogliere. Verrai con noi, immagino?
+zh: 见到你安然无恙、心情不错，我很高兴，伍林。我们很想你。\n我们很快就要攻打悬崖上的法师塔。我想你会跟我们一起去吧？
+it: Certo che parteciperò all'attacco. Ma devi sapere che non sarà facile arrivare alla torre. Dovremo aprirci la strada attraverso una base nemica prima ancora di arrivare ai piedi delle scogliere. Poi dovremo trovare il modo di scalare le pareti di roccia per raggiungere la torre. Ho sentito dire che il luogo è ben fortificato. E i maghi non saranno facili da uccidere, perché padroneggiano già l'incantesimo della Pioggia di fuoco. È scritto in un libro, il Libro della Morte ardente. Non dobbiamo permettere che questo libro arrivi a Birsha.
+zh: 当然，我会参加进攻。但你得知道，要打到塔前并不容易。还没到崖脚，我们就得先杀过一处敌军基地。然后还得想办法攀上岩壁才能到塔前。我听说那地方防御坚固。法师们也不好杀，因为他们已经掌握了火雨咒。那咒语写在一本书里——《焚身之死》。绝不能让这本书落到比尔沙手里。
+it: Non dovremo arrampicarci noi sulle pareti di roccia. Nelle terre dell'est ho incontrato una casta di abili guerrieri, i ninja. Sanno andare e venire senza farsi notare, e scogliere e mura non sono un ostacolo per loro. Ora sono pronti ad aiutarci.\nMa il segreto dell'incantesimo della Pioggia di fuoco non è più il nostro scopo principale. Cerchiamo una mappa per trovare la mistica Sfera. Nelle terre dell'est abbiamo trovato prove che era custodita in questa torre.
+zh: 我们不必亲自攀岩壁。在东方之地我遇到过一个善战的武士阶层——忍者。他们能来去无踪，悬崖和城墙对他们不是障碍。现在他们愿意帮我们。\n但火雨咒的秘密已不是我们的首要目标。我们在找一张能寻到神秘宝球的地图。在东方之地我们找到了证据，它曾被收藏在这座塔里。
+it: Sì, ho sentito parlare di una mappa importante. Credo che volessero portarla in un luogo più sicuro, a Benas. Ma non ho idea di come o quando intendessero spostarla.\nFaremo meglio a sbrigarci...
+zh: 是的，我听人说起过一张重要的地图。我想他们打算把它转移到贝纳斯更安全的地方。但我不知道他们打算怎么运、什么时候运。\n我们最好快点……
+it: Siamo venuti a combattere i maghi di Rajba.\nHo sciolto la maledizione che vi teneva... per un po'. Non può essere spezzata finché ci sono maghi nella torre sulle scogliere.\nOra avete una scelta: combattere con noi contro i maghi che vi hanno maledetti all'oblio, o tornare al vostro oblio. Scegliete in fretta!
+zh: 我们来讨伐拉杰巴的法师。\n我解开了束缚你们的诅咒……只是暂时的。只要悬崖塔里还有法师，它就破不了。\n现在你们有个选择：跟我们一起去打那些把你们诅咒到遗忘的法师，或者回到你们的遗忘里去。快选！
+it: Perché siete venuti a Bahra?\nChi osa camminare sulla terra maledetta?
+zh: 你们为什么来巴哈拉？\n谁敢踏上这片受诅咒的土地？
+it: Scegliamo di combattere. Anche se non ci fosse alcuna maledizione su di noi, faremmo comunque guerra ai maghi. Sono un male che affligge questa terra da troppo tempo, e vanno eliminati.\nComandateci!
+zh: 我们选择战斗。就算身上没有诅咒，我们也要向那些法师开战。他们是祸害这片土地太久的邪恶，必须除掉。\n请吩咐！
+it: Bene. Il nostro primo compito sarà liberare il nostro amico Woolin. È tenuto prigioniero in una roccaforte a ovest di qui.\nNon possiamo lasciarlo in mano al nemico, e di certo saprà di più sulla torre dei maghi.
+zh: 好。我们的第一件事是救出我们的朋友伍林。他被关在西边一处堡垒里。\n我们不能把他丢在敌人手里，他肯定更清楚那座法师塔的事。
+it: Della sua liberazione mi occuperò io. Chiunque osi mettersi tra noi se ne pentirà!
+zh: 救他的事交给我。谁敢挡在我们中间，谁就会后悔！
+it: Soffino i venti del deserto e si increspi la terra!\nSi muovano le dune e si scavino le valli!\nSi ritiri la sabbia dalle mura di Bahra!\nVedano i maledetti la luce del giorno!
+zh: 让沙漠的风吹起来，让大地起伏！\n让沙丘移动，让山谷下陷！\n让沙从巴哈拉的城墙退去！\n让那些受诅咒的人重见天日！
+it: Bene, eccoci qui, Ghiron.\nCome ci avevi chiesto, abbiamo viaggiato leggeri e non abbiamo portato nessuno che potesse aiutarci a costruire un accampamento qui.\nE ora che facciamo? Presto ci troveranno, e non possiamo certo tirare fuori un esercito dalla sabbia, no?
+zh: 好，我们到了，吉隆。\n照你说的，我们轻装而行，没带任何能帮我们在这里扎营的人。\n现在怎么办？他们很快就会发现我们，我们总不能让沙子里冒出一支军队吧？
+it: Un esercito dalla sabbia? Vedremo...\nMa sappiate questo, amici: siamo osservati. Il nemico sapeva del nostro arrivo molto prima che toccassimo la riva. I maghi del deserto sono una forza da non sottovalutare.\nCi resta poco tempo prima che i nostri nemici radunino le truppe e vengano a prenderci.\nTanto tempo fa qui sorgeva uno splendido castello. Le sue torri dorate scintillavano alla luce del sole nascente...\nOra non ne resta che un cumulo di sabbia sulle mura in rovina. Su questa terra fu gettata una maledizione, un incantesimo d'oblio, e quando calò, il castello e la sua gente furono sepolti sotto il deserto. È giunto il momento che rivedano la luce del giorno.\nVenite!
+zh: 从沙子里冒出一支军队？走着瞧……\n但你们要知道，朋友们：有人在看着我们。敌人早在我们靠岸之前就知道我们要来。沙漠的法师是一股不可小看的力量。\n敌人集结兵力来抓我们，剩给我们的时间不多了。\n很久以前，这里有一座辉煌的城堡。它金色的塔楼在朝阳里闪闪发光……\n如今只剩废墟城墙上的一堆沙。这片土地被下了诅咒，一道遗忘之咒；咒语落下时，城堡和这里的人都被埋在沙漠之下。现在，该让他们重见天日了。\n来吧！
+
+# tzar.wcm::maps/saa10
+it: Mappa7
+zh: 地图7
+it: Villaggio
+zh: 村庄
+it: Pioggia di fuoco
+zh: 火雨
+it: Pozione dell'eroe
+zh: 英雄药水
+it: Uccidi Birsha.\n\nWoolin, Sartor e Ghiron devono sopravvivere.
+zh: 杀掉比尔沙。\n\n伍林、萨托尔和吉隆必须存活。
+it: Distruggi tutti i fantasmi alla fine del sentiero di croci.
+zh: 消灭十字小径尽头的所有鬼魂。
+it: Prendi la pozione rossa.
+zh: 拿起红色药水。
+it: Dopo la fortunata campagna di Jaddua, Ghiron e Sartor decisero che era il momento giusto per attaccare di sorpresa Birsha nel suo accampamento. Quando tra il loro esercito e le truppe di Birsha non restava che l'ultimo passo di montagna, si fermarono a studiare l'attacco.
+zh: 贾杜阿一战告捷后，吉隆和萨托尔认定，此刻正是突袭比尔沙营地的时机。当他们的军队与比尔沙的部队之间只剩最后一道山口时，他们停下来研究进攻方案。
+it: Grandi ricompense attendono chi segue i sentieri dei caduti e dà alle loro anime l'ultimo riposo.
+zh: 追随亡者之路、让其灵魂安息的人，将得到丰厚的回报。
+it: Sorgete, miei fedeli alleati! Finalmente sono invincibile!
+zh: 起来吧，我忠实的盟友！我终于无敌了！
+it: Siamo all'ultima fase.
+zh: 我们到了最后阶段。
+it: La seconda fase è compiuta. Possiamo procedere.
+zh: 第二阶段已完成。我们可以继续了。
+it: La prima fase è completata.
+zh: 第一阶段已完成。
+it: Possiamo cominciare il rito.
+zh: 我们可以开始仪式了。
+it: Forza, uomini, uscite allo scoperto e schiacciamoli!
+zh: 来吧，弟兄们，出来把他们碾碎！
+it: Sono arrivato quasi all'accampamento di Birsha. Alla fine del passo ci sono solo poche guardie. Il suo esercito si è accampato e le truppe si addestrano. Non ci scopriranno in tempo.\nMa tra loro ho visto alcuni sacerdoti. Chi sono?
+zh: 我几乎摸到比尔沙的营地了。山口尽头只有几个守卫。他的军队已扎营，部队正在操练。他们来不及发现我们。\n但我看见他们中间有些祭司。他们是谁？
+it: Ahimè, le voci erano vere. Devono essere i Servi dell'Avidità di cui ho sentito parlare tempo fa. A quanto pare Birsha si è alleato con loro. Anche i loro maghi devono essere qui... Sì, li sento vicino al vulcano, dall'altra parte della montagna. Si preparano a evocare i loro terribili troll! Abbiamo al massimo due giorni. Dobbiamo sbrigarci!
+zh: 唉，传言是真的。他们一定是我不久前听说过的「贪婪之仆」。看来比尔沙与他们结盟了。他们的法师一定也在这里……对，我感觉到他们在山那头的火山附近。他们正准备召来可怕的巨魔！我们最多只有两天。必须赶快！
+it: Aspettate, potrebbero cercare di ingannarci. Birsha non è uno sciocco. Deve aver lasciato andare di proposito i nostri esploratori e Sartor. Nel passo potrebbe esserci un'imboscata. Propongo di radunare un esercito più grande.
+zh: 等等，他们可能在骗我们。比尔沙不是傻子。他一定是故意放走我们的斥候和萨托尔。山口里可能有埋伏。我提议先集结更大的军队。
+it: E i troll?
+zh: 那巨魔呢？
+it: Una volta ho combattuto con un troll, e indovina chi ha vinto. Si possono distruggere. E poi possiamo comunque attaccare in meno di due giorni con un esercito più grande. Anche il libro magico potrebbe aiutarci.
+zh: 我曾和一只巨魔交过手，猜猜谁赢了。巨魔是可以被消灭的。再说，我们仍能在两天内带更大的军队进攻。那本魔法书也许也能帮上忙。
+it: Gli restano solo poche cariche.
+zh: 它只剩几次施放了。
+it: Se decidiamo di attaccare subito, dovremmo usare l'altro passo. Si trova a ovest di qui. È più largo e meno adatto alle imboscate. Almeno potremo ritirarci senza pericolo.
+zh: 若决定立刻进攻，我们该走另一道山口，就在西边。那里更宽，不适合设伏。至少我们能安全撤退。
+
+# tzar.wcm::maps/saa11
+it: Mappa 8
+zh: 地图 8
+it: I sacerdoti
+zh: 祭司们
+it: Avamposto
+zh: 哨站
+it: Druido delle acque
+zh: 水德鲁伊
+it: Pozione del mago
+zh: 法师药水
+it: Congelamento
+zh: 冰冻术
+it: Distruggi tutti i nemici della zona.\n\nWoolin, Sartor e Ghiron devono sopravvivere.
+zh: 消灭这一带所有敌人。\n\n伍林、萨托尔和吉隆必须存活。
+it: Accompagna Ghiron dal suo amico.
+zh: 带吉隆去见他的朋友。
+it: Sconfitto Birsha, la strada per la capitale di Borgh, Wark Aven, era aperta. Prima dell'attacco Woolin insistette perché Sartor si occupasse prima dei posti di difesa esterni della città. L'entusiasmo spingeva Sartor ad agire con decisione, ma alla fine anche lui convenne che sarebbe stato sciocco lasciare in piedi gli avamposti di Borgh e restare intrappolati tra due forze nemiche quando l'esercito avesse marciato sulla città.
+zh: 击败比尔沙后，通往博尔格都城瓦尔克·艾文的道路已经打开。进攻之前，伍林坚持要萨托尔先解决城市外围的防御据点。萨托尔一腔热血，想果断行动，但最后他也同意：留着博尔格的哨站不打，等大军攻城时被困在两面敌军之间，那是愚蠢的。
+it: Mi aspettavo che saresti passato, vecchio amico. Le voci sulle nobili imprese tue e dei tuoi amici sono arrivate perfino a me. Che cosa posso fare per te?
+zh: 我就料到你会来，老朋友。关于你和你朋友高尚事迹的传言，连我都听到了。我能为你做什么？
+it: Ci conosciamo da molto tempo e non ti ho mai chiesto nulla, ma è giunto il momento di farlo. I miei poteri possono essere molto utili in battaglia, ma sono impotente quando i miei compagni hanno bisogno di cure. Odio vederli indebolirsi e morire.\nCi aspetta una battaglia feroce, una battaglia che deciderà le sorti di questa terra per secoli. Dobbiamo essere nelle migliori condizioni per affrontare ciò che verrà. Accetti di unirti alla nostra causa?
+zh: 我们相识很久，我从未求过你什么，但现在该开口了。我的力量在战斗中很有用，可同伴需要治疗时我却无能为力。我不愿看他们衰弱、死去。\n等着我们的是一场恶战，一场将决定这片土地几百年命运的战斗。我们必须以最佳状态迎接接下来的事。你愿意加入我们的事业吗？
+it: Be', credo di aver passato abbastanza tempo a pregare su questo scoglio. Tanto gli dei non mi hanno ascoltato. Da questo momento io e il mio apprendista siamo al tuo servizio. Vicino alla mia casa ci sono alcuni oggetti che potrebbero esservi utili.
+zh: 好吧，我想我在这块石头上祈祷得够久了。反正神明也没听。从今往后，我和我的学徒都听你调遣。我家附近有些东西，你们也许用得上。
+it: Finalmente ci separa solo il fiume dalle mura di difesa esterne di Wark Aven. È ora di porre fine a questo terribile conflitto.
+zh: 终于，只有一条河把我们与瓦尔克·艾文的外城墙隔开了。该结束这场可怕的冲突了。
+it: Non è ancora finita. I nostri esploratori riferiscono che una grossa forza occupa l'isola nel fiume. Di certo la sostiene il villaggio sull'altra riva. L'unico modo per attraversare è passare sui ponti, ma sono collegati a quell'isola. E sono sicuro che presto arriveranno altri rinforzi da Wark Aven.
+zh: 还没完。我们的斥候报告，河心岛上驻着一支大部队。对岸的村子肯定在支援他们。过河只能走桥，可那些桥都连在那座岛上。而且我确信瓦尔克·艾文很快会派出更多援军。
+it: Un mio vecchio amico vive su uno scoglio nel lago a est. Potrebbe aiutarci nella nostra impresa. Purtroppo l'unico punto adatto per un porto è vicino all'isola. Forse dovremmo costruirne uno dopo aver ripulito la zona.
+zh: 我的一位老朋友住在东边湖中的一块礁石上。他也许能帮我们完成这件事。可惜唯一适合建港的地方就在那座岛附近。也许我们该在肃清那一带之后建一个。
+
+# tzar.wcm::maps/saa12
+it: Mappa 9
+zh: 地图 9
+it: Profughi
+zh: 难民
+it: Castello di Borgh
+zh: 博尔格城堡
+it: Distruggi il castello di Borgh.\n\nWoolin, Sartor e Ghiron devono sopravvivere.
+zh: 摧毁博尔格的城堡。\n\n伍林、萨托尔和吉隆必须存活。
+it: Dopo qualche breve scaramuccia, si trovarono davanti alle alte mura di Wark Aven. Sullo sfondo incombevano le torri scure del Castello del Male. Borgh aveva trasformato la città in un accampamento di guerra. Sartor e Woolin avevano deciso di attaccare di sorpresa da tre lati contemporaneamente. Contavano sull'appoggio della gente di Keana, che da molti giorni accorreva sotto le loro bandiere. Solo Ghiron continuava a ricordare che dovevano agire in fretta, prima che Borgh potesse rafforzare la sua posizione e prima che la gente perdesse la fiducia nella vittoria.
+zh: 几场小规模交锋之后，他们来到瓦尔克·艾文高墙之下。背景里，邪恶城堡的黑色塔楼巍然耸立。博尔格已把这座城市变成了一座军营。萨托尔和伍林决定从三面同时突袭。他们寄望于基纳百姓的支持——这些天来，人们不断聚集到他们的旗帜下。只有吉隆一直在提醒：必须迅速行动，趁博尔格还没来得及巩固阵地，也趁百姓还没失去对胜利的信心。
+it: Credo che sia fuggito nel suo castello. Dobbiamo distruggerlo in fretta!
+zh: 我想他逃进自己的城堡了。我们得赶紧毁掉它！
+it: Vedo una grande nave lasciare la città. A bordo c'è un grande male: una presenza che mi spaventa.
+zh: 我看见一条大船离开城镇。船上有莫大的邪恶——一股让我害怕的存在。
+it: Borgh ha raccolto tutta la sua potenza. Ora dobbiamo combattere per la vita.
+zh: 博尔格已集结起全部力量。现在我们要为性命而战。
+it: Sono arrivati i primi rinforzi, ma perdiamo uomini troppo in fretta.
+zh: 第一批援军到了，可我们损失人手太快。
+it: Vi prego, nobili soldati, aiutateci! Siamo pacifici mercanti venuti da lontano. Quando avete sfondato le difese esterne, le truppe di Borgh hanno cominciato a massacrare per le strade di Wark Aven ogni straniero «sospetto». Siamo riusciti a fuggire, ma le guardie alla porta ci hanno visti. Stanno radunando una squadra per inseguirci. In cambio possiamo aiutarvi nella vostra offensiva costruendo alcuni edifici comuni. Possiamo conquistare ciò che non sappiamo costruire.
+zh: 求你们，高贵的士兵，救救我们！我们是从远方来的和平商人。你们突破外围防线后，博尔格的军队开始在瓦尔克·艾文街上屠杀一切「可疑」的外乡人。我们逃了出来，可城门的守卫看见了我们。他们正在组织追兵。作为回报，我们可以帮你们进攻——替你们建一些普通建筑。我们不会建的，可以去夺。
+it: Certo che vi salveremo, ma prima parlateci della città!
+zh: 我们当然会救你们，但先跟我们说说这座城！
+it: C'è poco da dire: la città interna sembra un accampamento di guerra. È fortificata pesantemente e molte truppe si addestrano vicino al castello di Borgh. I maghi evocano golem di pietra. Borgh prepara un massiccio contrattacco per domattina.
+zh: 也没什么好说的：内城像个军营。防御工事很重，许多部队在博尔格城堡附近操练。法师们在召石魔像。博尔格正准备明早大举反攻。
+it: Ottimo, allora dobbiamo piantare qui il nostro accampamento e aspettare che venga!
+zh: 好极了，那我们就在这里扎营，等他来！
+it: Attento, entro domattina non possiamo costruire un accampamento abbastanza forte da resistere ai suoi golem. Ci sottovaluta. Propongo di attaccare prima che raduni tutte le sue forze. Il suo potere è grande.
+zh: 当心，到明早我们建不起能挡住他魔像的营地。他低估了我们。我提议在他集结全部兵力之前就进攻。他的力量很强。
+it: Forza, l'attacco alla porta orientale è appena cominciato. Non dobbiamo lasciare soli i nostri compagni. Propongo di conquistare quel castello a nord. Sembra quasi indifeso. Che scegliamo di attaccare o di difenderci, ci sarà utile.
+zh: 快，东门的进攻刚刚开始。不能让我们的人独自作战。我提议夺取北边那座城堡。它看起来几乎无人防守。无论我们选择进攻还是防守，它都有用。
+it: Facciamolo, allora!
+zh: 那就干吧！
+
+# tzar.wcm::maps/saa3
+it: Mappa 1
+zh: 地图 1
+it: Pattuglia
+zh: 巡逻队
+it: Esploratore
+zh: 斥候
+it: Trova l'accampamento dei ribelli vicino alla vecchia strada e parla con Woolin.\nSartor e Ghiron devono sopravvivere.
+zh: 在旧路附近找到叛军的营地，与伍林交谈。\n萨托尔和吉隆必须存活。
+it: Segui Woolin e tendi un'imboscata ai soldati nemici.\nWoolin, Sartor e Ghiron devono sopravvivere.
+zh: 跟随伍林，伏击敌军士兵。\n伍林、萨托尔和吉隆必须存活。
+it: All'alba Sartor credeva a Ghiron e sapeva tutto delle guerre, di suo padre, re Roan, e della Sfera perduta. Era difficile per lui accettare che le persone che amava come genitori non fossero il suo vero padre e la sua vera madre, e che il destino del mondo dipendesse da lui. Si sentiva male ogni volta che ricordava ciò che i soldati di Borgh avevano fatto al suo villaggio. Ma Sartor sentiva che non poteva più tornare indietro.
+zh: 黎明时，萨托尔信了吉隆，知道了关于战争、他父亲罗恩国王和失落宝球的一切。他很难接受自己视如父母的人并非亲生父母，而世界的命运要靠他。每次想起博尔格的士兵对他的村庄做过什么，他都难受。但萨托尔觉得，自己已无法回头。
+it: Jaddua - est.
+zh: 贾杜阿——东边。
+it: Aspettate! Qui c'è qualcosa che non va... Sembra che i nostri compagni siano caduti in un'imboscata. Dobbiamo mandare un esploratore ad avvertire il capitano.
+zh: 等等！这里不对劲……看来我们的同伴中了埋伏。我们得派个斥候去通知统领。
+it: Benvenuto nel mio accampamento, mio signore. Mi chiamo Woolin. Ero amico e consigliere di vostro padre.
+zh: 欢迎来到我的营地，主上。我叫伍林。我曾是您父亲的朋友和谋士。
+it: Spero che anche noi diventeremo amici, ora che combatteremo insieme. Che cosa avevate in mente di fare?
+zh: 既然我们要并肩作战，希望我们也能成为朋友。你打算怎么做？
+it: Preparavamo un'imboscata alle truppe nemiche di pattuglia. Si muovono in piccoli gruppi lungo il passaggio nella foresta.
+zh: 我们正打算伏击巡逻的敌军。他们小队沿林中通道行进。
+it: Allora andiamo.
+zh: 那就走吧。
+it: D'accordo, dobbiamo tornare alla fossa che avete superato e proseguire verso est lungo la vecchia strada, così da intercettare le pattuglie nemiche e coglierle di sorpresa. Il punto più adatto è dove la strada è sbarrata, il più vicino al sentiero. Vi farò strada.
+zh: 好，我们得回到你们经过的那道坑，再沿旧路向东，好截住巡逻的敌人，出其不意。最合适的地点是道路被堵住的地方，离小路最近。我带路。
+it: Perciò devi sconfiggere il malvagio Borgh e riunire di nuovo Keana.
+zh: 所以你必须击败邪恶的博尔格，把基纳重新统一起来。
+it: Ma come faccio? Ho sangue reale, ma chi mi seguirà?
+zh: 可我怎么做？我有王族血统，可谁会跟我？
+it: La gente è sfinita, Sartor. Alla morte di tuo padre seguirono guerre e sciagure. Il suo regno di pace è un ricordo prezioso. La gente seguirà chiunque prometta un futuro felice. Soprattutto se è il figlio di Roan.
+zh: 百姓已经筋疲力尽，萨托尔。你父亲死后，战乱与灾祸接踵而来。他太平的治世是珍贵的记忆。谁许诺幸福的未来，百姓就会跟谁。尤其是罗恩的儿子。
+it: Giusto, ma da dove cominciamo?
+zh: 说得对，可从哪儿开始？
+it: Non è un caso che stanotte siamo qui. Ti ho portato in questa foresta perché qui sono di stanza i resti della guardia d'onore di tuo padre. Per tutti questi anni hanno combattuto contro la tirannia di Borgh. Li guida Woolin. Un tempo era il consigliere più fidato di tuo padre. Ci sta aspettando.
+zh: 今夜我们在这里并非偶然。我把你带到这片森林，是因为你父亲的荣誉卫队残部就驻扎在此。这些年来他们一直在反抗博尔格的暴政。领头的是伍林。他从前是你父亲最信任的谋士。他在等我们。
+it: Come possiamo trovarlo?
+zh: 我们怎么找到他？
+it: Proseguiremo lungo questo sentiero finché non troveremo una fossa profonda. Fa parte della campagna con cui vent'anni fa Borgh distrusse le strade che collegavano Keana e Jaddua. Da lì dovremo proseguire verso ovest lungo la vecchia strada e trovare uno degli avamposti abbandonati. Ora li usano i ribelli.
+zh: 沿这条小路走，直到看见一道深坑。那是二十年前博尔格毁掉基纳与贾杜阿之间道路的行动留下的。从那儿我们得沿旧路往西，找到一处废弃的哨站。现在叛军在用它们。
+it: Allora sei il figlio di re Roan! Prosegui fino al fuoco del bivacco e parla con Woolin.
+zh: 那你就是罗恩国王的儿子！你到营火那边去，跟伍林说话。
+
+# tzar.wcm::maps/saa4
+it: Mappa 2
+zh: 地图 2
+it: Spiriti maligni
+zh: 恶灵
+it: Carri delle tasse
+zh: 税车
+it: Carro 2
+zh: 车 2
+it: Carro 1
+zh: 车 1
+it: Gli eroi devono parlare con l'anziano.
+zh: 英雄们必须与长者交谈。
+it: Distruggi i non morti nel cimitero.
+zh: 消灭墓地的亡灵。
+it: Riporta i tuoi eroi dall'anziano.
+zh: 把英雄带回长者那里。
+it: Distruggi la scorta dei carri delle tasse.
+zh: 消灭税车的护卫。
+it: Woolin, Ghiron e Sartor devono sopravvivere.
+zh: 伍林、吉隆和萨托尔必须存活。
+it: Proteggi gli abitanti del villaggio.
+zh: 保护村民。
+it: Erano passate diverse settimane dal fortunato attacco alla pattuglia di Borgh. Woolin aveva recuperato la vecchia armatura di re Roan, chissà da dove, e Sartor faceva fatica ad abituarcisi. Ghiron aveva un piano e continuava a spronarli ad andare avanti. Viaggiavano tutto il giorno, e la sera Woolin e Ghiron raccontavano a Sartor la storia del mondo, di città meravigliose e di tempi in cui le guerre erano solo leggenda. A volte Woolin insegnava a Sartor a combattere con la spada e ad andare a cavallo. Altre volte Ghiron gli insegnava la pazienza e le buone maniere. Un giorno arrivarono in un piccolo villaggio, e dal sorriso di Ghiron Sartor capì che erano giunti a destinazione.
+zh: 突袭博尔格巡逻队成功之后，已过了好几个星期。伍林不知从哪儿弄回了罗恩国王的旧铠甲，萨托尔穿起来很不习惯。吉隆有个计划，不断催他们前行。他们整日赶路，晚上伍林和吉隆就给萨托尔讲世界的历史、讲奇妙的城市、讲战争还只是传说的年代。有时伍林教萨托尔用剑、骑马，有时吉隆教他耐心与礼仪。有一天，他们来到一个小村庄，从吉隆的笑容里，萨托尔知道目的地到了。
+it: Ultima dimora - sud-est.
+zh: 最后安息之地——东南。
+it: Bene, uomini, voglio che ogni singola moneta di questo villaggio finisca nel mio carro! Che cosa aspetti, vecchio sciocco? Portami il bestiame!
+zh: 好，弟兄们，这村里每一枚钱币我都要装上车！你还等什么，老傻瓜？把牲畜给我牵来！
+it: Perché invece non te ne vai dal mio villaggio e lasci qui i carri?
+zh: 你怎么不滚出我们村子，把车留在这儿？
+it: COSA!!! Guardie, diamo una lezione a questo cane. Uccidetelo!
+zh: 什么！！！卫兵，给这条狗一个教训。杀了他！
+it: Vediamo chi uscirà vivo di qui. Venite fuori, dobbiamo ucciderli.
+zh: 看看谁能活着离开这儿。出来，我们得杀了他们。
+it: Grazie della tua bontà, Woolin! Come posso ripagare il mio debito con te o con i tuoi amici? Oh, perdonate questo vecchio sciocco, non mi hai presentato il giovane signore.
+zh: 多谢你的好意，伍林！我该怎么还你和你朋友的情？哦，恕这老糊涂，你还没给我引见这位年轻的领主。
+it: Sono Sartor, figlio di Roan. Io e i miei amici siamo qui per prendere l'oro dei carri delle tasse. Ci serve per liberare questa terra dal malvagio Borgh e restaurare il regno di mio padre. Abbiamo bisogno del vostro aiuto, buon uomo. Voi e alcuni dei vostri abitanti ci aiuterete?
+zh: 我是萨托尔，罗恩之子。我和朋友来取税车上的金子。我们需要它把这片土地从邪恶的博尔格手中解放出来，恢复我父亲的王国。我们需要你的帮助，好心人。你和一些村民愿意帮我们吗？
+it: Sarebbe magnifico se il nostro villaggio si liberasse di quegli sfrontati esattori. Ad ogni modo, non lo faremo solo per il nostro bene, ma anche perché il saggio regno del defunto re brilla ancora nella nostra memoria. C'è però un problema: i loro cavalieri sono troppo forti. Spero che con il vostro aiuto potremo sconfiggerli. Ora nascondete i vostri uomini e aspettate il mio segnale.
+zh: 要是我们村子能摆脱那些无耻的税吏，那就太好了。再说，我们不只为自己，也是因为已故国王贤明的治世仍在我们记忆里闪光。不过有个问题：他们的骑士太强了。希望有你们相助，我们能打败他们。现在把你们的人藏好，等我的信号。
+it: Non preoccuparti dei cavalieri, vecchio, non possono nulla contro la mia picca. Ora dobbiamo andare.
+zh: 别担心那些骑士，老人家，他们挡不住我的长矛。现在我们得走了。
+it: Oh, Woolin, che piacere vedere un amico in tempi così difficili!
+zh: 哦，伍林，这么艰难的日子里见到朋友真高兴！
+it: Hai ragione come sempre, vecchio, ma dimmi: come mai sembri così triste?
+zh: 你说得对，老人家，不过告诉我：你怎么看起来这么悲伤？
+it: Ahimè, come dicevo, i tempi sono duri. Non solo i carri delle tasse sono fermi poco lontano dal villaggio e arriveranno da un momento all'altro a prendersi il nostro ultimo oro e il bestiame, ma qualche giorno fa è anche accaduta una disgrazia.
+zh: 唉，就像我说的，日子难过。不只是税车停在离村不远的地方，随时会来拿走我们最后一点金子和牲畜，几天前还出了桩祸事。
+it: Dimmi che cosa è successo, vecchio amico!
+zh: 告诉我出了什么事，老朋友！
+it: Sei giorni fa un gruppo di soldati di Borgh è uscito dalla foresta parlando di «una brutta imboscata» e di «vendicare i compagni». Quando mi hanno visto sembravano spaventati, ma uno di loro ha detto agli altri: «Questo contadino non ha l'aria di uno che guida truppe». Poi si sono infuriati e hanno impiccato al vecchio cimitero i primi due abitanti che hanno visto. Dopo quel fatto ho mandato vecchie armi a tutte le fattorie lontane e ho organizzato una guardia al ponte.
+zh: 六天前，一伙博尔格的士兵从森林里出来，嘴里说着「一次恶毒的埋伏」和「为同伴报仇」。他们看见我时显得害怕，可其中一个对其他人说：「这农夫看着不像带兵的」。随后他们大怒，在老墓地绞死了最先看见的两个村民。这事之后，我给远处每个农场都送了旧武器，还在桥头安排了守卫。
+it: Mi dispiace sentirlo. Se posso fare qualcosa per aiutarti...
+zh: 听到这个我很难过。若有我能帮忙的……
+it: Non è tutto. Ora gli spiriti dei due abitanti infestano il cimitero. Stanno per risvegliare tutti i morti. Ti prego, Woolin, se distruggerai gli spiriti la maledizione sarà spezzata e io sarò in debito con te.
+zh: 还不止这些。那两个村民的鬼魂如今在墓地作祟。它们就要唤醒所有死者。求你，伍林，你若消灭那些鬼魂，诅咒就会破除，我欠你一份情。
+it: Allora lo farò.
+zh: 那我就去做。
+it: Allora devi andare verso sud lungo la strada. Dopo aver passato il ponte vedrai un cartello che indica il cimitero. Va' nella direzione che indica.
+zh: 那你得沿路往南走。过了桥会看见一块指向墓地的路牌。照它指的方向走。
+it: L'armatura di vostro padre vi sta proprio bene, Sire.
+zh: 您父亲的铠甲很合身，主上。
+it: Grazie, Woolin, ma ho ancora bisogno di allenarmi. Questa armatura è molto pesante...
+zh: 谢谢，伍林，可我还得练。这副铠甲很重……
+it: Ehi, voi due, concentriamoci sul compito che abbiamo davanti. Dobbiamo catturare i carri delle tasse di Borgh. Non possiamo restaurare il castello di Keanor senza oro, giusto?
+zh: 喂，你们两个，专心对付眼前的事。我们得夺取博尔格的税车。没有金子就修不好基纳尔城堡，对吧？
+it: Pensi che ci sarà abbastanza oro su quei carri per aiutarci a restaurare il vecchio castello di Keanor?
+zh: 你觉得那些车上装的金子够我们修复古老的基纳尔城堡吗？
+it: Sentite, conosco l'anziano del villaggio qui vicino, a sud-est. Lì possiede la locanda. Mi ha detto che le tasse sono altissime. Credo che sia così dappertutto, perciò non preoccupatevi per l'oro.
+zh: 听着，我认识东南边那个村子的长者。他在那儿开酒馆。他跟我说税极重。我想到处都这样，所以别担心金子。
+it: Allora dobbiamo andare da lui a chiedere dei carri delle tasse.
+zh: 那我们就得去找他打听税车的事。
+it: Andiamo, allora!
+zh: 那就走吧！
+
+# tzar.wcm::maps/saa5
+it: Mappa 3
+zh: 地图 3
+it: Esercito di Borgh
+zh: 博尔格的军队
+it: Woolin, Sartor e Ghiron devono sopravvivere.
+zh: 伍林、萨托尔和吉隆必须存活。
+it: Distruggi le forze nemiche che attaccano la città.
+zh: 消灭进攻城镇的敌军。
+it: Completa il castello e costruisci gli edifici più importanti.\n\nRicostruisci quante più difese puoi e raduna qualche truppa.
+zh: 建成城堡，并建造最重要的建筑。\n\n尽可能多修防御工事，集结一些部队。
+it: Distruggi la forza minacciosa e tutte le truppe ostili rimaste nella zona.
+zh: 消灭那支威胁性的部队和区域内所有残余敌军。
+it: Il piano di Ghiron riuscì e i ribelli ottennero l'oro così importante per la loro causa. Felici e soddisfatti, partirono per Keanor. Nessuno si lamentava e la stanchezza sembrava svanita. Un mattino arrivarono in vista di Keanor e la loro gioia svanì di colpo. Davanti alle mura cadenti infuriava una battaglia. Pochi coraggiosi difensori cercavano di respingere l'attacco e di salvare quel poco che restava della città.
+zh: 吉隆的计划成功了，叛军得到了对他们事业至关重要的金子。他们心满意足地出发前往基纳尔。没有人抱怨，疲惫似乎也消失了。一天早晨，他们望见了基纳尔，喜悦顿时消散。坍塌的城墙前正激战。少数勇敢的守军在奋力击退进攻，想保住这座城仅剩的一点东西。
+it: Dobbiamo mandare qualche esploratore ad avvertirci quando le forze nemiche si avvicinano.
+zh: 我们得派些斥候，敌军逼近时来报信。
+it: La loro cavalleria si avvicina! Salvateci!
+zh: 他们的骑兵逼近了！救救我们！
+it: Abbiamo vinto! Ora possiamo ricostruire il castello e la città.
+zh: 我们赢了！现在可以重建城堡和城镇了。
+it: Sì, e dobbiamo farlo in fretta. Ho visto il nemico distruggere le mura. Credo che lo facesse per far passare la cavalleria. Se è così, attaccheranno di certo presto.
+zh: 对，而且得快。我看见敌人拆毁了城墙。我想他们是为了让骑兵通过。若是这样，他们肯定会很快进攻。
+it: Vedo che le mura sono danneggiate e che la città interna è in fiamme. Dobbiamo sbrigarci!
+zh: 我看城墙已被破坏，内城在燃烧。我们得赶快！
+it: Ma che cosa è successo al fossato?
+zh: 可护城河怎么了？
+it: Nessuno poteva sprecarvi risorse. Ora è solo terra. Dentro si combatte ancora: dobbiamo cercare di salvare almeno un po' di contadini e di edifici, così da poter restaurare la città.
+zh: 没人能匀出资源来修它。现在只剩土了。里面还在打：我们得尽量救下一些农民和建筑，这样才能重建这座城。
+
+# tzar.wcm::maps/saa6
+it: Mappa 4
+zh: 地图 4
+it: Nani
+zh: 矮人
+it: Orchi
+zh: 兽人
+it: Castello Valor
+zh: 瓦洛尔城堡
+it: Castello Dread
+zh: 德雷德城堡
+it: Capo dei nani
+zh: 矮人首领
+it: Protettore
+zh: 保护者
+it: Woolin e Valor devono sopravvivere.\n\nDistruggi tutte le forze e gli edifici di Dread.
+zh: 伍林和瓦洛尔必须存活。\n\n摧毁德雷德的所有部队和建筑。
+it: Distruggi tutti gli orchi nelle paludi.
+zh: 消灭沼泽里所有兽人。
+it: Torna dal capo dei nani.
+zh: 回到矮人首领那里。
+it: Restaurata Keanor, Ghiron propose a Sartor di mandare Woolin nella regione dei Campi della Luna a spargere la voce del ritorno del figlio di re Roan e del restauro dell'antica capitale. Sartor sapeva che senza l'appoggio della gente di Keana la sua causa era perduta. Così un mattino Woolin prese con sé alcuni uomini e partì. Poco dopo si trovò davanti a Lord Valor.
+zh: 基纳尔重建之后，吉隆建议萨托尔派伍林去月亮原野地区，传播罗恩国王之子归来的消息，以及旧都重建的消息。萨托尔知道，没有基纳百姓的支持，他的事业必败。于是一天早晨，伍林带上几个人出发了。不久，他站在了瓦洛尔领主面前。
+it: Tutti gli orchi sono morti. Devo parlare di nuovo con il capo dei nani.
+zh: 所有兽人都死了。我得再和矮人首领谈谈。
+it: Finalmente, ora che gli orchi sono stati uccisi, possiamo estrarre l'oro delle paludi. Ecco la vostra ricompensa: un oggetto magico di grande potere.
+zh: 终于，兽人被杀了，现在我们可以采沼泽里的金子了。这是你的报酬：一件力量强大的魔法器物。
+it: Grazie, e buona fortuna con le nuove miniere.
+zh: 多谢，祝你的新矿场顺利。
+it: Tieni il tuo dono e aiutami con i tuoi nani nella battaglia contro Lord Dread.
+zh: 留着你的礼物，带你的矮人来帮我打德雷德领主。
+it: Tu e i tuoi amici vi siete dimostrati onorevoli, perciò ci uniremo alla vostra causa. Guidaci in battaglia!
+zh: 你和你的朋友已证明了自己的荣誉，所以我们加入你的事业。带我们上阵吧！
+it: Che tu possa vincere la tua onorevole battaglia.
+zh: 愿你在这场光荣的战斗中取胜。
+it: Ti aiuterò, Lord Valor, ma prima devi farmi un favore. Le nostre miniere d'oro sono esaurite. Volevamo estrarre l'oro nelle paludi, ma sono arrivati gli orchi e vi hanno costruito il loro altare. Distruggili e ti ricompenserò generosamente. Alcuni di noi verranno con te. Torna qui quando avrai finito.
+zh: 我会帮你，瓦洛尔领主，但你先得帮我一个忙。我们的金矿采空了。我们本想去沼泽采金，可兽人来了，在那儿建起了他们的祭坛。消灭他们，我会重重赏你。我们有些人会跟你去。办完事回来。
+it: Sono venuto a chiederti aiuto contro il malvagio Lord Dread, capo dei nani.
+zh: 我来求你帮忙，对付邪恶的矮人首领德雷德领主。
+it: Salve! Che cosa porta un gruppo così numeroso di guerrieri in queste terre?
+zh: 你好！这么一大群武士到这片土地来做什么？
+it: Mi chiamo Woolin, capitano della guardia d'onore di re Sartor, e questi soldati fanno parte del suo esercito. Siamo qui per chiedere a Lord Valor di unirsi al nuovo re e per offrirgli protezione.
+zh: 我叫伍林，萨托尔国王荣誉卫队的统领，这些士兵是他军队的一部分。我们来请瓦洛尔领主加入新王，并向他提供保护。
+it: Allora ho trovato gli uomini giusti. Sono Lord Valor e stavo proprio andando a Keanor a chiedere aiuto al nuovo re. Che uomo è?
+zh: 那我可算找对人了。我是瓦洛尔领主，我正要去基纳尔向新王求助。他是个怎样的人？
+it: È un uomo d'onore, come suo padre, re Roan. Sta ricostruendo l'antica capitale e la prepara ad affrontare l'esercito di Borgh. Ma ha bisogno di alleati di cui potersi fidare. Quasi tutti i signori con cui ho già parlato si sono uniti alla sua causa, e credo che il castello Valor non farà eccezione. Di che aiuto avete bisogno?
+zh: 他是个有荣誉的人，像他父亲罗恩国王一样。他正在重建旧都，准备迎击博尔格的军队。但他需要可以信赖的盟友。我谈过的领主几乎都加入了他的事业，我相信瓦洛尔城堡也不会例外。你们需要什么帮助？
+it: Il mio vicino, Lord Dread, è appoggiato da Borgh. È diventato ricco e forte. È malvagio come tutti quelli che si uniscono a Borgh, e così ha cominciato a radunare un esercito per divorare i suoi vicini. Non posso difendere da solo la mia terra, perciò voglio chiedere al re di aiutarmi con il suo esercito. Ma sappiate questo: che mi aiuti o no, continuerò a essere il suo fedele alleato, e sono certo che quasi tutta la gente delle mie terre farà lo stesso. Abbiamo conosciuto il padre e possiamo fidarci del figlio!
+zh: 我的邻居德雷德领主有博尔格撑腰。他变得又有钱又强大。他像所有投靠博尔格的人一样邪恶，于是开始集结军队，想吞并邻居。我一个人守不住自己的土地，所以想请国王派军队帮我。但你们要知道：不管他帮不帮我，我都会继续做他忠实的盟友，而且我相信我领地上几乎所有的人都会如此。我们认识他父亲，就能信他儿子！
+it: Riferirò le vostre parole al re. Intanto vi offro il mio aiuto personale e quello delle truppe che guido. Che cosa dobbiamo fare?
+zh: 我会把你的话转告国王。眼下我先献上我个人的协助和我所率部队的助力。我们该做什么？
+it: Prima dovete annunciare alla gente la mia decisione. Troverete cartelli che indicano le fattorie e i villaggi. Quando si saranno uniti a voi, le vostre truppe dovranno difendere il mio castello finché non avrò radunato un esercito. Nel frattempo cercherò di parlare con i nani. Sono accampati sulle montagne a sud. Forse potrebbero darci una mano.
+zh: 先把我这个决定告知百姓。你会看到指向农场和村庄的路牌。等他们加入你，你的部队得守住我的城堡，直到我集结起一支军队。这期间我去试着和矮人谈谈。他们扎营在南边的山里。也许他们能帮我们一把。
+
+# tzar.wcm::maps/saa7
+it: Mappa 5
+zh: 地图 5
+it: Accampamento
+zh: 营地
+it: Woolin e Ghiron devono sopravvivere.
+zh: 伍林和吉隆必须存活。
+it: Costruisci un porto e una flotta per trasportare le tue truppe.\n\nTrasporta a Keanor quante più truppe puoi per rafforzarne le difese.
+zh: 建一座港口和一支船队来运送你的部队。\n\n尽可能多地把部队运到基纳尔，加强那里的防御。
+it: Distruggi le forze attaccanti.
+zh: 消灭进攻的部队。
+it: Distruggi l'accampamento nemico sulla riva occidentale del fiume.
+zh: 摧毁河西岸的敌营。
+it: Cerca di impedire che Sartor venga catturato.
+zh: 设法不让萨托尔被俘。
+it: Passarono i giorni. Keanor riacquistava lentamente lo splendore di un tempo, sbiadito negli ultimi anni. Woolin era ancora in missione nei Campi della Luna quando una notte Ghiron ebbe una visione. Borgh aveva deciso di sbarazzarsi di Sartor a ogni costo. Aveva mandato il suo miglior generale, Birsha, a soffocare la ribellione. Il suo esercito era il più grande che avesse mai calpestato queste terre. Ghiron andò a richiamare Woolin, lasciando Sartor a preparare le difese di Keanor. Sia Sartor sia Ghiron sapevano che senza l'aiuto di Woolin la sorte della città era segnata.
+zh: 日子一天天过去。基纳尔慢慢恢复了昔日的辉煌——那光彩在最近几年已黯淡了。伍林还在月亮原野执行任务，一天夜里，吉隆看见一个幻象。博尔格决定不惜一切除掉萨托尔。他派出了最好的将领比尔沙去镇压叛乱。那支军队是踏足这片土地以来最庞大的一支。吉隆去召回伍林，留下萨托尔准备基纳尔的防御。萨托尔和吉隆都知道，没有伍林相助，这座城的命运已经注定。
+it: Spero che Keanor possa resistere all'attacco imminente.
+zh: 我希望基纳尔能挡住即将到来的进攻。
+it: Sento la sete di sangue dell'esercito di Birsha. Stanno facendo gli ultimi preparativi. Non abbiamo molto tempo.
+zh: 我感觉到比尔沙军队的嗜血。他们正在做最后的准备。我们时间不多了。
+it: Aspetta! Sento che la flotta di Borgh si sta radunando nel fiume. L'attacco dev'essere previsto per domani.
+zh: 等等！我感觉到博尔格的舰队正在河里集结。这一击一定定在明天。
+it: Sento un grande esercito che circonda Keanor. Dobbiamo sbrigarci.
+zh: 我感觉到一支大军正包围基纳尔。我们得赶快。
+it: Sartor è stato catturato. Dobbiamo aiutarlo.
+zh: 萨托尔被俘了。我们得去救他。
+it: Non resterò qui ad aspettare la morte come un codardo. Cavalieri, avanti!
+zh: 我不会像个懦夫一样坐在这里等死。骑士们，前进！
+it: Finalmente ti ho trovato, Woolin. Abbiamo bisogno di te e delle tue truppe nella capitale. Borgh le ha mandato contro il suo miglior generale, Birsha. Un esercito immenso attaccherà la città tra circa due giorni. Sartor non ha voluto andarsene. La capitale cadrà di certo se non intervieni. Nemmeno il fossato di difesa sarà finito.\nMa dove sono le tue truppe?
+zh: 终于找到你了，伍林。首都需要你和你的人马。博尔格派了他最好的将领比尔沙去打它。一支庞大的军队大约两天后就要攻城。萨托尔不肯走。你若不出手，首都必定陷落。连防御壕都修不完。\n可你的部队呢？
+it: Le ho lasciate nella provincia a proteggere i villaggi e i signori più deboli, finché non diventeranno più forti e non raduneranno truppe proprie. Ma non preoccuparti. Posso radunare un esercito più forte entro due giorni. Il vero problema è che possiamo trasportarlo in città solo lungo il fiume. Dobbiamo costruire un porto. Dobbiamo anche decidere se occuparci o no dell'avamposto di Borgh su questa riva del fiume. Distruggerlo potrebbe rallentarci troppo.
+zh: 我把他们留在省内，保护那些弱小的村庄和领主，直到他们变强、能自己集结部队。但别担心。两天之内我能集结起一支更强的军队。真正的难题是，我们只能沿河把它运进城。我们得建一座港口。我们还得决定要不要收拾博尔格在这岸的哨站。毁掉它可能拖我们太久。
+
+# tzar.wcm::maps/saa8
+it: Mappa 5.1
+zh: 地图 5.1
+it: Comandante dei soldati con mazza
+zh: 锤兵指挥官
+it: Comandante dei fanti
+zh: 步兵指挥官
+it: Comandante dei lancieri
+zh: 长矛兵指挥官
+it: Comandante degli arcieri
+zh: 弓箭手指挥官
+it: Comandante degli arcieri con arco lungo
+zh: 长弓手指挥官
+it: Woolin e Ghiron devono sopravvivere.\n\nGhiron deve raggiungere Sartor.
+zh: 伍林和吉隆必须存活。\n\n吉隆必须抵达萨托尔处。
+it: Woolin, Sartor e Ghiron devono sopravvivere.\n\nI tuoi eroi devono raggiungere il passaggio segreto.
+zh: 伍林、萨托尔和吉隆必须存活。\n\n你的英雄必须抵达那条密道。
+it: Respinto l'attacco di Birsha, a Keanor regnava una grande inquietudine. Il pericolo immediato per la città era scongiurato, ma Sartor era stato catturato. Dai villaggi di montagna vicini continuava ad arrivare gente in città. La sera, nelle taverne, raccontava a tutti storie spaventose su Birsha e sui resti del suo esercito. Si era ritirato sulle montagne ad aspettare rinforzi e le sue truppe terrorizzavano tutta la zona. Woolin non aveva abbastanza soldati per attaccare Birsha, e le montagne ripide e i passi stretti rendevano il suo accampamento una fortezza inespugnabile. Un mattino il sole sorse su una Keanor senza Ghiron e Woolin. Nessuno sapeva dove fossero.
+zh: 比尔沙的进攻被击退后，基纳尔人心惶惶。城市眼前的危险是解除了，可萨托尔被俘了。附近山村的百姓不断进城。晚上他们在酒馆里给大家讲比尔沙和他残部的可怕故事。他退进山里等援军，他的部队在那一带恫吓所有人。伍林兵力不足以攻打比尔沙，而陡峭的山和狭窄的山口使他的营地成了攻不破的堡垒。一天早晨，太阳照在基纳尔上，吉隆和伍林却不见了。没人知道他们去了哪儿。
+it: Grazie, amico, sapevo che saresti venuto a liberarmi. Dobbiamo tornare in fretta al passaggio segreto da cui sei venuto: tutto l'accampamento è in allarme.
+zh: 谢谢你，朋友，我就知道你会来救我。我们得快回你来的那条密道：整个营地都警戒起来了。
+it: Non lasciate che il cavaliere raggiunga l'accampamento!
+zh: 别让那个骑士回到营地！
+it: Sartor è nell'angolo nord-ovest dell'accampamento, comandante. Ma se andiamo dritti da lui, metteremo in allarme tutto l'accampamento. Propongo di aggirare l'accampamento da est. Così potremmo incontrare solo pattuglie di arcieri e di cavalieri. Dobbiamo ucciderli in fretta e in silenzio, perché non diano l'allarme all'esercito.
+zh: 萨托尔在营地西北角，统领。可我们若直冲他去，整个营地都会惊动。我提议从东边绕营。那样可能只会遇上弓箭手和骑士的巡逻队。我们得迅速、安静地干掉他们，别让他们给大军报信。
+it: Hai ragione. Non dobbiamo mettere in allarme tutto l'accampamento. Questo passaggio segreto ha nascosto il nostro arrivo, ma non possiamo usarlo di nuovo finché non ci ritiriamo.
+zh: 你说得对。我们不能惊动整个营地。这条密道掩护了我们的来路，但撤退之前不能再用了。
+it: In tal caso dobbiamo uccidere le guardie a nord-est di qui. Poi dobbiamo proseguire verso nord fino all'antico scheletro di un animale gigantesco. Tengono Sartor in un luogo a ovest di lì, dietro il fuoco del comandante. Forse dovremo uccidere anche loro.
+zh: 那我们就得杀掉这儿东北的守卫。然后往北走到一具巨兽的古老骸骨那里。他们把萨托尔关在那西边，统领营火的后面。也许还得把他们也干掉。
+it: Ricorda, devo liberare Sartor io stesso, perché proteggerlo è mio compito.
+zh: 记住，萨托尔必须由我亲手去救，因为保护他是我的职责。
+
+# tzar.wcm::maps/saa9
+it: Mappa 6
+zh: 地图 6
+it: Villaggio dell'isola
+zh: 岛上村庄
+it: Castello Daring
+zh: 达林城堡
+it: Zhef deve rubare il libro e riportarlo a Ghiron entro mezza giornata.
+zh: 泽夫必须偷到那本书，并在半天之内交回吉隆。
+it: Distruggi tutti i nemici della zona.
+zh: 消灭这一带所有敌人。
+it: Birsha non aveva mai conosciuto la sconfitta in vita sua. E non aveva rinunciato al proposito di devastare Keanor. Mentre i resti del suo esercito sbaragliato saccheggiavano le campagne, se ne stava seduto davanti al fuoco, assorto nei suoi piani. Le notizie erano buone. Presto sarebbero arrivati i rinforzi, e allora Sartor non avrebbe avuto scampo. Birsha bramava di avere Sartor prigioniero nel suo accampamento, ma era solo un'illusione.\nIn quello stesso momento uno straniero avvolto in un mantello nero giunse a Keanor. Dalle porte della città si diresse dritto al castello di Keanor e chiese di poter parlare con Ghiron. Poco dopo il loro incontro, Ghiron chiamò Woolin e Sartor e riferì loro ciò che aveva saputo. L'uomo in nero era una spia, una delle migliori mai esistite. Si chiamava Zhef e portava notizie terribili. I rinforzi di Birsha erano già in marcia, ma il peggio si trovava nel porto di Jaddua. Anche un mago malvagio con il suo libro degli incantesimi era in viaggio verso Birsha. Ai ribelli non restava che mandare Zhef ad assassinare il mago e a prendergli il libro degli incantesimi, oppure cercare l'alleanza dei signori delle città vicine.
+zh: 比尔沙一生从未尝过败绩，也从未放弃蹂躏基纳尔的打算。他那支溃散军队的残部在乡间劫掠时，他坐在营火前，沉在自己的盘算里。消息不错。援军很快就到，那时萨托尔就无处可逃了。比尔沙渴望把萨托尔俘到自己的营地，可那只是幻想。\n就在同一时刻，一个披着黑斗篷的陌生人来到基纳尔。他从城门直奔基纳尔城堡，请求与吉隆说话。见面不久，吉隆叫来伍林和萨托尔，把探到的情况告诉了他们。黑衣人是名间谍，堪称史上最出色的间谍之一。他叫泽夫，带来了可怕的消息。比尔沙的援军已在途中，但最糟的在贾杜阿港。一名邪恶的法师带着他的咒语书也在赶往比尔沙。叛军别无选择：要么派泽夫去刺杀那名法师、夺下他的咒语书，要么去寻求邻近城镇领主的结盟。
+it: È passata mezza giornata! Ormai non possiamo prendere il libro.
+zh: 半天过去了！现在我们拿不到那本书了。
+it: Se Zhef fallisce, dobbiamo spostarci sull'isola di Lord Daring. Spero che manterrà la parola.
+zh: 若泽夫失手，我们就得转到达林领主的岛上。希望他说话算数。
+it: Lord Daring, temo che dobbiamo procedere come previsto. Dobbiamo uccidere ogni singolo nemico in città. Di certo useranno contro di noi quel terribile incantesimo.
+zh: 达林领主，恐怕我们得按计划行事。城里每一个敌人都得杀掉。他们肯定会用那个可怕的咒语来对付我们。
+it: Potete usare le risorse della mia isola per costruire una flotta e radunare un esercito. Ho sempre amato Jaddua e non voglio vederla in rovina, ma più ancora vorrei vedere la nostra terra libera dalla tirannia. Attenti all'armata di Borgh. Potrebbe tornare in città da un momento all'altro.
+zh: 你可以用我岛上的资源建一支船队、集结一支军队。我一向喜欢贾杜阿，不愿看它被毁，但更希望看到我们的土地摆脱暴政。当心博尔格的舰队。它随时可能回城。
+it: Come potrei rifiutarmi di compiere un'impresa così nobile per un vecchio amico? Ti porterò il libro degli incantesimi, Ghiron.
+zh: 为一位老朋友做这样高尚的事，我怎能拒绝？我会把咒语书带给你，吉隆。
+it: Mi conosci, il libro non mi serve per me. Mi serve perché, se cadrà nelle mani di Birsha nel suo accampamento di montagna, la nostra causa sarà perduta. Con questo potente incantesimo e i nuovi rinforzi, l'esercito di Borgh potrà schiacciare ogni resistenza.
+zh: 你了解我，那本书不是为我自己。我要它，是因为若它落到山里营地的比尔沙手中，我们的事业就完了。有了这个强大的咒语和新的援军，博尔格的军队就能碾碎一切抵抗。
+it: Non preoccuparti, vecchio amico, ti porterò il libro.
+zh: 别担心，老朋友，我会把书给你拿来。
+it: Devi farlo con estrema prudenza. Per le strade di Jaddua ci sono molte spie al servizio di Borgh. Se una sola di loro ti riconosce sei perduto, ora che i rinforzi sono in città. Non uccidere troppe guardie: la loro assenza verrebbe notata di certo.\nTi consiglio di aspettare qualcuno sulla strada a ovest e di prenderne l'aspetto. Poi entra dalla porta a cui porta quella strada. Lì non ci sono spie.\nIl libro è nella torre dei maghi sull'isola, vicino alla parte nord-ovest della città. Dovrai attraversare il fiume per arrivarci.
+zh: 你得极为小心。贾杜阿街上有许多替博尔格办事的奸细。只要有一个认出你，你就完了——如今援军已进城。别杀太多守卫：他们的缺席肯定会被察觉。\n我建议你在西边的路上截住一个人，换上他的模样。然后从他那条路通的门进城。那里没有奸细。\n书在岛上那座法师塔里，靠近城区的西北部。你得渡河才能到。
+it: E ricorda, molte vite dipendono dalla riuscita della tua missione. Jaddua è una città pacifica, ma se non ci riuscirai saremo costretti a entrarvi con la forza. Morirà molta gente che non sopporta l'esercito di Borgh in città, per non parlare delle nostre truppe. Hai mezza giornata prima che le spie di Borgh prendano il pieno controllo della città. Devi andartene prima di allora. Buona fortuna: contiamo su di te.
+zh: 还有，记住，许多性命都系于你任务成败。贾杜阿是座太平城，可你若不成，我们就只能强攻进城。会有许多不愿博尔格军队驻在城里的人死去，更不用说我们的部队。你有半天时间，之后博尔格的奸细就会完全控制这座城市。你得在那之前离开。祝你好运：我们全靠你了。
+
+# tzar.wcm::maps/v_00
+it: L'inizio
+zh: 开端
+it: Zio Brian
+zh: 布莱恩叔叔
+it: Matteo
+zh: 马泰奥
+it: Il Male è sempre esistito. E non si è mai stancato di tentare di impadronirsi del mondo degli uomini. Invisibile e insidioso, ha conquistato il cuore degli uomini, trasformando i più coraggiosi in codardi. E i giusti in tiranni. Durante una delle ultime guerre, durata centinaia di anni, la forza disumana fu sul punto di vincere. Poi, quando tutto sembrava perduto, nacque un grande mago. Con l'aiuto del suo immenso potere l'uomo riuscì a salvare il suo mondo, sacrificando molte vite lungo il cammino.\nMa il Grande Mago era già vecchio e i suoi giorni in questo mondo erano contati. Mise tutto il potere che gli restava nella creazione di una sfera di cristallo. Poi affidò la Sfera ai re di Keanor, perché con il suo aiuto potessero tenere il Male lontano dal mondo degli uomini.\nPassarono migliaia di anni e nacque un altro grande mago. Il suo cuore, però, era marcio. Rubò la Sfera dal castello di Keanor, sperando di servirsene per conquistare il mondo. I maghi fedeli al re non erano abbastanza forti per recuperare la Sfera, ma riuscirono a maledire il mago malvagio: si sarebbe tramutato in pietra nel momento stesso in cui avesse tentato di usare i poteri della Sfera. Né del mago né della Sfera si seppe più nulla.\nCiò significava, però, che non restava più nulla a impedire al Male di entrare nel mondo. Molti morirono cercando la Sfera perduta. Ma non la cercavano solo gli uomini buoni. Lo stesso Signore del Male mandò i suoi messia a trovare la Sfera e a portargliela. Seguirono guerre, una più terribile dell'altra. Non passò molto tempo prima che il mondo fosse conquistato da tiranni e da sovrani senza onore. Il loro cuore e la loro mente erano schiavi del Male, e ne erano i servi più fedeli.\nDopo anni di guerre devastanti, la terra di Keana si sottomise infine agli eserciti di Borgh, il più spietato dei sovrani che avesse mai calcato la terra. In una delle ultime battaglie, la battaglia di Keanor, cadde lo stesso re Roan. Ma il re aveva un figlio, ancora in fasce. L'ultimo mago superstite del re, il vecchio Ghiron, riuscì a fuggire di nascosto dalle rovine di Keanor con l'erede. Dopo un faticoso viaggio di molti giorni, Ghiron giunse in un villaggio isolato. Lasciò il piccolo Sartor sulla soglia della casa di un povero contadino. Poi se ne andò...
+zh: 邪恶一直存在，从不厌倦图谋夺取人类世界。它无形而阴险，已征服了人心，把最勇敢的人变成懦夫，把正直的人变成暴君。在历时数百年的最后几场战争之一中，那股非人的力量几乎获胜。就在一切似乎都已失去时，一位伟大的法师诞生了。凭着无穷的力量，这个人拯救了他的世界，沿途牺牲了许多性命。\n但大法师已年老，他在世的日子有限。他把残存的全部力量注入一颗水晶球，随后把宝球托付给基纳尔诸王，好让他们借它之力把邪恶挡在人类世界之外。\n数千年过去，又一位伟大的法师诞生了。可他的心是烂的。他从基纳尔城堡偷走了宝球，想用它来征服世界。忠于国王的法师们无力夺回宝球，却能诅咒这个邪恶的法师：他一旦试图动用宝球之力，就会化为石头。从此再无人听说那法师或宝球的下落。\n然而这意味着，再没有什么能阻止邪恶进入这个世界。许多人死于寻找失落的宝球。但寻找的不只是好人。邪恶之主亲自派出使者去寻找宝球，带回去给他。战争接连而来，一场比一场可怕。不久，世界就被暴君和无耻的君主征服。他们的心与智都被邪恶奴役，成了它最忠实的仆人。\n多年毁灭性的战争之后，基纳之地终于臣服于博尔格的军队——那是踏足大地最冷酷的统治者。在最后几场战役之一——基纳尔之战——中，罗恩国王本人阵亡。但国王有一个儿子，尚在襁褓。国王最后一位幸存的法师——老吉隆——带着继承人悄悄逃出了基纳尔的废墟。经过许多天艰辛的跋涉，吉隆来到一个偏僻的村庄。他把年幼的萨托尔放在一个穷苦农夫家的门槛上，然后离去……
+it: Porta Sartor alla fattoria di suo zio Brian. Sartor deve sopravvivere.
+zh: 把萨托尔带到叔叔布莱恩的农场。萨托尔必须存活。
+it: Ma li hai uccisi tu? Chi sei?
+zh: 那些是你杀的？你是谁？
+it: Felice di rivederti, Sartor. Sono Ghiron. E sì, li ho uccisi io. Vieni con me.
+zh: 很高兴又见到你，萨托尔。我是吉隆。对，是我杀的。跟我来。
+it: Ghiron? Rivedermi? Non ti ho mai visto prima, Ghiron. Aspetta! Sei forse... un mago?
+zh: 吉隆？又见到？我从没见过你，吉隆。等等！你难道是……法师？
+it: Sì, sono un mago. Uno buono. Eh, eh! Ora vieni con me.
+zh: 对，我是法师。一个好法师。嘿嘿！现在跟我来。
+it: Per gli dei! I maghi non esistono. Esistono solo nelle fiabe, vero? Dimmi che ho ragione.
+zh: 老天！法师是不存在的。他们只在童话里有，对吧？告诉我我是对的。
+it: Mi dispiace, Sartor, ma ti sbagli. Ti sembro forse l'eroe di una fiaba? Ho lasciato Keanor appena ho capito che Borgh ti stava cercando. Ma non sono stato abbastanza veloce. Mi dispiace. Ora vieni con me. Ho una storia da raccontarti.
+zh: 抱歉，萨托尔，你错了。我看起来像童话里的英雄吗？我一发现博尔格在找你，就离开了基纳尔。可我不够快。对不起。现在跟我来。我有个故事要讲给你听。
+it: Maledizione! Sono arrivato tardi di nuovo. Fatti da parte, ragazzo!
+zh: 该死！我又来晚了。让开，小子！
+it: Bene! Ora portatemi il ragazzo! Muovetevi, maiali!
+zh: 好！现在把那小子给我带来！快点，你们这些猪！
+it: Zio Brian! Sono preoccupato. Che cosa è successo? Perché la nostra fattoria è in fiamme?
+zh: 布莱恩叔叔！我很担心。出了什么事？我们的农场为什么着火了？
+it: Ora ascoltami, ragazzo mio! Devi fuggire. Subito! Lo sapevo! Sapevo che un giorno sarebbero venuti a prenderti. Salvati, Sartor. Scappa!
+zh: 听我说，我的孩子！你必须逃。马上！我就知道！我就知道总有一天他们会来抓你。保住自己，萨托尔。快跑！
+it: Ma che cosa è successo? Per gli dei, sei ferito! Lascia che ti aiuti. Corro a chiamare il guaritore del villaggio. Torno subito. Aspetta solo un momento.
+zh: 可出了什么事？老天，你受伤了！让我帮你。我跑去叫村里的医者。我马上回来。等一下就好。
+it: Salute, Sartor!
+zh: 向你问安，萨托尔！
+it: Ciao, amico mio. Che cosa succede?
+zh: 你好，我的朋友。出什么事了？
+it: Succede? Non lo so. Me ne sto qui seduto a guardare gli alberi. Quest'anno sono proprio belli.
+zh: 出事？我不知道。我就坐在这儿看树。今年的树真好看。
+it: Ciao, Sartor. Lo sai che tutto il villaggio ti sta cercando? Che cosa succede?
+zh: 你好，萨托尔。你知道全村都在找你吗？出什么事了？
+it: Non so che cosa succede, speravo che me lo dicessi tu.
+zh: 我不知道出了什么事，我还盼着你能告诉我。
+it: Non posso dirti molto. Stamattina ho visto degli uomini strani scendere lungo la strada. Hanno chiesto di tuo zio e io gli ho detto di andare a nord-ovest. Chi erano?
+zh: 我说不了太多。今早我看见几个怪人沿路下来。他们打听你叔叔，我就叫他们往西北去了。他们是什么人？
+it: Oh, non ne ho proprio idea. Ci vediamo dopo. Devo andare.
+zh: 哦，我一点也不知道。回头见。我得走了。
+it: Sartor, ti stanno cercando tutti. Dov'eri finito?
+zh: 萨托尔，大家都在找你。你上哪儿去了？
+it: Mio zio Brian mi ha mandato a tagliare un po' di legna. Che cosa succede?
+zh: 布莱恩叔叔叫我去砍点柴。出什么事了？
+it: Che cosa sta succedendo? Che cosa c'è che non va?
+zh: 怎么回事？出什么问题了？
+it: Non lo so, ma credo che faresti meglio a sbrigarti.
+zh: 我不知道，不过我想你最好快点。
+it: Ciao, Matteo. Che cosa ci fai qui? Credevo che stessi aiutando tuo padre a riparare il tetto della fattoria.
+zh: 你好，马泰奥。你在这儿做什么？我以为你在帮你父亲修农场的屋顶。
+it: Sartor, sbrigati! Mi manda tuo zio Brian. Voleva parlarti. Devi andare.
+zh: 萨托尔，快！是你叔叔布莱恩叫我来的。他要跟你说话。你得去。
+it: Cosa? Che cosa succede? Che cosa c'è che non va?
+zh: 什么？出什么事了？怎么啦？
+it: Non lo so, Sartor. Mi è sembrato molto turbato. È successo qualcosa. Non so molto. Sbrigati e basta.
+zh: 我不知道，萨托尔。他看起来非常不安。一定是出了什么事。我知道的不多。快去吧。
+it: Oh, sono stanco, ragazzi. Non so perché lo zio Brian mi abbia mandato qui. Abbiamo legna a sufficienza per l'inverno.
+zh: 哦，我累了，伙计们。不知道叔叔为什么叫我来这儿。过冬的柴已经够了。
+it: Anch'io sono stanco. Sartor, tuo zio è un brav'uomo.
+zh: 我也累了。萨托尔，你叔叔是个好人。
+it: Credo che dovremmo riposarci.
+zh: 我看我们该歇歇了。
+it: No, amici. Lasciatemi finire anche quest'albero. Qualcuno ha portato il pranzo?
+zh: 不，朋友们。让我把这棵树也砍完。有人带午饭来吗？
+it: Sì, io. Prendete le asce, ragazzi. Non resta molto da fare.
+zh: 有，我带了。拿斧子吧，伙计们。没多少活了。
+
+# tzar.wcm::maps/v_01
+it: Le isole di Allita
+zh: 阿利塔群岛
+it: Viaggio alle isole di Allita, salvataggio di Rea di Allita e assedio di Ses di Allita.
+zh: 前往阿利塔群岛，救出阿利塔的蕾娅，围攻阿利塔的塞斯。
+it: Navi
+zh: 船只
+it: Distruggi il castello nella regione settentrionale dell'isola di Ses di Allita. Sartor, Ghiron e Woolin devono sopravvivere.
+zh: 摧毁阿利塔塞斯岛北部的城堡。萨托尔、吉隆和伍林必须存活。
+it: Sartor deve parlare con il messaggero di Rea di Allita (il cavaliere giallo sulla costa meridionale di Ses di Allita).
+zh: 萨托尔必须与阿利塔蕾娅的使者交谈（位于阿利塔塞斯南岸的黄衣骑士）。
+it: Sartor deve incontrare Vardal. Vardal si trova nella regione sud-occidentale di Rea di Allita.
+zh: 萨托尔必须与瓦尔达尔会面。瓦尔达尔在阿利塔蕾娅的西南部。
+it: Il viaggio fu lunghissimo. Avevano perso il conto dei giorni e si erano abituati all'oceano senza fine. A poco a poco il tempo cambiò. Cominciarono a soffiare venti caldi e il sole sembrava bruciare ancora più crudelmente. All'improvviso davanti a loro apparve la terra. Erano le isole di Allita.
+zh: 航程极其漫长。他们已数不清日子，也习惯了无边的大海。天气渐渐变了。暖风吹起，太阳似乎烧得更狠。忽然，前方出现了陆地。那是阿利塔群岛。
+it: AH! Ci incontriamo di nuovo. Sapevo che saresti venuto. Lo sapevo come so che alla notte segue il giorno. Allora hai capito che ci sono altre terre che dipendono da Keana? Sapevo che eri un ragazzo sveglio, Sartor.
+zh: 哈！我们又见面了。我就知道你会来。我就像知道夜尽昼来一样确定。那么，你明白了还有别的土地依赖基纳？我就知道你是个机灵的孩子，萨托尔。
+it: Che diavolo vuoi, Vardal? Chi sei? Questa è la TUA isola, no? E come puoi stare qui a chiacchierare mentre il malvagio Borgh distrugge la tua città? Perché te ne stai seduto a guardare gli schiavi di Borgh massacrare la tua gente? Sei un mostro o cosa? Se è una trappola, non mi arrenderò! Combatterò fino all'ultima goccia di sangue.
+zh: 你到底想干什么，瓦尔达尔？你是谁？这是你的岛，对吧？邪恶的博尔格正在毁掉你的城，你怎么能站在这儿闲扯？你为什么坐着看博尔格的奴隶屠杀你的族人？你是怪物还是什么？若是陷阱，我不会投降！我要战到最后一滴血。
+it: Calma, Sartor. Non è una trappola. La cosa più importante era che tu capissi di essere l'unica speranza per miliardi di persone. Questa battaglia posso vincerla da solo, ma non tutta la guerra. Sei TU il prescelto. Sei TU che devi guidare le nazioni contro il Male. Così ho aspettato che ti svegliassi. E così è stato, fratello minore. Allora guidaci! Diamo loro una lezione. Ricorda: il castello di Rea deve sopravvivere!
+zh: 冷静，萨托尔。这不是陷阱。最重要的是让你明白，你是亿万人的唯一希望。这一仗我一个人能赢，整场战争却不行。你才是天选者。要由你去率领列国对抗邪恶。所以我等你醒过来。你果然醒了，我的弟弟。那就带我们上阵吧！给他们一个教训。记住：蕾娅的城堡必须保住！
+it: Ah... fratello? Sei completamente pazzo... Comunque non abbiamo molto tempo. Andiamo.
+zh: 啊……弟弟？你完全疯了……总之我们时间不多。走吧。
+it: Salve, Sartor. Vedo che hai il tuo bel daffare a combattere gli eserciti di Borgh. Vengo con una grande supplica. La nostra isola, Rea di Allita, la perla del Grande Oceano, è sotto l'attacco di Borgh. I suoi cavalieri malvagi stanno distruggendo la nostra città.
+zh: 你好，萨托尔。我看你正忙着对付博尔格的军队，打得很辛苦。我来此有一大请求。我们自己的岛——阿利塔蕾娅，大洋上的明珠——正遭博尔格攻击。他邪恶的骑士正在毁我们的城。
+it: Maledizione! Qui siamo davvero in difficoltà. Dobbiamo distruggere il castello di Ses di Allita, nella parte settentrionale dell'isola, ma temo che non sarà facile come pensavamo. Qui Borgh è davvero forte. Mi dispiace moltissimo sapere che anche Rea è sotto attacco. Ma qui siamo troppo deboli. Ora non posso fare nulla per aiutarvi. Se vuoi il mio parere, ci servono più soldati.
+zh: 该死！我们这儿确实吃力。我们得摧毁岛北部的阿利塔塞斯城堡，可我怕没想的那么容易。博尔格在这里很强。听说蕾娅也遭攻击，我非常难过。可我们在这儿太弱了。现在我帮不了你们。要我说，我们需要更多士兵。
+it: Senti, Sartor! Senza offesa, ma non credo che tu abbia qualche possibilità qui. E poi non vedo come farai ad andartene da quest'isola senza una nave. Ma hai ancora la possibilità di salvare Rea. Aiutami ora, e tutta Rea sarà al tuo servizio per sconfiggere Borgh più tardi. Eccomi qui con tutte le mie valorose guardie. Noi e la nostra nave siamo al tuo servizio!
+zh: 听我说，萨托尔！别见怪，我觉得你在这儿没什么机会。再说，没船我看你怎么离开这座岛。可你还有机会救蕾娅。现在帮我，日后整个蕾娅都会为你效劳去打博尔格。我和我所有忠诚的卫兵都在这儿。我们和我们的船都听你调遣！
+it: È un onore per me avervi nel mio esercito. Ma come possiamo cambiare le cose? Che cosa possiamo fare? Se vi unite a noi, morirete proprio come tutti questi coraggiosi che combattono per la pace e la luce.
+zh: 能把你们编入我的军队是我的荣幸。可我们怎么改变局面？能做什么？你们若加入我们，就会像所有这些为和平与光明而战的勇士一样死去。
+it: Una possibilità c'è, Sartor. Gran parte dell'esercito di Rea si trova nella parte sud-occidentale dell'isola di Rea di Allita, guidata dal figlio di re Roan, il possente cavaliere Vardal. Si uniranno a noi, ma lui vuole prima parlare con te. Abbiamo cercato di convincerlo ad attaccare, ma si è rifiutato. Ha detto che non muoverà un solo passo senza aver parlato con te. Non conosco le sue ragioni e non mi piace molto, ma è la nostra unica speranza. Va', Sartor! Va' a parlargli!
+zh: 有一个机会，萨托尔。蕾娅军队的一大部分在阿利塔蕾娅岛的西南部，由罗恩国王之子、强大的骑士瓦尔达尔率领。他们会加入我们，但他要先跟你谈谈。我们试着劝他进攻，他拒绝了。他说不跟你谈过，他一步也不动。我不知道他的理由，也不太喜欢他，可他是我们唯一的希望。去吧，萨托尔！去跟他谈！
+it: Mmh, è appena arrivato un messaggero da Rea di Allita. Devo andare a parlargli. Credo che sia importante sbrigarci.
+zh: 嗯，刚从阿利塔蕾娅来了个使者。我得去跟他谈谈。我看得赶紧。
+it: Guarda. Credo che Vardal avesse ragione. I miei sogni peggiori si sono avverati. L'isola di Ses di Allita è stata conquistata dagli eserciti di Borgh. Sartor, a nord-est di qui, da qualche parte nei boschi, ci sono un vecchio villaggio e un castello abbandonati. Credo che siano sorvegliati da qualche creatura malvagia, ma sono ancora deboli. Ci serve quel castello per stabilire una base militare. Senza di esso non potremo distruggere il castello di Ses di Allita, che ora dovrebbe essere il nostro obiettivo principale.
+zh: 你看。我想瓦尔达尔说得对。我最坏的梦成了真。阿利塔塞斯岛已被博尔格的军队攻占。萨托尔，这儿东北方的树林里，有一座废弃的旧村庄和城堡。我想那里有些邪恶生物看守，但它们还弱。我们需要那座城堡建立军事基地。没有它，我们就毁不了阿利塔塞斯城堡——那现在该是我们的首要目标。
+it: Benvenuti sull'isola di Ses di Allita, valorosi. Non lontano a ovest di qui c'è l'altra grande isola, Rea di Allita. Come ho detto molte volte durante il viaggio, credo che siate pazzi a restare qui anche solo un minuto. Ma immagino che abbiate le vostre ragioni. Forse qualcosa di molto speciale. Io non posso restare qui oltre. Ohoi!
+zh: 欢迎来到阿利塔塞斯岛，勇士们。往西不远处是另一座大岛——阿利塔蕾娅。就像我一路说了很多次的，我觉得你们在这儿多待一分钟都是疯的。不过我猜你们自有理由。也许有什么非常特别的东西。我不能再待在这儿了。哦嘿！
+it: Addio, capitano! Grazie della vostra pazienza. Che gli dei del mare siano con voi.
+zh: 再见，船长！多谢你的耐心。愿海神与你同在。
+it: Addio, capitano! Non vi dimenticheremo.
+zh: 再见，船长！我们不会忘记你。
+it: Abbiate cura di voi!
+zh: 保重！
+it: Agli ordini!
+zh: 遵命！
+
+# tzar.wcm::maps/v_02
+it: Sartor a Hong
+zh: 萨托尔在洪地
+it: Sartor è a Hong
+zh: 萨托尔在洪地
+it: Villaggio di pescatori
+zh: 渔村
+it: Antichi monaci
+zh: 古代僧人
+it: Gran sacerdote
+zh: 大祭司
+it: Il segreto
+zh: 秘密
+it: Lettera
+zh: 信
+it: Trova la lettera segreta che spiega come trovare la Sfera e consegnala a Sartor. Sartor deve sopravvivere.
+zh: 找到那封说明如何找到宝球的密信，交给萨托尔。萨托尔必须存活。
+it: Porta la carovana dall'anziano del villaggio di pescatori (verde). L'anziano e la carovana devono sopravvivere.
+zh: 把商队带到渔村（绿色）的长者那里。长者和商队必须存活。
+it: I maghi che generano draghi vanno fermati. Uccidili tutti e torna dal Gran sacerdote con almeno uno dei ninja. Non lasciare che vengano uccisi tutti, o perderai.
+zh: 必须阻止那些生成巨龙的法师。把他们全杀掉，并带着至少一名忍者回到大祭司那里。别让他们全被杀，否则你会失败。
+it: Proteggi i tuoi amici di Ki Taiko (gialli). Se subiscono troppe perdite, perderai. Perderai anche se Toru Se viene ucciso.
+zh: 保护你的奇泰科朋友（黄色）。若他们伤亡过多，你会失败。托鲁塞被杀，你也会失败。
+it: Conserva la nave che ti ha dato il villaggio di pescatori. È la loro unica nave. Se la nave affonda, perderai.
+zh: 保住渔村给你的那条船。那是他们唯一的船。船若沉了，你会失败。
+it: Va' all'isola degli Antichi monaci e parla con il Gran sacerdote.
+zh: 去古代僧人的岛，与大祭司交谈。
+it: Signore Borgh,\n\nil generale Birsha riferisce un aumento delle attività ribelli guidate dal malvagio Sartor. Ritiene che la Torre magica di Kalt'ha non sia più il posto migliore per nascondere la mappa dell'Isola Maledetta. Forse sarebbe meglio che mandaste una brigata di soldati veterani a scortare la mappa. Suggerirei Gen-Sai, il luogo più sicuro che possiamo trovare di questi tempi. So anche che Vardal, il fratello di Sartor, si è unito ai ribelli. È questa la ragione della nostra sconfitta alle isole di Alita. Li contrattaccherò al più presto con tutti i miei eserciti. Come sapete, le isole di Alita sono la chiave dell'Isola Maledetta: dobbiamo riconquistarle.\n\nIn vostro nome. Generale Omi.
+zh: 博尔格大人：\n\n比尔沙将军报告，由邪恶的萨托尔领导的叛乱活动有所增加。他认为卡尔塔的法师塔已不再是藏匿诅咒之岛地图的最佳地点。也许您最好派一队老兵去护送那张地图。我建议送到玄塞——如今我们能找到的最安全之处。我还得知，萨托尔的兄弟瓦尔达尔已与叛军合流。这就是我们在阿利塔群岛战败的原因。我将尽快倾全部军队反击他们。如您所知，阿利塔群岛是通往诅咒之岛的钥匙——我们必须重新夺回它们。\n\n以您之名。奥米将军。
+it: Sartor deve parlare con l'anziano del villaggio di pescatori (verde).
+zh: 萨托尔必须与渔村（绿色）的长者交谈。
+it: Dopo molti giorni di viaggio, Sartor e i suoi fedeli cavalieri misero piede sulle coste di Hong. Si aspettava di vedere il paesaggio familiare di città e villaggi. Ciò che vide invece lo colpì profondamente. Faceva freddo e nevicava. La gente vestiva in modo strano e parlava in maniera singolare. Ma anche qui poteva scorgere le cicatrici del dominio spietato di Borgh. Sembrava che il Male avesse messo radici ancora più profonde in queste terre.
+zh: 经过多日航行，萨托尔和他忠诚的骑士踏上了洪地的海岸。他原以为会看到熟悉的城镇与村庄。眼前的景象却深深触动了他。天冷，下着雪。人们衣着古怪，说话也奇特。但在这里，他同样看得出博尔格残酷统治留下的伤痕。邪恶在这些土地上似乎扎得更深。
+it: Ehi, soldato blu! Devo parlare con Sartor. Portalo qui.
+zh: 喂，蓝衣士兵！我要跟萨托尔说话。把他带来。
+it: Ehi, Sartor, sono lieto che i maghi siano morti. Ma desidero tanto rivedere almeno uno dei miei ninja. Mostrami uno di loro e riceverai la lettera.
+zh: 喂，萨托尔，法师死了我很高兴。可我很想再见我的一名忍者。让我看见他们中的一个，你就拿到信。
+it: Avevi promesso di proteggerci, ma guarda che cosa è successo! Ho perso troppi dei miei contadini. Questo significa GUERRA! Mi riprendo la mia base!
+zh: 你答应保护我们，可看看出了什么事！我失去了太多农民。这意味着战争！我要收回我的基地！
+it: Ti avevo detto che la tua presenza nelle mie terre significa GUERRA.
+zh: 我说过，你待在我的土地上就意味着战争。
+it: Ottimo lavoro. Hai ucciso i maghi di Akawa! Ecco la lettera. Prendila. Buona fortuna! Figliolo...
+zh: 干得好。你杀了阿川的法师！这是信。拿去吧。祝你好运！我的孩子……
+it: Benvenuto in pace, figliolo. Come possiamo aiutarti?
+zh: 平安欢迎你，我的孩子。我们能帮你什么？
+it: Gran sacerdote, cerchiamo la Sfera, o una lettera segreta che spieghi come trovarla. Akawa è così ben difesa che non possiamo superarne le mura senza macchine d'assedio. Ci hanno detto che potreste aiutarci.
+zh: 大祭司，我们在找宝球，或一封说明如何找到它的密信。阿川防御太强，没有攻城器械我们过不了城墙。有人说你能帮我们。
+it: Lo so, lo so, figliolo. Ti aiuteremo. Ecco i miei soldati ninja. Affinano le loro arti di combattimento fin dalla nascita. Qualcuno direbbe che sono assassini. Ma non è proprio così. È forse un omicidio uccidere Borgh?
+zh: 我知道，我知道，我的孩子。我们会帮你。这些是我的忍者士兵。他们从出生起就在磨练武艺。有人会说他们是杀手。可并不尽然。杀博尔格算谋杀吗？
+it: Ehm, credo che sia una specie di omicidio, forse.
+zh: 呃，我想那大概算是一种谋杀吧。
+it: No! Borgh è malvagio. Va fermato!
+zh: 不！博尔格是邪恶的。必须制止他！
+it: Non posso darti ragione, figliolo. È senza dubbio un omicidio. Ma Borgh è così malvagio che la sua morte è inevitabile e tutti noi l'attendiamo con gloriosa speranza.
+zh: 我不能同意你，我的孩子。那无疑是谋杀。可博尔格邪恶至极，他的死不可避免，我们都在怀着光荣的希望等它到来。
+it: No, figliolo! Non è un omicidio. È chirurgia. Borgh è malvagio e merita di morire.
+zh: 不，我的孩子！那不是谋杀。那是外科手术。博尔格是邪恶的，他该死。
+it: Comunque sia! Potremmo discutere tutta la notte, ma immagino che tu non abbia molto tempo. Ti prego, prendi i miei devoti soldati e usali con saggezza. Alcuni di loro moriranno, lo so.
+zh: 不管怎样！我们可以争一整夜，但我猜你没那么多时间。请带上我这些忠诚的士兵，明智地使用他们。他们中有些人会死，我知道。
+it: Grazie, Gran sacerdote. Quindi devo andare ad Akawa a rubare la lettera? Giusto?
+zh: 谢谢你，大祭司。那我该去阿川偷那封信？对吧？
+it: No. Dio benedica la tua impazienza, figliolo. La lettera non è ad Akawa. È già stata rubata. L'ho rubata io qualche settimana fa. E te la darò. Ma se ti chiedi a che cosa servano questi draghi, te lo dirò. Li hanno generati i maghi di Akawa per terrorizzare i pacifici abitanti della bella Hong. Se vuoi la lettera dovrai uccidere i maghi. Quando tornerai, ti prego, porta almeno uno dei miei ninja. Sono tutto ciò che ho. Se li farai uccidere tutti, aspetterò un altro eroe a cui dare la lettera.
+zh: 不。愿神祝福你的急性子，我的孩子。信不在阿川。它已经被偷了。几周前我偷的。我会把它给你。不过你若想知道这些龙是干什么的，我告诉你。它们是阿川的法师造出来恐吓美丽的洪地百姓的。想要信，你就得杀掉那些法师。回来的时候，请至少带回我的一名忍者。他们是我仅有的。若你让他们全死了，我就等下一个英雄，把信给他。
+it: Oh, per gli dei! Sono arrivati i viveri! La nave è tua. Abbine cura e non lasciare che affondi. È la nostra unica nave. Va' all'isola degli Antichi monaci e parla con il Gran sacerdote. Di certo ti aiuterà.
+zh: 哦，老天！补给到了！船归你了。好好照看它，别让它沉了。那是我们唯一的船。去古代僧人的岛，与大祭司交谈。他一定会帮你。
+it: Salve. Sono Sart...
+zh: 你好。我是萨……
+it: So chi sei! Credo che qui lo sappiano già tutti. Da queste parti le voci corrono come il fuoco. Cerchi un modo per entrare di nascosto ad Akawa? Per impadronirti della lettera che spiega come trovare la Sfera? Sono l'uomo che fa per te, Sartor! Posso aiutarti.
+zh: 我知道你是谁！我想这儿人人都知道了。这一带消息传得像野火。你在找悄悄进阿川的办法？去夺那封说明如何找到宝球的信？你找对人了，萨托尔！我能帮你。
+it: Davvero? Puoi farlo? Dimmi come. Non abbiamo molto tempo.
+zh: 真的？你能？告诉我怎么做。我们时间不多。
+it: Certo che te lo dirò. Ma prima ho bisogno del tuo aiuto. Puoi anche uccidermi, ma insisto perché tu ci aiuti.
+zh: 我当然会告诉你。但先得请你帮我。你杀我也行，但我坚持要你帮我们。
+it: E va bene. Dimmi di che cosa hai bisogno, ma ti prego, sbrigati. Non abbiamo davvero molto tempo.
+zh: 好吧。告诉我你需要什么，但请你快点。我们真的没多少时间。
+it: Aspettiamo l'arrivo di una carovana di viveri. Purtroppo i soldati di Akawa cercano di bloccare le strade e per i mercanti non è più sicuro. Porta qui la carovana e ti darò una nave. Perché una nave? Perché senza non puoi raggiungere l'isola degli Antichi monaci.
+zh: 我们在等一支运补给的商队。可惜阿川的士兵在封路，商人们已不安全。把商队带到这里，我就给你一条船。为什么要船？因为没有船你到不了古代僧人的岛。
+it: Benvenuto, possente Sartor! Le voci sulla tua marcia vittoriosa si stanno spargendo. Sono io a governare da queste parti. Come posso aiutarti nella tua missione?
+zh: 欢迎，强大的萨托尔！你胜利进军的消息正在传开。这一带是我在治理。我能在你的使命上帮你什么？
+it: Ci serve questa città per stabilire una base! Arrenditi!
+zh: 我们需要这座城建立基地！投降吧！
+it: Ho sentito che a Hong potremmo trovare qualche notizia sulla Sfera. È vero?
+zh: 我听说在洪地能找到一些关于宝球的消息。是真的吗？
+it: Arrendermi? Vuoi che mi arrenda?! Questa è la terra dei miei antenati. Il mio esercito non è grande come il tuo, ma tutti noi amiamo il nostro paese. Se vuoi la mia città, dovrai combattere per averla! Credevo che il possente Sartor fosse nato per seppellire le vecchie discordie, non per crearne di nuove. Allora, vuoi combatterci e magari uccidere tutti qui, o te ne vai subito dalla città?
+zh: 投降？你要我投降？！这是我祖先的土地。我的军队没你多，可我们都爱自己的国家。想要我的城，你就得打下来！我以为强大的萨托尔生来是要埋葬旧怨，而不是造出新怨。那么，你是要跟我们打、也许把这里的人都杀光，还是立刻离开？
+it: Credo che me la caverò da solo, senza sprecare la vita dei miei fedeli soldati. Addio!
+zh: 我想我一个人也能应付，不必浪费我忠诚士兵的性命。告辞！
+it: Sì, seppellisco le vecchie discordie e so bene come procedere. Come ho detto, ci serve questa terra e me la prenderò! Con o senza il tuo consenso!
+zh: 对，我埋葬旧怨，也知道该怎么做。我说过，我们需要这片土地，我要拿下它！不管你同意不同意！
+it: E sia. Vattene in fretta da sud. E ricorda, Sartor: se vedrò di nuovo anche uno solo dei tuoi soldati o se «dimenticherai» di lasciare la città, per me significherà una cosa sola: guerra!
+zh: 那就这样。从南边快点走。还有记住，萨托尔：若我再看见你哪怕一个士兵，或者你「忘了」离开这座城，对我来说只有一件事：战争！
+it: Ah! Il possente eroe! Il Guardiano della Pace! Avrai ciò che vuoi! ALLA CARICA!
+zh: 哈！强大的英雄！和平的守护者！你会得到你想要的！冲锋！
+it: Ah... la Sfera! Quanti coraggiosi eroi hanno lasciato le loro ossa in giro per il mondo cercando la Sfera. Be', dubito che la Sfera sia qui. Ne dubito davvero. Ma posso aiutarti nella tua ricerca. Per quel che so, c'è un solo uomo che abbia visto la Sfera. Ora è morto, ma ha disegnato una mappa che spiega come trovarla. Non so dove sia, ma so come puoi trovarla.
+zh: 啊……宝球！多少勇敢的英雄为了寻找宝球把尸骨丢在世界各地。唉，我怀疑宝球就在这里。我真怀疑。不过我能在你的寻找上帮你。据我所知，只有一个人见过宝球。他如今死了，可他画了一张说明如何找到它的地图。我不知道它在哪儿，但我知道你怎么能找到。
+it: Devi andare nella capitale di Hong, Akawa, che si trova lontano a sud-est di qui. Purtroppo qualche anno fa Borgh e i suoi alleati del possente Impero Gen-Sai hanno conquistato la città. Perché ci abbiano lasciati vivere resta un mistero. Ora alcuni maghi custodiscono una lettera segreta che spiega come trovare la mappa. Questi maghi generano anche draghi che ci attaccano senza pietà. Devi ucciderli e rubare la lettera. Ma sta' attento: Akawa è sorvegliata pesantemente. Borgh intende trasformare la città in un'importante base militare per controllare la zona.
+zh: 你得去洪地的都城阿川，在东南方很远的地方。可惜几年前博尔格和他强大的玄塞帝国的盟友攻下了这座城。他们为什么让我们活着，至今是个谜。现在有几个法师守着一封密信，说明如何找到那张地图。这些法师还造龙，毫不留情地袭击我们。你必须杀掉他们，偷走那封信。但要当心：阿川戒备森严。博尔格打算把这座城变成控制这一带的重要军事基地。
+it: Una città ben sorvegliata? La base di Borgh?! Non siamo in molti. Come possiamo sconfiggere Borgh? Forse dovremmo tornare indietro a chiedere rinforzi.
+zh: 戒备森严的城？博尔格的基地？！我们人不多。怎么打得过博尔格？也许我们该回去求援。
+it: Aspetta! Ho un'idea. Quando Borgh conquistò la regione, la nostra base militare sopravvisse in parte. Posso dartela insieme a uno dei nostri porti. Ti forniremo le risorse, ma dovrai proteggere me e i miei contadini. La vecchia base si trova lungo la strada, a sud di qui. Credo che sarà una buona mossa per tutti e due. Non sei d'accordo?
+zh: 等等！我有个主意。博尔格征服这一带时，我们的军事基地部分幸存了下来。我可以把它连同我们的一座港口交给你。我们给你资源，但你得保护我和我的农民。旧基地在路边，就在这儿南边。我想这对我们双方都是好棋。你不这么认为？
+it: Sì, certo! Hai la mia parola! Mi occuperò dei tuoi nemici.
+zh: 是，当然！我向你保证！你的敌人我来对付。
+it: Proteggerti?! Abbiamo da fare qui. Comunque grazie delle informazioni.
+zh: 保护你？！我们这儿还有事。总之，多谢你的消息。
+it: Mi dispiace davvero. Non posso aiutarti in nessun altro modo. Va' a est. C'è un piccolo villaggio di pescatori. È davvero piccolo, ma l'anziano del villaggio è un uomo molto saggio. Forse saprà qualcosa che ti sarà utile. Chi lo sa...
+zh: 我真的很抱歉。我没法用别的方式帮你。往东去吧。有个小渔村。它真的很小，可村里的长者是个很有智慧的人。也许他知道些对你有用的东西。谁知道呢……
+it: Perfetto! Va' laggiù e libera la base. Oh, dimenticavo di dirti che è sorvegliata da alcune orribili creature. Ma non credo che saranno un problema per te. A proposito, puoi andare a est. C'è un piccolo villaggio di pescatori. È davvero piccolo, ma l'anziano del villaggio è un uomo molto saggio. Forse troverà il modo di aiutarti, Sartor. Buona fortuna!
+zh: 太好了！去那儿，解放那座基地。哦，我忘了说，那里有些可怕的生物看守。不过我想它们对你不是问题。顺便说，你可以往东去。有个小渔村。它真的很小，可村里的长者很有智慧。也许他能想出帮你的办法，萨托尔。祝你好运！
+
+# tzar.wcm::maps/alex1
+it: Mappa 2.1
+zh: 地图 2.1
+it: Bande erranti
+zh: 游荡的团伙
+it: Navi abbandonate
+zh: 弃船
+it: Guardiani della foresta
+zh: 森林守卫
+it: I Protettori
+zh: 保护者
+it: Proteggi i tuoi eroi. Woolin, Ghiron e Sartor devono sopravvivere.
+zh: 保护你的英雄。伍林、吉隆和萨托尔必须存活。
+it: Sartor deve scortare Ghiron fino agli antichi idoli nella foresta a sud-est. Ghiron deve toccare gli idoli. Nessun altro può entrare nella foresta.
+zh: 萨托尔必须护送吉隆到东南森林里的古代神像。吉隆必须触摸那些神像。其他人不得进入森林。
+it: Hai disturbato la foresta! Ora devi distruggere tutti i suoi guardiani prima che Ghiron e Sartor possano portare a termine la loro missione agli idoli.
+zh: 你惊扰了森林！现在你得在吉隆和萨托尔完成神像之行前，消灭它所有的守卫。
+it: Requisisci le quattro navi vicino all'isola a nord-est. Riempile con un esercito, fai salire a bordo Woolin, Ghiron e Sartor e schierale vicino al porto di Wark Aven, pronte a partire.
+zh: 征用东北岛边的四条船。装满一支军队，让伍林、吉隆和萨托尔上船，把船列在瓦尔克·艾文港附近，准备出发。
+it: La ricostruzione di Wark Aven procedeva bene. Gruppi sparsi dell'esercito sbaragliato di Borgh cercavano di ostacolarla, ma il peggio sembrava passato. Woolin pensava che avessero una base da qualche parte nelle campagne intorno a Wark Aven e progettava di far loro visita con alcune delle migliori truppe ai suoi ordini, quando dal mare aperto arrivò una nave con una strana bandiera. Le persone che sbarcarono sembravano spaventate e sfinite. Ghiron andò al porto per sapere che cosa fosse loro accaduto.
+zh: 瓦尔克·艾文的重建进展顺利。博尔格溃军的散兵游勇想从中作梗，但最坏的似乎已经过去。伍林认为他们在瓦尔克·艾文周边的乡间某处有个基地，正打算带手下最好的部队去拜访一趟，这时从外海来了一条挂着怪旗的船。上岸的人显得惊恐又虚弱。吉隆去港口打听他们遭遇了什么。
+it: Perché non ti sei schierato dalla mia parte in questo scontro, mago?\nEro in grave pericolo e tu sei rimasto a guardare come andava a finire?!
+zh: 这场打斗里你为什么没站到我这边，法师？\n我当时处境极险，你就站在旁边看着会怎样？！
+it: Dovresti conoscere meglio il codice d'onore, Sartor. Nessuno può intromettersi in un duello tra nobili cavalieri, che sia un mago o un contadino. Anche se non si era nell'arena di un torneo, è stato uno scontro leale, e siete entrambi cavalieri.\nE poi, giovane Sartor, non eri in pericolo... fidati di me. Conosco i cavalieri dell'Ordine dei Protettori: tengono il loro onore in gran conto.\nMa basta così. Avevo buone ragioni per agire come ho fatto, e non devo spiegarle a nessuno. Concludiamo il nostro compito in questo luogo sacro.
+zh: 你该更懂荣誉的规矩，萨托尔。贵族骑士之间的单挑，谁也不能插手——不管他是法师还是农夫。虽然不在比武场里，那也是一场公平的决斗，而你们都是骑士。\n再说，年轻的萨托尔，你并没有危险……相信我。我知道保护者团的骑士：他们把荣誉看得很重。\n但这些不必再说。我那么做自有道理，不需要向谁解释。让我们在这圣地完成我们的事。
+it: Forse hai ragione, Ghiron. Sappi che mi fido del tuo giudizio.\nComunque questo luogo non mi piace. Prima saremo lontani da qui, meglio sarà. Presto!
+zh: 也许你说得对，吉隆。你要知道我信你的判断。\n总之我不喜欢这地方。越早离开越好。快！
+it: Non interrompermi ora, Sartor. Presto sapremo che cosa fare e come farlo nel modo migliore.\n\nHarda enna sagri minustu!\nHarda danni minusti!\nVella ayulo enna!\nDaro! Daro! Daro!\n\nPrestatemi la vostra vista, antichi. Concedetemi la conoscenza di ciò che fu e di ciò che è, perché io possa forgiare ciò che sarà!
+zh: 现在别打断我，萨托尔。很快我们就会知道该做什么，以及怎样做得最好。\n\nHarda enna sagri minustu！\nHarda danni minusti！\nVella ayulo enna！\nDaro！Daro！Daro！\n\n借我你们的眼睛，古代诸灵。赐我知晓过去与现在之事，好让我锻造将来！
+it: Vedo un grande male che si agita a nord. Offusca il mondo da un orizzonte all'altro, e continua ad avanzare strisciando. Colonne di fumo e il pianto delle donne segnano il suo cammino. Ha ricoperto due bellissime isole nell'oceano a nord. Si è esteso al continente a nord-ovest. È al sicuro in grandi fortezze nelle magnifiche terre dell'est. Si prepara a riconquistare il sud. Solo l'unione di tutti i popoli liberi del mondo, dell'est, dell'ovest e del sud, può sfidarlo. Solo... ahhh...
+zh: 我看见北方有一股强大的邪恶在躁动。它从一端地平线遮蔽到另一端，不断爬行推进。烟柱与妇人的哭泣标示着它的路径。它已覆盖北方海上的两座美丽岛屿。它已蔓延到西北的大陆。它在东方壮丽之地的巨大要塞中安然盘踞。它正准备重夺南方。只有世界上所有热爱自由的人民——东方、西方与南方——联合起来，才能挑战它。只有……啊……
+it: Stai bene, Ghiron? Che cosa è successo? Sembri debole.
+zh: 你还好吗，吉隆？出了什么事？你看起来很虚弱。
+it: Mi serve solo un momento di riposo...\nHo cercato di guardare nel cuore di questo male... la fonte delle tenebre. Ma su di essa è stato gettato un incantesimo di protezione che non sono riuscito né a piegare né a spezzare. Per poco non ci rimettevo la vita, o peggio.\nAlmeno ora so che cosa bisogna fare.\nDobbiamo radunare un esercito il più in fretta possibile e partire per le isole di Allita, Ses e Rea. A nord ci sono alcune navi di Borgh abbandonate. Basta andare a prenderle, caricarvi un esercito e partire verso nord.
+zh: 我只需要歇一会儿……\n我试着去看这邪恶的核心……黑暗的源头。可它上面施了护咒，我既折不断也破不了。我差点把命丢在那儿，或者更糟。\n至少现在我知道该做什么了。\n我们得尽快集结一支军队，出发去阿利塔群岛——塞斯和蕾娅。北边有些博尔格弃下的船。只要去夺来，装上一支军队，然后向北出发。
+it: Sei sconfitto, traditore!\nPerderai la vita, a meno che tu non giuri davanti a me di fare ciò che ti ordino.
+zh: 你败了，叛徒！\n除非你当着我立誓照我的命令去做，否则你将丧命。
+it: Non posso dare la mia parola a qualcuno che non conosco.\nMi hai attaccato e sconfitto in uno scontro leale, ma non ti farò alcun giuramento, non prima che tu mi dica che cosa vuoi. Se questo non ti sta bene, allora uccidimi. Ma io non ho tradito nessuno.
+zh: 我不能对一个我不认识的人许下诺言。\n你在一场公平的决斗中袭击并击败了我，但在你说出你的要求之前，我不会向你立任何誓。若你不满意，那就杀了我。可我没有背叛任何人。
+it: D'accordo. Allora ti spiegherò.\nMi chiamo Vardal. Sono un cavaliere dell'Ordine dei Protettori delle isole di Allita.\nForse pensi di aver compiuto una buona azione sconfiggendo Borgh qui, ma in realtà hai solo condannato la gente innocente delle isole di Allita a essere schiava del Distruttore, o peggio. Si dice che tu sia il figlio del nostro antico sovrano. Se è così, ci hai traditi. Hai fatto soffrire il mio popolo, e così sono venuto qui per costringerti a rimediare a questo tradimento, o a pagare. Ora devi decidere.
+zh: 好。那我解释。\n我叫瓦尔达尔。我是阿利塔群岛保护者团的骑士。\n你也许以为自己在这里打败博尔格是做了件好事，其实你只是把阿利塔群岛无辜的百姓推给了毁灭者当奴隶，或者更糟。据说你是我们先王的儿子。若真是，你就背叛了我们。你让我的族人受苦，所以我来这里逼你弥补这背叛，或者付出代价。现在你得选。
+it: Sì, ora capisco. Ti do la mia parola: aiuterò gli isolani appena potrò. Ma ho anche un dovere verso la gente di qui. Proprio mentre parliamo, la città di Wark Aven è sotto l'attacco dei resti delle forze di Borgh. Devo difenderla. Quando avrò radunato un esercito sufficiente a difendere la città e da portare con me, partirò per le tue isole a nord. Ti sembra giusto?
+zh: 是的，我现在明白了。我向你保证：我一有余力就去帮岛上的人。但我对这里的人也有责任。就在我们说话的时候，瓦尔克·艾文正遭博尔格残部攻击。我得守住它。等我集结起足以守城又能带走的军队，我就出发去你北方的群岛。你觉得这公平吗？
+it: Vedo che in te c'è dell'onore. Forse nelle tue vene scorre davvero sangue reale.\nNon indugiare qui. Partirò subito per le isole. Spero di riuscire a radunare una forza abbastanza grande da contare qualcosa nella battaglia per Rea e Ses.\nAddio, Sartor. Ci rivedremo, te lo prometto.
+zh: 我看你身上有荣誉。也许你血管里真流着王族的血。\n别在这里耽搁。我这就动身去群岛。希望我能集结起一支足以在蕾娅和塞斯之战中起作用的兵力。\n告辞，萨托尔。我们会再见的，我向你保证。
+it: Hai perso, aggressore!\nCombatti bene, ma attacchi senza preavviso.\nDimmi il tuo nome e spiegati, perché io possa giudicare le ragioni del tuo attacco... e perché mi hai chiamato traditore. Nessuno mi ha mai accusato di tradimento ed è rimasto in vita.\nParla!
+zh: 你输了，袭击者！\n你打得不错，可你不打招呼就动手。\n报上你的名字，说明缘由，好让我判断你袭击的理由……还有你为什么叫我叛徒。从没有人指控我背叛还能活着。\n说吧！
+it: Per Rea e Ses!\nMuori, traditore!
+zh: 为了蕾娅和塞斯！\n死吧，叛徒！
+it: Benvenuti, marinai.\nDa dove venite così di corsa? Sembrate deboli... È per il lungo viaggio, o vi è successo qualcosa?
+zh: 欢迎，航海人。\n你们这么急从哪儿来？看起来很虚弱……是长途航行，还是出了什么事？
+it: Veniamo dalle isole di Allita. È davvero un viaggio difficile, e ancor più con una nave danneggiata, l'equipaggio ferito e senza provviste.
+zh: 我们从阿利塔群岛来。那真是一段艰难的航程，尤其是船坏了、船员受伤、又没有补给。
+it: Persino questo viaggio è meglio della guerra sulle nostre isole. Sia maledetto in eterno il nome di Borgh il Distruttore!
+zh: 就连这样的航程也比我们岛上的战争好。愿毁灭者博尔格的名字永世受诅咒！
+it: Dite che Borgh è arrivato in forze a conquistare le isole di Allita?\nNon è possibile. Sono state le mie mani a porre fine alla sua miserabile vita, quando il suo castello gli è crollato addosso.
+zh: 你说博尔格已大举前来征服阿利塔群岛？\n不可能。当他的城堡塌在他身上时，是我亲手结束了他那条可怜性命。
+it: È vivo. Non era neppure ferito, ma la sua oscura malvagità è ora ancora più nera... Sulle isole c'erano dei profughi delle vostre terre, e conoscevano Borgh: ci hanno avvertiti appena lo hanno visto. Abbiamo cercato di fuggire il prima possibile...
+zh: 他活着。他连伤都没有，可他那股阴暗的恶意如今更黑了……岛上有些从你们土地来的难民，他们认得博尔格：一看见他就警告了我们。我们尽快逃了出来……
+it: Ahimè, era troppo tardi...
+zh: 唉，太迟了……
+it: Sì, ora capisco... Sentivo che a nord qualcosa non andava, e ora vedo che siamo rimasti inerti troppo a lungo. Vieni con me, Sartor. Ho bisogno che tu mi assista.
+zh: 对，我现在明白了……我一直感觉北方有哪里不对，现在我看出来我们闲得太久了。跟我来，萨托尔。我需要你协助我。
+it: Fa' strada, mago. Ti aiuterò in ogni modo possibile.
+zh: 带路吧，法师。我会尽力帮你。
+it: Devo andare nell'antica foresta a sud-est. Presto la città sarà attaccata, ma ho bisogno che tu mi scorti fino al luogo del potere presso gli antichi idoli. Toccandoli potrò vedere da lontano le isole di Allita. Saprò allora che cosa bisogna fare... E sento che devi venire con me.
+zh: 我得去东南的古老森林。城里很快会遭攻击，但我需要你护送我到古代神像旁的力量之地。触摸它们，我就能远远看见阿利塔群岛。那时我就知道该做什么……而且我感觉你必须跟我一起去。
+it: Basta parole, allora. Andiamo.
+zh: 那就别多说了。走吧。
+it: Devo però avvertirti. La foresta non ama essere disturbata, e sa come trattare gli ospiti sgraditi. Posso proteggere te e me dalla sua collera, ma nessun altro. Dobbiamo andarci da soli.
+zh: 不过我得警告你。森林不喜欢被打扰，它有办法对付不受欢迎的客人。我能护住你我，免受它的怒气，别人不行。我们得单独去。
+
+# tzar.wcm::maps/ultimate
+it: La caduta del Castello del Male
+zh: 邪恶城堡的陷落
+it: Castello del Male
+zh: 邪恶城堡
+it: Distruggi il Castello del Male.
+zh: 摧毁邪恶城堡。
+it: Sartor deve sopravvivere.
+zh: 萨托尔必须存活。
+it: Dalle rovine fumanti del castello di Benas Ghiron prese la mappa che indicava dove si trovava la Sfera. Le mani gli tremavano mentre la srotolava, ma il suo sguardo si fece duro quando finalmente riuscì a leggerla. L'ultimo sforzo che dovevano compiere li riportò ancora una volta nella terra di Gen-Sai, l'ultima roccaforte rimasta al Male. Con l'aiuto degli alleati di Hong e di Kalt'ha, l'esercito di Sartor riuscì a sbarcare dalle navi e a costruire accampamenti da cui attaccare il nemico fortificato. Le alte torri dell'accampamento si ergevano alle loro spalle mentre guardavano verso nord, verso l'accampamento nemico.
+zh: 从贝纳斯城堡冒烟的废墟里，吉隆取出了那张标明宝球位置的地图。他展开时双手发抖，可当他终于读懂时，目光变得冷硬。他们必须做的最后一搏，又一次把他们带到了玄塞之地——邪恶最后的堡垒。在洪地和卡尔塔盟友的帮助下，萨托尔的军队得以下船，筑起营地，从那里进攻设防的敌人。他们向北望向敌营时，高高的塔楼就立在身后。
+it: Sono passati molti anni dalla battaglia decisiva al Castello del Male, ma ricordo ancora tutto come se fosse accaduto ieri. Sento le grida dei morenti echeggiarmi nelle orecchie, rivedo i villaggi saccheggiati e i corpi dei miei alleati. Andava fatto, le forze del Male andavano sconfitte, ma il prezzo che abbiamo pagato...\n\nNegli anni che seguirono, una pace dimenticata tornò a poco a poco a regnare sulle terre martoriate. La gente non guardava più inquieta verso l'orizzonte, in cerca di nuvole di fumo che si levassero da villaggi in fiamme. Ancora una volta la guerra divenne soltanto leggenda. Pochi ricordano le migliaia di persone che diedero la vita nell'ultima Guerra contro il Male... una guerra che ora la gente chiama la Battaglia di Sartor.\n\nAhimè, anche se massacrammo i servi del Male a migliaia, sconfiggemmo il suo messaggero e distruggemmo la sua porta verso il nostro mondo, con grande sgomento non trovammo la Sfera. Proprio come durante gli innumerevoli anni prima del regno di mio padre, nessuno ne sa nulla. Forse qualche mago tenterà ancora una volta di usarne il potere per sottomettere il nostro mondo? Forse il Messia del Male l'ha portata nel suo mondo al di là, dove resterà per sempre fuori dalla nostra portata. Ricordo come il vento cantava tra le rovine del castello che avevamo distrutto... Come se ridesse di noi. Il tempo trasformò lentamente la vittoria di quel giorno in una sconfitta...\n\nPerdonami, padre, perché ho fallito. Ho vendicato la tua morte, ho difeso Keana e ho riportato la pace. Ma non ho trovato la Sfera, la nostra unica arma contro il nemico. Ogni giorno che passa sento un male incombente. Non riesco a capire che cosa sia, né a indicarlo, ma so che sta arrivando. Nel profondo sento che i giorni di pace sono contati e che presto dovremo opporre un'ultima resistenza al Male. Vinceremo ancora, o periremo?\n\nNon lo so...
+zh: 距邪恶城堡的决战已过去许多年，可我仍记得一切，仿佛就发生在昨天。我听见垂死者的呼喊在耳中回响，我看见被洗劫的村庄和我盟友的尸体。那件事必须做，邪恶的势力必须被击败，可我们付出的代价……\n\n此后多年，被遗忘的和平渐渐重回这片受尽折磨的土地。人们不再不安地望向地平线，寻找从燃烧村庄升起的烟云。战争又一次只成了传说。很少有人记得在那场对抗邪恶的最后一战中献出生命的数千人……那场战争，如今人们称之为萨托尔之战。\n\n唉，尽管我们屠杀了成千上万的邪恶仆从，击败了它的使者，毁掉了它通往我们世界的门户，我们却万分沮丧地没有找到宝球。正如在我父亲统治之前的无数年里一样，没有人知道它的下落。也许某个法师还会再次试图用它的力量来征服我们的世界？也许邪恶的弥赛亚已把它带到了它那边的世界，永远在我们的触及之外。我记得风在我们摧毁的城堡废墟间歌唱……仿佛在嘲笑我们。时间慢慢把那一日的胜利变成了失败……\n\n原谅我，父亲，我失败了。我为你的死报了仇，我守住了基纳，恢复了和平。可我没有找到宝球——我们对抗敌人的唯一武器。每过一天，我都感到一股逼近的邪恶。我辨不清它是什么，也指不出它，但我知道它正在到来。内心深处我感到和平的日子已屈指可数，不久我们就必须对邪恶做最后一次抵抗。我们会再次胜利，还是会灭亡？\n\n我不知道……
+it: Lo vedi, Sartor?\nIn lontananza, a nord, dietro il fumo dei fuochi degli accampamenti e la nebbia dei laghi, incombe. Scuro e minaccioso, oscura tutto ciò che vedo e mi attira sempre a sé: il Castello del Male.\nÈ una soglia verso un mondo infero, un portale verso un luogo al di là del nostro spazio e del nostro tempo. Tutte le battaglie che abbiamo combattuto insieme, dall'inizio fino a oggi, sono state contro il potere che emana da questo castello. E ora che è stato contrastato, ha evocato il suo servo più potente per difendersi da noi. Un nero abominio del Male, tratto dai suoi non morti per una sola missione: cancellarci dalla faccia della terra. Guardatene, Sartor, perché può distruggere interi eserciti e spazzare via città con un gesto della mano.
+zh: 你看见了吗，萨托尔？\n远处北方，在营火的烟与湖上的雾之后，它巍然耸立。幽暗而凶险，遮蔽我所见的一切，不断把我引向它——邪恶城堡。\n那是通往幽冥世界的门户，通向在我们时空之外某处的入口。我们并肩打过的所有战役，从最初到今天，都是对抗从这座城堡散发出的力量。如今它受到遏制，便召来了它最强的仆从来对抗我们。一个邪恶的黑色憎恶之物，从它的亡灵中唤出，只为一件事：把我们从这个世界上抹去。当心它，萨托尔，因为它一挥手就能毁灭整支军队、扫平城市。
+it: E se lo distruggessimo? Il Male svanirebbe? Di certo un solo servo del Male non può resistere alla nostra forza unita, una volta sfondate le difese?
+zh: 那如果我们把它毁掉呢？邪恶会消失吗？只要突破防线，区区一个邪恶的仆从当然挡不住我们合力的进攻吧？
+it: Non resisterà da solo ai nostri eserciti. Ma questa... creatura, questo Messia del Male, è solo un servo... un esempio di ciò che attende le nostre terre se lasciamo stare il Male. Dobbiamo eliminare il portale da cui è venuto. Dobbiamo distruggere il castello. Quando lo avremo raso al suolo, il nostro compito qui sarà compiuto... Questa è la nostra ultima battaglia, Sartor, la tua ultima battaglia. Dopo sarai il sovrano di tutta Keana.
+zh: 它不会独自对抗我们的军队。可这个……生物，这个邪恶的弥赛亚，只是个仆从……它是给我们看的例子：若放任邪恶，我们的土地将面临什么。我们必须除掉它来时的门户。我们必须摧毁那座城堡。等我们把它夷为平地，我们在这里的任务就完成了……这是我们的最后一战，萨托尔，你的最后一战。之后你就是全基纳的统治者。
+it: Mettiamoci all'opera, allora.\nIl Castello del Male cadrà!\nKeana sarà libera!
+zh: 那就动手吧。\n邪恶城堡必将陷落！\n基纳必将自由！

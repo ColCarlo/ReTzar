@@ -25,12 +25,14 @@ use std::{
     },
 };
 
+mod fonts;
 mod missions;
 mod overlay;
 mod own;
 
 #[cfg(test)]
 pub(crate) use missions::written_in;
+pub use fonts::get as chinese_font;
 pub use missions::{localize_mission, mission_language, mission_text, translate};
 pub use overlay::{Mode, merge, names as overlay_names, overlays};
 
@@ -46,13 +48,14 @@ pub enum Language {
     Spanish,
     Polish,
     Portuguese,
+    Chinese,
 }
 /// The choices of «Lingua», each named in its own language, in the order of
 /// [`Language`]: English first, the default, then the installation's
 /// Italian. The settings and the saves keep this index; it was Italian
 /// first until English became the default, so the settings of earlier
 /// versions, which held the default, now open in English.
-pub const LANGUAGES: [&str; 7] = [
+pub const LANGUAGES: [&str; 8] = [
     "English",
     "Italiano",
     "Français",
@@ -60,9 +63,13 @@ pub const LANGUAGES: [&str; 7] = [
     "Español",
     "Polski",
     "Português",
+    // In Latin letters on purpose: the list is drawn with the fonts of the
+    // language in effect, which have no Chinese glyphs until Chinese is
+    // chosen (it would show «??»).
+    "Chinese",
 ];
 impl Language {
-    pub const ALL: [Self; 7] = [
+    pub const ALL: [Self; 8] = [
         Self::English,
         Self::Italian,
         Self::French,
@@ -70,6 +77,7 @@ impl Language {
         Self::Spanish,
         Self::Polish,
         Self::Portuguese,
+        Self::Chinese,
     ];
     pub fn from_index(i: usize) -> Self {
         Self::ALL.get(i).copied().unwrap_or_default()
@@ -87,10 +95,14 @@ impl Language {
             Self::Spanish => "es",
             Self::Polish => "pl",
             Self::Portuguese => "pt",
+            Self::Chinese => "zh",
         }
     }
     /// The languages translated by this version, beyond the American
-    /// release's English.
+    /// release's English. (Chinese, added later, is not here: the strict
+    /// translation tests iterate this list, and its data reuses the
+    /// original localization's files, which carry more keys than the
+    /// overlays of this version.)
     pub const TRANSLATED: [Self; 5] = [
         Self::French,
         Self::German,
@@ -127,6 +139,7 @@ pub fn game_title(language: Language) -> &'static str {
         Language::Spanish => "Tzar: El poder de la Corona",
         Language::Polish => "Tzar: Ciężar korony",
         Language::Portuguese => "Tzar: O Fardo da Coroa",
+        Language::Chinese => "王冠之争",
     }
 }
 
@@ -374,7 +387,12 @@ mod tests {
         let titles: std::collections::HashSet<_> =
             Language::ALL.iter().map(|&l| game_title(l)).collect();
         assert_eq!(titles.len(), Language::ALL.len());
-        assert!(titles.iter().all(|t| t.starts_with("Tzar")));
+        // The Latin editions name it «Tzar: …»; the Chinese one keeps the
+        // name its own release had, without the Latin word before it.
+        assert!(
+            titles.iter().all(|t| t.starts_with("Tzar") || *t == "王冠之争"),
+            "{titles:?}"
+        );
     }
 
     #[test]

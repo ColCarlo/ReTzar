@@ -1,0 +1,469 @@
+# L'Impero di Gengis Khan (campagna dell'edizione italiana, assente dalla versione americana): traduzione di ReTzar.
+
+# impero di gengis khan.wcm
+it: L'Impero di Gengis Khan\n\nLa conquista dell'Asia da parte di Gengis Khan e del suo esercito avvenne fra mille ostacoli. Se vuoi emulare con successo le sue conquiste, dovrai superare varie prove. Se ci riuscirai, la Grande Assemblea dei Guerrieri ti proclamerà Gengis Khan e potrai creare un favoloso esercito per lanciarti alla conquista di Pechino. Se non porterai a termine qualcuna di queste sfide, il tuo potere militare verrà limitato nel corso della prossima campagna: l'invasione dell'Impero Cinese.
+zh: 成吉思汗的帝国\n\n成吉思汗与他的军队征服亚洲，历经千难万险。若想仿效他的功业，你必须通过重重考验。若能成功，勇士大会将拥你为成吉思汗，你便能组建一支了不起的军队，向北京进军。若有哪项挑战未能完成，你的军力将在下一场战役——入侵中华帝国——中受到限制。
+
+# impero di gengis khan.wcm::maps/gengis_khan01
+it: La proclamazione del Khan
+zh: 汗的宣告
+it: Dopo la morte del padre, Temujín ha ereditato il comando della sua tribù. A soli tredici anni dovrà ridare fiducia al suo popolo demoralizzato e debilitato, sconfiggere le tribù rivali e vendicare la morte del padre.
+zh: 父亲死后，铁木真继承了部落的统领之位。年仅十三岁的他，必须让沮丧疲惫的族人重拾信心，击败敌对的部落，为父亲之死报仇。
+it: Taichiti
+zh: 泰赤乌
+it: Borkigini
+zh: 博尔吉斤
+it: Mongoli
+zh: 蒙古
+it: Kerait
+zh: 克烈
+it: Naimani
+zh: 乃蛮
+it: Merkit
+zh: 梅尔基特
+it: Nemici
+zh: 敌人
+it: Tartari
+zh: 塔塔尔
+it: Spirito
+zh: 邪恶
+it: Maligno
+zh: 之灵
+it: ossa drago
+zh: 龙骨
+it: Muro di
+zh: 力量之
+it: forza
+zh: 墙
+it: orca
+zh: 兽人
+it: Orco
+zh: 兽人
+it: orco
+zh: 兽人
+it: Fucina
+zh: 矮人的
+it: Nana
+zh: 熔炉
+it: Scudo
+zh: 盾
+it: Nano
+zh: 矮人
+it: Fratello
+zh: 兄弟
+it: Arco
+zh: 复合
+it: Composito
+zh: 弓
+it: Vecchio
+zh: 长老
+it: Grimorio
+zh: 龙
+it: Draghi
+zh: 魔法书
+it: Borkiginos
+zh: 博尔吉斤人
+it: Negromante
+zh: 亡灵法师
+it: Esercito di Yamuga
+zh: 亚木加的军队
+it: Mago
+zh: 法师
+it: Guerriero
+zh: 战士
+it: Straniero
+zh: 陌生人
+it: Figlia di Yamuga
+zh: 亚木加之女
+it: La leggenda narra che Alan-Coa, sposa del capo della tribù più potente della steppa, vedeva in sogno, ogni notte, una figura dai capelli dorati e dagli occhi azzurri che entrava nella sua tenda senza far rumore, le accarezzava il viso e, prima di scomparire, le sussurrava all'orecchio... "GENGIS KHAN".\n\nTrent'anni dopo la sua prima visione, il clan familiare di Alan-Coa venne benedetto dalla nascita di Temujìn che, molto presto, dimostrò doti da gran guerriero e di buon capo.\n\nPer rafforzare il dominio della tribù sui territori della steppa, Temujín acconsente alla volontà del padre e accetta di sposare la figlia del capo Tugril-Khan.\n\nLa notizia dell'accordo si diffonde rapidamente per la steppa e un corteo nuziale, con Temujín e suo padre in testa, parte per suggellare l'alleanza. Lungo il cammino, i tartari, un'antica tribù rivale, li raggiunge e li invita a partecipare a un banchetto organizzato in onore della futura unione. Yesugei, obbligato dalle sacre tradizioni della steppa, non può rifiutare la loro ospitalità e decide di fermarsi. Ma il banchetto celebrativo in realtà nasconde una trappola mortale. Yesugei viene avvelenato e, agonizzante, incarica il figlio di tenere unita la tribù. \n\nLa scomparsa di Yesugei e la giovane età di Temujín, all'epoca appena tredicenne, provocano lo sconcerto fra i parenti e i clan familiari della tribù, che pian piano, cominciano ad abbandonarla portandosi via le proprie greggi. Temujín con il solo aiuto della madre e dei quattro fratelli deve affrontare l'opera di ricostruzione della sua tribù...\n\nComincia a formarsi la leggenda di quello che un giorno verrà chiamato Gengis Khan, re ed imperatore di tutte le popolazioni dell'Asia.
+zh: 传说，草原上最强部落首领的妻子阿兰豁阿，每夜都梦见一个金发碧眼的影子无声地走进她的帐篷，抚摸她的脸，消失前在她耳边低语……「成吉思汗」。\n\n她第一次见到异象三十年后，阿兰豁阿的家族蒙福生下铁木真。他很快便显露出伟大战士与优秀首领的天赋。\n\n为巩固部落对草原的统治，铁木真顺从父亲的意愿，答应迎娶图格里汗之女。\n\n盟约的消息迅速传遍草原，一支婚礼队伍以铁木真和他的父亲为首，出发去缔结婚盟。途中，宿敌塔塔尔人追上他们，请他们赴一场为庆贺这门亲事而设的宴席。也速该受草原神圣传统的约束，无法拒绝他们的款待，决定留下。但这场庆宴实则暗藏杀机。也速该中毒，临终前嘱咐儿子务必维系部落。\n\n也速该的去世与铁木真尚幼（当时刚满十三岁），令亲属与各部族人心浮动，他们渐渐带着自己的牲畜离去。铁木真只有母亲和四个弟弟相助，必须挑起重建部落的重担……\n\n那个日后被称为成吉思汗、全亚洲各族之王与皇帝的人的传说，就此开始。
+it: Temujín, a soli tredici anni deve condurre il proprio scoraggiato popolo.
+zh: 年仅十三岁的铁木真，必须带领他沮丧的族人。
+it: I taichiti, vecchi alleati e compagni d'armi, attaccano l'accampamento. Il sacrificio dei valorosi guerrieri di Temujín non è sufficiente a impedire che lui, sua madre e i suoi fratelli cadano prigionieri...
+zh: 昔日的盟友与战友泰赤乌人袭击了营地。铁木真麾下勇士的牺牲，仍不足以阻止他、他的母亲和弟弟们被俘……
+it: Catturato
+zh: 被俘
+it: Un gruppo di stranieri ha rubato otto dei nove cavalli da monta che costituivano la ricchezza del clan. Temujín, protettore del clan, monta sull'ultimo purosangue rimasto e parte alla ricerca dei ladri.
+zh: 一伙陌生人偷走了九匹坐骑中的八匹，那是这个家族的全部财富。家族的保护者铁木真跨上仅存的最后一匹良马，出发追寻盗贼。
+it: Ladri
+zh: 盗贼
+it: Tugril-Khan ha accettato la tua dote. Sarai sempre il benvenuto al suo accampamento. I preparativi per le tue nozze sono cominciati.
+zh: 图格里汗已接受了你的聘礼。他的营地永远欢迎你。你的婚礼已在筹备之中。
+it: Matrimonio
+zh: 婚礼
+it: Borta è stata rapita da un gruppo di guerrieri della tribù dei merkit.
+zh: 博尔帖被一队梅尔基特武士劫走。
+it: I rapitori di Borta hanno giurato di non restituirla finché uno solo di loro rimarrà in piedi! La tengono prigioniera nel loro accampamento.
+zh: 劫走博尔帖的人发誓，只要他们还有一人站着，就绝不交还她！他们把她囚在自己的营地。
+it: Rapitore
+zh: 劫持者
+it: Dopo la cerimonia di nozze...
+zh: 婚礼之后……
+it: Dopo la celebrazione delle nozze fra Temujín e Borta, Tugril-Khan accetta come figlio Temujín e gli garantisce la sua protezione.\n\nCon la benedizione dei kerait, la giovane coppia parte alla volta dell'accampamento di Temujín.
+zh: 铁木真与博尔帖的婚礼举行后，图格里汗收铁木真为义子，并许以他的庇护。\n\n在克烈部的祝福下，这对年轻夫妇启程前往铁木真的营地。
+it: Liberata Borta dalle mani dei merkit, la fama di Temujín si diffonde per tutta la steppa e tutti i suoi familiari e amici tornano all'interno del clan familiare per porsi ai suoi ordini. Borta consiglia a Temujín di ripristinare il commercio fra i mongoli, creando due mercati così che i commercianti possano appoggiarlo.
+zh: 博尔帖从梅尔基特人手中获救后，铁木真的名声传遍整个草原，亲友纷纷回到家族中听他调遣。博尔帖建议铁木真恢复蒙古人之间的贸易，建两处市场，让商人支持他。
+it: Commercio
+zh: 贸易
+it: La costruzione dei due mercati permetterà il commercio fra le tribù  della Mongolia e sarà senza dubbio un'ottima fonte di entrate per le future campagne.
+zh: 建起这两处市场，蒙古各部之间便可通商，日后征战也无疑会有可观的财源。
+it: Mercati
+zh: 市场
+it: Improvvisamente, avvicinandosi ai papiri, il suolo comincia a tremare, le statue di pietra prendono vita e si trasformano in esseri enormi e grotteschi che, senza una parola, cominciano ad attaccarti.
+zh: 你刚走近那些经卷，大地突然颤抖，石像活了过来，化作庞大怪异的生物，一言不发便向你发起攻击。
+it: Golem
+zh: 石像鬼
+it: Yamuga si è nascosto da qualche parte a curare le proprie ferite.
+zh: 亚木加躲到某处去疗伤了。
+it: Temujín aveva trovato il suo sospirato arco, il cui strano potere sembrava collegato a sua moglie Borta: finché lei fosse rimasta viva, egli avrebbe usufruito dei favolosi poteri dell'arma.
+zh: 铁木真找到了他渴望已久的弓，它奇异的力量似乎与妻子博尔帖相连：只要她活着，他就能动用这件武器非凡的力量。
+it: La negromante, vedendosi ferita, ha operato una magia ed è scomparsa. Purtroppo quella che sembrava una fuga si rivela essere una trappola mortale per Temujín. La strega con un incantesimo ha evocato un drago malvagio...
+zh: 亡灵女法师见自己受伤，施法遁走了。然而那看似逃遁的一幕，其实是给铁木真设下的死局。女巫以咒语召来了一条恶龙……
+it: Un fratello di Temujín è stato ferito mortalmente.
+zh: 铁木真的一个兄弟受了致命伤。
+it: Temujín è morto combattendo eroicamente, tuttavia il suo ricordo si perderà nell'oblio.
+zh: 铁木真英勇战死，然而他的名字终将被遗忘。
+it: Il vecchio che custodiva i tuoi cavalli è stato assassinato.
+zh: 替你看马的老人被杀害了。
+it: Borta, la sposa de Temujín, è stata assassinata.
+zh: 铁木真的妻子博尔帖被杀害了。
+it: Il maestro Batu è morto. I monaci piangeranno la sua perdita per anni.
+zh: 巴图师父死了。僧人们将为他的离去哀悼多年。
+it: La sconfitta delle tribù rivali permette a Temujín di sottomettere tutti i generali e i capi dei clan della steppa. Unite le tribù sotto il suo comando, i capi si riuniscono nella Grande Assemblea dei guerrieri, vicino alle fonti del fiume Onon e, nell'anno della tigre (1206), proclamano Temujín imperatore con il nome di Gengis Khan. Lo stendardo bianco di Gengis Khan sventola superbo alla volta della sua prossima conquista: Pechino, il cuore dell'Impero Cinese.
+zh: 击败敌对部落，使铁木真降服了草原上所有的将领与族长。各部统一于他的号令之下，首领们聚集在奥农河源头附近的勇士大会，在虎年（1206 年）拥立铁木真为皇帝，尊号成吉思汗。成吉思汗的白色旗帜高高飘扬，指向他的下一场征服：北京——中华帝国的心脏。
+it: Fuggi dai taichiti e ritorna al tuo accampamento. Se vuoi superare l'inverno, dovrai costruire una fattoria per sfamare la tua tribù.
+zh: 逃出泰赤乌人的掌控，回到你的营地。若想熬过冬天，你必须建一座农场来养活族人。
+it: Temujín e almeno uno dei suoi familiari devono sopravvivere.
+zh: 铁木真和至少一名家人必须存活。
+it: Trova i ladri di cavalli e impossessati della stalla con l'aiuto dei tuoi contadini.
+zh: 找到偷马贼，借你农民之力夺取马厩。
+it: Chiedi udienza a Tugril-Khan.
+zh: 求见图格里汗。
+it: Produci unità di cibo fino ad averne 400.
+zh: 生产食物，直到存有 400。
+it: Viaggia fino alla corte dei kerait per celebrare le tue nozze.
+zh: 前往克烈部的宫廷，举行你的婚礼。
+it: Parti con la tua sposa per fare ritorno al tuo accampamento.
+zh: 与你的新娘一同返回营地。
+it: Sollecita l'aiuto di Tugril-Khan per liberare Borta.
+zh: 请求图格里汗出兵解救博尔帖。
+it: Trova la pozione di ossa di drago e consegnala a Tugril-Khan.
+zh: 找到龙骨药水，交给图格里汗。
+it: Distruggi il castello dei merkit per liberare Borta.\nYamuga deve sopravvivere.
+zh: 摧毁梅尔基特人的城堡，救出博尔帖。\n亚木加必须存活。
+it: Costruisci due mercati nel tuo accampamento per aumentare il tuo potere economico.
+zh: 在你的营地建两处市场，增强你的经济实力。
+it: Cerca l'accampamento dei tartari e distruggi il loro castello.
+zh: 寻找塔塔尔人的营地，摧毁他们的城堡。
+it: Sconfiggi Yamuga e i suoi alleati.
+zh: 击败亚木加和他的盟友。
+it: Impossessati dell'arco magico custodito dai taichiti sulla loro collina.
+zh: 夺取泰赤乌人在山丘上看守的魔法弓。
+it: Sconfiggi Yamuga e i suoi nuovi alleati del nord-est.
+zh: 击败亚木加和他东北方的新盟友。
+it: Trova Yamuga e raccontagli la verità riguardo a sua figlia.
+zh: 找到亚木加，告诉他关于他女儿的真相。
+it: Sconfiggi i nani.
+zh: 击败矮人。
+it: Sconfiggi gli orchi.
+zh: 击败兽人。
+it: Trova il grimorio e portalo a Jagadai.
+zh: 找到魔法书，交给贾格代。
+it: Recupera i papiri di Kettsuin e consegnali a Batu.
+zh: 找回凯苏因的经卷，交给巴图。
+it: Con l'aiuto della sua famiglia, Temujín comincia la ricostruzione del suo villaggio, diventando in poco tempo un vero leader fra i suoi.
+zh: 在家人的帮助下，铁木真着手重建村庄，很快成为族人真正的领袖。
+it: Bochurgi è morto! Piangeremo per la scomparsa di questo grande guerriero.
+zh: 博楚吉死了！我们为失去这位伟大的战士而哀悼。
+it: Tugril-Khan è morto, il suo popolo rimane orfano di un grande capo.
+zh: 图格里汗死了，他的族人失去了一位伟大的首领。
+it: e far fronte a un lungo inverno. Solo sua madre Elun e  suoi fratelli gli rimangono accanto...
+zh: 还要面对漫长的冬天。只有母亲额仑和弟弟们守在他身边……
+it: Yamuga, invidioso del prestigio di Temujin e del suo nuovo arco, abbandona il clan con i suoi guerrieri.
+zh: 亚木加嫉妒铁木真的声望和他的新弓，带着自己的武士离开了部落。
+it: È morta tutta la famiglia di Temujín. Senza il loro aiuto Temujín non potrà mantenere il suo giuramento.
+zh: 铁木真全家都死了。没有他们的帮助，铁木真无法履行誓言。
+it: Fratelli
+zh: 兄弟们
+it: Sono già trascorsi tre anni dal giuramento di Temujín. Dovrai affrettarti se vuoi mantenere la promessa fatta a tua madre.
+zh: 铁木真立誓至今已过三年。若想守住对母亲的承诺，你必须加快脚步。
+it: Tempo
+zh: 时间
+it: Sono già trascorsi otto anni dal giuramento di Temujín. Ti rimane poco tempo...
+zh: 铁木真立誓至今已过八年。你剩下的时间不多了……
+it: I tartari, di fronte alla ferocia dell'attacco rimangono confusi e si sottomettono all'autorità di Temujín.
+zh: 面对猛攻的凶悍，塔塔尔人陷入混乱，臣服于铁木真的权威。
+it: Tártari
+zh: 塔塔尔
+it: Ora che gli orchi e i nani possono godere di un'accogliente taverna, sarebbe meglio andare a controllare se hanno ancora voglia di combattersi.
+zh: 如今兽人和矮人都能享有一间舒适的酒馆，最好去看看他们是否还有互相厮杀的兴致。
+it: Taverne
+zh: 酒馆
+it: Temujín è riuscito a riunire la maggior parte delle tribù della steppa sotto il suo comando. I capi si riuniscono nella Grande Assemblea dei guerrieri, vicino alle fonti del fiume Onon e, nell'anno della tigre (1206), proclamano Temujín imperatore con il nome di Gengis Khan. Senza dubbio le tribù ribelli che ancora non accettano la sua autorità cercheranno di osteggiarlo nel corso della nuova missione: la conquista di Pechino, il cuore dell'Impero Cinese.
+zh: 铁木真已将草原上大多数部落收归麾下。首领们聚集在奥农河源头附近的勇士大会，在虎年（1206 年）拥立铁木真为皇帝，尊号成吉思汗。那些仍不承认他权威的叛乱部落，必将在新的战役中设法阻挠他：征服中华帝国的心脏——北京。
+it: Viaggia verso le terre del sud-est e libera Alana dalla sua prigionia.
+zh: 前往东南方的土地，把阿兰娜从囚禁中解救出来。
+it: Trova Yamuga e raccontagli la verità su sua figlia.
+zh: 找到亚木加，告诉他关于他女儿的真相。
+it: Elun, la madre di Temujín, è morta.
+zh: 铁木真的母亲额仑死了。
+it: Jagadai è morto, ora non potrai contare sul suo prezioso aiuto.
+zh: 贾格代死了，你再也得不到他宝贵的帮助。
+it: Il capo degli orchi, Unojo, è morto, l'odio del suo popolo ti seguirà ovunque andrai.
+zh: 兽人首领乌诺乔死了，他族人的仇恨将随你到天涯海角。
+it: Zhorin, capo dei nani è morto. Il suo popolo ti dichiara una guerra senza quartiere.
+zh: 矮人首领卓林死了。他的族人向你宣战，毫不留情。
+it: Yamuga è morto. Le sue truppe ti accusano di averlo mandato incontro ad una morte certa e se ne vanno. I tuoi uomini, di fronte all'abbandono delle truppe di Yamuga, perdono la fiducia nella tua leadership.\nÈ stato un duro colpo. Nessuno ha voglia di combattere al tuo fianco.
+zh: 亚木加死了。他的部众指责你送他去送死，随即离去。眼看亚木加的军队弃你而去，你的部下对你的领导失去了信心。\n这是沉重的一击。没有人愿意与你并肩作战。
+it: Yamuga è stato vilmente assassinato dalle tue truppe quando già si era arreso. La legge della steppa ti taccia di essere codardo e crudele e il tuo popolo si rifiuta di seguirti.
+zh: 亚木加已经投降，却被你的部下卑劣地杀害。草原的律法指你为懦夫与残忍之徒，你的族人拒绝追随你。
+it: La stalla che custodiva i tuoi cavalli da monta è stata distrutta. Senza di loro la tua tribù si ritrova privata del suo bene più prezioso.
+zh: 存放你坐骑的马厩被摧毁了。没有了它们，你的部落失去了最宝贵的财富。
+it: Stalla
+zh: 马厩
+it: I taichiti sono stati battuti dalla forza della sua spada.
+zh: 泰赤乌人已被他刀剑之力击败。
+it: Tutti i borkigini sono morti.
+zh: 博尔吉斤人全部死了。
+it: I kerait sono stati decimati.
+zh: 克烈部被屠戮殆尽。
+it: Hai distrutto la resistenza dei naimani. Lunga vita a Gengis Khan!
+zh: 你打垮了乃蛮人的抵抗。成吉思汗万岁！
+it: I merkit ostili a Temujín sono stati annientati.
+zh: 敌视铁木真的梅尔基特人已被歼灭。
+it: La vendetta di Temujín per la morte di suo padre è stata consumata.
+zh: 铁木真为父报仇，大仇已报。
+it: Yenisei, non abbandonarci. La nostra tribù s'indebolisce e l'inverno si avvicina, abbiamo bisogno di tutti gli uomini disponibili.
+zh: 叶尼塞，别抛下我们。部落日渐衰弱，冬天将至，我们需要每一个能上阵的人。
+it: Donna, non ho intenzione di disertare come hanno fatto i clan familiari che ci hanno abbandonato. Parto alla ricerca di ricchezze per la nostra tribù. Tornerò presto con un gregge dieci volte più numeroso.
+zh: 女人，我不打算像那些抛下我们的族人那样逃走。我要去为部落寻找财富。我很快会带着十倍于此的畜群回来。
+it: Non ti preoccupare, madre. Grazie ai nostri cavalli, riunirò la più grande schiera di guerrieri che si sia mai vista. In meno di dieci anni sottometterò tutti i clan e le tribù della steppa e vendicherò la morte di nostro padre.
+zh: 别担心，母亲。有我们的马，我会召集起前所未见的最大军阵。不出十年，我将降服草原上所有的家族和部落，为我们的父亲报仇。
+it: Grazie agli dei sei ancora con me, Temujín. Ritrovo in te la forza di tuo padre. Sarai un grande capo, ma dovrai approfittare degli anni della tua giovinezza.
+zh: 谢天谢地你还和我在一起，铁木真。我在你身上看到了你父亲的力量。你会成为伟大的首领，但你得好好利用年轻这几年。
+it: Alle armi! Ci attaccano i taichiti!\nMaledetti traditori!
+zh: 拿起武器！泰赤乌人来袭！\n该死的叛徒！
+it: Correte figli miei!
+zh: 快跑，我的孩子们！
+it: Dobbiamo fuggire! Si è fatto giorno. Approfittiamo del fatto che i taichiti dormono dopo la celebrazione di questa notte e fuggiamo... queste palizzate sono vecchie e malfatte, insieme potremo romperle.
+zh: 我们必须逃！天亮了。趁泰赤乌人昨夜庆宴后还在睡，我们逃吧……这些栅栏又旧又糙，一起用力就能撞开。
+it: Ma... dove andremo? Ci hanno portato via tutto... Moriremo di fame! Non abbiamo nemmeno la legna per resistere durante l'inverno.
+zh: 可是……我们能去哪儿？他们把什么都抢走了……我们会饿死的！连过冬的柴火都没有。
+it: La prenderemo a loro. Dobbiamo provarci se non vogliamo rimanere prigionieri tutta la vita.
+zh: 我们从他们手里抢。不想一辈子当囚徒，就得试一试。
+it: Ma il deposito della legna è vigilato, sarà difficile rompere la palizzata senza essere scoperti.
+zh: 可柴堆有人看守，想不被发现就撞开栅栏，很难。
+it: Se non dovessimo riuscire a rubare la loro legna, possiamo sempre tornare alle nostre terre e ricostruire il nostro accampamento, non potremo sopravvivere senza un rifugio.
+zh: 要是偷不到他们的柴，我们总能回到自己的土地，重建营地；没有个遮风的地方，我们活不下去。
+it: Ho perso le tracce di quei maledetti stranieri! Si sta facendo notte… devo tornare all'accampamento. È un duro colpo per il nostro popolo.
+zh: 我失了那帮该死陌生人的踪迹！天要黑了……我得回营地。这对我们族人是个沉重的打击。
+it: Salute guerriero!
+zh: 向你问安，武士！
+it: Chi sei? Fatti vedere!
+zh: 你是谁？出来！
+it: Il mio nome è Bochurgui, esperto nelle arti orientali del combattimento. Stavo seguendo le tracce di alcuni stranieri che mi sembravano sospetti fino ad una stalla in cui custodivano dei cavalli.
+zh: 我叫博楚吉，精通东方的格斗之术。我一路跟踪几个形迹可疑的陌生人，到了一处关着马的厩舍。
+it: Quei cavalli appartengono al mio popolo! Sono cavalli da monta di gran pregio. I ladri di bestiame hanno approfittato dell'oscurità della notte per penetrare nel nostro accampamento e rubarli.
+zh: 那些马属于我的族人！都是极珍贵的坐骑。偷牲畜的人趁夜色摸进我们的营地，把它们盗走了。
+it: Umm, credo che ti aiuterò. Non mi piacciono gli stranieri, ma se vogliamo recuperare quei cavalli avremo bisogno dell'aiuto della tua tribù. Mentre noi ci occuperemo di distrarre i soldati di guardia, i tuoi uomini potranno cercare di impossessarsi della stalla. Come vedi, alcuni di loro sono all'interno.
+zh: 嗯，我想我会帮你。我不喜欢陌生人，但若想夺回那些马，我们需要你部落的协助。我们去把守兵引开，你的人就去夺取马厩。你看，他们有些就在里面。
+it: Andiamo, si trovano da queste parti...
+zh: 走吧，他们就在这一带……
+it: Il mio nome è Temujín, figlio di Yesugei. Guidami a quella stalla e verrai ricompensato.
+zh: 我叫铁木真，也速该之子。带我到那处马厩，你会得到报答。
+it: Togliti dalla mia strada! Il tuo aspetto ti tradisce, ladro.
+zh: 让开！你的样子已经出卖了你，贼。
+it: Non tollererò di essere insultato da te! Proverai l'acciaio della mia spada!
+zh: 我容不得你侮辱我！让你尝尝我刀剑的钢锋！
+it: I nostri cavalli da monta sono stati recuperati! Grazie ad essi potremo aumentare la grandezza e il potere della nostra cavalleria.
+zh: 我们的坐骑夺回来了！有了它们，我们便能壮大骑兵的规模与力量。
+it: Ora devo recarmi presso la corte di Tugril-Khan, capo della tribù dei kerait dove vive Borta, la mia sposa. Con quest'unione potrò suggellare una potente alleanza.
+zh: 现在我得去克烈部首领图格里汗的宫廷，我的新娘博尔帖就住在那里。有了这桩婚事，我就能缔结强大的同盟。
+it: Potente signore, grazie per avermi liberato dal giogo di quegli assalitori. Ormai sono anziano ma ho allevato i migliori cavalli delle steppe, e questa è la ragione per cui venivo tenuto prigioniero da questi uomini. Come ringraziamento dedicherò il resto della mia vita alla cura dei tuoi destrieri.
+zh: 强大的君主，多谢您把我从那些袭击者的枷锁中救出。我老了，但我养出了草原上最好的马，正因如此这些人才把我关起来。为表谢意，我愿把余生用来照料您的战马。
+it: Grazie per la tua offerta, vecchio. Occupati dell'allevamento dei miei cavalli ed io proteggerò la tua stalla. Quando ne avrò bisogno, verrò a cercarti.
+zh: 多谢你的好意，老人家。替我养马，我来护你的马厩。需要时，我会来找你。
+it: Grazie, mio signore.
+zh: 谢谢您，我的君主。
+it: Ti porgo il benvenuto Temujín. Il mio nome è Tugril-Khan, capo della tribù dei kerait, famosa in tutta la steppa per i suoi favolosi carri da guerra. Sei diventato un vero capo per la tua tribù. Non mi aspettavo di meno dal futuro marito di mia figlia. Immagino che tu venga a celebrare l'unione con Borta, vero?
+zh: 欢迎你，铁木真。我叫图格里汗，克烈部的首领。克烈部以神奇的战车闻名整个草原。你已成为族人真正的首领。我对我女儿未来的丈夫本就没有更低的期待。我猜你是来与博尔帖完婚的，对吧？
+it: È così, Tugril-khan. Vengo a portare a compimento la promessa matrimoniale fatta quando era ancora vivo mio padre, il grande Yesugei.
+zh: 正是，图格里汗。我来履行我父亲——伟大的也速该——在世时许下的婚约。
+it: Mi dispiace Tugril-Khan.
+zh: 我很抱歉，图格里汗。
+it: In questo caso rispetteremo la tua decisione e aspetteremo il tuo ritorno.
+zh: 既然如此，我们尊重你的决定，等你回来。
+it: Conosci gli usi della steppa. Prima dovrai consegnarci una dote degna del prestigio di cui gode mia figlia Borta. Inviaci cibo come forma di tributo. Se sarà di nostro gradimento, te lo faremo sapere e potremo celebrare il matrimonio.
+zh: 你懂草原的规矩。先得送上一份配得上我女儿博尔帖声望的聘礼。送食物来作为贡礼。若我们满意，自会告知你，那时便可办婚礼。
+it: Così sia.
+zh: 就这么办。
+it: Salute a te, Temujín, hai cambiato idea?
+zh: 向你问安，铁木真，你改主意了吗？
+it: Ancora no.
+zh: 还没有。
+it: Maledizione! La tribù dei merkit ci ha teso un'imboscata! Corri Borta! Fuggi!
+zh: 该死！梅尔基特人伏击了我们！快跑，博尔帖！快逃！
+it: Temujín, aiutami!
+zh: 铁木真，救我！
+it: Maledetti... hanno rapito Borta! Sono troppi, se voglio salvarmi devo fuggire per chiedere aiuto a Tugril-Khan e organizzare una spedizione per riscattarla.
+zh: 该死的……他们劫走了博尔帖！他们人太多，我要活命就得逃走，去求图格里汗，组织一支队伍把她赎回来。
+it: Molto bene ragazzo! Ora prendi la tua sposa e torna all'accampamento. Da oggi ti accetto come figlio e come tale potrai contare pienamente sul mio aiuto e sulla mia protezione.
+zh: 很好，孩子！现在带上你的新娘回营地去吧。从今天起我认你为子，你尽可依靠我的援助与庇护。
+it: Ti ringrazio, grande Tugril-Khan. Il tuo potente esercito mi sarà sicuramente di grande aiuto per sconfiggere i nostri nemici.
+zh: 多谢您，伟大的图格里汗。您强大的军队定能助我大败敌人。
+it: Tugril-Khan! I merkit ci hanno teso un'imboscata e hanno rapito Borta! Ho bisogno del vostro aiuto!
+zh: 图格里汗！梅尔基特人伏击了我们，劫走了博尔帖！我需要您的帮助！
+it: Mi porti notizia di grandi disgrazie, figlio mio. Dobbiamo escogitare presto qualcosa o Borta morirà. Purtroppo sono molto malato e riesco a muovermi a fatica. Sai che il mio esercito non si muoverà senza il proprio generale. Invierò il mio messaggero più rapido alla ricerca di Yamuga, tuo amico d'infanzia. Magari ci aiuterà in questo momento così difficile.
+zh: 你给我带来了大不幸的消息，我的孩子。我们得赶紧想办法，否则博尔帖会死。可惜我病得厉害，连走动都吃力。你知道，没有主帅，我的军队不会出动。我会派最快的信使去找亚木加，你儿时的朋友。也许在这般艰难时刻他会帮我们。
+it: Ma non sarà sufficiente! Abbiamo bisogno del vostro esercito! Ci deve essere un modo per restituirvi il vigore.
+zh: 但那还不够！我们需要您的军队！一定有办法让您恢复元气。
+it: Ci sarebbe, anche se qualcuno lo considera solo una leggenda. Gli sciamani della tribù sostengono che esista una bevanda medicinale nei dintorni di un antico vulcano tra le Montagne Bianche, a nord. Si tratta di una pozione unica, fatta con le sacre ossa del drago. Ma il viaggio è pericoloso, le montagne sono infestate da nani e si racconta che alcuni spiriti maligni proteggano la pozione. Se riuscissi a procurarmi la bevanda curativa, forse avremmo una possibilità.
+zh: 倒是有，虽然有人只当它是传说。部落的萨满说，北方白山的一座古火山附近有一种药饮。那是独一无二的药水，用神圣的龙骨制成。但路途凶险：山中有矮人成群，据说还有恶灵守护着药水。你若能为我取来这治病的饮子，也许我们还有一线希望。
+it: Ve la porterò!
+zh: 我给您取来！
+it: Hai portato la pozione! Il nostro popolo ti sarà eternamente debitore. Durante la tua assenza è giunto al nostro accampamento Yamuga  con le sue truppe. Uniamo le nostre forze per salvare Borta e sottomettiamo i merkit una volta per tutte!
+zh: 你把药水带来了！我们族人将永远欠你的情。你不在时，亚木加带着部众来到了我们的营地。我们合兵去救博尔帖，一举降服梅尔基特人！
+it: E allora moriranno tutti! Andiamo ad affrontarli!
+zh: 那就让他们全都死！我们去迎战！
+it: I miei uomini sono al tuo servizio e ti saranno fedeli come lo sarebbero a me.
+zh: 我的部下听你调遣，对你的忠心如同对我一般。
+it: I merkit sono una tribù orgogliosa. Dobbiamo distruggere il loro accampamento se vogliamo liberare Borta.
+zh: 梅尔基特是个骄傲的部落。要救博尔帖，就得摧毁他们的营地。
+it: Benvenuto, straniero. Il mio nome è Zhorin, figlio di Grorin, re della Montagna Bianca. Siamo un popolo di fabbri eccellenti, creatori di armi e armature. Sei molto lontano dalla tua terra. Cosa ti porta qui?
+zh: 欢迎，陌生人。我叫卓林，格罗林之子，白山之王。我们一族是出色的铁匠，制造武器与甲胄。你离家乡很远了。是什么把你带到这里？
+it: Toglietevi dalla mia strada se non volete saggiare la potenza del mio arco!
+zh: 让开，除非你想尝尝我这张弓的威力！
+it: Salute, Zhorin. Vengo in pace.
+zh: 问安，卓林。我为和平而来。
+it: Dovrai passare sul mio cadavere!
+zh: 那你得先跨过我的尸体！
+it: Allora dovrai stare molto attento. A nord abitano alcuni spiriti maligni. Evitali o incorrerai in una morte rapida.
+zh: 那你得非常小心。北方住着一些恶灵。避开它们，否则你会很快送命。
+it: Però! Sembra che tu sia riuscito a uscire vivo da queste montagne. Devi essere molto abile con l'arco. Forse potresti aiutarci ad annientare gli orchi dell'est. Sono una calamità per il nostro popolo. Generazioni di lotte senza tregua non ci hanno consentito di sconfiggerli. Segui il corso del fiume verso est e li incontrerai. Se riuscirai nello scopo otterrai da noi servigi e lealtà eterna.
+zh: 哦！看来你活着走出了这些山。你的箭术一定了得。也许你能帮我们歼灭东边的兽人。他们是我们族人的祸害。几代人无休的征战也没能击败他们。沿河向东走，你就会碰上他们。若能成事，你将得到我们的效劳与永世的忠诚。
+it: Grazie, Zhorin. Penserò alla tua offerta.
+zh: 多谢，卓林。我会考虑你的提议。
+it: Credo che conquisterò la vostra lealtà con la forza del mio arco!
+zh: 我想我会用我的弓赢得你们的忠诚！
+it: Magnifico! Sei un guerriero portentoso. Il mio esercito e la perizia del mio popolo saranno al tuo servizio, qualora dovessero servirti. Come segno della nostra alleanza ti regalo il mio scudo, forgiato in una lega di mithril, un materiale molto difficile da reperire e assi costoso.
+zh: 太好了！你是个了不起的战士。我的军队和我族人的技艺，若有需要，都将为你效劳。作为同盟的信物，我把我的盾送给你——它用秘银合金锻成，那种材料极难寻得，十分昂贵。
+it: Alt! Chi sei? Non sembri un fetido nano. Che fai così lontano dal tuo paese? Sono Unojo, capo di questa tribù di orchi.
+zh: 站住！你是谁？你不像臭烘烘的矮人。你跑这么远来干什么？我是乌诺乔，这伙兽人的首领。
+it: Ho intenzione di annientarvi!
+zh: 我打算把你们歼灭！
+it: Finalmente un po' di esercizio!
+zh: 终于有点活动筋骨的机会了！
+it: La fama dell'eccellenza delle vostre armi d'assedio si è estesa a tutta la regione. Mi piacerebbe apprenderne il funzionamento.
+zh: 你们攻城器械的精良之名已传遍整个地区。我想学学它是怎么运作的。
+it: Ah, ah, ah, belle parole, umano. Annienta quei seccatori di nani che vivono sulle montagne che troverai risalendo il fiume verso ovest e io ti mostrerò come funzionano le nostre macchine d'assedio. Come ti sembra quest'accordo?
+zh: 哈，哈，哈，话说得好听，人类。去把西边沿河而上那些山里讨人厌的矮人灭掉，我就让你看看我们的攻城机器怎么用。这交易怎么样？
+it: Che c'è? Che hai da annusare?
+zh: 怎么了？你在嗅什么？
+it: Sto ammirando il vostro esercito. È formidabile!
+zh: 我在欣赏你们的军队。真是可怕！
+it: Sei sorprendente umano! Francamente non pensavo proprio che ci saresti riuscito. Le nostre asce e le nostre macchine d'assedio saranno a tua disposizione quando vorrai. Per il momento, come segno di ringraziamento, ti darò una delle nostre pozioni rinvigorenti. La loro formula è conosciuta solo dallo sciamano della nostra tribù, anche se pare che vengano preparate con ossa di drago. Bevila tutta d'un fiato, i suoi poteri curativi non riescono a nasconderne il sapore orribile...
+zh: 你真是令人惊讶，人类！说实话我压根没想到你能办成。我们的战斧和攻城器械随你调用。眼下为表谢意，我给你一瓶提神药水。配方只有本族萨满知道，不过据说也是用龙骨做的。一口气喝完吧，它治病的效力再强也掩不住那股难喝的味儿……
+it: C'è troppo odio fra i nani e gli orchi! Costruiamo a entrambi una taverna in modo che possano affogare il loro risentimento in una giara di idromele!
+zh: 矮人与兽人之间的仇恨太深了！给他们各建一间酒馆，让他们把怨气都泡进蜜酒坛里去吧！
+it: Yamuga si allontana con le sue truppe e ci abbandona! Farò i conti con quel traditore più tardi, ora che abbiamo recuperato il nostro potere è il momento di trovare e distruggere i tartari, gli assassini di mio padre. Se distruggiamo il loro castello saranno nelle nostre mani!
+zh: 亚木加带着他的部众走了，抛下了我们！那个叛徒我日后再算账；如今我们恢复了实力，该去找出并摧毁塔塔尔人——杀我父亲的凶手。毁了他们的城堡，他们就落在我们手里了！
+it: L'ambizione di Yamuga è maggiore di quanto pensassi! Questo traditore si è autoproclamato Khan e si è ribellato contro di me! Le spie mi hanno informato che ha suggellato un'alleanza con la tribù dei naimani che abitano le terre del nord-ovest. Darò loro una lezione che non dimenticheranno tanto facilmente!
+zh: 亚木加的野心比我以为的更大！这个叛徒自立为汗，反叛了我！探子报信说，他已与西北之地的乃蛮部结盟。我要给他们一个难忘的教训！
+it: Benvenuto al tempio Shao-Linn, Temujín. Sono il maestro Batu. La tua fama ti precede. Forse sei tu l'aiuto che attendevamo. Per decenni noi monaci abbiamo tentato, senza alcun risultato, di recuperare i papiri di Kettsuin. Per noi hanno un valore incalcolabile, dato che contengono tutti gli insegnamenti dei nostri predecessori. Ci sono voci secondo cui si troverebbero a nord-est, vicino ai grandi laghi, ma nessuno dei nostri fratelli partiti alla loro ricerca ha mai fatto ritorno al tempio. Aiutaci a recuperarli! Se ci riuscirai i monaci Shao-Linn saranno felici di abbracciare la tua causa.
+zh: 欢迎来到少林寺，铁木真。我是巴图师父。你的名声先你而至。也许你就是我们等待的助力。数十年来，我们僧人一直想找回凯苏因的经卷，却毫无结果。它们对我们价值无量，因为其中载有我们先辈的全部教诲。有传言说它们远在东北，大湖之畔，但前去寻找的师兄弟没有一个回来过。帮我们找回它们！若能成事，少林僧人将乐于支持你的事业。
+it: Ci hai riportato i papiri di Kettsuin! Gli dei ti devono essere favorevoli! La nostra gratitudine sarà eterna, siamo ansiosi di studiarli. In futuro, se dovessi aver bisogno della nostra saggezza, verremo in tuo soccorso.
+zh: 你把凯苏因的经卷带回来了！神明必定眷顾你！我们的感激永世不忘，我们已迫不及待要研读它们。日后你若需要我们的智慧，我们必来相助。
+it: È ora di attaccare i taichiti e fargli pagare il loro tradimento! Strapperemo loro l'arco magico del drago. Senza esso i nostri vecchi alleati cadranno senza opporre resistenza. Non sarà facile perché l'arco si trova sulla cima della montagna che protegge il loro accampamento e sarà necessario scalarne i dirupi per riuscire a raggiungerlo...
+zh: 该去攻打泰赤乌人，让他们为背叛付出代价了！我们要夺走他们的神龙之弓。没了它，这些昔日的盟友将不战自溃。这不容易：弓就在护卫他们营地的山顶上，我们得攀上峭壁才能拿到……
+it: Come? I naimani proteggono il fuggitivo Yamuga!? Pagheranno per la loro audacia!
+zh: 什么？乃蛮人庇护着逃亡的亚木加！？他们要为自己的胆大妄为付出代价！
+it: Fermo! Ci arrendiamo! Hai vinto Temujín. Rompo il mio arco e m'inchino al tuo cospetto... sono stufo di combattere, mia figlia Alana è stata rapita da un potente guerriero straniero che la tiene prigioniera in un castello a sud-est.
+zh: 住手！我们投降！你赢了，铁木真。我折断我的弓，在你面前低头……我打够了。我的女儿阿兰娜被一个强大的外族武士劫走，关在东南方的一座城堡里。
+it: Benvenuto nella mia umile dimora Temujín. Sono Jagadai, stregone dell'Ordine del Bosco. Da molto tempo il nostro ordine cerca di completare il cerchio della saggezza, ma non possiamo riuscirci finché non verrà recuperato il testo sacro della magia del drago, in cui sono contenuti tutti i segreti per richiamare queste potenti creature. Il libro sacro è stato rubato molto tempo fa da una negromante, rifiutata dal nostro ordine, che abita nelle desolate lande dell'est. Recupera il libro sacro e noi ci metteremo al tuo servizio!
+zh: 欢迎来到我的陋居，铁木真。我是贾格代，林中教团的法师。许久以来，我们教团一直想补全智慧之环，但在找回龙之魔法的圣典之前无法做到——那书里载有召唤这些强大生物的全部秘密。圣典很久以前被一个女法师偷走，她曾被我们教团拒之门外，住在东方的荒原。找回圣典，我们就为你效劳！
+it: È incredibile! Ci hai riportato il libro sacro! Da questo momento l'Ordine metterà tutto il suo potere al servizio del tuo destino, Temujín.
+zh: 难以置信！你把圣典带回来了！从此刻起，教团将把全部力量献于你的命运，铁木真。
+it: Molto bene ragazzo! Da oggi ti accetto come figlio e come tale potrai contare pienamente sul mio aiuto e sulla mia protezione!
+zh: 很好，孩子！从今天起我认你为子，你尽可依靠我的援助与庇护！
+it: Borta, figlia mia, è arrivato Temujín.
+zh: 博尔帖，我的女儿，铁木真到了。
+it: Benvenuto, mio signore! Sono lusingata dalla generosità della dote che hai consegnato a mio padre, spero di meritarla. Metterò le mie conoscenze magiche al servizio del mio nuovo popolo.
+zh: 欢迎，我的君主！您给我父亲的聘礼如此丰厚，我深感荣幸，希望我配得上它。我将把我的魔法知识献给我的新族人。
+it: Saluti, incantevole Borta. Aspettavo con impazienza questo momento. Il sangue delle due tribù correrà nelle vene della nostra discendenza.
+zh: 问安，迷人的博尔帖。我迫不及待地等着这一刻。两个部落的血将在我们后代的血管里流淌。
+it: Rapita? Ah, ah, ah...! Non sono prigioniera! Il "pericoloso straniero" di cui parla mio padre è un nobile giapponese più interessato a rendermi felice che a combattere. Temujín, gran guerriero, partite e dite a mio padre Yamuga che sono fuggita spontaneamente perché non mi consentiva di sposarlo, noi ci amiamo!
+zh: 被劫？哈，哈，哈……！我不是囚徒！我父亲说的那个「危险的陌生人」是位日本贵族，他更想让我快乐，而不是打仗。铁木真，伟大的战士，回去告诉我父亲亚木加：我是自愿出走的，因为他不许我嫁给他。我们相爱了！
+it: E va bene! Ho esagerato un po' ma avevo altri progetti per il suo futuro. Se lei è felice allora così sia. Per quanto mi riguarda, permettimi di appellarmi al nostro glorioso passato comune per scusarmi con te. Perdonandomi otterrai la mia lealtà. Uniamo la nostra saggezza nel campo della guerra per intraprendere nuove campagne. Che te ne pare?
+zh: 好吧！我是做得过了点，但我为她的将来另有打算。既然她快乐，那就这样吧。至于我，请让我以我们昔日共同的光荣往事向你致歉。原谅我，你便得到我的忠诚。让我们在战事上同心协力，开创新的征途。你看如何？
+
+# impero di gengis khan.wcm::maps/gengis_khan02
+it: La conquista di Pechino
+zh: 征服北京
+it: Temujín, da poco proclamato Gengis Khan, è riuscito a formare il più grande esercito di tutta l'Asia. Capo supremo di tutte le tribù della steppa, si accinge ad affrontare un'impresa alla portata solo dei grandi conquistatori: l'invasione dell'Impero Cinese.
+zh: 刚被拥立为成吉思汗的铁木真，已组建起全亚洲最庞大的军队。作为草原各部的最高首领，他准备着手一项只有伟大征服者才敢想的伟业：入侵中华帝国。
+it: Cinesi
+zh: 中国人
+it: Regno 3
+zh: 王国 3
+it: Comandanti
+zh: 指挥官
+it: Gengis Khan
+zh: 成吉思汗
+it: Eroe
+zh: 英雄
+it: Palazzo
+zh: 皇
+it: Imperiale
+zh: 宫
+it: Wanlí
+zh: 万里
+it: Figlia dell'Imperatore
+zh: 皇帝之女
+it: Imperatore
+zh: 皇帝
+it: Yamuga e i suoi uomini si ritirano dalla battaglia...
+zh: 亚木加和他的部下退出了战场……
+it: Un inviato ti consegna un messaggio firmato da Yamuga: "Potente Gengis Khan, ho un piano per conquistare la città. Per favore raggiungimi solo dove sto andando, lì ti spiegherò tutto. Creo che ci siano spie cinesi infiltrate nel nostro esercito. Non mi fido di nessuno, devi venire solo."
+zh: 一名使者递来亚木加署名的信：「强大的成吉思汗，我有夺取此城的计策。请独自到我前往之处与我会合，我在那里向你说明一切。我认为我军中混入了中国奸细。我谁也不信，你必须独自前来。」
+it: Gengis Khan impartiva le ultime istruzioni ai suoi generali, doveva approfittare dell'occasione: la Grande Muraglia cinese era scarsamente difesa e oltre essa si estendevano i ricchi territori dell'Impero Cinese...e Pechino. Una volta conquistato il Palazzo Imperiale, il resto sarebbe stato facile...
+zh: 成吉思汗向将领们下达最后的指令，他必须抓住时机：中国长城守备薄弱，长城之外便是中华帝国的富庶之地……还有北京。一旦拿下皇宫，其余的就容易了……
+it: Pechino
+zh: 北京
+it: Quando la città di Karakorum venne proclamata capitale della Mongolia, Gengis Khan, assieme ai suoi alleati, decise di iniziare l'opera di conquista della Cina alla ricerca di pascoli migliori per i suoi cavalli. Il suo obiettivo era occupare Pechino, ultima roccaforte cinese a nord del paese, dominata dalla dinastia Jin. L'invincibile esercito dell'imperatore cinese Yuan li attende dietro alle muraglie...
+zh: 哈拉和林被宣布为蒙古都城后，成吉思汗与他的盟友决定开始征服中国，为他的马群寻找更好的牧场。他的目标是占领北京——中国北方最后的堡垒，由金朝统治。中国皇帝元的不败大军正在城墙后等待着他们……
+it: Conquista il Palazzo Imperiale.
+zh: 攻占皇宫。
+it: Nel 1215 gli eserciti di Gengis Khan occuparono la città di Pechino e nel 1218 la penisola coreana cadde nelle mani dei mongoli. Nel 1222 il loro dominio si estendeva dalla Mongolia fino ad Amu Daria, nell'Asia centrale. Alla sua morte, il 18 agosto del 1227, Gengis Khan aveva creato il più grande impero mai realizzato.
+zh: 1215 年，成吉思汗的军队占领了北京；1218 年，朝鲜半岛落入蒙古人之手。到 1222 年，他们的统治已从蒙古延伸到中亚的阿姆河。1227 年 8 月 18 日他去世时，成吉思汗已建起前所未有的最大帝国。
+it: Nel frattempo, nel Palazzo Imperiale...
+zh: 与此同时，在皇宫里……
+it: Gengis Khan deve sopravvivere.
+zh: 成吉思汗必须存活。
+it: Il porto di Pechino è un punto strategico per la città. Impossessartene potrebbe esserti di grande aiuto.
+zh: 北京的港口是这座城市的战略要地。夺取它对你大有帮助。
+it: Porto
+zh: 港口
+it: Non è rimasta una pietra sull'altra a Pechino.
+zh: 北京已片石无存。
+it: Tutti i mongoli sono stati annientati.
+zh: 所有蒙古人都被歼灭了。
+it: Pechino è rimasta senza comandanti... rimane da conquistare solo il palazzo.
+zh: 北京已失去指挥官……只剩皇宫待取。
+it: Gengis Khan è morto in battaglia.
+zh: 成吉思汗战死。
+it: Hai annientato la maggior parte dell'esercito cinese, la vittoria è vicina.
+zh: 你已歼灭中国军队的大部，胜利在望。
+it: Tutti i generali di Gengis Khan sono morti.
+zh: 成吉思汗的将领全部阵亡。
+it: Yamuga e i suoi uomini hanno pagato per il loro tradimento.
+zh: 亚木加和他的部下为背叛付出了代价。
+it: Ho vissuto tutta la vita nella tua ombra Temujín... il tuo nobile lignaggio ti ha permesso di ottenere l'appoggio dei capi delle principali tribù. Ma io ora distruggerò tutto questo! Tu morirai e io diventerò il nuovo Khan. Uccidete Gengis Khan!
+zh: 我一辈子都活在你的阴影里，铁木真……你高贵的血统让你得到各部首领的支持。但现在我要把这一切毁掉！你死，我便是新的汗。杀了成吉思汗！
+it: È una trappola! Sei un maledetto traditore Yamuga! Mi hai tradito per la seconda volta. Dovevo ucciderti quando ne avevo la possibilità. Hai venduto il tuo popolo ai nostri nemici! Pagherai per il tuo tradimento!
+zh: 这是陷阱！你这该死的叛徒，亚木加！你第二次背叛了我。当初有机会我就该杀了你。你把你的族人卖给了我们的敌人！你要为背叛付出代价！
+it: Ah, ah, ah...!
+zh: 哈，哈，哈……！
+it: È tutto pronto, figlia mia?
+zh: 都准备好了吗，我的女儿？
+it: Sì padre, daremo a Gengis Khan un'accoglienza che non dimenticherà...
+zh: 是的，父亲，我们要给成吉思汗一场他忘不了的「欢迎」……

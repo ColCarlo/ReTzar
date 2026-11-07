@@ -1,0 +1,1078 @@
+# I testi propri di ReTzar in cinese: l'italiano, come scritto nel codice, e la traduzione di questa versione.
+
+it: Audio
+zh: 音频
+
+it: Gioco
+zh: 游戏
+
+it: Schermo
+zh: 显示
+
+it: Grafica
+zh: 画面
+
+it: Tasti
+zh: 快捷键
+
+it: PARTITA
+zh: 对局
+
+it: MAPPA
+zh: 地图
+
+it: GIOCATORE
+zh: 玩家
+
+it: FINESTRA
+zh: 窗口
+
+it: INTERFACCIA
+zh: 界面
+
+it: IMMAGINE
+zh: 画面
+
+it: VISUALE
+zh: 视角
+
+it: EVENTI E MAPPA
+zh: 事件与地图
+
+it: FINESTRE
+zh: 窗口
+
+it: Effetti sonori
+zh: 音效
+
+it: Musica
+zh: 音乐
+
+it: Voci delle unità
+zh: 单位语音
+
+it: Suoni degli edifici
+zh: 建筑音效
+
+it: Suoni della natura
+zh: 自然音效
+
+it: Velocità del gioco
+zh: 游戏速度
+
+it: Clima
+zh: 天气
+
+it: Giorno e notte
+zh: 昼夜
+
+it: Velocità di scorrimento
+zh: 滚屏速度
+
+it: Scorrimento ai bordi
+zh: 边缘滚屏
+
+it: Nome sulle proprie unità
+zh: 在己方单位上显示名字
+
+it: Lingua
+zh: 语言
+
+it: Ricorda le missioni raggiunte
+zh: 记住已到达的任务
+
+it: Schermo intero
+zh: 全屏
+
+it: Dimensioni della finestra
+zh: 窗口尺寸
+
+it: Fotogrammi al secondo
+zh: 帧率上限
+
+it: Scala
+zh: 缩放
+
+it: Pannello dei comandi
+zh: 命令面板
+
+it: Puntatore
+zh: 指针
+
+it: Testi sulla mappa
+zh: 地图文字
+
+it: Griglia di piazzamento
+zh: 放置网格
+
+it: Colori a 24 bit
+zh: 24 位色
+
+it: Pixel della mappa
+zh: 地图像素
+
+it: Effetto monitor CRT
+zh: CRT 显示器效果
+
+it: Testi in alta definizione
+zh: 高清文字
+
+it: Luci notturne
+zh: 夜间灯光
+
+it: Bagliore di fuochi e magie
+zh: 火焰与魔法辉光
+
+it: Nebbia morbida
+zh: 柔和迷雾
+
+it: Ambiente vivo
+zh: 生动环境
+
+it: Zoom fluido
+zh: 平滑缩放
+
+it: Pixel nitidi
+zh: 清晰像素
+
+it: Adatta allo schermo
+zh: 适应屏幕
+
+it: A destra
+zh: 右侧
+
+it: A sinistra
+zh: 左侧
+
+it: Del gioco
+zh: 游戏自带
+
+it: Di Windows
+zh: Windows
+
+it: Originali
+zh: 原始
+
+it: Contorno
+zh: 描边
+
+it: Fondo scuro
+zh: 深色底
+
+it: Leggera
+zh: 淡
+
+it: Media
+zh: 中
+
+it: Marcata
+zh: 强
+
+it: Regolari
+zh: 规则
+
+it: Levigati
+zh: 平滑
+
+it: Sincronizzazione verticale
+zh: 垂直同步
+
+it: nessuno
+zh: 无
+
+it: Sì
+zh: 是
+
+it: Predefiniti
+zh: 默认
+
+it: Annulla
+zh: 取消
+
+it: Scrivi il numero e premi Invio; 0 toglie il limite, Esc annulla.
+zh: 输入数字后回车；0 表示不限，Esc 取消。
+
+it: Premi un tasto…
+zh: 请按一个键…
+
+it: Premi il nuovo tasto; Esc annulla.
+zh: 按下新的按键；Esc 取消。
+
+it: Aggiunta di questa versione, assente nell'originale.
+zh: 本版新增，原版没有。
+
+it: Volumi, voci e suoni del gioco.
+zh: 游戏的音量、语音与音效。
+
+it: La partita, lo scorrimento della mappa, il tuo nome e la lingua.
+zh: 对局、地图滚屏、你的名字与语言。
+
+it: La finestra del gioco e l'aspetto dell'interfaccia.
+zh: 游戏窗口与界面的外观。
+
+it: Gli effetti grafici moderni, tutti facoltativi e spenti all'inizio.
+zh: 现代画面效果，全部可选，默认关闭。
+
+it: I tasti dei comandi sulla mappa.
+zh: 地图命令的按键。
+
+it: Effetti, voci e rumori della mappa: l'interruttore li spegne, il cursore ne regola il volume.
+zh: 地图上的音效、语音与声响：开关关闭它们，滑块调节音量。
+
+it: La musica di menu e missioni: l'interruttore la spegne, il cursore ne regola il volume.
+zh: 菜单与任务的音乐：开关关闭，滑块调节音量。
+
+it: Le risposte delle unità quando le selezioni e dai loro ordini.
+zh: 选中单位并下达命令时，单位的回应。
+
+it: Il suono degli edifici quando li selezioni.
+zh: 选中建筑时的音效。
+
+it: Animali, vento e pioggia intorno alla parte di mappa che guardi.
+zh: 你所看地图范围内的动物、风声与雨声。
+
+it: Quanto scorre veloce la partita aperta; si regola solo durante una partita.
+zh: 当前对局的运行速度；只能在对局中调节。
+
+it: Pioggia e neve sulla mappa, con il loro effetto sulle unità.
+zh: 地图上的雨雪，以及它们对单位的影响。
+
+it: Il passare del giorno e della notte, che cambia luce e visibilità.
+zh: 昼夜交替，改变光照与视野。
+
+it: Il pannello dei trucchi di questa partita (tasto F7).
+zh: 本局对局的作弊面板（F7 键）。
+
+it: Quanto velocemente si sposta la mappa con frecce e bordi dello schermo.
+zh: 用方向键和屏幕边缘移动地图的速度。
+
+it: La mappa si sposta quando porti il puntatore ai bordi dello schermo.
+zh: 将指针移到屏幕边缘时地图移动。
+
+it: Il nome mostrato sulle tue unità.
+zh: 在己方单位上显示的名字。
+
+it: Apri l'elenco e scegli la lingua di testi e voci.
+zh: 打开列表，选择文字与语音的语言。
+
+it: Le missioni delle campagne già raggiunte restano da scegliere; l'originale mostra solo la prima.
+zh: 已到达的战役任务会保留在列表中可选；原版只显示第一个。
+
+it: Il gioco occupa tutto lo schermo, senza bordi; altrimenti è in una finestra (anche Alt+Invio).
+zh: 游戏占满整个屏幕、无边框；否则在窗口中运行（Alt+Enter 亦可）。
+
+it: Trascina i bordi della finestra per cambiarne le dimensioni, che restano per la prossima volta; qui ne scegli una pronta.
+zh: 拖动窗口边缘可改变大小，下次启动仍会沿用；这里可选择预设尺寸。
+
+it: I fotogrammi seguono la frequenza dello schermo, senza strappi nell'immagine; il limite dei fotogrammi allora non serve e si spegne.
+zh: 帧率跟随显示器刷新率，画面不撕裂；此时帧率上限无用，会自动关闭。
+
+it: I fotogrammi al secondo massimi: trascina la barra o scrivi il numero; in fondo alla barra nessun limite. Spento con la sincronizzazione verticale.
+zh: 每秒最大帧数：拖动滑块或输入数字；滑块拉到最右为不限。开启垂直同步时此项关闭。
+
+it: Pixel nitidi: l'interfaccia ingrandita di un numero intero di volte. Adatta: riempie lo schermo.
+zh: 清晰像素：界面按整数倍放大。适应：铺满屏幕。
+
+it: Da che parte dello schermo sta il pannello dei comandi durante la partita.
+zh: 对局中命令面板位于屏幕哪一侧。
+
+it: Il puntatore disegnato dal gioco o quello di Windows, con lo stesso disegno.
+zh: 使用游戏绘制的指针，或同样图案的 Windows 指针。
+
+it: Come si leggono messaggi e consigli sulla mappa: con l'ombra originale, un contorno nero o un fondo scuro.
+zh: 地图上的消息与提示如何显示：原版阴影、黑色描边或深色底。
+
+it: Una griglia con le caselle libere e occupate mentre piazzi un edificio, e quanto si vede.
+zh: 放置建筑时显示空闲与占用格子的网格，以及它的可见强度。
+
+it: Sfumature lisce di notte, nelle ombre e nella nebbia, senza i 5 bit per colore dell'originale.
+zh: 夜间、阴影与迷雾的平滑过渡，不再有原版的每色 5 位限制。
+
+it: Pixel originali, regolari a ogni zoom o levigati, con i bordi smussati.
+zh: 原始像素、任意缩放都保持规整，或带柔化边缘的平滑。
+
+it: Righe e curvatura di un vecchio monitor.
+zh: 老式显示器的扫描线与弧度。
+
+it: Testi dell'interfaccia nitidi alla risoluzione dello schermo.
+zh: 界面文字按屏幕分辨率清晰绘制。
+
+it: Di notte fuochi, edifici e magie fanno luce intorno.
+zh: 夜间火焰、建筑与魔法会照亮周围。
+
+it: Un alone luminoso intorno a fuochi, magie e fulmini.
+zh: 火焰、魔法与闪电周围的光晕。
+
+it: Bordi sfumati della nebbia invece dei riquadri.
+zh: 迷雾边缘柔和过渡，而不是方块。
+
+it: Alberi che ondeggiano al vento e acqua che luccica.
+zh: 树木随风摇曳，水面波光粼粼。
+
+it: La rotella ingrandisce scorrendo, con più passi.
+zh: 滚轮缩放更顺滑，档位更多。
+
+it: Fai clic e premi il nuovo tasto del comando; Esc annulla.
+zh: 点击后按下该命令的新按键；Esc 取消。
+
+it: Rimette le impostazioni di questa scheda come all'inizio; nome, lingua e dimensioni della finestra restano.
+zh: 把本页设置恢复为初始值；名字、语言与窗口尺寸保留。
+
+it: Chiude rimettendo tutto com'era all'apertura delle opzioni (anche Esc).
+zh: 关闭并把一切恢复为打开设置时的状态（Esc 同样）。
+
+it: Scorrimento
+zh: 滚动
+
+it: Resa dell'IA
+zh: 电脑投降
+
+it: RESA DELL'IA: con la BANDIERA bianca i regni del computer si arrendono quando perdono, con le SPADE combattono fino alla fine
+zh: 电脑投降：选白旗时，电脑控制的王国在落败时投降；选刀剑时死战到底
+
+it: Scorri a sinistra
+zh: 向左滚动
+
+it: Scorri a destra
+zh: 向右滚动
+
+it: Scorri in alto
+zh: 向上滚动
+
+it: Scorri in basso
+zh: 向下滚动
+
+it: Centra la selezione
+zh: 以选中目标居中
+
+it: Unità successiva del gruppo
+zh: 选中组中的下一个单位
+
+it: Ultimo evento
+zh: 最新事件
+
+it: Evento precedente
+zh: 上一个事件
+
+it: Evento successivo
+zh: 下一个事件
+
+it: Destinazione o raduno
+zh: 目的地或集结点
+
+it: Barre della salute
+zh: 生命条
+
+it: Alberi trasparenti
+zh: 树木透明
+
+it: Elimina la selezione
+zh: 取消选择
+
+it: Aumenta la velocità
+zh: 加快速度
+
+it: Riduci la velocità
+zh: 减慢速度
+
+it: Salvataggio rapido
+zh: 快速存档
+
+it: Caricamento rapido
+zh: 快速读档
+
+it: Punteggio e tempo
+zh: 分数与时间
+
+it: Pagina precedente dell'inventario
+zh: 物品栏上一页
+
+it: Pagina seguente dell'inventario
+zh: 物品栏下一页
+
+it: Aiuto
+zh: 帮助
+
+it: Diplomazia
+zh: 外交
+
+it: Obiettivi
+zh: 目标
+
+it: Opzioni
+zh: 偏好设置
+
+it: Menu della partita
+zh: 对局菜单
+
+it: Conversazione
+zh: 对话
+
+it: Tributi
+zh: 贡品
+
+it: Pannello dei trucchi
+zh: 作弊面板
+
+it: Spazio
+zh: 空格
+
+it: Freccia sinistra
+zh: 左方向键
+
+it: Freccia destra
+zh: 右方向键
+
+it: Freccia su
+zh: 上方向键
+
+it: Freccia giù
+zh: 下方向键
+
+it: Invio
+zh: 回车
+
+it: Canc
+zh: Delete
+
+it: Ins
+zh: Insert
+
+it: Fine
+zh: End
+
+it: Pag su
+zh: Page Up
+
+it: Pag giù
+zh: Page Down
+
+it: Tasto Indietro
+zh: 退格
+
+it: + (tastierino)
+zh: 小键盘 +
+
+it: - (tastierino)
+zh: 小键盘 -
+
+it: * (tastierino)
+zh: 小键盘 *
+
+it: / (tastierino)
+zh: 小键盘 /
+
+it: Invio (tastierino)
+zh: 小键盘回车
+
+it: {} (tastierino)
+zh: 小键盘 {}
+
+it: Inizializzazione dell'audio…
+zh: 正在初始化音频…
+
+it: Audio non disponibile
+zh: 音频不可用
+
+it: Impostazioni non leggibili ({}): ripristinati i valori predefiniti.
+zh: 无法读取设置（{}）：已恢复默认值。
+
+it: La modalità multigiocatore non è disponibile in questa versione.
+zh: 本版本不支持多人模式。
+
+it: Eroe
+zh: 英雄
+
+it: Nessuna missione selezionata
+zh: 未选择任务
+
+it: (missione non installata)
+zh: （任务未安装）
+
+it: La missione del salvataggio non è presente
+zh: 存档中的任务不存在
+
+it: Missione non trovata
+zh: 找不到任务
+
+it: Mappa casuale {}
+zh: 随机地图 {}
+
+it: {} · {}×{} · seme {}
+zh: {} · {}×{} · 种子 {}
+
+it: Caricamento di «{}»…
+zh: 正在载入《{}》…
+
+it: Ripristino di «{}»…
+zh: 正在恢复《{}》…
+
+it: Un salvataggio è già in corso
+zh: 已有存档正在进行
+
+it: Attendi il completamento del salvataggio
+zh: 请等待存档完成
+
+it: Nessuna mappa aperta
+zh: 没有打开的地图
+
+it: Simulazione non inizializzata
+zh: 对局尚未开始
+
+it: Salvataggio interrotto
+zh: 存档中断
+
+it: Salvataggio non riuscito: {}
+zh: 存档失败：{}
+
+it: Impossibile riprodurre intro: {}
+zh: 无法播放片头：{}
+
+it: Casuale
+zh: 随机
+
+it: Arcipelaghi
+zh: 群岛
+
+it: Isole
+zh: 岛屿
+
+it: Continente
+zh: 大陆
+
+it: Laghi
+zh: 湖泊
+
+it: Terra
+zh: 干旱
+
+it: Annulla e restituisci il costo
+zh: 取消并退还费用
+
+it: Indietro
+zh: 返回
+
+it: Trucchi\nApre la finestra dei trucchi di questa partita
+zh: 作弊\n打开本局对局的作弊窗口
+
+it: Trucchi
+zh: 作弊
+
+it: Apre la finestra dei trucchi di questa partita
+zh: 打开本局对局的作弊窗口
+
+it: Usato un trucco, la partita resta segnata come partita con trucchi
+zh: 使用过作弊，本局将被标记为作弊对局
+
+it: Chiude la finestra dei trucchi
+zh: 关闭作弊窗口
+
+it: TRUCCHI
+zh: 作弊
+
+it: CHIUDI
+zh: 关闭
+
+it: Partita
+zh: 对局
+
+it: Risorse, popolazione, costruzione, nebbia, mappa, ora del giorno, tecnologie e missione
+zh: 资源、人口、建造、迷雾、地图、时段、科技与任务
+
+it: Oggetti
+zh: 对象
+
+it: Trucchi da applicare a un'unità o a un edificio cliccandolo sulla mappa
+zh: 在地图上点击单位或建筑后对其使用的作弊
+
+it: Unità
+zh: 单位
+
+it: Crea un'unità di qualunque regno nel punto della mappa che scegli
+zh: 在你选择的地图位置创建一个任意王国的单位
+
+it: Edifici
+zh: 建筑
+
+it: Crea un edificio già costruito di qualunque regno nel punto della mappa che scegli
+zh: 在你选择的地图位置创建一个任意王国的已建成建筑
+
+it: Cambia a piacere i rapporti fra due regni
+zh: 随意改变两个王国之间的关系
+
+it: Nessun regno
+zh: 无王国
+
+it: Regno {}
+zh: 王国 {}
+
+it: Regno
+zh: 王国
+
+it: Europea
+zh: 欧洲
+
+it: Araba
+zh: 阿拉伯
+
+it: Asiatica
+zh: 亚洲
+
+it: europea
+zh: 欧洲
+
+it: araba
+zh: 阿拉伯
+
+it: asiatica
+zh: 亚洲
+
+it: Alleato
+zh: 盟友
+
+it: {a} considera {b} un alleato: non lo attacca
+zh: {a} 视 {b} 为盟友：不会攻击它
+
+it: Neutrale
+zh: 中立
+
+it: {a} considera {b} neutrale: non lo attacca
+zh: {a} 视 {b} 为中立：不会攻击它
+
+it: Nemico
+zh: 敌人
+
+it: {a} considera {b} un nemico e lo attacca
+zh: {a} 视 {b} 为敌人并会攻击它
+
+it: Condivide la vista
+zh: 共享视野
+
+it: {b} vede ciò che vedono le unità di {a}
+zh: {b} 能看到 {a} 的单位所看到的一切
+
+it: Condivide le risorse
+zh: 共享资源
+
+it: {b} può spendere le risorse di {a}
+zh: {b} 可以花费 {a} 的资源
+
+it: Condivide le unità
+zh: 共享单位
+
+it: {b} può comandare le unità di {a}
+zh: {b} 可以指挥 {a} 的单位
+
+it: Vittoria condivisa
+zh: 共同胜利
+
+it: {a} vince insieme a {b}
+zh: {a} 与 {b} 一同获胜
+
+it: Vuole la guerra
+zh: 想要战争
+
+it: {a} vuole la guerra con {b}: basta che uno dei due la voglia e diventano nemici
+zh: {a} 想与 {b} 开战：只要一方想打，双方即成为敌人
+
+it: Vuole la pace
+zh: 想要和平
+
+it: {a} vuole la pace con {b}: quando la vogliono tutti e due diventano neutrali
+zh: {a} 想与 {b} 和平：双方都想要和平时，彼此转为中立
+
+it: Vuole l'alleanza
+zh: 想要结盟
+
+it: {a} vuole l'alleanza con {b}: quando la vogliono tutti e due diventano alleati
+zh: {a} 想与 {b} 结盟：双方都想结盟时，彼此成为盟友
+
+it: Costo
+zh: 费用
+
+it:  (In questa partita le risorse sono illimitate.)
+zh:  （本局资源无限。）
+
+it: Risorse
+zh: 资源
+
+it: Aggiunge oro, pietra, cibo e legna al tuo regno
+zh: 为你的王国增加金币、石料、食物与木材
+
+it: Aggiunge 10 000 di oro, pietra, cibo e legna al tuo regno.
+zh: 为你的王国增加 10,000 金币、石料、食物与木材。
+
+it: Aggiunge 50 000 di oro, pietra, cibo e legna al tuo regno.
+zh: 为你的王国增加 50,000 金币、石料、食物与木材。
+
+it: Popolazione massima
+zh: 人口上限
+
+it: Il limite della popolazione del tuo regno
+zh: 你的王国的人口上限
+
+it: Porta a 1000
+zh: 提高到 1000
+
+it: Già a 1000
+zh: 已是 1000
+
+it: Porta a 1000 il limite della popolazione del tuo regno, senza bisogno di case
+zh: 把你的王国人口上限提高到 1000，且无需房屋
+
+it: Costruzione immediata
+zh: 立即建成
+
+it: Cantieri, unità e ricerche si completano subito
+zh: 工地、单位与科技研究立刻完成
+
+it: Quando è attiva, ogni cantiere si completa al primo colpo di un contadino e le unità e le ricerche escono subito, per tutti i regni. Clicca per attivarla o spegnerla
+zh: 开启后，所有王国的工地都只需农民敲一下即可完工，单位与科技研究立刻产出。点击开启或关闭
+
+it: Nessun requisito
+zh: 无需前置条件
+
+it: Costruire, creare e ricercare senza i requisiti
+zh: 建造、生产与研究都不需要前置条件
+
+it: Quando è attivo, si possono costruire edifici, creare unità e fare ricerche senza gli edifici e le tecnologie che servirebbero, per tutti i regni. Clicca per attivarlo o spegnerlo
+zh: 开启后，所有王国建造建筑、生产单位和进行研究都不再需要相应的建筑与科技。点击开启或关闭
+
+it: Nebbia di guerra
+zh: 战争迷雾
+
+it: La nebbia che nasconde ciò che le tue unità non vedono
+zh: 遮住你的单位视野之外区域的迷雾
+
+it: Togli
+zh: 移除
+
+it: Già tolta
+zh: 已移除
+
+it: Toglie la nebbia di guerra per il resto della partita: vedi tutto ciò che si muove sulla mappa
+zh: 在本局剩余时间里移除战争迷雾：地图上所有移动的东西你都能看见
+
+it: Mappa
+zh: 地图
+
+it: Le zone della mappa non ancora esplorate
+zh: 地图上尚未探索的区域
+
+it: Rivela tutta
+zh: 全部揭示
+
+it: Già esplorata
+zh: 已探索
+
+it: Rende esplorata tutta la mappa: vedi il terreno e gli edifici, ma le unità solo dove arriva la vista delle tue
+zh: 揭示整张地图：你能看到地形与建筑，但单位只在你的视野范围内可见
+
+it: Ora del giorno
+zh: 时段
+
+it: L'ora dell'orologio della partita, che decide la luce del giorno e della notte
+zh: 对局时钟的时刻，决定昼夜光照
+
+it: Un'ora indietro (con Maiusc dieci)
+zh: 后退一小时（按住 Shift 为十小时）
+
+it: Un'ora avanti (con Maiusc dieci)
+zh: 前进一小时（按住 Shift 为十小时）
+
+it: Cambia l'ora del giorno con le frecce
+zh: 用方向键调整时段
+
+it: Tecnologia
+zh: 科技
+
+it: Una ricerca del tuo regno, completata senza aspettare né pagare
+zh: 你的王国的一项研究，立刻完成且无需花费
+
+it: nessuna da scoprire
+zh: 没有可研究的了
+
+it: La tecnologia precedente
+zh: 上一项科技
+
+it: La tecnologia seguente
+zh: 下一项科技
+
+it: Scopri
+zh: 研究
+
+it: Completa subito per il tuo regno: {}
+zh: 为你的王国立刻完成：{}
+
+it: Animali e mostri
+zh: 动物与怪物
+
+it: Le unità della Natura: animali selvatici e mostri
+zh: 大自然的单位：野生动物与怪物
+
+it: Togli dalla mappa
+zh: 从地图上移除
+
+it: Nessuno sulla mappa
+zh: 地图上没有
+
+it: Fa sparire dalla mappa tutte le unità della Natura: animali selvatici e mostri
+zh: 从地图上移除所有大自然的单位：野生动物与怪物
+
+it: Missione
+zh: 任务
+
+it: La missione di questa campagna
+zh: 本战役的任务
+
+it: Passa alla successiva
+zh: 跳到下一关
+
+it: Nessuna successiva
+zh: 没有下一关
+
+it: Solo nelle campagne
+zh: 仅战役可用
+
+it: Lascia questa missione e apre subito la mappa successiva della campagna
+zh: 离开本任务，立即打开战役的下一张地图
+
+it: Scegli un trucco: la finestra si chiude e clicchi sulla mappa l'unità o l'edificio a cui applicarlo. Tieni premuto Maiusc per cliccarne altri, tasto destro per finire.
+zh: 选择一个作弊：窗口关闭后，在地图上点击要施加的单位或建筑。按住 Shift 可继续点击其他目标，右键结束。
+
+it: Invulnerabile
+zh: 无敌
+
+it: Non subisce più danni. Un altro clic lo rende di nuovo vulnerabile.
+zh: 不再受到伤害。再次点击可恢复可受伤状态。
+
+it: Rende invulnerabile l'oggetto che clicchi: non subisce più danni. Cliccarlo di nuovo lo rende di nuovo vulnerabile
+zh: 使你点击的对象无敌：不再受到伤害。再次点击它可恢复
+
+it: Prendi il comando
+zh: 取得控制
+
+it: Gli dai ordini anche se è di un altro regno. Un altro clic lo restituisce.
+zh: 即使它属于其他王国，你也能向它下达命令。再次点击归还。
+
+it: Puoi dare ordini all'oggetto che clicchi anche se è di un altro regno. Cliccarlo di nuovo lo restituisce
+zh: 即使你点击的对象属于其他王国，你也能向它下达命令。再次点击归还
+
+it: Guarda con i suoi occhi
+zh: 以它的视角观察
+
+it: Vedi ciò che vede, anche se è di un altro regno. Un altro clic smette.
+zh: 即使它属于其他王国，你也能看到它所看到的。再次点击停止。
+
+it: Vedi ciò che vede l'oggetto che clicchi, anche se è di un altro regno. Cliccarlo di nuovo smette
+zh: 即使你点击的对象属于其他王国，你也能看到它所看到的。再次点击停止
+
+it: Dai al regno
+zh: 交给王国
+
+it: L'oggetto che clicchi passa al regno scelto: {}
+zh: 你点击的对象将归入所选王国：{}
+
+it: Il regno precedente
+zh: 上一个王国
+
+it: Il regno seguente
+zh: 下一个王国
+
+it: Il regno a cui passa l'oggetto che clicchi
+zh: 你点击的对象将归属的王国
+
+it: Crea le unità e gli edifici della civiltà {}
+zh: 创建 {} 文明的单位与建筑
+
+it: Il regno a cui va quello che crei
+zh: 你创建的东西归属的王国
+
+it: Il regno di cui cambi i rapporti
+zh: 你要改变其关系的王国
+
+it: Il regno verso cui cambiano
+zh: 关系所指向的王国
+
+it: Come {} considera {}: clicca una casella per accenderla o spegnerla.
+zh: {} 如何看待 {}：点击方框开启或关闭。
+
+it: Scegli due regni diversi.
+zh: 请选择两个不同的王国。
+
+it: {}. Ora: {}
+zh: {}。当前：{}
+
+it: sì
+zh: 是
+
+it: un'unità
+zh: 一个单位
+
+it: un edificio, che arriva già costruito
+zh: 一座建筑，出现时已建成
+
+it: Clicca {}, poi il punto della mappa dove metterlo. Tieni premuto Maiusc per metterne altri, tasto destro per finire.
+zh: 点击{}，再点击地图上要放置的位置。按住 Shift 可继续放置，右键结束。
+
+it: Partita con trucchi: {}
+zh: 作弊对局：{}
+
+it: Maiusc per continuare, tasto destro per finire.
+zh: 按 Shift 继续，右键结束。
+
+it: Clicca sulla mappa dove mettere: {}. {}
+zh: 在地图上点击要放置的位置：{}。{}
+
+it: Clicca l'oggetto da rendere invulnerabile (o di nuovo vulnerabile).
+zh: 点击要设为无敌（或恢复）的对象。
+
+it: Clicca l'oggetto di cui prendere il comando (o da restituire).
+zh: 点击要取得控制（或归还）的对象。
+
+it: Clicca l'oggetto con cui guardare (o con cui smettere).
+zh: 点击要用以观察（或停止）的对象。
+
+it: Clicca l'oggetto da dare al regno scelto.
+zh: 点击要交给所选王国的对象。
+
+it: Versione della sessione non supportata
+zh: 不支持的对局版本
+
+it: Archivio della mappa non valido
+zh: 地图档案无效
+
+it: Dimensioni o stato della sessione non validi
+zh: 对局大小或状态无效
+
+it: Riferimenti dell'inventario non validi
+zh: 物品栏引用无效
+
+it: Contenuto dell'inventario non valido
+zh: 物品栏内容无效
+
+it: Collegamento dell'inventario non valido
+zh: 物品栏链接无效
+
+it: Ciclo nell'inventario
+zh: 物品栏存在循环引用
+
+it: Riferimenti della mappa o dell'interfaccia non validi
+zh: 地图或界面引用无效
+
+it: Ritratto salvato non valido
+zh: 存档中的头像无效
+
+it: Salvataggio non valido
+zh: 存档无效
+
+it: Salvataggio non riconosciuto
+zh: 无法识别存档
+
+it: Versione del salvataggio non supportata
+zh: 不支持的存档版本
+
+it: Salvataggio troppo grande o danneggiato
+zh: 存档过大或已损坏
+
+it: Metadati del salvataggio non validi
+zh: 存档信息无效
+
+it: Salvataggio troncato
+zh: 存档不完整
+
+it: Lunghezza del salvataggio non valida
+zh: 存档长度无效
+
+it: Controllo d'integrità del salvataggio fallito
+zh: 存档完整性校验失败
+
+it: Sessione compressa danneggiata
+zh: 压缩的对局数据已损坏
+
+it: Salvataggio di una versione precedente di ReTzar: non si può più riprendere
+zh: 这是旧版 ReTzar 的存档，已无法继续
+
+it: Salvataggio troppo grande
+zh: 存档过大
+
+it: Percorso del salvataggio non valido
+zh: 存档路径无效
+
+it: Dato della mappa non riconosciuto
+zh: 无法识别地图数据
+
+it: Dato della mappa troppo grande
+zh: 地图数据过大
+
+it: Dato della mappa danneggiato
+zh: 地图数据已损坏
+
+it: Archivio della mappa troppo grande
+zh: 地图档案过大
+
+it: Salvataggio con dati della mappa non risolti
+zh: 存档中的地图数据未解析
+
+it: Regno {}: nessuna posizione iniziale nella mappa
+zh: 王国 {}：地图上没有起始位置
+
+it: Regno {}: spazio insufficiente per il castello
+zh: 王国 {}：没有足够空间放置城堡
+
+it: Regno {}: spazio insufficiente per i contadini
+zh: 王国 {}：没有足够空间放置农民
+
+it: Identificatori degli oggetti esauriti
+zh: 对象编号已用尽
+
+it: Nessun archivio del gioco trovato
+zh: 找不到游戏档案
+
+it: Installazione di Tzar non trovata vicino a {}. Usa --source CARTELLA.
+zh: 在 {} 附近找不到 Tzar 安装目录。请使用 --source 目录。
+
+it: ReTzar non può continuare:\n\n{}
+zh: ReTzar 无法继续：\n\n{}
+
+it: ReTzar si è chiuso per un errore interno.\n\n{}\n\nDettagli in crash.log.
+zh: ReTzar 因内部错误而关闭。\n\n{}\n\n详情见 crash.log。
+
+it: Recuperata la precedente copia valida del salvataggio.
+zh: 已恢复上一份有效的存档副本。
+
+it: Salvataggio precedente: ripristinata la vista iniziale, senza stato della simulazione.
+zh: 较旧的存档：已恢复初始视角，但没有对局状态。
+
+it: Nessuna scheda video Vulkan trovata. ReTzar disegna solo con Vulkan: aggiorna i driver della scheda video.
+zh: 未找到支持 Vulkan 的显卡。ReTzar 仅使用 Vulkan 绘制：请更新显卡驱动。
+
+it: Nessuna scheda video Metal trovata. ReTzar richiede una scheda video compatibile con Metal su macOS.
+zh: 未找到支持 Metal 的显卡。ReTzar 在 macOS 上需要兼容 Metal 的显卡。
+
+it: Scegli la cartella in cui è installato Tzar
+zh: 选择 Tzar 的安装目录
+
+it: Per giocare con ReTzar serve una copia originale di Tzar (dal CD, da GOG o da Steam): alla prossima partenza scegli la cartella in cui è installata.
+zh: 游玩 ReTzar 需要一份原版 Tzar（光盘版、GOG 版或 Steam 版）：下次启动时请选择它的安装目录。
+
+it: In {} non c'è una copia originale di Tzar.\n\nScegli la cartella in cui è installato il gioco.
+zh: {} 中没有原版 Tzar。\n\n请选择游戏的安装目录。
+
+it: Benvenuto in ReTzar! Scegli la cartella della tua copia di Tzar (GOG, Steam o CD). ReTzar leggerà i suoi file e ricorderà la cartella per i prossimi avvii.
+zh: 欢迎使用 ReTzar！请选择你的 Tzar 副本所在文件夹（GOG、Steam 或光盘版）。ReTzar 会读取其中的文件，并记住该文件夹供以后启动使用。
+
+it: Benvenuto in ReTzar! Il gioco usa la tua copia di Tzar (GOG, Steam o CD): scegli la cartella in cui è installato e ReTzar ne ricaverà i suoi dati. Serve solo la prima volta.
+zh: 欢迎来到 ReTzar！本游戏使用你自备的 Tzar 副本（GOG、Steam 或光盘版）：选择它的安装目录，ReTzar 会据此生成所需数据。只需设置一次。
+
+it: ReTzar non può scrivere nella sua cartella ({}): spostalo in una cartella tua, per esempio sul Desktop o in Documenti.
+zh: ReTzar 无法写入自己的目录（{}）：请把它移到你自己的目录，例如桌面或文档。
+
+it: ReTzar sta creando i dati del gioco dalla tua copia di Tzar…
+zh: ReTzar 正在根据你的 Tzar 副本生成游戏数据…
+
+it: Controllo dei dati…
+zh: 正在校验数据…
+
+it: Non è stato possibile creare i dati del gioco: {}
+zh: 无法生成游戏数据：{}

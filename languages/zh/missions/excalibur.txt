@@ -1,0 +1,1179 @@
+# Re Artù ed Excalibur (campagna dell'edizione italiana, assente dalla versione americana): traduzione di ReTzar, con i nomi della tradizione inglese (Malory).
+
+# excalibur e il re artu.wcm
+it: Re Artù ed Excalibur\n\nGiunto il giorno stabilito, mentre tutti pregavano, nel patio della chiesa più imponente di Londra apparve un enorme blocco di marmo e su di esso un'incudine d'acciaio attraversata da una spada. Su di essa erano incise queste parole:\n\n"CHIUNQUE RIESCA A ESTRARRE LA SPADA DA QUESTA ROCCIA E DA QUEST'INCUDINE SARÀ RE D'INGHILTERRA PER DIRITTO DI NASCITA"
+zh: 亚瑟王与王者之剑\n\n约定的日子到了。众人正在祈祷时，伦敦最宏伟的教堂庭院里出现了一块巨大的大理石，上面放着一座钢砧，一柄剑穿透其中。石上刻着这样的话：\n\n「凡能从这块石头和这座铁砧中拔出此剑者，生来便是全英格兰的合法国王。」
+
+# excalibur e il re artu.wcm::maps/1_a merlín y el rey arturo
+it: Merlino e il Re Artù
+zh: 梅林与亚瑟王
+it: Venne annunciato pubblicamente che, dopo il torneo dell'Anno Nuovo, tutti i cavalieri presenti avrebbero potuto cercare di estrarre la spada. Ma tutti i tentativi furono vani finché...
+zh: 公开宣告说，新年比武大会之后，所有到场的骑士都可以试着拔剑。但一切尝试都是徒劳，直到……
+it: Regno 1
+zh: 王国 1
+it: Artù
+zh: 亚瑟
+it: Regno 2
+zh: 王国 2
+it: Popolo
+zh: 平民
+it: Regno 3
+zh: 王国 3
+it: Cavalieri
+zh: 骑士
+it: Porta
+zh: 城门
+it: Regno 5
+zh: 王国 5
+it: Regno 6
+zh: 王国 6
+it: Regno 7
+zh: 王国 7
+it: Regno 8
+zh: 王国 8
+it: Arcivescovo
+zh: 大主教
+it: Canterbury
+zh: 坎特伯雷
+it: Sir Hector
+zh: 埃克托爵士
+it: Spada
+zh: 剑
+it: Brigante
+zh: 强盗
+it: Al principio del VI secolo d.C., nell'anno 516, re Artù succedeva nella corona d'Inghilterra al padre Uther Pendragon.\n\nMa la storia di quello che diverrà il miglior re d'Inghilterra cominciò alcuni anni prima...\n\nPoco prima della nascita di Artù, suo padre, volendo stipulare un patto per porre fine alle ostilità causate dal duca di Cornovaglia, ordinò al nobile di recarsi a corte con la propria sposa, Igraine.\n\nIl re s'innamorò perdutamente della bella sposa del duca che, non cedendo alle suppliche del sovrano, propose al marito di fuggire nottetempo e di rifugiarsi nel loro castello. Uther Pendragon, umiliato, trovò in questa sfida la scusa perfetta per annientare il duca e appropriarsi delle sue terre, dei suoi vassalli e... della sua sposa. E così dal desiderio si generò la guerra.\n\nVennero combattute battaglie crudelissime, e quanto più era cruenta la guerra tanto più il re rimpiangeva e desiderava Igraine. Disperato, Uther sollecitò l'aiuto del mago Merlino. Grazie alle sue arti magiche il sovrano riuscì ad ingannare Igraine: tre ore dopo che il marito era perito in battaglia, Uther Pendragon, sotto le sembianze del duca, possedette la sua amata.\n\nQuando Igraine seppe di essere rimasta vedova, non ebbe altra possibilità che sottomettersi al volere del re, che finì per prenderla come sposa.\n\nNove mesi dopo quell'inganno nacque un bimbo e giunse il momento in cui il re dovette pagare per la sua lussuria, consegnando a Merlino il frutto della propria passione per Igraine. Merlino affidò a Sir Hector la custodia e l'educazione del neonato che il mago battezzò con un nome che più avanti avrebbe suscitato il terrore fra i suoi nemici, poiché sarebbe stato il re d'Inghilterra più potente di tutti i tempi: Artù.\n\nQuando Artù aveva due anni, il padre morì lasciando il trono vacante. Da quel momento un'epoca buia avvolse i suoi domini. I saccheggi e le distruzioni scacciarono il buon senso e Merlino decise di convocare i cavalieri del regno per Natale sperando che il Signore inviasse un segnale che ponesse fine a tanta pazzia. \n\nGiunto il giorno stabilito, mentre tutti pregavano, apparve nel patio della chiesa più imponente di Londra un enorme blocco di marmo e su di esso un'incudine di acciaio attraversata da una spada. Su di essa erano incise queste parole:\n\n"Chiunque riesca ad estrarre la spada da questa roccia e da quest'incudine sarà re d'Inghilterra per diritto di nascita."\n\nVenne annunciato pubblicamente che, dopo il torneo dell'Anno Nuovo, tutti i cavalieri presenti avrebbero potuto cercare di estrarre la spada. Ma tutti i tentativi furono vani finché...
+zh: 公元六世纪初，516 年，亚瑟王继承父亲尤瑟·潘德拉贡，登上了英格兰的王位。\n\n但这位日后成为英格兰最杰出国王的人，故事开始于几年前……\n\n亚瑟出生前不久，他父亲为了与康沃尔公爵缔结和约、结束纷争，命这位贵族携妻子伊格莱恩入宫。\n\n国王疯狂地爱上了公爵美丽的妻子。她不肯屈从国王的恳求，反而劝丈夫连夜逃走，躲回他们的城堡。尤瑟·潘德拉贡受此羞辱，正好拿这份抗拒当作绝佳的借口，要消灭公爵、夺走他的土地、他的封臣……还有他的妻子。欲望就这样生出了战争。\n\n双方打了极惨烈的仗，战事越血腥，国王就越思念、越渴望伊格莱恩。绝望之下，尤瑟求助于法师梅林。凭着魔法，国王骗过了伊格莱恩：丈夫战死三小时后，尤瑟·潘德拉贡以公爵的模样，与他的心上人同床。\n\n伊格莱恩得知自己成了寡妇，别无选择，只能顺从国王的意愿，最终被他娶为妻子。\n\n那场骗局九个月后，一个孩子出生了，国王也该为他的情欲付出代价——把他与伊格莱恩的果实交给梅林。梅林把婴儿交给埃克托爵士抚养教导，并为他取了一个日后将令敌人闻风丧胆的名字，因为他将成为古往今来最强大的英格兰国王：亚瑟。\n\n亚瑟两岁时，父亲去世，王位空悬。从此一片黑暗的时代笼罩了他的领土。劫掠与破坏赶走了理智，梅林决定在圣诞节召集王国的骑士，盼望上帝降下征兆，终结这般疯狂。\n\n约定的日子到了。众人正在祈祷时，伦敦最宏伟的教堂庭院里出现了一块巨大的大理石，上面放着一座钢砧，一柄剑穿透其中。石上刻着这样的话：\n\n「凡能从这块石头和这座铁砧中拔出此剑者，生来便是全英格兰的合法国王。」\n\n随后公开宣告：新年比武大会之后，所有到场的骑士都可以试着拔剑。但一切尝试都是徒劳，直到……
+it: Artù estrasse la spada che era conficcata in un blocco di pietra nel patio della chiesa.
+zh: 亚瑟拔出了那柄插在教堂庭院石块中的剑。
+it: Sir Kay, il fratellastro di Artù, riconobbe la spada non appena l'ebbe impugnata e subito la mostrò al padre. Sir Hector, con i due figli, tornò alla chiesa e chiese ad Artù di rinfilare la spada nella roccia e di estrarla nuovamente, cosa che il ragazzo fece senza alcuna difficoltà.\n\nDi fronte all'evidenza dei fatti il padre ed il fratello s'inchinarono dinanzi ad Artù.\n\nL'Arcivescovo di Canterbury, informato dell'accaduto, diede ordine a tutti i cavalieri di riunirsi. Ognuno di loro tentò, inutilmente di estrarre la spada dalla roccia. Solo Artù riuscì ad impossessarsene senza alcuna difficoltà. I cavalieri del regno tentarono nuovamente l'impresa il giorno di Pentecoste ma, anche in quell'occasione, Artù fu il solo a riuscirci.\n\nE così l'Arcivescovo decise di investire Artù del titolo di cavaliere e poi di quello di re. Ed egli giurò che sarebbe stato un re giusto e leale fino alla fine dei suoi giorni.
+zh: 亚瑟的义兄凯爵士一握住那柄剑就认了出来，立刻拿给父亲看。埃克托爵士带着两个儿子回到教堂，让亚瑟把剑插回石头，再拔一次——少年毫不费力地做到了。\n\n面对这样的事实，父亲与兄长都在亚瑟面前跪了下来。\n\n坎特伯雷大主教得知此事，下令召集全体骑士。每个人都试过，都拔不出来。只有亚瑟毫不费力地取下了它。五旬节那天，王国的骑士们又试了一次，这一次仍然只有亚瑟成功。\n\n于是大主教决定先封亚瑟为骑士，再立他为王。亚瑟立誓：直到生命尽头，他都要做一个公正而忠实的国王。
+it: Porta a tuo fratello Kay una spada, prima che venga squalificato dal torneo
+zh: 在你哥哥凯被取消资格之前，给他送一柄剑去
+it: Rimane poco tempo...
+zh: 时间不多了……
+it: Artù non giunse in tempo al torneo...
+zh: 亚瑟没能及时赶到比武场……
+it: Artù è morto...
+zh: 亚瑟死了……
+it: Corri a dare la spada a tuo fratello Kay.
+zh: 快跑，把剑交给你哥哥凯。
+it: Espada
+zh: 剑
+it: Artù non giunse in tempo al torneo
+zh: 亚瑟没能及时赶到比武场
+it: Forza, figli miei, o non arriveremo mai al torneo...
+zh: 快些，孩子们，不然我们永远到不了比武场……
+it: Ho già 15 anni padre, quando potrò partecipare?
+zh: 父亲，我都十五岁了，什么时候才能上场？
+it: Non affliggerti, quando sarai abbastanza grande potrai farlo, Artù.
+zh: 别难过，等你够大了就能上场，亚瑟。
+it: Nel frattempo prendi esempio da tuo fratello Kay.
+zh: 这段时间你就跟你哥哥凯学。
+it: Sì, padre.
+zh: 是，父亲。
+it: Spero che quest'anno il Signore mi giudichi degno.
+zh: 希望今年上帝认为我配得上。
+it: Benvenuto Sir Hector. Il torneo è appena cominciato. Vostro figlio, Sir Kay, partecipa?
+zh: 欢迎，埃克托爵士。比武刚刚开始。令郎凯爵士参加吗？
+it: Certo.
+zh: 当然。
+it: Allora dovrebbe brandire una spada. Il suo turno è dopo questa giostra.
+zh: 那他该带一柄剑。这一场比试之后就轮到他了。
+it: Ho dimenticato a casa la mia spada, padre.
+zh: 父亲，我把剑忘在家里了。
+it: Corri Artù! Vai a cercare una spada. Io devo aiutare tuo fratello ad indossare l'armatura e a prepararsi per il torneo. Se non ritorni prima della fine di questa clessidra tuo fratello sarà squalificato. Non perdere tempo giocando con le mucche!
+zh: 快跑，亚瑟！去找一柄剑来。我得帮你哥哥穿上甲胄、准备上场。你要是在这沙漏漏完之前回不来，你哥哥就会被取消资格。别把时间浪费在跟牛玩上！
+it: Sarò rapido come il vento!
+zh: 我会快得像风一样！
+it: La casa è chiusa! Sono tutti a vedere il torneo... e ora dove la trovo una spada? Umm...
+zh: 家里锁着门！大家都去看比武了……现在上哪儿找一柄剑？嗯……
+it: Devo assolutamente portargliene una... o qualche scapaccione non me lo leva nessuno. Domanderò a quei taglialegna se possono prestarmene una.
+zh: 我非得给他带一柄回去不可……不然这顿揍是躲不掉的。我去问问那些伐木工，看能不能借一柄。
+it: Per favore, lasciatemi passare.
+zh: 劳驾，让我进去。
+it: Cosa vuoi, figliolo?
+zh: 你要干什么，孩子？
+it: Voglio entrare a prendere la spada.
+zh: 我想进去拿那柄剑。
+it: Sono il giardiniere.
+zh: 我是园丁。
+it: Mi dispiace, non abbiamo giardini.
+zh: 抱歉，我们这儿没有园子。
+it: Ah, ah, ah... Prima dovrebbe spuntarti la barba e dovresti vincere il torneo. Tornatene a casa, ragazzo.
+zh: 哈，哈，哈……你先长出胡子、赢了比武再说吧。回家去，小子。
+it: Vengo a pregare.
+zh: 我是来祈祷的。
+it: In questo caso passa pure, figlio mio.
+zh: 既然如此，进去吧，我的孩子。
+it: Spero che mio fratello non si accorga che non si tratta della sua spada.
+zh: 希望我哥哥不会发现这不是他的剑。
+it: Guardate questo ragazzo... Ha estratto la spada!
+zh: 看这孩子……他把剑拔出来了！
+it: Scusatemi. Potreste prestarmi una spada?
+zh: 打扰一下。能借我一柄剑吗？
+it: Ah, ah, ah... Ragazzo, ci hai presi per dei guerrieri? Siamo semplici taglialegna.
+zh: 哈，哈，哈……孩子，你把我们当武士了？我们只是伐木工。
+it: Ah, ah, ah! L'unica spada disponibile si trova nel patio della chiesa.
+zh: 哈，哈，哈！这儿唯一能拿到的剑就在教堂庭院里。
+it: Chiaramente bisogna vedere se il clero ti lascerà passare... Devi dir loro che vai a pregare... e di certo ti spalancheranno le porte. Ma non ti risulterà così facile impossessarti della spada, ragazzo. Ah, ah, ah!
+zh: 当然，还得看教士们放不放你进去……你得跟他们说是去祈祷……他们肯定会给你大开其门。可要拿到那柄剑，可没这么容易，小子。哈，哈，哈！
+it: Grazie.
+zh: 多谢。
+it: Briganti!
+zh: 有强盗！
+it: Addosso!
+zh: 上！
+it: Ho la forza per affrontarli...
+zh: 我有力气对付他们……
+
+# excalibur e il re artu.wcm::maps/1_b merlín y el rey arturo b
+it: Merlino e il Re Artù 2
+zh: 梅林与亚瑟王 2
+it: Fedeli
+zh: 忠臣
+it: Ribelli
+zh: 叛军
+it: Abitanti
+zh: 城民
+it: Merlino
+zh: 梅林
+it: Nobili ribelli
+zh: 叛乱的贵族
+it: Re
+zh: 国王
+it: Mago
+zh: 法师
+it: Arcivescovo di Canterbury
+zh: 坎特伯雷大主教
+it: Generale
+zh: 将军
+it: La Torre
+zh: 高塔
+it: Sir Bawdewyn
+zh: 鲍德温爵士
+it: Re di Scozia
+zh: 苏格兰王
+it: Re Lot
+zh: 洛特王
+it: Re di Carados
+zh: 卡拉多斯王
+it: Re Nentres
+zh: 南特雷斯王
+it: Duca Estance
+zh: 埃斯坦斯公爵
+it: Re dei Cento Cavalieri
+zh: 百骑士之王
+it: Pozione di vita
+zh: 生命药水
+it: Pozione di forza
+zh: 力量药水
+it: Un brivido ti corre lungo la schiena...
+zh: 一阵寒意从你脊背升起……
+it: MERLINO E IL RE ARTÙ\n\nDopo aver cercato di organizzare il proprio governo e aver imposto la pace e l'ordine, Artù con i suoi cavalieri si trasferì in Galles, nella città di Caerlon, per essere ufficialmente incoronato.\n\nMa mentre accadeva tutto questo, un gruppo di re e cavalieri, fra i quali il re Lot di Lothian e Orkney, il re di Scozia, il re di Carados e il re dei Cento Cavalieri, non essendo a conoscenza delle vere origini di Artù, cospiravano per destituirlo. Questi nobili signori si radunarono a Caerleon per manifestare la propria contrarietà al fatto che un uomo senza lignaggio e nobiltà di sangue reggesse la corona d'Inghilterra.\n\nSu consiglio di Merlino, Artù cercò di parlare con loro ma non venne ascoltato. Lo stesso mago cercò di dissuaderli ma nessuno gli diede retta... Di fronte ad una tale minaccia Artù riunì i suoi più fedeli cavalieri, armati e approvvigionati, e decise di affrontare l'imminente offensiva appostandosi in una torre fortificata.\n\nA quel punto i signori ribelli cominciarono l'assedio alla torre...
+zh: 梅林与亚瑟王\n\n亚瑟着手建立自己的统治、推行和平与秩序之后，带着骑士们迁往威尔士的卡利昂城，准备正式加冕。\n\n可就在此时，一群国王与骑士却在密谋废黜他——其中有洛锡安与奥克尼的洛特王、苏格兰王、卡拉多斯王和百骑士之王。他们并不知道亚瑟的真正出身，聚到卡利昂，表示不能容忍一个没有家世、没有贵族血统的人戴英格兰的王冠。\n\n亚瑟依梅林之计想与他们谈谈，却没人肯听。法师亲自去劝阻，也无人理会……面对这样的威胁，亚瑟召集最忠实的骑士，备好兵甲与给养，决定在一座加固的高塔里迎击即将到来的进攻。\n\n于是叛乱的贵族们开始围攻高塔……
+it: Hanno assassinato l'Arcivescovo... Senza lui la causa è perduta.
+zh: 他们刺杀大主教……没有他，我们的事业就完了。
+it: Hanno atterrato uno dei tuoi generali... Le tue truppe fuggono terrorizzate.
+zh: 他们击倒了你的一位将军……你的部队惊恐逃散。
+it: I ribelli non devono occupare la Torre.
+zh: 叛军绝不能占领高塔。
+it: Hanno occupato la Torre... Tutto è perduto.
+zh: 他们占领了高塔……一切都完了。
+it: Nel frattempo, nell'accampamento nemico...
+zh: 与此同时，在敌军营地……
+it: Il nemico si ritira per preparare l'attacco finale...\n\nSe non accade un miracolo, siamo perduti.
+zh: 敌人正在后撤，准备最后的强攻……\n\n除非出现奇迹，我们必败。
+it: Retirada
+zh: 撤退
+it: Finalmente si decisero ad ascoltare Artù che uscì scortato ma quando andò incontro ai signori ribelli, da entrambe le parti si levarono parole forti e irate e non si raggiunse un accordo...
+zh: 他们终于肯听亚瑟说话了。亚瑟在卫兵护卫下出城，可当他走到叛乱的贵族面前，双方都说了许多激烈愤怒的话，终究没能达成一致……
+it: Gli abitanti di Caerleon si sono uniti alla nostra causa armati di bastoni e randelli.
+zh: 卡利昂的城民拿着木棍和短棒，加入了我们的事业。
+it: Mentre i nemici fuggivano, Merlino apparve ad Artù e gli consigliò di non inseguirli perché i suoi uomini erano pochi e stanchi.\n\nTornato a Londra, Artù convocò un Consiglio Generale nel corso del quale Merlino predisse che i sei signori ribelli ancora liberi avrebbero proseguito la guerra in modo sporadico. Cosa conveniva fare? Sarebbe stata una decisione del re, che però avrebbe potuto contare sulla forza e la lealtà dei suoi cavalieri.
+zh: 敌人逃跑时，梅林出现在亚瑟面前，劝他不要追击，因为手下人少且疲惫。\n\n回到伦敦，亚瑟召开大会。梅林在会上预言：仍然逍遥在外的六位叛王会在各处继续零星作乱。该如何应对？这要由国王决定，而他可以倚仗骑士们的力量与忠诚。
+it: Attacca i nobili ribelli.
+zh: 攻打叛乱的贵族。
+it: Proteggi il tuo esercito dal fuoco nemico all'interno della Torre.
+zh: 在高塔内保护你的军队不受敌军火攻。
+it: Utilizza le tue macchine d'assedio contro le forze nemiche.
+zh: 用你的攻城器械对付敌军。
+it: Artù, Merlino, Sir Hector, Sir Kay, Sir Bawdewyn, Sir Brastias e l'Arcivescovo di Canterbury devono sopravvivere.
+zh: 亚瑟、梅林、埃克托爵士、凯爵士、鲍德温爵士、布拉斯提亚斯爵士和坎特伯雷大主教必须存活。
+it: Hanno decimato i tuoi uomini...! Devi claudicare.
+zh: 他们把你的部下杀得七零八落……！你只能认输。
+it: Hai annientato le masnade ribelli.
+zh: 你已歼灭叛军各部。
+it: Hanno ucciso tutti gli abitanti di Caerleon.
+zh: 他们杀光了卡利昂的城民。
+it: Merlino è morto. Che disgrazia! Devi claudicare.
+zh: 梅林死了。多大的灾难！你只能认输。
+it: Re Artù giace colpito a morte. Camelot non vedrà più la luce.
+zh: 亚瑟王身负致命重伤倒下。卡美洛再也见不到光明。
+it: I nobili ribelli fuggono da codardi, per evitare di farsi annientare.
+zh: 叛乱的贵族像懦夫一样逃走，以免被歼灭。
+it: Non toccate il mio tesoro o pagherete con la vita.
+zh: 别碰我的财宝，否则你们要以命相偿。
+it: Siamo assediati e il nemico si accinge ad attaccare. Presto! Riparate la porta a sud che è danneggiata.\n\nDobbiamo impedire che prendano la torre!
+zh: 我们被围了，敌人马上就要进攻。快！去修南门，它已经损坏了。\n\n绝不能让高塔落到他们手里！
+it: Sì, Maestà.
+zh: 是，陛下。
+it: Che Dio ci dia la forza per distruggere il nemico.
+zh: 愿上帝赐我们力量，消灭敌人。
+it: Veloci! Impugnate le armi! Il nemico ci attacca.
+zh: 快！拿起武器！敌人攻上来了。
+it: Maestà, se doveste trovarvi in pericolo, non esitate ad utilizzare la spada di Uther.
+zh: 陛下，若您身陷险境，请不必迟疑，就用尤瑟之剑。
+it: Qualcuno dovrebbe andare alla ricerca dell'esercito che ho inviato a sud-est per richiamarlo.
+zh: 得有人去找我派往东南的那支军队，把它召回来。
+it: Merlino, tu che sei un uomo saggio, dicci: perché questo ragazzino imberbe e senza lignaggio ha occupato il trono d'Inghilterra?
+zh: 梅林，你是个有智慧的人，告诉我们：为什么这个没长胡子、没有家世的小子占着英格兰的王位？
+it: Signori miei, vi dirò qual è la ragione. Artù è il figlio di re Uther Pendragon, nato da Igraine, un tempo sposa del duca di Tintagel, e per questo è destinato ad essere il re d'Inghilterra.
+zh: 诸位大人，我告诉你们缘故。亚瑟是尤瑟·潘德拉贡之子，生母是伊格莱恩——她原是廷塔杰尔公爵的妻子。正因如此，他命中注定是英格兰的国王。
+it: In questo caso Artù è un illegittimo e come tale non può sedere sul trono.
+zh: 既然如此，亚瑟就是个私生子，私生子不能坐王位。
+it: I beni che offriremo ad Artù saranno la spada e la guerra.
+zh: 我们给亚瑟的礼物，将是刀剑与战争。
+it: È vergognoso che una terra tanto nobile sia nelle mani di un moccioso senza nobiltà.
+zh: 这么高贵的一片土地落在毫无贵族血统的毛孩子手里，实在可耻。
+it: Quanto dite non corrisponde al vero. Artù è stato concepito tre ore dopo la morte del duca, e tredici giorni dopo Uther sposò Igraine, che divenne regina. Pertanto Artù è frutto del loro matrimonio e non è un bastardo come volete sostenere.
+zh: 你说的并非实情。亚瑟是在公爵死后三小时受孕的，十三天后尤瑟娶了伊格莱恩，她成了王后。所以亚瑟是他们婚姻的果实，不是你们所说的私生子。
+it: Bah... sei uno stregone e un ciarlatano.
+zh: 呸……你不过是个术士、一个骗子。
+it: Vi annuncio che nonostante il vostro dissenso, o quello di chiunque altro, Artù è il legittimo re, annienterà i suoi nemici e regnerà a lungo sull'Inghilterra, l'Irlanda, la Scozia e il Galles, così come su altri regni che non mi prenderò nemmeno il disturbo di nominare.
+zh: 我告诉你们：不管你们或别人如何反对，亚瑟都是合法的国王。他会粉碎敌人，长久统治英格兰、爱尔兰、苏格兰与威尔士，还有别的王国——那些我连提都懒得提。
+it: Non siamo il genere di uomini che si lascia intimorire dalle ingannevoli parole di un indovino.
+zh: 我们可不是听了几句占卜者的骗人话就会害怕的人。
+it: Mio signore, attacca subito e con forza i nobili mentre sono impreparati e disorganizzati. Inoltre, alcuni cavalieri hanno abbandonato i ribelli e hanno abbracciato la nostra causa. Li incontrerai a sud. Io ti aiuterò con la mia magia.
+zh: 我的主上，趁那些贵族还没准备、阵脚未稳，立刻猛攻他们。另外，已有一些骑士离开叛军、投向我们的事业，你会在南边遇到他们。我用魔法助你。
+it: Piomberemo su di loro menando colpi a destra e a manca.
+zh: 我们就扑上去，左右开弓。
+it: Se attacchiamo i loro capi, vinceremo la battaglia.
+zh: 只要打掉他们的首领，这一仗我们就赢了。
+
+# excalibur e il re artu.wcm::maps/2 los nobles rebeldes
+it: I nobili ribelli
+zh: 叛乱的贵族
+it: Eroi
+zh: 英雄
+it: Nobili
+zh: 贵族
+it: Esploratori
+zh: 斥候
+it: Re di
+zh: ……之王
+it: Scozia
+zh: 苏格兰
+it: Irlanda
+zh: 爱尔兰
+it: Cradilment
+zh: 克拉德梅斯
+it: Uryens
+zh: 乌里恩斯
+it: Re dei
+zh: ……之王
+it: Cento
+zh: 百
+it: Clarivaus
+zh: 克拉伦斯
+it: Duca di
+zh: ……公爵
+it: Lyonse
+zh: 莱昂尼斯
+it: Gryfflet
+zh: 格里弗雷特
+it: Bawdewyn
+zh: 鲍德温
+it: Hector
+zh: 埃克托
+it: Il mago
+zh: 法师
+it: Lucas
+zh: 卢坎
+it: I NOBILI RIBELLI\n\nDopo essersi ripresi dalla sconfitta, i nemici di Artù avevano accresciuto considerevolmente le loro forze grazie ad accordi e coalizioni con altri nobili che, come loro, non vedevano di buon occhio il giovane re.\n\nDi fronte a questa pericolosa situazione, Merlino consigliò ad Artù di chiedere aiuto a due re francesi: Ban de Benwick e Bors di Gallia, scrivendo loro delle lettere che sarebbero state consegnate personalmente da due dei migliori cavalieri di Artù.\n\nRicevuta la richiesta d'intervento, entrambi i sovrani promisero di intervenire con un numeroso esercito prima del giorno di Ognissanti, con la promessa che Artù, in caso di loro bisogno, avrebbe ricambiato il favore. Così avvenne e, in occasione del loro arrivo, il re d'Inghilterra organizzò giostre e tornei per festeggiarli.\n\nAl termine dei festeggiamenti, una notte, i tre re si riunirono e stabilirono, fra le altre cose, che Merlino si sarebbe recato in Francia per reclutare un esercito da condurre a nord dell'Inghilterra.\n\nIn gran segreto Merlino riunì diecimila cavalieri che imbarcò con i loro destrieri alla volta dell'Inghilterra. Lui stesso li fece nascondere nel bosco di Bedgrayne ed informò Artù, che ne fu molto compiaciuto e con lui i due re francesi. Poi si diressero tutti verso l'accampamento segreto in cui stanziava questo imponente esercito.\n\nNel frattempo i ribelli del nord si prepararono alla guerra mettendo sotto assedio un castello nelle vicinanze del bosco di Bedgrayne. Poco dopo il grosso dell'esercito ribelle marciava verso l'accampamento di Artù...
+zh: 叛乱的贵族\n\n从败仗中缓过来之后，亚瑟的敌人通过与其他同样看这个年轻国王不顺眼的贵族结盟立约，大大扩充了兵力。\n\n面对这般危局，梅林建议亚瑟向两位法国国王求援：本威克的班王与高卢的波尔斯王，并写下书信，由亚瑟最好的两名骑士亲自送达。\n\n两位国王接到求援，都答应在万圣节前率大军前来，条件是他日他们需要时亚瑟也要同样相助。事情果然如此。他们到来时，英格兰国王还举办了骑术比武与竞技大会为他们庆贺。\n\n庆典结束后的一天夜里，三位国王聚在一起议事，其中定下：由梅林前往法国招募一支军队，带到英格兰北部。\n\n梅林极为隐秘地集结了一万名骑士，连同战马一起装船运往英格兰。他亲自把他们藏在贝德格雷恩森林里，并告知亚瑟。亚瑟大喜，两位法国国王也很高兴。随后众人一同前往藏匿这支雄师的秘密营地。\n\n与此同时，北方的叛军也在备战，围攻贝德格雷恩森林附近的一座城堡。不久，叛军主力便向亚瑟的营地进军……
+it: Nell'accampamento nemico...
+zh: 在敌军营地……
+it: Nel frattempo, nell'accampamento di Artù...
+zh: 与此同时，在亚瑟的营地……
+it: A est, nascosti nel bosco...
+zh: 东边，藏在林中……
+it: Ugualmente nascosti, al margine ovest del bosco...
+zh: 同样藏在林中，在森林西缘……
+it: Trova e distruggi gli esploratori dei ribelli, e inganna l'esercito nemico perché si diriga verso la gola.
+zh: 找到并消灭叛军的斥候，并诱使敌军主力开往峡谷。
+it: Artù, Merlino, Sir Kay, l'Arcivescovo di Canterbury, re Ban, re Bors e Sir Gryfflet devono sopravvivere alla battaglia.
+zh: 亚瑟、梅林、凯爵士、坎特伯雷大主教、班王、波尔斯王和格里弗雷特爵士必须活着打完这一仗。
+it: Se attacchiamo brevemente e poi ci ritiriamo a Sud, il nemico ci seguirà...
+zh: 我们先短促出击，然后向南退，敌人就会跟上来……
+it: Annienta il nemico.
+zh: 歼灭敌人。
+it: Quando Artù venne informato che re Royns del Galles del Nord aveva attaccato re Lodegrange di Camylarde, suo amico, si dispose a portargli aiuto partendo per quelle terre, sconfiggendo al suo passaggio le forze di Royns e liberando re Lodegrange, padre di Ginevra. Dopo questa vittoria i re francesi, che stavano difendendo Benwick dal re Caludas ripresero il cammino verso le proprie terre e Artù tornò a Caerleon.\n\nQueste gesta vennero cantate a lungo dai menestrelli, e le loro narrazioni sarebbero restate immutate se una spia non si fosse introdotta a corte. Con la scusa di consegnare un messaggio Margawse, sposa del Re Lot, rimase per un certo periodo a Caerlon spiando il Re. Artù non sapeva che questa bella donna era per metà sua sorella e peccò corteggiandola e facendole avere un figlio che secondo le profezie di Merlino sarebbe stato la sua rovina.\n\nIntimorito dalla profezia di Merlino, Artù ordinò di imbarcare su una nave tutti i bimbi maschi nati il primo di maggio. Il destino però fece cambiare il vento e la nave naufragò contro una scogliera. Fu una carneficina ma, in mezzo al fragore delle onde, un uomo che si trovava sulla spiaggia, sentì il pianto di un bimbo, l'unico sopravvissuto. Galleggiando su una tavola, quell'infante, poi chiamato Mordred, avrebbe cambiato il corso degli eventi.
+zh: 亚瑟得知北威尔士的瑞恩斯王攻击了他的朋友卡梅利亚德的莱奥德格兰斯王，便准备前去救援，率军开往那片土地，一路击败瑞恩斯的部队，救出了莱奥德格兰斯王——桂妮薇的父亲。此战之后，正在本威克抵御克劳达斯王的两位法国国王启程返回自己的领地，亚瑟也回到卡利昂。\n\n这些功业被吟游诗人唱了很久，若非一名奸细混入宫廷，他们的歌本不会有任何改变。玛高丝以送信为名，在卡利昂逗留了一段时日，暗中窥探国王——她是洛特王的妻子。亚瑟并不知道这位美貌女子是他同父异母的姐姐，他犯了罪：追求她，并与她生下了一个儿子。按梅林的预言，这孩子日后将毁掉他。\n\n亚瑟被梅林的预言吓住了，下令把所有五月一日出生的男婴都装上一条船。可命运改变了风向，船触礁沉没。那是一场屠戮，但在涛声之中，海滩上有个人听见了一个婴孩的哭声——唯一的生还者。那婴儿趴在一块木板上漂浮，日后被人称作莫德雷德，他将改变世事的走向。
+it: Artù ritiene che sia ora che i francesi entrino in battaglia e ha inviato due messaggeri. Attendono i tuoi ordini...
+zh: 亚瑟认为该让法国人投入战斗了，已派出两名传令兵。他们在等你的命令……
+it: Francos
+zh: 法兰克人
+it: Dall'altra parte del fiumiciattolo c'è una città
+zh: 小溪对岸有一座
+it: fantasma dimenticata da tempo. I suoi abitanti si sono destati.
+zh: 被遗忘已久的鬼城。它的居民已经苏醒。
+it: A nord-est del bosco un drago difende gelosamente un tesoro.
+zh: 森林东北方有一条龙，正死死守着一批财宝。
+it: Questi vampiri a nord-est del bosco devono aver annientato un intero esercito.
+zh: 森林东北的这些吸血鬼，一定歼灭过一整支军队。
+it: Questi golem a sud-est del bosco devono aver imprigionato questo arciere in una gabbia.
+zh: 森林东南的这些魔像，准是把这名弓箭手关进了笼子。
+it: Gli strapparono il suo arco magico.
+zh: 他们夺走了他的魔法弓。
+it: Re Artù è morto... e con lui tutte le nostre speranze.
+zh: 亚瑟王死了……我们的希望也随之而逝。
+it: Merlino è morto. Che digrazia!
+zh: 梅林死了。多大的灾难！
+it: L'Arcivescovo giace inerte. Tutto è perduto.
+zh: 大主教倒在地上，气息全无。一切都完了。
+it: Sir Kay è morto in battaglia. È un duro colpo per Artù.
+zh: 凯爵士战死了。这对亚瑟是沉重的打击。
+it: Re Ban è morto... La notizia si diffonderà per tutto il mondo conosciuto.
+zh: 班王死了……这消息会传遍整个已知世界。
+it: Sir Bors è morto. Che disgrazia!
+zh: 波尔斯爵士死了。多大的灾难！
+it: Sir Gryfflet è morto.
+zh: 格里弗雷特爵士死了。
+it: Sir Lyonse è caduto in battaglia.
+zh: 莱昂尼斯爵士战死了。
+it: Sir Phariance è caduto in battaglia.
+zh: 法里安斯爵士战死了。
+it: Sir Ladinas è caduto in battaglia.
+zh: 拉迪纳斯爵士战死了。
+it: Sir Hector è caduto in battaglia.
+zh: 埃克托爵士战死了。
+it: Sir Ulfius è caduto in battaglia.
+zh: 乌尔菲乌斯爵士战死了。
+it: Sir Bawdewyn è caduto in battaglia.
+zh: 鲍德温爵士战死了。
+it: Sir Kaynes è caduto in battaglia.
+zh: 凯恩斯爵士战死了。
+it: Sir Brastias è caduto in battaglia.
+zh: 布拉斯提亚斯爵士战死了。
+it: Sir Lucas è caduto in battaglia.
+zh: 卢坎爵士战死了。
+it: Entrata alla gola di Roughen
+zh: 鲁恩峡谷入口
+it: I nostri uomini sono stati annientati, tutto è perduto.
+zh: 我们的人被歼灭了，一切都完了。
+it: Le masnade ribelli sono state annientate.
+zh: 叛军各部已被歼灭。
+it: I cavalieri di Ban sono morti in battaglia.
+zh: 班的骑士战死了。
+it: I cavalieri di Bors sono morti in battaglia.
+zh: 波尔斯的骑士战死了。
+it: Hanno catturato tutti gli esploratori.
+zh: 他们把所有斥候都抓走了。
+it: Bene signori, abbiamo assediato il castello che abbiamo incontrato ieri ma dobbiamo avanzare giacché l'esercito di Artù si trova a sud, in questo bosco.
+zh: 好，诸位大人，我们围攻了昨天遇上的那座城堡，可我们必须继续前进，因为亚瑟的军队就在南边这片林子里。
+it: Io attaccherei il prima possibile.
+zh: 我会尽早进攻。
+it: Sì, questo moccioso non si aspetta un attacco. Sicuramente pensa che lo attenderemo nel castello.
+zh: 对，这个毛孩子想不到会被袭击。他一定以为我们会在城堡里等他。
+it: Dobbiamo muoverci con cautela, forse sarebbe meglio attaccare da est, c'è più spazio e non avremmo problemi a schierare il nostro esercito in caso ci imbattessimo nella masnada dell'imberbe Artù.
+zh: 我们得小心行事。也许从东边进攻更好：那里更开阔，万一撞上那个没长胡子的亚瑟那帮人，列阵也不成问题。
+it: Sempre meglio che proseguire per questa gola.
+zh: 总比顺着这条峡谷走下去强。
+it: Certo. Questo capraio potrebbe tenderci una trappola.
+zh: 当然。这个牧羊人可能在给我们设陷阱。
+it: Sarebbe meglio allestire anche un piccolo accampamento, si sta facendo notte e le vecchie del posto dicono che il bosco è incantato.
+zh: 最好也搭一个小营地。天要黑了，这一带的老妇人都说林子有邪。
+it: Il re di Carados ha forse paura? Ah, ah, ah.
+zh: 卡拉多斯王难道是害怕了？哈，哈，哈。
+it: Non ho affatto paura, e se continuate a burlarvi di me...
+zh: 我一点也不怕，你要是再取笑我……
+it: Calmi signori. Siamo tutti dalla stessa parte.
+zh: 冷静，诸位大人。我们都在同一边。
+it: Giusto, ciononostante ho inviato degli esploratori verso sud.
+zh: 说得对。尽管如此，我还是往南派了斥候。
+it: Speriamo che non tardino a portarci notizie. Che Dio ci protegga.
+zh: 但愿他们早点带回消息。愿上帝保佑我们。
+it: Bene, signori...\n\ndicci tutto Merlino.
+zh: 好，诸位大人……\n\n梅林，把一切都告诉我们。
+it: Il nemico si trova alla fine della gola che si trova a nord. Un attacco veloce al loro accampamento sarebbe la mossa migliore.
+zh: 敌人在北边峡谷的尽头。对他们的营地来一次快速突击，是最好的打法。
+it: I nostri informatori ci dicono che sono superiori per numero.
+zh: 我们的探子说他们人数占优。
+it: Ma non per bravura.
+zh: 但勇气不如我们。
+it: Forse sarebbe meglio farli procedere nella gola, in questo modo il loro numero non sarebbe più uno svantaggio per noi. Se ci attaccano da est siamo perduti.
+zh: 也许把他们引进峡谷更好，这样他们的兵力优势就不成其为优势了。若他们从东边打来，我们就完了。
+it: Si sta facendo notte...
+zh: 天要黑了……
+it: Allora sarà meglio attaccare il prima possibile, quando ancora sono stanchi per la marcia che hanno dovuto compiere.
+zh: 那就尽早进攻，趁他们行军疲惫还没缓过来。
+it: Sì... e obbligarli a discendere lungo la gola. Ma come possiamo farlo?
+zh: 对……还要逼他们顺着峡谷下来。可怎么才能办到？
+it: Se li provochiamo da dentro la gola, sicuramente la loro sete di sangue gli offuscherà la mente.
+zh: 若我们在峡谷里挑动他们，他们的嗜血之念一定会冲昏头脑。
+it: Sarebbe bene se riuscissimo a catturare i loro esploratori. Probabilmente stanno già venendo qui. Secondo quanto mi è stato riferito si tratta di un piccolo gruppo a cavallo e si trovano nella valle.
+zh: 要是能抓住他们的斥候就好了。他们多半已经在往这边来了。据说是一小队骑兵，就在山谷里。
+it: Allora attacchiamoli.
+zh: 那就打他们。
+it: Fate attenzione, se per disgrazia il nemico fosse più forte di quanto pensassimo, sarebbe più sensato creare un piccolo accampamento sull'altra sponda del fiume, dove abbondano le risorse. Siate cauti, i racconti dei trovatori narrano che il bosco di Bedgrayne è incantato. Quali pericoli ci attenderanno?
+zh: 当心：万一敌人比我们想的强，更稳妥的做法是在河对岸建个小营地，那里资源充足。小心些，吟游诗人的故事里说贝德格雷恩森林有邪。等着我们的会是什么凶险？
+it: Il nostro arcivescovo veglia sempre per la nostra salute e inoltre i nostri amici Galli attendono nascosti fra i due boschi. Al nostro segnale attaccheranno...
+zh: 我们的大主教一直照看着我们的安危；再说，我们高卢的朋友正藏在两片林子之间。听到我们的信号，他们就会出击……
+it: Che nessuno attacchi senza un mio segnale.
+zh: 没有我的信号，谁都不许进攻。
+it: Vediamo se questi inglesi sanno maneggiare le armi.
+zh: 看看这些英格兰人会不会用兵器。
+it: In cosa consiste lo stratagemma di Artù, Maestà?
+zh: 陛下，亚瑟的计策是什么？
+it: Nel far credere al nemico che Artù può contare solo sulle sue truppe. Non appena loro avranno provocato il nemico e avranno attaccato in valle, noi attaccheremo su segnale di Artù.
+zh: 让敌人以为亚瑟只能靠自己的部队。等他们挑动敌人、在山谷里开打，我们就按亚瑟的信号出击。
+it: Che Dio ci dia la forza per combattere.
+zh: 愿上帝赐我们作战的力量。
+it: Non intendi fermarti? Non ne hai abbastanza? È ora di porre fine a questa carneficina. I signori ribelli hanno giurato di non lasciare il campo di battaglia vivi.
+zh: 你还不肯停手？还没打够吗？该结束这场屠杀了。叛乱的贵族们已发誓，绝不活着离开战场。
+it: Sono d'accordo Merlino.
+zh: 我同意，梅林。
+it: Li distruggerò ora.
+zh: 我现在就把他们毁掉。
+it: Mi ritirerò dal campo di battaglia appena possibile e lascerò riposare i miei uomini. Mai prima d'ora così pochi uomini hanno realizzato tante prodezze contro un nemico così potente.
+zh: 我会尽快撤出战场，让部下歇一歇。从来不曾有这么多人立下如此战功，对抗如此强大的敌人。
+it: Ti assicuro che per tre anni questo nemico non ci darà fastidio. Questi undici signori hanno, nei loro territori, più problemi di quanti immaginino. Alcuni saraceni sono sbarcati sulle loro coste saccheggiando e incendiando le loro terre e uccidendo la popolazione. Torniamo a casa...
+zh: 我向你保证，这个敌人三年之内不会来烦我们。这十一位大人在自己的领地上麻烦比他们想的更多。有些撒拉逊人已在他们的海岸登陆，劫掠焚烧他们的土地，屠杀百姓。我们回家吧……
+
+# excalibur e il re artu.wcm::maps/3_a el poder de excalibur
+it: Il potere di Excalibur
+zh: 王者之剑的力量
+it: Artù e Merlino
+zh: 亚瑟与梅林
+it: Malviventi
+zh: 恶徒
+it: Regno 4
+zh: 王国 4
+it: Stregato
+zh: 被施咒者
+it: Mostri
+zh: 怪物
+it: Dama
+zh: 仙女
+it: del Lago
+zh: 湖中
+it: Vascello
+zh: 船
+it: Contadino
+zh: 农民
+it: Un giorno Artù, passeggiando per un bosco nei dintorni di Camelot...
+zh: 有一天，亚瑟在卡美洛附近的林中散步……
+it: La spada di Artù si spezzò in due ed egli venne disarcionato.
+zh: 亚瑟的剑断成两截，他被掀下马来。
+it: Merlino operò una magia contro il cavaliere.
+zh: 梅林对那骑士施了法术。
+it: Una donna si avvicina camminando sulla superficie del lago
+zh: 一个女子踏着湖面走来
+it: Appropriati del vascello vigilato dai mostri e prendi la spada.
+zh: 夺取那群怪物看守的船，拿到那柄剑。
+it: Artù è morto.
+zh: 亚瑟死了。
+it: Mago Merlino è morto
+zh: 法师梅林死了
+it: Artù afferrò delicatamente la spada.
+zh: 亚瑟轻轻握住了那柄剑。
+it: Gli assalitori fuggirono alla vista di Artù.
+zh: 袭击者一见亚瑟就逃走了。
+it: Artù prese la delicatamente la spada, la mano si aprì e poi scomparve nell'acqua. \n\nLa spada riportava incisa la scritta: "Excalibur"
+zh: 亚瑟轻轻取下那柄剑，那只手松开，随后没入水中。\n\n剑身上刻着：「埃克斯卡利伯」
+it: Artù è salito sul vascello...
+zh: 亚瑟上了那条船……
+it: I contadini che attaccarono Merlino sono morti.
+zh: 袭击梅林的农民死了。
+it: Hai annientato gli esseri che proteggevano il vascello.
+zh: 你歼灭了守护那条船的怪物。
+it: Vedi, nonostante la tua magia e la tua scienza ti avrebbero ucciso se non fossi arrivato a salvarti. Forse stai invecchiando.
+zh: 你看，要不是我赶来救你，就算有魔法和学问，他们也早把你杀了。也许你是老了。
+it: So che ti piace pensarlo ma non è così. Tu sei in pericolo più di me e io sono qui per salvarti. Accompagnami.
+zh: 我知道你爱这么想，可并不是这样。你比我更危险，而我来这里就是为了救你。跟我来。
+it: Fermi non potete passare di qui.
+zh: 站住，你们不能从这里过。
+it: Perché vigili su questo cammino e provochi ogni cavaliere che passa?
+zh: 你为什么守在这条路上，向每个过路的骑士挑战？
+it: È una mia abitudine.
+zh: 这是我的习惯。
+it: E io te la farò cambiare.
+zh: 我就要你改掉这习惯。
+it: Fermati, cavaliere! Quest'uomo vale molto più di quanto pensi. Se lo uccidessi apriresti una ferita terribile in tutto il regno.
+zh: 住手，骑士！这个人比你想象的重要得多。你若杀了他，会给整个王国撕开一道可怕的伤口。
+it: Cosa vuoi dire?
+zh: 你什么意思？
+it: L'uomo che stai per affrontare è re Artù.
+zh: 你正要交手的这个人，就是亚瑟王。
+it: L'hai ucciso?
+zh: 你把他杀了？
+it: No, è solo addormentato.
+zh: 没有，他只是睡着了。
+it: È il re Pellinore. Non c'è cavaliere al mondo che lo superi. In futuro ti offrirà ottimi servigi e anche i suoi figli Parsifal e Lamorak.
+zh: 这位是佩里诺尔王。世上没有骑士能胜过他。日后他会为你效力，他的儿子珀西瓦尔和拉莫拉克也会。
+it: Ho perso la mia spada nel corso del combattimento. Cos'è un cavaliere senza spada?
+zh: 我在打斗中丢了剑。没有剑的骑士算什么？
+it: Un re vale più della sua corona e un cavaliere più della sua spada. La sconfitta attende tutti, da qualche parte. Alcuni sono distrutti dalla sconfitta, altri diventano meschini a causa della vittoria. Solo la grandezza vince sulla sconfitta e sulla vittoria.
+zh: 国王比王冠更值钱，骑士比他的剑更值钱。失败总在某处等着每个人。有人被失败摧毁，有人因胜利而变得卑微。只有伟大，才能超越失败与胜利。
+it: Come sempre i tuoi consigli sono ottimi.
+zh: 你的建议一如既往地好。
+it: Per di qua c'è una spada che può diventare tua, se riesco a procurartela. Seguimi...
+zh: 这边有一柄剑可以归你，只要我能替你取到。跟我来……
+it: Guarda, vicino a quell'isolotto emerge un braccio che regge una spada.
+zh: 看，那座小岛附近，水里伸出一条手臂，握着一柄剑。
+it: È quella di cui ti parlavo.
+zh: 就是我跟你说的那柄。
+it: È la Dama del Lago.
+zh: 那是湖中仙女。
+it: Signora, vi prego, parlatemi di questa spada che vedo nel lago. Vorrei averla dato che non ne possiedo una.
+zh: 夫人，请告诉我这湖中之剑的来历。我没有剑，想要它。
+it: La spada è mia, messere, ma potete prenderla. L'unico vascello che si trova da queste parti è custodito da esseri maligni.
+zh: 剑是我的，先生，但你可以取走。这一带唯一的一条船，有邪物看守。
+it: Io ti aiuterò Artù.
+zh: 我来帮你，亚瑟。
+
+# excalibur e il re artu.wcm::maps/3_b el poder de excalibur
+it: Il potere di Excalibur 2
+zh: 王者之剑 2
+it: Terrabic
+zh: 特拉比克
+it: Prigioniero
+zh: 俘虏
+it: Nerone
+zh: 尼禄
+it: Fratello
+zh: 兄弟
+it: Duca
+zh: 公爵
+it: Cladilment
+zh: 克拉德梅斯
+it: Royns
+zh: 瑞恩斯
+it: Libro
+zh: 书
+it: Negromanzia
+zh: 亡灵术
+it: Pioggia
+zh: 火
+it: Fuoco
+zh: 雨
+it: Vita
+zh: 生命
+it: Ipnotizzatore
+zh: 催眠
+it: Mana
+zh: 魔力
+it: Cattura il re Royns e conducilo alle rovine da cui sei partito.
+zh: 俘虏瑞恩斯王，把他带回你出发的那片废墟。
+it: Sir Balin, Sir Balan e Merlino devono sopravvivere.
+zh: 巴林爵士、巴兰爵士和梅林必须存活。
+it: Merlino è morto.
+zh: 梅林死了。
+it: Sir Balin è caduto in battaglia.
+zh: 巴林爵士战死了。
+it: Sir Balan giace morto sul campo di battaglia.
+zh: 巴兰爵士倒在战场上，死了。
+it: Re Royns è stato catturato. Conduciamolo alle rovine da cui siamo partiti.
+zh: 瑞恩斯王已被俘。我们把他带回出发的那片废墟吧。
+it: Grazie alle sue arti magiche Merlino, insieme a re Royns, si trasportò a Camelot per raccontare gli avvenimenti ad Artù che rimase colpito.\n\nNerone, fratello di Royns, stava radunando un esercito per liberarlo e Merlino consigliò di attaccarlo prima che marciasse contro Camelot
+zh: 梅林凭着魔法，带着瑞恩斯王瞬移到卡美洛，把发生的事告知亚瑟。亚瑟大为震动。\n\n瑞恩斯的兄弟尼禄正在集结军队要救他，梅林建议在他向卡美洛进军之前先打他
+it: Artù e il suo esercito sono giunti nei dintorni del castello di Terrabic.
+zh: 亚瑟和他的军队已到特拉比克城堡附近。
+it: Distruggi il castello nemico e Terrabic si piegherà ai tuoi ordini.
+zh: 摧毁敌方城堡，特拉比克就会听命于你。
+it: Nerone è morto in battaglia.
+zh: 尼禄战死了。
+it: Sir Balin, Sir Balan, Merlino, re Pellinore e re Artù devono sopravvivere.
+zh: 巴林爵士、巴兰爵士、梅林、佩里诺尔王和亚瑟王必须存活。
+it: Re Artù è morto. Tutto è perduto.
+zh: 亚瑟王死了。一切都完了。
+it: Avendo distrutto l’accampamento nemico, il castello di Terrabic è caduto nelle tue mani e i suoi contadini sono ai tuoi ordini. Affrettati ad organizzare le difese insieme a loro, dato che sta per sopraggiungere l’esercito di re Lot.
+zh: 敌军营地已被摧毁，特拉比克城堡落到你手里，城里的农民也听你号令。快和他们一起布置防御，洛特王的军队就要到了。
+it: Il castello di Terrabic è alla nostra mercé.
+zh: 特拉比克城堡已任我们处置。
+it: Il castello di Terrabic è ai tuoi ordini. Organizza le difese prima che l’esercito di re Lot e dei suoi alleati giunga in Cornovaglia. Fai presto, hai pochissimo tempo.
+zh: 特拉比克城堡听你号令。在洛特王和他的盟友抵达康沃尔之前布置好防御。快，你时间极少。
+it: L’esercito di re Lot, unitamente alle forze di tutti i nobili ribelli, è sopraggiunto e ha intenzione di assediare il castello di Terrabic per distruggere Artù.\n\nPossiamo solo affidarci a Dio.
+zh: 洛特王的军队连同所有叛乱贵族的兵力已经抵达，打算围攻特拉比克城堡，消灭亚瑟。\n\n我们只能仰赖上帝。
+it: Annienta re Lot e i suoi dieci nobili ribelli. Distruggi tutte le truppe nemiche.
+zh: 歼灭洛特王和他的十位叛王。摧毁所有敌军。
+it: Il ribelle re Nentres è morto in battaglia.
+zh: 叛王南特雷斯战死了。
+it: Il ribelle re di Scozia è morto.
+zh: 叛乱的苏格兰王死了。
+it: Il ribelle re di Carados è morto in battaglia.
+zh: 叛王卡拉多斯战死了。
+it: Il ribelle Duca di Estance è morto.
+zh: 叛乱的埃斯坦斯公爵死了。
+it: Il ribelle re Brandegoris è morto in battaglia.
+zh: 叛王布兰德戈里斯战死了。
+it: Il giovane re ribelle dei Cento Cavalieri è morto in battaglia.
+zh: 年轻的叛王、百骑士之王战死了。
+it: Il ribelle re Clarivaus è morto.
+zh: 叛王克拉伦斯死了。
+it: Il ribelle re Uryens di Gore è morto in battaglia.
+zh: 戈尔地方的叛王乌里恩斯战死了。
+it: Il ribelle re Cradilment è morto.
+zh: 叛王克拉德梅斯死了。
+it: Il ribelle re Anguyshaunce d’Irlanda è morto in battaglia.
+zh: 爱尔兰的叛王安圭斯战死了。
+it: Il ribelle re Lot è morto in battaglia.
+zh: 叛王洛特战死了。
+it: Il re Pellinore è morto in battaglia.
+zh: 佩里诺尔王战死了。
+it: Sono morti tutti i capi ribelli. La vittoria è vicina.
+zh: 叛军首领全部阵亡。胜利在望。
+it: Merlino tornò sul campo di battaglia con Sir Balin e Sir Balan. L’esercitò di Artù arriverà presto...
+zh: 梅林带着巴林爵士和巴兰爵士回到战场。亚瑟的军队很快就到……
+it: IL POTERE DI EXCALIBUR\n\nRe Royns del Galles del Nord infiammava nuovamente le terre di Artù e si era già impossessato dell’Irlanda, distruggendo i raccolti al suo passaggio e sterminando la popolazione. Le spie di Artù testimoniavano che aveva posto sotto assedio il castello di Terrabic, in Cornovaglia.\n\nNessuno sembrava essere in grado di fermarlo finché Sir Balin, un cavaliere disonorato a causa di un crimine mai commesso, col fratello, Sir Balan e il mago Merlino decisero di catturare re Royns. Lo avrebbero condotto a Camelot per ottenere il favore del re e recuperare l’onore perduto.
+zh: 王者之剑的力量\n\n北威尔士的瑞恩斯王再度点燃亚瑟的领土，已夺取爱尔兰，沿途毁掉庄稼、屠杀百姓。亚瑟的探子报称，他已围攻康沃尔的特拉比克城堡。\n\n似乎无人能挡住他，直到巴林爵士——一位因莫须有的罪名蒙羞的骑士——带着他的兄弟巴兰爵士和法师梅林，决定去俘获瑞恩斯王。他们要把瑞恩斯押到卡美洛，以博取国王的恩宠，找回失去的荣誉。
+it: Il destino e la burla di una piccola corte dai bizzarri passatempi, fecero in modo che, invece di ricevere la meritata gloria, Sir Balin e Sir Balan finirono con l’uccidersi l’uno l’altro, senza saperlo, in singolar tenzone. Tuttavia la loro impresa venne ricordata a lungo dato che, grazie a loro, Artù riuscì a terminare il processo di restaurazione del regno attraverso la legge, l’ordine e la forza.\n\nCamelot da questo momento godrà di un periodo di pace.
+zh: 命运，加上一个小宫廷古怪消遣的玩笑，使得巴林爵士与巴兰爵士非但没有得到应得的荣耀，反倒在单打独斗中互不相识地杀死了对方。可他们的功业却长久被人记得，因为正是靠他们，亚瑟才得以凭法律、秩序与武力完成王国的复兴。\n\n从此刻起，卡美洛将享有一段太平岁月。
+it: Capturado
+zh: 被俘
+it: Conduci re Royns alle rovine da cui sei partito.
+zh: 把瑞恩斯王带回你出发的那片废墟。
+it: L’esercito di Artù è stato decimato.
+zh: 亚瑟的军队被打得七零八落。
+it: Tutti gli eroi sono morti.
+zh: 所有英雄都死了。
+it: Terrabic è caduto davanti al nemico.
+zh: 特拉比克已落入敌手。
+it: Hai sconfitto tutti i capi nemici.
+zh: 你击败了敌方所有首领。
+it: Dobbiamo muoverci con cautela. Grazie all’incantesimo che ho lanciato, fra poco sapremo dove si trova re Royns...
+zh: 我们得小心行事。凭我施的咒，很快就能知道瑞恩斯王在哪里……
+it: Umm... è il nostro momento. Royns si è allontanato dall’accampamento accompagnato solo da un gruppo di guardie.
+zh: 嗯……时机到了。瑞恩斯只带了一队卫兵离开了营地。
+it: Catturiamolo e portiamolo qui.
+zh: 抓住他，带到这里来。
+it: Cerchiamo di essere prudenti: il castello di Terrabic è assediato dall’esercito di Royns e potrebbero tenderci un’imboscata in qualsiasi momento.
+zh: 我们得谨慎：特拉比克城堡正被瑞恩斯的军队围攻，他们随时可能设伏。
+it: In questo caso sarebbe meglio se lanciassi un incantesimo sulle vostre armi, ma se lo facessi diminuirei il potere dei miei libri magici e delle mie pozioni. Cosa pensate sia più conveniente?
+zh: 那样的话，我最好给你们的武器施咒；可一旦这么做，我那些魔法书和药水的力量就会减弱。你们看怎么做更划算？
+it: Usa la tua magia sulle nostre armi, le renderai più potenti.
+zh: 用你的魔法加持我们的武器，让我们更强。
+it: Preserva le tue arti magiche, ne avremo bisogno.
+zh: 留着你的法术，我们会用得着。
+it: Così sia.
+zh: 就这样办。
+it: D’accordo.
+zh: 同意。
+it: Ora Royns dovrà rispondere davanti al re Artù.
+zh: 现在瑞恩斯得在亚瑟王面前答话了。
+it: Non appena arriverà l’esercito di re Lot e i suoi nobili ribelli, annienteremo Artù una volta per tutte.
+zh: 等洛特王的军队和他的叛王们一到，我们就把亚瑟彻底碾碎。
+it: Nel frattempo noi attenderemo.
+zh: 这期间我们就等着。
+it: Cavalieri è ora di chiudere la ferita che dissangua il nostro popolo. Oggi Merlino ci ha promesso che la vittoria sarà nostra. Distruggiamo il castello dei nostri nemici prima che sopraggiungano le truppe di re Lot. Abbiamo poco tempo. All’attacco!
+zh: 骑士们，该缝合这道让我们族人流血的伤口了。今天梅林向我们保证胜利必属于我们。在洛特王的部队赶到之前，先毁掉敌人的城堡。我们时间不多。进攻！
+it: Che Dio ci protegga in battaglia.
+zh: 愿上帝在战斗中保佑我们。
+it: Distruggiamo l'indegno re, Artù!
+zh: 让我们毁掉这个不配为王的亚瑟！
+
+# excalibur e il re artu.wcm::maps/4 la hermandad de la mesa redonda
+it: La Confraternita della Tavola Rotonda.
+zh: 圆桌骑士团
+it: Saraceni
+zh: 撒拉逊人
+it: Vichinghi
+zh: 维京人
+it: Soldato
+zh: 士兵
+it: Vichingo
+zh: 维京人
+it: Ginevra
+zh: 桂妮薇
+it: Regina
+zh: 王后
+it: Danimarca
+zh: 丹麦
+it: del Val
+zh: 谷地
+it: Sorleyse
+zh: 索尔莱斯
+it: Longtaynse
+zh: 朗坦斯
+it: Mentre gli uomini di Artù erano accampati...
+zh: 亚瑟的人马正在扎营……
+it: Fuggi con re Artù, la regina Ginevra, Sir Kay, Sir Gryfflet, Sir Gawain e almeno un contadino verso l'altra sponda del fiume Humber.
+zh: 带着亚瑟王、桂妮薇王后、凯爵士、格里弗雷特爵士、高文爵士和至少一名农民，逃到亨伯河对岸。
+it: Annienta i cinque re vichinghi.
+zh: 歼灭五位维京王。
+it: Erigi una cattedrale nel punto in cui erano accampati i tuoi cavalieri e annienta tutti i vichinghi e i mercenari saraceni.
+zh: 在你的骑士们扎营之处建起一座大教堂，并歼灭所有维京人与撒拉逊雇佣兵。
+it: Artù, Sir Kay, Sir Gryfflet, Ginevra e Sir Gawain devono sopravvivere.
+zh: 亚瑟、凯爵士、格里弗雷特爵士、桂妮薇和高文爵士必须存活。
+it: L'abbazia è stata eretta in memoria dei valorosi cavalieri.
+zh: 为纪念勇敢的骑士们，修道院已建成。
+it: Sir Kay è caduto in battaglia.
+zh: 凯爵士战死了。
+it: Hanno assassinato la regina Ginevra.
+zh: 他们刺杀了桂妮薇王后。
+it: Sir Gawain è morto.
+zh: 高文爵士死了。
+it: Re Artù è morto in battaglia.
+zh: 亚瑟王战死了。
+it: LA CONFRATERNITA DELLA TAVOLA ROTONDA\n\nNel corso di una visita al castello del re Lodegrange, Artù s'innamorò perdutamente della di lui figlia, Ginevra.\n\nDesiderava sposarla anche se Merlino lo aveva avvertito che era una scelta sfortunata. Il mago predisse, infatti, che se l'avesse sposata, lei lo avrebbe tradito con il suo miglior amico.\n\nNon dando retta ai consigli del mago, Artù inviò un corteo a chiedere ufficialmente la mano di Ginevra.\n\nIl padre di Ginevra, entusiasta della cosa, diede come dote ad Artù un'enorme tavola rotonda, un vecchio regalo di re Uther Pendragon, padre di Artù, attorno alla quale potevano sedersi centocinquanta persone. Inoltre, Lodegrange inviò insieme alla tavola cento cavalieri perfettamente armati ed equipaggiati perché servissero Artù.\n\nQuindi Artù inviò il suo miglior cavaliere, Sir Lancillotto, a ricevere Ginevra, ma subito si intuì che fra i due era nato qualcosa di più di una semplice amicizia. Tre giorni dopo Artù sposò Ginevra nella chiesa di S. Stefano, la incoronò con una cerimonia favolosa e a corte ci fu una grande festa con molto giubilo.\n\nLa tavola rotonda, dono di nozze, venne collocata in un grande salone del palazzo e Merlino, con le sue arti magiche, vi fece apparire incisi in oro i nomi dei più nobili cavalieri che avevano giurato fedeltà ad Artù. Così nacque la Confraternita della Tavola Rotonda, della quale avrebbero fatto parte i più valorosi e onorevoli cavalieri del regno, in favore della difesa dei più alti ideali della cavalleria.\n\nMa tre posti, a quella tavola, rimasero liberi.\n\nMerlino spiegò che due di essi sarebbero stati per i migliori cavalieri di ogni anno e l'altro sarebbe stato destinato all'uomo più meritevole del mondo. Se qualcuno avesse osato sedersi su quella sedia senza esserne degno, sarebbe stato annientato immediatamente.\n\nNessuno osava occupare la sedia proibita, nemmeno Sir Lancillotto che era considerato il più valoroso e degno fra i cavalieri.\n\nTrascorsero alcuni mesi e il destino fece in modo che Merlino s'innamorasse di Nyneve, una delle damigelle della Dama del Lago che Sir Pellinore aveva condotto a corte. Nyneve amava le magie e con grande astuzia interrogava Merlino sulle sue arti magiche, facendogli capire che gli avrebbe concesso i propri favori in cambio delle sue conoscenze. Il mago, completamente rapito dalla bellezza della giovane, cedette, pur sapendo che lei sarebbe stata la causa della sua rovina.\n\nCosì un giorno Nyneve, grazie alla magia appena appresa, rinchiuse a vita Merlino in una caverna.\n\nNel frattempo Artù, privato della compagnia del suo leale consigliere, ricevette la triste notizia che cinque re vichinghi, con l'appoggio di mercenari saraceni, avevano invaso l'Inghilterra con un formidabile esercito, distruggendo ogni cosa al loro passaggio: terre, uomini, castelli e città.\n\nDecisi a far fronte alla minaccia, il re e la regina partirono per il nord con i vassalli che risiedevano a corte. Giunsero sulle sponde del fiume Humber e lì si accamparono...
+zh: 圆桌骑士团\n\n亚瑟造访莱奥德格兰斯王的城堡时，疯狂地爱上了他的女儿桂妮薇。\n\n他想娶她，尽管梅林警告过他这是一桩不幸的选择。法师确实预言：若娶了她，她将和他最好的朋友一起背叛他。\n\n亚瑟不听法师的劝告，派了一支队伍正式向桂妮薇求婚。\n\n桂妮薇的父亲大喜，把一张巨大的圆桌作为嫁妆送给亚瑟——那是亚瑟的父亲尤瑟·潘德拉贡的旧赠礼，可围坐一百五十人。此外，洛德格兰斯还随桌送来一百名甲胄齐备的骑士，为亚瑟效力。\n\n随后亚瑟派他最好的骑士兰斯洛特去迎接桂妮薇，可很快就看得出，两人之间生出的已不只是友谊。三天后，亚瑟在圣司提反教堂娶了桂妮薇，以盛大的仪式为她加冕，宫廷里举行了极尽欢腾的盛宴。\n\n作为婚礼赠礼的圆桌被安放在王宫的大厅里，梅林以魔法让那些向亚瑟宣誓效忠的最高贵骑士的名字以金字显现在桌面上。圆桌骑士团就此诞生——王国最英勇、最荣誉的骑士都将加入其中，为捍卫骑士道的最高理想而战。\n\n但桌上有三个座位始终空着。\n\n梅林解释说，其中两个留给每年最出色的骑士，另一个则留给世上最配得上的人。若有人不配而坐上去，会立刻被毁灭。\n\n没人敢坐那个禁座，就连被认为最英勇、最配得上骑士之名的兰斯洛特也不敢。\n\n几个月过去，命运让梅林爱上了妮妮薇——湖中仙女的侍从之一，由佩里诺尔爵士带到宫廷。妮妮薇喜爱魔法，极有心计地向梅林请教他的法术，让他明白只要传授知识，她便以身相许。法师被这少女的美貌彻底迷住，明知她将成为自己的劫数，还是让步了。\n\n于是有一天，妮妮薇用刚学会的魔法，把梅林终身囚在一处洞穴里。\n\n与此同时，亚瑟失去了忠实的谋士，又接到噩耗：五位维京王在撒拉逊雇佣兵的支持下，率一支可怕的大军入侵英格兰，所到之处尽数摧毁——土地、人、城堡与城市。\n\n国王与王后决意迎击威胁，带着留在宫廷的封臣北上。他们抵达亨伯河岸，就在那里扎营……
+it: Quando la notizia della nuova vittoria superò le frontiere, i nemici vennero presi dal terrore e quelli che avevano intenzione di attaccare Artù decisero di desistere.\n\nDopo la battaglia il re, come ricompensa degli sforzi di Sir Kay, Sir Gryfflet e Sir Gawain, li ammise a far parte del gruppo dei Cavalieri della Tavola Rotonda.
+zh: 新胜的消息越过边境，敌人闻之丧胆，那些本想攻打亚瑟的人也决定放弃。\n\n战后，国王为酬谢凯爵士、格里弗雷特爵士和高文爵士的出力，准许他们加入圆桌骑士团。
+it: Annienta i vichinghi e i saraceni.
+zh: 歼灭维京人与撒拉逊人。
+it: I tuoi uomini sono stati decimati.
+zh: 你的部下被打得七零八落。
+it: I mercenari saraceni sono stati annientati.
+zh: 撒拉逊雇佣兵已被歼灭。
+it: Tutti i tuoi eroi sono stati annientati.
+zh: 你的英雄全部阵亡。
+it: I vichinghi sono stati annientati.
+zh: 维京人已被歼灭。
+it: Che il Signore ci protegga!
+zh: 愿主保佑我们！
+it: Hai eliminato i re vichinghi.
+zh: 你已除掉维京诸王。
+it: Imboscata!
+zh: 有埋伏！
+it: Presto, prendete le armi!
+zh: 快，拿起武器！
+it: Proteggiamo la regina Ginevra!
+zh: 保护桂妮薇王后！
+it: Grazie ma anch'io so combattere.
+zh: 多谢，可我也会打仗。
+it: Sono troppi, non possiamo trattenerli.
+zh: 他们人太多了，我们挡不住。
+it: Fuggiamo a sud dove ci aspettano alcuni vascelli. I nostri valorosi cavalieri ci copriranno la fuga. Quando saremo sull'altra sponda del fiume ci riorganizzeremo per attaccarli.
+zh: 往南逃，那里有几条船等着我们。我们勇敢的骑士会掩护撤退。等到了河对岸，我们再重整队伍去打他们。
+it: Alcuni contadini dovrebbero accompagnarci, nel caso dovessimo montare un accampamento.
+zh: 该带些农民同行，万一要扎营。
+it: Se Merlino fosse qui... Per fortuna ho almeno Excalibur con me.
+zh: 要是梅林在就好了……幸好我至少还带着王者之剑。
+it: Guardate! I capi vichinghi ci impediscono la ritirata.
+zh: 看！维京人的首领截断了我们的退路。
+it: Cavalcano da soli, senza scorta. Attacchiamoli, prima di salire sulle navi.
+zh: 他们连护卫都没带，就自己骑马来了。上船之前，先打他们。
+it: Quando il nemico vedrà i suoi capi morti si perderà d'animo. Avete combattuto magnificamente. Farò in modo che riceviate una giusta ricompensa.
+zh: 敌人看见首领死了，就会丧胆。你们打得非常出色。我会让你们得到应有的奖赏。
+it: Presto! Il fiume è sorvegliato da navi vichinghe.
+zh: 快！河上有维京人的船在巡守。
+it: Sull'altra sponda del fiume troveremo le risorse necessarie per montare un accampamento da cui attaccare i vichinghi. Il fiume Humber è molto generoso per quanto riguarda la pesca.
+zh: 到了对岸，我们就能找到扎营所需的资源，从那里攻打维京人。亨伯河的鱼获很多。
+it: Vi prometto che erigerò un'abbazia nel punto in cui eravamo accampati, come segno di gratitudine verso i nostri valorosi cavalieri che hanno perso la vita.
+zh: 我向你们保证，我会在我们扎营的地方建一座修道院，以感谢那些献出生命的勇敢骑士。
+it: Artù! Ho condotto qui i migliori cavalieri del regno per salvarti.
+zh: 亚瑟！我把王国最好的骑士带来救你了。
+it: Re Pellinore era accorso in aiuto di Artù ma ormai la battaglia era terminata...
+zh: 佩里诺尔王赶来支援亚瑟，可那时战斗已经结束了……
+
+# excalibur e il re artu.wcm::maps/5 morgana le fay
+it: La fata Morgana
+zh: 莫甘娜仙女
+it: Schiavi
+zh: 奴隶
+it: Animali
+zh: 牲畜
+it: Amici
+zh: 朋友
+it: Strega
+zh: 女巫
+it: Lancillotto
+zh: 兰斯洛特
+it: Creature
+zh: 怪物
+it: Guardiano
+zh: 守卫
+it: Attacco
+zh: 进攻
+it: Difesa
+zh: 防守
+it: Livello
+zh: 等级
+it: Salute
+zh: 生命
+it: Est/questo
+zh: 东土
+it: Galles
+zh: 北威尔士
+it: Morgana
+zh: 莫甘娜
+it: La Fata
+zh: 仙女
+it: Isole
+zh: 外岛
+it: Ewain
+zh: 欧文
+it: Trova e recupera la spada Excalibur.
+zh: 找到并夺回王者之剑。
+it: Trova e libera Sir Lancillotto dal castello di Morgana prima che lei lo uccida.
+zh: 在莫甘娜杀死兰斯洛特爵士之前，找到他并把他从莫甘娜的城堡里救出来。
+it: Non avendo recuperato la spada Excalibur in tempo, i nemici di Artù hanno potuto attaccare e distruggere Camelot.
+zh: 由于没能及时夺回王者之剑，亚瑟的敌人得以进攻并摧毁卡美洛。
+it: Tiempo
+zh: 时间
+it: Sir Ewain e Nyneve sono morti.
+zh: 欧文爵士和妮妮薇死了。
+it: Morgana ha trionfato.
+zh: 莫甘娜得逞了。
+it: Alcuni pipistrelli di Morgana vi hanno scoperto... ora saprà che siete qui.
+zh: 莫甘娜的几只蝙蝠发现了你们……现在她知道你们在这儿了。
+it: Il paese chiamato Le Corna del Diavolo è stato saccheggiato dagli scagnozzi di Morgana.
+zh: 一个叫「恶魔之角」的村庄被莫甘娜的爪牙洗劫了。
+it: Dall'altare del teschio escono dei raggi di sole che uccidono alcuni dei tuoi eroi. I sopravvissuti cadono a terra svenuti e si risvegliano in uno strano luogo...
+zh: 骷髅祭坛射出阳光般的光束，杀死了你的几位英雄。幸存者昏倒在地，醒来时已身处一个陌生的地方……
+it: Provano una strana sensazione... hanno perso gli oggetti che portavano con loro...
+zh: 他们感觉怪异……随身携带的物件都不见了……
+it: Morgana ha operato una magia trasportandosi in un luogo sicuro.
+zh: 莫甘娜施法把自己移到了安全之处。
+it: Hai trovato la spada Excalibur
+zh: 你找到了王者之剑
+it: Bravo! Hai recuperato la spada Excalibur.
+zh: 干得好！你夺回了王者之剑。
+it: Lancilloto è riuscito a scappare scavando una galleria fino al fiume. Questo è certamente il modo migliore per fuggire dal castello. Dobbiamo cercarlo all'interno della galleria perché potrebbe trovarsi in pericolo. Ma prima dobbiamo recuperare la spada Excalibur.
+zh: 兰斯洛特挖了一条通向河边的地道逃了出去。那无疑是逃离城堡最好的路。我们得在地道里找他，他可能有危险。但首先必须夺回王者之剑。
+it: La galleria passava attraverso le segrete del castello, sfociando in un piccolo porto comunicante con il fiume che circondava il castello. I nostri eroi rubano un vascello...
+zh: 地道穿过城堡的地牢，出口是一个与环绕城堡的河流相通的小港口。我们的英雄夺了一条船……
+it: Lungo il fiume, in direzione sud-est, potrai sfuggire all'esercito di Morgana che è già alla tua ricerca. Sembra che anche Lancillotto abbia scelto questa strada con un piccolo vascello.
+zh: 沿河往东南，你就能躲开已在搜捕你的莫甘娜大军。看来兰斯洛特也乘小船走了这条路。
+it: Sir Lancillotto ha fatto naufragio e si trova circondato dagli scagnozzi di Morgana. Liberalo e segui il corso del fiume!
+zh: 兰斯洛特爵士的船沉了，他被莫甘娜的爪牙围住。救出他，然后顺流而下！
+it: Nonostante gli sforzi degli scagnozzi di Morgana, sei riuscito nel tuo intento.
+zh: 尽管莫甘娜的爪牙竭力阻拦，你还是办成了。
+it: Castello di Morgana. Non siete i benvenuti.
+zh: 莫甘娜的城堡。你们不受欢迎。
+it: LA FATA MORGANA\n\nLa fata Morgana, sorellastra di Artù, era una donna misteriosa, attraente e passionale, piena di crudeltà e ambizione. Da giovane, in un convento, aveva appreso l'arte della magia nera e della negromanzia. Ma soprattutto traeva piacere nel piegare gli uomini e sottometterli al suo volere grazie alla bellezza, agli incantesimi e, nel caso non bastassero, col tradimento e l'omicidio.\n\nDa quando Artù era diventato re, Morgana desiderava impossessarsi del suo trono e aveva tentato per ben due volte, per fortuna senza riuscirci, di assassinare il fratellastro.\n\nTimorosa della vendetta di Artù, scappò nei suoi possedimenti nel paese di Gore e, chiusa nel suo inespugnabile castello, pianificò, assieme a tre regine fattucchiere, come eliminare Artù.\n\nUno dei suoi malefici stratagemmi consistette nel rubare Excalibur. E come se non bastasse Sir Lancillotto, uno dei più valorosi cavalieri di Artù, cadde preda delle streghe che lo rinchiusero in un'oscura prigione sotterranea, in attesa di una fine terribile.\n\nSir Ewain, figlio di Morgana e cugino del re, assieme alla fattucchiera Nyneve, che non amava molto Morgana, decisero di recuperare Excalibur e liberare Sir Lancillotto. Non erano soli: alcuni amici stranieri di Sir Ewain li accompagnavano in quest'avventura...
+zh: 莫甘娜仙女\n\n莫甘娜仙女是亚瑟的同父异母姐姐，一个神秘、妖媚而多欲的女子，满心的残忍与野心。年轻时她在修道院里学会了黑魔法与亡灵术。但她最爱的，是用美貌、咒术，必要时用背叛与谋杀，把男人折服、让他们听命于自己。\n\n自亚瑟成为国王起，莫甘娜就想夺取他的王位，曾两次试图刺杀这位弟弟，幸而未成。\n\n她惧怕亚瑟报复，逃回戈尔地方的领地，闭守于攻不破的城堡中，与三位女巫王后一起谋划如何除掉亚瑟。\n\n她的毒计之一，就是偷走王者之剑。更糟的是，亚瑟最英勇的骑士之一兰斯洛特落入了女巫们手中，被关进阴暗的地牢，等着可怕的结局。\n\n莫甘娜的儿子、国王的表弟欧文爵士，与并不喜欢莫甘娜的女巫妮妮薇，决定夺回王者之剑、救出兰斯洛特爵士。他们并不孤单：欧文爵士的一些异乡朋友也一同踏上了这趟冒险……
+it: Ferita nell'orgoglio, Morgana dovette ammettere la sconfitta: Sir Lancillotto era fuggito e Artù si era riappropriato di Excalibur.\n\nTuttavia giurò a se stessa che avrebbe eliminato il fratellastro e tutto quello che lui amava, anche a costo della vita. Possedeva ancora molto potere e lo avrebbe dimostrato al momento opportuno.
+zh: 莫甘娜自尊受损，不得不认输：兰斯洛特爵士逃了，亚瑟也夺回了王者之剑。\n\n但她对自己发誓，一定要除掉这个弟弟和他所爱的一切，哪怕付出性命。她仍握有强大的力量，时机到了便会让人看到。
+it: Lancillotto è riuscito a scappare scavando una galleria fino al fiume. Ora che abbiamo la spada Excalibur, seguiremo questa galleria perchè Sir Lancillotto potrebbe trovarsi in pericolo
+zh: 兰斯洛特挖了一条通向河边的地道逃了出去。现在我们有了王者之剑，就沿这条地道走，兰斯洛特爵士可能有危险
+it: Non provarci... In queste terre bruciate dal sole puoi solo trovare la morte...
+zh: 别试了……在这片被太阳烤焦的土地上，你只能找到死亡……
+it: Hai annientato tutti gli schiavi. Le tue gesta verranno cantate su tutta la Terra.
+zh: 你歼灭了所有奴隶。你的功业将传遍大地。
+it: Perché hai ammazzato le mucche del popolo? Potrai...
+zh: 你为什么要杀百姓的牛？你本可以……
+it: Gli amici di Sir Ewain sono stati annientati dagli scagnozzi di Morgana.
+zh: 欧文爵士的朋友们被莫甘娜的爪牙歼灭了。
+it: Hai sconfitto le streghe malvagie.
+zh: 你击败了邪恶的女巫们。
+it: Sir Lancillotto è morto.
+zh: 兰斯洛特爵士死了。
+it: Hai annientato le creature del castello.
+zh: 你歼灭了城堡里的怪物。
+it: Hai annientato i guardiani del castello.
+zh: 你歼灭了城堡的守卫。
+it: Sir Ewain, i vostri amici non ci saranno di grande aiuto per penetrare nel castello di Morgana. Se almeno l'Arcivescovo di Canterbury avesse potuto aiutarci... Si dice che anche lui sia stato catturato da Morgana con Sir Lancillotto. Speriamo di trovarlo ancora in vita.
+zh: 欧文爵士，你的朋友对潜入莫甘娜的城堡帮不上什么大忙。要是坎特伯雷大主教能帮我们就好了……听说他也和兰斯洛特爵士一起被莫甘娜抓了。但愿他还活着。
+it: Così sia! Qualsiasi aiuto è sempre poco. Andiamo velocemente al castello, non resta molto prima che le streghe uccidano Sir Lancillotto.
+zh: 那就这样！帮手再多也不嫌多。我们快去城堡，女巫们杀死兰斯洛特爵士之前没多少时间了。
+it: Ummm... Mi sembra di ricordare che ad est esista un posto chiamato "Le Corna del Diavolo", dove le leggende dicono si trovi un'entrata segreta per il castello. Potremmo tentare da lì.
+zh: 嗯……我记得东边有个地方叫「恶魔之角」，传说那里有一条通往城堡的密道。我们可以从那儿试试。
+it: Riusciremo certamente a trovare un modo per penetrare nel castello, anche se non scarteremo questa possibilità.
+zh: 我们一定能找到进城堡的办法，不过这条路也不排除。
+it: D'accordo, ma facciamo attenzione, questa terra è pericolosa e piena degli scagnozzi di Morgana.
+zh: 同意，但要当心：这片土地很危险，到处都是莫甘娜的爪牙。
+it: Per favore! Salvatemi! Sir Lancillotto ed io cercavamo di recuperare Excalibur quando le streghe ci hanno teso una trappola. Liberatemi e vi aiuterò.
+zh: 求你！救救我！我和兰斯洛特爵士正要去夺回王者之剑，女巫们给我们设了陷阱。放我出去，我会帮你。
+it: Fuggite da qui... siete in pericolo.
+zh: 快离开这儿……你们有危险。
+it: Qui potrete trovare solo la morte.
+zh: 在这里你们只能找到死亡。
+it: Allontanatevi...
+zh: 走开……
+it: Siete avvisati. State andando incontro alla morte...
+zh: 已经警告过你们了。你们正走向死亡……
+it: È un peccato che dobbiate morire così presto.
+zh: 真可惜，你们这么早就得死。
+it: Vi annienterò tutti.
+zh: 我把你们全灭掉。
+it: Ah, ah, ah...
+zh: 哈，哈，哈……
+it: Così il mio stesso figlio vuole distruggermi... Ah, ah, ah.
+zh: 连我自己的儿子都想毁掉我……哈，哈，哈。
+it: Aiuto! Fatemi uscire da qui...
+zh: 救命！放我出去……
+
+# excalibur e il re artu.wcm::maps/6 el santo grial
+it: Il Santo Graal
+zh: 圣杯
+it: Vampira
+zh: 吸血鬼
+it: Banditi
+zh: 强盗
+it: Tenebroso
+zh: 黑暗
+it: Legna
+zh: 木料
+it: Il Santo
+zh: 圣
+it: Graal
+zh: 杯
+it: Pietra
+zh: 石料
+it: Vescovo
+zh: 主教
+it: Vecchio
+zh: 长者
+it: Parsifal
+zh: 珀西瓦尔
+it: Nel frattempo, gli uomini che trasportavano il Santo Graal e la Sacra Lancia cadevano in un'imboscata...
+zh: 与此同时，运送圣杯与圣枪的人遭到了伏击……
+it: Porta il Santo Graal nella città di Sarras e impedisci che cada nelle mani dei banditi.
+zh: 把圣杯送到萨拉斯城，别让它落到强盗手里。
+it: Sir Bors, Sir Parsifal e Sir Galahad devono sopravvivere.
+zh: 波尔斯爵士、珀西瓦尔爵士和加拉哈德爵士必须存活。
+it: Il Santo Graal è stato distrutto dai banditi... Che Dio abbia pietà di noi!
+zh: 圣杯被强盗毁掉了……愿上帝怜悯我们！
+it: Il valoroso Sir Bors è caduto in battaglia.
+zh: 勇敢的波尔斯爵士战死了。
+it: Sir Parsifal, dopo una sanguinosa battaglia è caduto al suolo inerte.
+zh: 珀西瓦尔爵士在一场血战后倒地不起。
+it: Sir Galahad, barcollante per le ferite mortali subite, ha compiuto la sua ultima impresa.
+zh: 加拉哈德爵士身负致命重伤，摇摇晃晃地完成了最后一次壮举。
+it: Costruisci una cattedrale in cui custodire la reliquia prima che cali la notte.
+zh: 在天黑之前建起一座大教堂来安放圣物。
+it: La reliquia, non protetta, è sparita nell'oscurità della notte.
+zh: 圣物无人守护，消失在夜色之中。
+it: La città di Sarras ha eretto un altare in cui custodire la sacra reliquia e proteggerla dai nemici.
+zh: 萨拉斯城已建起一座祭坛，用来安放圣物、抵御敌人。
+it: Catedral
+zh: 大教堂
+it: Un vascello clandestino salpa da Sarras con un importante carico nella stiva...
+zh: 一条秘密的船从萨拉斯出航，舱里装着重要的货物……
+it: El Santo Grial
+zh: 圣杯
+it: Trova il Santo Graal, recuperalo e riportalo nella città di Sarras.
+zh: 找到圣杯，夺回它，带回萨拉斯城。
+it: Il Santo Graal è stato distrutto... Che Dio abbia pietà di noi!
+zh: 圣杯被毁掉了……愿上帝怜悯我们！
+it: C'è una malvagia regina vampira dietro al furto del Santo Graal.
+zh: 偷走圣杯的幕后，是一位邪恶的吸血鬼女王。
+it: Vampiresa
+zh: 吸血鬼
+it: Uccidendo la regina vampira viene distrutta anche la sua magia liberando dal giogo della schiavitù i suoi scagnozzi.
+zh: 杀死吸血鬼女王，她的魔法也会随之破灭，她的爪牙便能摆脱奴役的枷锁。
+it: Hai recuperato il Santo Graal! Questo è un giorno felice per tutta la Cristianità.
+zh: 你夺回了圣杯！对全体基督教世界来说，这是个喜庆的日子。
+it: Il Santo Graal viene riportato a Sarras.
+zh: 圣杯被送回萨拉斯。
+it: Un carro carico di legna è entrato a Sarras.
+zh: 一辆装满木料的车进了萨拉斯。
+it: Una nave carica di legna è giunta a Sarras.
+zh: 一条装满木料的船抵达了萨拉斯。
+it: Un carro carico di pietra è entrato a Sarras.
+zh: 一辆装满石料的车进了萨拉斯。
+it: Una nave carica di pietra è entrata a Sarras.
+zh: 一条装满石料的船抵达了萨拉斯。
+it: IL SANTO GRAAL\n\nCome predetto da Merlino di fronte a tutti i Cavalieri della Tavola Rotonda, uno dei tre posti che inizialmente non erano stati occupati era destinato al cavaliere più degno e puro del regno, ossia a chi avrebbe trovato il Santo Graal.\n\nLa sua identità sarebbe stata svelata alcuni anni dopo quando, nel giorno della sua ammissione alla Confraternita, apparve il suo nome inciso sulla sedia proibita. Tutti poterono leggere queste parole: Sir Galahad. Effettivamente l'eletto era il figlio di Sir Lancillotto.\n\nCompiendo la missione a cui era destinato, Sir Galahad si mise alla ricerca del Santo Graal, il calice usato da Gesù nell'Ultima Cena.\n\nSecondo le credenze popolari, la reliquia era stata portata da Giuseppe d'Arimatea a Sarras, città in cui il santo visse fino alla morte.\n\nAll'epoca di Artù il Graal era custodito da re Pelles.\n\nQuando Sir Galahad, insieme a Sir Parsifal e Sir Boris, giunsero a Sarras, re Pelles, temendo le intenzioni dei cavalieri, decise di rinchiuderli nei sotterranei del castello. Lì rimasero per più di un anno finché, alla morte del re, vennero liberati e Sir Galahad venne designato nuovo reggente di Sarras...
+zh: 圣杯\n\n正如梅林在全体圆桌骑士面前所预言的，起初空着的三个座位之一，留给王国最配得上、最纯洁的骑士——也就是找到圣杯的人。\n\n他的身份在数年后揭晓：在他被接纳进骑士团的那天，他的名字显现在那个禁座上。众人都读到这样的话：加拉哈德爵士。这位被选中的人，果然是兰斯洛特爵士之子。\n\n加拉哈德爵士履行他注定要完成的使命，踏上寻找圣杯之路——那只耶稣在最后晚餐中用过的杯子。\n\n民间传说，这圣物由亚利马太的约瑟带到萨拉斯，圣人在那座城里住到去世。\n\n亚瑟的时代，圣杯由佩莱斯王守护。\n\n当加拉哈德爵士与珀西瓦尔爵士、波尔斯爵士抵达萨拉斯时，佩莱斯王害怕这些骑士的来意，决定把他们关进城堡的地牢。他们在那里待了一年多，直到国王去世，才被释放，加拉哈德爵士被推举为萨拉斯的新统治者……
+it: Di fronte all'altare costruito come culto e custodia del Santo Graal, apparve un anziano vescovo che pregava inginocchiato.\n\nRivolgendosi a Sir Galahad disse: "Vieni, avvicinati e vedrai quello che tanto desideravi...". Il cavaliere fece quello che gli chiedeva l'anziano e dopo aver visto il Santo Graal in tutto il suo splendore cadde morto e la reliquia scomparve per sempre.\n\nSir Parsifal e Sir Bors, diedero solenne sepoltura a Sir Galahad e Sir Bors si mise in cammino alla volta di Camelot per informare re Artù dell'accaduto.
+zh: 在专为供奉与安放圣杯而建的祭坛前，出现了一位跪着祈祷的老主教。\n\n他对加拉哈德爵士说：「来，走近些，你会看到你如此渴望的东西……」骑士照老人的话做了，在看到圣杯全部的辉煌之后倒地而死，圣物也从此永远消失。\n\n珀西瓦尔爵士和波尔斯爵士为加拉哈德爵士举行了隆重的葬礼，波尔斯爵士随后启程前往卡美洛，把发生的事告知亚瑟王。
+it: I banditi potrebbero rubarci il Santo Graal se non terminiamo in tempo la costruzione della cattedrale.
+zh: 若我们不及时建成大教堂，强盗就可能把圣杯抢走。
+it: Terminiamo velocemente la cattedrale. Rimane poco tempo.
+zh: 我们快些建成大教堂。时间不多了。
+it: Abbiamo giusto il tempo di finire la cattedrale!
+zh: 我们只够刚好建完大教堂的时间！
+it: Hai recuperato il Santo Graal! Certamente nessun capitano di nave accetterà di caricarlo nella stiva per paura di quello che potrebbe succedere al suo bastimento. Dovrai trovare il modo per trasportarlo via terra...
+zh: 你夺回了圣杯！可绝不会有哪个船长肯把它装进舱里，怕自己的船出事。你得想办法从陆路运走它……
+it: El Grial
+zh: 圣杯
+it: La regina vampira con una magia è scomparsa dalla tua vista... Dove sarà?
+zh: 吸血鬼女王施法从你眼前消失了……她会在哪儿？
+it: Sarras è caduta.
+zh: 萨拉斯陷落了。
+it: Hai annientato tutti i maledetti saraceni.
+zh: 你歼灭了所有该死的撒拉逊人。
+it: Hai sconfitto la regina vampira!
+zh: 你击败了吸血鬼女王！
+it: Hai annientato tutti i banditi.
+zh: 你歼灭了所有强盗。
+it: Tutti i tuoi eroi sono morti.
+zh: 你的英雄全部阵亡。
+it: Il Santo Graal è stato distrutto.
+zh: 圣杯被毁掉了。
+it: La città di Sarras è assediata dai banditi.
+zh: 萨拉斯城正被强盗围攻。
+it: Si accingono ad attaccare... Presto, alle armi!
+zh: 他们要进攻了……快，拿起武器！
+it: Preghiamo perché non accada nulla agli uomini che ho inviato alla ricerca delle risorse che ci occorrono per fortificare la città.
+zh: 我们祈祷，愿我派去采集加固城池所需资源的人平安无事。
+it: E poi hanno il Santo Graal... se cadesse nelle mani di questi malfattori...
+zh: 再说他们还带着圣杯……万一落到这些恶人手里……
+it: Il Santo Graal è in salvo a Sarras, almeno per ora.
+zh: 圣杯在萨拉斯是安全的，至少眼下如此。
+it: Sì. Costruiamo al più presto un altare per venerare una reliquia così sacra.
+zh: 对。我们尽快建一座祭坛来供奉这样神圣的圣物。
+it: Questi banditi non molleranno tanto facilmente.
+zh: 这些强盗不会轻易罢手。
+it: Riusciremo a respingerli con rinnovato vigore non appena avremo costruito la cattedrale.
+zh: 等大教堂建成，我们就能以新的力量把他们打回去。
+it: Hanno rubato il Santo Graal! I ladri hanno approfittato di un momento di distrazione per portarcelo via da sotto gli occhi.
+zh: 他们把圣杯偷走了！小偷趁我们一时疏忽，把它从我们眼皮底下拿走了。
+it: Temo che possano essere stati i dannati saraceni del sud-est. Dobbiamo recuperare il Santo Graal a tutti i costi!
+zh: 我担心是东南那些该死的撒拉逊人干的。我们不惜一切也要夺回圣杯！
+it: In nome di Satana, non riuscirete a recuperare il Santo Graal!
+zh: 以撒旦之名，你们夺不回圣杯！
+it: Vieni, avvicinati e vedrai quello che tanto desideravi...
+zh: 来，走近些，你会看到你如此渴望的东西……
+
+# excalibur e il re artu.wcm::maps/7 la traición de sir mordred
+it: Il tradimento di Sir Mordred
+zh: 莫德雷德爵士的背叛
+it: Guardie
+zh: 卫兵
+it: Inquisitore
+zh: 审判官
+it: Amico
+zh: 朋友
+it: di Sir Bors
+zh: 波尔斯爵士的
+it: Carnefice
+zh: 刽子手
+it: Libera Ginevra dalle fiamme prima dell'alba giorno successivo.
+zh: 在次日黎明之前把桂妮薇从火中救出来。
+it: Siamo arrivati tardi: la pira su cui si trova Ginevra è già stata accesa.
+zh: 我们来晚了：桂妮薇脚下的火堆已经点燃。
+it: Il nobile cavaliere Sir Bors è morto in battaglia.
+zh: 高贵的骑士波尔斯爵士战死了。
+it: Sir Lancillotto è stato ferito a morte. La disgrazia incombe su Camelot.
+zh: 兰斯洛特爵士身负致命重伤。灾难将临卡美洛。
+it: Re Artù è morto in battaglia. Tutta a gente per bene si metterà contro di te.
+zh: 亚瑟王战死了。所有正直的人都会与你为敌。
+it: Il valoroso Sir Gawain, fedele ad Artù, si allontana ferito dal campo di battaglia.
+zh: 忠于亚瑟的勇敢的高文爵士负伤离开了战场。
+it: Il codardo Sir Mordred se l'è svignata dalla battaglia.
+zh: 懦弱的莫德雷德爵士从战场上溜走了。
+it: Sir Lancillotto, Sir Bors, la regina Ginevra e re Artù devono sopravvivere.
+zh: 兰斯洛特爵士、波尔斯爵士、桂妮薇王后和亚瑟王必须存活。
+it: IL TRADIMENTO DI SIR MORDRED\n\nLa diaspora della maggior parte dei Cavalieri della Tavola Rotonda e gli intrighi della corte destabilizzarono il regno e causarono la decadenza di Camelot.\n\nSir Mordred, il figlio che Artù aveva avuto da sua sorella Margawse, sposa del re Lot, che era stato riconosciuto da Merlino, sin dalla nascita, come il futuro responsabile della caduta del monarca, era riuscito a far parte della Confraternita.\n\nInsieme al fratellastro Agravain, malvagio come lui e ad altri dodici cavalieri desiderosi di prendere il trono di Artù, Sir Mordred voleva fare in modo che il re scoprisse l'adulterio della sua sposa Ginevra con Sir Lancillotto. Di fronte ad un tale tradimento e secondo i dettami della legge che lui stesso aveva stabilito, Artù avrebbe dovuto imprigionare Lancillotto e condannare al rogo la regina, perdendo così due dei suoi più fedeli alleati.\n\nCome previsto Sir Lancillotto venne sorpreso negli alloggi privati della regina e dovette combattere contro i cospiratori uccidendoli tutti, tranne Sir Mordred che riuscì a fuggire e ad informare il re.\n\nSir Lancillotto scappò alle guardie ma Ginevra venne catturata e condannata al rogo, nonostante la reticenza del re.\n\nI cavalieri della corte si divisero: alcuni difesero Sir Lancillotto mentre altri rimasero dalla parte di Artù.\n\nPassò il tempo e venne il momento di eseguire la condanna a morte della regina ma, quando già la regina era legata alla pira, apparve Sir Lancillotto con un gruppo di cavalieri...
+zh: 莫德雷德爵士的背叛\n\n圆桌骑士大多离散，加上宫廷的阴谋，动摇王国，导致卡美洛衰败。\n\n莫德雷德爵士是亚瑟与他姐姐玛高丝——洛特王之妻——所生的儿子，梅林自他出生起就认定他将造成国王的倾覆。此人已混进了骑士团。\n\n他与同样邪恶的同母兄弟阿格拉文，以及另外十二名觊觎亚瑟王位的骑士合谋，要让国王发现王后桂妮薇与兰斯洛特爵士的私情。面对这样的背叛，按他自己订下的律法，亚瑟将不得不囚禁兰斯洛特、把王后处以火刑，从而失去两个最忠实的盟友。\n\n不出所料，兰斯洛特爵士在王后的私室里被撞见，与密谋者厮杀，把他们尽数杀死，只有莫德雷德爵士逃脱，去禀报国王。\n\n兰斯洛特爵士甩开了卫兵，但桂妮薇被捕并被判火刑，尽管国王并不情愿。\n\n宫廷骑士因此分裂：一些人站在兰斯洛特一边，另一些人留在亚瑟一侧。\n\n时日过去，处决王后的时刻到了。可当王后已被绑上火堆，兰斯洛特爵士带着一队骑士出现了……
+it: Sir Lancillotto si rifugiò in Francia inseguito da re Artù e da Sir Gawain. Quest'ultimo desiderava vendicarsi per la morte dei suoi fratelli, caduti nel combattimento durante il quale Lancilotto aveva liberato Ginevra dalle fiamme.\n\nNel frattempo, approfittando della prolungata assenza di Artù, Sir Mordred sparse per tutto il regno la voce che il re era morto e si autoproclamò erede legittimo della corona d'Inghilterra.
+zh: 兰斯洛特爵士逃往法国，亚瑟王与高文爵士追来。高文要为兄弟们报仇——他们死在兰斯洛特把桂妮薇从火中救出的那场厮杀中。\n\n与此同时，莫德雷德爵士趁亚瑟长久不在，向全王国散布国王已死的消息，自立为英格兰王位的合法继承人。
+it: La regina Ginevra è libera.
+zh: 桂妮薇王后自由了。
+it: Rescate
+zh: 营救
+it: Fuggi con Ginevra fino al termine di uno dei cammini fuori da Camelot.
+zh: 带着桂妮薇逃到卡美洛城外任意一条道路的尽头。
+it: Ginevra viene portata in un luogo sicuro.
+zh: 桂妮薇被送到安全之处。
+it: Non hai lasciato pietra su pietra a Camelot. Sarai ricordato come un assassino.
+zh: 你在卡美洛没留下一块完整的石头。后人会记住你是个凶手。
+it: Tutto il tuo esercito è stato distrutto.
+zh: 你的全军被摧毁了。
+it: Tutti i tuoi amici di Camelot sono morti.
+zh: 你在卡美洛的朋友全部死了。
+it: Hai decimato la popolazione di Camelot! Folle!
+zh: 你把卡美洛的百姓杀得七零八落！疯子！
+it: I cuori di Sir Lancillotto e Artù si spezzano per la morte di Ginevra.
+zh: 兰斯洛特爵士与亚瑟的心因桂妮薇之死而碎裂。
+it: Hai annientato tutte le guardie di Camelot.
+zh: 你歼灭了卡美洛所有的卫兵。
+it: Dobbiamo liberare Ginevra prima dell'alba o le fiamme lambiranno il suo corpo.
+zh: 我们必须在黎明前救出桂妮薇，否则火焰就要舔上她的身体。
+it: Abbiamo poco tempo e metà dei cavalieri della Tavola Rotonda sono dalla tua parte, Sir Lancillotto, l'altra metà invece difende Camelot. Sarà una battaglia fra fratelli.
+zh: 我们时间不多，圆桌骑士有一半站在你这边，兰斯洛特爵士，另一半则守着卡美洛。这将是一场兄弟之间的战斗。
+it: State attenti ad Artù, questa volta Excalibur sarà contro di noi. Ad ogni modo, non uccidete il sovrano. Se dovesse morire, Sir Mordred avrebbe la scusa perfetta...
+zh: 当心亚瑟，这一次王者之剑会对着我们。无论如何，别杀国王。他若死了，莫德雷德爵士就有一个完美的借口……
+it: Come possiamo liberare Ginevra? Camelot è una città ben difesa.
+zh: 我们怎么救出桂妮薇？卡美洛城防坚固。
+it: Potremmo attaccare con una macchina d'assedio. Se dovessimo aver bisogno di altri rinforzi potremmo trovare alcuni mercenari nelle taverne. Inoltre distruggere i ponti sarebbe una buona mossa per assediare la città.
+zh: 我们可以用攻城器械进攻。若还需要增援，可以在酒馆里找到一些雇佣兵。此外，毁掉那些桥也是围城的好棋。
+it: Ummm... È fattibile.
+zh: 嗯……可行。
+it: Potremmo corrompere le guardie, in questo modo arriveremmo a Ginevra. O infiltrare alcune persone travestite.
+zh: 我们可以收买卫兵，这样就能接近桂妮薇。或者派人乔装混进去。
+it: Ho un amico, un mercante di Sarras, che potrebbe aiutarci. È certamente al mercato. Se lo troviamo ci aiuterà.
+zh: 我有个朋友，是萨拉斯的商人，他能帮我们。他一定在市场。找到他，他会帮我们。
+it: Sì, anch'io ho alcune conoscenze a Camelot che potrebbero esserci utili. Ma non credo che sarebbero in grado di strappare Ginevra alle fiamme. Purtroppo però c'è anche chi mi conosce e non esiterebbe a denunciarci. Attenzione alla Santa Inquisizione che si è messa in mezzo e ha deciso di condannare a morte Ginevra a tutti i costi.
+zh: 对，我在卡美洛也有些熟人能派上用场。但我不认为他们能从火里把桂妮薇抢出来。可惜也有人认得我，会毫不犹豫地告发我们。要当心圣审判庭——他们插手了，铁了心要把桂妮薇处死。
+it: Io sono in amicizia con i guardiani della porta nord e credo che ci lasceranno passare.
+zh: 我和北门的守卫有交情，我想他们会放我们过去。
+it: Per guadagnare tempo, potremmo impossessarci di alcuni edifici che potrebbero esserci utili. Nei dintorni della città ci sono persone che potrebbero aiutarci.
+zh: 为争取时间，我们可以夺取一些有用的建筑。城郊有些人能帮我们。
+it: Dio ci assista!
+zh: 愿上帝助我们！
+it: E se utilizzassimo la magia?
+zh: 要是我们用魔法呢？
+it: Questa adultera deve morire tra le fiamme.
+zh: 这个淫妇必须死在火里。
+it: Non posso guardare, Sir Mordred.
+zh: 我看不下去，莫德雷德爵士。
+it: Io nemmeno.
+zh: 我也一样。
+it: Confessa i tuoi peccati, adultera!
+zh: 忏悔你的罪，淫妇！
+it: Il mio nome è Abdul e sono amico di Sir Bors. Vi aiuterò.
+zh: 我叫阿卜杜勒，是波尔斯爵士的朋友。我来帮你们。
+
+# excalibur e il re artu.wcm::maps/8_a el mito de camelot
+it: Il mito di Camelot
+zh: 卡美洛的传说
+it: Dedicato a mia moglie Nuria,\nGrazie per darmi appoggio nei miei sogni.
+zh: 献给我的妻子努里娅，\n谢谢你支持我的梦想。
+it: Traditori
+zh: 叛徒
+it: Mercenari
+zh: 雇佣兵
+it: IL MITO DI CAMELOT\n\nQuando Artù venne informato degli ultimi avvenimenti e di come Mordred aveva usurpato la corona, partì immediatamente per riprendersi il potere.\n\nAlla prima occasione di scontro con le forze di Sir Mordred, Sir Gawain venne ferito mortalmente, ma prima di morire chiese perdono ad Artù per averlo fatto allontanare da Camelot all'inseguimento di Lancillotto, lasciando così il regno al proprio destino e scrisse a quest'ultimo pregandolo di intervenire in favore del re, aiutandolo ad affrontare Sir Mordred e i suoi traditori.\n\nLa notte in cui morì, Sir Gawain apparve in sogno a re Artù avvertendolo del pericolo che avrebbe corso lottando contro Mordred senza l'aiuto di Sir Lancillotto.\n\nDando retta all'avvertimento, il sovrano decise stabilire una tregua con il figlio Mordred, per prendere tempo e permettere a Sir Lancillotto di giungere in Inghilterra.\n\nPer suggellare tale accordo, padre e figlio si diedero appuntamento nella pianura di Salisbury...
+zh: 卡美洛的传说\n\n亚瑟得知近来的变故，以及莫德雷德如何篡夺了王冠，立刻启程去夺回权力。\n\n与莫德雷德的兵力第一次交锋时，高文爵士身负致命重伤。临终前，他请求亚瑟原谅——是他把亚瑟拖离卡美洛去追兰斯洛特，才让王国陷入危局；他还写信给兰斯洛特，恳求他前来援助国王，帮他面对莫德雷德和他的叛徒们。\n\n高文爵士死的那一夜，在梦里出现在亚瑟王面前，警告他：若没有兰斯洛特爵士相助而与莫德雷德交战，将有大危险。\n\n国王听从这个警告，决定与儿子莫德雷德议和，以争取时间，让兰斯洛特爵士赶到英格兰。\n\n为缔结此约，父子约定在索尔兹伯里平原相会……
+it: Sir Mordred si è nascosto in un castello nemico.
+zh: 莫德雷德爵士躲进了一座敌方城堡。
+it: Distruggi tutti i castelli nemici per obbligare Sir Mordred ad affrontarti.
+zh: 摧毁所有敌方城堡，逼莫德雷德爵士与你决战。
+it: Brandita la spada per ammazzare il serpente, l'esercito nemico credette che si trattasse del segnale di guerra e si lanciò con furore in battaglia.
+zh: 拔剑去杀那条蛇时，敌军以为那是开战的信号，狂怒地扑向战场。
+it: L'esercito di re Artù è stato sconfitto. Sir Mordred governerà sull'Inghilterra.
+zh: 亚瑟王的军队被击败了。莫德雷德将统治英格兰。
+it: Hai annientato tutti i traditori della Corona.
+zh: 你歼灭了所有背叛王冠的人。
+it: Hai annientato gli eserciti arabi.
+zh: 你歼灭了阿拉伯军队。
+it: Le masnade orientali sono state decimate.
+zh: 东方的部队被打得七零八落。
+it: Il re è morto, viva re Mordred.
+zh: 国王死了，莫德雷德王万岁。
+it: Firmiamo un accordo di pace.
+zh: 我们缔结和约吧。
+it: Queste sono le condizioni...
+zh: 条件是这样的……
+it: Maledetto serpente, ha morso la zampa del mio cavallo. Lo ucciderò con la mia spada...
+zh: 该死的蛇，它咬了我马腿。我要用剑杀了它……
+
+# excalibur e il re artu.wcm::maps/8_b el mito de camelot
+it: La fine di Camelot
+zh: 卡美洛的终局
+it: Dedicato a mia moglie Nuria,\ngrazie per darmi appoggio nei miei sogni.\n\nAi miei genitori, a mia sorella e alla sua famiglia, \nper tutti i momenti felici.\n\nAl mio compagno d'armi Juanjo,\nnon insistere, che non passerai di livello.\n\nAi fedeli a Tzar, in particolar modo a Runner...
+zh: 献给我的妻子努里娅，\n谢谢你支持我的梦想。\n\n献给我的父母、我的妹妹和她的家人，\n感谢所有快乐的时光。\n\n献给我的战友胡安霍，\n别硬撑了，你过不了这一关的。\n\n献给 Tzar 的忠实玩家，尤其是 Runner……
+it: Bevidere
+zh: 贝德维尔
+it: Confuso e senza castelli in cui rifugiarsi, Sir Mordred guidò il suo esercito nell'ultima battaglia contro Artù. La carneficina fu spaventosa, solo un piccolo gruppo di uomini riuscì a salvarsi...
+zh: 莫德雷德爵士茫然无措，已无城堡可退，便率军与亚瑟进行最后一战。那场屠杀骇人听闻，只有一小队人得以生还……
+it: Batalla
+zh: 战斗
+it: Ferito a morte da Sir Mordred, Artù chiese all'unico cavaliere del suo esercito rimasto in vita, di lanciare la sua spada nel lago...
+zh: 被莫德雷德重伤之后，亚瑟命他军中唯一还活着的骑士把剑投入湖中……
+it: Sir Bevidere la lanciò e vide un braccio che emergeva dalle acque per afferrare la spada e affondare con essa.
+zh: 贝德维尔爵士把剑投了出去，看见一条手臂从水中升起，抓住剑，一同沉了下去。
+it: Il cavaliere portò Artù sulla riva, dove lo attendeva una zattera con tre regine misteriose vestite di nero. La zattera con il re si allontanò sulla superficie del lago e scomparve in lontananza.
+zh: 骑士把亚瑟背到岸边，那里有一只木筏等着他，筏上坐着三位身着黑衣的神秘王后。载着国王的木筏漂向湖面，消失在远方。
+it: Alcuni giorni dopo, Sir Bevidere trovò una tomba in cui era stato sepolto da poco un cavaliere senza nome, portato da tre donne vestite di nero.\n\nImmaginando che si trattasse del corpo di Artù, Sir Bevidere costruì una cappella nelle vicinanze e si dedicò a vigilarla.\n\nQuando Lancillotto giunse con il suo esercito era ormai troppo tardi. Artù era già morto combattendo contro il suo stesso figlio Mordred. Disperato per l'accaduto, si diresse alla cappella di Sir Bevidere e lì visse per il resto dei suoi giorni in solitudine.\n\nGinevra morì di lì a poco e venne sepolta con Artù.\n\nCosì finì il regno di Artù e cominciò la sua leggenda.
+zh: 几天后，贝德维尔爵士找到一座坟墓，里面刚葬下一位无名骑士，是三位黑衣女子送来的。\n\n他猜想那是亚瑟的遗体，便在附近建了一座小教堂，专心守在那里。\n\n等兰斯洛特率军赶到，已经太迟了。亚瑟已经死在与亲生儿子莫德雷德的战斗中。兰斯洛特悲痛欲绝，前往贝德维尔爵士的小教堂，在那里孤独地度过了余生。\n\n桂妮薇不久后也去世了，与亚瑟葬在一起。\n\n亚瑟的统治就此终结，他的传说由此开始。
+it: Sir Bevidere aiuta re Artù a camminare...
+zh: 贝德维尔爵士扶着亚瑟王行走……
+it: Tutti i tuoi uomini sono stati annientati.
+zh: 你的部下全部阵亡。
+it: Sir Mordred è rimasto solo sul campo di battaglia.
+zh: 莫德雷德爵士独自留在战场上。
+it: Artù s'imbarca su una zattera.
+zh: 亚瑟上了一条木筏。
+it: Sir Mordred è morto per mano di Artù ma prima di morire lo ha trapassato con la sua spada.
+zh: 莫德雷德爵士死于亚瑟之手，但临死前用剑刺穿了他。
+it: All'attacco!
+zh: 进攻！
+it: Stai per morire, padre!
+zh: 你要死了，父亲！
+it: Vieni vita, vieni morte!
+zh: 要生要死，来吧！

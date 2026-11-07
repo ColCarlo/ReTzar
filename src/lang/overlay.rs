@@ -53,6 +53,7 @@ const SPANISH: Files = files!("es");
 const POLISH: Files = files!("pl");
 const PORTUGUESE: Files = files!("pt");
 const ITALIAN: Files = files!("it");
+const CHINESE: Files = files!("zh");
 
 fn files(language: Language) -> &'static [(&'static str, Mode, &'static str)] {
     match language {
@@ -63,6 +64,7 @@ fn files(language: Language) -> &'static [(&'static str, Mode, &'static str)] {
         Language::Spanish => &SPANISH,
         Language::Polish => &POLISH,
         Language::Portuguese => &PORTUGUESE,
+        Language::Chinese => &CHINESE,
     }
 }
 /// The files a language lays over a resource of an installation written in
@@ -115,6 +117,13 @@ pub fn merge(original: &[u8], overlay: &str) -> Vec<u8> {
         }
     }
     let mut out = Vec::with_capacity(original.len());
+    // Chinese (and any language whose texts go beyond Windows-1252 and
+    // [`BEYOND`]) cannot be written back as legacy bytes: when a value
+    // needs more, the whole result becomes UTF-8, which [`crate::assets::
+    // legacy_text`] reads back.
+    let utf8 = values
+        .values()
+        .any(|v| v.chars().any(|c| !crate::assets::legacy_char(c)));
     let mut section = String::new();
     for (i, line) in original.split(|&b| b == b'\n').enumerate() {
         if i > 0 {
@@ -140,15 +149,29 @@ pub fn merge(original: &[u8], overlay: &str) -> Vec<u8> {
                 while body.get(keep) == Some(&b' ') {
                     keep += 1;
                 }
-                out.extend_from_slice(&body[..keep]);
-                out.extend_from_slice(&legacy_bytes(value));
+                if utf8 {
+                    out.extend_from_slice(
+                        crate::assets::legacy_text(&body[..keep]).as_bytes(),
+                    );
+                    out.extend_from_slice(value.as_bytes());
+                } else {
+                    out.extend_from_slice(&body[..keep]);
+                    out.extend_from_slice(&legacy_bytes(value));
+                }
                 if cr {
                     out.push(b'\r');
                 }
                 continue;
             }
         }
-        out.extend_from_slice(line);
+        if utf8 {
+            out.extend_from_slice(text.as_bytes());
+            if cr {
+                out.push(b'\r');
+            }
+        } else {
+            out.extend_from_slice(line);
+        }
     }
     out
 }

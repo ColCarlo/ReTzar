@@ -1,0 +1,60 @@
+# Mappe MP1–MP6: i testi della versione americana (Maps/*.wmp del CD),
+# accoppiati per posizione a quelli dell'edizione italiana.
+
+# mp1.wmp::maps/mp1
+it: Sarà un lungo inverno
+zh: 将是一个漫长的冬天
+it: (1 giocatore contro 1)\nUna piccola mappa per giocare 1 contro 1 senza oro né pietre ma con un sacco di sorprendenti risorse.
+zh: 1 对 1 小地图：没有金矿和石料，但初始资源非常丰富。
+it: Regno 1
+zh: 王国 1
+it: Regno 2
+zh: 王国 2
+it: Regno 3
+zh: 王国 3
+it: Regno 4
+zh: 王国 4
+it: Regno 5
+zh: 王国 5
+it: Regno 6
+zh: 王国 6
+it: Regno 7
+zh: 王国 7
+it: Regno 8
+zh: 王国 8
+
+# mp2.wmp::maps/mp2
+it: Non c’è posto per entrambi
+zh: 容不下我们两个
+it: (1 giocatore contro 1)\nUna piccola mappa per 2 giocatori con migliaia di risorse e tre castelli a testa. Troverete enormi quantità di oro e pietre lungo il cammino.
+zh: 双人小地图：资源丰富，每人三座城堡，中央有大量金矿和石料。
+
+# mp3.wmp::maps/mp3
+it: La conquista del mondo
+zh: 征服世界
+it: Un grande continente da conquistare. 4 percorsi e migliaia di risorse nella zona centrale.
+zh: 一片待征服的大陆。四条通路，中央区域有数千资源。
+
+# mp4.wmp::maps/mp4
+it: Ponte vicino
+zh: 近在咫尺的桥
+it: Un’enorme mappa con tantissimi ponti per giocare in squadre di 2 contro 2.
+zh: 一张巨大的地图，遍布桥梁，适合 2 对 2 组队作战。
+
+# mp5.wmp::maps/mp5
+it: È stata scoperta una ricca miniera aurea. Che cominci la febbre dell’oro!
+zh: 发现了一座富金矿。淘金热开始了！
+it: Giocatore
+zh: 玩家
+it: Artù
+zh: 亚瑟
+it: Merlino
+zh: 梅林
+it: Lancillotto
+zh: 兰斯洛特
+
+# mp6.wmp::maps/mp6
+it: L’occupazione
+zh: 占领
+it: (4 giocatori contro 4)\nUna mappa enorme con migliaia di risorse.
+zh: 一张规模极大、资源丰富的地图。

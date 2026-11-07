@@ -15,7 +15,7 @@ pub fn flags() -> &'static [Bitmap] {
     FLAGS.get_or_init(|| Language::ALL.map(flag).to_vec())
 }
 /// The flag of a language: Italy, the United Kingdom, France, Germany,
-/// Spain, Poland, Portugal.
+/// Spain, Poland, Portugal, China.
 pub fn flag(language: Language) -> Bitmap {
     let [w, h] = SIZE;
     let mut out = Bitmap {
@@ -81,7 +81,50 @@ fn colour(language: Language, u: f32, v: f32) -> [u8; 3] {
         Language::Spanish => spain(u, v),
         Language::Portuguese => portugal(u, v),
         Language::English => union(u, v),
+        Language::Chinese => china(u, v),
     }
+}
+
+/// Red, with a great star and four small about it, in the hoist's half.
+/// The stars are made larger than the flag's own measures: at this size the
+/// true ones would be a single pixel each.
+fn china(u: f32, v: f32) -> [u8; 3] {
+    const RED: [u8; 3] = [222, 41, 16];
+    const YELLOW: [u8; 3] = [255, 222, 0];
+    // `x` in units of the height, as the other flags count, so the stars
+    // are round.
+    let x = (u - 0.10) * 1.5;
+    let y = v - 0.30;
+    if in_star(x, y, 0.19) {
+        return YELLOW;
+    }
+    for (sx, sy) in [(0.27, 0.09), (0.35, 0.24), (0.35, 0.44), (0.27, 0.58)] {
+        let (dx, dy) = ((u - sx) * 1.5, v - sy);
+        if in_star(dx, dy, 0.075) {
+            return YELLOW;
+        }
+    }
+    RED
+}
+
+/// Whether `(x, y)`, in units of the flag's height, lies in the
+/// five-pointed star of radius `r` about the origin, a point uppermost.
+fn in_star(x: f32, y: f32, r: f32) -> bool {
+    let inner = r * 0.382;
+    let (mut inside, mut prev) = (false, (0., -r));
+    for k in 1..=10 {
+        let a = -std::f32::consts::FRAC_PI_2 + k as f32 * std::f32::consts::TAU / 10.;
+        let rad = if k % 2 == 1 { inner } else { r };
+        let cur = (rad * a.cos(), rad * a.sin());
+        if (cur.1 > y) != (prev.1 > y) {
+            let t = (y - prev.1) / (cur.1 - prev.1);
+            if x < prev.0 + t * (cur.0 - prev.0) {
+                inside = !inside;
+            }
+        }
+        prev = cur;
+    }
+    inside
 }
 fn thirds(t: f32, colours: [[u8; 3]; 3]) -> [u8; 3] {
     colours[((t * 3.) as usize).min(2)]

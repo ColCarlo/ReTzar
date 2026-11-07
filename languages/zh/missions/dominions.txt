@@ -1,0 +1,639 @@
+# Los Dominios de la Magia (campagna dell'edizione spagnola di FX, assente da quella italiana): traduzione di ReTzar.
+
+# los dominios de la magia.wcm
+it: I Domini della Magia\nIl grande Impero di Arcania è un territorio magico in cui vivono in armonia Umani, Elfi e Nani. I destini di Arcania sono retti da Zoseth, "il Prescelto", la cui sacra missione è preservare la vita dei suoi sudditi e, di conseguenza, l'equilibrio dell'Impero.\n\nTuttavia, un terribile evento farà tornare a rullare i tamburi di guerra. Zoseth, "il Prescelto", è stato assassinato.
+zh: 魔法领地\n大帝国阿尔卡尼亚是一片魔法之地，人类、精灵与矮人在此和睦共处。阿尔卡尼亚的命运由「天选者」佐塞斯执掌，他的神圣使命是保全子民的生命，从而维系帝国的平衡。\n\n然而，一场可怕的事件令战鼓再次擂响。「天选者」佐塞斯被刺杀了。
+
+# los dominios de la magia.wcm::maps/una alianza inesperada
+it: Un'alleanza inattesa
+zh: 意外的同盟
+it: Le truppe di Albinia devono affrontare una nuova minaccia. Kasia, una giovane nobile, bella, fredda, calcolatrice e ambiziosa, cade sotto l'incantesimo di Ignatar quando il malvagio stregone le promette il trono del Consiglio in cambio dell'appoggio del suo temibile esercito.
+zh: 阿尔比尼亚的军队必须面对新的威胁。年轻的贵族卡西亚美丽、冷漠、精于算计又野心勃勃；当邪恶的法师伊格纳塔许诺给她议会的王座，以换取她那支可怕军队的支持时，她落入了他的咒术。
+it: Albinia
+zh: 阿尔比尼亚
+it: Kasia
+zh: 卡西亚
+it: Regno 3
+zh: 王国 3
+it: Tzar 3
+zh: Tzar 3
+it: Kirildur
+zh: 基里尔杜
+it: Regno 8
+zh: 王国 8
+it: Tzar 8
+zh: Tzar 8
+it: Ereder
+zh: 埃雷德
+it: Jaraldur
+zh: 贾拉尔杜
+it: Bandim
+zh: 班迪姆
+it: Skull
+zh: 斯卡尔
+it: Banshee
+zh: 班希
+it: Sconfiggi gli eserciti di Kasia e distruggi i suoi castelli.
+zh: 击败卡西亚的军队，摧毁她的城堡。
+it: Albinia deve sopravvivere.
+zh: 阿尔比尼亚必须存活。
+it: Albinia è morta in battaglia.
+zh: 阿尔比尼亚战死了。
+it: Ereder è caduto ferito in battaglia.
+zh: 埃雷德在战斗中负伤倒下。
+it: Kirildur è caduto ferito in battaglia.
+zh: 基里尔杜在战斗中负伤倒下。
+it: Kasia è caduta gravemente ferita e si ritira dalla battaglia.
+zh: 卡西亚身负重伤，退出了战斗。
+it: Il Consiglio Reale esige invano da Ignatar la restituzione dell'ambito Scettro del Potere. Ebbro di arroganza, Ignatar contrattacca con una sottile manovra. Kasia, una giovane nobile, bella, fredda, calcolatrice e ambiziosa, cade nei suoi inganni quando il malvagio stregone le promette il trono del Consiglio in cambio dell'appoggio del suo temibile esercito.
+zh: 皇家议会徒劳地要求伊格纳塔交还那根令人垂涎的权力权杖。伊格纳塔傲气冲天，以巧妙的一手反击。年轻的贵族卡西亚美丽、冷漠、精于算计又野心勃勃；当邪恶的法师许诺给她议会的王座，以换取她那支可怕军队的支持时，她中了他的圈套。
+it: Kasia cade, ferita nell'animo, vittima della sua stessa ambizione. Nella sua lenta agonia riesce a rivolgersi ad Albinia e, senza un briciolo di pentimento, le confessa uno dei segreti meglio custoditi di Arcania...\n\nSei riuscita a sconfiggermi, Albinia... ma non mi priverai del colpo finale. Per tutto questo tempo il mio signore ha tenuto in vita il tuo vecchio padre con il fermo proposito di farsi rivelare tutti i segreti della Magia Proibita. Ora che ha raggiunto il suo scopo... la vita di Aerus non ha più alcun valore. Ormai nemmeno tutto il potere magico di Arcania potrà fermare Ignatar.\n\nLa confessione di Kasia penetra come un dardo avvelenato nella mente di Albinia, lacerandole tutti i sensi... Aerus è ancora vivo!\n\nTuttavia, l'immagine del padre torturato e umiliato le provoca una sofferenza insopportabile. Forse è già troppo tardi... Senza perdere tempo, parte al galoppo verso le segrete della fortezza di Ignatar. Non è disposta a rinunciare alla possibilità di rivedere suo padre vivo...
+zh: 卡西亚倒下了，心灵受创，成了自己野心的牺牲品。在缓慢的弥留之际，她转向阿尔比尼亚，毫无悔意地说出了阿尔卡尼亚藏得最深的秘密之一……\n\n你打败了我，阿尔比尼亚……但你夺不走我最后的一击。这么久以来，我的主子一直让你那年迈的父亲活着，一心想让他说出禁忌魔法的全部秘密。如今他如愿以偿……埃鲁斯的命就一文不值了。现在，阿尔卡尼亚全部的魔法力量也阻挡不了伊格纳塔。\n\n卡西亚的坦白像一支毒箭刺进阿尔比尼亚的心神，撕裂了她所有的感官……埃鲁斯还活着！\n\n可是，父亲受尽折磨与屈辱的模样让她痛不欲生。也许已经太迟了……她一刻也不耽搁，纵马奔向伊格纳塔要塞的地牢。她不愿放弃再见父亲活着的机会……
+it: Jaraldur è stato ferito.
+zh: 贾拉尔杜受伤了。
+it: Skull è caduto ferito.
+zh: 斯卡尔负伤倒下。
+it: Banshee è stato ferito mortalmente.
+zh: 班希受了致命伤。
+it: Bandim è stato ferito mortalmente.
+zh: 班迪姆受了致命伤。
+it: L'esercito di Albinia ha perso i suoi generali.
+zh: 阿尔比尼亚的军队失去了将领。
+it: Uno degli eserciti di Kasia è stato distrutto.
+zh: 卡西亚的一支军队被消灭了。
+it: Gli eserciti di Kirildur sono stati sconfitti.
+zh: 基里尔杜的军队被击败了。
+it: Un esercito di Kasia è stato sconfitto.
+zh: 卡西亚的一支军队被击败了。
+it: L'esercito di Albinia è stato sconfitto.
+zh: 阿尔比尼亚的军队被击败了。
+it: Uno degli eserciti di Kasia è stato sconfitto.
+zh: 卡西亚的一支军队被击败了。
+it: Che succede? Perché ci fermiamo?
+zh: 怎么了？我们为什么停下？
+it: Avverto una grande concentrazione di magia a nord-ovest.
+zh: 我感觉到西北方有强大的魔法汇聚。
+it: Temo che ci troviamo su un terreno pericoloso.
+zh: 恐怕我们站在了危险的土地上。
+it: Non riesco a riconoscerlo, ma presagisco che si avvicina una battaglia. Prepariamoci a combattere!
+zh: 我看不清，但我预感一场战斗正在逼近。准备迎战！
+it: Affidiamo alle truppe volanti l'esplorazione del terreno. Queste unità sono specializzate nel perlustrare la zona e scovare i nemici nascosti.
+zh: 让飞行部队去侦察地形。这些单位擅长搜索这一带，找出隐藏的敌人。
+it: Indagherò con la mia visione magica, ma tenete gli occhi ben aperti...
+zh: 我会用魔法视觉探查，但你们要睁大眼睛……
+it: Temo di no... Usiamo le nostre truppe volanti per esplorare: sono ottimi esploratori, specializzati nello scovare i nemici nascosti.
+zh: 恐怕不行……用我们的飞行部队去侦察吧：它们是出色的斥候，擅长找出隐藏的敌人。
+it: Le truppe di Kasia sono dalla parte di Ignatar e combattono una terribile battaglia contro le forze di Kirildur. A poco a poco Ignatar si sta impadronendo di tutti i territori dell'Impero. Se non vi poniamo rimedio, questa guerra civile lo renderà il nuovo imperatore. Kirildur non potrà mai sconfiggerlo da solo.
+zh: 卡西亚的军队站在伊格纳塔一边，正与基里尔杜的部队进行一场惨烈的战斗。伊格纳塔正一点点夺取帝国的全部领土。若不加以阻止，这场内战将使他成为新皇帝。基里尔杜独自绝不可能击败他。
+it: Le truppe di Kasia ci attaccano! Facciamole a pezzi. Se aiutiamo Kirildur a vincere questa battaglia, potremo sconfiggere l'esercito di Ignatar.
+zh: 卡西亚的军队在攻击我们！把他们碾碎。若帮基里尔杜打赢这一仗，我们就能击败伊格纳塔的军队。
+it: Finalmente! I miei esploratori mi hanno confermato che le forze di Albinia si avvicinano. Non tutto è perduto...
+zh: 终于！我的斥候已确认阿尔比尼亚的部队正在逼近。一切还没有结束……
+it: All'attacco! La vittoria è nostra! Chi l'avrebbe mai detto... la giovane Albinia è diventata una potente maga. Suo padre sarebbe fiero di lei.
+zh: 进攻！胜利属于我们！谁能想到……年轻的阿尔比尼亚已成了强大的女法师。她父亲会为她骄傲的。
+
+# los dominios de la magia.wcm::maps/el reloj de arena
+it: La clessidra
+zh: 沙漏
+it: Albinia non ha tempo da perdere. Deve trovare suo padre prima che Ignatar raggiunga la fortezza e ponga fine alla sua vita...
+zh: 阿尔比尼亚没有时间可浪费。她必须在伊格纳塔赶到要塞、结束父亲性命之前找到他……
+it: Guardiano
+zh: 守卫
+it: Regno 4
+zh: 王国 4
+it: Tzar 4
+zh: Tzar 4
+it: Regno 5
+zh: 王国 5
+it: Tzar 5
+zh: Tzar 5
+it: Regno 6
+zh: 王国 6
+it: Tzar 6
+zh: Tzar 6
+it: Regno 7
+zh: 王国 7
+it: Tzar 7
+zh: Tzar 7
+it: Aerus
+zh: 埃鲁斯
+it: Veritas
+zh: 维里塔斯
+it: Spada
+zh: 剑
+it: Albinia è morta...
+zh: 阿尔比尼亚死了……
+it: Aerus è morto...
+zh: 埃鲁斯死了……
+it: Trova tuo padre e salvalo prima che Ignatar arrivi alla fortezza.
+zh: 在伊格纳塔赶到要塞之前找到你父亲，救出他。
+it: Albinia e Aerus devono sopravvivere.
+zh: 阿尔比尼亚和埃鲁斯必须存活。
+it: Trova il Guardiano della Spada e strappagliela. L'arma vi mostrerà l'uscita.
+zh: 找到剑之守卫，从他手中夺下那把剑。武器会为你指明出口。
+it: Fuggi dalle segrete attraverso la porta dimensionale.
+zh: 通过次元之门逃离地牢。
+it: L'accesso alla fortezza in cui Aerus è prigioniero è molto protetto. Guardiani magici e creature leggendarie abitano ogni angolo oscuro. Albinia si infiltra in un profondo e pericoloso labirinto di segrete. Non c'è tempo da perdere. Deve trovare suo padre prima che Ignatar raggiunga la fortezza e ponga fine alla sua vita...
+zh: 关押埃鲁斯的要塞入口戒备森严。魔法守卫与传说生物盘踞在每个阴暗角落。阿尔比尼亚潜入一座幽深凶险的地牢迷宫。没有时间可浪费。她必须在伊格纳塔赶到要塞、结束父亲性命之前找到他……
+it: La Spada della Verità ha mostrato ad Albinia e Aerus la via della salvezza. Ma c'è ancora molto da fare. Entrambi si preparano a ricongiungersi con le truppe del Consiglio Reale per dare l'assalto alla fortezza di Ignatar.
+zh: 真理之剑已向阿尔比尼亚和埃鲁斯指明了生路。但还有许多事要做。两人准备与皇家议会的部队会合，强攻伊格纳塔的要塞。
+it: Tempo
+zh: 时间
+it: Non resta molto tempo... Ignatar si trova a tre giorni di cavallo.
+zh: 剩下的时间不多了……伊格纳塔距此有三天的马程。
+it: Mancano solo due giorni all'arrivo di Ignatar alla fortezza...
+zh: 距伊格纳塔抵达要塞只剩两天……
+it: Ignatar arriverà domani con le sue truppe...
+zh: 伊格纳塔明天就会带着军队抵达……
+it: Ignatar è arrivato al castello. Ormai è troppo tardi. Non avete scampo.
+zh: 伊格纳塔已到城堡。现在太迟了。你们无路可逃。
+it: Padre e figlia sono stati sconfitti.
+zh: 父女二人被击败了。
+it: Hai eliminato i guardiani delle segrete.
+zh: 你清除了地牢的守卫。
+it: Albinia, sei viva! Avevo perso la speranza di rivederti... Non sai quanto sono felice di vederti!
+zh: 阿尔比尼亚，你还活着！我已不抱再见到你的希望……你不知道我有多高兴！
+it: Anch'io, padre. Mi sei mancato tanto.
+zh: 我也是，父亲。我很想你。
+it: Raccontami... dove sei stata per tutto questo tempo?
+zh: 跟我说说……这些日子你都在哪儿？
+it: Lo vedi, qua e là... a esercitarmi con qualche incantesimo.
+zh: 你看，东跑西跑……练几个咒语。
+it: Smettila di scherzare... Come hai fatto a sopravvivere?
+zh: 别开玩笑了……你是怎么活下来的？
+it: È una lunga storia. Sono fuggita nel territorio di Kron e mi sono nascosta lì. I miei eserciti e le truppe di Jaraldur mi hanno aiutata a evitare che Ignatar mi catturasse.
+zh: 说来话长。我逃到克罗恩的地界藏了起来。我的军队和贾拉尔杜的部队帮我避开了伊格纳塔的追捕。
+it: Albinia... devo confessarti una cosa. Ignatar mi assicurò di averti catturata. Mi disse che l'unico modo per impedirgli di ucciderti era rivelargli i segreti dei miei incantesimi più potenti... Io resistetti, ma non riuscivo a smettere di pensare a te... Non volevo perderti. Ora Ignatar ha tutto il potere.
+zh: 阿尔比尼亚……有件事我必须向你坦白。伊格纳塔向我发誓说已经抓住了你。他说，唯一能阻止他杀你的办法，就是说出我最强大咒语的秘密……我抵抗过，可我止不住地想着你……我不想失去你。现在伊格纳塔掌握了全部力量。
+it: Non preoccuparti... L'hai fatto per una nobile causa. E non tutto è ancora perduto. Presto! Dobbiamo fuggire!
+zh: 别担心……你是为了高尚的理由。而且一切还没有结束。快！我们必须逃走！
+it: Albinia, dobbiamo trovare il Guardiano della Spada e sconfiggerlo. Solo così potremo trovare l'uscita. La Spada ci mostrerà la via.
+zh: 阿尔比尼亚，我们必须找到剑之守卫并击败他。只有这样才找得到出口。剑会为我们指路。
+it: Magnifico! Ora la Spada ci condurrà all'uscita di questo luogo... Presto! Allontaniamoci da qui il prima possibile.
+zh: 太好了！现在剑会带我们离开这地方……快！尽可能早点儿离开这里。
+it: Non possiamo raggiungere l'isola. Come attraverseremo queste acque?
+zh: 我们到不了那座岛。要怎么渡过这片水？
+it: Siamo fortunati, Albinia. Scorgo una nave in lontananza. Andiamo!
+zh: 我们运气不错，阿尔比尼亚。远处有一条船。走吧！
+
+# los dominios de la magia.wcm::maps/el sacrificio
+it: Il sacrificio
+zh: 牺牲
+it: Le forze di Albinia e le truppe del Consiglio Reale si trovano di fronte alle schiere di Ignatar, in agguato, trincerate sulle colline vicine.\nÈ giunta l'ora della battaglia finale. Il dado è tratto.
+zh: 阿尔比尼亚的部队与皇家议会的军队面对伊格纳塔的大军，对方在附近山丘上扎营设伏。\n决战时刻已到。骰子已经掷下。
+it: Alleanza
+zh: 同盟
+it: Demone
+zh: 恶魔
+it: Ignatar
+zh: 伊格纳塔
+it: Silvanar
+zh: 西尔瓦纳
+it: Grolim
+zh: 格罗利姆
+it: Uno degli esploratori di Albinia ha trovato la via per il labirinto dell'Altare del Potere...
+zh: 阿尔比尼亚的一名斥候找到了通往权力祭坛迷宫的路……
+it: Uno degli esploratori di Albinia ha trovato l'ingresso del labirinto dell'Altare del Potere...\n\nPer molto tempo tutti i grandi maghi hanno cercato il leggendario Altare del Potere. Secondo la leggenda, chi è disposto a offrire la propria vita all'Altare acquisisce poteri magici illimitati. Tuttavia il rischio è alto, perché il mago può cadere in un sonno profondo e irreversibile o perfino morire nel tentativo.\n\nAlbinia sa che l'Altare è l'unica speranza di sconfiggere le forze demoniache di Ignatar. Deve affrettarsi, o tutto sarà perduto.\n\nAttraversare il labirinto non sarà facile. Dovrà trovare la strada giusta a piedi, perché sorvolarlo è impossibile.
+zh: 阿尔比尼亚的一名斥候找到了权力祭坛迷宫的入口……\n\n许久以来，所有伟大的法师都在寻找传说中的权力祭坛。传说中，凡愿把生命献给祭坛的人，都将获得无穷的魔法力量。但风险极高：法师可能陷入无法唤醒的沉睡，甚至在尝试中死去。\n\n阿尔比尼亚知道，祭坛是击败伊格纳塔恶魔大军的唯一希望。她必须赶快，否则一切都将失去。\n\n穿越迷宫并不容易。她只能徒步找出正确的路，因为从空中飞越是行不通的。
+it: Quando Albinia salì fino alla cupola dell'Altare, una luce accecante di energia magica cominciò ad avvolgerla, girando intorno al suo corpo. Mentre la luce girava, il suo corpo era scosso dalla forza dei poteri magici che assorbiva. La sua mente cominciava a comprendere i meccanismi più sottili della magia arcana e della vita. Nell'istante preciso in cui la luce colpì il suo corpo, evocò un grande esercito di draghi e golem. Subito dopo, Albinia si accasciò...
+zh: 当阿尔比尼亚登上祭坛的穹顶，一道刺目的魔法能量之光开始绕着她的身体旋转，将她包裹。光在旋转，她的身体也被吸入的魔法力量震得发抖。她的心智开始领悟奥术与生命最精微的机理。就在光击在她身上的那一刻，她召来了一支由巨龙与魔像组成的大军。片刻之后，阿尔比尼亚倒下了……
+it: Albinia è morta, ogni speranza è perduta...
+zh: 阿尔比尼亚死了，一切希望都已失去……
+it: Distruggi Ignatar e il suo Castello del Male.
+zh: 摧毁伊格纳塔和他的邪恶城堡。
+it: Porta Albinia all'Altare del Potere.
+zh: 把阿尔比尼亚带到权力祭坛。
+it: Jaraldur è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+zh: 贾拉尔杜在战斗中负伤倒下。伊格纳塔的大军把他带进了地牢。
+it: Kirildur è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+zh: 基里尔杜在战斗中负伤倒下。伊格纳塔的大军把他带进了地牢。
+it: Silvanar è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+zh: 西尔瓦纳在战斗中负伤倒下。伊格纳塔的大军把他带进了地牢。
+it: Grolim è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+zh: 格罗利姆在战斗中负伤倒下。伊格纳塔的大军把他带进了地牢。
+it: Ereder è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+zh: 埃雷德在战斗中负伤倒下。伊格纳塔的大军把他带进了地牢。
+it: Aerus è caduto ferito in battaglia. Le schiere di Ignatar lo conducono nelle segrete.
+zh: 埃鲁斯在战斗中负伤倒下。伊格纳塔的大军把他带进了地牢。
+it: Le forze di Albinia e le truppe del Consiglio Reale formano un esercito temibile, disciplinato e molto esperto. La loro superiorità fa presagire una vittoria schiacciante sulle schiere di Ignatar, in agguato, trincerate sulle colline vicine.\n\nTuttavia, non bisogna mai sottovalutare il nemico. È giunta l'ora della battaglia finale. Il dado è tratto.
+zh: 阿尔比尼亚的部队与皇家议会的军队组成了一支令人畏惧的大军，纪律严明、久经战阵。他们的优势预示着一场对伊格纳塔大军的压倒性胜利——那支大军正在附近山丘上扎营设伏。\n\n然而，永远不可低估敌人。决战时刻已到。骰子已经掷下。
+it: Il sacrificio di Albinia salvò Arcania dalla minaccia di Ignatar e delle sue forze demoniache. La sua perdita fu pianta da tutto l'Impero.\n\nLa giovane maga cadde in un sonno eterno. Fu sepolta con tutti gli onori nel mausoleo dei re, nella necropoli di Kisen.\n\nIl suo fedele Jaraldur guidò una crociata contro i fuorilegge e annesse Kron all'Impero. Alla morte di Kirildur fu proclamato per acclamazione re degli Umani.\n\nAlcuni secoli dopo... un uomo dall'aspetto strano scoprì una lastra con iscrizioni che non riuscì a decifrare. A fatica spostò la mole di pietra e, alla luce della sua torcia, vide il corpo inerte di una bellissima donna.\n\nCon mani tremanti srotolò una vecchia pergamena e cominciò a intonare con voce tremula un canto sconosciuto... All'improvviso, la donna aprì gli occhi... Albinia si era appena risvegliata.
+zh: 阿尔比尼亚的牺牲使阿尔卡尼亚免于伊格纳塔及其恶魔势力的威胁。整个帝国都为她的逝去而哀悼。\n\n年轻的女法师陷入了永恒的沉睡。她以全副哀荣葬于王家陵墓，在基森墓地。\n\n忠心的贾拉尔杜率军讨伐匪徒，把克罗恩并入帝国。基里尔杜死后，他被众人拥立为人类之王。\n\n几百年后……一个相貌古怪的人发现了一块刻着他读不懂的文字的石板。他费力地挪开石块，在火把的光下，看见一具极美的女子遗体。\n\n他用颤抖的双手展开一卷旧羊皮纸，以发颤的声音吟唱起一支陌生的歌……突然间，那女子睁开了眼睛……阿尔比尼亚刚刚苏醒。
+it: Albinia ha inviato i suoi migliori esploratori alla ricerca dell'Altare del Potere. Benché l'esercito di Arcania sia potente, forse sarà necessario ricorrere a queste rovine millenarie per combattere il nemico.
+zh: 阿尔比尼亚派出最好的斥候去寻找权力祭坛。虽然阿尔卡尼亚的军队强大，也许仍须借助这些千年遗迹来对抗敌人。
+it: Uno degli eserciti di Arcania è stato sconfitto.
+zh: 阿尔卡尼亚的一支军队被击败了。
+it: I demoni evocati da Ignatar sono stati annientati.
+zh: 伊格纳塔召来的恶魔已被歼灭。
+it: Uno degli eserciti di Ignatar è stato sconfitto.
+zh: 伊格纳塔的一支军队被击败了。
+it: I nostri eserciti sono pronti per la battaglia.
+zh: 我们的军队已准备好出战。
+it: Facciamola finita con Ignatar una volta per tutte.
+zh: 让我们与伊格纳塔彻底了断。
+it: Non sarà così semplice...
+zh: 不会那么容易……
+it: Perché? Le nostre forze superano le sue.
+zh: 为什么？我们的兵力超过他。
+it: Ignatar ora gode di un potere straordinario. Io stesso gli ho insegnato la magia proibita... Credevo che fosse l'unico modo per salvare Albinia... Ignatar ha stretto un patto con forze demoniache e non esiterà a usarle contro di noi...
+zh: 伊格纳塔如今拥有非凡的力量。是我亲自教他禁术的……我以为那是救阿尔比尼亚的唯一办法……伊格纳塔与恶魔势力立了约，他会毫不犹豫地用它们来对付我们……
+it: Non tormentarti, Aerus. Hai agito bene. Ora non ci resta che affrontare Ignatar. Sarà una battaglia cruenta, ma non possiamo fermarci...
+zh: 别自责，埃鲁斯。你做得对。现在我们只能迎战伊格纳塔。这会是一场血战，但不能停下……
+it: Jaraldur ha ragione. Se lo distruggiamo, l'effetto dei suoi incantesimi svanirà e le sue truppe si dissolveranno. Facciamola finita con lui! Per Arcania!
+zh: 贾拉尔杜说得对。若毁掉他，他的咒语就会失效，他的军队也会消散。与他了断吧！为了阿尔卡尼亚！
+
+# los dominios de la magia.wcm::maps/huida en la noche
+it: Fuga nella notte
+zh: 夜遁
+it: Zoseth, "il Prescelto", è stato assassinato. Il malvagio Ignatar, autore del crimine, vuole far credere che il colpevole sia Aerus, stregone dell'Ordine dell'Acqua ed erede naturale di Zoseth. Eliminato Aerus, Ignatar diventerebbe il Prescelto e avrebbe nelle sue mani l'agognato Scettro del Potere.\nTuttavia, qualcun altro è stato testimone del delitto e conosce la verità...
+zh: 佐塞斯「天选者」被刺杀了。犯下此罪的邪恶法师伊格纳塔，想让所有人都相信凶手是水之教团的法师、佐塞斯的当然继承人埃鲁斯。除掉埃鲁斯，伊格纳塔就能成为天选者，把那根垂涎已久的权力权杖握在手中。\n然而，另一个人目睹了凶案，知道真相……
+it: Guardie
+zh: 卫兵
+it: Cittadini
+zh: 市民
+it: Servitù
+zh: 仆役
+it: Laboratorio
+zh: 实验室
+it: Servitore
+zh: 仆从
+it: Studio
+zh: 书房
+it: Grimorio
+zh: 魔法书
+it: Inquisitore
+zh: 审判官
+it: Nel frattempo, alla porta della torre...
+zh: 与此同时，塔门前……
+it: Fuggi dalla torre e porta Albinia in salvo, ai confini della mappa.
+zh: 逃出塔，把阿尔比尼亚带到地图边缘的安全之处。
+it: Il grande Impero di Arcania è un territorio magico in cui vivono in armonia Umani, Elfi e Nani. I destini di Arcania sono retti da Zoseth, "il Prescelto", la cui sacra missione è preservare la vita dei suoi sudditi e, di conseguenza, l'equilibrio dell'Impero.\n\nTuttavia, un terribile evento cambierà il corso della Storia. Zoseth muore avvelenato da Ignatar, stregone dell'Ordine del Fuoco. Questi vuole far credere che il colpevole del delitto sia Aerus, stregone dell'Ordine dell'Acqua ed erede naturale di Zoseth. Eliminato Aerus, Ignatar diventerebbe il Prescelto e avrebbe nelle sue mani l'agognato Scettro del Potere.\n\nIl piano sarebbe perfetto se Albinia, figlia di Aerus, non fosse stata testimone del tradimento. Quando Ignatar la scopre, la giovane apprendista maga fugge per raccontare l'accaduto al padre.\n\nNel frattempo, Ignatar va avanti con i suoi piani. Dopo aver denunciato l'assassinio davanti al Consiglio Reale, irrompe con la sua guardia personale nella torre magica di Aerus con l'intenzione di catturarlo.
+zh: 大帝国阿尔卡尼亚是一片魔法之地，人类、精灵与矮人在此和睦共处。阿尔卡尼亚的命运由「天选者」佐塞斯执掌，他的神圣使命是保全子民的生命，从而维系帝国的平衡。\n\n然而，一场可怕的事件将改变历史的进程。佐塞斯被火之教团的法师伊格纳塔毒死。此人想让所有人都相信凶手是水之教团的法师、佐塞斯的当然继承人埃鲁斯。除掉埃鲁斯，伊格纳塔就能成为天选者，把那根垂涎已久的权力权杖握在手中。\n\n若阿尔比尼亚——埃鲁斯的女儿——没有目睹这场背叛，这计策本可天衣无缝。伊格纳塔发现她时，这位年轻的法师学徒逃走了，要去把一切告诉父亲。\n\n与此同时，伊格纳塔继续推行他的计划。他向皇家议会告发这桩凶案后，带着私人卫队闯进埃鲁斯的魔法塔，打算把他拿下。
+it: SUGGERIMENTI:\n\nStudia gli incantesimi dei libri di magia (Ctrl+clic destro sul libro). Potrai usarli con il tuo mana.\n\nTrova la pozione in cantina e bevila. Aumenterà il tuo mana e potrai lanciare gli incantesimi più rapidamente. (Per berla subito fai Ctrl+clic destro sulla pozione. Se ce l'hai già nell'inventario, selezionala con il tasto sinistro del mouse e fai di nuovo clic sinistro sul personaggio.)\n\nEsistono molti modi per fuggire vivi dalla torre. I libri di incantesimi che troverai ti saranno di grande aiuto.
+zh: 提示：\n\n研读魔法书里的咒语（Ctrl+右键点击书）。之后你就能用自己的魔力施放它们。\n\n找到地窖里的药水并喝下。它会提升你的魔力，让你更快地施法。（要立刻喝下，Ctrl+右键点击药水。若它已在你的行囊中，用左键选中它，再左键点击角色。）\n\n活着逃出塔有很多办法。你找到的咒语书会大有用处。
+it: Aiuto
+zh: 援助
+it: Consulta spesso i tuoi obiettivi. Troverai alcuni consigli utili.
+zh: 常查看你的目标。你会在那里找到一些有用的建议。
+it: Aerus cerca invano di fermare Ignatar e i suoi soldati. Gravemente ferito, viene fatto prigioniero e accusato dell'assassinio di Zoseth. Il Consiglio Reale lo condanna a morte. Giustiziato Aerus, i diritti di successione stabiliscono che lo Scettro del Potere passi a Ignatar. La sua cospirazione ha avuto successo...\n\nInvestito dell'autorità, un solo pensiero gli attraversa la mente: eliminare Albinia, l'unica persona che conosce il suo oscuro segreto.
+zh: 埃鲁斯徒劳地试图挡住伊格纳塔和他的士兵。他身受重伤，被俘并被控谋杀佐塞斯。皇家议会判他死刑。埃鲁斯一死，按继承法，权力权杖便归伊格纳塔。他的阴谋得逞了……\n\n大权在握，一个念头闪过他的脑海：除掉阿尔比尼亚——唯一知道他黑暗秘密的人。
+it: Albinia è stata catturata. Le sue grida d'aiuto si perderanno nelle profondità delle segrete di Ignatar.
+zh: 阿尔比尼亚被俘了。她的呼救声将消失在伊格纳塔地牢的深处。
+it: La guardia personale di Ignatar è stata annientata.
+zh: 伊格纳塔的私人卫队已被歼灭。
+it: La torre è stata distrutta.
+zh: 塔被摧毁了。
+it: Non è rimasto nessuno ad aiutarti...
+zh: 再没有人能帮你了……
+it: Prima che tu potessi sconfiggerlo, Ignatar ha lanciato un incantesimo ed è svanito...
+zh: 你还没来得及击败他，伊格纳塔就施法消失了……
+it: Aerus è stato catturato da Ignatar e dalla sua guardia personale.
+zh: 埃鲁斯被伊格纳塔和他的私人卫队抓走了。
+it: Non lo so, figlia mia. Non lo so... Ho sempre sospettato di Ignatar, ma non avrei mai immaginato che la sua ambizione arrivasse a tanto. Non c'è dubbio che voglia tutto il potere di Arcania... Devo fermarlo.
+zh: 我不知道，我的女儿。我不知道……我一直怀疑伊格纳塔，却从没想到他的野心会到这种地步。毫无疑问他想得到阿尔卡尼亚的全部权力……我必须阻止他。
+it: Perché non convochiamo i Maestri degli Ordini Magici e il Consiglio Reale per raccontare loro quello che è successo? Dobbiamo fare qualcosa!
+zh: 为什么不召集各魔法教团的大师和皇家议会，把发生的事告诉他们？我们总得做点什么！
+it: Forse è troppo tardi, figlia mia. Sento che Ignatar in persona si sta avvicinando... Viene a prenderci. Presto! Devi fuggire. Solo tu e io conosciamo la verità e devi sopravvivere per rivelarla. Nel frattempo, io mi occuperò di Ignatar.
+zh: 也许太迟了，我的女儿。我感觉到伊格纳塔本人正在逼近……他是来抓我们的。快！你必须逃走。只有你和我知道真相，你必须活下来揭穿它。这期间，我来对付伊格纳塔。
+it: Stai attento, padre.
+zh: 小心，父亲。
+it: Non temere per me. Saprò difendermi. Corri, Albinia, corri!
+zh: 别为我担心。我能自保。跑吧，阿尔比尼亚，快跑！
+it: ...Padre, è stato orribile. Ho visto Ignatar versare una pozione nel calice sacro. Zoseth ne ha bevuto un sorso ed è crollato a terra fulminato... Ho cercato di nascondermi, ma Ignatar mi ha scoperta. Che cosa succederà adesso, padre?
+zh: ……父亲，太可怕了。我看见伊格纳塔往圣杯里倒了药水。佐塞斯喝了一口，就像被雷击中一样倒在地上……我想躲起来，可伊格纳塔发现了我。现在会怎么样，父亲？
+it: Siamo arrivati in tempo. Quel vecchio di Aerus non ha nemmeno piazzato i suoi arcieri sulle mura. Ricordate... lo voglio vivo! E non preoccupatevi di sua figlia... avremo tempo per occuparci di lei.
+zh: 我们来得正是时候。埃鲁斯那个老家伙连弓箭手都没派上城墙。记住……我要活的！别管他女儿……以后有的是时间收拾她。
+it: Padre!!!
+zh: 父亲！！！
+it: Fuggi, figlia mia! Non lasciare che ti catturino...
+zh: 快跑，我的女儿！别让他们抓住你……
+it: Devo fuggire... ma come? Ignatar blocca l'uscita... Pensa, Albinia, pensa... In cantina tengo una pozione per accrescere i miei poteri magici... e di sicuro sullo scaffale troverò qualche libro di incantesimi. Devo andare nel laboratorio e nello studio. Mio padre era solito nascondere lì alcuni oggetti magici. Non ho tempo da perdere!
+zh: 我必须逃走……可怎么逃？伊格纳塔封住了出口……想想，阿尔比尼亚，想想……地窖里我存着一瓶增强法力的药水……书架上肯定也能找到几本咒语书。我得去实验室和书房。父亲以前常把一些魔法器物藏在那里。没时间可浪费了！
+it: Per lo scettro di Zoseth! Ci attaccano! Chiudete le porte! Presto!
+zh: 以佐塞斯的权杖起誓！他们攻过来了！关上大门！快！
+it: Sono le truppe di Ignatar e la sua guardia personale! Ma perché ci attaccano?
+zh: 是伊格纳塔的军队和他的私人卫队！可他们为什么攻击我们？
+it: Ho sempre saputo che eri un traditore, Ignatar. Ma non avrei mai immaginato che fossi così vigliacco.
+zh: 我一直知道你是叛徒，伊格纳塔。但我从没想到你如此卑鄙。
+it: Anch'io sono lieto di vederti, Aerus. Sembra che la tua cara figlia non abbia perso tempo... Peccato che non vi siate accorti prima che Arcania non ha bisogno di voi. Né di te né di Zoseth. Solo io posso garantire la prosperità del nostro popolo. E il nostro popolo me ne sarà grato. Guardie, prendetelo!
+zh: 我也很高兴见到你，埃鲁斯。看来你女儿一点没耽误……可惜你们没早点明白，阿尔卡尼亚不需要你们。既不需要你，也不需要佐塞斯。只有我能保证我们子民的兴旺。而我们的子民会为此感谢我。卫兵，拿下他！
+it: Il mio incantesimo dei Fulmini potrebbe neutralizzarli o, se sono numerosi, la Pioggia di fuoco dovrebbe bastare a fermarli, anche se può rivelarsi un incantesimo pericoloso.
+zh: 我的闪电咒可以制服他们；若他们人多，火雨应该足以挡住他们，尽管那可能是个危险的咒语。
+
+# los dominios de la magia.wcm::maps/acorralada
+it: Accerchiata
+zh: 被围
+it: Il potente esercito di Arcania stringe il cerchio attorno ad Albinia. Comandato da Grolim, re dei Nani, e da Silvanar, re degli Elfi, si prepara all'assedio definitivo nella Gola della Morte.
+zh: 阿尔卡尼亚的强大军队把阿尔比尼亚越围越紧。这支军队由矮人之王格罗利姆与精灵之王西尔瓦纳统领，正准备在死亡峡谷发起最后的围攻。
+it: Maghi
+zh: 法师
+it: Elfi
+zh: 精灵
+it: Nani
+zh: 矮人
+it: Resisti nell'accampamento finché l'esercito di golem non arriverà in tuo aiuto. Albinia deve sopravvivere.
+zh: 在营地坚守，直到魔像大军前来救你。阿尔比尼亚必须存活。
+it: Approfitta dell'arrivo del tuo esercito per fuggire con Albinia fino all'estremità nord del canyon.
+zh: 乘你的军队到来之机，带阿尔比尼亚逃到峡谷最北端。
+it: Albinia è morta.
+zh: 阿尔比尼亚死了。
+it: Il potente esercito di Arcania stringe il cerchio attorno ad Albinia. Comandato da Grolim, re dei Nani, e da Silvanar, re degli Elfi, si prepara all'assedio definitivo nella Gola della Morte.\n\nAlbinia dispone soltanto di un piccolo gruppo di guerrieri indeboliti dai continui combattimenti. La sua unica speranza è resistere finché il grosso del suo esercito, a diversi giorni di marcia, non verrà in suo soccorso.
+zh: 阿尔卡尼亚的强大军队把阿尔比尼亚越围越紧。这支军队由矮人之王格罗利姆与精灵之王西尔瓦纳统领，正准备在死亡峡谷发起最后的围攻。\n\n阿尔比尼亚手下只有一小队被连番苦战拖垮的战士。她唯一的希望是坚守下去，等她那支尚需数日路程的主力大军前来救援。
+it: Dopo diversi giorni di eroica resistenza, Albinia vede le sue schiere rompere l'assedio e fare prigionieri Silvanar e Grolim. Incatenati, vengono condotti davanti alla giovane e, in sua presenza, non esitano ad accusare lei e suo padre di aver tradito la causa di Arcania.\n\nAlbinia non riesce a reprimere l'odio nello sguardo e, in un impeto d'ira, impugna il pugnale pronta a ucciderli, ma Jaraldur la ferma.\n\n"Mia signora, portiamoli all'Oracolo della Verità. Le acque del suo pozzo mostreranno loro la verità."\n\nSilvanar e Grolim vedono riflessa nelle acque cristalline dell'Oracolo la morte di Zoseth per mano di Ignatar. In preda a un misto di indignazione e di rammarico, presentano le loro scuse ad Albinia e, senza indugio, inviano un messaggero a Kirildur, re degli Umani.\n\nRicevuta la pergamena che rivela la verità, Kirildur chiama alle armi le truppe del Consiglio Reale di Arcania.\n\nNel frattempo, Albinia e il suo esercito si dirigono verso i domini di Ignatar per impedirgli di ritirarsi nella sua fortezza.
+zh: 苦守数日之后，阿尔比尼亚看到自己的大军打破围困，擒下了西尔瓦纳与格罗利姆。他们戴着镣铐被押到年轻的她面前，当着她的面毫不迟疑地指控她和她父亲背叛了阿尔卡尼亚的事业。\n\n阿尔比尼亚抑不住眼中的恨意，一怒之下抓起匕首就要取他们性命，贾拉尔杜拦住了她。\n\n「夫人，把他们带到真理神谕去吧。井中之水会让他们看到真相。」\n\n西尔瓦纳与格罗利姆在神谕清澈的水中看到，佐塞斯是死在伊格纳塔手上。他们既愤慨又悔恨，向阿尔比尼亚致歉，并立刻遣使去见人类之王基里尔杜。\n\n读到揭示真相的羊皮卷，基里尔杜召集起阿尔卡尼亚皇家议会的军队。\n\n与此同时，阿尔比尼亚和她的军队开向伊格纳塔的领地，阻止他退回要塞。
+it: Bandim è stato ferito in battaglia.
+zh: 班迪姆在战斗中受伤了。
+it: Banshee è stato ferito in battaglia.
+zh: 班希在战斗中受伤了。
+it: Jaraldur è stato ferito in battaglia.
+zh: 贾拉尔杜在战斗中受伤了。
+it: Skull è stato ferito in battaglia.
+zh: 斯卡尔在战斗中受伤了。
+it: Le truppe di Albinia si avvicinano. Sono a solo mezza giornata di marcia.
+zh: 阿尔比尼亚的部队正在逼近。他们只有半天路程了。
+it: Le truppe di Albinia stanno per arrivare. Dobbiamo resistere solo un altro po'!
+zh: 阿尔比尼亚的部队就要到了。我们只要再坚持一会儿！
+it: Le tue schiere sono state sconfitte.
+zh: 你的大军被击败了。
+it: Le truppe di Grolim e Silvanar sono state sconfitte.
+zh: 格罗利姆和西尔瓦纳的部队被击败了。
+it: Hai sconfitto gli elfi.
+zh: 你击败了精灵。
+it: L'avanguardia di elfi e nani è stata sconfitta.
+zh: 精灵与矮人的先锋被击败了。
+it: Tutti i traditori sono stati giustiziati.
+zh: 所有叛徒都已被处决。
+it: Correte!
+zh: 快跑！
+it: Mia signora, se attraversiamo la Gola della Morte avremo una possibilità.
+zh: 夫人，若我们穿过死亡峡谷，就还有一线机会。
+it: Non mi piace affatto: potremmo restare bloccati tra due fronti e sarebbe la nostra rovina.
+zh: 我一点也不喜欢这主意：我们可能被困在两面夹击之中，那就全完了。
+it: Non abbiamo scelta. Dobbiamo tentare, o le truppe di Arcania ci annienteranno...
+zh: 我们别无选择。必须一试，否则阿尔卡尼亚的军队会把我们歼灭……
+it: Maledetti elfi...
+zh: 该死的精灵……
+it: Guardate! In lontananza si scorge un accampamento...
+zh: 看！远处能看到一处营地……
+it: Siamo arrivati tardi. Avverto una grande concentrazione di magia in fondo al canyon. Sono le truppe di Arcania... Ci hanno sbarrato la strada.
+zh: 我们来晚了。我感觉到峡谷尽头有强大的魔法汇聚。是阿尔卡尼亚的军队……他们堵住了我们的路。
+it: Non sono disposto a morire in queste terre inospitali. Se raggiungiamo l'accampamento potremo organizzare la difesa e ricostruire le mura con l'aiuto degli abitanti. Avanti!
+zh: 我不愿死在这片荒凉之地。若能到达营地，我们就能组织防御，借村民之力重修城墙。前进！
+it: Il mio esercito di golem si trova a un giorno di marcia. Se resistiamo fino ad allora, avremo ancora un'ultima possibilità.
+zh: 我的魔像大军还有一天路程。若坚持到那时，我们还有最后一次机会。
+it: Le mie schiere sono arrivate! Sapevo che avrebbero sfondato le linee nemiche schierate a nord. Silvanar e Grolim sono rimasti intrappolati tra due fronti. Non lascerò impunito il loro tradimento... Vendetta!
+zh: 我的大军到了！我就知道他们会突破北面布阵的敌军防线。西尔瓦纳和格罗利姆被困在两面夹击之中。我不会让他们的背叛不受惩罚……复仇！
+
+# los dominios de la magia.wcm::maps/desde las filas de los proscritos
+it: Tra le file dei fuorilegge
+zh: 混迹亡命徒
+it: La lotta disperata di Aerus non era stata inutile. Grazie alla resistenza del padre, Albinia ebbe il tempo di fuggire viva.\nBollata come maga rinnegata, disprezzata e perseguitata, Albinia vaga fino a raggiungere Kron, cupo rifugio di banditi e fuorilegge.
+zh: 埃鲁斯的拼死抵抗并非白费。靠着父亲的坚持，阿尔比尼亚才得以活着逃走。\n被指为叛教的女法师，遭人唾弃、追捕，阿尔比尼亚四处流浪，终于到了克罗恩——强盗与亡命徒的阴暗避难所。
+it: Ladri
+zh: 盗贼
+it: Predoni
+zh: 掠夺者
+it: Seguaci
+zh: 追随者
+it: Borgo
+zh: 村落
+it: Capo
+zh: 首领
+it: Libro delle
+zh: 暗影之
+it: Ombre
+zh: 书
+it: Mentre Albinia e due fedeli servitori di suo padre riposavano...
+zh: 当阿尔比尼亚和父亲的两名忠心仆从在休息时……
+it: Elimina i banditi e conquista il loro covo.
+zh: 消灭强盗，夺取他们的巢穴。
+it: Le tue arti magiche ti hanno permesso di sconfiggere i banditi che avevano assalito il villaggio. Tuttavia, il pericolo è in agguato. Il territorio è sotto il dominio di due potenti bande di fuorilegge.\n\nTrova i loro covi e sconfiggi il loro capo. Si uniranno ai tuoi uomini o pagheranno con la vita.
+zh: 你的魔法本领让你击败了袭击村庄的强盗。然而危险仍在潜伏。这片土地被两伙强大的亡命徒占据。\n\n找到他们的巢穴，击败他们的首领。他们要么加入你的人，要么以命相偿。
+it: Sconfiggi il capo delle due bande di fuorilegge e i suoi uomini si metteranno ai tuoi ordini. È una buona idea usare gli abitanti del villaggio per procurarti nuove risorse e reclutare un piccolo gruppo di maghi. Ricorda: nella magia sta la vittoria.
+zh: 击败两伙亡命徒的首领，他的人就会听你号令。用村里的人为你采集新资源、招募一小队法师是个好主意。记住：胜利在于魔法。
+it: Una mattina, un vecchio stregone avvicina Albinia per raccontarle dell'esistenza dell'Altare del Teschio. La leggenda narra che queste rovine millenarie custodiscono il Libro delle Ombre, una raccolta degli incantesimi più potenti. Con il libro in suo possesso, Albinia diventerebbe una maga temibile e sarebbe in grado di sfidare lo stesso Jaraldur.
+zh: 一天早晨，一位老法师走近阿尔比尼亚，向她讲述骷髅祭坛的存在。传说这些千年遗迹中藏着暗影之书，一部最强大咒语的合集。若得到此书，阿尔比尼亚将成为令人畏惧的女法师，甚至有实力挑战贾拉尔杜本人。
+it: Porta Albinia fino all'Altare del Teschio e ottieni il Libro delle Ombre.
+zh: 带阿尔比尼亚到骷髅祭坛，取得暗影之书。
+it: Albinia sopravvive all'estrema durezza di Kron. Il suo coraggio e la sua audacia smisurati la portano a conquistare l'Altare e a impadronirsi del Libro delle Ombre. In fondo al cuore comincia a nutrire un desiderio irrefrenabile di distruggere l'Impero di Arcania e vendicare così la morte di suo padre.
+zh: 阿尔比尼亚在克罗恩的极度艰苦中活了下来。她无畏的勇气与胆识使她夺取了祭坛，取得了暗影之书。心底里，她开始萌生一股无法遏制的渴望：摧毁阿尔卡尼亚帝国，为父亲之死复仇。
+it: La lotta disperata di Aerus non era stata inutile. Grazie alla resistenza del padre, Albinia ebbe il tempo di fuggire viva. Appresa la condanna a morte, capisce che non le resta altra via che fuggire da Arcania.\n\nBollata come maga rinnegata, disprezzata e perseguitata, Albinia vaga fino a raggiungere Kron, cupo rifugio di banditi e fuorilegge.
+zh: 埃鲁斯的拼死抵抗并非白费。靠着父亲的坚持，阿尔比尼亚才得以活着逃走。得知死刑判决后，她明白自己除了逃离阿尔卡尼亚别无他路。\n\n被指为叛教的女法师，遭人唾弃、追捕，阿尔比尼亚四处流浪，终于到了克罗恩——强盗与亡命徒的阴暗避难所。
+it: A volte ti sarà utile imparare gli incantesimi dei libri che trovi. (Per farlo, seleziona Albinia e, tenendo premuto il tasto Ctrl, fai clic destro sul libro di incantesimi.)
+zh: 有时学会你找到的书里的咒语会有用。（做法：选中阿尔比尼亚，按住 Ctrl 键，右键点击咒语书。）
+it: Una volta imparato l'incantesimo, potrai usarlo dalla scheda del personaggio o con le scorciatoie da tastiera. In quest'ultimo modo sarà molto più rapido neutralizzare il nemico. (Per esempio, se hai già imparato l'incantesimo Congelamento, seleziona Albinia e premi il tasto "Z".)
+zh: 学会咒语后，你可以从角色面板或键盘快捷键施放。用后者制敌要快得多。（例如，若你已学会冰冻咒，选中阿尔比尼亚并按「Z」键。）
+it: Recluta alcuni maghi nella torre magica per aiutare Albinia. Se li raggruppi con le scorciatoie da tastiera, potrai trovarli rapidamente per dare loro ordini. Per raggrupparli, seleziona i maghi e assegna loro un tasto numerico (Ctrl+tasto).
+zh: 在魔法塔里招募几名法师来帮助阿尔比尼亚。若用键盘快捷键给他们编队，就能迅速找到他们下达命令。编队方法：选中法师，给他们指定一个数字键（Ctrl+数字键）。
+it: Curare
+zh: 治疗
+it: Usa il posto di guardia per curare Albinia o le sue truppe. Una volta dentro, cominceranno a riprendersi.
+zh: 用哨站治疗阿尔比尼亚或她的部队。进去之后，他们就会开始恢复。
+it: Albinia è stata sconfitta.
+zh: 阿尔比尼亚被击败了。
+it: I fuorilegge si mettono al tuo servizio.
+zh: 亡命徒们为你效劳。
+it: Sei diventata il loro capo.
+zh: 你成了他们的首领。
+it: I banditi hanno pagato con la vita.
+zh: 强盗们以命相偿。
+it: I tuoi servitori sono caduti. Ora sei sola.
+zh: 你的仆从倒下了。现在你孤身一人。
+it: I fuorilegge si sottomettono alla tua volontà.
+zh: 亡命徒们屈服于你的意志。
+it: Banditi delle montagne!
+zh: 山里的强盗！
+it: Ci siamo sbarazzati della sua scorta. Meglio tornare all'accampamento. Se la strega ci segue fin lì, la faremo fuori.
+zh: 我们干掉了她的护卫。最好回营地去。要是那女巫跟到那儿，我们就做了她。
+it: Vigliacchi! Pagherete cara la morte dei miei servitori. I miei incantesimi basteranno a distruggervi...
+zh: 懦夫！你们要为我仆从的死付出大代价。我的咒语足以毁掉你们……
+it: Grazie per averci salvati, potente maga! Molto tempo fa i banditi hanno preso il villaggio e ci hanno fatti prigionieri, privandoci di acqua e di cibo.
+zh: 多谢你救了我们，强大的女法师！很久以前强盗占了村子，把我们抓起来，不给我们水和食物。
+it: Non temete. Ora siete in salvo... Forse adesso potete aiutarmi voi. Cerco Jaraldur, signore di Kron. Ho sentito dire che è il guerriero più feroce di tutto il territorio e che nessuno è mai riuscito a strappargli il bracciale del potere... Voglio presentarmi davanti a lui e sfidarlo.
+zh: 别怕。现在你们安全了……也许你们现在能帮我。我在找克罗恩之主贾拉尔杜。听说他是全境最凶悍的战士，从没有人能从他手上夺下权力手环……我要站到他面前挑战他。
+it: È una follia, signora. Jaraldur è invincibile e non ha mai avuto pietà di chi ha osato sfidare il suo potere... Ci dispiace, ma non possiamo aiutarvi.
+zh: 这是疯了，夫人。贾拉尔杜无可匹敌，对敢于挑战他力量的人从无怜悯……很抱歉，我们帮不了你。
+it: Non devi preoccuparti, buon uomo. Se mi darete aiuto, vi proteggerò sempre. Fidatevi di me.
+zh: 不必担心，好心人。若你肯帮我，我会永远保护你们。相信我。
+it: Ti prego, non sottopormi al potere dei tuoi incantesimi... Risparmiaci la vita e la mia spada sarà sempre al tuo servizio.
+zh: 求你，别对我用你的咒语……饶我们性命，我的剑将永远为你效劳。
+it: Sei una potente maga! Non avevo mai assistito a una simile dimostrazione di forza. D'ora in poi avrai in me e nei miei uomini i tuoi servitori più fedeli.
+zh: 你是强大的女法师！我从没见过这样的力量展示。从今往后，我和我的人将是你最忠心的仆从。
+
+# los dominios de la magia.wcm::maps/reino de terror
+it: Regno del terrore
+zh: 恐怖统治
+it: Fiduciosa nell'immenso potere degli incantesimi custoditi nel Libro delle Ombre, Albinia parte alla ricerca di Jaraldur, governatore di Kron e il più spietato dei guerrieri, con il fermo proposito di sfidarlo nel Torneo del Potere.
+zh: 阿尔比尼亚深信暗影之书中那些咒语的无穷力量，出发去寻找克罗恩的统治者、最冷酷的战士贾拉尔杜，决意在权力比武大会上挑战他。
+it: Villaggio
+zh: 村庄
+it: Kron
+zh: 克罗恩
+it: Necromante
+zh: 亡灵法师
+it: Oscuro
+zh: 黑暗
+it: Chiave
+zh: 钥匙
+it: Siena
+zh: 锡耶纳
+it: Rifugio
+zh: 避难所
+it: È giunta la mezzanotte. Non essendosi presentata in tempo, Albinia viene catturata e Jaraldur è dichiarato vincitore del torneo. La giovane maga passerà il resto dei suoi giorni come schiava.
+zh: 午夜已至。阿尔比尼亚未能及时到场，被擒，贾拉尔杜被宣布为比武的胜者。年轻的法师将在奴役中度过余生。
+it: Vittoria
+zh: 胜利
+it: Jaraldur crolla pesantemente a terra, ferito dai tuoi incantesimi. Albinia viene proclamata nuova governatrice di Kron.
+zh: 贾拉尔杜被你咒语所伤，重重倒在地上。阿尔比尼亚被宣布为克罗恩的新统治者。
+it: Conquista
+zh: 征服
+it: La tua prima decisione da governatrice è guidare un saccheggio delle terre dell'Impero a nord, oltre il fiume, per conquistare terre, ricchezze e ingrossare il tuo esercito di non morti.\n\nUsa le navi, costruisci ponti o cerca un mezzo magico alternativo, e semina il terrore.
+zh: 作为统治者的第一个决定，是领人掠夺河对岸帝国北方的土地，夺取土地与财富，扩充你的亡灵大军。\n\n用船、架桥，或另寻魔法手段，散播恐怖。
+it: Saccheggio
+zh: 掠夺
+it: Sarebbe anche una buona idea avviare un commercio marittimo e terrestre con cui rifornire di risorse l'economia del tuo giovane regno.\n\nLa tua missione consiste nel conquistare i quattro castelli del nemico e ottenere 3.000 unità d'oro.
+zh: 与海陆两路通商，为你这个年轻王国的经济补给资源，也是个好主意。\n\n你的任务是夺取敌人的四座城堡，并积攒 3000 单位黄金。
+it: Conquista i quattro castelli del nemico e ottieni 3.000 unità d'oro.
+zh: 夺取敌人的四座城堡，并积攒 3000 单位黄金。
+it: Strappa la Spada ai Negromanti oscuri che abitano a nord e presentati con essa nella Sala dello Scheletro prima della mezzanotte.
+zh: 从北方黑暗的亡灵法师手中夺下那把剑，并在午夜之前带它到骷髅大厅。
+it: Sconfiggi Jaraldur.
+zh: 击败贾拉尔杜。
+it: Hai saccheggiato tutta la regione dell'Impero e hai ottenuto le ricchezze che volevi!\nTi proclami Governatrice di Kron.
+zh: 你掠夺了帝国整个地区，得到了你想要的财富！\n你自封为克罗恩的统治者。
+it: La leggenda delle imprese di Albinia si diffonde in ogni angolo della regione. Fuorilegge, banditi, maghi rinnegati... nessuno sfugge all'ammirazione per i poteri magici soprannaturali della giovane. E sono migliaia i seguaci che, senza esitare, si uniscono alla sua causa.\n\nFiduciosa nell'immenso potere degli incantesimi custoditi nel Libro delle Ombre, Albinia parte alla ricerca di Jaraldur, governatore di Kron e il più spietato dei guerrieri, con il fermo proposito di sfidarlo nel Torneo del Potere.\n\nTuttavia, per la prima volta da molto tempo, un brivido le attraversa l'anima... Albinia sa che il fallimento porta inevitabilmente alla morte.
+zh: 阿尔比尼亚事迹的传说传遍这一地区每个角落。亡命徒、强盗、叛教的法师……无人不为这位年轻女子超乎常人的魔法力量所折服。成千上万的追随者毫不犹豫地加入她的事业。\n\n阿尔比尼亚深信暗影之书中那些咒语的无穷力量，出发去寻找克罗恩的统治者、最冷酷的战士贾拉尔杜，决意在权力比武大会上挑战他。\n\n然而，许久以来第一次，一阵寒颤穿过她的心灵……阿尔比尼亚知道，失败必然意味着死亡。
+it: Affrettati! La mezzanotte si avvicina.
+zh: 快！午夜将近。
+it: Resta appena il tempo per presentarsi all'appuntamento. Affrettati, o preparati a servire come schiava per il resto dei tuoi giorni!
+zh: 只剩勉强赶到约会的时间了。快，否则就准备余生为奴吧！
+it: I tuoi generali ti consigliano che questo è il momento propizio, perché molte risorse si stanno consumando nella guerra civile dell'Impero, lasciando la regione poco difesa.\n\nUsa il tuo incantesimo Visione magica per trovare rapidamente i castelli.
+zh: 你的将领建议，时机正好：帝国的内战消耗了大量资源，这一地区守备薄弱。\n\n用你的魔法视觉咒快速找到那些城堡。
+it: Punizione
+zh: 惩罚
+it: Hai infranto le sacre regole del Torneo. Ti avevo avvertita che dovevi entrare da sola e senza servirti di trucchi o oggetti magici. Pagherai con la vita...
+zh: 你违反了比武的神圣规则。我警告过你，必须独自进入，不得借助诡计或魔法器物。你要以命相偿……
+it: Skull è stato ferito nello scontro. Benché indebolito dalle ferite, si riprenderà presto.
+zh: 斯卡尔在战斗中受伤了。虽因伤而虚弱，他很快会恢复。
+it: Banshee è stato ferito in battaglia. Benché indebolito dalle ferite, si riprenderà per la prossima battaglia.
+zh: 班希在战斗中受伤了。虽因伤而虚弱，他会在下一场战斗前恢复。
+it: Jaraldur è stato ferito in battaglia. Benché indebolito dalle ferite, si riprenderà per servire la sua nuova signora.
+zh: 贾拉尔杜在战斗中受伤了。虽因伤而虚弱，他会恢复过来，侍奉他的新主人。
+it: Bandim è stato ferito in battaglia. Benché indebolito dalle ferite, si riprenderà per la prossima battaglia.
+zh: 班迪姆在战斗中受伤了。虽因伤而虚弱，他会在下一场战斗前恢复。
+it: In virtù degli antichi riti che governano Kron, Jaraldur consegna ad Albinia il Bracciale del Drago, simbolo del dominio assoluto su tutte le terre e del potere sui loro eserciti.\n\nColma di gloria, Albinia sente una voce risuonare sempre più forte dentro di sé, spingendola a sfogare la sua sete di vendetta sull'Impero di Arcania.
+zh: 依照统治克罗恩的古老仪式，贾拉尔杜把巨龙手环交给阿尔比尼亚——它是统辖全部土地、号令其军队的绝对权力的象征。\n\n满怀荣耀，阿尔比尼亚听见一个声音在体内越来越响，催她把复仇的渴望倾泻到阿尔卡尼亚帝国身上。
+it: Albinia è stata assassinata.
+zh: 阿尔比尼亚被刺杀了。
+it: Uno dei villaggi dell'Impero è stato saccheggiato dalle tue truppe.
+zh: 帝国的一座村庄被你的部队掠夺了。
+it: Gli abitanti catturati ingrosseranno le file del tuo esercito.
+zh: 被俘的村民将充实你军队的队列。
+it: La distruzione e le grida di guerra ti rimbombano nelle orecchie.
+zh: 毁灭与战吼在你耳中回响。
+it: I predoni di Kron sono stati sconfitti.
+zh: 克罗恩的掠夺者被击败了。
+it: Le tue truppe sono state annientate.
+zh: 你的部队被歼灭了。
+it: Jaraldur è morto.
+zh: 贾拉尔杜死了。
+it: Gli abitanti fuggono terrorizzati davanti al tuo potere.
+zh: 村民在你的力量面前惊恐逃走。
+it: Alt! Può passare solo la maga.
+zh: 站住！只有女法师可以通过。
+it: Va bene. Restate qui e tenete gli occhi aperti.
+zh: 好吧。你们留在这里，睁大眼睛。
+it: Salute, Albinia. Le tue imprese magiche ti precedono ovunque tu vada. Che cosa ti porta nei miei domini?
+zh: 问安，阿尔比尼亚。你的魔法事迹传遍你所到之处。是什么让你来到我的领地？
+it: Vengo a sfidarti nel Torneo del Potere.
+zh: 我来在权力比武大会上挑战你。
+it: Credo che il freddo di questo rigido inverno ti abbia annebbiato la mente...\nImmagino tu sappia che chiunque abbia osato sfidarmi nel Torneo del Potere è caduto sotto la mia spada... Che cosa ti fa pensare che avrei pietà di una maga, per quanto bella?
+zh: 我看这严寒的冬天冻坏了你的脑子……\n我想你知道，凡是胆敢在权力比武大会上挑战我的人，都倒在我的剑下……你凭什么以为我会对一个女法师手下留情，哪怕她再美？
+it: Risparmiati le chiacchiere, Jaraldur. Conosco le leggi di Kron. So che la tua sconfitta mi renderà la nuova governatrice e che tutti i tuoi eserciti passeranno a me.
+zh: 少说废话，贾拉尔杜。我懂克罗恩的律法。我知道你败了，我就会成为新的统治者，你所有的军队都会归我。
+it: Non so se sei molto coraggiosa o se hai perso il senno, Albinia. Il tuo affronto merita un trattamento speciale. Se perdi, non ti toglierò la vita... sarai soltanto la mia schiava per il resto dei tuoi giorni. Accetti le condizioni del nostro... scontro?
+zh: 我不知道你是极其勇敢还是失了理智，阿尔比尼亚。你的无礼该受特别对待。你若输了，我不会取你性命……你只需余生做我的奴隶。你接受我们这场……决斗的条件吗？
+it: Sono pronta ad assumermi tutte le conseguenze. Non ho niente da perdere. Mi dispiace, Jaraldur, ma credo che te ne pentirai...
+zh: 我准备承担一切后果。我没有什么可失去的。抱歉，贾拉尔杜，我想你会后悔……
+it: Ah, ah, ah... Le regole del Torneo sono chiare: per sfidarmi devi prima sconfiggere i tre negromanti che abitano a nord, sull'altra riva del fiume. Dovrai strappare loro la Spada della Sala dello Scheletro, il luogo sacro dove si terrà il torneo. Ricorda che devi presentarti all'appuntamento prima di mezzanotte. Una volta tornata alla mia fortezza, dirigiti alla Sala. Ti aspetterò. E ricorda: devi entrare da sola! Una volta tornata alla mia fortezza, dirigiti alla Sala, ma ricorda: devi entrare da sola!
+zh: 哈，哈，哈……比武的规则很清楚：要挑战我，你得先击败住在河北岸北方的三个亡灵法师。你要从他们手中夺下骷髅大厅之剑——比武将在那座圣地举行。记住，你必须在午夜之前到场。回到我的要塞后，就去大厅。我会等你。记住：你必须独自进入！回到我的要塞后，就去大厅，但记住：你必须独自进入！
+it: Così farò.
+zh: 我会的。
+it: Che notizie porti, mia signora?
+zh: 有什么消息，夫人？
+it: Jaraldur ha accettato la sfida, ma prima devo sconfiggere i negromanti oscuri del nord. Mettiamoci in cammino! Dobbiamo tornare prima di mezzanotte.
+zh: 贾拉尔杜接受了挑战，但我得先击败北方的黑暗亡灵法师。我们上路吧！必须在午夜前赶回。
+it: Suggerisco di esplorare il territorio. So che Jaraldur nasconde gelosamente preziosi oggetti magici. Se ce ne impadroniamo potrai usarli a tuo vantaggio nel Torneo.
+zh: 我建议探查这片土地。我知道贾拉尔杜把珍贵的魔法器物藏得很紧。若我们夺到手，你就能在比武中用来对付他。
+it: Così hai osato venire... Devo riconoscere che hai coraggio... O forse è follia? Peccato che la tua leggenda finisca qui...
+zh: 你竟敢来……我得承认你有胆量……还是说这是疯狂？可惜你的传说到此为止……
+it: Maledizione, mi hai sconfitto! Non avrei mai pensato che... Ti ho sottovalutata e pagherò il mio errore. Mi inchino davanti a te, potente maga. Il bracciale del potere ti appartiene. Sarò il tuo fedele servitore.
+zh: 该死，你打败了我！我从没想到……我低估了你，要为这个错误付出代价。我在你面前低头，强大的女法师。权力手环归你了。我愿做你忠心的仆从。
+it: Benvenuta, Albinia... Ti aspettavamo con impazienza. I nostri esploratori ci hanno avvertiti del tuo arrivo.
+zh: 欢迎，阿尔比尼亚……我们一直在等你。我们的斥候已通报你的到来。
+it: Salute, negromante. Vengo a reclamare il mio diritto a sfidare Jaraldur nel Torneo del Potere. Consegnatemi la spada e vi lascerò vivere!
+zh: 问安，亡灵法师。我来讨要我在权力比武大会上挑战贾拉尔杜的权利。把剑交给我，我就饶你们性命！
+it: Non così in fretta... Dimostra di meritare un simile privilegio!
+zh: 别急……先证明你配得上这样的特权！
+
+# los dominios de la magia.wcm::maps/la traición
+it: Il tradimento
+zh: 背叛
+it: Una banda di guerrieri, corrotti da Ignatar, ha tradito Albinia e le ha rubato il Bracciale del Potere.\n\nFuriosa, la giovane maga raduna i suoi guerrieri più agguerriti e si lancia all'inseguimento dei ladri attraverso il deserto dello Scorpione.
+zh: 一队被伊格纳塔收买的武士背叛了阿尔比尼亚，偷走了她的权力手环。\n\n年轻的法师怒不可遏，召集最骁勇的战士，穿过天蝎沙漠追赶盗贼。
+it: Seguace
+zh: 追随者
+it: Fortezza
+zh: 要塞
+it: Traditori
+zh: 叛徒
+it: Recupera il Bracciale del Potere ed elimina i traditori. Poi fuggi fino all'estremità sud della mappa. Albinia deve sopravvivere.
+zh: 找回权力手环，除掉叛徒。然后逃到地图最南端。阿尔比尼亚必须存活。
+it: Pondera con cura le tue decisioni e non lasciarti ingannare dalle apparenze. A volte l'ovvio può essere una trappola mortale.
+zh: 慎重权衡你的决定，不要被表象所骗。有时显而易见的东西可能是致命的陷阱。
+it: Albinia è caduta in battaglia.
+zh: 阿尔比尼亚在战斗中倒下了。
+it: Un brivido improvviso interrompe il sonno di Albinia in una notte d'inverno. Una banda di guerrieri, corrotti da Ignatar, ha appena tradito la sua fiducia, sottraendole il Bracciale del Potere.\n\nFuriosa, Albinia raduna i suoi guerrieri più agguerriti e si lancia all'inseguimento dei ladri attraverso il deserto dello Scorpione. Dopo una lunga traversata, le sue forze stanno per raggiungere i traditori, che cercano rifugio negli isolotti che spuntano nell'oasi di Nidel...
+zh: 一个冬日夜里，一阵突如其来的寒颤打断了阿尔比尼亚的睡眠。一队被伊格纳塔收买的武士刚刚背叛了她的信任，夺走了她的权力手环。\n\n阿尔比尼亚怒不可遏，召集最骁勇的战士，穿过天蝎沙漠追赶盗贼。长途跋涉之后，她的部队即将追上那些叛贼——他们正想在尼德尔绿洲中露出水面的小岛上避难……
+it: I tuoi sensi magici ti avvertono che un potente esercito si sta dirigendo qui, senza dubbio per impadronirsi del Bracciale del Potere. Devi affrettarti: si trova a soli cinque giorni di distanza.
+zh: 你的魔法感官警告你，一支强大的军队正朝这里开来，无疑是为了夺取权力手环。你必须赶快：它只有五天的路程。
+it: Il capo dei traditori è caduto. Assicurati di aver eliminato tutti gli altri membri del gruppo. Le loro vesti gialle li tradiscono.
+zh: 叛徒的首领倒下了。务必确认已除掉队中其余的人。他们的黄衣会暴露他们。
+it: È passato un giorno...
+zh: 一天过去了……
+it: Sono passati due giorni da quando Albinia ha avvertito l'avvicinarsi dell'esercito di Arcania...
+zh: 阿尔比尼亚感到阿尔卡尼亚的军队逼近，已过去两天……
+it: L'esercito di Arcania si trova a un solo giorno di distanza. Affrettati!
+zh: 阿尔卡尼亚的军队只有一天路程了。快！
+it: Gli eserciti di Ignatar sono arrivati nella regione: ogni possibilità di recuperare il Bracciale del Potere è svanita.
+zh: 伊格纳塔的军队已到达这一地区：夺回权力手环的机会全部落空。
+it: Albinia si trova molto vicina alla fortezza di Nidel. I maghi della torre ovest tengono nascosto il Bracciale dentro il libro della Resurrezione. La fortezza è molto ben difesa e un attacco diretto sarebbe un suicidio. Forse dall'alto, o con un gruppo di soldati esperti nell'arte di passare inosservati, avremo una possibilità.
+zh: 阿尔比尼亚已非常接近尼德尔要塞。西塔的法师把手环藏在《复活》书里。要塞防御极强，直接进攻等于自杀。也许从空中，或派一队擅长潜行的士兵，我们还有机会。
+it: Sono trascorsi tre giorni...
+zh: 三天过去了……
+it: I ladri sono arrivati alla fortezza di Nidel e hanno consegnato il Bracciale del Potere agli stregoni della torre nord-ovest. Grazie alla sua visione magica, la giovane Albinia può vedere il Bracciale nascosto dentro un libro della Resurrezione, con l'intenzione di celarle la sua presenza.
+zh: 盗贼们已到达尼德尔要塞，把权力手环交给了西北塔的法师。靠着魔法视觉，年轻的阿尔比尼亚能看到手环藏在一本《复活》书里，那是为了不让她发现。
+it: Dopo una cruenta lotta con gli stregoni della fortezza di Nidel, Albinia recupera l'agognato Bracciale. Tuttavia, l'esercito di Arcania si avvicina al campo di battaglia, deciso a porre fine alle imprese della giovane maga. Senza tempo per riposare, Albinia e i suoi guerrieri sfiniti si dirigono verso la Gola della Morte, nella speranza di sfuggire a questa nuova minaccia...
+zh: 与尼德尔要塞的法师血战之后，阿尔比尼亚夺回了那副手环。然而，阿尔卡尼亚的军队逼近战场，决意终结这位年轻法师的功业。没有时间休息，阿尔比尼亚和她精疲力竭的战士向死亡峡谷进发，希望能躲开这新的威胁……
+it: Obiettivi
+zh: 目标
+it: Skull, che conosce bene questo territorio, informa Albinia che a est ci sono diverse isole con risorse sufficienti per costruire nuovi ponti.
+zh: 斯卡尔熟悉这片土地，他告诉阿尔比尼亚，东边有几座岛，资源足够架设新桥。
+it: Elimina tutti i traditori. Albinia deve sopravvivere.
+zh: 除掉所有叛徒。阿尔比尼亚必须存活。
+it: Albinia e il suo gruppo sono stati sconfitti.
+zh: 阿尔比尼亚和她的队伍被击败了。
+it: Della fortezza non hai lasciato pietra su pietra.
+zh: 要塞已被你夷为平地。
+it: Tutti i ladri sono stati giustiziati e hanno pagato il loro tradimento.
+zh: 所有盗贼都被处决，为他们的背叛付出了代价。
+it: Maledetti ladri! Hanno il bracciale del potere sul carro. Non lasciate che attraversino il ponte! Fermateli.
+zh: 该死的盗贼！权力手环在车上。别让他们过桥！拦住他们。
+it: Presto, attraversate! Le schiere di Albinia stanno per raggiungerci! Abbattete il ponte! Solo così potremo liberarci di loro.
+zh: 快，过去！阿尔比尼亚的大军就要追上我们了！把桥弄塌！只有这样才甩得掉他们。
+it: Vi annienterò! Non avrò pietà degli adoratori di Ignatar.
+zh: 我要把你们歼灭！我不会怜悯伊格纳塔的信徒。
+it: Attenzione! Hanno abbattuto il ponte! Presto, cerchiamo un'altra strada... Non devono fuggire! Per fortuna ho potuto lanciare un incantesimo di localizzazione. Per un po' sapremo dove si trovano.
+zh: 小心！他们把桥弄塌了！快，另找一条路……不能让他们逃了！幸好我施了个定位咒。一段时间内我们知道他们在哪儿。
+it: Mmm, credo che si dirigano verso la fortezza di Nidel... Quel gruppo di isole nasconde più di una sorpresa. Dovremo scegliere con molta cura la strada giusta. Userò l'incantesimo Visione magica per individuare le isole che hanno le risorse necessarie per costruire nuovi ponti.
+zh: 嗯，我想他们正往尼德尔要塞去……那片群岛藏着不止一个意外。我们得非常小心地选对路。我用魔法视觉咒找出那些有架桥所需资源的岛。
